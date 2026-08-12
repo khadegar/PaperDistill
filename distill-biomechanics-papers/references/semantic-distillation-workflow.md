@@ -40,6 +40,39 @@ Build a deterministic, auditable set that:
 
 Use staged coverage. Start with a cross-domain batch, inspect selection errors, then extend the same versioned sample. Do not imply that a 45- or 90-paper semantic batch represents 10,000 model-read papers.
 
+### Verified PDF-to-Markdown reading material
+
+When the selected corpus has a verified MinerU production export, run
+`prepare_mineru_semantic_packets.py` before assigning the affected pending rows.
+The command defaults to dry-run and must use the production PDF manifest (the
+same hashes and input-kind labels used by the converter), not an older download
+ledger. It verifies the Markdown hash, current PDF bytes, converter input hash,
+reference boundary, text density, repeated body text, block closure, and packet
+locator sequence. HTML/Markdown tables, display equations, captions, images,
+and image-OCR details remain atomic reading blocks; unavailable visuals are
+declared in packet provenance.
+
+Migration is mechanical only: it may replace the source and packet hashes of a
+pending skeletal card, but it must not add semantic fields or change the card to
+completed. Completed cards, active leases, checkpoints, and pending overlays are
+frozen. If the benchmark input was a JATS-rendered PDF surrogate, retain the
+existing JATS packet rather than round-tripping it through OCR. Keep the
+append-only migration ledger outside the Skill and report migrated packets
+separately from fully read/completed cards.
+
+Commit PDF-derived packets in bounded batches of at most 100 papers. The
+migrator must hold the same state lock as the Luna lease manager, finish the
+entire batch preflight before its first corpus write, and use a durable
+roll-forward transaction journal containing old and new hashes for every target.
+An uncommitted transaction reserves all of its PMCIDs from new Luna claims. If
+recovery encounters an active lease, overlay, draft, checkpoint, or an
+unexplained hash state, stop and audit the journal rather than overwriting it.
+
+Each rendered source block carries its MinerU block type, source-line interval,
+and quality flags. These mechanical locators make later semantic review
+auditable; they are not claim-level citation locators and do not recover visual
+content that the reader could not inspect.
+
 ## 3. Read and annotate each paper
 
 Read every non-reference chunk in the selected packet. Complete one card based on `assets/semantic-card-template.json`.

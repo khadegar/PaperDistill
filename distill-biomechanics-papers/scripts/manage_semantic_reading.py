@@ -405,10 +405,37 @@ def verify_row(
     return result
 
 
+def prepared_migration_ids(sd: Path) -> tuple[set[str], bool]:
+    """Return PMCID identities held by uncommitted packet migrations."""
+
+    ids: set[str] = set()
+    unreadable = False
+    transaction_root = sd / "migration" / "transactions"
+    if transaction_root.exists():
+        for manifest_path in transaction_root.glob("*/transaction.json"):
+            try:
+                transaction = read_json_object(manifest_path)
+            except ManagerError:
+                unreadable = True
+                continue
+            if text_value(transaction.get("status")).casefold() == "committed":
+                continue
+            ids.update(
+                text_value(value).upper()
+                for value in (transaction.get("pmcids") if isinstance(transaction.get("pmcids"), list) else [])
+            )
+    return ids, unreadable
+
+
 def verify_pending_material(snapshot: CorpusSnapshot, row: ReadingRow) -> list[str]:
     """Verify immutable source/packet material before a pending row is leased."""
 
     issues: list[str] = []
+    transaction_ids, transaction_unreadable = prepared_migration_ids(snapshot.sd)
+    if transaction_unreadable:
+        issues.append("migration_transaction_unreadable")
+    if row.pmcid in transaction_ids:
+        issues.append("migration_transaction_prepared")
     row_source_hash = text_value(row.row.get("source_record_sha256") or row.row.get("source_hash")).casefold()
     source_value = text_value(row.row.get("record_path") or row.row.get("source_record"))
     if not row_source_hash or not source_value:

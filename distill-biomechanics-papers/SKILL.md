@@ -213,6 +213,7 @@ python scripts/manage_fulltext_corpus.py replace-failures --root <EXTERNAL_CORPU
 python scripts/distill_large_corpus.py --root <EXTERNAL_CORPUS_DIR>
 python scripts/run_corpus_pipeline.py --root <EXTERNAL_CORPUS_DIR>
 python scripts/prepare_semantic_distillation.py --root <EXTERNAL_CORPUS_DIR> --per-stratum 5 --card-stubs
+python scripts/prepare_mineru_semantic_packets.py --root <EXTERNAL_CORPUS_DIR> --mineru-export <MINERU_EXPORT_DIR> --pdf-manifest <PRODUCTION_PDF_MANIFEST.jsonl> --pdf-root <LOCAL_PDF_ROOT> --offset <N> --limit 100 --write
 python scripts/assemble_semantic_cards.py --root <EXTERNAL_CORPUS_DIR> --all
 python scripts/validate_semantic_distillation.py --root <EXTERNAL_CORPUS_DIR> --strict
 python scripts/manage_semantic_reading.py status --root <EXTERNAL_CORPUS_DIR> --json

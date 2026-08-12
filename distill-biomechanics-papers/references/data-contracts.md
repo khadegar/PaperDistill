@@ -237,6 +237,21 @@ Keep model-reading artifacts under the external corpus, not inside the Skill:
 
 Use `scripts/prepare_semantic_distillation.py` to create unannotated packets and selection metadata. Use `assets/semantic-card-template.json` for the per-paper card. A packet is reading material, not evidence that a model read the paper. Mark a paper as semantically read only when its card has `reading.status: completed`, packet and source hashes match, all substantive chunk locators are accounted for, and structural validation passes.
 
+For a pending row migrated from a verified PDF conversion, `record_path` may
+identify the preferred MinerU Markdown outside the corpus root, and
+`source_record_sha256` is the SHA-256 of those Markdown bytes. Record the PDF
+path/hash, converter mode, source format, prior JATS path/hash, unavailable
+visuals, and quality flags in packet/card provenance. The production PDF
+manifest hash must equal both the current PDF bytes and the converter's recorded
+input hash. This migration never constitutes semantic reading and never writes
+the semantic roots of a card.
+
+The packet records a packet-builder schema version and each chunk's source-line
+span, block types, flags, and word count. Card provenance also records the
+MinerU version/profile and parser quality flags. Migration transactions are
+bounded to at most 100 papers and retain a durable manifest with old/new hashes;
+uncommitted transaction PMCIDs are not eligible for Luna claims.
+
 Store these provenance fields in every card:
 
 - `paper_id`, `pmcid`, and `source_record_sha256`;

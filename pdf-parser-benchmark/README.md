@@ -36,6 +36,26 @@ powershell -NoProfile -ExecutionPolicy Bypass -File server\run_guarded_batch.ps1
 Create `runs\controller\pilot-pilot-all.stop` to stop it between attempts.
 Controller state and per-attempt output are written under `runs\controller`.
 
+## Optional 10k semantic-packet handoff
+
+The production MinerU export remains separate from semantic interpretation.
+After Markdown is synced and hash-verified, the local watcher can mechanically
+prepare pending Luna reading packets in transactions of at most 100 papers:
+
+```powershell
+python scripts\watch_semantic_packet_migration.py --write `
+  --interval-seconds 300 --batch-size 100 --max-batches-per-cycle 5
+```
+
+The watcher is single-instance, uses the semantic lease manager's shared lock,
+freezes completed cards and active reading materials, and stops on unexplained
+hash or recovery conflicts. Each committed batch is checked against the PDF
+manifest, MinerU input/output hashes, packet locators, pending cards, transaction
+journal, and global structural validator. Passing this handoff means only that
+the reading material is ready; it does not mark a paper as read or create any
+semantic fields. Luna Max must still read every declared chunk and complete the
+card under the corpus reading protocol.
+
 The local selector snapshots Zotero metadata read-only, hashes every selected
 PDF and JATS source, and stages only the 50 benchmark papers plus five reserve
 papers.  The remote runner processes one PDF at a time, samples GPU/RAM usage,
