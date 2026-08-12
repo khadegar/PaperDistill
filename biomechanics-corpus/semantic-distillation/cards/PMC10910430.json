@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10910430",
+  "paper_id": "doi:10.3389/fbioe.2024.1273541",
+  "pmcid": "PMC10910430",
+  "source_record_sha256": "bf60f5380cdb0114a1465548d2421a9cf2b5f7dfac2029c6fc2342fc140ae30a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "94c816e660740f4b9fd20598f53f1837d97acb0fc840e37f0a8c88218792d15b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication and properties of PLA/β-TCP scaffolds using liquid crystal display (LCD) photocuring 3D printing for bone tissue engineering",
+    "authors": "Wang B, Ye X, Chen G, Zhang Y, Zeng Z, Liu C, Tan Z, Jie X.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1273541",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9585254",
+  "paper_id": "doi:10.3389/fimmu.2022.1001526",
+  "pmcid": "PMC9585254",
+  "source_record_sha256": "c9119f9782976c9a0b9c4d9a6a2727171b92e7454dcbc34756275b15f615344f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ba726eb81d731368643d63f11936ca8e3b6886a36f0d54b0cdbd9241cd28ff31",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed Ti-5Cu alloy accelerates osteogenic differentiation of MC3T3-E1 cells by stimulating the M2 phenotype polarization of macrophages",
+    "authors": "Zhao X, Zhou X, Sun H, Shi H, Song Y, Wang Q, Zhang G, Xu D.",
+    "year": 2022,
+    "journal": "Frontiers in Immunology",
+    "doi": "10.3389/fimmu.2022.1001526",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

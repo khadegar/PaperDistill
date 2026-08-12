@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5491997",
+  "paper_id": "doi:10.3390/jfb8020016",
+  "pmcid": "PMC5491997",
+  "source_record_sha256": "ac02922e2818ffadc6e19fafa6be8c4ba7aad1ec368d5756efc53cf204dc5ee0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9584baf4235f581e5bf5f2b3f1430e0904094177d97ee9579d786f0cf8e44e66",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced Osseointegration of a Modified Titanium Implant with Bound Phospho-Threonine: A Preliminary In Vivo Study",
+    "authors": "Okazaki Y, Doi K, Oki Y, Kobatake R, Abe Y, Tsuga K.",
+    "year": 2017,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb8020016",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

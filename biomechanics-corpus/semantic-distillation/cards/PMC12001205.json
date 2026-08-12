@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12001205",
+  "paper_id": "doi:10.1021/acsbiomaterials.4c02409",
+  "pmcid": "PMC12001205",
+  "source_record_sha256": "91c68e93d3ab6ec673f165fec77fd62d0538c7a32ce04c2fee2b61c5fb0a1d03",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "da9fefb9318aae97e2c4aebb0f00381371b2c4926b8fab1fb652d323ee95c096",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed PEG–PLA/Gelatin Hydrogel: Characterization toward In Vitro Chondrocyte Redifferentiation",
+    "authors": "Sonthithai P, Kaewkong P, Channasanon S, Tanodekaew S.",
+    "year": 2025,
+    "journal": "ACS Biomaterials Science & Engineering",
+    "doi": "10.1021/acsbiomaterials.4c02409",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

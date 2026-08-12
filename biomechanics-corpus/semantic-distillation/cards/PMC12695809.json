@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12695809",
+  "paper_id": "doi:10.3389/fbioe.2025.1707380",
+  "pmcid": "PMC12695809",
+  "source_record_sha256": "c2682f7e349b6ccb9ec01055d4c3a67c2dc3f62bb2e4ca65b06403e9da5ff92a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f035acefc29ec67fee2bd2edf60f0bee28185504d2fe40d4f6e423bb05a99da1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Synthetic 3D printed tibial plateau with gradient material properties for biomechanical accuracy",
+    "authors": "Coato D, Dolino G, Berardo A, Belluzzi E, Pozzuoli A, Ruggieri P, Carniel EL, Gargiulo P.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1707380",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

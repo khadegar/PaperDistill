@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9002955",
+  "paper_id": "doi:10.3390/polym14071376",
+  "pmcid": "PMC9002955",
+  "source_record_sha256": "308ee4eeadb7c6da0c7df355c53ca9a161043c251eacdb7d8f08471c35dd5735",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d72dc7b0ad16eb547057217cc6872f042945f032bdb458a43851d769f5c53a5e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed Strontium and Zinc Doped Hydroxyapatite Loaded PEEK for Craniomaxillofacial Implants",
+    "authors": "Manzoor F, Golbang A, Dixon D, Mancuso E, Azhar U, Manolakis I, Crawford D, McIlhagger A, Harkin-Jones E.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14071376",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

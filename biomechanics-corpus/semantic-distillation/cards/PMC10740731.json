@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10740731",
+  "paper_id": "doi:10.3390/biology12121474",
+  "pmcid": "PMC10740731",
+  "source_record_sha256": "d737971cb3f866e6e2c1a133662e22d8f3be2117ee734e48e12d7628fff297f3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6308a9d44ba3ea9a62f84cf6b03aa637a2e0b230ac5784c4c942fb7b3487e26b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multipotent Mesenchymal Cells Homing and Differentiation on Poly(ε-caprolactone) Blended with 20% Tricalcium Phosphate and Polylactic Acid Incorporating 10% Hydroxyapatite 3D-Printed Scaffolds via a Commercial Fused Deposition Modeling 3D Device",
+    "authors": "De Angelis N, Amaroli A, Lagazzo A, Barberis F, Zarro PR, Cappelli A, Sabbieti MG, Agas D.",
+    "year": 2023,
+    "journal": "Biology",
+    "doi": "10.3390/biology12121474",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

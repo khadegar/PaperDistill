@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9780478",
+  "paper_id": "doi:10.3389/fbioe.2022.1059003",
+  "pmcid": "PMC9780478",
+  "source_record_sha256": "4d291910732693fe4f16defe387d2382f3c36753b4dff619c93aa8504156e67d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e8b1ee39b32fc223a4f3c2d5bef3c307c6fb9a1ccf10edd603b6fa317353f83f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Robust automatic hexahedral cartilage meshing framework enables population-based computational studies of the knee",
+    "authors": "Gibbons KD, Malbouby V, Alvarez O, Fitzpatrick CK.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1059003",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

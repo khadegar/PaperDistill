@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8388631",
+  "paper_id": "doi:10.3390/antibiotics10080919",
+  "pmcid": "PMC8388631",
+  "source_record_sha256": "40ac4c7e3d0bd5e6622f5587f7bf04992b531b2e083ed3a26917fd9188488ad2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e0b0ba7d9f3b86d46607b0621aa168a4c2436a211332ed829f4cde8cd71027bb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Methods of Topical Administration of Drugs and Biological Active Substances for Dental Implants—A Narrative Review",
+    "authors": "Wychowański P, Starzyńska A, Adamska P, Słupecka-Ziemilska M, Sobocki BK, Chmielewska A, Wysocki B, Alterio D, Marvaso G, Jereczek-Fossa BA, Kowalski J.",
+    "year": 2021,
+    "journal": "Antibiotics",
+    "doi": "10.3390/antibiotics10080919",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

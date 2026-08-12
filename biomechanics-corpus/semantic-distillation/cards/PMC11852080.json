@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11852080",
+  "paper_id": "doi:10.3390/bioengineering12020178",
+  "pmcid": "PMC11852080",
+  "source_record_sha256": "33fb7ae765c688c9e496137fd5d3da8b33e2d436cafa1400a2c9e73a784da219",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "be308c6c16a1e8421259f83f294176396b2da0b11782902b1e3976651e2be2be",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Remodeling and Marginal Bone Loss of Simplified Versus Conventional Drilling: A Randomized Clinical Trial",
+    "authors": "Ruiz García A, Lijnev A, Soleymani F, Elango J, Maté Sánchez de Val JE, Pérez-Albacete Martínez C.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12020178",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

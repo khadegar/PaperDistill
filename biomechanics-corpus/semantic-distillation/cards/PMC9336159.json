@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9336159",
+  "paper_id": "doi:10.3389/fbioe.2022.933341",
+  "pmcid": "PMC9336159",
+  "source_record_sha256": "39b870f76837e85bea01dd651bca74076cad13234417c0daf593bc66ddf31b84",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "12191ab85094a5b0e77f902f9df094a831ed3e8de6aa41e7236e5294118ffe36",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Kinematic and biomechanical responses of the spine to distraction surgery in children with early onset scoliosis: A 3-D finite element analysis",
+    "authors": "Pei B, Lu D, Wu X, Xu Y, Ma C, Wu S.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.933341",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12788088",
+  "paper_id": "doi:10.3390/s26010149",
+  "pmcid": "PMC12788088",
+  "source_record_sha256": "bdb098bc82c2256c5d9d64f44ad68e6da413b504dfffdc9d59c45db4d1ffdd02",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6af2945e08ab11b26538722e3b395bd9da431e3f20342adcd3e878f6423aed32",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis of an Elite Para Standing Cross-Country Skier Using Lower Limb Prostheses: A Case Study",
+    "authors": "De Vito C, Pasluosta C, Ofner P, Hirsch L, Mrachacz-Kersting N, Kersting U, Stieglitz T, Rapp W, Gastaldi L.",
+    "year": 2025,
+    "journal": "Sensors (Basel, Switzerland)",
+    "doi": "10.3390/s26010149",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

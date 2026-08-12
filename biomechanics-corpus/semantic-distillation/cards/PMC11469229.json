@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11469229",
+  "paper_id": "doi:10.1002/adhm.202201830",
+  "pmcid": "PMC11469229",
+  "source_record_sha256": "03da2119864e913533f2dab457fd937847ba749c32b185b5bc8551bb89c38cf4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6ead58788a6c847bf47b05468866233e70f66e7b8e8db2af2fba3386626f17fc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Novel Computational Biomechanics Framework to Model Vascular Mechanopropagation in Deep Bone Marrow",
+    "authors": "Zhao YC, Zhang Y, Jiang F, Wu C, Wan B, Syeda R, Li Q, Shen B, Ju LA.",
+    "year": 2023,
+    "journal": "Advanced Healthcare Materials",
+    "doi": "10.1002/adhm.202201830",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

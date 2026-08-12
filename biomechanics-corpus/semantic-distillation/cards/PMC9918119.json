@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9918119",
+  "paper_id": "doi:10.3390/jcm12031122",
+  "pmcid": "PMC9918119",
+  "source_record_sha256": "840a6f72446fe1a7e45deca08b69c5fe79538b7d4c198bb8b56d41ead19a5dd4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7e8dad2a2b431d9c6496b4a2146775f3bc2556e38599ee3db62904c38b872c28",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Towards Optimum Mandibular Reconstruction for Dental Occlusal Rehabilitation: From Preoperative Virtual Surgery to Autogenous Particulate Cancellous Bone and Marrow Graft with Custom-Made Titanium Mesh—A Retrospective Study",
+    "authors": "Onodera K, Miyamoto I, Hoshi I, Kawamata S, Takahashi N, Shimazaki N, Kondo H, Yamada H.",
+    "year": 2023,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm12031122",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

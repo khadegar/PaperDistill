@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12105966",
+  "paper_id": "doi:10.1097/yct.0000000000001079",
+  "pmcid": "PMC12105966",
+  "source_record_sha256": "2d4c722c1c05b511e2acc94ad1218e1d43b151736e2339b4239b1ee1f4e1e1fc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "152438ceb3b3cf2a5ef5643482361dc5afacb18e544ac730bfddb75af9324147",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Effect of Cranial Sutures Should Be Considered in Transcranial Electrical Stimulation",
+    "authors": "Carroll A, Rae CD, Martin D, Dokos S, Loo C.",
+    "year": 2025,
+    "journal": "The Journal of Ect",
+    "doi": "10.1097/yct.0000000000001079",
+    "publication_type": "Scoping Review; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

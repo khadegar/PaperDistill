@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13164711",
+  "paper_id": "doi:10.3390/ma19091789",
+  "pmcid": "PMC13164711",
+  "source_record_sha256": "fb4c504138b12807c475f105f6fe71fc0a78fcb75a633d4d3f703970e68e030c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "74336ac6c43dd0e9dd1e17c6883164259612c6e777d60f4f33d10dd2897aedf0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biodegradable Metals and Corrosion Control: Challenges, Limits and New Opportunities for Innovating in Orthopedic Fixations",
+    "authors": "Cherqaoui A, Paternoster C, Mantovani D.",
+    "year": 2026,
+    "journal": "Materials",
+    "doi": "10.3390/ma19091789",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "mechanobiology_remodeling",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12159229",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101884",
+  "pmcid": "PMC12159229",
+  "source_record_sha256": "134a5394ef28b9ad893642bd44ea529754af4928e26347685b93209f357d0ebf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6ad514158c922e5dfc174159eb20ba1bf2bb798dc9b74703d3c09cad11efdfde",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Study of bioactive 3D-printed scaffolds incorporating zinc-based MOF for bone defect repair and anti-inflammatory applications",
+    "authors": "Han Y, Jia X, Yang Y, Guo P, Li C, Zhang Y, Yin L, Jia B, Wang H.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101884",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

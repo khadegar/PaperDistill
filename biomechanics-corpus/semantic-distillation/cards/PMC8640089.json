@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8640089",
+  "paper_id": "doi:10.3389/fchem.2021.798299",
+  "pmcid": "PMC8640089",
+  "source_record_sha256": "11fea52a8d32bb56acda884127f772a320813ca84a16c73eb98ab3d483155412",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8f88395804021f104108299690aece820ed18678e01b5e71338211760c844d2b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteogenic Property Regulation of Stem Cells by a Hydroxyapatite 3D-Hybrid Scaffold With Cancellous Bone Structure",
+    "authors": "Xia H, Dong L, Hao M, Wei Y, Duan J, Chen X, Yu L, Li H, Sang Y, Liu H.",
+    "year": 2021,
+    "journal": "Frontiers in Chemistry",
+    "doi": "10.3389/fchem.2021.798299",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

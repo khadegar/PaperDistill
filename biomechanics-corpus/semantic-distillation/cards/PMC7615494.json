@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7615494",
+  "paper_id": "doi:10.1002/adhm.202100117",
+  "pmcid": "PMC7615494",
+  "source_record_sha256": "e49d504b5dd07fcbf31ab81caf4fa9b023cb37904db8aafecad8d2d1881c939f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bb431fde12256e914f5ae94dd35225e47564555d15d9e3958febff401fc1a9db",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed Porous Methacrylate/Silica Hybrid Scaffold for Bone Substitution",
+    "authors": "Chung JJ, Yoo J, Sum BST, Li S, Lee S, Kim TH, Li Z, Stevens MM, Georgiou TK, Jung Y, Jones JR.",
+    "year": 2021,
+    "journal": "Advanced healthcare materials",
+    "doi": "10.1002/adhm.202100117",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

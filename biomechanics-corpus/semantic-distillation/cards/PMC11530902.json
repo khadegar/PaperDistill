@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11530902",
+  "paper_id": "doi:10.1016/j.jacadv.2024.101339",
+  "pmcid": "PMC11530902",
+  "source_record_sha256": "9e0e5a3465839f3c11c82eeeb1b2f27668a4360f46e5e911bba1a0e276d7d5d4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "22d79311b676328b5b7563d3e65c86392314a7155b0420839b4ec439cf40aded",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Flow Dynamic Factors Correlated With Device-Related Thrombosis After Left Atrial Appendage Occlusion",
+    "authors": "Vogl BJ, Vitale E, Ahn S, Sularz A, Chavez Ponce A, Lo Russo GV, Collins J, Bavo AM, El Shaer A, Kramer A, Jia Y, Lulic D, De Beule M, Nielsen-Kudsk JE, De Backer O, Alkhouli M, Hatoum H.",
+    "year": 2024,
+    "journal": "JACC: Advances",
+    "doi": "10.1016/j.jacadv.2024.101339",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

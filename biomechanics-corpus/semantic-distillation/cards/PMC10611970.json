@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10611970",
+  "paper_id": "doi:10.1089/ten.tea.2023.0033",
+  "pmcid": "PMC10611970",
+  "source_record_sha256": "ced496029113ebe2ec8c27686a3f95be98274ded66f9522672d0cee4418cd6ee",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cef50d7b7835f81e3302cf5d1aa1b582be275c1f9fe19afd8b92008ef01e1d38",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Triply Periodic Minimal Surface-Based Scaffolds for Bone Tissue Engineering: A Mechanical, In Vitro and In Vivo Study",
+    "authors": "Maevskaia E, Guerrero J, Ghayor C, Bhattacharya I, Weber FE.",
+    "year": 2023,
+    "journal": "Tissue Engineering. Part A",
+    "doi": "10.1089/ten.tea.2023.0033",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

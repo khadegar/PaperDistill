@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8261922",
+  "paper_id": "doi:10.1186/s13287-021-02433-3",
+  "pmcid": "PMC8261922",
+  "source_record_sha256": "b64efc848b6d86ac58749a4a150cc72771b8556197f1225b9db8bf3afb27bbfa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c70df063529402494d2e4b165e44d1ca1145df63ba23073bd5a444521747c48d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Schwann cells promote prevascularization and osteogenesis of tissue-engineered bone via bone marrow mesenchymal stem cell-derived endothelial cells",
+    "authors": "Zhang X, Jiang X, Jiang S, Cai X, Yu S, Pei G.",
+    "year": 2021,
+    "journal": "Stem Cell Research & Therapy",
+    "doi": "10.1186/s13287-021-02433-3",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

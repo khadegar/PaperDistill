@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7468435",
+  "paper_id": "doi:10.3389/fbioe.2020.00967",
+  "pmcid": "PMC7468435",
+  "source_record_sha256": "e11353d8791b65818f6f59fe33c9ccccf164b22d6aa0c6da78eaa42501bf1cf0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1dda8953a2b7f8200d173bc96b2791de8bbda6536d5cd9b4f287d646e3f696ec",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Review on Finite Element Modeling and Simulation of the Anterior Cruciate Ligament Reconstruction",
+    "authors": "Benos L, Stanev D, Spyrou L, Moustakas K, Tsaopoulos DE.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.00967",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

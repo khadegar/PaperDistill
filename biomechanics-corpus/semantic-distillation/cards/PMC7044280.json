@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7044280",
+  "paper_id": "doi:10.1038/s41598-020-60590-6",
+  "pmcid": "PMC7044280",
+  "source_record_sha256": "ec788cd98b11b87bf185eaa197302391e71649035d27a8ea0da6781c44ddbb6a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b367b717a422f43cdbe1477f162bc8b5287ca7dddeae6a2452e5dc1012f34144",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The biomechanical importance of the scaphoid-centrale fusion during simulated knuckle-walking and its implications for human locomotor evolution",
+    "authors": "Püschel TA, Marcé-Nogué J, Chamberlain AT, Yoxall A, Sellers WI.",
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-60590-6",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

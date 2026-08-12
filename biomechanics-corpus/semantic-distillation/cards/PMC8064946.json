@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8064946",
+  "paper_id": "doi:10.1089/ten.tec.2021.0001",
+  "pmcid": "PMC8064946",
+  "source_record_sha256": "d03325a3b3e098f7aaecad2181a8b7e0802222b3dac6213e9c1ba29db006b3e7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0080ec8feb64614e5bb1574b266d71384f3d58594432f1832dbb7f1fd6b5c5b4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cryopreserved Spontaneous Spheroids from Compact Bone-Derived Mesenchymal Stromal Cells for Bone Tissue Engineering",
+    "authors": "Dong H, Li X, Chen K, Li N, Kagami H.",
+    "year": 2021,
+    "journal": "Tissue Engineering. Part C, Methods",
+    "doi": "10.1089/ten.tec.2021.0001",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

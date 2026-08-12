@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9935934",
+  "paper_id": "doi:10.3389/fbioe.2023.1082613",
+  "pmcid": "PMC9935934",
+  "source_record_sha256": "2889cabd31300a05df0a8a25837131878a5ae8cc9652a33a1ed8702b360cffa5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5ebd9e9c53558c0fb286a82d2337a3e751db18840e364ae8d9dc5ce54b1ed01c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Relative instability ratios of bone wall defects in trochanteric hip fractures: A finite element analysis",
+    "authors": "Yang AL, Mao W, Chang SM, Dong YH.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1082613",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

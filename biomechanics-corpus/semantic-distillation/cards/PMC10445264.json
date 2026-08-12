@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10445264",
+  "paper_id": "doi:10.1021/acsabm.3c00383",
+  "pmcid": "PMC10445264",
+  "source_record_sha256": "4a366872738616dfec16693bdb559afd8363fbb1b978d8d16a50188edd77d73e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7a3ff6bfe9241abe82cfc638659b3d89df4248a770e8de30e7925a7ee9e1dc70",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed PEEK/Silicon Nitride Scaffolds with a Triply Periodic Minimal Surface Structure for Spinal Fusion Implants",
+    "authors": "Du X, Ronayne S, Lee SS, Hendry J, Hoxworth D, Bock R, Ferguson SJ.",
+    "year": 2023,
+    "journal": "ACS Applied Bio Materials",
+    "doi": "10.1021/acsabm.3c00383",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

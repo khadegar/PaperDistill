@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7831941",
+  "paper_id": "doi:10.3390/polym13020295",
+  "pmcid": "PMC7831941",
+  "source_record_sha256": "37f207b675b875af83c2363340c6877c4d9b7420963dd3ed4d87f36d5f353f88",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4563d7fda7a5490b6b370013c9f83351361e2e6dae17757efd062da59c21b593",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Characterization of Polycaprolactone Nanohydroxyapatite Composites with Tunable Degradability Suitable for Indirect Printing",
+    "authors": "Doyle SE, Henry L, McGennisken E, Onofrillo C, Bella CD, Duchi S, O'Connell CD, Pirogova E.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13020295",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

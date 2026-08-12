@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8128250",
+  "paper_id": "doi:10.1371/journal.pone.0251864",
+  "pmcid": "PMC8128250",
+  "source_record_sha256": "d74b53ab98e1ba1f84baad9b788af1e904a28449ffce30c84b8c64b6777e7f8f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e505cd0ae2277bb0d650412850cb7b8a74c2f599a6bf605f1c2cb49e34c1ba9e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Sustained release of ancillary amounts of testosterone and alendronate from PLGA coated pericard membranes and implants to improve bone healing",
+    "authors": "van de Ven CJJM, Bakker NEC, Link DP, Geven EJW, Gossen JA.",
+    "year": 2021,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0251864.r004",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

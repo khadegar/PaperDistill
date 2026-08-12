@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10126906",
+  "paper_id": "doi:10.3389/fbioe.2023.1140673",
+  "pmcid": "PMC10126906",
+  "source_record_sha256": "7cfca18970bdb2e29fda6838a95769352980121275ddd7416dc7461cd02459b8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "63a494fcda74f7e987988b2d2ab4b0aea0dd15fec854ab406c282d1099c2ae5e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanostat parameters estimated from time-lapsed in vivo micro-computed tomography data of mechanically driven bone adaptation are logarithmically dependent on loading frequency",
+    "authors": "Marques FC, Boaretti D, Walle M, Scheuren AC, Schulte FA, Müller R.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1140673",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

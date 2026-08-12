@@ -1,0 +1,322 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7796503",
+  "paper_id": "doi:10.3390/ma14010235",
+  "pmcid": "PMC7796503",
+  "source_record_sha256": "142490ca4d6ee2ff687d7623aa661108d7ce254eba6107350e5a70a7bd034f00",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T10:27:52Z",
+    "packet_sha256": "66f6bf2f7a443bc5d8f833935bd1b9628a766b1a3f3050d02df9ecc112960e7d",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S002:C02",
+      "S003:C01",
+      "S004:C01",
+      "S005:C01",
+      "S006:C01",
+      "S007:C01",
+      "S007:C02",
+      "S008:C01",
+      "S008:C02",
+      "S009:C01",
+      "S010:C01",
+      "S010:C02",
+      "S011:C01",
+      "S011:C02",
+      "S012:C01",
+      "S013:C01",
+      "S014:C01",
+      "S014:C02",
+      "S015:C01",
+      "S015:C02",
+      "S016:C01",
+      "S017:C01",
+      "S018:C01",
+      "S018:C02",
+      "S019:C01",
+      "S020:C01",
+      "S020:C02",
+      "S021:C01",
+      "S021:C02",
+      "S022:C01",
+      "S022:C02",
+      "S022:C03",
+      "S022:C04",
+      "S022:C05",
+      "S023:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Applications of Hydrogel with Special Physical Properties in Bone and Cartilage Regeneration",
+    "authors": "Lin H, Yin C, Mo A, Hong G.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14010235",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_style_narrative_review",
+    "design_features": [
+      "secondary_research",
+      "hydrogel_design_taxonomy",
+      "bone_and_cartilage_regeneration",
+      "additive_manufacturing_subtopic",
+      "qualitative_synthesis"
+    ],
+    "research_problem": "Hydrogels for bone and cartilage must reconcile mutually coupled demands—strength, injectability, printability, cytocompatibility, degradation, vascularization, infection control, and wet adhesion—yet the literature is dispersed across network chemistries and application niches.",
+    "exact_gap": "The review seeks a cross-cutting account of how special physical properties are created and connected to osteochondral applications; however, it explicitly states that coverage is not comprehensive and does not supply a formal evidence-effect synthesis.",
+    "objective_or_hypothesis": "Qualitatively synthesize representative hydrogel network designs, physical-property strategies, and bone/cartilage applications, then identify the principal engineering contradictions and translational needs.",
+    "study_design": "Two-reviewer, English-language literature search of Medline and ScienceDirect (1991 to May 2020) plus related-article, journal, and reference hand-searching; 95 articles are organized narratively by material property and application without meta-analysis or formal risk-of-bias assessment.",
+    "sample_or_model": "Ninety-five selected articles on hydrogels, cells, bone, cartilage, mechanics, and regenerative applications; the packet does not provide a reproducible study-level extraction table or complete screening counts.",
+    "comparators": [
+      "Single-network versus double-network and chemical/ionic double-crosslinked hydrogels",
+      "High-strength versus injectable/shear-thinning systems",
+      "Mechanical performance versus biocompatibility and degradation",
+      "Application functions including printing, osteochondral gradients, vascularization, antibacterial delivery, and wet adhesion"
+    ],
+    "method_spine": [
+      "Search two databases and supplementary sources using a broad property/application term set.",
+      "Screen titles/abstracts and full texts with two reviewers and stated inclusion/exclusion criteria.",
+      "Arrange representative studies by network/physical-property mechanism.",
+      "Map those mechanisms to regenerative applications and close with design contradictions and translational requirements."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Two-reviewer screening and manual reference searching offer a limited process check, but there is no independently reproducible study matrix or reported duplicate-data verification (S003:C01-S006:C01)."
+      ],
+      "calibration": [],
+      "validation": [
+        "No intervention effect is validated by the review itself; claims about individual materials inherit the designs and limitations of the cited primary studies."
+      ],
+      "sensitivity": [
+        "No database, eligibility, or analytic sensitivity analysis is reported."
+      ],
+      "application_prediction": [
+        "Clinical use, 4D printing, and broad regenerative utility are prospective directions rather than review-derived efficacy estimates (S022:C04-S023:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "The synthesis identifies a recurring strength-versus-biocompatibility/degradability trade-off as polymer concentration and crosslinking increase (S002:C01-S002:C02; S022:C03-S022:C04).",
+      "It organizes mechanical strategies from single networks to double networks, reversible ionic/covalent combinations, and injectable shear-thinning systems (S007:C01-S010:C02).",
+      "It maps hydrogel properties to printing, integrated osteochondral repair, vascularization, antimicrobial delivery, and wet adhesion (S016:C01-S021:C02).",
+      "It identifies residual monomers/photoinitiators, response time, physiological stability, degradation synchronization, cellular mechanosensitivity, and clinical/regulatory testing as unresolved constraints (S022:C01-S023:C01)."
+    ],
+    "highest_evidence_level_reached": "Qualitative secondary synthesis of heterogeneous preclinical and review literature; no pooled effect estimate or direct experimental evidence generated by this article."
+  },
+  "argument_map": {
+    "central_claim": "Hydrogel design for bone and cartilage should be framed as a multi-property optimization problem in which network mechanisms are selected for a defined application rather than maximizing strength alone.",
+    "data": [
+      "Representative double-network and reversible-crosslink examples illustrate routes to higher strength and toughness (S008:C01-S009:C01).",
+      "Injectable systems expose the need for low delivery resistance followed by post-placement stability and biological function (S010:C01-S010:C02).",
+      "Application sections show that gradients, vascular cues, antimicrobials, and wet adhesion add distinct functional constraints (S018:C01-S021:C02).",
+      "The discussion explicitly states that increased polymer concentration/strength can reduce biocompatibility and degradability (S022:C03-S022:C04)."
+    ],
+    "warrant": "Because each chemical or architectural change affects mechanics, transport, cell response, degradation, and manufacturability simultaneously, material superiority is conditional on the intended use and evidence level.",
+    "backing": [
+      "Residual monomers, catalysts, additives, and excessive photoinitiator are named as formulation-specific safety mechanisms (S022:C02).",
+      "The conclusion distinguishes technical optimization from the more rigorous testing required for clinical use (S023:C01)."
+    ],
+    "qualifier": "A conceptual design framework based on selected literature, not a comparative effectiveness conclusion.",
+    "rebuttals_or_boundaries": [
+      "The authors state that the review is not comprehensive (S002:C02).",
+      "Only two databases and English articles are searched, and exclusion language is ambiguous (S003:C01-S006:C01).",
+      "There is no study-level risk-of-bias assessment, evidence grading, or quantitative synthesis.",
+      "Many material-property and biological claims are generalized across distinct formulations and test contexts."
+    ],
+    "argument_coherence": "moderate_as_conceptual_taxonomy_low_as_systematic_evidence"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "The review directly reports only its search window, sources, reviewer process, and total inclusion count (S003:C01-S006:C01)."
+    ],
+    "predicted": [],
+    "inferred": [
+      "Property-mechanism-application patterns are inferred qualitatively from heterogeneous cited studies rather than estimated as pooled effects.",
+      "The designation of promising clinical hydrogel types is a narrative judgment without formal comparative evidence grading (S022:C01)."
+    ],
+    "recommended": [
+      "Develop bioactive injectable formulations, improve physiological stability and mechanics while reducing cytotoxicity, synchronize degradation with regeneration, and apply stricter translational testing (S022:C02-S023:C01)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Mechanical strength, printability, marker expression, and small-animal findings in cited studies should not be collapsed into clinical regenerative effectiveness.",
+      "A review's citation of an in-vivo result does not make the review itself an animal study or independent replication."
+    ],
+    "overclaim_risks": [
+      "The abstract's universal biocompatibility language treats a material class as intrinsically safe despite formulation-specific residuals and testing contexts (S001:C01; S022:C02).",
+      "The stated aim to recommend types for clinical application exceeds the review's search and appraisal rigor (S022:C01).",
+      "Automated cues incorrectly label this review as animal research and over-weight additive manufacturing, which is only one application section."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Define a field through its governing trade-off",
+      "execution": "The introduction links polymer concentration to strength but inversely to biocompatibility and degradation, making that contradiction the review's organizing problem (S002:C01-S002:C02).",
+      "locator": "S002:C01",
+      "effectiveness": "high_conceptually",
+      "transferable_principle": "Open a materials review with the coupled design variables and the consequence of optimizing one in isolation.",
+      "failure_mode": "Broad hydrogel safety claims are stated before formulation- and evidence-specific qualification."
+    },
+    {
+      "section": "review_methods",
+      "move": "Declare search and screening provenance",
+      "execution": "The authors give databases, dates, terms, reviewers, and inclusion count (S003:C01-S006:C01).",
+      "locator": "S003:C01",
+      "effectiveness": "low_to_moderate",
+      "transferable_principle": "Even a narrative materials review should disclose sources, dates, selection roles, and the synthesis type so readers know what the corpus can support.",
+      "failure_mode": "Missing initial-hit counts, duplicate handling, full study table, risk-of-bias tool, and clear exclusion logic prevent reproducibility."
+    },
+    {
+      "section": "synthesis",
+      "move": "Use a property-mechanism-application taxonomy",
+      "execution": "Network chemistry and crosslink mechanisms precede functional application sections such as printing, gradients, vascularization, infection control, and wet adhesion (S007:C01-S021:C02).",
+      "locator": "S016:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "For heterogeneous biomaterials, synthesize each class as property target → enabling mechanism → tested application → evidence boundary.",
+      "failure_mode": "Individual examples are often summarized without comparable sample, outcome, uncertainty, or evidence-level fields."
+    },
+    {
+      "section": "discussion",
+      "move": "Convert a catalogue into a multi-objective research agenda",
+      "execution": "The discussion returns from examples to strength, injectability, cytotoxic residues, cell-scale viscoelasticity, degradation, vascularization, infection, and adhesion as coupled constraints (S022:C01-S022:C05).",
+      "locator": "S022:C03",
+      "effectiveness": "high_conceptually",
+      "transferable_principle": "End a review by separating coupled engineering trade-offs, missing biological evidence, and translation/regulatory steps rather than merely listing future materials.",
+      "failure_mode": "Some future claims remain optimistic and are not tied to evidence grades."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The review states that it is not comprehensive (S002:C02).",
+      "It acknowledges unresolved clinical testing, mechanical, manufacturing, degradation, and safety requirements (S023:C01)."
+    ],
+    "reader_identified": [
+      "The review is described as systematic but lacks a PRISMA-style flow, protocol, study-level extraction matrix, formal bias appraisal, and evidence grading.",
+      "Search coverage is limited to two databases and English-language literature.",
+      "Eligibility language such as 'Only human studies' is ambiguous and makes the target evidence base difficult to reproduce.",
+      "Primary studies, reviews, in-vitro work, and animal work are narratively mixed without consistent evidence-level tags.",
+      "No null-result or publication-bias analysis is attempted."
+    ],
+    "likely_bias_direction": [
+      "Representative-study selection and emphasis on successful material innovations likely bias the synthesis toward optimism.",
+      "Lack of study-quality weighting may make weak preclinical findings appear equivalent to stronger comparative evidence."
+    ],
+    "scope_boundary": "Use this article as a conceptual taxonomy of hydrogel design tensions and application functions, not as a source of pooled efficacy, clinical recommendations, or independent confirmation of cited animal/biological outcomes."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC7796503-01",
+      "capability": "Organize a biomaterials review with a property–mechanism–application–evidence-boundary schema instead of a material-by-material catalogue.",
+      "manuscript_use": "Review outline, Introduction synthesis, and Discussion architecture.",
+      "applicable_domains": [
+        "biomaterials",
+        "porous_scaffold",
+        "additive_manufacturing",
+        "bone_regeneration"
+      ],
+      "applicable_study_designs": [
+        "narrative_review",
+        "scoping_review"
+      ],
+      "supporting_locators": [
+        "S007:C01",
+        "S010:C01",
+        "S016:C01",
+        "S018:C01",
+        "S019:C01",
+        "S020:C01",
+        "S021:C01"
+      ],
+      "counterexample_or_boundary": "Add a comparable extraction matrix and evidence grades; a conceptual taxonomy alone cannot rank efficacy.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC7796503-02",
+      "capability": "State biomaterial design as coupled trade-offs and write every proposed improvement with the property it may worsen.",
+      "manuscript_use": "Gap statement, design rationale, and limitations.",
+      "applicable_domains": [
+        "biomaterials",
+        "bone_regeneration",
+        "additive_manufacturing"
+      ],
+      "applicable_study_designs": [
+        "materials_design",
+        "review"
+      ],
+      "supporting_locators": [
+        "S002:C01",
+        "S010:C01",
+        "S022:C02",
+        "S022:C03",
+        "S022:C04"
+      ],
+      "counterexample_or_boundary": "A trade-off is a hypothesis until the same study measures both sides under matched conditions.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC7796503-03",
+      "capability": "Keep the review's own observations separate from outcomes reported by included studies and from forward-looking recommendations.",
+      "manuscript_use": "Evidence synthesis, abstract, and conclusions of reviews.",
+      "applicable_domains": [
+        "all_domains"
+      ],
+      "applicable_study_designs": [
+        "systematic_review",
+        "narrative_review",
+        "bibliometric_review"
+      ],
+      "supporting_locators": [
+        "S003:C01",
+        "S022:C01",
+        "S023:C01"
+      ],
+      "counterexample_or_boundary": "Do not label a review as in-vivo evidence merely because it cites animal experiments; retain the original study provenance for every effect claim.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_for_conceptual_review",
+    "methods_transparency": "low_to_moderate",
+    "validation_credibility": "low_for_effect_or_clinical_claims",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "low",
+    "conclusion_proportionality": "moderate_with_optimistic_overreach",
+    "critical_weaknesses": [
+      "Systematic-review label is not matched by reproducible search/appraisal detail.",
+      "Heterogeneous evidence levels and material formulations are mixed.",
+      "Broad biocompatibility and clinical-potential statements exceed the synthesis method."
+    ],
+    "overall_credibility": "moderate_as_design_taxonomy_low_as_effect_evidence"
+  },
+  "summary_zh": "这篇文章适合作为“水凝胶设计矛盾与应用功能”的概念地图，而不适合作为疗效证据。它把网络结构、交联机制、可注射/打印、骨软骨梯度、血管化、抗菌和湿态黏附连接到同一多目标问题：提升强度常会损害细胞相容性、降解或递送性能。可迁移的核心写法是 property→mechanism→application→evidence boundary；同时必须补上本文缺少的研究级提取表、偏倚评价与证据分层，并把被引动物结果与综述自身证据严格区分。",
+  "reader_notes": [
+    "本文虽自称 systematic literature review，但更准确的用途是 systematic-style qualitative/narrative synthesis。",
+    "自动 in_vivo_animal cue 仅来自被引内容，不代表本文实施了动物实验；additive manufacturing 也只是综述的一个子主题。"
+  ],
+  "selection": {
+    "selection_reason": "explicit_include",
+    "primary_stratum": "additive_manufacturing",
+    "stratum_rank": 3,
+    "reading_order": 3
+  },
+  "source": {
+    "record_path": "records/PMC7796503.json.gz",
+    "source_record": "records/PMC7796503.json.gz",
+    "source_record_sha256": "142490ca4d6ee2ff687d7623aa661108d7ce254eba6107350e5a70a7bd034f00",
+    "source_hash": "142490ca4d6ee2ff687d7623aa661108d7ce254eba6107350e5a70a7bd034f00"
+  }
+}

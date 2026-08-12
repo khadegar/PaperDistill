@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9876671",
+  "paper_id": "doi:10.1155/2023/3626776",
+  "pmcid": "PMC9876671",
+  "source_record_sha256": "6c1933d23596b867b97a522e1568dc045263615d7cc23126fffa5249e8c5ca1a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3416a698ef3b6f06517a5c089adab4dae39aff3662720f5b41a017aaeb4b37ba",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of Biodegradable Alloy Fe30Mn0.6N in Rabbit Femur and Cartilage through Detecting Osteogenesis and Autophagy",
+    "authors": "Hao S, Yang T, Zhang A, Wang P, Jiang H, Shen D, Guo L, Ye M.",
+    "year": 2023,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2023/3626776",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

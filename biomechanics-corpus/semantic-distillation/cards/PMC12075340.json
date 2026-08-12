@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12075340",
+  "paper_id": "doi:10.1007/s10439-025-03713-2",
+  "pmcid": "PMC12075340",
+  "source_record_sha256": "2f33b4902e75834c91eba1d027942580ef32fee64a53d131d425e8af9ab4e58c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c7faacd91056376d2c7cea1c12566878d8ee78696d4388b278d873532441add2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "EMG-Informed Neuromusculoskeletal Simulations Increase the Accuracy of the Estimation of Knee Joint Contact Forces During Sub-optimal Level Walking",
+    "authors": "Princelle D, Viceconti M, Davico G.",
+    "year": 2025,
+    "journal": "Annals of Biomedical Engineering",
+    "doi": "10.1007/s10439-025-03713-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

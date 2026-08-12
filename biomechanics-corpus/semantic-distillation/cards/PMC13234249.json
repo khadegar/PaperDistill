@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13234249",
+  "paper_id": "doi:10.1016/j.tcr.2026.101378",
+  "pmcid": "PMC13234249",
+  "source_record_sha256": "56a54a6fb7202d7ec28b9bbe247c5eb98c8e409873849f56a13aba0c8d4671ad",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "63e517d2868bfd2896696864c271943f8ac1600145f930e3fcc00477bce1c16f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A novel treatment for the fixation of displaced femoral neck fractures in young patients: A case report",
+    "authors": "Kucharik MP, Bostrom N, Cerynik DL, Shah AR.",
+    "year": 2026,
+    "journal": "Trauma Case Reports",
+    "doi": "10.1016/j.tcr.2026.101378",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9775344",
+  "paper_id": "doi:10.3390/biomedicines10123242",
+  "pmcid": "PMC9775344",
+  "source_record_sha256": "6b9199b3f96201ecc4f6f8bfa486dbc3a6166e46619a0b2079361d42adeed158",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "28a7352d423a4897eec34c4a1aee5dede91b59e8c92c2bb7a11cc33d838ee3bb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Alternative Geometries for 3D Bioprinting of Calcium Phosphate Cement as Bone Substitute",
+    "authors": "Blankenburg J, Vinke J, Riedel B, Zankovic S, Schmal H, Seidenstuecker M.",
+    "year": 2022,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines10123242",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

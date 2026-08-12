@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9079115",
+  "paper_id": "doi:10.1016/j.bioactmat.2022.04.028",
+  "pmcid": "PMC9079115",
+  "source_record_sha256": "2181d8e22f53c083acf1e94363879f2c41ac30d14a503338a8197dfc2499fa01",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "236d9ad3bbca8f1a78e955b8a07795e1a90dece8a4391b3b94f71f32c47ea509",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Regulated macrophage immune microenvironment in 3D printed scaffolds for bone tumor postoperative treatment",
+    "authors": "Li C, Li C, Ma Z, Chen H, Ruan H, Deng L, Wang J, Cui W.",
+    "year": 2022,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2022.04.028",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

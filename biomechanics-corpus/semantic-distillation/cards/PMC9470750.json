@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9470750",
+  "paper_id": "doi:10.3389/fsurg.2022.885964",
+  "pmcid": "PMC9470750",
+  "source_record_sha256": "97d7bdf5836e965cde744ef3f3d5b88b9f66cfc07892d4461fb248ca10d6c9d3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7574b3769f035377f8ea7ef899570d50c06ec503839a7151c4953cce178e5c06",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Long-term osseointegration of laser-ablated hearing implants in sheep cranial bone",
+    "authors": "Johansson ML, Shah FA, Eeg-Olofsson M, Monksfield P, Thomsen P, Palmquist A.",
+    "year": 2022,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2022.885964",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

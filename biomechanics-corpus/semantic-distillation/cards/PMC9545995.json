@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9545995",
+  "paper_id": "doi:10.1002/jcp.30810",
+  "pmcid": "PMC9545995",
+  "source_record_sha256": "f5885c25bb618db90c3b14e0946ca19c720e1674d81f4b978ceb130bb376cd2d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4abb48fc88a42442c163b3df3f44d994b7c0b425d0816dce9cd0baa2d069213c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed controllable microporous scaffolds support embryonic development in vitro",
+    "authors": "Guo J, Li Y, Gao Z, Lyu J, Liu W, Duan Y, Zhou L, Gu Q.",
+    "year": 2022,
+    "journal": "Journal of Cellular Physiology",
+    "doi": "10.1002/jcp.30810",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

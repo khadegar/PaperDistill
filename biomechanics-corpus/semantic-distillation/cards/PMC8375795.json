@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8375795",
+  "paper_id": "doi:10.4103/jpbs.jpbs_785_20",
+  "pmcid": "PMC8375795",
+  "source_record_sha256": "e11d9eb3c71928bbda3fc274cb25202ca7380ba5f4aa13fdc74e096891312375",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "609e2ec4da00b5e0dcecaa1b90600e96c6418e1dc3e41c2a360a43b9351d0d2b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Occlusal Bite Forces on Teeth with Altered Periodontal Support: A Three-Dimensional Finite Element Stress Analysis",
+    "authors": "Agrawal R, Narang S, Ahmed H, Prasad S, Reddy S, Aila S.",
+    "year": 2021,
+    "journal": "Journal of Pharmacy & Bioallied Sciences",
+    "doi": "10.4103/jpbs.jpbs_785_20",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13133211",
+  "paper_id": "doi:10.1007/s11517-026-03549-5",
+  "pmcid": "PMC13133211",
+  "source_record_sha256": "3c33a1adad10b42630629d9ed8c3dccd96daeef46456a25080479bc7be59a130",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bcf03735c8bc70569f1ed3b9416a3ffdc8ee021c43db7459712fa657726ed630",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "X2BR: High-fidelity 3D bone reconstruction from a planar X-ray image with hybrid neural implicit methods",
+    "authors": "Guven G, Ugurdag F, Ates HF.",
+    "year": 2026,
+    "journal": "Medical & Biological Engineering & Computing",
+    "doi": "10.1007/s11517-026-03549-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

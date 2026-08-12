@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9873498",
+  "paper_id": "doi:10.1016/j.jfscie.2022.100010",
+  "pmcid": "PMC9873498",
+  "source_record_sha256": "67b7fced81a2a29baff0bdd51783e710819df7f7774f4a6cb256acaba8880de7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b5127ec5fcc582fc7a5f0feb236180b08fe6dba017d5af85f862672cc178e619",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of abutment screw preload and preload simulation techniques on dental implant lifetime",
+    "authors": "Satpathy M, Jose RM, Duan Y, Griggs JA.",
+    "year": 2022,
+    "journal": "JADA Foundational Science",
+    "doi": "10.1016/j.jfscie.2022.100010",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

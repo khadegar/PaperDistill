@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12173030",
+  "paper_id": "doi:10.1016/j.jot.2025.04.010",
+  "pmcid": "PMC12173030",
+  "source_record_sha256": "9a70644c2dd3051bf63e0e226ca075d30188dd3fbb17d73e57b2e2f7b88d0990",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e0709b3ead21a18f210d78f100d9aa919c09e2fcdc08c83ffff8aa49db35d7c5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An innovative self-stabilised 3D-printed artificial vertebral body designed for clinical application and comparison with the conventional implants",
+    "authors": "Zhang T, Li J, Li X, Pan X, Gao X, Yang X, Ma X, Li H, Feng S, Liu Z.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2025.04.010",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

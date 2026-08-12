@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3141343",
+  "paper_id": "doi:10.2174/1874325001105010229",
+  "pmcid": "PMC3141343",
+  "source_record_sha256": "0a4594d492c50ab9216dcd4d5190a8525ab83aac793ad8cd067eb120c4fa24b7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b1f071a34a2a90ddd44d58f09559a198fde3c006de39d59d2d75e1dd48cdaffc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Large Diameter Femoral Heads Impose Significant Alterations on the Strains Developed on Femoral Component and Bone: A Finite Element Analysis",
+    "authors": "Theodorou EG, Provatidis CG, Babis GC, Georgiou CS, Megas PD.",
+    "year": 2011,
+    "journal": "The Open Orthopaedics Journal",
+    "doi": "10.2174/1874325001105010229",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

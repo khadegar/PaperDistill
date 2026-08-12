@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7057706",
+  "paper_id": "doi:10.1021/acsomega.9b04249",
+  "pmcid": "PMC7057706",
+  "source_record_sha256": "3b6f548320ffd756eee77e8c807339e4c02c1334c20e64a1653553835f979ca8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0c4ac5c42ecddd9443d28bff6625b8d5a0fbf83c15fce6f4ecbb51ebb52a416f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Bifunctional β Defensin 2-Modified Scaffold on Bone Defect Reconstruction",
+    "authors": "Peng Y, Li L, Yuan Q, Gu P, You Z, Zhuang A, Bi X.",
+    "year": 2020,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.9b04249",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

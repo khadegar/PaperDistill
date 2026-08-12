@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7890873",
+  "paper_id": "doi:10.1186/s13287-021-02207-x",
+  "pmcid": "PMC7890873",
+  "source_record_sha256": "c44e7c20a596d9ed354ff63b8bdfb68bbff6e84c43b8381efe9d4d6074fd39ac",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "09a18f981562513975b27c078e421926004a8364253a058a12b2c1562a7d81de",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Low-frequency electromagnetic fields combined with tissue engineering techniques accelerate intervertebral fusion",
+    "authors": "Li W, Huang C, Ma T, Wang J, Liu W, Yan J, Sheng G, Zhang R, Wu H, Liu C.",
+    "year": 2021,
+    "journal": "Stem Cell Research & Therapy",
+    "doi": "10.1186/s13287-021-02207-x",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

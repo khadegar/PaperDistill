@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9070934",
+  "paper_id": "doi:10.1371/journal.pone.0267466",
+  "pmcid": "PMC9070934",
+  "source_record_sha256": "09ee24d8077353f651cce634a72096dc1439766957ba27909d417122c61bb2a3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a103d1f1e5ab041413efe0719f8091a5649db0e1b361f059de75c663ad396a4e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of Korean red ginseng on three-dimensional trabecular bone microarchitecture and strength in growing rats: Comparison with changes due to jump exercise",
+    "authors": "Ju YI, Choi HJ, Sone T.",
+    "year": 2022,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0267466.r004",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

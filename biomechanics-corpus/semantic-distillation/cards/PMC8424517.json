@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8424517",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.06.032",
+  "pmcid": "PMC8424517",
+  "source_record_sha256": "f48b9e0f5375342c0fcdaefc31825b7c3712a040eb8e2857f1a33a0fcda1eb0a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9834d32415d623ceabd48ac82c57139ea0026b7276f5038171e2c4988944c6dd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additively manufactured biodegradable porous magnesium implants for elimination of implant-related infections: An in vitro and in vivo study",
+    "authors": "Xie K, Wang N, Guo Y, Zhao S, Tan J, Wang L, Li G, Wu J, Yang Y, Xu W, Chen J, Jiang W, Fu P, Hao Y.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.06.032",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

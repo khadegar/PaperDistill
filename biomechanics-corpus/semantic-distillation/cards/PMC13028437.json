@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13028437",
+  "paper_id": "doi:10.3390/ma19061239",
+  "pmcid": "PMC13028437",
+  "source_record_sha256": "db6384d731274c5331ac2f1471e25cfb9b1fcf9556c70e7771b5c3c47c88e26e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f3a2a25b41f4ff4a0323c1c3398f307839f9ea6a8d8e5880c2c901b88e2dda92",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of Peri-Implant Stress in Maxillary All-on-Four Rehabilitation: Effects of Posterior Implant Angulation and Loading Protocol",
+    "authors": "Aristizábal-Hoyos JA, Gil-Tabares LK, Giraldo-Vélez N, Torres-Arteaga MI, Garces-Gonzalez C, López-Soto OP, Fuentes-Barría H, Aguilera-Eguía R, Angarita-Davila L.",
+    "year": 2026,
+    "journal": "Materials",
+    "doi": "10.3390/ma19061239",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

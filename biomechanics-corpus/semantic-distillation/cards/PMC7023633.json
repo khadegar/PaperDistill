@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7023633",
+  "paper_id": "doi:10.3390/polym12010093",
+  "pmcid": "PMC7023633",
+  "source_record_sha256": "ef993a53fc2ec93a40a7c7d8f66d5f52d0d5cdea59ca14e1915fb9df9544ae7b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0a50e90979d841036405fe67678c181b61f0f42641fc30169ab7d7f1c7245a60",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porcine Collagen–Bone Composite Induced Osteoblast Differentiation and Bone Regeneration In Vitro and In Vivo",
+    "authors": "Salamanca E, Hsu CC, Yao WL, Choy CS, Pan YH, Teng NC, Chang WJ.",
+    "year": 2020,
+    "journal": "Polymers",
+    "doi": "10.3390/polym12010093",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

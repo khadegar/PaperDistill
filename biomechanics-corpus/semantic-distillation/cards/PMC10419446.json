@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10419446",
+  "paper_id": "doi:10.3390/ma16155470",
+  "pmcid": "PMC10419446",
+  "source_record_sha256": "b1ae8dee1bc6bf9a0ff54e70aac04390e6170eadadb1c476bf536bcf51f8eb9d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9315ad799baf68763d01a4dfea1cabd704f74d4e9d9ace318716bc6cde248e7e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Investigation of Bone Screw Head Design for Extracting Stripped Screw Heads: Integration of Mechanical Tests and Finite Element Analyses",
+    "authors": "Khalaf K, Azhang A, Cheng CH, Nikkhoo M.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16155470",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

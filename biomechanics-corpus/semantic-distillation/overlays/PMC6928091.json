@@ -1,0 +1,259 @@
+{
+  "study": {
+    "article_kind": "original_research_finite_element_bone_remodeling_with_ovine_histology_verification",
+    "design_features": [
+      "adaptive_Strain_Energy_Density_bone_remodeling_FEA",
+      "SLS_Ti6Al4V_porous_implants",
+      "700_and_1500_micrometre_pore_sizes",
+      "ovine_femoral_condyle_critical_size_defect",
+      "six_week_histology_and_lamellar_SEM",
+      "implant_stress_strain_and_fatigue_risk_prediction"
+    ],
+    "research_problem": "Extensively porous metal implants can promote osseointegration but are vulnerable to local stress concentrations and fatigue when bone fills the pores only partially. Assuming homogeneous full bone formation can misrepresent the stress and strain state that determines implant safety.",
+    "exact_gap": "Earlier implant FEA commonly assumed full, homogeneous bone formation or examined discrete growth states. This study uses an adaptive phenomenological bone-remodeling model, previously checked against ovine histology, to evaluate how partial and inhomogeneous bone formation changes stresses, strains, and fatigue risk in two additively manufactured porous Ti-6Al-4V implants.",
+    "objective_or_hypothesis": "To predict partial bone formation in 700 and 1500 micrometre pore implants, compare equilibrium and pre-remodeling stress/strain fields, and test whether bone formation reduces the danger of fatigue failure. The authors hypothesize that partial osseointegration reduces implant stress concentrations, while incomplete formation and stiffness mismatch can leave unsafe regions.",
+    "study_design": "Original mixed computational and ex vivo animal-evidence research. Two quarter-slice, symmetric FEA models represented SLS Ti-6Al-4V implants in an ovine condylar defect, with a phenomenological strain-energy-density bone-remodeling algorithm run to equilibrium. Predicted growth and bone-surface ratios were compared with histology and SEM from six uncoated implants in six mature sheep retrieved at six weeks; implant von Mises stress, tissue/bone principal strain, and material fatigue limits were then assessed. There was one animal time point, no implant fatigue experiment, and no calibration of remodeling parameters to this dataset.",
+    "sample_or_model": "Six mature sheep received bilateral 8 mm diameter by 15 mm medial femoral-condyle defects; six uncoated cylindrical SLS Ti-6Al-4V implants (one uncoated control from each sheep; 30 cylinders were used in the larger study, including 24 coated and 6 uncoated) were analyzed. The 700 micrometre design used 300 micrometre struts, 75% porosity, and a 5 mm by 5 mm quarter model loaded by 89 N; the 1500 micrometre design used 750 micrometre struts, 70% porosity, and a 200 N quarter-model load. Homogeneous trabecular bone (E=1.5 GPa, nu=0.34), Ti-6Al-4V (E=110 GPa, nu=0.34), and initial soft tissue (E=0.5 GPa, nu=0.3) were assigned. Mesh convergence used 0.06 mm/1.33 million elements for 1500 micrometre and 0.03 mm/2.77 million elements for 700 micrometre models.",
+    "comparators": [
+      "700 versus 1500 micrometre pore size (75% versus 70% porosity)",
+      "Pre-remodeling versus equilibrium after partial bone formation",
+      "Predicted bone-growth pattern and surface ratio versus six-week histology/SEM",
+      "Peak implant von Mises stress versus machined and untreated additively manufactured Ti-6Al-4V strength/fatigue limits",
+      "Peak tissue/bone principal strain versus the assumed ovine bone fracture-strain limit",
+      "Regions adjacent to remodeled bone versus deeper, stress-shielded regions without predicted growth"
+    ],
+    "method_spine": [
+      "Define the ovine critical-size defect, pore geometries, porosity, uncoated worst-case group, six-week histology, SEM, and bone-area quantification (S003:C01).",
+      "Build quarter-slice 5 mm by 5 mm symmetric FE models with axial restraint, scaled peak medial-condyle walking loads, tied interfaces, converged meshes, and homogeneous initial material properties (S004:C01).",
+      "Update tissue density and elastic modulus with an adjacent-element SED-based adaptive algorithm, preserving sequential bone formation from the implant exterior and reporting arbitrary computer time units and equilibrium criteria (S004:C01).",
+      "Assess failure risk using maximum nodal implant von Mises stress, largest principal bone strain, Ti-6Al-4V yield/ultimate/fatigue limits, and an ovine bone strain limit (S005:C01).",
+      "First verify predicted spatial growth and bone-surface ratios against histology/SEM; then compare stress and strain before remodeling and at equilibrium for both pore sizes (S006:C01-S008:C01).",
+      "Interpret the stress-shielding/fatigue trade-off, geometry and process limitations, time-calibration gap, and next discriminating tests rather than treating equilibrium as a six-week measurement (S009:C01-S009:C03)."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Static mesh convergence used 5% error at the fillet and 1% in soft tissue/bone, yielding 1.33 million and 2.77 million elements for the 1500 and 700 micrometre models (S004:C01).",
+        "The adaptive algorithm updated the stiffness matrix and stopped at <0.005% change in average tissue density; prior parametric work, not this dataset, indicated that the initial time step and modulus affect numerical behavior (S004:C01)."
+      ],
+      "calibration": [
+        "The SED remodeling rate, reference threshold, upper bone-formation modulus, density-modulus law E=3790 rho^3, initial material properties, and fatigue limits were imported from prior literature or assumptions; they were not fit to the six-week results (S004:C01; S005:C01).",
+        "Only one histology time point was available, so the paper explicitly states that remodeling parameters cannot be calibrated from this experiment and that computer time units cannot be mapped to six weeks (S004:C01; S009:C02)."
+      ],
+      "validation": [
+        "At equilibrium, FE predicted growth from the outer implant pores, qualitatively matching histology, but overpredicted depth and bone-surface ratio; the comparison is a model verification/limited validation against six-week ovine histology, not fatigue or clinical validation (S006:C01).",
+        "Histology surface integration and lamellar SEM provide an in-vivo tissue endpoint, while predicted stresses and strains remain unvalidated numerical outcomes (S006:C01-S008:C01)."
+      ],
+      "sensitivity": [
+        "The paper compares pore size and pre-remodeling/equilibrium states and cites prior parameter analyses for initial modulus and time step, but it does not report a systematic current sensitivity study over SED thresholds, bone density, contact, gait loads, geometry defects, or tissue differentiation (S004:C01; S009:C02).",
+        "Spatial path plots identify where stress shielding suppresses SED and where remodeled regions redistribute load; this is mechanistic localization rather than a quantified uncertainty analysis (S007:C01-S009:C02)."
+      ],
+      "application_prediction": [
+        "Equilibrium stress, strain, and fatigue-limit comparisons predict implant risk and support cautious rehabilitation/design recommendations; they do not demonstrate long-term device survival.",
+        "The recommendation for gradual, patient-specific loading is an inference from the modeled stimulus-fatigue trade-off, not a tested rehabilitation protocol (S009:C03)."
+      ]
+    },
+    "primary_outcomes": [
+      "Measured histology at six weeks showed percentage surface integration of 9.8 +/- 5.0% for 1500 micrometre and 10.7 +/- 4.9% for 700 micrometre implants, with no significant difference (Mann-Whitney p=0.810); SEM showed mature lamellar bone (S006:C01).",
+      "Measured histomorphometric bone-surface ratios were 0.125 +/- 0.087 (range 0.041-0.288) for 1500 micrometre and 0.134 +/- 0.067 (range 0.021-0.222) for 700 micrometre implants (p=0.575) (S006:C01).",
+      "FE predicted outer-pore growth and qualitative spatial agreement but predicted bone-surface ratios of 0.270 +/- 0.052 (range 0.196-0.374) for 1500 micrometre and 0.175 +/- 0.047 (range 0.088-0.224) for 700 micrometre implants; the predicted values differed significantly between pore sizes (p=0.001) and overestimated the histology pattern, especially deeper growth (S006:C01).",
+      "Peak implant von Mises stress fell from 534 to 411 MPa (23%) for 700 micrometre pores and from 383 to 301 MPa (21%) for 1500 micrometre pores. The 1500 micrometre equilibrium peak was 86% of the 350 MPa fatigue strength of untreated additively manufactured Ti-6Al-4V only after considering the reported 301 MPa value; the 700 micrometre equilibrium peak remained above 350 MPa (S007:C01).",
+      "Stress at the initial irregular partial holes fell to 259 MPa (700 micrometre) and 232 MPa (1500 micrometre), while stress at the thinnest equilibrium hole sections rose slightly from 398 to 411 MPa and 282 to 301 MPa, showing local redistribution rather than uniform protection (S007:C01).",
+      "Peak compressive tissue strain was approximately 0.08 for the 700 micrometre model and 10% lower for 1500 micrometres before remodeling, then fell below 0.02 after remodeling. Peak bone-stock strain was about 0.03 before remodeling, near the assumed ovine fracture limit, and below 0.008 at equilibrium (S008:C01).",
+      "The paper reports a maximum absolute difference of 14.5% between predicted and in-vivo bone formation at equilibrium, while acknowledging that one six-week time point cannot establish equilibrium or calibrate the remodeling rate (S009:C02)."
+    ],
+    "highest_evidence_level_reached": "Finite-element application prediction with mesh verification and limited qualitative/quantitative comparison to six-week histology/SEM from six ovine implants. No independent fatigue experiment, longitudinal bone-remodeling validation, as-built microgeometry model, interface-micromotion validation, or clinical evidence is reached."
+  },
+  "argument_map": {
+    "central_claim": "Partial bone formation in porous Ti-6Al-4V implants redistributes load and reduces local modeled stress concentrations by about 20% or more, but bone growth is incomplete and model-dependent; the 700 micrometre design remains above the untreated AM fatigue limit at equilibrium, so implant stiffness, geometry, and rehabilitation loading must be balanced against both ingrowth stimulus and fatigue risk.",
+    "data": [
+      "Six-week ovine histology/SEM establishes outer-pore, lamellar bone formation and provides a limited verification target for the adaptive FEA model (S003:C01; S006:C01).",
+      "Quarter-slice FE models resolve pore-size-specific remodeling, stress redistribution, and strain reduction before and after equilibrium (S004:C01; S007:C01; S008:C01).",
+      "Strength and fatigue comparisons identify a favorable 1500 micrometre equilibrium region and an unsafe 700 micrometre peak despite local reductions (S005:C01; S007:C01; S009:C01)."
+    ],
+    "warrant": "When bone forms from the implant exterior, its increasing stiffness can carry load locally and reduce stress concentrations in adjacent porous material; however, the same stress shielding can suppress deeper SED and leave thin, unfilled sections exposed to fatigue.",
+    "backing": [
+      "The model enforces sequential adjacent-element formation and updates stiffness from SED, matching the observed exterior-to-interior histology gradient at a qualitative level (S004:C01; S006:C01).",
+      "Pre-remodeling and equilibrium stress maps show reductions adjacent to remodeled bone and small stress increases in the remaining thin sections, supporting a spatial rather than global mechanism (S007:C01).",
+      "The study retains pore size, porosity, implant geometry, loading, fatigue limits, p-values, ranges, and the six-animal context instead of presenting an unqualified percentage benefit (S003:C01; S006:C01; S007:C01)."
+    ],
+    "qualifier": "Stress and strain outcomes are predictions for idealized smooth, homogeneous, tied-contact quarter models under scaled peak ovine condyle loading. Histology samples six uncoated implants at one time point, and its disagreement with equilibrium FE limits calibration and time interpretation.",
+    "rebuttals_or_boundaries": [
+      "FE overpredicted bone depth and surface ratio relative to histology; a qualitative spatial match does not establish accurate kinetics or equilibrium (S006:C01; S009:C02).",
+      "The 700 micrometre equilibrium peak remained above the untreated AM Ti-6Al-4V fatigue strength, and even the 1500 micrometre result depends on idealized geometry and material assumptions (S007:C01; S009:C01).",
+      "Tied contacts, homogeneous soft tissue, quarter-slice symmetry, uniform peak load, and omission of surface defects, grain/phase changes, and as-built geometry can bias stress and fatigue estimates (S004:C01; S009:C01-S009:C02).",
+      "Bone surface formation is not equivalent to complete fixation, durable osseointegration, clinical function, or long-term implant survival."
+    ],
+    "argument_coherence": "high_for_partial-bone-stress_mechanism_moderate_for_histology_verification_low_for_fatigue_lifetime_or_clinical_translation"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Implant dimensions, pore sizes, strut sizes, porosities, six-week histological surface integration and bone-surface ratios, SEM lamellar morphology, sample count (six uncoated implants from six sheep), and Mann-Whitney p-values are measured or directly reported animal observations (S003:C01; S006:C01).",
+      "The model's mesh sizes, loads, assigned material properties, and fatigue limits are inputs or reported assumptions, not measurements of each as-built implant."
+    ],
+    "predicted": [
+      "FE bone-growth depth, density/modulus evolution, equilibrium state, implant von Mises stress, tissue/bone principal strains, spatial stress redistribution, and comparisons with fatigue/fracture limits are model predictions (S004:C01; S007:C01; S008:C01).",
+      "The reported 21-23% stress reductions and 14.5% maximum absolute formation difference are numerical-versus-histology comparisons, not directly measured changes in implant fatigue life."
+    ],
+    "inferred": [
+      "Bone formation from the exterior and absent central growth are interpreted as consequences of SED-based stress shielding and sequential osteogenic access, but the model does not test cell differentiation or fluid-flow mechanisms (S004:C01; S009:C01-S009:C02).",
+      "Reduced modeled stress near remodeled bone is inferred to improve fatigue resistance or mechanical interlock, while the unfilled 700 micrometre sections remain a fatigue hazard (S007:C01; S009:C01).",
+      "A gradual, patient-specific loading scheme is inferred to balance rehabilitation stimulus with failure risk; this is not a tested clinical protocol (S009:C03)."
+    ],
+    "recommended": [
+      "Use micro-CT or equivalent metal-artifact-suppressed imaging to reconstruct as-built pores, struts, roughness, defects, and tissue state in the FE model.",
+      "Collect multiple longitudinal time points and larger, replicated animal cohorts; separate equilibrium assumptions from six-week observations and calibrate remodeling parameters only with appropriate time-resolved data.",
+      "Run replicated device-level fatigue tests to failure under relevant interfaces and loading, and quantify micromotion, fixation, immature tissue, and biological ingrowth before making durability or clinical claims.",
+      "Test load history, contact/friction, anisotropic and inhomogeneous bone, material phase/defect state, and pore/strut geometry sensitivity."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Histological bone-surface area and lamellar SEM indicate local tissue formation but do not establish complete pore filling, fixation strength, vascularization, infection resistance, or clinical osseointegration.",
+      "Von Mises stress relative to a material fatigue limit is a modeled risk proxy; it does not substitute for replicated cyclic implant testing, especially for notch-sensitive AM Ti-6Al-4V.",
+      "SED threshold and elastic-modulus evolution are phenomenological remodeling proxies; they do not directly identify cell differentiation, fluid flow, or the actual time course of bone ingrowth.",
+      "Peak-strain reduction in the model is not a measured improvement in animal gait, pain, rehabilitation, or long-term function."
+    ],
+    "overclaim_risks": [
+      "The title and abstract phrase stress reduction and reduced danger of fatigue failure broadly, although the 700 micrometre equilibrium peak remains above the untreated AM fatigue strength and no fatigue test was performed (S001:C01; S007:C01; S009:C01).",
+      "Equating equilibrium FE growth with six-week in-vivo formation overstates temporal validation; the authors explicitly state that time units are arbitrary and one time point cannot calibrate the algorithm (S004:C01; S009:C02).",
+      "Idealized smooth geometry likely overestimates fatigue strength because AM roughness, microporosity, phase/grain changes, and as-built deviations were omitted (S009:C01).",
+      "Surface integration and modeled stress redistribution may be read as durable fixation or clinical safety, but interface micromotion, explicit tissue differentiation, long-term remodeling, and clinical outcomes were not assessed (S009:C02-S009:C03)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Move from the clinical durability concern to a precise partial-bone, fatigue-relevant computational gap.",
+      "execution": "The introduction contrasts short-term osseointegration observations and standard fatigue tests with incomplete bone formation, then states that this study tests partial inhomogeneous bone effects on implant stress and strain using a histology-verified model (S002:C01).",
+      "locator": "S002:C01",
+      "effectiveness": "high",
+      "transferable_principle": "End an FE implant introduction by naming the missing material/geometry state, comparator, validation source, and endpoint rather than by repeating the general clinical problem.",
+      "failure_mode": "Describing bone ingrowth as complete or validated before stating the partial, time-limited evidence invites a clinical interpretation the model cannot support."
+    },
+    {
+      "section": "methods",
+      "move": "Keep animal evidence, FE geometry, material assignments, loading, and remodeling law as separate reproducibility layers.",
+      "execution": "The paper reports the six uncoated ovine implants and histology procedure, then separately defines quarter-slice symmetry, pore-specific loads, tied contacts, mesh convergence, homogeneous materials, SED thresholds, density-modulus law, time stepping, and equilibrium (S003:C01-S004:C01).",
+      "locator": "S004:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For a mechanobiological FE model, state biological sampling, as-designed geometry, numerical verification, constitutive assumptions, boundary conditions, and calibration status as distinct states.",
+      "failure_mode": "Calling imported remodeling constants or an arbitrary computer-time axis calibrated can turn a phenomenological model into an apparently time-resolved biological experiment."
+    },
+    {
+      "section": "results",
+      "move": "Report model verification before application prediction, and show the discrepancy between predicted and measured bone fill.",
+      "execution": "The results first compare FE growth patterns, surface ratios, p-values, and SEM/histology, then separately report implant stress redistribution and tissue/bone strains before and after equilibrium (S006:C01-S008:C01).",
+      "locator": "S006:C01",
+      "effectiveness": "high",
+      "transferable_principle": "A validated-domain claim should state where the model agrees, where it overpredicts, and which downstream endpoint is still only predicted.",
+      "failure_mode": "Reporting only the 20%-plus stress reduction without the overpredicted bone depth, n=6 context, units, and p-values hides the main uncertainty."
+    },
+    {
+      "section": "discussion",
+      "move": "Tie the mechanistic trade-off to the limiting negative result and to as-built fatigue uncertainty.",
+      "execution": "The discussion explains that bone formation lowers stress near remodeled regions but can increase stress in unfilled thin sections; it retains the 700 micrometre fatigue exceedance, AM notch sensitivity, smooth-geometry assumption, tied-contact limitation, and missing temporal calibration (S009:C01-S009:C02).",
+      "locator": "S009:C01",
+      "effectiveness": "high",
+      "transferable_principle": "When a model predicts a benefit and a remaining failure mode, make the failure mode define the design boundary and next test.",
+      "failure_mode": "Treating partial bone formation as uniformly protective can erase stress transfer into non-remodeled holes and overstate fatigue safety."
+    },
+    {
+      "section": "conclusion",
+      "move": "Convert the result into bounded design and rehabilitation recommendations with explicit validation needs.",
+      "execution": "The closing paragraph recommends cautious, gradual loading and further multi-time-point, micro-CT, non-destructive, and failure testing while warning that extensive porous implants should be used cautiously because fatigue depends on bone growth (S009:C03).",
+      "locator": "S009:C03",
+      "effectiveness": "high",
+      "transferable_principle": "A computational conclusion should state what the modeled mechanism supports and what experiment would discriminate safety from optimistic extrapolation.",
+      "failure_mode": "Turning a patient-specific loading suggestion into a clinical rehabilitation prescription without outcome testing exceeds the model's scope."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Only one six-week time point was available, so equilibrium versus in-vivo timing and remodeling-rate calibration remain unresolved (S003:C01; S004:C01; S009:C02).",
+      "The model overpredicted bone formation, used homogeneous initial materials and tied contacts, omitted explicit tissue differentiation/ingrowth, and represented the implant as a smooth idealized geometry (S004:C01; S009:C02).",
+      "Quarter-slice symmetry, uniform peak medial-condyle load, omitted end effects, and a lack of full gait/instrumented loading reduce physiological fidelity (S009:C02).",
+      "AM surface roughness, microporosity, phase/grain changes, and defects were not modeled; the authors advise micro-CT and post-treatment/fatigue work (S009:C01-S009:C03)."
+    ],
+    "reader_identified": [
+      "The six uncoated controls came from a larger 30-implant study, and only one implant per sheep/time point was analyzed; there is no longitudinal or independent fatigue cohort.",
+      "The histology comparison is a limited verification target for spatial bone formation, not validation of modeled implant stress, tissue strain, fatigue life, fixation, or clinical performance.",
+      "A homogeneous trabecular exterior, homogeneous 0.5 GPa initial soft tissue, isotropic Ti/bone, axial restraint, tied interfaces, and static peak load can materially alter local strain and SED relative to press-fit, frictional, anisotropic, physiologic loading.",
+      "The equilibrium algorithm permits bone formation only adjacent to existing bone and above an SED threshold; cell transport, fluid flow, immature tissue, osteoinduction, and vascular biology are absent.",
+      "A 14.5% maximum difference in formation level is reported without a full uncertainty interval or parameter-wise sensitivity for thresholds, density laws, contact, load, or geometry.",
+      "Comparing modeled peak stress with handbook fatigue limits cannot identify whether a real crack would initiate at rough internal AM surfaces or at a bone/implant interface."
+    ],
+    "likely_bias_direction": [
+      "Idealized smooth and homogeneous models likely understate local stress concentrations and overstate fatigue strength.",
+      "Tied contacts and fixed peak loading may overconstrain the interface while also representing a worst-case load magnitude; the direction of bias differs by endpoint.",
+      "Equilibrium comparison to a single six-week histology time point may overestimate bone formation depth and make stress protection appear more mature than in vivo.",
+      "Using uncoated implants as the worst-case group supports conservative failure analysis but limits conclusions to a low-ingrowth material/coating state rather than all porous implants."
+    ],
+    "scope_boundary": "The study supports a mechanistic FE hypothesis that partial, exterior-to-interior bone formation can redistribute stress in two idealized SLS Ti-6Al-4V pore designs, with limited six-week ovine histology verification. It does not establish calibrated remodeling kinetics, complete osseointegration, fixation or micromotion control, replicated fatigue life, as-built AM safety, or clinical rehabilitation/survival."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC6928091-01",
+      "capability": "Keep verification, calibration, validation, sensitivity, and application-prediction roles separate when a mechanobiological FE model is checked against a limited animal endpoint.",
+      "manuscript_use": "Methods ledgers, validation Results, model audit, and Discussion boundary statements.",
+      "applicable_domains": ["bone_remodeling", "finite_element_modeling", "porous_implant", "mechanobiology"],
+      "applicable_study_designs": ["FE_validation", "animal_verified_model", "mixed_numerical_experimental"],
+      "supporting_locators": ["S004:C01", "S006:C01", "S009:C02"],
+      "counterexample_or_boundary": "Mesh convergence and spatial histology agreement do not calibrate time, SED thresholds, fatigue strength, interface mechanics, or clinical outcomes.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC6928091-02",
+      "capability": "Represent bone fill as a state vector—pore size, porosity, location, density/modulus, time point, and measured-versus-predicted fraction—before interpreting implant stress or fatigue.",
+      "manuscript_use": "FE methods, results tables, mechanistic discussion, and as-built/biological evidence audits.",
+      "applicable_domains": ["porous_scaffold", "osseointegration", "implant_fatigue", "bone_mechanics"],
+      "applicable_study_designs": ["adaptive_FE", "animal_study", "implant_design"],
+      "supporting_locators": ["S003:C01", "S004:C01", "S006:C01", "S007:C01"],
+      "counterexample_or_boundary": "A deeper equilibrium FE fill than the six-week histology supports is a model discrepancy, not evidence that the implant reaches that state in vivo.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC6928091-03",
+      "capability": "Let the remaining local fatigue boundary and negative result constrain a favorable stress-redistribution narrative.",
+      "manuscript_use": "Results synthesis, safety decisions, Discussion, and conclusion proportionality.",
+      "applicable_domains": ["implant_fatigue", "additive_manufacturing", "porous_implant", "finite_element_modeling"],
+      "applicable_study_designs": ["FE_application", "fatigue_risk_analysis", "mixed_validation"],
+      "supporting_locators": ["S007:C01", "S009:C01", "S009:C03"],
+      "counterexample_or_boundary": "A 20%-plus local stress decrease does not establish fatigue safety when the 700 micrometre equilibrium peak remains above the untreated AM fatigue limit and no cyclic test was performed.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC6928091-04",
+      "capability": "Use the next discriminating test—longitudinal as-built imaging plus replicated device fatigue and interface measurements—to resolve model uncertainty instead of extrapolating equilibrium to clinical life.",
+      "manuscript_use": "Limitations, future-work roadmap, and translational recommendations.",
+      "applicable_domains": ["implant_translation", "additive_manufacturing", "bone_ingrowth", "fatigue_testing"],
+      "applicable_study_designs": ["preclinical_validation", "implant_fatigue", "FE_model_development"],
+      "supporting_locators": ["S009:C01", "S009:C02", "S009:C03"],
+      "counterexample_or_boundary": "A single time point and idealized model cannot distinguish slow biological ingrowth from a true equilibrium state or separate lattice fatigue from interface failure.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_partial-bone-stress_and_fatigue-risk_question",
+    "methods_transparency": "moderate_to_high_for_FE_setup_low_for_biological_time_and_as-built_state",
+    "validation_credibility": "moderate_for_spatial_histology_comparison_low_for_fatigue_and_clinical_endpoints",
+    "outcome_uncertainty_reporting": "moderate_for_ranges_and_p-values_low_for_model_parameter_and_time_uncertainty",
+    "comparator_fairness": "high_for_matched_pore-size_and_pre/post-remodeling_models_moderate_for_histology_comparison",
+    "conclusion_proportionality": "moderate",
+    "critical_weaknesses": [
+      "Equilibrium FE is compared with one six-week histology time point and overpredicts bone-surface formation; remodeling parameters and time are not calibrated.",
+      "Idealized smooth, homogeneous, tied-contact, quarter-slice models omit AM defects, microgeometry, phase state, frictional micromotion, and full physiologic loads.",
+      "No cyclic implant experiment or replicated fatigue cohort tests the predicted safety boundary; the 700 micrometre design remains above the untreated AM fatigue limit at equilibrium.",
+      "Bone-surface formation is not a measured proxy for complete fixation, long-term osseointegration, or clinical outcome."
+    ],
+    "overall_credibility": "moderate_for_mechanistic_partial-bone_stress_redistribution_low_for_calibrated_fatigue_life_osteointegration_and_clinical_translation"
+  },
+  "summary_zh": "这是一项原始的有限元—绵羊组织学验证研究，不是单纯的动物实验或临床研究。两种 SLS Ti-6Al-4V 多孔植入物（700 μm、75% 孔隙率；1500 μm、70%）在六只绵羊的股骨髁缺损中取六周未涂层样本，组织学/SEM 显示外周、层板状骨形成。四分之一对称 FE 模型用 SED 现象学重塑算法预测骨填充，再比较重塑前后应力/应变：峰值应力分别下降约 23% 和 21%，但模型比组织学预测了更深的骨填充，且 700 μm 模型平衡时 411 MPa 仍超过未处理增材制造 Ti-6Al-4V 的 350 MPa 疲劳强度。网格收敛属于验证；重塑常数和计算时间没有由本数据校准；应力、疲劳和骨整合结论仍是模型预测或代理端点。平滑理想几何、均质材料、绑定位移、静态峰值载荷、单一时间点和未建模的 AM 缺陷/微动限制了转化，下一步需要纵向影像、真实 as-built 模型、重复疲劳和界面/生物学测量。",
+  "reader_notes": [
+    "Primary Luna reader reviewed all 14 non-reference packet chunks in exact order: S001:C01; S002:C01; S003:C01; S004:C01; S005:C01; S006:C01; S007:C01; S008:C01; S009:C01-S009:C03; S010:C01; S011:C01; S012:C01.",
+    "Full-text adjudication classifies the paper as original computational FE bone-remodeling research with limited six-week ovine histology/SEM verification. It is not a clinical study, and the animal evidence is one time point from six uncoated implants in a larger study.",
+    "Bone-fill state, pore size/porosity, SED model, material/geometry/load assumptions, mesh verification, predicted stresses, fatigue limits, p-values, ranges, and the 14.5% formation discrepancy are retained. Predicted equilibrium is not rewritten as measured six-week bone formation.",
+    "The card keeps the 700 micrometre equilibrium stress above the untreated AM fatigue strength, the absence of cyclic testing, the smooth idealized geometry, tied-contact and time-calibration limits, and the distinction between local stress redistribution, bone integration, durability, and clinical outcomes."
+  ]
+}

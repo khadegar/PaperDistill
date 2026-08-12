@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10850231",
+  "paper_id": "doi:10.3389/fbioe.2024.1349819",
+  "pmcid": "PMC10850231",
+  "source_record_sha256": "8f8b360d2558bc24d7c4287ac1dc4f75c5f1e5e97fa8b52b48508f962f1d14f8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "146eb9d53ecfdcba8776ac17e9a9b68da6fd6b9910756d1b162b774a400c1a0f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The application of custom 3D-printed prostheses with ultra-short stems in the reconstruction of bone defects: a single center analysis",
+    "authors": "Zhang P, Tian W, Li P, Zhang F, Qu G, Du X, Liu G, Niu X.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1349819",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

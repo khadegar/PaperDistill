@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8274147",
+  "paper_id": "doi:10.1111/os.12927",
+  "pmcid": "PMC8274147",
+  "source_record_sha256": "4c4ca642882ea6e48d0d7aca9396ddc33d719027ad94d9ac2a7f5f9c0f23a77e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3b7b53803dffeeabdd806bb07ee00f61c8aec0310371a5cbb5e9fd97701792d4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of Tibial Component Coronal Alignment on Knee Joint Biomechanics Following Fixed‐bearing Unicompartmental Knee Arthroplasty: A Finite Element Analysis",
+    "authors": "Nie Y, Yu Q, Shen B.",
+    "year": 2021,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.12927",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8550985",
+  "paper_id": "doi:10.1016/j.jot.2021.09.002",
+  "pmcid": "PMC8550985",
+  "source_record_sha256": "0230ea1babb2ccff3f7e222091dc310e21695619141eebe1e65013008d2d4247",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8353d18a1c7a9b860a6e37a9cf29b608d0e778bb0e793fb2244c08947f9a6e8c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A novel device for treatment of osteonecrosis of femoral head: Feasibility and preliminary efficacy of animal study",
+    "authors": "Li B, Yu L, Huang Z, Liang Y, Li G, Zhao Y.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2021.09.002",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

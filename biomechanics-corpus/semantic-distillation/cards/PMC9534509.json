@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9534509",
+  "paper_id": "doi:10.1126/sciadv.abq7116",
+  "pmcid": "PMC9534509",
+  "source_record_sha256": "7603b209f7955459acd50947f069a7a77cb5df5b1120a683bc6b59026bd2b4b3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4aae8854186eca760f6adf7a47fedfd37c0ac43bcfaa10067e1a848ea44b0c5b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A unique biomimetic modification endows polyetherketoneketone scaffold with osteoinductivity by activating cAMP/PKA signaling pathway",
+    "authors": "Yuan B, Zhang Y, Zhao R, Lin H, Yang X, Zhu X, Zhang K, Mikos AG, Zhang X.",
+    "year": 2022,
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.abq7116",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

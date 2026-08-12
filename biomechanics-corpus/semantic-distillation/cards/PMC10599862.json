@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10599862",
+  "paper_id": "doi:10.1155/2023/8851098",
+  "pmcid": "PMC10599862",
+  "source_record_sha256": "b308e76950640b735c03167c42ad5bff90f12612d969f222c81aa2078facf0a7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0421e5a4d78493f6ad7941eb3de22b2016965713df1274d061154a30ede23ca4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Nonlinear Three-Dimensional Finite Element Analysis of Stress Distribution and Microstrain Evaluation in Short Dental Implants with Three Different Implant–Abutment Connections in Single and Splinted Conditions in the Posterior Mandible",
+    "authors": "Talreja KS, Rodrigues SJ, Pai UY, Shetty T, Saldanha S, Mahesh M, Hegde P, Shenoy SB, Naik N, Mukherjee S, Sales A, Kamath V, Bajantri P.",
+    "year": 2023,
+    "journal": "International Journal of Dentistry",
+    "doi": "10.1155/2023/8851098",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

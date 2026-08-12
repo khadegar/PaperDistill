@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10427868",
+  "paper_id": "doi:10.3389/fbioe.2023.1156525",
+  "pmcid": "PMC10427868",
+  "source_record_sha256": "12ae3eb8fe7ff01b976c2ec0a7779153d66e98d19c2c5f1b2fc10c04c5d3df90",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e425f780af157572a2eb3be72493e7aace3095a24d5324f0c2901657404cf480",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Facile bioactive transformation of magnesium alloy surfaces for surgical implant applications",
+    "authors": "Wang CC, Hung JY, Uan JY, Fang CY, Kuo YL, Chang WJ, Ohiro Y, Sun YS.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1156525",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

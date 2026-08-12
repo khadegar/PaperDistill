@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10618168",
+  "paper_id": "doi:10.1038/s41467-023-42598-4",
+  "pmcid": "PMC10618168",
+  "source_record_sha256": "4bdce4f347210901fa77ad56a01d039000297536e350333a611335bf16bf871a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fb0802222907cb561491ba4e07ee6e95c7c81b24a69a23c0f218a4a83c20fec8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Self-promoted electroactive biomimetic mineralized scaffolds for bacteria-infected bone regeneration",
+    "authors": "Li Z, He D, Guo B, Wang Z, Yu H, Wang Y, Jin S, Yu M, Zhu L, Chen L, Ding C, Wu X, Wu T, Gong S, Mao J, Zhou Y, Luo D, Liu Y.",
+    "year": 2023,
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-023-42598-4",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

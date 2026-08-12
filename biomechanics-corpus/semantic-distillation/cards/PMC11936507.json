@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11936507",
+  "paper_id": "doi:10.1016/j.mbm.2024.100097",
+  "pmcid": "PMC11936507",
+  "source_record_sha256": "3afc669ff0fdb26b4481445ce6814470425fb62fafc86afecec4d953985db77f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4fb66e13bc7ca33b73d520845ed3b861492543b4e38895a9e837523ed11b8caa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Increased deformations are dispensable for encapsulated cell mechanoresponse in engineered bone analogs mimicking aging bone marrow",
+    "authors": "Regner AM, DeLeon M, Gibbons KD, Howard S, Nesbitt DQ, Darghiasi SF, Zavala AG, Lujan TJ, Fitzpatrick CK, Farach-Carson MC, Wu D, Uzer G.",
+    "year": 2025,
+    "journal": "Mechanobiology in Medicine",
+    "doi": "10.1016/j.mbm.2024.100097",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

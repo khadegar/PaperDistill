@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11396358",
+  "paper_id": "doi:10.3390/ma17174241",
+  "pmcid": "PMC11396358",
+  "source_record_sha256": "d2601e889689d9bf6f6f93c9e51f9fb299eba3fb127292ef556d94119851b41b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5919d5b63c3de5743ddabb73ef1d35ce25dcf9026449649f2e10ae28708c041f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Generation of Customized Bone Implants from CT Scans Using FEA and AM",
+    "authors": "Wolf C, Juchem D, Koster A, Pilloy W.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17174241",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

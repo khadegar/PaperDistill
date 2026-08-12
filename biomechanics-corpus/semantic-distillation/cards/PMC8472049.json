@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8472049",
+  "paper_id": "doi:10.3390/ma14185197",
+  "pmcid": "PMC8472049",
+  "source_record_sha256": "85e434554f55f23de1d0e063dcbcfd0c78805eb65b8ce4266d580f232f846e97",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "24dd1356fcd04d0411463a7f9286c58f03cf4852b332c5e3bff0071ae2ef0473",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Extrusion-Based 3D Printing of Calcium Magnesium Phosphate Cement Pastes for Degradable Bone Implants",
+    "authors": "Götz LM, Holeczek K, Groll J, Jüngst T, Gbureck U.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14185197",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

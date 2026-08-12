@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10219510",
+  "paper_id": "doi:10.3390/jfb14050251",
+  "pmcid": "PMC10219510",
+  "source_record_sha256": "3fea20183d65d1a6d64e506498c8955ca306dd14395d21a97f23310eaabd6792",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9bfcde8160696cd456506c1b244405d1f83d748322bca4974c030664c3b1d5e8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Robocasting of Ceramic Fischer–Koch S Scaffolds for Bone Tissue Engineering",
+    "authors": "Baumer V, Gunn E, Riegle V, Bailey C, Shonkwiler C, Prawel D.",
+    "year": 2023,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb14050251",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

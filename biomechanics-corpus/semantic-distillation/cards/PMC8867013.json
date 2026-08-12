@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8867013",
+  "paper_id": "doi:10.3389/fbioe.2022.811128",
+  "pmcid": "PMC8867013",
+  "source_record_sha256": "eb16bfb0c5af465f4e114dfae4c54d9894387bbf98a6c63314d9425a33934c09",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ef9f736ffe164a50f78e4ab22109238cd889bef47d378e1e49a40543c67869d1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Extramedullary Osseointegration—A Novel Design of Percutaneous Osseointegration Prosthesis for Amputees",
+    "authors": "Sun Y, Xu J, Lv S, Xu Z, Li L, Li Y, Li Y.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.811128",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

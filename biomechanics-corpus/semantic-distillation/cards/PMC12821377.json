@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12821377",
+  "paper_id": "doi:10.1093/burnst/tkaf078",
+  "pmcid": "PMC12821377",
+  "source_record_sha256": "faac87faf5626bed38db7cb40e41d037e1d45a5f44e03eac79c2ad16d5fad82f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "218ae4ea633103a0785c5c841014afa9f3f3259fdb75b1cba9d6ca814fda36a9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advanced engineering strategies for biomaterial scaffolds application in tendon–bone interface regeneration",
+    "authors": "Feng H, Yu X, Zhang G, Yuan Z, Al-Enizi AM, Qin CX, El-Newehy M, Mo X.",
+    "year": 2026,
+    "journal": "Burns & Trauma",
+    "doi": "10.1093/burnst/tkaf078",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

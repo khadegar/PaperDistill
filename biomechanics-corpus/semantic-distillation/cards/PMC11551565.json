@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11551565",
+  "paper_id": "doi:10.1016/j.identj.2024.02.013",
+  "pmcid": "PMC11551565",
+  "source_record_sha256": "0f0af2924971ea66f257324efe4dc914602c3f552709c00bc5860447aad70a65",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b0d8339b6d56b99d25dd32aa1c100a43ada5b75bc5959bbf28a12503c64af7af",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Composite PCL Scaffold With 70% β-TCP as Suitable Structure for Bone Replacement",
+    "authors": "Ghezzi B, Matera B, Meglioli M, Rossi F, Duraccio D, Faga MG, Zappettini A, Macaluso GM, Lumetti S.",
+    "year": 2024,
+    "journal": "International Dental Journal",
+    "doi": "10.1016/j.identj.2024.02.013",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8503888",
+  "paper_id": "doi:10.3389/fbioe.2021.734486",
+  "pmcid": "PMC8503888",
+  "source_record_sha256": "4ee711f1f21ca0686042f2e07529a4f674b691c199700fb91c36264179906c05",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f2bc83d2e3f3168e863fa7fc73c278c7df15ec7e4e81cb776b9192890b8ff801",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Regeneration in Load-Bearing Segmental Defects, Guided by Biomorphic, Hierarchically Structured Apatitic Scaffold",
+    "authors": "Kon E, Salamanna F, Filardo G, Di Matteo B, Shabshin N, Shani J, Fini M, Perdisa F, Parrilli A, Sprio S, Ruffini A, Marcacci M, Tampieri A.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.734486",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11711214",
+  "paper_id": "doi:10.1002/btm2.10723",
+  "pmcid": "PMC11711214",
+  "source_record_sha256": "670d121eaa3ab9b85464531db773b1aa3787b32607c55d5458ee7934b6108dec",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e426a66be1f176cadfc4190c17634295935c253d553e545cf0a5631183a697c5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "ColMA‐based bioprinted 3D scaffold allowed to study tenogenic events in human tendon stem cells",
+    "authors": "Cortella G, Lamparelli EP, Ciardulli MC, Lovecchio J, Giordano E, Maffulli N, Della Porta G.",
+    "year": 2024,
+    "journal": "Bioengineering & Translational Medicine",
+    "doi": "10.1002/btm2.10723",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

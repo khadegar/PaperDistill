@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12630531",
+  "paper_id": "doi:10.1186/s40729-025-00656-0",
+  "pmcid": "PMC12630531",
+  "source_record_sha256": "6728baa576c86c264414d51f4a71ce69346a9ccfb77ccbbeab42b60291aa5cb2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6915da0bcb361ff0dfd4c50bf708d51a70e0931da004078c505d682efc095bd9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bridging the missing middle in osseointegration: meso-scale topography between macro design and microroughness",
+    "authors": "Ogawa T, Shibata R, Komatsu K, Matsuura T, Chao D, Park W, Hirota M.",
+    "year": 2025,
+    "journal": "International Journal of Implant Dentistry",
+    "doi": "10.1186/s40729-025-00656-0",
+    "publication_type": "Systematic Review; review-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

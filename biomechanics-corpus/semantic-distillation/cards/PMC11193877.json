@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11193877",
+  "paper_id": "doi:10.1093/jbmrpl/ziae077",
+  "pmcid": "PMC11193877",
+  "source_record_sha256": "1610ee67edbce1b0b9f83a276e2900d9aa21006df73825377a43294c7a334ac4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1e5ac6968cd83a2f622ee3b233dc2aeabed787ccfd6a47c06cf348ccc0cafc4f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Monthly treatment with romosozumab for 1 year increases bone mineral at the hip, but not the knee, in women with chronic spinal cord injury",
+    "authors": "Crack LE, Simonian N, Schnitzer TJ, Edwards WB.",
+    "year": 2024,
+    "journal": "JBMR Plus",
+    "doi": "10.1093/jbmrpl/ziae077",
+    "publication_type": "Clinical Trial; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

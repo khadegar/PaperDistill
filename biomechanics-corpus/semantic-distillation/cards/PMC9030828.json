@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9030828",
+  "paper_id": "doi:10.3390/ma15082899",
+  "pmcid": "PMC9030828",
+  "source_record_sha256": "88125e3543127a31fc6684d77a093cb2ab585cfb0ef69ea1e0a5447ddb80108b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "70cfa79a7e022acb9ba1e6588fda7340529a24b51bca5133035d5380811a6863",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact Resistant Structure Design and Optimization Inspired by Turtle Carapace",
+    "authors": "Pei B, Guo L, Wu X, Hu M, Wu S, Wang Y.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15082899",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

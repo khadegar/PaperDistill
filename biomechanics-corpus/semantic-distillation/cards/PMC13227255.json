@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13227255",
+  "paper_id": "doi:10.1016/j.jare.2025.08.058",
+  "pmcid": "PMC13227255",
+  "source_record_sha256": "82fe8166cc773f32160049c04294e37cb7d30b37ffe3dd8a5d67473c4292ed80",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a3140fa6c1e7bb6afca3aa8313cb0d91861eb1d13c734e96f0e08274de5b371b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A rapidly fabricated bone marrow enrichment material with a controllable pore size promotes osteogenesis close to autogenous bone graft in clinic",
+    "authors": "Yang Q, Yu B, Liu C, Zhou J, Zhang Y, Yang M, He S, Cai J, Dai Q, Tang Z, Xu J, Zhang Z, Hou T.",
+    "year": 2026,
+    "journal": "Journal of Advanced Research",
+    "doi": "10.1016/j.jare.2025.08.058",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

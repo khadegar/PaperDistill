@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9017477",
+  "paper_id": "doi:10.1155/2022/6497754",
+  "pmcid": "PMC9017477",
+  "source_record_sha256": "63cb8cf7290d827688094083a435e2f2258490f826608234d670f0cde634d1be",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e79a4771da53d4bd4e66e11b0c4302b6b0569fd4faa2835ec938b9c4703e5706",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical Analysis of Posterior Pedicle Screw System Placement and Internal Fixation in the Treatment of Lumbar Fractures",
+    "authors": "Mu S, Wang J, Gong S.",
+    "year": 2022,
+    "journal": "Computational and Mathematical Methods in Medicine",
+    "doi": "10.1155/2022/6497754",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

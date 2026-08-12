@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9352972",
+  "paper_id": "doi:10.1016/j.mtbio.2022.100361",
+  "pmcid": "PMC9352972",
+  "source_record_sha256": "81c57969bebd5ddd8414d85d5d5bde926f002394357f8d93cf9ae84e10edb0b1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5b693cb2c24137490e4d43fdcd7d1f7ffe5cccabbc31bfeabfab45a2f09f0a61",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed high-density polyethylene scaffolds with bioactive and antibacterial layer-by-layer modification for auricle reconstruction",
+    "authors": "Yin J, Zhong J, Wang J, Wang Y, Li T, Wang L, Yang Y, Zhen Z, Li Y, Zhang H, Zhong S, Wu Y, Huang W.",
+    "year": 2022,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2022.100361",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

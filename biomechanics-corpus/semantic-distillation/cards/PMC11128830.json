@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11128830",
+  "paper_id": "doi:10.1016/j.heliyon.2024.e30658",
+  "pmcid": "PMC11128830",
+  "source_record_sha256": "7f26f52c0f2bb26c39ff2c71fa2404c0bf1f9b17fc323325d6b4714923dc880c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "69b869784e90eb6c2d6d31e9b2f6f0d66451dacaca618e133a9012885f9fa583",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Groove design optimization of femoral heads in solid hip implants: Study on stress distribution and total deformation using FEA and full factorial design",
+    "authors": "Abdudeen A, Abu Qudeiri JE, Kareem A.",
+    "year": 2024,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2024.e30658",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

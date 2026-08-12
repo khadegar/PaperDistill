@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8495697",
+  "paper_id": "doi:10.1021/acsomega.1c00735",
+  "pmcid": "PMC8495697",
+  "source_record_sha256": "1a53aa80da51065b1de0a0314072ec9cb230748964aa5e4918a1c0728a682885",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "df5636e3504fd35f2433e010f796b7b9bf93ea78b79df05a6914ea5bfca809f4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Microvessel-on-Chip Fabrication for the In Vitro Modeling of Nanomedicine Transport",
+    "authors": "Dávila S, Cacheux J, Rodríguez I.",
+    "year": 2021,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.1c00735",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

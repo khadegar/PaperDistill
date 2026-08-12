@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12010109",
+  "paper_id": "doi:10.3389/fbioe.2025.1545693",
+  "pmcid": "PMC12010109",
+  "source_record_sha256": "a00309206897ae75c18957e8378de0e173cc77ae7666262e6220eb0cbf507ac9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1f20534c796f0c029eed048319066c897d7ad5a2c4e274e435841749fbf873c5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical and biological properties of 3D printed bone tissue engineering scaffolds",
+    "authors": "Wang M, Xu Y, Cao L, Xiong L, Shang D, Cong Y, Zhao D, Wei X, Li J, Fu D, Lian H, Zhao Z.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1545693",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10475942",
+  "paper_id": "doi:10.3389/fbioe.2023.1258030",
+  "pmcid": "PMC10475942",
+  "source_record_sha256": "47abb6ad8228176934010af8ec0fbb552fbc31dcf53dc02812cb209555d7e1f2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fa712d50dfd35cacffc3b75b61b389e09b72c554371366664634917d7f1644c0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteogenic differentiation of 3D-printed porous tantalum with nano-topographic modification for repairing craniofacial bone defects",
+    "authors": "Zhang C, Zhou Z, Liu N, Chen J, Wu J, Zhang Y, Lin K, Zhang S.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1258030",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

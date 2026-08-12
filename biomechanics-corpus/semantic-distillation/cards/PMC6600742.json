@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6600742",
+  "paper_id": "doi:10.3390/ma12111753",
+  "pmcid": "PMC6600742",
+  "source_record_sha256": "44c4af7b318574aeb378f37013cb1e7b0c629e6099353601bad15d3712c5d136",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "db0c332ddf0f2c0f191f48481163da86ea1f9f6f0f4e052ad0a0a439fef037eb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Micro-Scale Surface Patterning of Titanium Dental Implants by Anodization in the Presence of Modifying Salts",
+    "authors": "Marenzi G, Spagnuolo G, Sammartino JC, Gasparro R, Rebaudi A, Salerno M.",
+    "year": 2019,
+    "journal": "Materials",
+    "doi": "10.3390/ma12111753",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

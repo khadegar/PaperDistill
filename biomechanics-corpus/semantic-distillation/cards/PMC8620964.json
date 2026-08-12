@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8620964",
+  "paper_id": "doi:10.1186/s12891-021-04859-5",
+  "pmcid": "PMC8620964",
+  "source_record_sha256": "744109c7a0fbd4c613cdb29dc9d3adb480fac057f175e346147286aa80136718",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "aee921e13d5fc917e5d4104b89b33d28f5f7b6a9c46595319572b3314eaf8bb0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Individualized 3D printing-assisted repair and reconstruction of neoplastic bone defects at irregular bone sites: exploration and practice in the treatment of scapular aneurysmal bone cysts",
+    "authors": "Luo G, Zhang Y, Wang X, Chen S, Li D, Yu M.",
+    "year": 2021,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-021-04859-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

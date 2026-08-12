@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7555666",
+  "paper_id": "doi:10.3390/ijms21186942",
+  "pmcid": "PMC7555666",
+  "source_record_sha256": "d3ce2386911174125bd5c9f5e554bdb3886f3a971e3bb1a31de2ab13da3b654a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1ff5738e3f88df8e5e7cec1ab71ab5042266c528caac290b82e2e6e13aae5e74",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed Ceramic Bone Scaffolds with Variable Pore Architectures",
+    "authors": "Lim HK, Hong SJ, Byeon SJ, Chung SM, On SW, Yang BE, Lee JH, Byun SH.",
+    "year": 2020,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms21186942",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

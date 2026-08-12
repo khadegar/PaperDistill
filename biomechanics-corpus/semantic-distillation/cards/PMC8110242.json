@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8110242",
+  "paper_id": "doi:10.1007/s10439-021-02787-y",
+  "pmcid": "PMC8110242",
+  "source_record_sha256": "e23205e4435a26cc162913e7e12f89054b8dbc9ccba2e3186859532f8bfbabbf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "866a2ccdf5b46e4f1164b3e9c964fdb8eb0ede1ecaec5cbab199c19463376e33",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Silico Clinical Trials in the Orthopedic Device Industry: From Fantasy to Reality?",
+    "authors": "Favre P, Maquer G, Henderson A, Hertig D, Ciric D, Bischoff JE.",
+    "year": 2021,
+    "journal": "Annals of Biomedical Engineering",
+    "doi": "10.1007/s10439-021-02787-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

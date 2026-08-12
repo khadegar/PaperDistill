@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9804299",
+  "paper_id": "doi:10.1002/jbmr.4663",
+  "pmcid": "PMC9804299",
+  "source_record_sha256": "95ea5db7114196023ad2c7b4402b0b181cf4ba53ee0080873fd7aeea96d55973",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "51f186508a7a95bbae67ca78ec9fff6377e4073ccd8e5d1afe54325ede2cdde0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hip Fractures in Older Adults Are Associated With the Low Density Bone Phenotype and Heterogeneous Deterioration of Bone Microarchitecture",
+    "authors": "Whittier DE, Manske SL, Billington E, Walker RE, Schneider PS, Burt LA, Hanley DA, Boyd SK.",
+    "year": 2022,
+    "journal": "Journal of Bone and Mineral Research",
+    "doi": "10.1002/jbmr.4663",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12033929",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101773",
+  "pmcid": "PMC12033929",
+  "source_record_sha256": "10ff5664a88321c25f0b0b1a3b26101afd9741567aa31f8b89687fa41d90bae7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c1df2e2457604f6d89689acb633f1611a4f9fb04726e767331bb544b6d6c0439",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multiscale metal-based nanocomposites for bone and joint disease therapies",
+    "authors": "Wang Y, Jan H, Zhong Z, Zhou L, Teng K, Chen Y, Xu J, Xie D, Chen D, Xu J, Qin L, Tuan RS, Li ZA.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101773",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

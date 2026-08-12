@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4669025",
+  "paper_id": "doi:10.1093/rb/rbu019",
+  "pmcid": "PMC4669025",
+  "source_record_sha256": "37eba5e5883812bb73470db129bbcfbdc2cdcafa3a9a18a58321bf3cb0e29047",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "49a7e592a4f7633e0b73b6db836e333be143b336307b5fbbeceb423f69d2f30e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Next-generation resorbable polymer scaffolds with surface-precipitated calcium phosphate coatings",
+    "authors": "Kim J, Magno MH, Ortiz O, McBride S, Darr A, Kohn J, Hollinger JO.",
+    "year": 2015,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbu019",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

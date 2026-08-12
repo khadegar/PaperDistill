@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10067232",
+  "paper_id": "doi:10.1186/s13018-023-03749-x",
+  "pmcid": "PMC10067232",
+  "source_record_sha256": "c0f79a75a2dab25c054505608e4c5f27a6b4aea88681f0116f24049b4c36b103",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6682e6f68ec8b50a9d1ed1a6d7632e31f8a6549ae028c66b005303c892fd5565",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Significantly reducing the presurgical preparation time for anterior pelvic fracture surgery by faster creating patient-specific curved plates",
+    "authors": "Xu SS, Yeh TT, Chen JE, Li YT.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-03749-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

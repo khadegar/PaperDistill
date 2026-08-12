@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9229101",
+  "paper_id": "doi:10.3390/polym14122389",
+  "pmcid": "PMC9229101",
+  "source_record_sha256": "5d9a73f0f17ba1c2b06a29691ee713ff9c3f13d6e6733d0e2069115ff68f0645",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c681527311f22db0a3f7be3a1bb97e6aaaff82c69f12c79e80f58f501cb6cf80",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed PLA-Bioglass Scaffolds with Controllable Calcium Release and MSC Adhesion for Bone Tissue Engineering",
+    "authors": "Schätzlein E, Kicker C, Söhling N, Ritz U, Neijhoft J, Henrich D, Frank J, Marzi I, Blaeser A.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14122389",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

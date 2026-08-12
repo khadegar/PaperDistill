@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11743647",
+  "paper_id": "doi:10.3389/fbioe.2024.1495810",
+  "pmcid": "PMC11743647",
+  "source_record_sha256": "d1d30ed1b22c508f2899e45af6f3218aa46659b51e327cd52f187afcce5f557d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "252424d0411f74669b67d02b8479886b6e13f288bb017146496bf37b4ea3bc87",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of polylactic acid scaffolds with various orientations and diameters on osteogenesis and angiogenesis",
+    "authors": "Xu YR, Tang DY, Xiao ZP, Huang ZT, Zhang HR, Tang ZW, He F.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1495810",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

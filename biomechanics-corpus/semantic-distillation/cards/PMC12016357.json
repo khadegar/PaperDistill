@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12016357",
+  "paper_id": "doi:10.1186/s12891-025-08625-9",
+  "pmcid": "PMC12016357",
+  "source_record_sha256": "f9f9e7967ac07c8eb8bf792fa24c25d828bc93793d6be2114d2b0c57fae707e5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0ea6962d0e2251a2299fede4cfb1e8a39e66ca6c0b0a9d7b849a22a80d50a76e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of new assembled titanium mesh cage on the improvement in biomechanical performance of single-level anterior cervical corpectomy and fusion: a finite element analysis",
+    "authors": "Zhang KR, Yang Y, Li YQ, Ma LT, Wang BY, Ding C, Meng Y, Rong X, Hong Y, Liu H.",
+    "year": 2025,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-025-08625-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

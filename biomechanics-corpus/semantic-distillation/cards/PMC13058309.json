@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13058309",
+  "paper_id": "doi:10.6026/973206300220495",
+  "pmcid": "PMC13058309",
+  "source_record_sha256": "782b2fe24a44b15ab7c014a63f30f1effd8ed14a1eb0b19e3a91b3e4bfbfc137",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "de86858c5c740ce1e0f2e12f64ccd67ba38f6894c24b84fa3be4eca10d323bfc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of dental implant restoration on biomechanical stress distribution in the temporomandibular joint among patients with posterior tooth loss",
+    "authors": "Chakraborty N, Laddha K, Joshi S, Shukla D, Krishnamoorthy K, Patel KV, Hirani T.",
+    "year": 2026,
+    "journal": "Bioinformation",
+    "doi": "10.6026/973206300220495",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7823515",
+  "paper_id": "doi:10.3390/microorganisms9010097",
+  "pmcid": "PMC7823515",
+  "source_record_sha256": "c28d59ed3799910c257ce57e8a0c47bab18150e0e7a330f05ac04008a1fe8ebb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a3d40ce2ea147a9dc69a067524c9955e1d89beedfe0405c4236ed136ce9e288e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Rapid Diagnostics of Orthopaedic-Implant-Associated Infections Using Nanopore Shotgun Metagenomic Sequencing on Tissue Biopsies",
+    "authors": "Noone JC, Helmersen K, Leegaard TM, Skråmm I, Aamot HV.",
+    "year": 2021,
+    "journal": "Microorganisms",
+    "doi": "10.3390/microorganisms9010097",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

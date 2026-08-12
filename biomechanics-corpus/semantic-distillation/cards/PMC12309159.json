@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12309159",
+  "paper_id": "doi:10.1186/s12891-025-09005-z",
+  "pmcid": "PMC12309159",
+  "source_record_sha256": "2afed3a0bc6355938d07cbbc44442c76c9691671b1b2b9d5ab9942e9e6080eae",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1d97b3320240bf8eb457217a78b8c5fcc3227c0d9d56670ab333f5d41ece8f9d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dynamic hip screw versus proximal femoral nailing in stable intertrochanteric fractures: a systematic review of efficacy and outcomes",
+    "authors": "Musa AHM, Mohamed MSA, KhalafAllah HGA, Ahmed MMM, Fadlalla MHA, Khalafalla SGA, Amin MHJ, Abdelmaged HMA.",
+    "year": 2025,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-025-09005-z",
+    "publication_type": "Comparative Study; Systematic Review; review-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

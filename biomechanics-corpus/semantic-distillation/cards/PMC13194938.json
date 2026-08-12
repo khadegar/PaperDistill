@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13194938",
+  "paper_id": "doi:10.1038/s41598-026-46620-9",
+  "pmcid": "PMC13194938",
+  "source_record_sha256": "ae71bcd38136ab1e85a9d71d95df035d7567087d3c10281cc8ec58c3d8390fd6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "856e3d9a5f923a549449b17c8c32c31987a3fc248c951dc418ccad7c65763fba",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative mechanical characterisation of 13–93 bioactive glass and hybrid scaffolds for bone regeneration",
+    "authors": "Liu J, Chen J, Heyraud A, Sharma A, Lamari M, Tallia F, Jones JR, Lee PD.",
+    "year": 2026,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-026-46620-9",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

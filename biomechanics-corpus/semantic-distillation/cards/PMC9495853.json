@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9495853",
+  "paper_id": "doi:10.3390/bioengineering9090424",
+  "pmcid": "PMC9495853",
+  "source_record_sha256": "b13c148b9d6b268591b344f3411d94e7da803a7ed5c7ee68b4aca15d6c9f15e4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3663500c093674f0182ad3b4ff1aa9691701bee08a29569b54927c26ac3090cd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Novel Design Method of Gradient Porous Structure for Stabilized and Lightweight Mandibular Prosthesis",
+    "authors": "Liu R, Su Y, Yang W, Wu K, Du R, Zhong Y.",
+    "year": 2022,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering9090424",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

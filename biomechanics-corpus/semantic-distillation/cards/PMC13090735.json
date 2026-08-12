@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13090735",
+  "paper_id": "doi:10.1016/j.mtbio.2026.103095",
+  "pmcid": "PMC13090735",
+  "source_record_sha256": "dd7711204988d939c149322d1ddc8fc0de48a75ad43345681849279e47bf907c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "77191c0f6d23c0886f2c7d8b07750e2997e85fce0c3d7e08db31223f0e2fd269",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Full-laser-enabled clean hierarchical structuring and multifunctional synergy for high-performance in vivo 3D-printed implants",
+    "authors": "Zhang Q, Zhang X, Liang S, Zhang J, Ma Q, Wang Y, Li X, Yuan F, Guan Y, Wang H.",
+    "year": 2026,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2026.103095",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

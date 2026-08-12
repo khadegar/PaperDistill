@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9000590",
+  "paper_id": "doi:10.3390/ma15072572",
+  "pmcid": "PMC9000590",
+  "source_record_sha256": "4446dad6ed3e1c5d7457916713ea708ecab2064d70bf7c4886507c95cd75a7c8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "63689e3c44b826db29a9bbb07d84ac5329a643f2c837c12115e55b74330cc954",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro Hydrolytic Degradation of Polyester-Based Scaffolds under Static and Dynamic Conditions in a Customized Perfusion Bioreactor",
+    "authors": "Alamán-Díez P, García-Gareta E, Napal PF, Arruebo M, Pérez MÁ.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15072572",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

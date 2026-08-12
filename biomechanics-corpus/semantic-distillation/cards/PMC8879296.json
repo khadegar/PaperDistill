@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8879296",
+  "paper_id": "doi:10.3390/jcm11041027",
+  "pmcid": "PMC8879296",
+  "source_record_sha256": "8ff07cc3465ce1556da987eba641c71018a42802ee0b0b746d518c6fcd2a5292",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e4323e1e34386d1df71afc759b3b864bac04b95e4f3de22f632b0e2736c0f89b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Bone-Level Dental Implants Placement and of Cortical Thickness on Osseointegration: In Silico and In Vivo Analyses",
+    "authors": "Gil J, Sandino C, Cerrolaza M, Pérez R, Herrero-Climent M, Rios-Carrasco B, Rios-Santos JV, Brizuela A.",
+    "year": 2022,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm11041027",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

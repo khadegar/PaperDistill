@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10305577",
+  "paper_id": "doi:10.3390/polym15122619",
+  "pmcid": "PMC10305577",
+  "source_record_sha256": "1343025ea4a810d3dc679ad65bd63638b84742c58858c23ca55adc43a3400f3d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c3c146ea2da8cd67eb88114a4cd475bad6019ef5b64982fa51bd239d8e985f1b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed PLA Scaffold with Fibronectin Enhances In Vitro Osteogenesis",
+    "authors": "Salamanca E, Choy CS, Aung LM, Tsao TC, Wang PH, Lin WA, Wu YF, Chang WJ.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15122619",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11538827",
+  "paper_id": "doi:10.31616/asj.2024.0121",
+  "pmcid": "PMC11538827",
+  "source_record_sha256": "d0812f4cb9e54dc38dae0f266fe8e6a840928efac131cfc88e8d6598bd0dfe13",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4097057b71e1f1ee5b3be39d771f8dcbcd570ea3f65f1a75502bd3caff101e05",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient-specific mechanical analysis of pedicle screw insertion in simulated osteoporotic spinal bone models derived from medical images",
+    "authors": "Nishida N, Suzuki H, Tetsu H, Morishita Y, Kumaran Y, Jiang F, Funaba M, Fujimoto K, Ichihara Y, Sakai T, Ohgi J.",
+    "year": 2024,
+    "journal": "Asian Spine Journal",
+    "doi": "10.31616/asj.2024.0121",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

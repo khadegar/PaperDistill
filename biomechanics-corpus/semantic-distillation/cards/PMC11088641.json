@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11088641",
+  "paper_id": "doi:10.1038/s41598-024-61305-x",
+  "pmcid": "PMC11088641",
+  "source_record_sha256": "dc8327803ad3c449e3b08aaa3fa7a3b457c329c2fb75ab53ac7af9b680c2786c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c42c2a395e41ad5a25ad508bd57d8eb27643c97d418b9e321190a24973b12d72",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of different constraining boundary conditions on simulated femoral stresses and strains during gait",
+    "authors": "Bavil AY, Eghan-Acquah E, Diamond LE, Barrett R, Carty CP, Barzan M, Nasseri A, Lloyd DG, Saxby DJ, Feih S.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-61305-x",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

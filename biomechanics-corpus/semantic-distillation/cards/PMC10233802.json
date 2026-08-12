@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10233802",
+  "paper_id": "doi:10.1530/eor-23-0066",
+  "pmcid": "PMC10233802",
+  "source_record_sha256": "76d6ad9f80c021565d6d581af0cd335ca25dde2c9e4504ae3f29e0f2cca497f8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "876225d8d287ddf06fa39b932094301b31271339a78b5ea593f921476d464abc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing for patient-specific implants in musculoskeletal oncology",
+    "authors": "Kotrych D, Angelini A, Bohatyrewicz A, Ruggieri P.",
+    "year": 2023,
+    "journal": "EFORT Open Reviews",
+    "doi": "10.1530/eor-23-0066",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

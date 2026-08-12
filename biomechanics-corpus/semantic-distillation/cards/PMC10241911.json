@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10241911",
+  "paper_id": "doi:10.1038/s41598-023-36382-z",
+  "pmcid": "PMC10241911",
+  "source_record_sha256": "fb0e134da039706a0b157c4bde3c9904d73aa1ac0576f6dddcfea41e8be0858a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bdcb05f415e022e0a3c763547d2ee43d86ef21ad01292c204159adb5577eabdd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preparation and characterization of different micro/nano structures on the surface of bredigite scaffolds",
+    "authors": "Qin C, Che D, Liu D, Zhang Z, Feng Y.",
+    "year": 2023,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-023-36382-z",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

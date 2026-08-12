@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7181623",
+  "paper_id": "doi:10.1038/s41598-020-63666-5",
+  "pmcid": "PMC7181623",
+  "source_record_sha256": "521dc92ff57d7bccf8c81af77fe50be5a1b4a0078db0dded3d1f7f52026c588c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5e882a0a368b1a7907656a7e4aa9ff493376c7ec2f44de2063d7d5cccadf83f1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Simulation analysis of impact damage to the bone tissue surrounding a dental implant",
+    "authors": "Ma X, Diao X, Li Z, Xin H, Suo T, Hou B, Tang Z, Wu Y, Feng F, Luo H.",
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-63666-5",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

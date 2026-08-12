@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11880846",
+  "paper_id": "doi:10.22540/jmni-25-119",
+  "pmcid": "PMC11880846",
+  "source_record_sha256": "52f6a5d190ca45f41421b6990b5752c984f94695432d5f3efe32a5d250239783",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b2bfde014d292053ea1b390fad6cd1fc26b42aea450ffd5e906e0202bae0a86a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Characterization and Biocompatibility Assessment of 3D-Printed HA/PCL Porous Bionic Bone Scaffold: in Vitro and in Vivo Evaluation",
+    "authors": "Shen S, Shu B, Xu Y, Zhao H, Li Y, Li Y, Zhuo C, Zhuo N.",
+    "year": 2025,
+    "journal": "Journal of Musculoskeletal & Neuronal Interactions",
+    "doi": "10.22540/jmni-25-119",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13118265",
+  "paper_id": "doi:10.3390/ma19081646",
+  "pmcid": "PMC13118265",
+  "source_record_sha256": "0c796282c312b05d86c29a3f6d1877837f79e5d92459dab3c0b3e1a730ef5631",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "907365eff9bd01f0d3e164c3494242ca70ba572cf1a659f42dc98c0663fe12d7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Integrated Experimental and Computational Analysis of SLM-Fabricated Ti6Al4V Octet-Truss Scaffolds for Bone Tissue Engineering",
+    "authors": "Dogadkin D, Azamatov B, Alapati S, Alapati S, Kaliyev D, Rudenko S, Sadenova M, Dmitriev N.",
+    "year": 2026,
+    "journal": "Materials",
+    "doi": "10.3390/ma19081646",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

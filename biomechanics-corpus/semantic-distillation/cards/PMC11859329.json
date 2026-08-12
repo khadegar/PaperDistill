@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11859329",
+  "paper_id": "doi:10.3390/pharmaceutics17020153",
+  "pmcid": "PMC11859329",
+  "source_record_sha256": "e4e0a67ef0c210e3c495ec1cab22706dff955b2777f4a49175fe6f91abf0cd09",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c2f7ce1c428e977407dbf174c611459e4e4aa940a7eb635ba2907fbd0cd7ed49",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional-Printed Osteochondral Scaffold with Biomimetic Surface Curvature for Osteochondral Regeneration",
+    "authors": "Yang Y, Lin Q, Hou Z, Yang G, Shen L.",
+    "year": 2025,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics17020153",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

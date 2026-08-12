@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9729043",
+  "paper_id": "doi:10.1155/2022/2534350",
+  "pmcid": "PMC9729043",
+  "source_record_sha256": "da8ad0c83e89176cac44ac3062ffd778895e55804d273edc5f3e40017e176d71",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "feaa4387875e8a4f1f3488e38d8981dbd4ba7f7b1b34fd865964907acaf06d90",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Comparison of Multilevel Lumbar Instrumented Fusions in Adult Spinal Deformity According to the Upper and Lower Fusion Levels: A Finite Element Analysis",
+    "authors": "Son DM, Lee SB, Lee SJ, Park TH, Jang JE, Jeong SJ, Kang YM, Lee BH.",
+    "year": 2022,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2022/2534350",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

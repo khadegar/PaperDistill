@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5880507",
+  "paper_id": "doi:10.1021/acsomega.7b01924",
+  "pmcid": "PMC5880507",
+  "source_record_sha256": "3a32217cadc78f58b811aee12b6525bc06df759ce2158c89fd6b95e04074bf1d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2235bbbdb7c7792b5041fb2f6803bb27ae28a4cf469d3315fff4f2db611623f8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dramatic Improvement of the Mechanical Strength of Silane-Modified Hydroxyapatite–Gelatin Composites via Processing with Cosolvent",
+    "authors": "Hu H, Huang BW, Lee YT, Hu J, Wong SW, Ko CC, You W.",
+    "year": 2018,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.7b01924",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

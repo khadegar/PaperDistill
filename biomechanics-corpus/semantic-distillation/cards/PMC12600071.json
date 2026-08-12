@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12600071",
+  "paper_id": "doi:10.15386/mpr-2930",
+  "pmcid": "PMC12600071",
+  "source_record_sha256": "27402344be14e1a23bd469a6be45e73add8c0579e18a3fd1a6b9a6be2ccfa80a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "69102243124d61f4f760dadcaf01589c0ec64075f1deec256f2965d99cc17c57",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The impact of physiological and parafunctional posterior occlusal forces on experimental Ti-15Zrsupracrestal dental implant – a finite element analysis",
+    "authors": "Bokor B, Objelean A, Bran S, Campian RS, Vilău C.",
+    "year": 2024,
+    "journal": "Medicine and Pharmacy Reports",
+    "doi": "10.15386/mpr-2930",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

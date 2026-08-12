@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11040111",
+  "paper_id": "doi:10.1016/j.heliyon.2024.e29671",
+  "pmcid": "PMC11040111",
+  "source_record_sha256": "0567f51acfd0574bac3376dc1ea0c29e838b82ed93ae41bd3366d70eb72cfba8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0d98cf7e7e023126943309dcd15e78afd747d818c2322ad1d9c9ba7ff6cc0e93",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of a modified intramedullary nail for the treatment of unstable femoral trochanteric fractures",
+    "authors": "Wang C, Hou M, Zhang C, Ma T, Li Z, Lin H, Zhang K, Huang Q.",
+    "year": 2024,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2024.e29671",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

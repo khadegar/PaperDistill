@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8782805",
+  "paper_id": "doi:10.1007/s10856-022-06641-y",
+  "pmcid": "PMC8782805",
+  "source_record_sha256": "54d9b6c110333fd0a5d3ea7c350968f8dcb8648d0b1beb6c28a8504c0f2962c2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f17bdd9084ebff5fa1e6b223364620f8e9079a9c863981ab1d791da774661cab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vivo biocompatibility evaluation of 3D-printed nickel–titanium fabricated by selective laser melting",
+    "authors": "Naujokat H, Gökkaya AI, Açil Y, Loger K, Klüter T, Fuchs S, Wiltfang J.",
+    "year": 2022,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-022-06641-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

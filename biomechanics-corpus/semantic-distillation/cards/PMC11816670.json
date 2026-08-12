@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11816670",
+  "paper_id": "doi:10.3390/cells14030211",
+  "pmcid": "PMC11816670",
+  "source_record_sha256": "97dadb18fc3c001932591e1dcedfdfb3d283a7dd4cc8285b3db9906f0e4c7f73",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7edf50deb36041eb3dae777622ce62d0cb443604c00b44120218fb0bcd1f4699",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Non-Canonical Wnt16 and microRNA-145 Mediate the Response of Human Bone Marrow Stromal Cells to Additively Manufactured Porous 3-Dimensional Biomimetic Titanium–Aluminum–Vanadium Constructs",
+    "authors": "Cohen DJ, Berger MB, Deng J, Jacobs TW, Boyan BD, Schwartz Z.",
+    "year": 2025,
+    "journal": "Cells",
+    "doi": "10.3390/cells14030211",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

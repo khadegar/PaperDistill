@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12817513",
+  "paper_id": "doi:10.1186/s12891-025-09404-2",
+  "pmcid": "PMC12817513",
+  "source_record_sha256": "5ea3aa7984e8e5425a2ad84bbaf674254eec9498165ecab68005f1ebbccb2656",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0bc0ad698308f61dac28bab131d72620261cb96b98ff37538a2eb26153f8c566",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative study on the clinical efficacy of femoral neck system and cannulated cancellous screw in the treatment of femoral neck fractures in young patients",
+    "authors": "Ding W, Wang R, Wei Q, Lan H, Wang S, Nian S, Tang H.",
+    "year": 2025,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-025-09404-2",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

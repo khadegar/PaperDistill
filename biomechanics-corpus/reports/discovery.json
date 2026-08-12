@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-08-10T04:55:36Z",
+  "profile_id": "biomechanics-fulltext-10k-v1",
+  "target": 10000,
+  "candidate_union": 13776,
+  "selected": 10000,
+  "target_met": true,
+  "strata": [
+    {
+      "id": "biomechanics_fe_bone",
+      "hit_count": 8428,
+      "scanned": 4200,
+      "unique_union_so_far": 4178
+    },
+    {
+      "id": "bone_implants_fixation",
+      "hit_count": 1519,
+      "scanned": 1519,
+      "unique_union_so_far": 5507
+    },
+    {
+      "id": "topology_optimization",
+      "hit_count": 62,
+      "scanned": 62,
+      "unique_union_so_far": 5539
+    },
+    {
+      "id": "porous_tpms_scaffold",
+      "hit_count": 1682,
+      "scanned": 1682,
+      "unique_union_so_far": 6928
+    },
+    {
+      "id": "additive_manufacturing",
+      "hit_count": 2822,
+      "scanned": 2500,
+      "unique_union_so_far": 8908
+    },
+    {
+      "id": "mechanobiology_remodeling",
+      "hit_count": 657,
+      "scanned": 657,
+      "unique_union_so_far": 9406
+    },
+    {
+      "id": "osseointegration_bone_ingrowth",
+      "hit_count": 4234,
+      "scanned": 3000,
+      "unique_union_so_far": 11338
+    },
+    {
+      "id": "patient_specific_implants",
+      "hit_count": 3076,
+      "scanned": 1800,
+      "unique_union_so_far": 11814
+    },
+    {
+      "id": "bone_regeneration_biomaterials",
+      "hit_count": 4561,
+      "scanned": 3500,
+      "unique_union_so_far": 13776
+    }
+  ],
+  "manifest": "D:\\CodeX\\PaperDistill\\biomechanics-corpus\\manifest.jsonl",
+  "candidate_pool": "D:\\CodeX\\PaperDistill\\biomechanics-corpus\\candidates.jsonl"
+}

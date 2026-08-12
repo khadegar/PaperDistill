@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13059228",
+  "paper_id": "doi:10.1186/s12951-026-04133-7",
+  "pmcid": "PMC13059228",
+  "source_record_sha256": "b0baafc860c2e787d167ce63e7e467c789821a04280476eca3d83e6d27a62576",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "de4c8961ecbf6fdc082f55c749f940af064423281959f33ac34816d205a8e010",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Honeycomb-inspired porous biomimetic scaffold with specific adaptability to host cells behavior for bone repair",
+    "authors": "Chai L, Liu D, Chen J, Jiang S, Lu Y, Yu L, Zhang L, Zhu T, Liu C, Yang C, Zhang C, Xia H, Zhao D, Yuan F.",
+    "year": 2026,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-026-04133-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11242069",
+  "paper_id": "doi:10.3390/jcm13133968",
+  "pmcid": "PMC11242069",
+  "source_record_sha256": "3f1c9887e5e5c6501e2ca2cbb9b1dc5efeb1c92bcc266ecc8dfb8c8a5155cddf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ef25c7991764b81ac1ec25df9cf6d4068770577c663395afc530dc2e8a0abcbd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing for Customized Bone Reconstruction in Spheno-Orbital Meningiomas: A Systematic Literature Review and Institutional Experience",
+    "authors": "Serioli S, Pietrantoni A, Benato A, Galeazzi M, Piazza A, Lauretti L, Mattogno PP, Olivi A, Fontanella MM, Doglietto F.",
+    "year": 2024,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm13133968",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

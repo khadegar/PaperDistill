@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7856394",
+  "paper_id": "doi:10.1016/j.artd.2020.11.022",
+  "pmcid": "PMC7856394",
+  "source_record_sha256": "37743c2f7b748502f32f6b48ca75354202770665fb2614bc1761cc510ebce8f4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "46d50c04f94ab445b2c6b3bebf5aae5044465b776657438f6e434719009b9c82",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Behavior of an Hydroxyapatite-Coated Traditional Hip Stem and a Short One of Similar Design: Comparative Study Using Finite Element Analysis",
+    "authors": "Gómez-Vallejo J, Roces-García J, Moreta J, Donaire-Hoyas D, Gayoso Ó, Marqués-López F, Albareda J.",
+    "year": 2021,
+    "journal": "Arthroplasty Today",
+    "doi": "10.1016/j.artd.2020.11.022",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

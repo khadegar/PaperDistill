@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13219996",
+  "paper_id": "doi:10.4055/cios25291",
+  "pmcid": "PMC13219996",
+  "source_record_sha256": "9e4513154492a949638b551c0e03e498dcadf46228dd6dbbb8e7bcbea462ae94",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d2deff53c705ed14296e6513469fcc21046f18fc922ecffe8ef96dbbe3f47ea4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cortical Support in Unstable Intertrochanteric Fracture without Fixation of Posteromedial Fragment",
+    "authors": "Park KT, Lee DH, Koo KH, Park JW, Lee YK.",
+    "year": 2026,
+    "journal": "Clinics in Orthopedic Surgery",
+    "doi": "10.4055/cios25291",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

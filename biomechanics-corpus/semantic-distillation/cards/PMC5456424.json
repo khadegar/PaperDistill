@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5456424",
+  "paper_id": "doi:10.3390/ma7128168",
+  "pmcid": "PMC5456424",
+  "source_record_sha256": "f3ed784d95fab9e396db28bbaef4983dd548c199128a7c27cef06138e3504274",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "33b9f78929a36f5e23d064fbe926b4e559fb22b2cd3e2e2027e633edf1c0e31c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biocompatibility of Advanced Manufactured Titanium Implants—A Review",
+    "authors": "Sidambe AT.",
+    "year": 2014,
+    "journal": "Materials",
+    "doi": "10.3390/ma7128168",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

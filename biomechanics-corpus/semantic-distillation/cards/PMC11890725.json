@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11890725",
+  "paper_id": "doi:10.1186/s12938-025-01363-y",
+  "pmcid": "PMC11890725",
+  "source_record_sha256": "fb52e7ebc12f0d93d446fe3985d972f491d1a2d4815a4a05db4c3535ce65ad4b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c1b20b3a97d13d5456602d21f71e70ea4047e8b65d5cf0ee0ad4e1d1298681df",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advancements in osteoblast sourcing, isolation, and characterization for dental tissue regeneration: a review",
+    "authors": "Venkataiah VS, Mehta D, Fareed M, Karobari MI.",
+    "year": 2025,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-025-01363-y",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

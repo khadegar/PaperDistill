@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12531227",
+  "paper_id": "doi:10.3389/fdmed.2025.1667504",
+  "pmcid": "PMC12531227",
+  "source_record_sha256": "b0abaa62509efe6768eb591ed329a1975295e509ee6bb677f670844e12ab8495",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "32c1682ebf288f5d06b7023de4ec08a957df06dc951080479aa52dcc003e0bef",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical considerations in RPD design: application and perspective of finite element method in distal extension removable partial denture rehabilitation",
+    "authors": "Zhu Y, Hu J, Luo B, Yuan Y, Jiang Q.",
+    "year": 2025,
+    "journal": "Frontiers in Dental Medicine",
+    "doi": "10.3389/fdmed.2025.1667504",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

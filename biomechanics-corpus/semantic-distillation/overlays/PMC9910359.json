@@ -1,0 +1,237 @@
+{
+  "study": {
+    "article_kind": "original_research_mixed_additive_manufacturing_experimental_and_finite_element_implant_design",
+    "design_features": [
+      "customized_functionally_graded_Ti6Al4V_hip_stem",
+      "hybrid_Schoen_gyroid_Schwarz_diamond_TPMS",
+      "stress_driven_strut_thickness_optimization",
+      "selective_laser_melting_and_as_built_roughness",
+      "Sawbone_strain_gauge_experiment",
+      "finite_element_stress_shielding_and_bone_remodeling",
+      "static_stiffness_and_ISO_fatigue_testing"
+    ],
+    "research_problem": "A solid Ti6Al4V hip stem is much stiffer than femoral bone, transfers load away from the proximal femur, and can drive stress shielding, bone resorption, aseptic loosening, and revision; porous stems lower stiffness and may support ingrowth but risk local weakness and fatigue failure.",
+    "exact_gap": "Prior porous-stem studies often use a uniform lattice or an equivalent apparent modulus and do not resolve local strut stresses, stress shielding, and predicted bone resorption across all Gruen zones with an experimental FE check. A hybrid graded design therefore needs an explicit stiffness-strength-porosity trade-off and a direct fatigue boundary.",
+    "objective_or_hypothesis": "Design a customized hybrid gyroid-diamond Ti6Al4V porous stem with a femoral-bone-like stiffness profile, at least 50% lattice porosity for osseointegration, and sufficient strength for 5 million cycles, and test whether it reduces stress shielding and modeled bone resorption relative to a solid stem of identical geometry.",
+    "study_design": "A solid CNC Ti6Al4V stem and one SLM-manufactured hybrid porous stem were compared with an intact fourth-generation Sawbone femur. The porous stem combined solid neck/distal regions, 1-mm shells, D900 diamond lateral lattice (56.4% porosity), G1000 gyroid shaft (67.4%), and a stress-graded diamond medial region. A preliminary FE load of 4,839 N mapped local von Mises stress to 0.3-0.5 mm strut thickness. The paper says that a single Sawbone was used for each considered case (S004:C01) but later lists use of a single artificial femur as a limitation (S020:C01); retain this as one artificial-femur construct with unresolved per-case wording, not three independent Sawbones. Ten cortical rosette-gauge locations were used under stepped compression; CT-derived FE models were validated by stress-ratio trends and Bland-Altman analysis, then used for 2,300-N stress-shielding and Huiskes bone-resorption predictions, while 4,839 N was an additional stress/factor-of-safety load case. Stem stiffness was measured experimentally and by FE, and one porous stem underwent ISO 7206-4 cyclic testing to 5 million cycles or fracture.",
+    "sample_or_model": "The artificial femur was 485 mm initially, trimmed to 408 mm and potted to a 328-mm working length; cortical E=16.7 GPa and cancellous E=0.155 GPa were assigned in FE. The source's per-case Sawbone wording is ambiguous against its explicit single-artificial-femur limitation (S004:C01; S020:C01), so n=1 artificial-femur construct must not be read as three independent femora. Five technical readings were collected at each 500-1,200 N experimental load step. The porous stem used Ti6Al4V grade 23 ELI powder (D10=21, D50=37, D90=51 micrometres), SLM 190 W/30-micrometre layers/1,000 mm/s/90-micrometre spot/85 J/mm3/110-micrometre hatch, heat treatment at 820 C for 120 min, sandblasting, and measured surface roughness 1.21+/-0.62 micrometres. FE assigned porous-stem E=95 GPa, solid-stem E=110 GPa, used C3D10 tetrahedra, 25 cortical mesh densities, and 2.4, 11.5, and 23.9 million elements for intact, solid, and porous models.",
+    "comparators": [
+      "Intact Sawbone femur versus identical-geometry solid and hybrid porous stems",
+      "Experimental versus FE surface von Mises stress ratios at ten gauge locations",
+      "Porous versus solid stem SSI, stress ratio, and modeled bone resorption in Gruen zones 1-7",
+      "Experimental versus FE axial stiffness for solid and porous stems",
+      "Porous stem fixed in Sawbone versus fixed in PMMA/epoxy cement for FE safety factors",
+      "ISO 7206-4 target of 5,000,000 cycles and Ti6Al4V endurance limit of 375 MPa"
+    ],
+    "method_spine": [
+      "Construct a CAD stem customized to the large fourth-generation Sawbone and hybrid TPMS regions; map the preliminary 4,839-N FE strut stress field to graded medial-diamond thickness using region-specific nominal pore sizes/porosities, with the medial diamond varying across its graded thickness rather than preserving one uniform value.",
+      "Print the porous stem by SLM, heat-treat and sandblast it, characterize powder/roughness, and manufacture a solid Ti6Al4V control with the same outer geometry.",
+      "CT-scan and prepare one Sawbone, instrument ten identical cortical locations with rosette gauges, and collect stepped compression responses for intact, solid, and porous configurations.",
+      "Build intact and implanted Abaqus models with measured geometry, material assignments, contact/tie conditions, mesh convergence, and ISO-aligned boundary conditions; validate local stress ratios against gauges with Bland-Altman analysis.",
+      "Use the validated FE model to calculate Gruen-zone SSI and Huiskes strain-energy bone-resorption fractions at 2,300 N, then compare stiffness and yield/fatigue factors across daily activities.",
+      "Measure static stem stiffness and run one porous stem at 230-2,300 N and 5 Hz toward 5 million cycles, recording fracture location and cycle count."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Twenty-five cortical mesh densities were tested and convergence was defined as <5% change after doubling element quantity; the final models used 2.4, 11.5, and 23.9 million elements (S009:C01).",
+        "The initial stress field under 4,839 N was used as a design/verification loop for assigning graded strut thickness, but no independent manufacturing or optimization verification is reported (S003:C01)."
+      ],
+      "calibration": [
+        "The porous-stem FE equivalent modulus (95 GPa) and other material properties were assigned from datasheets/literature rather than calibrated to the printed stem's complete local response (S009:C01).",
+        "The Huiskes dead-zone width s=0.6 came from prior two-year DEXA-based clinical densitometry and was applied to predict local bone loss; it was not calibrated with measurements from this experiment (S011:C01-S011:C02).",
+        "Thickness mapping uses von Mises stress bands from the preliminary model (0.3 mm at 0-40 MPa, graded 0.3-0.5 mm over 40-70 MPa, and 0.5 mm above 170 MPa); the 70-170 MPa interval is not specified in the text, and no sensitivity or optimization uncertainty is reported for these thresholds (S003:C01)."
+      ],
+      "validation": [
+        "Experimental and FE local cortical stresses had similar patterns; Bland-Altman analysis reported an approximately 4 MPa experimental-minus-FE bias with the plotted 95% limits and enabled additional FE scenarios (S014:C01).",
+        "The validation is local surface strain-gauge validation of a Sawbone construct, not validation of the full porous strut field, bone remodeling, interface micromotion, or a cadaver/clinical femur (S006:C01; S007:C01; S014:C01).",
+        "Static stiffness was measured for both stems and compared with FE, but only one specimen per stem was used and the paper emphasizes relative rather than absolute stiffness (S012:C01; S017:C01)."
+      ],
+      "sensitivity": [
+        "FE load cases span ISO 7206-4 (1,200 and 2,300 N), cycling, sitting, standing, walking, stance, stairs, and jogging up to 4,839 N; Sawbone and cement fixation were both examined for selected cases (S013:C01; S018:C01).",
+        "Gruen-zone SSI and resorption are spatially resolved, but no systematic sensitivity to porosity, strut thickness, contact gap, muscle forces, material anisotropy, or remodeling parameters is reported (S011:C01-S011:C02; S016:C01).",
+        "A single dynamic test supplies a failure boundary rather than a replicated fatigue sensitivity curve (S012:C01; S019:C01)."
+      ],
+      "application_prediction": [
+        "The predicted 70% SSI and 61% bone-loss reductions indicate a prototype-level application hypothesis; they do not establish reduced aseptic loosening, durable osseointegration, or a successful clinical replacement (S016:C01; S021:C01).",
+        "The authors' suggestion that bone ingrowth could improve in-vivo fatigue is explicitly speculative because no biological or orthotopic model was included (S019:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "The hybrid stem used D900 diamond lateral lattice (56.4% porosity), G1000 gyroid shaft (67.4%), a 300-500 micrometre stress-graded diamond medial region, and 1-mm shells; the grading was driven by the preliminary local stress field (S003:C01-S003:C02).",
+      "Bland-Altman comparison of ten gauge locations showed similar experimental/FE stress-ratio trends and an approximately 4 MPa experimental-minus-FE stress bias with nearly all points inside the plotted 95% limits; a geometry gap caused local M1 concentration and deviations (S014:C01).",
+      "At 2,300 N the porous stem produced more intact-like cortical stress/strain patterns. Total SSI was 32% for solid versus 10% for porous, a 70% reduction; SSI in Gruen zones 1, 6, and 7 changed from 69/45/68% to 34/12/40% (50%, 74%, and 41% reductions), while zone 4 showed little shielding in either stem (S015:C01; S016:C01).",
+      "The Huiskes model predicted total resorbed bone mass fractions of about 41% for solid and 16% for porous stems, corresponding to approximately 61% bone-loss reduction; the largest residual porous loss was proximal (especially zones 1 and 7), while zones 2, 5, and 6 showed roughly 86-97% reduction versus solid (S016:C01; S020:C01).",
+      "Experimental stiffness was 2.76 kN/mm for solid and 2.15 kN/mm for porous (22% lower); FE stiffness was 2.84 and 1.93 kN/mm. Both remained above the cited intact-human range of 1.16-1.45 kN/mm, although porous was closer (S017:C01).",
+      "At 2,300 N, maximum porous-stem stress was 112 MPa in Sawbone and 290 MPa in cement. Sawbone porous-section yield/fatigue FoS exceeded 8.1/3.9, with Goodman/Soderberg FoS 4.9/4.7; cement values were lower (yield/fatigue >6.2/2.9; Goodman/Soderberg 1.9/1.8). At the 4,839-N jogging load, the reported FoS were 3.3 yield, 1.6 fatigue, 2.3 Goodman, and 2.2 Soderberg (S018:C01).",
+      "The only dynamic porous-stem experiment fractured at the cement-pot restriction after 457,349 cycles, far below the 5,000,000-cycle ISO target; the failure directly limits the paper's infinite-service-life inference from static FE FoS (S019:C01; S020:C01; S021:C01)."
+    ],
+    "highest_evidence_level_reached": "Validated local stress-pattern comparison in a single artificial-femur construct plus nominal FE prediction of SSI/bone adaptation and static/fatigue safety, with one failed dynamic specimen; no replicated cadaver, biological osseointegration, interface micromotion, orthotopic, or clinical evidence."
+  },
+  "argument_map": {
+    "central_claim": "A stress-graded hybrid gyroid-diamond porous Ti6Al4V stem shifts static cortical loading toward the intact-femur pattern and lowers model-predicted stress shielding and bone resorption relative to a solid control, but the prototype's single dynamic test fails before the 5-million-cycle target and its clinical replacement claim remains unvalidated.",
+    "data": [
+      "The TPMS/strut-thickness design and as-built characterization define a physically manufacturable graded prototype (S003:C01-S003:C02).",
+      "Strain gauges and FE show similar local stress-ratio trends, with a quantified Bland-Altman bias and a documented geometry-gap exception (S006:C01; S014:C01).",
+      "Gruen-zone FE outcomes show lower SSI and modeled resorption with porous versus solid stems, while stiffness is reduced but still above the cited intact range (S015:C01-S017:C01).",
+      "Static FoS calculations appear favorable, but one dynamic test fractures at 457,349 cycles versus the 5,000,000-cycle target (S018:C01-S019:C01)."
+    ],
+    "warrant": "A lower-stiffness, spatially graded stem can plausibly reduce stress transfer mismatch only when local stress redistribution, mechanical strength, and fatigue are evaluated together; a predicted remodeling proxy cannot override an observed device-level fatigue failure.",
+    "backing": [
+      "The solid comparator shares the stem geometry and the intact/solid/porous constructs share the mounting and stepped-load framework, improving relative comparison fairness (S004:C01; S007:C01).",
+      "Mesh convergence, local strain-gauge comparison, and Bland-Altman analysis provide a traceable FE validation layer before application predictions (S009:C01; S010:C01; S014:C01).",
+      "The analysis retains regional Gruen-zone differences rather than reporting only a whole-femur average (S011:C01-S011:C02; S016:C01)."
+    ],
+    "qualifier": "The stress-shielding and bone-loss reductions apply to the stated Sawbone geometry, potting, simplified loading, material laws, contact assumptions, and Huiskes remodeling parameters.",
+    "rebuttals_or_boundaries": [
+      "The 457,349-cycle fracture limits a broad infinite-service-life interpretation from static FE safety factors and shows that potting/interface failure is a critical boundary; because the dynamic test used PMMA cement while many >2 Goodman/Soderberg values were for Sawbone, this is not a direct same-condition contradiction (S012:C01; S018:C01-S020:C01).",
+      "FE validation uses local cortical surface strains, not the porous strut stresses, interface micromotion, or cadaveric bone under physiologic muscle loads (S014:C01; S020:C01).",
+      "The predicted bone-resorption fraction is a mechanobiological model output, not a measured DEXA, histological, or clinical bone-loss endpoint (S011:C01; S016:C01).",
+      "One solid stem, one porous stem, and an ambiguously reused/single artificial-femur construct do not quantify manufacturing, anatomical, or fatigue variability (S004:C01; S020:C01)."
+    ],
+    "argument_coherence": "high_for_relative_static_stress_redistribution_moderate_for_FE_validation_low_for_fatigue_and_clinical_replacement"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Powder composition and printing parameters are reported manufacturing inputs (not outcome measurements); measured outputs include surface roughness, load-displacement stiffness, cortical rosette-gauge strain/stress, and one porous-stem dynamic fracture cycle count (S003:C02; S006:C01; S007:C01; S017:C01; S019:C01).",
+      "Experimental versus FE local stress-ratio comparisons and Bland-Altman bias/limits (S014:C01)."
+    ],
+    "predicted": [
+      "FE strut/cortical von Mises stress, strain, yield/fatigue/Goodman/Soderberg FoS, Gruen-zone SSI, and Huiskes resorbed mass fractions (S011:C01-S013:C01; S015:C01-S018:C01)."
+    ],
+    "inferred": [
+      "Lower porous-stem SSI and more intact-like strain indicate a lower risk of stress shielding under the modeled 2,300-N loading (S015:C01-S016:C01).",
+      "A porous stem closer to intact-femur stiffness may preserve a more physiological mechanical stimulus, but both tested stems remain stiffer than the cited intact human range (S017:C01).",
+        "Potential improved fixation or reduced aseptic loosening are application hypotheses downstream of stress/remodeling proxies, not measured or directly predicted endpoints (S001:C01; S020:C01; S021:C01).",
+        "Bone ingrowth could improve fatigue in vivo is an author hypothesis, not a tested biological mechanism (S019:C01)."
+    ],
+    "recommended": [
+      "Repeat static and fatigue testing over multiple printed stems and femora, include cadaveric or subject-specific bones, physiological muscle/contact loads, and quantify AM geometry variability.",
+      "Measure implant-bone shear, micromotion, contact coverage, and biological osseointegration; use DIC or full-field methods to complement local strain gauges.",
+      "Re-optimize the lattice after the observed potting/interface fracture and test to the complete ISO 7206-4 five-million-cycle requirement before replacement claims."
+    ],
+    "proxy_to_outcome_bridges": [
+      "FE SSI and Huiskes resorbed mass fraction are model proxies, not measured DEXA bone mineral density, histology, fixation, or aseptic-loosening outcomes.",
+      "Sawbone cortical surface strain validates selected local stress trends, not human bone remodeling, porous strut strength, or stem-bone micromotion.",
+      "Static yield/fatigue FoS and Goodman/Soderberg predictions do not substitute for replicated cyclic device testing; the observed 457,349-cycle fracture is the relevant boundary.",
+      "Porosity and surface roughness indicate design intent for ingrowth but are not evidence that bone actually invaded or bonded to the lattice."
+    ],
+    "overclaim_risks": [
+      "The abstract/conclusion presents approximately 60-70% reduction in bone loss/SSI as a long-term implant benefit although both are FE predictions and the experiment used a single Sawbone (S016:C01; S021:C01).",
+      "Static FoS values are described as implying infinite service life even though the only PMMA-cement dynamic specimen failed at about 9% of the 5-million-cycle target; static Sawbone and cement FoS are not interchangeable conditions (S012:C01; S018:C01-S019:C01).",
+      "The phrase 'potential replacement for the generic solid implant' exceeds the artificial-femur, simplified-loading, single-specimen, and failed-fatigue evidence boundary (S001:C01; S021:C01).",
+      "The bone-ingrowth rationale is not tested by histology, imaging, animal, or implant-interface mechanics, and the stem remained stiffer than the cited intact femur range (S003:C01; S017:C01)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Make stress-driven grading reproducible and distinguish nominal from as-built geometry",
+      "execution": "The workflow first models a uniform hybrid stem, exports local von Mises stress, maps stress bands to strut thickness, then prints, heat-treats, sandblasts, and measures roughness; it also records the CAD-to-femur contact gap (S003:C01-S003:C02; S014:C01).",
+      "locator": "S003:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For a graded AM implant, report the optimization field, threshold map, process state, and as-built deviations as separate states so readers can follow what was designed, manufactured, and actually modeled.",
+      "failure_mode": "Treating a nominal stress-based thickness map as equivalent to the printed local strut geometry hides process defects and contact mismatch that can dominate fatigue."
+    },
+    {
+      "section": "results",
+      "move": "Validate the FE model locally before escalating to whole-zone predictions",
+      "execution": "The study compares ten matched strain-gauge locations with FE stress ratios, quantifies Bland-Altman bias, explains the M1 discrepancy through a contact gap, and only then predicts Gruen-zone SSI and Huiskes resorption at 2,300 N; 4,839 N is used for an additional stress/factor-of-safety case, not for the SSI/resorption endpoint (S006:C01; S010:C01; S014:C01; S016:C01; S018:C01).",
+      "locator": "S014:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Use a transparent local validation layer with agreement statistics and named outliers before applying a model to unmeasured regions or biological proxies.",
+      "failure_mode": "A few matching surface gauges cannot validate strut-level stresses, interface micromotion, or bone-remodeling predictions; the validated domain must be stated explicitly."
+    },
+    {
+      "section": "discussion",
+      "move": "Place static predictions and fatigue failure on one evidence ladder",
+      "execution": "The paper reports favorable static FoS and modeled SSI, then discloses that the porous stem fractured after 457,349 cycles in the PMMA-cement dynamic setup; the discussion recognizes this as a major drawback, while static Sawbone and cement FoS must remain condition-specific (S012:C01; S018:C01-S020:C01).",
+      "locator": "S019:C01",
+      "effectiveness": "high",
+      "transferable_principle": "When a device-level durability test and static model use different fixtures or fixation states, lead with the observed failure, preserve the condition mismatch, and downgrade service-life or replacement language accordingly.",
+      "failure_mode": "Letting static FoS or a predicted infinite life dominate the narrative can erase the most decision-relevant negative result."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "FE validation used a fourth-generation artificial Sawbone rather than cadaveric femur; vertical flat loading omitted muscle forces and soft tissues (S020:C01).",
+      "Strain gauges measured only local cortical surface microstrain; DIC was suggested as an alternative whole-field method (S007:C01; S020:C01).",
+      "Manufacturing precision produced a stem-femur geometry gap and local force concentration; interface shear stress and micromotion were not examined (S014:C01; S020:C01).",
+      "Only one artificial femur and one solid/porous stem were manufactured, so stiffness and fatigue measurements were single-specimen outcomes (S020:C01)."
+    ],
+    "reader_identified": [
+      "Five technical readings at each load step are repeated measurements on one construct, not independent biological or manufacturing replicates; no confidence intervals for stiffness, SSI, or fatigue are reported.",
+      "One dynamic specimen was tested in PMMA cement and fractured at the potting restriction; static FoS were reported separately for Sawbone and cement, so the result cannot separate lattice fatigue from cement/potting/interface failure, align a single condition with every static FoS, or estimate a population fatigue distribution (S012:C01; S018:C01; S019:C01).",
+      "The FE porous-stem material is a homogeneous equivalent E=95 GPa despite the paper's motivation to resolve local lattice stresses; local strut/contact mechanics are therefore incompletely represented.",
+      "Tied contacts, epoxy-filled gaps, simplified isotropic materials, and ISO vertical loads can alter force transfer and micromotion relative to an uncemented or physiologically loaded hip.",
+      "The Huiskes dead-zone parameter and resorption model are imported from prior work, only the bone-loss branch is evaluated, and no DEXA/histology/in-vivo remodeling validation is included.",
+      "A minimum porosity is justified as favorable for osseointegration, but no cells, animal tissue, bone ingrowth, or interface bonding endpoint is measured.",
+      "The stress-thickness optimization is based on a single preliminary load case and lacks uncertainty or multi-load robust optimization."
+    ],
+    "likely_bias_direction": [
+      "The solid/porous comparison on one Sawbone and matched outer geometry improves internal fairness but may overfit a single anatomy and potting condition.",
+      "Gaps and loose distal contact likely concentrate load at proximal gauge M1 and can bias local validation and predicted zone shielding; tied interfaces elsewhere may simultaneously understate micromotion.",
+      "Using equivalent homogeneous porous properties and a dead-zone remodeling model may smooth local failures and overstate the generality of predicted bone-loss reduction.",
+      "Selecting favorable static FoS and modeled SSI before the single negative fatigue result can bias the translational narrative toward efficacy; the PMMA dynamic fixture and Sawbone-versus-cement static cases also limit direct condition matching (S012:C01; S018:C01-S020:C01)."
+    ],
+    "scope_boundary": "The study supports a manufacturable hybrid-stem design workflow, relative static stress redistribution, and model-based Gruen-zone predictions in one artificial-femur construct. It does not demonstrate replicated fatigue durability, osseointegration, interface fixation/micromotion control, measured bone preservation, or clinical replacement of a solid hip stem."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC9910359-01",
+      "capability": "Write a graded-implant optimization loop as a chain from preliminary local stress field to thickness map, print state, as-built deviation, and independently tested outcome.",
+      "manuscript_use": "Methods design rationale, manufacturability reporting, and audit of nominal-to-as-built transfer.",
+      "applicable_domains": ["customized_implant", "additive_manufacturing", "porous_scaffold", "finite_element_modeling"],
+      "applicable_study_designs": ["design_optimization", "mixed_numerical_experimental"],
+      "supporting_locators": ["S003:C01", "S003:C02", "S014:C01", "S017:C01"],
+      "counterexample_or_boundary": "A single stress-mapped design load and one printed specimen do not establish robust optimization across activity, anatomy, process, or fatigue variability.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9910359-02",
+      "capability": "Use local strain-gauge agreement statistics and named geometry-driven outliers to bound what an FE validation actually supports before applying it to spatial remodeling predictions.",
+      "manuscript_use": "FE validation Results, uncertainty paragraph, and Discussion evidence boundary.",
+      "applicable_domains": ["finite_element_modeling", "bone_implant", "experimental_mechanics"],
+      "applicable_study_designs": ["FE_validation", "implant_biomechanics"],
+      "supporting_locators": ["S006:C01", "S010:C01", "S014:C01", "S015:C01"],
+      "counterexample_or_boundary": "Agreement at ten cortical surface points does not validate porous strut stresses, interface micromotion, or biological remodeling, especially when M1 shows a contact-gap exception.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9910359-03",
+      "capability": "Keep static safety-factor predictions, modeled biological proxies, and observed cyclic failure in separate evidence lanes, letting the failure define the service-life boundary.",
+      "manuscript_use": "Results synthesis, Discussion, conclusion proportionality, and design-go/no-go decisions.",
+      "applicable_domains": ["implant_fatigue", "bone_implant", "finite_element_modeling", "additive_manufacturing"],
+      "applicable_study_designs": ["mixed_validation", "fatigue_testing"],
+      "supporting_locators": ["S018:C01", "S019:C01", "S020:C01", "S021:C01"],
+      "counterexample_or_boundary": "The single dynamic test used PMMA cement and fractured at 457,349 cycles; many >2 Goodman/Soderberg FoS values were for Sawbone, while the 2,300-N cement values were 1.89/1.82, so the failure bounds device durability without being a same-condition contradiction to every static prediction (S012:C01; S018:C01; S019:C01).",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_to_high_for_relative_static_stress_shielding",
+    "methods_transparency": "moderate_to_high",
+    "validation_credibility": "moderate_for_local_FE_stress_trends_low_for_strut_fatigue_and_bone_remodeling",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "moderate_to_high_for_same-geometry_solid_vs_porous_low_for_human_femur_and_cement_transfer",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "Single Sawbone and single stems provide no independent variability estimate.",
+      "Local strain-gauge validation does not cover porous struts, interface micromotion, or biological bone adaptation.",
+      "Static FE service-life predictions are not established by the single PMMA-cement dynamic specimen, which fractured at 457,349 cycles far below the ISO 5-million-cycle target; fixture and Sawbone-versus-cement condition mismatch remain unresolved.",
+      "Predicted SSI/bone-loss reductions are not measured bone-preservation or clinical loosening outcomes."
+    ],
+    "overall_credibility": "moderate_for_relative_static_stress_redistribution_and_local_FE_agreement_low_for_fatigue_lifetime_osteointegration_and_clinical_replacement"
+  },
+  "summary_zh": "这篇研究把定制化混合 Gyroid-Diamond TPMS、应力驱动支杆厚度梯度、Sawbone 应变片和 FE Gruen 区域预测串成一条设计-验证链。相同外形的实心/多孔柄比较显示，多孔柄总应力遮挡指数从 32% 降到 10%，Huiskes 模型预测骨吸收从 41% 降到 16%，实验刚度从 2.76 降到 2.15 kN/mm；但两者仍高于引用的人体完整股骨刚度范围。FE 与十个皮质表面测点趋势一致，Bland-Altman 给出约 4 MPa 偏差，但 M1 的几何间隙造成了局部载荷集中。更关键的是，静态 FoS/Goodman/Soderberg 推出“无限寿命”的同时，唯一动态试样在 457,349 次就从水泥罐限制段断裂，远低于 ISO 7206-4 的 500 万次。因此可迁移的写作能力是：把名义设计→打印状态→局部验证→区域代理→器械疲劳分层，并让实际失败结果定义服务寿命边界；不能把预测骨量保存或短期静态安全写成临床替代证据。",
+  "reader_notes": [
+    "Primary Codex reader reviewed all 25 non-reference packet chunks in exact heading order: S001:C01, S002:C01-S002:C03, S003:C01-S003:C02, S004:C01-S021:C01, including both chunks of S011.",
+    "The article is original mixed experimental/FE implant research, not an in-vivo animal or clinical study despite cue fields that list in_vivo_animal and in_vitro.",
+    "The strongest validation is local cortical surface stress agreement in one artificial femur; the porous strut field, interface micromotion, remodeling, osseointegration, and clinical outcomes remain outside the validated domain.",
+    "The observed 457,349-cycle fracture is retained as a decisive negative result and is not reconciled away by the static FE safety-factor inference.",
+    "S004:C01's per-case Sawbone wording conflicts with S020:C01's single-artificial-femur limitation; the card preserves this ambiguity and does not treat the configurations as three independent femora.",
+    "The dynamic PMMA-cement fixture, static Sawbone cases, and static cement case have distinct conditions; the fracture bounds durability but is not a same-condition contradiction to every static FoS value (S012:C01; S018:C01-S019:C01)."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13091463",
+  "paper_id": "doi:10.1016/j.jot.2026.101092",
+  "pmcid": "PMC13091463",
+  "source_record_sha256": "39cfa607367b34d2e6e27b6a29c443a5c878f57fc92273e6dc0b013e17a70dd1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a4258715e0b9a68ab2dc8840443172e9f50be36aae03e3198feb9d3ba2c6f40a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stress-driven design of intervertebral disc implants and optimization of mechanical and biological performance",
+    "authors": "Zhang M, Pang S, Wang Y, Xue Y, Wu X, Chen W, Qin YX.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2026.101092",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

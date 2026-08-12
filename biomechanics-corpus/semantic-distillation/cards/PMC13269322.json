@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13269322",
+  "paper_id": "doi:10.3389/fdmed.2026.1806825",
+  "pmcid": "PMC13269322",
+  "source_record_sha256": "5e672dfdaffb08ed22fc9b4a081c49a0640d35617874a6296609f4c69cc1291a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e7b66e36bd01a7c63a2918131570d1a83bbf6e53998f33a40c189a306335dbfe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical and biological properties of 3D printed bionic porous Gyroid structure implant",
+    "authors": "Wang X, Song Y, Jiang Z, Han Z, Zhang Y, Song Z, Su Y.",
+    "year": 2026,
+    "journal": "Frontiers in Dental Medicine",
+    "doi": "10.3389/fdmed.2026.1806825",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8002500",
+  "paper_id": "doi:10.3390/ma14061464",
+  "pmcid": "PMC8002500",
+  "source_record_sha256": "3db5ec061ef895bbc19a0534821a157d35b71751d4e2e30703a2cce5c7515ab1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2f3622030e7f1fd4a149d1bc79c8ea867d8bdc1abd9681841184959e2a5f2493",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clindamycin-Based 3D-Printed and Electrospun Coatings for Treatment of Implant-Related Infections",
+    "authors": "Maver T, Mastnak T, Mihelič M, Maver U, Finšgar M.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14061464",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

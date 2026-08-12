@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9132879",
+  "paper_id": "doi:10.1007/s10237-022-01573-6",
+  "pmcid": "PMC9132879",
+  "source_record_sha256": "1cdc9e2045975c3c67ab7951eba38df0bc522c21d7c580f41e604b1d5e7cb656",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "579fc9473bd4485d2937830bdb08997d994c14f99c085441e0dbe3a0a77be5dd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Symmetry breaking and effects of nutrient walkway in time-dependent bone remodeling incorporating poroelasticity",
+    "authors": "Esposito L, Minutolo V, Gargiulo P, Fraldi M.",
+    "year": 2022,
+    "journal": "Biomechanics and Modeling in Mechanobiology",
+    "doi": "10.1007/s10237-022-01573-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

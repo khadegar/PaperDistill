@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8269525",
+  "paper_id": "doi:10.3390/ma14133519",
+  "pmcid": "PMC8269525",
+  "source_record_sha256": "44b4715815c156db749c48320bb0863c09dc43e1bd4952aec6baa3d3891e632c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ca8eaead8041b301ac7cffdf882422e95c7187c680169bf610f62b6f62c6cf49",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A 3D Finite Element Analysis Model of Single Implant-Supported Prosthesis under Dynamic Impact Loading for Evaluation of Stress in the Crown, Abutment and Cortical Bone Using Different Rehabilitation Materials",
+    "authors": "Cantó-Navés O, Medina-Galvez R, Marimon X, Ferrer M, Figueras-Álvarez Ó, Cabratosa-Termes J.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14133519",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

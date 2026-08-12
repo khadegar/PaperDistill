@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7264202",
+  "paper_id": "doi:10.1038/s41598-020-65403-4",
+  "pmcid": "PMC7264202",
+  "source_record_sha256": "60cb59c1cde6e24e85c16223a02c0d10624f3679e9b3a888ca19d124c59d0206",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4df00d07aab0dd5963e583475f0eb5c2e3a2760ccfd6f7712d3212e232fee4b4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Proanthocyanidin-rich grape seed extract improves bone loss, bone healing, and implant osseointegration in ovariectomized animals",
+    "authors": "Tenkumo T, Aobulikasimu A, Asou Y, Shirato M, Shishido S, Kanno T, Niwano Y, Sasaki K, Nakamura K.",
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-65403-4",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

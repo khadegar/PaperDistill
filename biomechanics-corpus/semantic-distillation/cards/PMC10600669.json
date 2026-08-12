@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10600669",
+  "paper_id": "doi:10.25122/jml-2023-0267",
+  "pmcid": "PMC10600669",
+  "source_record_sha256": "d2ea32309a6055e95959ecc125f9ef69c6a0254975ff67e6086c83aba20fe459",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8e9aeb2f45a3cec58009085a361193ddf66313ce9a4eb899636f8b315d46baee",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biocompatibility and histological responses of eggshell membrane for dental implant-guided bone regeneration",
+    "authors": "Opris H, Baciut M, Bran S, Dinu C, Opris D, Armencea G, Onisor F, Bumbu B, Baciut G.",
+    "year": 2023,
+    "journal": "Journal of Medicine and Life",
+    "doi": "10.25122/jml-2023-0267",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

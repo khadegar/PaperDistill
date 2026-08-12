@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12178078",
+  "paper_id": "doi:10.1186/s12967-025-06654-5",
+  "pmcid": "PMC12178078",
+  "source_record_sha256": "243ee355ffcd6d2f6246d957dd2d5e524f51e6b5bd3a32e6b8dd981a264da586",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0b7992ec112f36175458d9daf5c1f9d21e5f3d7fff9542086eb055550d4c26ec",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Unlocking the potential of stem cell-derived extracellular vesicles in osteoporosis therapy: a systematic review and meta-analysis of preclinical studies",
+    "authors": "Shuang F, Wen W, You Y, Zhang Y, Li H.",
+    "year": 2025,
+    "journal": "Journal of Translational Medicine",
+    "doi": "10.1186/s12967-025-06654-5",
+    "publication_type": "Meta-Analysis; Systematic Review; review-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8258599",
+  "paper_id": "doi:10.1016/j.jot.2021.05.007",
+  "pmcid": "PMC8258599",
+  "source_record_sha256": "2561c062080f45c5afcf33b2e77a8e1ad2199fc80e52d99c8715de0cfbb8bdbf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "572bb19ab5116e3c79db70c97aacf616c2f3bf66afc8127ea1e5c6dd01174a0b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical study of 3D printed personalized prosthesis in the treatment of bone defect after pelvic tumor resection",
+    "authors": "Xu L, Qin H, Tan J, Cheng Z, Luo X, Tan H, Huang W.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2021.05.007",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

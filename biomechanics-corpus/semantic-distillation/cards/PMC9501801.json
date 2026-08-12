@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9501801",
+  "paper_id": "doi:10.1021/acsami.2c11139",
+  "pmcid": "PMC9501801",
+  "source_record_sha256": "aceeef438dc085cd90c910dff0de5ed923469948e486a6672ddd303c6f1a5c6e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "922485d14c63f526c8af6da5191b07ee325405fcc78f85d47fff95af3d91e6f7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Trabecular Titanium for Orthopedic Applications: Balancing Antimicrobial with Osteoconductive Properties by Varying Silver Contents",
+    "authors": "Diez-Escudero A, Carlsson E, Andersson B, Järhult JD, Hailer NP.",
+    "year": 2022,
+    "journal": "ACS Applied Materials & Interfaces",
+    "doi": "10.1021/acsami.2c11139",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

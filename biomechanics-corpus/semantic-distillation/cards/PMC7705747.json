@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7705747",
+  "paper_id": "doi:10.1038/s41368-020-00100-6",
+  "pmcid": "PMC7705747",
+  "source_record_sha256": "13e40da0f7359037a2a3e228ffcde1590d3f170cd1f64dfd14e322a419b79cf4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a06e37741bbe5d715ebba68c5573b9c6554335c88b52544e25c0871833d7c73e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Macrophage-derived small extracellular vesicles promote biomimetic mineralized collagen-mediated endogenous bone regeneration",
+    "authors": "Liu A, Jin S, Fu C, Cui S, Zhang T, Zhu L, Wang Y, Shen SGF, Jiang N, Liu Y.",
+    "year": 2020,
+    "journal": "International Journal of Oral Science",
+    "doi": "10.1038/s41368-020-00100-6",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

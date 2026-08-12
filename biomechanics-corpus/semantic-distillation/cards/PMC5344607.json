@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5344607",
+  "paper_id": "doi:10.3390/ma10010050",
+  "pmcid": "PMC5344607",
+  "source_record_sha256": "c0bcc3de1ad2b910281b5718c731541370ea07eabcc4dcc4a6bbc850940533cd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8fc180ff6934d2895446126027bcbfc65d9cb498a7d14c737d406634ec7fca4c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additively Manufactured Scaffolds for Bone Tissue Engineering and the Prediction of their Mechanical Behavior: A Review",
+    "authors": "Zhang XY, Fang G, Zhou J.",
+    "year": 2017,
+    "journal": "Materials",
+    "doi": "10.3390/ma10010050",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

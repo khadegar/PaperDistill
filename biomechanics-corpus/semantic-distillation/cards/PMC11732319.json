@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11732319",
+  "paper_id": "doi:10.21037/jss-24-67",
+  "pmcid": "PMC11732319",
+  "source_record_sha256": "b8ce617059f7285c3612ed130a8d0374de9182095a6e87113d711ab225b1d0d4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "87ac6ff122653fbe2125121a2ffb24e750408112bd25e15dbdbfedc148cab7b0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osseointegration and fixation opportunities of sacroiliac instrumentation: a preclinical evaluation in a large animal model",
+    "authors": "Polly DW, Gardner MJ, Wills D, Crowley J, Pelletier M, Wang T, Bailey I, Yerby S, Walsh WR.",
+    "year": 2024,
+    "journal": "Journal of Spine Surgery",
+    "doi": "10.21037/jss-24-67",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

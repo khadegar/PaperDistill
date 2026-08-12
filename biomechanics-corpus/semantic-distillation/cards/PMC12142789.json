@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12142789",
+  "paper_id": "doi:10.1016/j.identj.2025.01.014",
+  "pmcid": "PMC12142789",
+  "source_record_sha256": "e8c76ab5e833908514fab269d7f01b121130a1ae6da8db762bdaec423ff45351",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8c6f0516dde72406c6962811f7066a6553c5134a0c608147fc8defcd201222ab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Evaluation of Cantilevered 2-Unit Implant-Supported Prostheses: A 3D Finite Element Study",
+    "authors": "Sadek HS, Anany NM, Diab AH, El-Anwar MI, Alhotan A, Aldesoki M, Bourauel C, Elshazly TM.",
+    "year": 2025,
+    "journal": "International Dental Journal",
+    "doi": "10.1016/j.identj.2025.01.014",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

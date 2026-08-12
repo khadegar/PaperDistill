@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11447728",
+  "paper_id": "doi:10.1021/acsomega.4c04373",
+  "pmcid": "PMC11447728",
+  "source_record_sha256": "edad9a0839cb6c2298901ba1307ecac47122975a115a48053e594f197d21df2c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e4306daa7befe21281a2dc7330d1e12bebe77de4ae493fc9d125a4721bcc9a15",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Improving Thermosensitive Bioink Scaffold Fabrication with a Temperature-Regulated Printhead in Robot-Assisted In Situ Bioprinting System",
+    "authors": "Wang Z, Lin L, Li X, Zhang Q, Mi X, Xu B, Xu Y, Liu T, Shen Y, Wang Z, Xie N, Wang J.",
+    "year": 2024,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.4c04373",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

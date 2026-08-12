@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9613932",
+  "paper_id": "doi:10.3389/fbioe.2022.1037048",
+  "pmcid": "PMC9613932",
+  "source_record_sha256": "b15dd428dfea42e0c31d845286431c826c561bcab8f1bb1540fac019cac83a1e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bea58da50d70c90057ed7ef8af902d93175483f723a38d2da6c82ffd7f4aaa8b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Computer-assisted preoperative planning of bone fracture fixation surgery: A state-of-the-art review",
+    "authors": "Moolenaar JZ, Tümer N, Checa S.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1037048",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

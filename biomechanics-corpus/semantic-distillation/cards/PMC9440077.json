@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9440077",
+  "paper_id": "doi:10.1016/j.jdsr.2022.07.002",
+  "pmcid": "PMC9440077",
+  "source_record_sha256": "af4f80e3b287d5c8d50e56eeb9f44613166c7f29eec9a8b5dcd34947d901193a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "af4135b6e1fec1aa674d798ca58f19eb7ecd8f29d958dbd0b511b369f3dea8a5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent advances in biofunctional guided bone regeneration materials for repairing defective alveolar and maxillofacial bone: A review ☆",
+    "authors": "Wang B, Feng C, Liu Y, Mi F, Dong J.",
+    "year": 2022,
+    "journal": "The Japanese Dental Science Review",
+    "doi": "10.1016/j.jdsr.2022.07.002",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

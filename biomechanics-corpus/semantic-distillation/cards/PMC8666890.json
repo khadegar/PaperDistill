@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8666890",
+  "paper_id": "doi:10.3389/fbioe.2021.763960",
+  "pmcid": "PMC8666890",
+  "source_record_sha256": "c6434afb0c1991473cb0469daef19660f90dfaa2370cbeee54222f5946f882f8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ef75fd1a54bffa22b57d0833b112f24fc2b29391e40e524cd2190be7917e67bd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Classification of X-Ray Attenuation Properties of Additive Manufacturing and 3D Printing Materials Using Computed Tomography From 70 to 140 kVp",
+    "authors": "Ma X, Buschmann M, Unger E, Homolka P.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.763960",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

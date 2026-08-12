@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9318678",
+  "paper_id": "doi:10.3390/molecules27144535",
+  "pmcid": "PMC9318678",
+  "source_record_sha256": "8802504eb300552cb0c4dba2b11044b8e193b0a6d9d65254642766865d7177b6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ba77b032897d9b4051b301a106074a2506e65b0e725877abee11c8c3cd31fca4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Engineered 3D-Printed Polyvinyl Alcohol Scaffolds Incorporating β-Tricalcium Phosphate and Icariin Induce Bone Regeneration in Rat Skull Defect Model",
+    "authors": "Xu Z, Sun Y, Dai H, Ma Y, Bing H.",
+    "year": 2022,
+    "journal": "Molecules",
+    "doi": "10.3390/molecules27144535",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

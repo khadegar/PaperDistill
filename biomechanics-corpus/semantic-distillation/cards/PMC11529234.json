@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11529234",
+  "paper_id": "doi:10.1186/s12903-024-05100-0",
+  "pmcid": "PMC11529234",
+  "source_record_sha256": "d4b5fae82bc925b495001b63cab32736e54053827719c146fc51946ff0c0037d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "abe607f71488bed2289ee299e54ec9b41892168bb788fce4fcba33b14fe996e7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of implant options for unilateral maxillary defects: a finite element analysis",
+    "authors": "Acar G, Ari I, Tosun E.",
+    "year": 2024,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-024-05100-0",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

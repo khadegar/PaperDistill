@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8794553",
+  "paper_id": "doi:10.3892/etm.2022.11125",
+  "pmcid": "PMC8794553",
+  "source_record_sha256": "7af95c3542acbd7942be42a44daecc088a611948392f02ac946439aa902d5f4c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "283a95d391f92a965eb1fc9ddb9742fb7cfcfbc9b145caf02ce8a0f1469e4803",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An original method of simulating the articular cartilage in the context of in vitro biomechanical studies investigating the proximal femur",
+    "authors": "Gheorghevici TS, Carata E, Sirbu PD, Alexa O, Poroh MG, Filip A, Forna N, Puha B.",
+    "year": 2022,
+    "journal": "Experimental and Therapeutic Medicine",
+    "doi": "10.3892/etm.2022.11125",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,221 @@
+{
+  "study": {
+    "article_kind": "original_computational_bone_remodeling_study",
+    "design_features": [
+      "patient_ct_geometry",
+      "finite_element_analysis",
+      "strain_energy_density_remodeling",
+      "normal_vs_valgus_loading",
+      "external_roi_bmd_comparison",
+      "mesh_sensitivity"
+    ],
+    "research_problem": "The proximal tibia adapts its density distribution to altered joint loading, but most earlier remodeling simulations were two-dimensional and offered limited evidence about three-dimensional valgus-related bone-density patterns.",
+    "exact_gap": "Few three-dimensional proximal-tibia studies had connected an explicit quantitative remodeling law and gait-derived loading to clinically defined medial/lateral BMD regions under both normal and valgus mechanical environments (S002:C05-S002:C06).",
+    "objective_or_hypothesis": "Simulate equilibrium BMD in a three-dimensional proximal tibia under normal and 6-degree valgus load distributions, compare selected ROI values with published clinical measurements, and explore whether altered mechanical loading can account for the observed medial-lateral density redistribution (S003:C01).",
+    "study_design": "A right proximal-tibia CT from one healthy-knee geometry was meshed in ANSYS, assigned an initially uniform apparent density, loaded using literature-derived mean stance-phase joint and ligament forces, iteratively remodeled with an SED-per-mass law, and then rerun after shifting joint-contact-force allocation toward the lateral plateau for a hypothetical 6-degree valgus condition.",
+    "sample_or_model": "One 34-year-old male right proximal tibia, 176,708 tetrahedral elements in the principal mesh; external comparison values came from published cohorts of 30 young healthy participants and 22 older painful valgus-osteoarthritis patients rather than matched subjects (S005:C01; S008:C02-S008:C04).",
+    "comparators": [
+      "Normal loading: medial/lateral plateau force split 55%/45%",
+      "Hypothetical valgus loading: medial/lateral split 33.5%/66.5% with unchanged resultant force",
+      "Simulated ROI ratios versus published healthy and valgus-osteoarthritis clinical ROI measurements",
+      "Three mesh sizes for numerical sensitivity"
+    ],
+    "method_spine": [
+      "Define the remodeling stimulus, density bounds, and density-modulus relationship.",
+      "Reconstruct one three-dimensional tibial geometry and specify omitted anatomy.",
+      "Apply literature-derived contact, shear, ACL, and MCL loads and iterate density to equilibrium.",
+      "Compare normal-model morphology and medial/lateral ROI ratios with external clinical benchmarks.",
+      "Alter only the assumed plateau load distribution to model valgus and compare with a separate patient cohort.",
+      "Test mesh resolution, then separate pattern agreement from causal and clinical prediction claims."
+    ],
+    "validation_roles": {
+      "verification": [
+        "The authors compare three tetrahedral mesh resolutions; the principal and finer meshes differed by approximately 0.013% in average equivalent stress, 1.45% in strain, and 4.53% in SED, whereas the coarser mesh differed more (S009:C05-S009:C06).",
+        "The iterative stopping rule and density bounds are stated, but no time-step, solver, implementation-code, or conservation verification is reported (S004:C01-S004:C02)."
+      ],
+      "calibration": [
+        "The remodeling constants, density-modulus relation, initial density, and loads are adopted from prior literature rather than calibrated to this CT subject or the external cohorts (S004:C01-S006:C01)."
+      ],
+      "validation": [
+        "Normal-model medial/lateral BMD ratio (1.19) is compared with a published healthy mean (1.20 plus/minus 0.10), and the valgus-model ROI ratio (0.879) with a published valgus-osteoarthritis range (0.878-0.886) (S008:C02-S008:C04).",
+        "This is external face/pattern validation across unmatched populations and selected ROIs, not subject-specific spatial validation, longitudinal prediction, or validation of the valgus-to-osteoarthritis causal pathway."
+      ],
+      "sensitivity": [
+        "Mesh-size sensitivity is quantified, but no sensitivity analysis covers load magnitude/distribution, remodeling constants B and k, density-modulus law, initial density, contact area, ligament forces, geometry, age, or sex (S009:C05-S009:C06)."
+      ],
+      "application_prediction": [
+        "Use for early osteoarthritis diagnosis, periprosthetic stress-shielding prediction, or prosthesis optimization is prospective; none of those applications was tested in this paper (S009:C06-S010:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "The normal model reproduced a cortical shell, medullary cavity, cancellous region, and higher medial than lateral BMD qualitatively (S008:C01).",
+      "Normal ROI1/ROI2 BMD values were 1.23/1.03 g per cubic centimetre, giving a ratio of 1.19 versus 1.20 plus/minus 0.10 in the external healthy cohort (S008:C02-S008:C03).",
+      "The valgus model produced ROI3/ROI4 BMD values of 0.908/1.033 and a ratio of 0.879, close to the external painful valgus-OA cohort's reported ratio range of 0.878-0.886 (S008:C03-S008:C04).",
+      "The finer mesh changed average stress, strain, and SED by less than 5% relative to the principal mesh, supporting the chosen spatial discretization for those aggregate outputs (S009:C05-S009:C06)."
+    ],
+    "highest_evidence_level_reached": "Single-geometry computational prediction with mesh verification and selected-ROI external pattern agreement; no longitudinal, subject-specific, experimental intervention, or clinical predictive validation."
+  },
+  "argument_map": {
+    "central_claim": "An SED-driven remodeling model can reproduce selected medial-lateral BMD patterns reported for normal and valgus knees, supporting the plausibility that load redistribution contributes to proximal-tibia density adaptation; it does not establish that valgus loading is the main cause of osteoarthritis or that the model is ready for clinical diagnosis or implant optimization.",
+    "data": [
+      "Predicted equilibrium density morphology and ROI BMD ratios under two assumed force distributions (S008:C01-S008:C04).",
+      "Published, unmatched clinical ROI values used for external comparison and three-mesh numerical results (S008:C02-S008:C04; S009:C05-S009:C06)."
+    ],
+    "warrant": "Agreement between a mechanistic model and independent population-level density patterns increases model plausibility for load-associated remodeling, but causal or predictive claims require alternative explanations, subject matching, parameter uncertainty, and prospective validation.",
+    "backing": [
+      "The model follows established remodeling equations and gait-load literature, and aggregate outputs are relatively stable to one mesh refinement (S004:C01-S005:C03; S009:C05-S009:C06)."
+    ],
+    "qualifier": "Pattern-level plausibility for one tibial geometry under literature-derived equilibrium loading assumptions.",
+    "rebuttals_or_boundaries": [
+      "Normal and valgus predictions reuse one young male geometry and uniform initial density; the 'old valgus' label is an imposed loading scenario, not an older patient's anatomy (S005:C01; S006:C01).",
+      "The external cohorts differ in age, symptoms, deformity threshold, and anatomy, and only selected ROI summaries are compared.",
+      "Cartilage, menisci, and most soft tissues are not explicitly modeled; their effects are reduced to prescribed forces/contact regions (S005:C01-S005:C03; S009:C04).",
+      "The valgus force split, unchanged resultant load, and long-term equilibrium are assumptions rather than measured subject-specific exposure (S006:C01).",
+      "OA-related age, cartilage, inflammatory, activity, and disease-history effects are not separated from mechanical loading."
+    ],
+    "argument_coherence": "moderate"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "One subject's CT geometry and published clinical cohort ROI BMD summaries; no new longitudinal patient BMD or osteoarthritis outcome was measured in this study (S005:C01; S008:C02-S008:C04)."
+    ],
+    "predicted": [
+      "All internal density fields, ROI BMD values for the modeled geometry, cortical/trabecular morphology, and the response to the imposed valgus force distribution are numerical predictions (S008:C01-S008:C04)."
+    ],
+    "inferred": [
+      "Selected-ROI agreement is interpreted as general accuracy of the three-dimensional method (S008:C02; S009:C01).",
+      "The load-induced BMD pattern is interpreted as evidence that mechanical environment directly causes bone structural abnormality and may cause osteoarthritis (S009:C02-S010:C01).",
+      "The M:L BMD ratio is proposed as a diagnostic criterion and the method as a clinical predictor without diagnostic-accuracy testing (S009:C04-S010:C01).",
+      "Apparent age-related cortical/density differences emerge despite using the same young geometry and altered loading, so age interpretation is not independently supported (S009:C02-S009:C03)."
+    ],
+    "recommended": [
+      "Validate full spatial density distributions in subject-matched normal and valgus cohorts, quantify parameter/load uncertainty, add cartilage/meniscus/contact mechanics, and test prospective prediction before diagnostic or implant-design use."
+    ],
+    "proxy_to_outcome_bridges": [
+      "A medial/lateral BMD ratio is a bone-distribution proxy, not an osteoarthritis diagnosis or symptom/function endpoint.",
+      "Equilibrium remodeling under an assumed force split is not a longitudinal disease trajectory.",
+      "Agreement at four ROIs does not validate the complete three-dimensional field.",
+      "Mesh convergence of average FE quantities does not validate the remodeling law, biological parameters, boundary conditions, or clinical predictions.",
+      "A model suitable for mechanistic exploration is not automatically suitable for patient-level diagnosis or prosthesis optimization."
+    ],
+    "overclaim_risks": [
+      "'Main cause' and 'direct reason' exceed a two-scenario model and unmatched cross-sectional benchmark (S001:C02; S009:C04-S009:C05).",
+      "'Accurately predict' is stronger than selected-ROI pattern agreement without out-of-sample subject-level error analysis (S008:C02; S009:C06-S010:C01).",
+      "Calling the second simulation 'old people with valgus deformity' obscures that age-specific anatomy/materials were not modeled (S006:C01).",
+      "The proposed clinical diagnostic criterion lacks threshold selection, discrimination, calibration, and prospective outcome validation (S010:C01)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Stage model credibility before the pathological application",
+      "execution": "The paper first simulates a normal condition and compares its ROI ratio with healthy observations, then changes the load distribution for the valgus scenario (S003:C01).",
+      "locator": "S003:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For mechanobiological FE studies, establish a baseline credibility case before the application case and state exactly which inputs change between them.",
+      "failure_mode": "A plausible baseline does not validate every altered-load scenario or causal interpretation."
+    },
+    {
+      "section": "results",
+      "move": "Pair model predictions with an external benchmark at matched anatomical regions",
+      "execution": "Simulated and clinical medial/lateral ROIs are defined with comparable landmarks and reported side by side (S007:C01-S008:C04).",
+      "locator": "S008:C03",
+      "effectiveness": "moderate_to_high",
+      "transferable_principle": "Report predicted value, measured comparator, population, anatomical locator, unit, and discrepancy together; then name all mismatches in geometry and cohort.",
+      "failure_mode": "Close ratios from unmatched cohorts are face validation, not proof of patient-level accuracy."
+    },
+    {
+      "section": "discussion",
+      "move": "Quantify mesh sensitivity with decision-relevant outputs",
+      "execution": "Three mesh sizes are compared for average equivalent stress, strain, and SED, with relative differences and computation trade-off (S009:C05-S009:C06).",
+      "locator": "S009:C05",
+      "effectiveness": "high",
+      "transferable_principle": "State mesh size, element count, outputs, relative change, and acceptance rationale; keep mesh verification distinct from biological or clinical validation.",
+      "failure_mode": "Converged discretization does not make uncertain loads or material/remodeling laws correct."
+    },
+    {
+      "section": "discussion",
+      "move": "Separate model-output agreement from causality and application",
+      "execution": "The discussion moves from ROI agreement to causal OA and diagnostic claims without intermediate tests (S009:C01-S010:C01), exposing a reusable audit point.",
+      "locator": "S009:C04",
+      "effectiveness": "low_for_claim_calibration",
+      "transferable_principle": "Write model output, external agreement, mechanistic interpretation, and proposed clinical use as four distinct claim levels, each with its own validation requirement.",
+      "failure_mode": "Do not convert pattern agreement into disease causation or diagnostic readiness."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The model omits explicit articular cartilage and focuses on bone morphology; cartilage effects are represented indirectly through loading (S009:C04)."
+    ],
+    "reader_identified": [
+      "One young male geometry represents both normal-young and old-valgus conditions.",
+      "No subject-specific or time-resolved load measurement; the valgus split and unchanged resultant force are assumptions.",
+      "Uniform initial density and equilibrium remodeling obscure history dependence and disease progression.",
+      "Cartilage, menisci, fibula, muscles, and most ligaments are not explicitly modeled; contact and tissue interactions are simplified.",
+      "External validation uses unmatched literature cohorts and selected ROI ratios rather than full-field, subject-specific data.",
+      "No sensitivity analysis for loads, remodeling constants, density-modulus law, initial density, geometry, age, or sex.",
+      "No diagnostic-accuracy, longitudinal OA, intervention, or implant model validates proposed applications."
+    ],
+    "likely_bias_direction": [
+      "Selecting ROI ratios close to published values may overstate full-field model accuracy.",
+      "Holding geometry and resultant force fixed likely understates physiological variability while making mechanical redistribution appear causally sufficient.",
+      "Clinical and causal language overstates an otherwise useful plausibility model."
+    ],
+    "scope_boundary": "The paper supports a plausible association between imposed medial-lateral load redistribution and predicted equilibrium BMD distribution in one proximal-tibia model. It does not prove valgus-induced osteoarthritis, establish a diagnostic criterion, or validate periprosthetic design predictions."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC3893430-01",
+      "capability": "Separate numerical verification, parameter sourcing/calibration, external validation, sensitivity, and application prediction in mechanobiological FE manuscripts.",
+      "manuscript_use": "Methods credibility table, Results, Discussion, and claim audit.",
+      "applicable_domains": ["biomechanics", "mechanobiology", "bone_implant"],
+      "applicable_study_designs": ["finite_element", "computational_remodeling"],
+      "supporting_locators": ["S003:C01", "S008:C02", "S009:C05", "S009:C06"],
+      "counterexample_or_boundary": "Mesh convergence and selected-ROI agreement answer different credibility questions and cannot be merged into a generic 'validated model' statement.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC3893430-02",
+      "capability": "Write computational evidence as model prediction, external measurement, mechanistic inference, and clinical proposal in distinct layers.",
+      "manuscript_use": "Results-to-Discussion transition and conclusion calibration.",
+      "applicable_domains": ["biomechanics", "mechanobiology", "patient_specific_implant"],
+      "applicable_study_designs": ["finite_element", "computational_model"],
+      "supporting_locators": ["S008:C02", "S008:C04", "S009:C02", "S010:C01"],
+      "counterexample_or_boundary": "External pattern agreement does not establish causation, diagnostic discrimination, or prospective prediction.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC3893430-03",
+      "capability": "Audit whether pathology labels correspond to modeled biology or merely to altered boundary conditions imposed on the same geometry.",
+      "manuscript_use": "Model description, comparator fairness, and limitations.",
+      "applicable_domains": ["mechanobiology", "biomechanics", "bone_implant"],
+      "applicable_study_designs": ["finite_element", "disease_simulation"],
+      "supporting_locators": ["S005:C01", "S006:C01", "S009:C02"],
+      "counterexample_or_boundary": "A young geometry with a shifted force split is a hypothetical valgus-loading scenario, not a validated old-OA patient model.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate",
+    "methods_transparency": "moderate_to_high",
+    "validation_credibility": "moderate_for_selected_roi_pattern_low_for_clinical_prediction",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "low_to_moderate_unmatched_external_cohorts",
+    "conclusion_proportionality": "low",
+    "critical_weaknesses": [
+      "One geometry and assumed loads stand in for age- and disease-specific conditions.",
+      "Validation is limited to selected ROI agreement with unmatched cohorts.",
+      "Causal and clinical claims exceed the model and uncertainty analysis."
+    ],
+    "overall_credibility": "moderate_for_mechanical_plausibility_low_for_oa_causation_diagnosis_or_implant_application"
+  },
+  "summary_zh": "这篇论文真正提供的是一个三维骨重塑模型的机械可解释性案例：同一胫骨几何在正常与外翻假设载荷下产生不同的内外侧 BMD 分布，选定 ROI 比值与两组既往临床测量接近；它还报告了网格敏感性。写作时必须把这些层级拆开：网格收敛属于数值验证，文献参数不是个体校准，ROI 接近属于外部模式一致性，BMD 场是模型预测，而‘外翻是骨关节炎主要原因’和‘可用于临床诊断’只是更高层推断。尤其要说明所谓老年外翻模型仍使用一名年轻男性的同一几何，仅改变了假定的载荷分配。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section.",
+    "The in-vivo-animal cue is false; published clinical values are external benchmarks, not a new cohort in this paper.",
+    "The most useful transferable contrast is mesh verification versus model validation versus disease-causality inference."
+  ]
+}

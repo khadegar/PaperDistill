@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5689169",
+  "paper_id": "doi:10.1186/s13287-017-0713-0",
+  "pmcid": "PMC5689169",
+  "source_record_sha256": "3a32ac05ce175ca34219f9c8491188e1eba6750e34c31b97c8dd2a9c37887617",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d6239823e90a93e431f2842b6c5689c4dfe22e697281be25f555fcb9f60216d7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Calcium-containing scaffolds induce bone regeneration by regulating mesenchymal stem cell differentiation and migration",
+    "authors": "Aquino-Martínez R, Angelo AP, Pujol FV.",
+    "year": 2017,
+    "journal": "Stem Cell Research & Therapy",
+    "doi": "10.1186/s13287-017-0713-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

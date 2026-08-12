@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7212184",
+  "paper_id": "doi:10.1016/j.bioactmat.2020.04.017",
+  "pmcid": "PMC7212184",
+  "source_record_sha256": "1e250671ccecc5f0759a32a2094e600acb1b7433fcd052a18c2b60ca511448d1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "edabb97a56a5c6e9a128eb9c4a384ea6ac846510909db9e36ddccd272fa565c2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing of multilayered scaffolds for rotator cuff tendon regeneration",
+    "authors": "Jiang X, Wu S, Kuss M, Kong Y, Shi W, Streubel PN, Li T, Duan B.",
+    "year": 2020,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2020.04.017",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8745248",
+  "paper_id": "doi:10.3390/ijms23010283",
+  "pmcid": "PMC8745248",
+  "source_record_sha256": "a71867394d0dac09c373a28b04481aa6d293ef7a61ff707273056b4317b3f256",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7cef05ada5819737f944def3bf9f91cfe7a54cc13989bc0bf32e1bc38f395ac8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced BMP-2-Mediated Bone Repair Using an Anisotropic Silk Fibroin Scaffold Coated with Bone-like Apatite",
+    "authors": "Deininger C, Wagner A, Heimel P, Salzer E, Vila XM, Weißenbacher N, Grillari J, Redl H, Wichlas F, Freude T, Tempfer H, Teuschl-Woller AH, Traweger A.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms23010283",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

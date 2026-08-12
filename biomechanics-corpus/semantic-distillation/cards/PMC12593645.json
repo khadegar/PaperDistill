@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12593645",
+  "paper_id": "doi:10.1016/j.bioactmat.2025.10.013",
+  "pmcid": "PMC12593645",
+  "source_record_sha256": "5244b918412bcee55a38a32ed135bfb9e5e142b043553232f497da6961caf224",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "27ba68ef69a7a7140548ad2b0e3302d3cd05237728e82a55d01081e7ce74940a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed magnetic scaffolds promote bone and vessel regeneration through CRYAB/PI3K-AKT and NF-κB pathways identified by proteomics",
+    "authors": "Liu J, Liu F, Li C, Li Z, Li T, Wu Y, Wu D, Huang Y, Chen H, Wang H, Lai Y, Wu Z.",
+    "year": 2025,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2025.10.013",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8962265",
+  "paper_id": "doi:10.3390/biomedicines10020395",
+  "pmcid": "PMC8962265",
+  "source_record_sha256": "77ef89a9a57ced7f1665beedc1a6e7126cf78109d68fcde2c07f293c058216ec",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "af4c0ff50ca5e06e94edfed8082c80dd5552038f5e2d8df0c847200bd1805cbc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Ceramic Stereolithography of Bioactive Glasses: Influence of Resin Composition on Curing Behavior and Green Body Properties",
+    "authors": "Chen Q, Schmidt F, Görke O, Asif A, Weinhold J, Aghaei E, Rehman IU, Gurlo A, Shah AT.",
+    "year": 2022,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines10020395",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11308459",
+  "paper_id": "doi:10.1186/s12917-024-04221-6",
+  "pmcid": "PMC11308459",
+  "source_record_sha256": "33b4f2dd821bf0f00235e313a268f747693ce929d93f16088b2b5e72d09510c6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e2d90c314fb07de4b80cde662cf654bc64f46fe5050fe402e0dd9d3cf9886254",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A forecasting model for suitable dental implantation in canine mandibular premolar region based on finite element analysis",
+    "authors": "Liu R, Yang J, Zhu Y, Zhou X, Zhou Q, Liang T, Wang H, Luo Y, Xie Y, Liu H, Zhong Z, Peng G, Zhuang H, Ai S, Jiang L, Zheng C, Zhou Z.",
+    "year": 2024,
+    "journal": "BMC Veterinary Research",
+    "doi": "10.1186/s12917-024-04221-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

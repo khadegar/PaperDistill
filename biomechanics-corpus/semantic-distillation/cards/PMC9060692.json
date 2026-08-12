@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9060692",
+  "paper_id": "doi:10.1039/c8ra06652c",
+  "pmcid": "PMC9060692",
+  "source_record_sha256": "d8237d024cf359268ec4b38b132caf7032d855f60abad254b4815f1ac8028dd4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3b23f746dbf85fbd4bd68889f358bcaf9af5cb30b891bfb85eef24632fa14956",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modification of 3D printed PCL scaffolds by PVAc and HA to enhance cytocompatibility and osteogenesis",
+    "authors": "Ma J, Lin L, Zuo Y, Zou Q, Ren X, Li J, Li Y.",
+    "year": 2019,
+    "journal": "RSC Advances",
+    "doi": "10.1039/c8ra06652c",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

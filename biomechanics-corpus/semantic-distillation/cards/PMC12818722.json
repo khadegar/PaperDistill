@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12818722",
+  "paper_id": "doi:10.1021/acsbiomaterials.4c01926",
+  "pmcid": "PMC12818722",
+  "source_record_sha256": "ed1ca789670208806d4df0b63c7f7d9edaff8d3c0afcecbc7445b722c7aae48a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "061519004ed56e89ab7c995f198ec135f10dd5ea62c6b48b08234938359249c5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed Cell-Instructive Scaffolds Based on Chondrosia reniformis Collagen and Sr-Doped Calcium Phosphates for Bone Tissue Engineering",
+    "authors": "Rocha MS, Marques CF, Pina S, Oliveira JM, Reis RL, Silva TH.",
+    "year": 2025,
+    "journal": "ACS Biomaterials Science & Engineering",
+    "doi": "10.1021/acsbiomaterials.4c01926",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

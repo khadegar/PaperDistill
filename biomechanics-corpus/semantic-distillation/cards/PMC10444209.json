@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10444209",
+  "paper_id": "doi:10.3389/fbioe.2023.1185841",
+  "pmcid": "PMC10444209",
+  "source_record_sha256": "dec4e7933e6c8c1a8c0b47ef77bc63765de1eb982d4e622f065d98f40fd6d3f4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a894208c20c19100fe9e585f284a4e90d6727125bff769005310fd9486681f78",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biofabrication of functional bone tissue: defining tissue-engineered scaffolds from nature",
+    "authors": "Rifai A, Weerasinghe DK, Tilaye GA, Nisbet D, Hodge JM, Pasco JA, Williams LJ, Samarasinghe RM, Williams RJ.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1185841",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

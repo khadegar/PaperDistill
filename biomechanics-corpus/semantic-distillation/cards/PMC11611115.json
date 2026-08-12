@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11611115",
+  "paper_id": "doi:10.1371/journal.pone.0312880",
+  "pmcid": "PMC11611115",
+  "source_record_sha256": "9940ed4838aa53c45cea56b409fb1768c12ce02a893a49f126187d6477ad7e79",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ffe90b980fe474371c13bec907d38f62dd4cc80b67a09e490be636c8117b9dbb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Structural and hemodynamic analysis of Weaire-Phelan scaffolds made of Ti-alloy as bone replacement component: A preclinical investigation",
+    "authors": "Bhardwaj JS, Chanda S.",
+    "year": 2024,
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0312880",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

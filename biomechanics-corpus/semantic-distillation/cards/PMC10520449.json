@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10520449",
+  "paper_id": "doi:10.1016/j.mtbio.2023.100800",
+  "pmcid": "PMC10520449",
+  "source_record_sha256": "9adb8d92b8985d0df865f6d1f1db077f4282ad87483ba5cbeef931f0b599cf4b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "30d728fa6f5ed11a3c7bc1ed933631f998ac3307b972106851a5c38a78133e1f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Lineage-specific multifunctional double-layer scaffold accelerates the integrated regeneration of cartilage and subchondral bone",
+    "authors": "Ma C, Wang T, Jin X, Zhang W, Lv Q.",
+    "year": 2023,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2023.100800",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

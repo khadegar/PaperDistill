@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11952862",
+  "paper_id": "doi:10.1016/j.reth.2025.02.016",
+  "pmcid": "PMC11952862",
+  "source_record_sha256": "7c5db0dc080ad766af5bd08d0e07313454efb290f671ad4263d788571ccd137c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a5fbead7a7b67eb84d86fce25fef1618ed12f8892d71abe784079a6039ed87e6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Adenovirus mediated gene delivery of α-calcitonin gene-related peptide facilitates osseointegration of implant in ovariectomized rat",
+    "authors": "Guozhu Y, Yihua W, Zhu Y, Li D, Tianqi Z, Jia L, Shizhou Z.",
+    "year": 2025,
+    "journal": "Regenerative Therapy",
+    "doi": "10.1016/j.reth.2025.02.016",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

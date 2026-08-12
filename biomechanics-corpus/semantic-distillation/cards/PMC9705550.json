@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9705550",
+  "paper_id": "doi:10.1038/s41598-022-24876-1",
+  "pmcid": "PMC9705550",
+  "source_record_sha256": "51acaf62041d1b1aaf2a390fb714a930b1368c824f4c5c531c16af219b7e95ef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "efa84b741b63c82e43a02f834dd9ac4c71142c9a077ff83953eead2651ca3663",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical application of 3D-Slicer + 3D printing guide combined with transcranial neuroendoscopic in minimally invasive neurosurgery",
+    "authors": "Zhou L, Wang W, Li Z, Wei H, Cai Q, Chen Q, Liu Z, Ye H, Song P, Cheng L, Lei P, Chen S.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-24876-1",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

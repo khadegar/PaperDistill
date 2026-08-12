@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11155040",
+  "paper_id": "doi:10.1186/s12891-024-07550-7",
+  "pmcid": "PMC11155040",
+  "source_record_sha256": "96f0da6d185bfd04b14135d6f64197a534b79f70a2b65d8df364485747afd558",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5b267754e01cb61ee07212a867983efc4e44049404f7ff5d3aef13c84473866e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A finite element analysis of a low-profile femoral neck system of screws in sleeves in a vertical femoral neck fracture model",
+    "authors": "Sun J, Wu L, Fang N, Qiao W, Liu L.",
+    "year": 2024,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-024-07550-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

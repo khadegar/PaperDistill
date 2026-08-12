@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9739563",
+  "paper_id": "doi:10.3390/ma15238693",
+  "pmcid": "PMC9739563",
+  "source_record_sha256": "b58331ed780b4b5f29d50c10720b585bf4d7ea0738b518087ef54031a8c8d5fa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3edb9fa0f00d386048fe9038445910d413e055f6fd7c7c8cc3d9bc9e743e9755",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive Manufactured Magnesium-Based Scaffolds for Tissue Engineering",
+    "authors": "Antoniac I, Manescu Paltanea V, Paltanea G, Antoniac A, Nemoianu IV, Petrescu MI, Dura H, Bodog AD.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15238693",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

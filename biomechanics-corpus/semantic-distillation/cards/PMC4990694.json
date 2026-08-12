@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4990694",
+  "paper_id": "doi:10.1038/ncomms12445",
+  "pmcid": "PMC4990694",
+  "source_record_sha256": "962f90f9f649528f6e8ab9d2a9517b05f9799495e409e18a5bbd2870d165f297",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "aa9c743f0f7968b9a03a4d8af2643ec8769d0c7c6ceea99d8ceea66897fb0e59",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multiparametric imaging with heterogeneous radiofrequency fields",
+    "authors": "Cloos MA, Knoll F, Zhao T, Block KT, Bruno M, Wiggins GC, Sodickson DK.",
+    "year": 2016,
+    "journal": "Nature Communications",
+    "doi": "10.1038/ncomms12445",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

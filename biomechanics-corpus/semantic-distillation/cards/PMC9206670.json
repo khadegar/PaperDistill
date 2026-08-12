@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9206670",
+  "paper_id": "doi:10.1038/s41597-022-01400-8",
+  "pmcid": "PMC9206670",
+  "source_record_sha256": "8a37b8478c1816fec13a09f4d8e956aaede7637569253ab6098da7c3788384ed",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a5df2f92aece367f514ad6a7e9f7d96b9114a21900a365fc091ba85aa3f662cb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "X-ray computed microtomography datasets for osteogenic nanofibrous coated titanium implants",
+    "authors": "Das S, Dholam K, Gurav S, Bendale K, Ingle A, Mohanty B, Chaudhari P, Bellare JR.",
+    "year": 2022,
+    "journal": "Scientific Data",
+    "doi": "10.1038/s41597-022-01400-8",
+    "publication_type": "Dataset; data-paper; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

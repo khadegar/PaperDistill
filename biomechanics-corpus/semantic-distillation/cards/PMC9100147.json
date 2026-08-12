@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9100147",
+  "paper_id": "doi:10.3390/ma15093310",
+  "pmcid": "PMC9100147",
+  "source_record_sha256": "d1975ccc91f4ebd1479323fac5ae093521ea7cb286ae7eceffd43fa0fb0f1c1a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e0a09c427e6d4c7040d38ac30ded79475fd4e41e59ea0385afd92953dd1533fd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and Validation of Additively Manufactured Metallic Cellular Scaffold Structures for Bone Tissue Engineering",
+    "authors": "Al-Barqawi MO, Church B, Thevamaran M, Thoma DJ, Rahman A.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15093310",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

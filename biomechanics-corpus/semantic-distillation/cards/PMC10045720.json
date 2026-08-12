@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10045720",
+  "paper_id": "doi:10.3390/bioengineering10030323",
+  "pmcid": "PMC10045720",
+  "source_record_sha256": "f2e970d245391ee55d691beb6da0bcc290b57b1a732f217d5a87af206eb26165",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b177a493e4a2a156b8bc3e376096f2268d41dfd07f6e161aaeead7b1f4721d89",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Modulation of Dental Pulp Stem Cell (DPSC) Properties for Soft Tissue Engineering",
+    "authors": "Gross T, Dieterle MP, Vach K, Altenburger MJ, Hellwig E, Proksch S.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10030323",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

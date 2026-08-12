@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12166560",
+  "paper_id": "doi:10.1186/s40001-025-02687-0",
+  "pmcid": "PMC12166560",
+  "source_record_sha256": "e391eb381d6c6ac56b34ced6aee86f39175cb09dee619433bdd2bc7f10e5650c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "64856afdef555d50b23e15f5d96a613b4f352a7f0d4cd7d44e463163341059ec",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical stability and stress distribution before talus prosthesis design: effects of ligament removal and cartilage overlay thickness using finite element analysis",
+    "authors": "Zeng G, Sun Y, Liang M, Liu W, Chen Y, Wu J, Zheng J, Zhou T, Zhao H, Song W, Ding Y.",
+    "year": 2025,
+    "journal": "European Journal of Medical Research",
+    "doi": "10.1186/s40001-025-02687-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

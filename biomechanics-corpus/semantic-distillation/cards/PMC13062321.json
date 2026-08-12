@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13062321",
+  "paper_id": "doi:10.13107/jocr.2026.v16.i04.7062",
+  "pmcid": "PMC13062321",
+  "source_record_sha256": "93e2dd880eaba35ccf5cfe0a4fd0ad8d9e3bc80423d3d20382af1662f641c933",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "78271a86d350f5db8a38ea729ca707530e96103393f39fe8a1ab32b08893456c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Assisted Scapular Fracture Fixation in a Polytraumatized Patient: A Case Report",
+    "authors": "Dobrich J, Deegan MK, Gerber CD, Min KS.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Case Reports",
+    "doi": "10.13107/jocr.2026.v16.i04.7062",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

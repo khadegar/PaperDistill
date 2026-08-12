@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11973385",
+  "paper_id": "doi:10.3389/fbioe.2025.1542352",
+  "pmcid": "PMC11973385",
+  "source_record_sha256": "9acfc398fc09bc140e7942c6ccb97d0e4e70a054ec6dc3e50ba505f86302463b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4bb22999e0d7febf6c892aeec3a3d87eeca5107d4604d1b3cb89f57657ad30a1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Craniocaudal cyclic load improves risk assessment of lumbar pedicle screw loosening: finite element analysis based on computer tomography",
+    "authors": "Jiang C, Ouyang H, Li Y, Lang N, Zhang Y, Jiang L, Yuan H.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1542352",
+    "publication_type": "brief-report; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

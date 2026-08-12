@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11642249",
+  "paper_id": "doi:10.3390/ma17235680",
+  "pmcid": "PMC11642249",
+  "source_record_sha256": "a8ecad029a8f1c0a738d859f255f9a0ee5085faae05959fb550ec52ff33f8068",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c9763021d17b0b2a4fcc93d16d337e27ee22287e51d2d406126144448aaf226b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Finite Element Analysis of Two Types of Short-Angled Implants Across Various Bone Classifications",
+    "authors": "Ceddia M, Romasco T, De Bortoli N, Mello BF, Piattelli A, Mijiritsky E, Di Pietro N, Trentadue B.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17235680",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8911835",
+  "paper_id": "doi:10.3390/nano12050757",
+  "pmcid": "PMC8911835",
+  "source_record_sha256": "64f2b87bbbd94a6c497516c6659ad07cd6e6062d1ce8093e05dde98ccc4530dd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3881fabd1c13d350ddadc72cee60e9023b5c7cf6034a188e37683a2c82b10f90",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Magnetic Nanoparticles in Bone Tissue Engineering",
+    "authors": "Dasari A, Xue J, Deb S.",
+    "year": 2022,
+    "journal": "Nanomaterials",
+    "doi": "10.3390/nano12050757",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

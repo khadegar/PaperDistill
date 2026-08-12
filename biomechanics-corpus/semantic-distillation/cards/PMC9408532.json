@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9408532",
+  "paper_id": "doi:10.3390/ijms23168882",
+  "pmcid": "PMC9408532",
+  "source_record_sha256": "cec8bd92318f5218dfc7c231313e7b60ac374e3ad3bf4d4f2826f0755ecacbc6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b40b87eec088106bdd5a602cc9bf1910c8d2b5db6e784d3ad160a562e167b88a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Analysis of the Chemical Composition and Morphological Characterization of Tissue Osseointegrated to a Dental Implant after 5 Years of Function",
+    "authors": "Apablaza JA, Días FJ, Sánchez KG, Navarro P, Venegas C, Fuentes R.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms23168882",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

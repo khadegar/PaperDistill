@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-08-10T10:15:04Z",
+  "root": "D:\\CodeX\\PaperDistill\\biomechanics-corpus",
+  "status": "ready",
+  "counts": {
+    "manifest": 10000,
+    "raw_xml": 10000,
+    "parsed_records": 10000,
+    "indexed_papers": 10000,
+    "indexed_sections": 208253,
+    "records_with_methods": 7647,
+    "records_with_results_or_combined": 7876,
+    "records_missing_license_label": 64
+  },
+  "checks": {
+    "acquisition_complete": true,
+    "index_reconciled": true,
+    "duplicate_paper_ids": {},
+    "duplicate_dois": {},
+    "duplicate_pmcids": {},
+    "duplicate_parsed_paper_ids": {},
+    "duplicate_normalized_title_years": {},
+    "missing_required_manifest_fields": [],
+    "raw_without_record": [],
+    "record_without_raw": [],
+    "record_not_in_manifest": [],
+    "manifest_without_record": [],
+    "corrupt_records": [],
+    "mismatched_record_ids": [],
+    "zero_content_records": [],
+    "section_type_counts": {
+      "other": 66560,
+      "methods": 64287,
+      "results": 37874,
+      "introduction": 10631,
+      "abstract": 9989,
+      "discussion": 9619,
+      "conclusion": 8654,
+      "limitations": 639
+    }
+  }
+}

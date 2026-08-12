@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10067794",
+  "paper_id": "doi:10.3349/ymj.2022.0547",
+  "pmcid": "PMC10067794",
+  "source_record_sha256": "2b90ccbcee676055a1d1703db249a6c43e7860b7c2d57aa6eaae8543055d9e66",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "64194ea9e4290cb034bc340e9178bbd017beb97eb9cde025bb33c6205bb1c73d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication of 3D-Printed Implant for Two-Stage Ear Reconstruction Surgery and Its Clinical Application",
+    "authors": "Joo OY, Kim TH, Kim YS, Roh TS, Lee EJ, Shim JH, Cho HW, Yun IS.",
+    "year": 2023,
+    "journal": "Yonsei Medical Journal",
+    "doi": "10.3349/ymj.2022.0547",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

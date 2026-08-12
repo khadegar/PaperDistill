@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12529138",
+  "paper_id": "doi:10.1021/acsomega.5c06631",
+  "pmcid": "PMC12529138",
+  "source_record_sha256": "93bfee5d0d2d4d54204b5ed093c318d06a14ae0709382737abc71537423f09bc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6302bd159879103a4145fefcda809c39a30511b733e2b4402dd8dbdf6372908c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Process-Driven Optimization of FDM Porous PEEK Scaffolds for Alloplastic Bone Grafts",
+    "authors": "Galea Mifsud M, Di-Silvio L, Coward T.",
+    "year": 2025,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.5c06631",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11228251",
+  "paper_id": "doi:10.3389/fbioe.2024.1371693",
+  "pmcid": "PMC11228251",
+  "source_record_sha256": "e28fb1baebcb32662354e719ac72ae316536edcd9b2a1cba4aa6c31e0d7fe613",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9ed01a256436acd6278abb5f7c3be173d85a84b87538fd6033bebed373d0bbbf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cortico-cancellous osseointegration into additively manufactured titanium implants using a load-bearing femoral ovine model",
+    "authors": "Feldman A, Assad M, Davies MB, Mangwani J, Alabort E, Tuncer M.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1371693",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

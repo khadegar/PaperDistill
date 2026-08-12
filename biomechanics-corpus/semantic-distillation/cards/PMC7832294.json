@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7832294",
+  "paper_id": "doi:10.3390/s21020647",
+  "pmcid": "PMC7832294",
+  "source_record_sha256": "ef92cd442573e411ec24c5b9cbe9e130cc42b727bdc36526f840947fa7f6f246",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "926e2565e7639acb5c6e7c0eedc12bd591ca5dc4c3eb8cf23e3125a980e6dbc9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Strength Training Characteristics of Different Loads Based on Acceleration Sensor and Finite Element Simulation",
+    "authors": "Pang B, Ji Z, Zhang Z, Sun Y, Ma C, He Z, Hu X, Jiang G.",
+    "year": 2021,
+    "journal": "Sensors (Basel, Switzerland)",
+    "doi": "10.3390/s21020647",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

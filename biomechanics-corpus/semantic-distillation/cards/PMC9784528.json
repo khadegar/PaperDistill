@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9784528",
+  "paper_id": "doi:10.3390/ph15121518",
+  "pmcid": "PMC9784528",
+  "source_record_sha256": "7a5234fe3e772f6e85fd0610341e677b9dab33855982feefb662317061a1bb56",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ae4f2f0c89be200731fbe65751d8f366e2f3844a4b748307eb08490535ea02f7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Anti-Diabetic Medications on Dental Implants: A Scoping Review of Animal Studies and Their Relevance to Humans",
+    "authors": "Tan SJ, Baharin B, Mohd N, Nabil S.",
+    "year": 2022,
+    "journal": "Pharmaceuticals",
+    "doi": "10.3390/ph15121518",
+    "publication_type": "Scoping Review; review-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

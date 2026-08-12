@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11132412",
+  "paper_id": "doi:10.1097/md.0000000000029450",
+  "pmcid": "PMC11132412",
+  "source_record_sha256": "65d81e0029848b0c65d914ca7987c2d5fc42cd067ba95ab96e78046ef22ff7bb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "00eb852a502fa8f7d3326f34fa5041203cd08de10529a6f8633e37cdd4531fa2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of femoral neck system in the treatment of Pauwels type III femoral neck fracture",
+    "authors": "Teng Y, Zhang Y, Guo C.",
+    "year": 2022,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000029450",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

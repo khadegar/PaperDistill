@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5291327",
+  "paper_id": "doi:10.2147/ijn.s126248",
+  "pmcid": "PMC5291327",
+  "source_record_sha256": "e0b5d235a41859ed21e4b75dba4f40544a70809e14bac5e6acb13d84da897a9f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dcab02169fa6db40b85095d26d1ba1eb4d7a01fb412757868271e67cf5d5ee63",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Synergistic effect of nanotopography and bioactive ions on peri-implant bone response",
+    "authors": "Su Y, Komasa S, Li P, Nishizaki M, Chen L, Terada C, Yoshimine S, Nishizaki H, Okazaki J.",
+    "year": 2017,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s126248",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

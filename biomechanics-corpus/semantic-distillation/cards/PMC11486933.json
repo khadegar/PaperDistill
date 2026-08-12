@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11486933",
+  "paper_id": "doi:10.1097/js9.0000000000001842",
+  "pmcid": "PMC11486933",
+  "source_record_sha256": "2f2b6aaee948706464754b6e07229f5d353f80c90db6062974d7da27db907c24",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ee579003343c7af6b76d940d761c2147eb1f17c04f268409a7831f6a14b0eef3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Innovations in three-dimensional-printed individualized bone prosthesis materials: revolutionizing orthopedic surgery: a review",
+    "authors": "Qu Z, Yue J, Song N, Li S.",
+    "year": 2024,
+    "journal": "International Journal of Surgery (London, England)",
+    "doi": "10.1097/js9.0000000000001842",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

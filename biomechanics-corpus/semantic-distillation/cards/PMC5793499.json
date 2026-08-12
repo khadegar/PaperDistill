@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5793499",
+  "paper_id": "doi:10.3390/ma11010001",
+  "pmcid": "PMC5793499",
+  "source_record_sha256": "50d31842aa0bef65182b2d2bcd16bd54e6c3455c5c6e13c61cfc23bd0bc91265",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cb4a664118ed5c717b5bc58b2480006262d316b9fe23e01771abc25e39dcf21b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Numerical Modelling of Effects of Biphasic Layers of Corrosion Products to the Degradation of Magnesium Metal In Vitro",
+    "authors": "Ahmed SK, Ward JP, Liu Y.",
+    "year": 2017,
+    "journal": "Materials",
+    "doi": "10.3390/ma11010001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

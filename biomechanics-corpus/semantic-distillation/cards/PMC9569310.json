@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9569310",
+  "paper_id": "doi:10.1007/s10856-022-06696-x",
+  "pmcid": "PMC9569310",
+  "source_record_sha256": "f17b7480e7bca84c79d3e81cd20b107d0adb06252cae0b0db7ce0d8199a07860",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d62d7ba1349fa9b4ee058b865afcfb5cd19a9b7d8af1d2680399c59f55d7d702",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of osteogenesis of bovine bone xenografts between true bone ceramics and decalcified bone matrix",
+    "authors": "Xu G, Guo R, Han L, Bie X, Hu X, Li L, Li Z, Zhao Y.",
+    "year": 2022,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-022-06696-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

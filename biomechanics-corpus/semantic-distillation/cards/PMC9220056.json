@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9220056",
+  "paper_id": "doi:10.3390/bioengineering9060259",
+  "pmcid": "PMC9220056",
+  "source_record_sha256": "3b3be76d65010af894a0327ca457d9b41adddf6cec88f5a02c0ec1e421b2b08e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8382a2fa2d9d1fec3293ac63ddd172294974699d047a614214e6c0848c5d94c0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis of the Use of Stems in Revision Total Knee Arthroplasty",
+    "authors": "Innocenti B, Bori E, Pianigiani S.",
+    "year": 2022,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering9060259",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

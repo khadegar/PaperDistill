@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10607099",
+  "paper_id": "doi:10.3390/jfb14100496",
+  "pmcid": "PMC10607099",
+  "source_record_sha256": "7bf5ce871843f1c60d04b0607e9950aa1118c6eb0ad580c5d37e35b6d2190bb4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1889b984684e02f429d3cf4711463bf815caaf1a45e419f0cfb3550dc6b21cea",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Porosity Design and Deformation Behavior Analysis of Additively Manufactured Bone Scaffolds through Finite Element Modelling and Mechanical Property Investigations",
+    "authors": "Rasheed S, Lughmani WA, Khan MM, Brabazon D, Obeidi MA, Ahad IU.",
+    "year": 2023,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb14100496",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5983745",
+  "paper_id": "doi:10.3390/ijms19051285",
+  "pmcid": "PMC5983745",
+  "source_record_sha256": "f3192eedcd456b5f8168acc032d753d5dbc44d1275378a63230c926c146578a2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2e9e9975d7ea16381a765ec49b1f3755eaa9e024b3b62def2f14abfbb8b92b6e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Adult Stem Cells Spheroids to Optimize Cell Colonization in Scaffolds for Cartilage and Bone Tissue Engineering",
+    "authors": "Baptista LS, Kronemberger GS, Côrtes I, Charelli LE, Matsui RAM, Palhares TN, Sohier J, Rossi AM, Granjeiro JM.",
+    "year": 2018,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms19051285",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

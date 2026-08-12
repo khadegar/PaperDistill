@@ -1,0 +1,349 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13018927",
+  "paper_id": "doi:10.1016/j.identj.2026.109503",
+  "pmcid": "PMC13018927",
+  "source_record_sha256": "3210f9738502723089ea2e989278a4e03edd0b364c1593c30f8e369676cdfd1f",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T11:25:10Z",
+    "packet_sha256": "6160130b6091697ec22b133d5ee4d75fd92935e9be3c957ec023ea4c612ba081",
+    "section_locators_read": [
+      "S001:C01",
+      "S001:C02",
+      "S002:C01",
+      "S002:C02",
+      "S003:C01",
+      "S004:C01",
+      "S005:C01",
+      "S006:C01",
+      "S007:C01",
+      "S008:C01",
+      "S009:C01",
+      "S010:C01",
+      "S011:C01",
+      "S011:C02",
+      "S011:C03",
+      "S012:C01",
+      "S012:C02",
+      "S012:C03",
+      "S013:C01",
+      "S014:C01",
+      "S015:C01",
+      "S016:C01",
+      "S017:C01",
+      "S018:C01",
+      "S019:C01",
+      "S019:C02",
+      "S019:C03",
+      "S019:C04",
+      "S019:C05",
+      "S019:C06",
+      "S019:C07",
+      "S019:C08",
+      "S020:C01",
+      "S021:C01",
+      "S022:C01",
+      "S023:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Long-Term Stability of the Use of Patient Specific Implants in Orthognathic Surgery: A Systematic Review",
+    "authors": "Wu A, Tay HW, Leung YY.",
+    "year": 2026,
+    "journal": "International Dental Journal",
+    "doi": "10.1016/j.identj.2026.109503",
+    "publication_type": "Systematic Review; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review_of_clinical_imaging_stability",
+    "design_features": [
+      "prisma_2020",
+      "osf_registration",
+      "patient_specific_implants",
+      "orthognathic_surgery",
+      "clinical_imaging_follow_up",
+      "robins_i_and_rob2",
+      "descriptive_weighted_means",
+      "mixed_2d_and_3d_radiography",
+      "no_mechanical_experiment"
+    ],
+    "research_problem": "Patient-specific fixation in orthognathic surgery is well studied for immediate positional accuracy, but evidence that skeletal position remains stable after healing is sparse and inconsistently imaged.",
+    "exact_gap": "Many PSI accuracy studies lack radiographic comparison between the early postoperative state and at least 6-12 months, leaving medium- or long-term skeletal stability uncertain (S002:C01-S002:C02).",
+    "objective_or_hypothesis": "Systematically evaluate PSI skeletal stability after orthognathic surgery, with secondary assessment of operative time, complications, and reoperations, using conventional plates as controls where available and single-arm studies for qualitative synthesis (S003:C01-S004:C01).",
+    "study_design": "PRISMA-2020 systematic review registered on OSF; five databases plus reference searching yielded six human studies and 171 participants, with ROBINS-I v2 for five studies and RoB 2 for one randomized trial (S003:C01; S005:C01-S010:C01).",
+    "sample_or_model": "Four retrospective cohorts and two prospective studies (one multicenter RCT), with 12-53 patients per study, maxillary and/or mandibular PSI fixation, different design software, CBCT/CT/lateral cephalograms, and 6- to roughly 12-month imaging in most studies (S011:C01-S011:C03).",
+    "comparators": [
+      "PSI versus conventional miniplates in a subset of included studies",
+      "Single-arm PSI early-postoperative versus later-postoperative position in other studies",
+      "Indirect comparison with historical conventional-plate literature in the discussion",
+      "No common landmark, imaging modality, operation, movement magnitude, or follow-up across all studies"
+    ],
+    "method_spine": [
+      "Define stability as change from early postoperative to later postoperative imaging, not preoperative-to-postoperative accuracy.",
+      "Extract operation, jaw, landmark, axis, imaging modality, follow-up, PSI system, and comparator.",
+      "Assess study-design-specific risk of bias.",
+      "Report linear, angular, transverse, and rotational changes separately.",
+      "State how many studies and patients contribute to each summary.",
+      "Keep stability, operative workflow, complications, mechanical strength, and patient-important outcomes distinct."
+    ],
+    "validation_roles": {
+      "verification": [
+        "The review reports registration, databases/search dates, dual screening, third-reviewer resolution, eligibility, 2393-to-6 selection, extraction fields, and risk-of-bias tools (S003:C01-S010:C01).",
+        "Study tables make imaging modality, time points, landmarks, jaw, and software visible (S011:C01-S012:C03)."
+      ],
+      "calibration": [],
+      "validation": [
+        "Later-versus-early imaging assesses observed skeletal positional stability in included patients; it does not mechanically validate PSI strength, fatigue, interface behavior, or causal superiority.",
+        "The review performs no independent validation and includes only one randomized comparison; three studies are low, two moderate, and one serious risk of bias (S010:C01)."
+      ],
+      "sensitivity": [
+        "No formal sensitivity analysis tests imaging modality, landmark, jaw, movement magnitude, follow-up, single-arm versus controlled design, or risk-of-bias exclusion.",
+        "The discussion qualitatively flags 2D/3D mixing, retrospective designs, small samples, and scarcity beyond 24 months (S019:C07-S020:C01)."
+      ],
+      "application_prediction": [
+        "A shift toward PSI as primary fixation is proposed, but comparative adoption decisions require stronger randomized, resource, complication, and long-term evidence (S019:C04-S020:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "Reported maxillary translations were 0.27-0.50 mm in x, 0.30-1.07 mm in y, and 0.529-0.656 mm direct distance; one mandibular study reported 0.729 mm at point B (S012:C01-S013:C01).",
+      "Single-study angular/transverse/rotational outcomes included 0.57 degrees SNA, 0.05 degrees SNB, 0.05/0.16 mm anterior/posterior arch width, and 0.1/0.5/0.2 degrees pitch/roll/yaw (S012:C02-S016:C01).",
+      "Only one comparative study reported operation time, 5.76 versus 6.83 hours (15.7% shorter with PSI); the other five did not report it (S017:C01).",
+      "Three studies (46 participants) reported no complications or reoperations, while three studies did not report those outcomes; missing reporting cannot be interpreted as zero risk (S018:C01).",
+      "The review states that methodological heterogeneity and absence of follow-up beyond 24 months prevent a definite long-term conclusion (S020:C01)."
+    ],
+    "highest_evidence_level_reached": "A small heterogeneous clinical evidence map with one RCT and medium-term imaging stability estimates; insufficient for a robust comparative effect, long-term device reliability, complication rate, or mechanical-validation claim."
+  },
+  "argument_map": {
+    "central_claim": "Available studies show small medium-term skeletal positional changes after PSI orthognathic fixation, generally within commonly cited clinical thresholds, but sparse controlled evidence, mixed imaging/landmarks, limited follow-up, and missing complication reporting support viability rather than proven superiority or long-term reliability.",
+    "data": [
+      "Six studies, 171 patients, multiple jaws/procedures/software/imaging modalities and 6-12-month follow-up (S011:C01-S011:C03).",
+      "Axis- and landmark-specific positional changes, one operation-time comparison, and incomplete complication reports (S012:C01-S018:C01)."
+    ],
+    "warrant": "Small early-to-later positional changes are consistent with skeletal stability, provided imaging error, landmark definition, planned movement, relapse direction, and comparator context are considered.",
+    "backing": [
+      "The review compares observed movements with conventional orthognathic thresholds of less than 2 mm translation and less than 4 degrees rotation (S019:C01-S019:C02)."
+    ],
+    "qualifier": "Clinically acceptable medium-term imaging stability in selected studies, not definitive long-term comparative fixation performance.",
+    "rebuttals_or_boundaries": [
+      "Follow-up as short as six months is labeled long term, and no study extends beyond 24 months in the review's conclusion (S011:C03; S020:C01).",
+      "CBCT/CT and lateral cephalograms, landmarks, axes, jaws, procedures, and early reference times differ, limiting comparability.",
+      "Several summary parameters come from one study; pooled weighted means for two or three studies do not overcome conceptual heterogeneity (S017:C01).",
+      "Three studies are missing complication/reoperation information, so a minimal complication probability cannot be inferred (S018:C01; S019:C06).",
+      "Only one study supplies operation time and preoperative design/manufacturing time is outside the intraoperative comparison (S017:C01; S019:C04-S019:C05).",
+      "Skeletal positional stability does not directly establish plate strength, fatigue life, osseointegration, occlusal function, PROMs, or cost-effectiveness."
+    ],
+    "argument_coherence": "moderate_when_limited_to_medium_term_imaging_stability"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "At review level, search/screening/risk-of-bias data and extracted study characteristics; positional changes, operation time, complications, and reoperations were measured or reported by included clinical studies (S009:C01-S018:C01)."
+    ],
+    "predicted": [],
+    "inferred": [
+      "The review interprets small positional changes relative to literature thresholds as clinically acceptable stability and indirectly as reliable fixation (S019:C01-S019:C02; S020:C01).",
+      "It theorizes that digital planning and simplified intraoperative procedures make PSI outcomes similar or better than miniplates, but this is not isolated by the included evidence (S019:C02-S019:C06)."
+    ],
+    "recommended": [
+      "Use standardized 3D imaging, consistent early and long-term time points, prespecified landmarks/coordinate systems, longer than 24-month follow-up, randomized comparators, complete harms, PROMs, workflow time, and cost reporting (S019:C05-S020:C01)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Millimetric or angular positional change is a skeletal stability endpoint, not a mechanical strength or fatigue test.",
+      "Position within a clinical threshold does not establish superiority over conventional fixation without a concurrent comparable control.",
+      "No reported complication in a small study is not proof of zero risk; unreported outcomes are missing, not negative.",
+      "Shorter operating time excludes planning, engineering, fabrication, transport, and approval time.",
+      "Six- to twelve-month imaging does not establish true long-term relapse, hardware failure, or patient benefit."
+    ],
+    "overclaim_risks": [
+      "The abstract calls PSI reliable with a high level of long-term stability despite medium-term follow-up and mostly observational evidence (S001:C01-S001:C02).",
+      "The discussion's statement of no significant complications/reoperations conflates three zero-event reports with three non-reporting studies (S019:C01; S018:C01).",
+      "Indirect historical comparisons and common thresholds cannot demonstrate PSI superiority (S019:C02).",
+      "The automatic experimental-mechanical and animal cues are false; this article is a clinical systematic review."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Separate immediate accuracy from longitudinal stability",
+      "execution": "The paper defines the gap as absence of later radiography comparing early and longer-term postoperative position, despite abundant immediate accuracy studies (S002:C01-S002:C02).",
+      "locator": "S002:C02",
+      "effectiveness": "high",
+      "transferable_principle": "For patient-specific devices, distinguish design accuracy, postoperative placement accuracy, temporal stability, mechanical durability, and clinical effectiveness as separate questions.",
+      "failure_mode": "A device can be placed accurately yet relapse or fail later, and stability can be acceptable without proving superior clinical outcomes."
+    },
+    {
+      "section": "results",
+      "move": "Attach every geometric estimate to its evidence denominator and measurement definition",
+      "execution": "The tables identify jaw, landmark, axis, imaging time frame, study count, patient count, estimate, variability, and range (S012:C01-S017:C01).",
+      "locator": "S017:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Report geometric synthesis as parameter, coordinate/landmark, modality, early reference, follow-up, number of studies/patients, estimate, uncertainty, and comparability caveat.",
+      "failure_mode": "A weighted mean across differently defined coordinates is descriptive, not necessarily a valid pooled effect."
+    },
+    {
+      "section": "results",
+      "move": "Treat missing harms as missing",
+      "execution": "Three studies report no complications/reoperations, and three provide no information (S018:C01).",
+      "locator": "S018:C01",
+      "effectiveness": "high_as_data_low_in_subsequent_interpretation",
+      "transferable_principle": "Use separate counts for zero events, not assessed, and not reported; never combine them into a low-risk statement.",
+      "failure_mode": "No report is not evidence of no event."
+    },
+    {
+      "section": "discussion",
+      "move": "Balance intraoperative savings against upstream digital workflow",
+      "execution": "The discussion places a single 15.7% operation-time estimate beside planning/design durations and reported fabrication/delivery delays (S019:C04-S019:C05).",
+      "locator": "S019:C05",
+      "effectiveness": "high",
+      "transferable_principle": "Evaluate patient-specific workflows from imaging acquisition through delivery, not only incision-to-closure time.",
+      "failure_mode": "An intraoperative time gain may coexist with greater total latency and labor."
+    },
+    {
+      "section": "conclusion",
+      "move": "State a viability conclusion while admitting the long-term evidence gate is unmet",
+      "execution": "The conclusion says a definite long-term conclusion is unavailable but describes medium-to-long-term stability as clinically acceptable and PSI as viable (S020:C01).",
+      "locator": "S020:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "When long-term evidence is absent, use 'medium-term imaging stability supports viability' and state the precise follow-up and design needed before reliability or superiority claims.",
+      "failure_mode": "Do not use 'proved' or 'reliable' after acknowledging that the decisive evidence is missing."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Few eligible studies, mixed 2D/3D radiography, mostly retrospective cohorts, potential confounding, small samples, and no robust follow-up beyond 24 months (S019:C07-S020:C01)."
+    ],
+    "reader_identified": [
+      "Single-arm and controlled studies are mixed, and only one included study is randomized.",
+      "Coordinate systems, landmarks, jaws, operations, movement magnitudes, imaging modalities, early reference times, and follow-up differ.",
+      "Descriptive weighted means may imply more homogeneity than exists and are not comparative treatment effects.",
+      "No formal meta-analysis, heterogeneity statistic, sensitivity analysis, certainty grading, or publication-bias assessment.",
+      "Operation time comes from one study and complications are unreported in half of the studies.",
+      "No mechanical strength/fatigue, PROM, occlusal-function, quality-of-life, or cost-effectiveness synthesis.",
+      "Six months is insufficient to justify an unqualified 'long-term' label."
+    ],
+    "likely_bias_direction": [
+      "Positive digital-surgery framing and indirect historical comparison likely overstate comparative benefit.",
+      "Small selected cohorts and incomplete harms reporting likely underestimate complications and reoperations.",
+      "Pooling small positional values across heterogeneous definitions may create false precision."
+    ],
+    "scope_boundary": "The review supports selected PSI systems as showing small medium-term postoperative positional changes; it does not prove long-term mechanical reliability, lower complication risk, superior clinical outcomes, or broad superiority over conventional miniplates."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC13018927-01",
+      "capability": "Separate patient-specific implant accuracy, temporal skeletal stability, mechanical durability, and clinical effectiveness into distinct research questions and claims.",
+      "manuscript_use": "Introduction gap, endpoint taxonomy, Results, and conclusion boundary.",
+      "applicable_domains": [
+        "patient_specific_implant",
+        "bone_implant",
+        "clinical_biomechanics"
+      ],
+      "applicable_study_designs": [
+        "systematic_review",
+        "clinical_cohort",
+        "device_study"
+      ],
+      "supporting_locators": [
+        "S002:C01",
+        "S002:C02",
+        "S004:C01",
+        "S012:C01",
+        "S020:C01"
+      ],
+      "counterexample_or_boundary": "Small positional change at 6-12 months is neither fatigue validation nor proof of better patient outcomes.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC13018927-02",
+      "capability": "Synthesize geometric stability only after preserving coordinate, landmark, modality, early reference, follow-up, and denominator.",
+      "manuscript_use": "Systematic-review extraction table and quantitative summary.",
+      "applicable_domains": [
+        "patient_specific_implant",
+        "imaging",
+        "biomechanics"
+      ],
+      "applicable_study_designs": [
+        "systematic_review",
+        "radiographic_follow_up"
+      ],
+      "supporting_locators": [
+        "S011:C01",
+        "S011:C02",
+        "S011:C03",
+        "S012:C01",
+        "S012:C02",
+        "S012:C03",
+        "S017:C01"
+      ],
+      "counterexample_or_boundary": "A pooled weighted mean is not interpretable if studies measure different anatomical constructs.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC13018927-03",
+      "capability": "Distinguish zero-event, not-assessed, and not-reported harms and couple operating-room time with full digital-workflow latency.",
+      "manuscript_use": "Safety table, workflow Results, and translational Discussion.",
+      "applicable_domains": [
+        "patient_specific_implant",
+        "additive_manufacturing",
+        "clinical_device"
+      ],
+      "applicable_study_designs": [
+        "systematic_review",
+        "clinical_cohort"
+      ],
+      "supporting_locators": [
+        "S017:C01",
+        "S018:C01",
+        "S019:C04",
+        "S019:C05",
+        "S019:C06"
+      ],
+      "counterexample_or_boundary": "Three missing safety reports do not support a low complication rate, and shorter surgery does not imply shorter total care time.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_to_high",
+    "methods_transparency": "high",
+    "validation_credibility": "moderate_for_medium_term_imaging_low_for_long_term_or_mechanics",
+    "outcome_uncertainty_reporting": "moderate",
+    "comparator_fairness": "low_to_moderate",
+    "conclusion_proportionality": "moderate",
+    "critical_weaknesses": [
+      "Only six heterogeneous studies and one randomized comparison.",
+      "Medium-term follow-up, mixed imaging/landmarks, and descriptive rather than causal synthesis.",
+      "Half the studies do not report harms and operation time comes from one study."
+    ],
+    "overall_credibility": "moderate_for_medium_term_stability_mapping_low_for_superiority_long_term_reliability_or_safety_rate"
+  },
+  "summary_zh": "这是一篇正颌 PSI 临床影像稳定性的系统综述，而不是力学实验。6 项研究共 171 人，只有 1 项多中心 RCT；多数随访为 6–12 个月，且 CBCT、CT、侧位头影、坐标、标志点和手术类型不统一。观察到的位移/角度多在常用临床阈值内，因此可写成‘中期影像稳定性支持可行性’，但还不能写成长期机械可靠或优于常规钢板。手术时间缩短 15.7% 只来自 1 项研究，而且应与术前规划、设计、制造和运输时长同报。3 项研究报告零并发症，另 3 项完全未报告；缺失不能并入零事件。最重要的 Skill 规则是把放置精度、时间稳定性、机械耐久、患者结局四层分开，并让每个几何汇总都保留坐标、标志点、影像、参考时点、随访与分母。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section, including all six study characteristics and every stability, operation-time, and complication table.",
+    "The automatic experimental-mechanical and animal cues are incorrect.",
+    "The review is valuable for endpoint taxonomy and missing-harm handling, but not for mechanical reliability or causal superiority."
+  ],
+  "selection": {
+    "selection_reason": "explicit_include",
+    "primary_stratum": "patient_specific_implants",
+    "stratum_rank": 2,
+    "reading_order": 32
+  },
+  "source": {
+    "record_path": "records/PMC13018927.json.gz",
+    "source_record": "records/PMC13018927.json.gz",
+    "source_record_sha256": "3210f9738502723089ea2e989278a4e03edd0b364c1593c30f8e369676cdfd1f",
+    "source_hash": "3210f9738502723089ea2e989278a4e03edd0b364c1593c30f8e369676cdfd1f"
+  }
+}

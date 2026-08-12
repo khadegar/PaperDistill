@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12681846",
+  "paper_id": "doi:10.1016/j.mtbio.2025.102571",
+  "pmcid": "PMC12681846",
+  "source_record_sha256": "56d7544b0d63cfb822c1c4f27e6dfdda58c4e849746e5afedc3e60b72bd563ed",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "78b0bdf7732a0a7ad62f69936eaddd3b3fc3d5a43bd4e3b345efa1716cf9f19f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Strong living scaffolds for load-bearing musculoskeletal tissue regeneration",
+    "authors": "Chen N, Wu M, Williams R, Yan J, Zhou J, Zhu D, Ding Y.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.102571",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

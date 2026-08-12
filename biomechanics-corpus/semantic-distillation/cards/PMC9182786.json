@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9182786",
+  "paper_id": "doi:10.3390/polym14112141",
+  "pmcid": "PMC9182786",
+  "source_record_sha256": "15bfbf024965015d6bad8c972d67b6de9250cb9b413e1642ea1c97308e8a6916",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c78fa8f0855464627454b16a3bfd09980dadc2bf137ffe933a36f27b0450bdbe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomedical Applications of Polyhydroxyalkanoate in Tissue Engineering",
+    "authors": "Pulingam T, Appaturi JN, Parumasivam T, Ahmad A, Sudesh K.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14112141",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

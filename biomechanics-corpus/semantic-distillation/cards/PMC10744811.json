@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10744811",
+  "paper_id": "doi:10.3390/ma16247518",
+  "pmcid": "PMC10744811",
+  "source_record_sha256": "8b9abbcf1e4680f7e34474f2e94e4102362387037e88f861d82b038ffb15ac07",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f98c407cc4e4dea96213907f5e9687a9cfbeb6d6d33dac52ef7512ed7c34282f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of Space Dimensionality within Scaffold for Bone Regeneration with Large and Oriented Blood Vessels",
+    "authors": "Hayashi K, Kishida R, Tsuchiya A, Ishikawa K.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16247518",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

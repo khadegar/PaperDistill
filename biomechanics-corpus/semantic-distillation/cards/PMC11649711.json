@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11649711",
+  "paper_id": "doi:10.1007/s00402-024-05609-7",
+  "pmcid": "PMC11649711",
+  "source_record_sha256": "ba68e9a03f07813b1d8a9c555fce31c69d5694556e619fd2231768aa5963ddba",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6110e1b27f2af27ced30acad0c8aa4a6235ad36dccd458e0a581f59f93f30c73",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient-specific scaphoid prosthesis: surgical technique",
+    "authors": "Honigmann P, Oonk J, Dobbe J, Strackee S, Streekstra G, Haefeli M.",
+    "year": 2024,
+    "journal": "Archives of Orthopaedic and Trauma Surgery",
+    "doi": "10.1007/s00402-024-05609-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

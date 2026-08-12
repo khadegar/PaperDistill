@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9706946",
+  "paper_id": "doi:10.1186/s12891-022-06003-3",
+  "pmcid": "PMC9706946",
+  "source_record_sha256": "92065794498ea4232b02c365c64f48c5b35c721ba7dfa5631a7a4360c6f0fb13",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a72124146aba54a36e5e315ff987287c8bf7df445f6bea58b3f838e6b78ee5e6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element comparative analysis of three different internal fixation methods in the treatment of Pauwels type III femoral neck fractures",
+    "authors": "Ma J, Zhao Z, Zhi X, Wang H, Wang W.",
+    "year": 2022,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-022-06003-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

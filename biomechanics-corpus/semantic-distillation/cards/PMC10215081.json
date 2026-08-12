@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10215081",
+  "paper_id": "doi:10.3390/bioengineering10050539",
+  "pmcid": "PMC10215081",
+  "source_record_sha256": "b5095a07e0674da8f0b9436b5b2780bbd4eb1b976aba81a2afd92776a656cdc1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "49cd1b4acd1f088d4e40c9da10a1e2e39a7537a3ea78e3da82178ae57b0d392b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Modeling of Residual Hearing after Cochlear Implant Surgery in Chinchillas",
+    "authors": "Castle N, Liang J, Smith M, Petersen B, Matson C, Eldridge T, Zhang K, Lee CH, Liu Y, Dai C.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10050539",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

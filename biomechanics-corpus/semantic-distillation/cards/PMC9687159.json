@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9687159",
+  "paper_id": "doi:10.3390/bioengineering9110679",
+  "pmcid": "PMC9687159",
+  "source_record_sha256": "39e1d53dd22a7a4e8f99fae5bf9328ad03c7f45dc153e3d354d1432beb0e8e44",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7a92fd797fdc38c7689732fb976aabf4b9a06adf7217523476f08832a450efa2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed Piezoelectric Porous Bioactive Scaffolds and Clinical Ultrasonic Stimulation Can Help in Enhanced Bone Regeneration",
+    "authors": "Sikder P, Nagaraju P, Naganaboyina HPS.",
+    "year": 2022,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering9110679",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

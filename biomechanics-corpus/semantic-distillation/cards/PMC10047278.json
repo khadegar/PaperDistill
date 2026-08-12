@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10047278",
+  "paper_id": "doi:10.3390/cells12060859",
+  "pmcid": "PMC10047278",
+  "source_record_sha256": "7d454b6d24d30710481c5d579ab797441d7c4407bec6a688066f164e6bd67ec5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7a2f133942e4360baabe197f07299d3aaf32062a1a4fda29a48a92aac3aa8571",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of 3D Printing in Bone Grafts",
+    "authors": "Brachet A, Bełżek A, Furtak D, Geworgjan Z, Tulej D, Kulczycka K, Karpiński R, Maciejewski M, Baj J.",
+    "year": 2023,
+    "journal": "Cells",
+    "doi": "10.3390/cells12060859",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

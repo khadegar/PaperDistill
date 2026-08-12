@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10820098",
+  "paper_id": "doi:10.3390/medicina60010114",
+  "pmcid": "PMC10820098",
+  "source_record_sha256": "64e52251520ef542250ca57cb9b09393bb87d032c37bebd6257dd58bc3349e6a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "507da13806ac267bde73db69b4686c2bbb5ca0936aacbedf5849ffe31cd22d53",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Direct Anterior Approach in Total Hip Arthroplasty for Severe Crowe IV Dysplasia: Retrospective Clinical and Radiological Study",
+    "authors": "Faldini C, Tassinari L, Pederiva D, Rossomando V, Brunello M, Pilla F, Geraci G, Traina F, Di Martino A.",
+    "year": 2024,
+    "journal": "Medicina",
+    "doi": "10.3390/medicina60010114",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8928158",
+  "paper_id": "doi:10.1021/acsomega.1c05908",
+  "pmcid": "PMC8928158",
+  "source_record_sha256": "bedbd4f001505b255026a7d5c0cf252e085277888807198f9a2a76657c8bd3e9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f65f7ed24e1977ffd16da53a9fad1f76f0bc0f5ba56a8fc5a9f75e38ff75ca49",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Facile Fabrication of 3D-Printed Porous Ti6Al4V Scaffolds with a Sr-CaP Coating for Bone Regeneration",
+    "authors": "Su S, Chen W, Zheng M, Lu G, Tang W, Huang H, Qu D.",
+    "year": 2022,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.1c05908",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

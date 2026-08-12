@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10907775",
+  "paper_id": "doi:10.1016/j.heliyon.2024.e26876",
+  "pmcid": "PMC10907775",
+  "source_record_sha256": "ae6d451fa69b998c140b13df1e7a9de8b0be9d443170918fe0c97e56483b6564",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "37a3ef811274d426406020bc6f2e73d9e314f16af4d5ebe05f16f094cb57abd5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A comprehensive biomechanical evaluation of length and diameter of dental implants using finite element analyses: A systematic review",
+    "authors": "Qiu P, Cao R, Li Z, Fan Z.",
+    "year": 2024,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2024.e26876",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

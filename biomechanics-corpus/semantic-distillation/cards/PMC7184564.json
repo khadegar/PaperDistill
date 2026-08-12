@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7184564",
+  "paper_id": "doi:10.1038/s41598-020-63742-w",
+  "pmcid": "PMC7184564",
+  "source_record_sha256": "b6b6726ac49ce04185a95bf75b97d1d733bff1196a6bd972ef5e57347171838f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "73b908f395a143e9e9b54cef57d24dc03c6418d4789aba31e739e20ef3218ff0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Regeneration of segmental defects in metatarsus of sheep with vascularized and customized 3D-printed calcium phosphate scaffolds",
+    "authors": "Vidal L, Kampleitner C, Krissian S, Brennan MÁ, Hoffmann O, Raymond Y, Maazouz Y, Ginebra MP, Rosset P, Layrolle P.",
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-63742-w",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

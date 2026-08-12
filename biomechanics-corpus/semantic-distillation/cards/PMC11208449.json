@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11208449",
+  "paper_id": "doi:10.1038/s41598-024-65565-5",
+  "pmcid": "PMC11208449",
+  "source_record_sha256": "dc5ebbe0748fac71a7de10c88c46896de4f222d0cfab4134259af71ce71466f4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3bc3ad8602454baf5d2055a24396a008e06218e03c025612e5527dfc0c4963fd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Determining the changes in morphology and loading status following medial displacement calcaneal osteotomy for flatfoot using patient-specific finite element models",
+    "authors": "Kobayashi Y, Ikoma K, Maki M, Imai K, Kido M, Okubo N, Sotozono Y, Wang Z, Hirai S, Tanaka M, Takahashi K.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-65565-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

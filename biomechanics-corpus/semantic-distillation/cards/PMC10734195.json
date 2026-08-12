@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10734195",
+  "paper_id": "doi:10.1186/s13018-023-04489-8",
+  "pmcid": "PMC10734195",
+  "source_record_sha256": "5267ae3af64f94e6e82941ecc3ec2bad1575ef2b455d0429973e7aa29280fb48",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ccb33fb0a107761fbb25dbd05f1936e9bf41055819bf8bb1056ef7a65c5dc6cc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed PCL/β-TCP/CS composite artificial bone and histocompatibility study",
+    "authors": "Zheng C, Zhang M.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-04489-8",
+    "publication_type": "Letter",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "other_substantive",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

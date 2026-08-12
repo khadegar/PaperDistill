@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11376606",
+  "paper_id": "doi:10.1590/1807-3107bor-2024.vol38.0010",
+  "pmcid": "PMC11376606",
+  "source_record_sha256": "2b9308a30b74bd3573a123d6bd5d7266bddadb0fc56e4bf22e3d1a3bb1311b2a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2123045f5f43bb9d8e1957d7ab050a5949353941857168a18c479688d78fa7ba",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical behavior of three maxillary expanders in cleft lip and palate: a finite element study",
+    "authors": "Patiño AMB, Rodrigues MP, Pessoa RS, Rubinsky SY, Kim KB, Soares CJ, Almeida GA.",
+    "year": 2024,
+    "journal": "Brazilian Oral Research",
+    "doi": "10.1590/1807-3107bor-2024.vol38.0010",
+    "publication_type": "research-article; Journal Article; Case Reports",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

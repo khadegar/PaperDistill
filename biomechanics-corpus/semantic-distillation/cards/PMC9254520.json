@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9254520",
+  "paper_id": "doi:10.1186/s12903-022-02308-w",
+  "pmcid": "PMC9254520",
+  "source_record_sha256": "16b7f1468b3734b00fb502fc1d972d9681afce47efd5fcf4e1afb77387bdb99d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "af5b015fdf81ea69d6480a615565b272836ad055254e90792e9474a9b873c711",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of the advanced mandibular spring on mandibular retrognathia treatment: a three-dimensional finite element study",
+    "authors": "Zhu C, Li R, Yuan L, Zheng Y, Jin Y, Li H, Liu C, Xia L, Fang B.",
+    "year": 2022,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-022-02308-w",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

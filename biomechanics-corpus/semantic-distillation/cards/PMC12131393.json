@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12131393",
+  "paper_id": "doi:10.1186/s12891-025-08709-6",
+  "pmcid": "PMC12131393",
+  "source_record_sha256": "a60923c18f6ac8f3a0867e7a0c751b00a8350f6e1fa506627a5641ab6dcfa8fb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "788f2c25978cf75bc8088703e3a08ba4721ead3964475cbe14c6f95740436815",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element fracture load analysis and dark-field X-ray imaging of osteoporotic and healthy vertebrae in human lumbar spine specimens",
+    "authors": "Hesse N, Strack D, Rischewski JF, Gassert FT, Kufner A, Urban T, Lochschmidt ME, Schwaiger BJ, Braun C, Mueller DP, Pfeiffer D, Baum T, Subburaj K, Pfeiffer F, Gersing AS.",
+    "year": 2025,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-025-08709-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

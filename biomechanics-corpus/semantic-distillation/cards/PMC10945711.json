@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10945711",
+  "paper_id": "doi:10.1093/jbmrpl/ziad016",
+  "pmcid": "PMC10945711",
+  "source_record_sha256": "695ce2027cfa519baad3984c1b8800909028de16b7c0038e358c846fe7c74acd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e9ee9da7e9f1a64e02f8df088e6a2997dd5d0dd38eb17ba5d9a81cd5cfcee7c3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Pten knockout in mouse preosteoblasts leads to changes in bone turnover and strength",
+    "authors": "Lorenz J, Richter S, Kirstein AS, Kolbig F, Nebe M, Schulze M, Kiess W, Spitzbarth I, Klöting N, Le Duc D, Baschant U, Garten A.",
+    "year": 2024,
+    "journal": "JBMR Plus",
+    "doi": "10.1093/jbmrpl/ziad016",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

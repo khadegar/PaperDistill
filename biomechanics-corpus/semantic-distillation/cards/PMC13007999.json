@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13007999",
+  "paper_id": "doi:10.3892/ijmm.2026.5798",
+  "pmcid": "PMC13007999",
+  "source_record_sha256": "acc458cb3d17a3a01defda22cb2436daa0a97fdc68e18c868ed088377692ca66",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fe9d0100241317d68ca62490c997311a4908abd49962c8a5c5fb968e7c44b509",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanotransduction and its impact on regenerative medicine in orthopedic rehabilitation (Review)",
+    "authors": "Wang B, Zeng X, Liu H, Li L, Lei T, Li Y, Fang Q, Cao Y, Dong B.",
+    "year": 2026,
+    "journal": "International Journal of Molecular Medicine",
+    "doi": "10.3892/ijmm.2026.5798",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

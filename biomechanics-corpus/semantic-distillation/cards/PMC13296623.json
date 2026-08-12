@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13296623",
+  "paper_id": "doi:10.3390/cells15121054",
+  "pmcid": "PMC13296623",
+  "source_record_sha256": "0d131f9a4cd9f093f20092ba134be81c89144e50acf11edc7529753f7fe97f7f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9e1f5afc3a37bd48e3e7f20c6aadd5b81b602c6d7ee3a92759ee16fb979358a1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Smart Hydrogels for Craniofacial Regeneration",
+    "authors": "Omidian H, Gill EJ, Kandalam U.",
+    "year": 2026,
+    "journal": "Cells",
+    "doi": "10.3390/cells15121054",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

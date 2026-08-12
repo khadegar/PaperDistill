@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9823949",
+  "paper_id": "doi:10.3390/polym15010234",
+  "pmcid": "PMC9823949",
+  "source_record_sha256": "7e5e36a8ef3b980bb3dec2672c2522915bc7c105d93980e9ef9e732cc943d4ff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a8d51246a4c489cfe1e91b03b24f5ee67ba05dc4844d318e91b01ceec56f3c80",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Elasto-Plastic Mechanical Modeling of Fused Deposition 3D Printing Materials",
+    "authors": "Bandinelli F, Peroni L, Morena A.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15010234",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

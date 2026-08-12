@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5994630",
+  "paper_id": "doi:10.1302/2058-5241.3.180001",
+  "pmcid": "PMC5994630",
+  "source_record_sha256": "8cf26b7960cb2d9ea5f8243a4d3507619e6f88fdb8def2a074a70ab34154604f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "991dbb6698e3df9f4def779deba5b7dbb9c903765d838a5f824ec771156aef31",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing and unicompartmental knee arthroplasty",
+    "authors": "Jones GG, Clarke S, Jaere M, Cobb J.",
+    "year": 2018,
+    "journal": "EFORT Open Reviews",
+    "doi": "10.1302/2058-5241.3.180001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

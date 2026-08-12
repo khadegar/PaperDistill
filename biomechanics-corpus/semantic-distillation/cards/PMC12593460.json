@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12593460",
+  "paper_id": "doi:10.1016/j.bioactmat.2025.10.016",
+  "pmcid": "PMC12593460",
+  "source_record_sha256": "56d897f32d9e984e65e2adf83035d0e653b6fb702e862e69b54303ef1ef67976",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "675e45ea935d1500e0dbd06e0f28a2e30b549a2290eb0985fa5d8340f93975a2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomineralization-inspired scaffolds using citrate-based polymers to stabilize amorphous calcium phosphate promote osteogenesis and angiogenesis for bone defect repair",
+    "authors": "Chen J, Xian G, Xiao Z, Ge F, Yuan S, Li B, Liang X, Cai Z, Zhang N, Zhang L, Li ZA, Deng L, Zeng C, Xie D.",
+    "year": 2026,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2025.10.016",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

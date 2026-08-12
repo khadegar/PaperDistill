@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8603923",
+  "paper_id": "doi:10.1051/sicotj/2021061",
+  "pmcid": "PMC8603923",
+  "source_record_sha256": "e5c3ad50d14fd018773be141ad330e07cd307bf2aba7d041742a9cd8d7dec5f8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d377bf66a8906c4881751e1dd42f29cacfce224b8eb810309a60bf2f5fb174a0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Similar stress repartition for a standard uncemented collared femoral stem versus a shortened collared femoral stem",
+    "authors": "Batailler C, Shatrov J, Schmidt A, Servien E, Puch JM, Lustig S.",
+    "year": 2021,
+    "journal": "SICOT-J",
+    "doi": "10.1051/sicotj/2021061",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12841636",
+  "paper_id": "doi:10.3390/jcm15020647",
+  "pmcid": "PMC12841636",
+  "source_record_sha256": "b72deec4b9f936d3aed9d1d7906ea7997a63d30cedf5a2e2fd2b316d5cb6f340",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d2f34bda7209f36b1975b93974375bc63f49f9c1b188278e740d9306185ae750",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Use of CAD/CAM Workflow and Patient-Specific Implants for Maxillary Reconstruction: A Systematic Review",
+    "authors": "D'Alpaos D, Badiali G, Ceccariglia F, Nosrati A, Tarsitano A.",
+    "year": 2026,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm15020647",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

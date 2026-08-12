@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13207260",
+  "paper_id": "doi:10.3390/ijms27104335",
+  "pmcid": "PMC13207260",
+  "source_record_sha256": "b1e5f1ef55a53dc8847e301c05d4c8923246676705bb5e911e9972445bd50c06",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7ca6fb37b7f20f9452e28065ee4eadc937e09d8e08c1ffa076d3372981b27a04",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Feasibility of Ti-6Al-4V Alloys with Nanoporous and Nanotubular Surfaces for the Treatment of Femoral Defects",
+    "authors": "Dos Santos DA, Longhitano GA, Fraga GA, Buchaim RL, Buchaim DV, Issa JPM, Hirota VB, Paulini MR, Pelegrine AA, Santos AR, Ferreira Junior RS, da Cunha MR.",
+    "year": 2026,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms27104335",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

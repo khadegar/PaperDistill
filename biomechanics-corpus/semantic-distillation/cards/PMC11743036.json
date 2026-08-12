@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11743036",
+  "paper_id": "doi:10.1186/s12903-025-05468-7",
+  "pmcid": "PMC11743036",
+  "source_record_sha256": "86e0981bc78398fa6be17b1f54dc75d1be6ecebebe5cacac2b20244576034beb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d9223fe651927e6b20569581f47339e63fc976eeb5697e187af871824c629985",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of prostheses retained zygomatic and dental implants in large defects in the maxilla due to tumors or major trauma by biomechanical 3- dimensional finite element analysis",
+    "authors": "Yemenoglu H, Beder M, Yaylacı M, Dizdar A, Alkurt M, Naralan ME, Yaylacı EU, Özdemir ME, Öztürk Ş, Yeşil Z.",
+    "year": 2025,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-025-05468-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

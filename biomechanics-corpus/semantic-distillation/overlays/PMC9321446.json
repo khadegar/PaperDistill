@@ -1,0 +1,255 @@
+{
+  "study": {
+    "article_kind": "original_research_preclinical_biomaterial_study",
+    "design_features": [
+      "microwave_sintered_Ti6Al4V_HA_TiB_composite",
+      "boronized_and_HA_containing_dental_implant_material",
+      "in_vitro_MG63_cell_assays",
+      "rabbit_femur_implantation",
+      "microCT_histology_BIC_and_pushout_testing",
+      "experimental_material_characterization"
+    ],
+    "research_problem": "Commercial titanium and Ti6Al4V are mechanically competent but relatively bio-inert at the bone interface; HA coatings can delaminate and primary stability/healing may be inadequate. The study asks whether a bulk-sintered boronized Ti6Al4V/HA composite can combine mechanical integration of phases with stronger osteogenic and bone-interface responses.",
+    "exact_gap": "Earlier work established compressive, hardness, wear, and simulated-body-fluid properties of the microwave-sintered composite, but its cell osteogenic response and bone integration had not been compared with pure Ti, Ti6Al4V, and boronized Ti6Al4V in matched in-vitro and rabbit experiments.",
+    "objective_or_hypothesis": "Evaluate adhesion, proliferation, early osteogenic differentiation, mineralization, peri-implant bone formation, histologic bone contact, and interfacial push-out behavior of the boronized Ti6Al4V/HA composite as a candidate dental-implant material.",
+    "study_design": "Original experimental study. Polished 8 x 2 mm disks were used for MG-63 cell assays (adhesion at 12/24 h, proliferation at 1, 3, 5 d, ALP at 7 d, alizarin-red mineralization at 14 d). Four 3 x 5 mm implant groups (pure Ti, Ti6Al4V, boronized Ti6Al4V, and boronized Ti6Al4V/HA) were implanted in rabbit femoral metaphyses and assessed at 4, 8, and 12 weeks by micro-CT, toluidine-blue histomorphometry/BIC, and axial push-out. The composite was microwave-sintered in Ar at 1050 degrees C for 30 min after milling, pressing, debinding, and polishing.",
+    "sample_or_model": "MG-63 cells (passages 2-4; initial density 1 x 10^4 cells/well for adhesion and 2 x 10^4 for proliferation/differentiation; n=9 for MTT, n=6 for ALP, n=3 for alizarin-red). Eighteen 3-4-month New Zealand rabbits (2.5-3.0 kg) received 72 implants, four material groups with n=6 implants at each 4-, 8-, and 12-week time point. Implants were 3 mm diameter x 5 mm depth in bilateral femoral metaphyses; the analysis unit and within-rabbit dependence are not clearly modeled.",
+    "comparators": [
+      "Pure Ti versus Ti6Al4V versus boronized Ti6Al4V versus boronized Ti6Al4V/HA composite for all cell outcomes (S003:C01; S014:C01-S017:C01).",
+      "The same four groups at 4, 8, and 12 weeks for BV/TV and other micro-CT parameters, BIC, and push-out force/strength (S003:C01; S019:C01-S021:C02).",
+      "Boronized Ti6Al4V without HA versus the HA-containing composite, which partially tests HA addition but also changes phase distribution and microstructure (S003:C01; S015:C01).",
+      "Within-material temporal comparisons across 4, 8, and 12 weeks (S019:C01-S021:C02)."
+    ],
+    "method_spine": [
+      "Prepare and polish phase-integrated disks/implants by ball milling, 900 MPa pressing, 380 degrees C debinding, and 1050 degrees C microwave sintering in Ar; sterilize before assays (S003:C01).",
+      "Culture MG-63 cells and quantify surface morphology/adhesion, MTT proliferation, ALP activity normalized to total protein, and alizarin-red mineralization (S004:C01-S008:C01).",
+      "Create two 3 mm x 5 mm cavities in each rabbit femoral metaphysis, implant four material groups, and follow wound/infection/pain through euthanasia at 4, 8, or 12 weeks (S009:C01-S010:C01).",
+      "Quantify peri-implant trabecular and density metrics from 19 micrometre micro-CT, measure mineralized BIC on 200 micrometre undecalcified toluidine-blue sections, and test axial peak push-out and area-normalized strength at 0.5 mm/min (S011:C01-S013:C01).",
+      "Interpret the composite response in relation to HA bioactivity, boron, approximately 11.25% porosity, roughness, wettability, and phase interfaces, while noting that these components were not factorially isolated (S020:C01; S021:C01-S021:C02)."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Manufacturing composition, particle preparation, sintering temperature/time, polishing, sterilization, implant dimensions, micro-CT resolution, section thickness, and push-out rate are specified; no separate process or measurement verification experiment is reported (S003:C01; S011:C01-S013:C01).",
+        "Cell endpoints use standard SEM, MTT, ALP, and alizarin-red assays, but assay calibration, image-analysis repeatability, and blinding are not described (S005:C01-S008:C01)."
+      ],
+      "calibration": [
+        "No model parameters are fitted and no assay or micro-CT calibration dataset is reported. Prior composite mechanical/bioactivity values are contextual rather than a calibration set for this study (S002:C01; S003:C01)."
+      ],
+      "validation": [
+        "Orthogonal in-vitro cell morphology, proliferation, ALP, and mineralization provide convergent biological characterization, while rabbit micro-CT, histology/BIC, and push-out provide preclinical bone-interface checks (S014:C01-S021:C02).",
+        "These are within-study endpoint triangulation, not independent validation; no direct clinical, dental-alveolar, long-term, or independent replication is included (S003:C01; S022:C01)."
+      ],
+      "sensitivity": [
+        "The 4/8/12-week time course and four material controls provide a limited temporal/comparator sweep (S019:C01-S021:C02).",
+        "There is no formal sensitivity, uncertainty, dose, porosity, roughness, or factorial HA-versus-boron analysis; component and microstructural differences remain confounded (S003:C01; S021:C01-S021:C02)."
+      ],
+      "application_prediction": [
+        "Calling the composite a promising dental implant is an application inference from MG-63 and rabbit femur proxies, not a measured clinical outcome (S001:C01; S022:C01).",
+        "Future particle-size optimization and ionic HA substitution are recommendations, not tested benefits (S021:C02)."
+      ]
+    },
+    "primary_outcomes": [
+      "At 12 h, cells adhered to all surfaces; the composite showed longer, more interconnected pseudopodia, whereas boronized Ti6Al4V had spherical cells with fewer pseudopodia (measured SEM morphology; S014:C01).",
+      "MTT OD increased through day 3 and plateaued by day 5; the composite was highest, boronized Ti6Al4V lowest, and the day-1 difference was not evident for most groups. n=9 per group; p<0.05 or p<0.001 for stated pairwise contrasts (S006:C01; S015:C01).",
+      "ALP at day 7 and alizarin-red mineralization at day 14 were highest for the composite; the composite was not statistically different from pure Ti for ALP but exceeded Ti6Al4V and boronized Ti6Al4V, while boronized Ti6Al4V had sparse ALP and few mineralized nodules (n=6 or n=3; S007:C01-S008:C01; S016:C01-S017:C01).",
+      "All rabbits reportedly maintained normal feeding/activity and wound healing with no swelling, infection, or loosening observed; this is observational and has no reported denominator beyond the 18 animals (S010:C01; S018:C01).",
+      "Micro-CT showed the greatest peri-implant new-bone quantity for the composite, followed by Ti, Ti6Al4V, and boronized Ti6Al4V. BV/TV was highest for the composite at 4 and 12 weeks; the 4-week composite-versus-Ti difference was not significant, whereas several Ti6Al4V/boronized contrasts were significant (S019:C01).",
+      "Toluidine-blue sections showed closer, gap-free osteoid/mineralized-bone contact around the composite. BIC increased over time and was significantly highest for the composite at 12 weeks; BIC is direct histologic contact, not a complete measure of mature functional osseointegration (S020:C01).",
+      "Peak push-out force and area-normalized push-out strength increased from 4 to 12 weeks and were highest for the composite; at 8 weeks composite differences versus other groups were reported at p<0.01 or p<0.001. A representative 12-week peak was 150.3 +/- 6.07 N, but full group distributions are not given in the packet (S013:C01; S021:C01).",
+      "The composite contained alpha/beta-Ti, hydroxyapatite, TiB, approximately 11.25% porosity, rougher surface, and lower water contact angle than Ti/Ti6Al4V; these are material-state descriptors that co-vary with the biological response (S003:C01; S021:C01-S021:C02)."
+    ],
+    "highest_evidence_level_reached": "Preclinical in-vitro cell and rabbit femoral implant evidence with histologic contact and mechanical interface testing; no independent replication, dental-alveolar model, long-term durability, or clinical outcome."
+  },
+  "argument_map": {
+    "central_claim": "The bulk-sintered boronized Ti6Al4V/HA composite produced the strongest in-vitro osteogenic proxy profile and the greatest rabbit peri-implant bone quantity, BIC, and push-out response among the four tested materials, but the study cannot assign the advantage to HA, boron, porosity, roughness, or their interaction separately.",
+    "data": [
+      "Matched Ti, Ti6Al4V, boronized Ti6Al4V, and HA-containing composite disks were tested with MG-63 adhesion, proliferation, ALP, and mineralization assays (S003:C01-S008:C01; S014:C01-S017:C01).",
+      "Seventy-two implants in 18 rabbits were evaluated at 4, 8, and 12 weeks by micro-CT BV/TV and trabecular metrics, toluidine-blue BIC, and push-out force/strength (S003:C01; S019:C01-S021:C02).",
+      "Boronized Ti6Al4V was consistently the weak biological comparator, preserving a useful negative/contrast arm (S015:C01-S017:C01; S019:C01)."
+    ],
+    "warrant": "HA provides a calcium/phosphate-bearing bioactive phase and the sintered porous/rough surface can increase cell attachment and mechanical interlocking; boron may influence bone-related signaling. These mechanisms plausibly explain the combined response but are inferred because the design does not isolate them.",
+    "backing": [
+      "The composite outperformed controls across independent cell endpoints and three preclinical interface modalities (S014:C01-S021:C02).",
+      "The response increased with healing time and was accompanied by histologic contact and push-out rather than imaging alone (S019:C01-S021:C01).",
+      "The material was prepared as an integrated bulk composite, addressing coating delamination concerns raised in the introduction (S002:C01; S021:C01)."
+    ],
+    "qualifier": "All benefits are conditional on polished/sintered material state, MG-63 assays, rabbit femoral metaphysis, 4-12 week healing, the stated implant dimensions and loading, and the authors' pairwise statistical analysis; the study did not test a clinical dental site or long-term fatigue.",
+    "rebuttals_or_boundaries": [
+      "Boronized Ti6Al4V without HA had the weakest adhesion, proliferation, ALP, mineralization, and peri-implant bone response, showing that boronization alone is not sufficient and may be adverse under these conditions (S014:C01-S017:C01; S019:C01).",
+      "The composite, HA, boron, roughness, porosity, wettability, and phase-interface changes are bundled; no HA-only, boron-dose, porosity-matched, or roughness-matched comparator permits component attribution (S003:C01; S021:C01-S021:C02).",
+      "BIC and push-out support bone contact/interface strength at 12 weeks but do not establish mature matrix quality, remodeling, fatigue durability, infection resistance, or patient function (S020:C01; S021:C01).",
+      "Rabbit femoral metaphysis and MG-63 cells are preclinical proxies for dental implantation; clinical alveolar loading, patient variability, and implant survival were not studied (S003:C01; S022:C01)."
+    ],
+    "argument_coherence": "moderate_to_high for the within-study preclinical comparison; moderate for mechanism attribution and dental-clinical translation"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Material composition/process and surface state were prepared and described; prior cited compressive properties are not new measurements in this paper (S002:C01; S003:C01).",
+      "MG-63 morphology, MTT OD, ALP activity normalized to protein, alizarin-red mineralization, rabbit micro-CT metrics, toluidine-blue BIC, and push-out curves/peak forces were measured at the stated times and sample sizes (S004:C01-S013:C01; S014:C01-S021:C02).",
+      "Postoperative feeding, activity, wound healing, infection, and gross loosening were observed as adverse-event proxies; no formal clinical outcome or adverse-event table is reported (S010:C01; S018:C01)."
+    ],
+    "predicted": [
+      "The paper does not run a computational model; statements that HA, roughness, porosity, or boron activate particular integrin/Wnt/BMP or OPG/RANKL pathways are mechanistic hypotheses inferred from prior literature, not measured signaling in this study (S014:C01; S016:C01; S021:C01).",
+      "The claim that the composite can reduce healing time or failure rate and serve as a highly promising dental implant is forward-looking application prediction from rabbit/cell proxies (S021:C02; S022:C01)."
+    ],
+    "inferred": [
+      "The composite response is inferred to arise from the combined HA chemistry, TiB phase integration, micro-porosity, roughness, and wettability because these co-occur in the experimental arm (S014:C01; S021:C01-S021:C02).",
+      "Higher BIC and push-out are interpreted as improved osseointegration, but the bridge covers contact/interface strength rather than the full endpoint vector of bone amount, matrix quality, fixation, function, and durability (S020:C01-S021:C01).",
+      "The weaker boronized-only arm suggests a condition-dependent adverse or insufficient boronization effect; its mechanism and generality remain unresolved (S015:C01-S017:C01)."
+    ],
+    "recommended": [
+      "Use factorial or component-matched groups (Ti6Al4V, HA-only, boron-only, HA+boron, porosity/roughness matched) to identify component attribution and any interaction before using synergy language.",
+      "Repeat with independent rabbits and clearly reported animal allocation/randomization, within-animal clustering, blinded histomorphometry, and full uncertainty/denominator reporting.",
+      "Add dental-alveolar and longer-term fatigue/aging, corrosion/degradation, infection, and functional loading studies, with direct histologic matrix-quality and fixation endpoints.",
+      "Measure release/retention of Ca, P, and B and direct pathway or inflammatory markers if mechanism is claimed (S021:C01-S021:C02)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Cell spreading, MTT, ALP, and alizarin-red staining indicate in-vitro cytocompatibility/osteogenic proxies; they do not establish vascularized bone formation or clinical osseointegration.",
+      "Micro-CT BV/TV and trabecular metrics quantify peri-implant mineralized-bone quantity/architecture; they do not identify matrix quality, direct interface continuity, or patient function without histology and mechanics.",
+      "BIC is a histologic direct-contact measure and push-out is an ex-vivo interfacial strength measure; together they support a preclinical interface endpoint but not long-term fatigue, revision-free survival, or dental clinical success.",
+      "The composite arm combines chemistry, phase, porosity, roughness, wettability, and processing state; no single component can be credited from the study design."
+    ],
+    "overclaim_risks": [
+      "The abstract/conclusion calls the composite the best osseointegration material and a promising dental implant without a dental model, independent validation, or clinical follow-up (S001:C01; S022:C01).",
+      "Explanations invoking integrin, Wnt/beta-catenin, BMP/SMAD, estrogen-like boron, or OPG/RANKL pathways are not directly assayed here and should remain inferred (S014:C01; S016:C01; S021:C01).",
+      "Comparing a bulk HA+boron composite with Ti and boron-only controls conflates component chemistry with porosity/roughness and cannot demonstrate synergy (S003:C01; S021:C01-S021:C02).",
+      "A gross absence of loosening at 12 weeks is not zero failure over clinical service; no fatigue, corrosion, or long-term loading endpoint was measured (S018:C01; S021:C02)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Frame bio-inert metal, coating-interface, and healing limitations before naming the bulk-composite design gap.",
+      "execution": "The introduction contrasts Ti/Ti6Al4V with HA coatings and motivates microwave powder sintering as a way to integrate phases, then states the missing osteogenesis/osseointegration comparison (S002:C01).",
+      "locator": "S002:C01",
+      "effectiveness": "high_for_problem_and_gap",
+      "transferable_principle": "An implant-material introduction should connect the clinical failure mode to a material-state design choice and end with the untested evidence rung.",
+      "failure_mode": "Do not let prior mechanical or simulated-body-fluid characterization substitute for the biological and interface outcomes being newly tested."
+    },
+    {
+      "section": "methods",
+      "move": "Specify material recipe, state, cell assay timing, rabbit allocation, imaging ROI, histologic definition, and mechanical loading as one reproducible chain.",
+      "execution": "Methods report particle fractions, microwave sintering, polishing/sterilization, cell densities and time points, rabbit implant dimensions/time points, micro-CT resolution/ROI, BIC definition, and push-out rate (S003:C01-S013:C01).",
+      "locator": "S003:C01",
+      "effectiveness": "moderate_to_high",
+      "transferable_principle": "Tie every endpoint to its material/process state, unit of analysis, comparator, time, and measurement definition before interpreting a biomaterial response.",
+      "failure_mode": "A nominal composition without as-built porosity/roughness or independent animal allocation obscures what was actually compared."
+    },
+    {
+      "section": "results",
+      "move": "Present the negative boron-only response beside composite gains, then progress from cell proxies to tissue quantity/contact and interface mechanics.",
+      "execution": "Results retain lower adhesion/proliferation/ALP/mineralization for boronized Ti6Al4V and then show composite superiority in cell assays, BV/TV/BIC, and push-out over 4-12 weeks (S014:C01-S021:C01).",
+      "locator": "S015:C01",
+      "effectiveness": "high_for_balanced_evidence",
+      "transferable_principle": "Keep adverse and null arms visible so a multi-endpoint improvement is not confused with a universal material effect.",
+      "failure_mode": "Reporting only composite maxima hides the boron-only contrast and the absence of full group distributions/uncertainty."
+    },
+    {
+      "section": "discussion",
+      "move": "Explain plausible HA/boron/roughness/porosity mechanisms while explicitly marking component confounding and endpoint bridges.",
+      "execution": "The discussion links HA dissolution, boron, wettability, pores, and roughness to osteoblast activity and mechanical interlocking, then proposes particle-size and HA-substitution optimization (S021:C01-S021:C02).",
+      "locator": "S021:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "Mechanistic discussion should list each co-varying component and state the experiment needed to distinguish it before using causal verbs.",
+      "failure_mode": "Pathway explanations from prior citations can sound measured if direct ion release, signaling, immune response, or degradation is not assayed."
+    },
+    {
+      "section": "conclusion",
+      "move": "Summarize the preclinical endpoint stack and bound the dental-implant implication.",
+      "execution": "The conclusion restates in-vitro and rabbit evidence and labels the composite promising, but a calibrated synthesis should stop at preclinical interface performance and list missing clinical/durability evidence (S022:C01).",
+      "locator": "S022:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "Conclusions should preserve the highest directly measured rung and name the next test before clinical translation.",
+      "failure_mode": "BIC or push-out should not be compressed into demonstrated long-term dental osseointegration or failure-rate reduction."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The authors propose further physical optimization of Ti6Al4V/TiB2 particle sizes and chemical modification such as fluorinated HA, indicating that comprehensive mechanical/biological performance is not final (S021:C02).",
+      "They note that HA coating can decompose, peel, or fall off and present bulk sintering as a way to avoid that coating failure mode; long-term behavior of the composite itself remains untested (S002:C01; S021:C01)."
+    ],
+    "reader_identified": [
+      "HA, boron/TiB, porosity, roughness, wettability, and phase interfaces differ together; no component-isolating or interaction comparator is present.",
+      "The 72 implants are nested within 18 rabbits, but allocation, randomization, side effects, within-animal clustering, and blinded image analysis are not reported.",
+      "Only 4, 8, and 12 weeks are studied; no fatigue, corrosion, degradation, mechanical aging, infection, dental-alveolar loading, or clinical endpoint is included.",
+      "The packet reports key composite values but not complete table distributions, confidence intervals, effect sizes, or correction for many pairwise tests; exact micro-CT group values are largely unavailable in prose.",
+      "MG-63 cells and rabbit femoral metaphysis do not reproduce patient-specific dental bone, immune environment, functional loading, or human healing variability."
+    ],
+    "likely_bias_direction": [
+      "Positive multi-endpoint selection and lack of component-matched controls favor attribution of the composite advantage to HA/boron without resolving confounding.",
+      "Within-rabbit multiple implants without reported clustering may make uncertainty appear smaller than independent-animal replication supports.",
+      "Short follow-up and absence of failure/durability testing favor an early osseointegration narrative over long-term risk.",
+      "Use of MG-63 and a healthy rabbit model may overestimate translation to diseased or variable human dental sites."
+    ],
+    "scope_boundary": "Evidence supports a conditional preclinical comparison of polished microwave-sintered Ti/Ti6Al4V, boronized Ti6Al4V, and boronized Ti6Al4V/HA implants in MG-63 assays and rabbit femoral metaphysis over 4-12 weeks. It does not establish component synergy, mature osseointegration across the full endpoint vector, fatigue/corrosion durability, clinical dental efficacy, or reduced revision/failure."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC9321446-01",
+      "capability": "Build a preclinical implant evidence ladder that moves from cell adhesion/proliferation and differentiation proxies to micro-CT bone quantity, histologic contact, and ex-vivo interface strength without collapsing them into one osseointegration endpoint.",
+      "manuscript_use": "Results structure, endpoint-vector tables, discussion, and evidence audit.",
+      "applicable_domains": ["dental_implant", "bone_implant", "biomaterials", "osseointegration"],
+      "applicable_study_designs": ["in_vitro_in_vivo_preclinical", "implant_material_comparison"],
+      "supporting_locators": ["S014:C01", "S019:C01", "S020:C01", "S021:C01"],
+      "counterexample_or_boundary": "BIC and push-out remain short-term rabbit interface outcomes and do not substitute for clinical function, fatigue, or revision-free survival.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9321446-02",
+      "capability": "Audit bundled biomaterial formulations with a component-by-comparator matrix and reserve synergy language for a factorial interaction contrast.",
+      "manuscript_use": "Design rationale, mechanism discussion, comparator audit, and recommendation wording.",
+      "applicable_domains": ["composite_implant", "HA_biomaterials", "boron_doping", "porous_scaffold"],
+      "applicable_study_designs": ["biomaterial_comparison", "in_vitro_in_vivo_preclinical"],
+      "supporting_locators": ["S003:C01", "S015:C01", "S021:C01-S021:C02"],
+      "counterexample_or_boundary": "When chemistry, phase, roughness, porosity, and wettability co-vary, attribute only a combined formulation effect and state the missing isolation experiment.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9321446-03",
+      "capability": "Retain an adverse or null comparator (boronized Ti6Al4V) in a positive biomaterial narrative and use its time- and endpoint-specific weakness to constrain mechanism claims.",
+      "manuscript_use": "Balanced Results, Discussion alternatives, and failure/negative evidence reporting.",
+      "applicable_domains": ["implant_biomaterials", "osteogenic_assays", "bone_fixation"],
+      "applicable_study_designs": ["cell_assay", "animal_implant"],
+      "supporting_locators": ["S015:C01", "S016:C01", "S017:C01", "S019:C01"],
+      "counterexample_or_boundary": "The adverse boron-only response is conditional on this sintering composition, surface state, cell model, and rabbit model; it is not a universal boron toxicity result.",
+      "confidence": "moderate",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9321446-04",
+      "capability": "State a dental-implant translation boundary by pairing rabbit BIC/push-out and early bone-volume results with the missing alveolar, durability, immune, and clinical tests.",
+      "manuscript_use": "Discussion limitations, conclusion, and translational roadmap.",
+      "applicable_domains": ["dental_implant", "osseointegration", "preclinical_translation"],
+      "applicable_study_designs": ["animal_implant", "biomaterial_preclinical"],
+      "supporting_locators": ["S019:C01", "S020:C01", "S021:C01", "S022:C01"],
+      "counterexample_or_boundary": "A 12-week healthy-rabbit femur result cannot establish human dental success, long-term fatigue, infection resistance, or revision reduction.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_to_high",
+    "methods_transparency": "moderate",
+    "validation_credibility": "moderate_for_preclinical_endpoint_triangulation_low_for_independent_or_clinical_validation",
+    "outcome_uncertainty_reporting": "moderate_for_stated_pairwise_tests_low_for_full_distributions_and_nested_sampling",
+    "comparator_fairness": "moderate_for_material_groups_low_for_component_attribution",
+    "conclusion_proportionality": "moderate_with_dental_translation_overreach",
+    "critical_weaknesses": [
+      "Bundled HA/boron/porosity/roughness/wettability prevents component or synergy attribution.",
+      "Animal allocation, independence, blinding, and complete uncertainty reporting are unclear.",
+      "Short rabbit follow-up and no fatigue, corrosion, immune, or clinical dental endpoints.",
+      "Mechanistic pathway explanations exceed the directly measured assay set.",
+      "BIC and push-out are interface proxies rather than the full maturation/function/durability endpoint vector."
+    ],
+    "overall_credibility": "moderate for the reported in-vitro and rabbit preclinical comparison; low_to_moderate for mechanism attribution and clinical dental translation"
+  },
+  "summary_zh": "这是一项原始的体外—兔股骨植入前临床研究，比较纯钛、Ti6Al4V、硼化 Ti6Al4V 与微波烧结的硼化 Ti6Al4V/HA 复合材料。MG-63 细胞在黏附、增殖、ALP 和茜素红矿化方面总体以复合材料最高，而硼化 Ti6Al4V 多数端点最低；兔植入 4、8、12 周时，复合材料的微 CT 骨量、组织学 BIC 与推挤力也最高（12 周代表性峰值 150.3 ± 6.07 N）。这些是材料状态、细胞模型和兔股骨条件下的测量，支持短期界面表现，但不能直接等同于成熟临床骨结合。HA、硼/TiB、约 11.25% 孔隙率、粗糙度、润湿性和相界面在实验组中同时变化，未设置 HA-only、boron-only、孔隙/粗糙度匹配或因子交互对照，因此只能写组合效应，不能归因于单一成分或 synergy。",
+  "reader_notes": [
+    "Primary Luna reader read every non-reference locator in order: S001:C01; S002:C01; S003:C01; S004:C01; S005:C01; S006:C01; S007:C01; S008:C01; S009:C01; S010:C01; S011:C01; S012:C01; S013:C01; S014:C01; S015:C01; S016:C01; S017:C01; S018:C01; S019:C01; S020:C01; S021:C01; S021:C02; S022:C01. No packet chunk was omitted.",
+    "Full-text adjudication confirms original preclinical biomaterial research rather than a review, FE study, or clinical study; the experimental design is cell plus rabbit femoral implantation with orthogonal imaging, histology, and push-out endpoints.",
+    "The boronized Ti6Al4V comparator was retained as a negative/weak response, and cell, bone-volume, BIC, and push-out endpoints were kept separate. The review note distinguishes direct measurements from pathway explanations and dental-translation predictions.",
+    "Self-review passed with component-confounding, nested-rabbit sampling, short follow-up, and the difference between radiographic/structural bone proxies, histologic contact, interface mechanics, and full clinical osseointegration explicitly recorded."
+  ]
+}

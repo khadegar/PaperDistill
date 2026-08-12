@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8077704",
+  "paper_id": "doi:10.1186/s12891-021-04244-2",
+  "pmcid": "PMC8077704",
+  "source_record_sha256": "55514d756bcd27984c0d3b1412ab07e66f1d3549be7941c5fec17486fb6c77a7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ed78cf5bb0166f386f2b3d01aa3b1a89ab62527a1d2eb12713a3340323bcf13a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A lattice topology optimization of cervical interbody fusion cage and finite element comparison with ZK60 and Ti-6Al-4V cages",
+    "authors": "Sun J, Wang Q, Cai D, Gu W, Ma Y, Sun Y, Wei Y, Yuan F.",
+    "year": 2021,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-021-04244-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

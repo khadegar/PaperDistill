@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12905741",
+  "paper_id": "doi:10.1016/j.bbiosy.2026.100130",
+  "pmcid": "PMC12905741",
+  "source_record_sha256": "b13e1f1ea9f0b7da00d9ee19aa4c6a78fcdc733bf5a0929668d208759e3affe3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "19e384c880739c1be1c7211fe6390bc68645eb820869124662d513659a2463a4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Rapid bone formation and remodeling via vascular infiltration of a hydroxyapatite/collagen nanocomposite beneath the calvarial periosteum",
+    "authors": "Arai H, Uezono M, Kikuchi M, Amano H, Derong C, Aoki K, Moriyama K.",
+    "year": 2026,
+    "journal": "Biomaterials and Biosystems",
+    "doi": "10.1016/j.bbiosy.2026.100130",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

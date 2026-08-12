@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12482712",
+  "paper_id": "doi:10.1186/s13018-025-06248-3",
+  "pmcid": "PMC12482712",
+  "source_record_sha256": "5035cd5764fac061dd73e9738f572046c5a62f7009a9b00a5a0a3f2cb47b8cb4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1e122e2acc4683a03199ef39e4342f5828b3e60b5f2937c54fea2122ab82b5d0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A pipeline to morph finite element models of the lumbar spine for generation of customised spinal cages",
+    "authors": "Yu Y, Robinson DL, Ackland DC, Lee PVS.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-06248-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

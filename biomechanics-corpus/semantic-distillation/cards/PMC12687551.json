@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12687551",
+  "paper_id": "doi:10.1186/s42836-025-00351-w",
+  "pmcid": "PMC12687551",
+  "source_record_sha256": "bacff650973c217e58698cbccedb2f3762caa7b0b191f1c7b529f4d937796ca8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7741ec8a7418cb93c4720ab917de6bdc4facbf9cbfce8804d81321347494f509",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Methodology for biomechanical investigation of implant malpositioning in total knee arthroplasty using a six degree of freedom joint simulator",
+    "authors": "Kleist E, Henke P, Woernle C, Bader R, Kebbach M, Zierath J.",
+    "year": 2025,
+    "journal": "Arthroplasty",
+    "doi": "10.1186/s42836-025-00351-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

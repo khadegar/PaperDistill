@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8959616",
+  "paper_id": "doi:10.3389/fbioe.2022.791554",
+  "pmcid": "PMC8959616",
+  "source_record_sha256": "5ed8d9dc560e632c65c47f9231c1e7b186c627fa8e82df5d5c7133bd49d01d8f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f9d01683f1c597c32d7615574bc56870bd9f52f52027a7b285225106abc7f9f5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis of a Novel Double-Point Fixation Method for Displaced Intra-Articular Calcaneal Fractures",
+    "authors": "Lv ML, Ni M, Sun W, Wong DW, Zhou S, Jia Y, Zhang M.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.791554",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6720784",
+  "paper_id": "doi:10.3390/ijms20164027",
+  "pmcid": "PMC6720784",
+  "source_record_sha256": "29b36504128e1e7180d185ef121171922e0544981ea61bafe74e536fabbb4112",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8f0a63ac407cecdc121ec6aed63f44a402eeec63c48f1c943dbc387d7f78854c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Disproportionate Effect of Sub-Micron Topography on Osteoconductive Capability of Titanium",
+    "authors": "Saruta J, Sato N, Ishijima M, Okubo T, Hirota M, Ogawa T.",
+    "year": 2019,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms20164027",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

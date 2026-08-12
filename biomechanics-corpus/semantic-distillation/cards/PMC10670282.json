@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10670282",
+  "paper_id": "doi:10.3390/dj11110261",
+  "pmcid": "PMC10670282",
+  "source_record_sha256": "f165d98c02eeef72dd01427b2878d3c1672e1c06ca17813b2d7b6a7636864cef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bda51e036f72a28fb615bc3ed6034dbf5c542207bc1e2735a77e52451382204e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Effects of Different Load Cases with an Implant-Supported Full Bridge on Four Implants in an Edentulous Mandible: A Three-Dimensional Finite Element Analysis (3D-FEA)",
+    "authors": "Szabó ÁL, Matusovits D, Slyteen H, Lakatos ÉI, Baráth Z.",
+    "year": 2023,
+    "journal": "Dentistry Journal",
+    "doi": "10.3390/dj11110261",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

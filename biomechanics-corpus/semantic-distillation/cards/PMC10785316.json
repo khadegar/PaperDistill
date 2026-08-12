@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10785316",
+  "paper_id": "doi:10.1021/acsomega.3c06966",
+  "pmcid": "PMC10785316",
+  "source_record_sha256": "d5bac5939bd103de1fe626af063d276c111098eaeeeb108659d52f2e03b49e2c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "06355092e92160e4329e6ef214b73e63483b7a90920c396ee4070bc8359183bc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Drug-Releasing Tannic Acid-Mediated Adhesive PEG Hydrogel for Porous Titanium Implants",
+    "authors": "Bubpamala T, Promoppatum P, Pholpabu P.",
+    "year": 2023,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.3c06966",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8228871",
+  "paper_id": "doi:10.3390/jpm11060517",
+  "pmcid": "PMC8228871",
+  "source_record_sha256": "87123655d8162f4507cf36622b0ece58168da2ce59e7580d16a61752b4923a0d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "eb2cf3174ef17515d38931aebedee6333466e8b507bf7f8d04b45b9403d86116",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Complex Bone Tumors of the Trunk—The Role of 3D Printing and Navigation in Tumor Orthopedics: A Case Series and Review of the Literature",
+    "authors": "Schulze M, Gosheger G, Bockholt S, De Vaal M, Budny T, Tönnemann M, Pützler J, Bövingloh AS, Rischen R, Hofbauer V, Lübben T, Deventer N, Ahrens H.",
+    "year": 2021,
+    "journal": "Journal of Personalized Medicine",
+    "doi": "10.3390/jpm11060517",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

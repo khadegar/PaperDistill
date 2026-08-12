@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9786661",
+  "paper_id": "doi:10.3390/ma15248903",
+  "pmcid": "PMC9786661",
+  "source_record_sha256": "90c2f4ab911debbb7025e13cab447d7f72cfed17e38cc20c37c251b0238bdc2d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d8ccaa3ff3da4fb8e44d2009fffcffb2d8c6e554d9b31d8c54fa9078df910a18",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Behavior of Narrow Dental Implants Made with Aluminum- and Vanadium-Free Alloys: A Finite Element Analysis",
+    "authors": "Zapata JM, Leal E, Hunter R, de Souza RF, Borie E.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15248903",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

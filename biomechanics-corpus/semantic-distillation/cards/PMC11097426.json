@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11097426",
+  "paper_id": "doi:10.1186/s12891-024-07509-8",
+  "pmcid": "PMC11097426",
+  "source_record_sha256": "770ef5c373d7966027972f257995459d527e22f79ab2b9d61407de3231c9845c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "eab162dc6b1351dbcc2761ec0f65482c5f9640ff1a29167af3aabbb439f68e46",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed custom-made hemipelvic endoprosthetic reconstruction following periacetabular tumor resection: utilizing a novel classification system",
+    "authors": "Hu X, Lu M, Wang Y, Luo Y, Zhou Y, Yang X, Min L, Tu C.",
+    "year": 2024,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-024-07509-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

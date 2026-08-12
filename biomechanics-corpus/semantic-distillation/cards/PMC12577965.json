@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12577965",
+  "paper_id": "doi:10.1097/ms9.0000000000003622",
+  "pmcid": "PMC12577965",
+  "source_record_sha256": "1354f32cdd2e40b93d64d7a079079568f33a9d4ae7ba3e3d540c30b63dfd576e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a3468d896cefea8c597972d77789ce7cb6accf198ef90cd303fc4a57f2a01d3e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Personalized and genetically engineered animal models for next-generation surgical implant validation",
+    "authors": "Vickram AS, Infant SS, Saravanan A, Mathan MCM, Gulothungan G, Chopra H.",
+    "year": 2025,
+    "journal": "Annals of Medicine and Surgery",
+    "doi": "10.1097/ms9.0000000000003622",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

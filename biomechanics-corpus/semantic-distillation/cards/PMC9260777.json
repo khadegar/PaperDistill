@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9260777",
+  "paper_id": "doi:10.1021/acsomega.2c01109",
+  "pmcid": "PMC9260777",
+  "source_record_sha256": "b43bf215849ca1df866f4082e4195cc4b730712b66ddea33630514696c4c0e58",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a0b782c102e629d3b90ce73e13f7935933893b01be52cc6dcef1330970b4b36f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteogenic Effect of Fisetin Doping in Bioactive Glass/Poly(caprolactone) Hybrid Scaffolds",
+    "authors": "Granel H, Bossard C, Collignon AM, Wauquier F, Lesieur J, Rochefort GY, Jallot E, Lao J, Wittrant Y.",
+    "year": 2022,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.2c01109",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

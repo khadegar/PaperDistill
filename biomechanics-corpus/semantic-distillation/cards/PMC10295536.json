@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10295536",
+  "paper_id": "doi:10.3390/bioengineering10060663",
+  "pmcid": "PMC10295536",
+  "source_record_sha256": "1d15b1408ea87753f58d38420c3ad90a6ede930623573cbb3aae46946a60c584",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "72ee1bce3bc9425f547ccc2a1ae6e7c35b1b94f277bdd4e51c14b5574df39b16",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical Properties of Three-Dimensional Printed Provisional Resin Materials for Crown and Fixed Dental Prosthesis: A Systematic Review",
+    "authors": "Alzahrani SJ, Hajjaj MS, Azhari AA, Ahmed WM, Yeslam HE, Carvalho RM.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10060663",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8222361",
+  "paper_id": "doi:10.1038/s41598-021-92558-5",
+  "pmcid": "PMC8222361",
+  "source_record_sha256": "b1699b846beab7ded277ec9c1ec159070ba1b2bb9828256749827ae8ecd3ab54",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "217cbb21093131645adb60f6f2d3a249ec891dec9d013093c1b87018cf0635a2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Computational biomechanical modelling of the rabbit cranium during mastication",
+    "authors": "Watson PJ, Sharp AC, Choudhary T, Fagan MJ, Dutel H, Evans SE, Gröning F.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-92558-5",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

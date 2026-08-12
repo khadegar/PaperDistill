@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10957574",
+  "paper_id": "doi:10.3389/fbioe.2024.1274496",
+  "pmcid": "PMC10957574",
+  "source_record_sha256": "1488e904794ffbe197f52ee3efae95db7133d688c93c43e153aec349b4dcadeb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "02e6ca59de973cb2ab5a8357fb3661044f801e09488d93a9380c8ede72bb890f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Load transfer in bone after partial, multi-compartmental, and total knee arthroplasty",
+    "authors": "Stoddart JC, Garner A, Tuncer M, Amis AA, Cobb J, van Arkel RJ.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1274496",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

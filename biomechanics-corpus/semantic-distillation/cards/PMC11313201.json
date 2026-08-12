@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11313201",
+  "paper_id": "doi:10.3390/ma17153691",
+  "pmcid": "PMC11313201",
+  "source_record_sha256": "34ce899c1e65ff73d68e8c8ef342770b9d65a24a9b451219e9878bd4b0444633",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6296a56c51dd3d9fa8be8ed775d4b32edda77b0007e18251223f5b0b2bdfc19c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Compressive Behavior of Novel Additively Manufactured Ti-6Al-4V Lattice Structures: Experimental and Numerical Studies",
+    "authors": "Aljaberi MHK, Aghdam MM, Goudarzi T, Al-Waily M.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17153691",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

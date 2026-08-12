@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8469313",
+  "paper_id": "doi:10.3390/ma14185338",
+  "pmcid": "PMC8469313",
+  "source_record_sha256": "76abe7e3d3103287d4f68f518ef948b3306b86f0ff2aa3527dd1ebda3982b294",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cafc453631331afa72f45c2aeff59e6c0d474fcc9553fd85aace455fc30eb852",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioactive Ceramic Scaffolds for Bone Tissue Engineering by Powder Bed Selective Laser Processing: A Review",
+    "authors": "Kamboj N, Ressler A, Hussainova I.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14185338",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12124657",
+  "paper_id": "doi:10.1016/j.reth.2025.04.018",
+  "pmcid": "PMC12124657",
+  "source_record_sha256": "2d8c37139afcd72ea47aca411e2971e6584d1e3f09c49fd04fa0f3364d2b56b6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1c1c50f2d5b13031e767326d25dc723dda2bb82f2ea7f19187ba917ed74af999",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Xenograft of bio-3D printed scaffold-free cartilage constructs derived from human iPSCs to regenerate articular cartilage in immunodeficient pigs",
+    "authors": "Nonaka T, Nakamura A, Murata D, Yoshizato H, Kashimoto S, Nagaishi Y, Itoh M, Zujur D, Zhao C, Inada Y, Ikeya M, Toguchida J, Mawatari M, Nakayama K.",
+    "year": 2025,
+    "journal": "Regenerative Therapy",
+    "doi": "10.1016/j.reth.2025.04.018",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

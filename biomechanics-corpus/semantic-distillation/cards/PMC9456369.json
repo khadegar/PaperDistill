@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9456369",
+  "paper_id": "doi:10.3390/ijms231710090",
+  "pmcid": "PMC9456369",
+  "source_record_sha256": "bf8331fd8d92aa40f3ea5bb3a0c6b5c5e31479281ca87d66ed87af571a98c5a5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c8fc2a67aede8723342a62c6516180f5313dc4f585f144a44b07896714adf9d9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Structural Design and Finite Element Simulation Analysis of Grade 3 Graded Porous Titanium Implant",
+    "authors": "Liu B, Xu W, Chen M, Chen D, Sun G, Zhang C, Pan Y, Lu J, Guo E, Lu X.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms231710090",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

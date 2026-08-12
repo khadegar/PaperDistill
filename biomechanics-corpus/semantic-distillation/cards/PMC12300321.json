@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12300321",
+  "paper_id": "doi:10.3390/medicina61071305",
+  "pmcid": "PMC12300321",
+  "source_record_sha256": "a53e9bd18c62946cbf83f712a3afcdde6a0c1f9edb73a37e0d6dc30dbc01811f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3bb03abc339ebab9762d40a4116996270efc10ceb61fb85f164bd86a1d843245",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Volumetric Bone Mineral Density Assessed by Dual-Energy CT Predicts Bone Strength Suitability for Cementless Total Knee Arthroplasty",
+    "authors": "Lee DH, Kwak DS, Lee SW, Kim YD, Cho N, Koh IJ.",
+    "year": 2025,
+    "journal": "Medicina",
+    "doi": "10.3390/medicina61071305",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

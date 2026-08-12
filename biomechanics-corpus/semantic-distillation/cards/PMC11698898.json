@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11698898",
+  "paper_id": "doi:10.1038/s41598-024-82964-w",
+  "pmcid": "PMC11698898",
+  "source_record_sha256": "1abcd4e8f008d91a7b53a81844b72609859f6673a44c85e446f77c9430b22ad8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8603196b7691ce818a07d984762b878b8d7eaacb084b26828864d9fa3499c637",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A non-metallic PEEK topology optimization reconstruction implant for large mandibular continuity defects, validated using the MANDYBILATOR apparatus",
+    "authors": "Merema BBJ, Spijkervet FKL, Kraeima J, Witjes MJH.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-82964-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "topology_or_structural_optimization",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

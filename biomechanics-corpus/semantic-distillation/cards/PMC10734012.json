@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10734012",
+  "paper_id": "doi:10.1021/acsomega.3c02600",
+  "pmcid": "PMC10734012",
+  "source_record_sha256": "724c45c7529607abbde5e149ed36d352da593add7d701a4429f3bd756cf6f51f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cdaae8fb31cbd9260e045b3c59f25bcadcd59adacc2ec341171c5a5cc00b7495",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Art of Building Living Tissues: Exploring the Frontiers of Biofabrication with 3D Bioprinting",
+    "authors": "Verma S, Khanna V, Kumar S, Kumar S.",
+    "year": 2023,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.3c02600",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

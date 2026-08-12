@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12328103",
+  "paper_id": "doi:10.4055/cios24431",
+  "pmcid": "PMC12328103",
+  "source_record_sha256": "879a0cbc048db8d15958561d35b69d6fed26dc327e5190b73341180764cb0a9a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e576db54cfa04eb8658b89bd30789a626217a2130a737148a75df728a623a45e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimal Plate Position for Biomechanical Stability in Medial Opening-Wedge High Tibial Osteotomy: A Finite Element Analysis",
+    "authors": "Moon HS, Youn JH, Lee SJ, Kwak DK, Park KM, Kim SH, Yoo JH.",
+    "year": 2025,
+    "journal": "Clinics in Orthopedic Surgery",
+    "doi": "10.4055/cios24431",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

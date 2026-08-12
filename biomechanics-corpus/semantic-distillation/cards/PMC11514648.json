@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11514648",
+  "paper_id": "doi:10.2147/ijn.s486868",
+  "pmcid": "PMC11514648",
+  "source_record_sha256": "5f6b0846567caa3bbb3032c5a2dc70134f14aca8ec4c282688c0a5d8f2793766",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b3c0f4d1a5d69b37b32fe667a1a9292d1dcea8663430c7fb876433789c4efd56",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cryogenic 3D Printing of GelMA/Graphene Bioinks: Improved Mechanical Strength and Structural Properties for Tissue Engineering",
+    "authors": "Santana MDV, Magulas MBS, Brito GC, Santos MC, de Oliveira TG, de Melo WGG, Argolo Neto NM, Marciano FR, Viana BC, Lobo AO.",
+    "year": 2024,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s486868",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

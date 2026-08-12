@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8969047",
+  "paper_id": "doi:10.3389/fbioe.2022.842382",
+  "pmcid": "PMC8969047",
+  "source_record_sha256": "8a8d6dbe29e790e8fe512b89a27c732ece8e85dc99db281d22df87144601b219",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b44cf416fb2cb830dc09d125b6af04fee213d503ddebec85073b6604ac9aad7f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Evaluation of Intervertebral Fusion Process After Anterior Cervical Discectomy and Fusion: A Finite Element Study",
+    "authors": "Shen YW, Yang Y, Liu H, Qiu Y, Li M, Ma LT, Gan FJ.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.842382",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

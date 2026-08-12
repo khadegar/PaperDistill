@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12951822",
+  "paper_id": "doi:10.1002/cpz1.70337",
+  "pmcid": "PMC12951822",
+  "source_record_sha256": "23389c67594366a6b786993b3069ee302c2e5fbcb4bd3c777d2d11b5e7215bea",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f59132079813ad66515f0b77174fe9655dc07d63430eb07b49401fb54f696dc9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Assessment of Bone Regeneration in Rabbit Calvarial Defects Treated With Mineralized Collagen–Based Scaffolds Using In Vivo MicroCT and Three‐Dimensional Rendering",
+    "authors": "Kang Y, Shariati K, Cascavita CT, Chen W, Bedar M, Ren X, Xu S, Lee JC.",
+    "year": 2026,
+    "journal": "Current Protocols",
+    "doi": "10.1002/cpz1.70337",
+    "publication_type": "other; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

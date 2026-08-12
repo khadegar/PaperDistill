@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11766685",
+  "paper_id": "doi:10.3390/ma18020314",
+  "pmcid": "PMC11766685",
+  "source_record_sha256": "ef1e47fca0329dbcaad137e10c203f584b45553c82d009eb33cb2312f7f6aaeb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e1b2f544897c3b67e039990f13f8c29817c34683c08d0b7ff9fab4c69f9356f4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Comparative Finite Element Analysis of Titanium, Autogenous Bone, and Polyetheretherketone (PEEK)-Based Solutions for Mandibular Reconstruction",
+    "authors": "Ghionea IG, Tarba CI, Cristache CM, Filipov I, Beuran IA.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18020314",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12270609",
+  "paper_id": "doi:10.1016/j.jor.2025.06.035",
+  "pmcid": "PMC12270609",
+  "source_record_sha256": "d167986d8f6b795f3cb312f1b6da281c1c7ac0a0fe89e6a4c90c0844fe529eda",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f7e7e29c1cde43c866df3d5e4022c15cc15492433d396f8e0477f04c84bde5da",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modeling and biomechanical characterization of femur and tibia bones using the Extended Mooney–Rivlin approach with mathematical validation",
+    "authors": "Hassan M, Abdel-Rahman AS.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedics",
+    "doi": "10.1016/j.jor.2025.06.035",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

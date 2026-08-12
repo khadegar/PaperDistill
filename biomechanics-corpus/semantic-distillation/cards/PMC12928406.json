@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12928406",
+  "paper_id": "doi:10.1371/journal.pone.0343008",
+  "pmcid": "PMC12928406",
+  "source_record_sha256": "4d98dc893fde43290379d274fcd9967cb365166b7560353939ae972518eac8a9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5854a953e7b2dfce2d4f174c88325e352bc5a1671b0d10fc36bac58a62f6d919",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of reconstruction plate removal on dental implants in fibula flap mandibles: A biomechanical and clinical study",
+    "authors": "Huang J, Chen J, Jiang J, Wang H, Yu D, Zhu H.",
+    "year": 2026,
+    "journal": "PLOS One",
+    "doi": "10.1371/journal.pone.0343008",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

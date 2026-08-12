@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10081781",
+  "paper_id": "doi:10.1371/journal.pone.0283305",
+  "pmcid": "PMC10081781",
+  "source_record_sha256": "3299fbe8d48a500c9acc1ded76010646c3d6d67f6e27a4ddb18d26c13f075cc8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0b29cf53ad3f3ca14a760590819d1b03ee4e58011a9f795b6cbb384aff1cc51e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Accuracy of 3D printed scan bodies for dental implants using two additive manufacturing systems: An in vitro study",
+    "authors": "Hopfensperger LJ, Talmazov G, Ammoun R, Brenes C, Bencharit S.",
+    "year": 2023,
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0283305.r006",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

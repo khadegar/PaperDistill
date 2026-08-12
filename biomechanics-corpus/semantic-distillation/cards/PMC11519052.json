@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11519052",
+  "paper_id": "doi:10.1016/j.jare.2023.11.031",
+  "pmcid": "PMC11519052",
+  "source_record_sha256": "a7594f1ee32369255cd67365d4fa6a2ccacb1863496a772d2223bf2399d1d56a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f58f652f7fdec831acd0d8481d83036c104791bc547a1fa2d71ca10bee810fcc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Laser additive manufacturing of shape memory biopolymer bone scaffold: 3D conductive network construction and electrically driven mechanism",
+    "authors": "Shuai C, Wang Z, Yang F, Zhang H, Liu J, Feng P.",
+    "year": 2024,
+    "journal": "Journal of Advanced Research",
+    "doi": "10.1016/j.jare.2023.11.031",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

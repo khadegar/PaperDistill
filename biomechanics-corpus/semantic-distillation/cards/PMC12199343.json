@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12199343",
+  "paper_id": "doi:10.1002/advs.202500599",
+  "pmcid": "PMC12199343",
+  "source_record_sha256": "7e929ff896986fe3832645969a76dc847b379f927555df8dbf9b737a7708c68f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dfe254ece9533f692df17adb3da15287451ef8eeeb5e1049774bd7be9de6123b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D‐Printed Titanium Trabecular Scaffolds with Sustained Release of Hypoxia‐Induced Exosomes for Dual‐Mimetic Bone Regeneration",
+    "authors": "Luo L, Zheng W, Li J, Chen T, Xue W, Lin T, Liu M, Yan Z, Yang J, Li J, Pu J, Wu Y, Hu K, Li S, Huang W.",
+    "year": 2025,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202500599",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

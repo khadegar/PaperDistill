@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12720114",
+  "paper_id": "doi:10.1016/j.bioactmat.2025.11.029",
+  "pmcid": "PMC12720114",
+  "source_record_sha256": "fbf0d2a9373e98d0d2ae824fec0000fe64825bfe003ab0125fc43d01c37c35ef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "10c68f724f54f797d83b976c112412d10429f4c9b9548a0a1bd07d2d21f87df9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additively manufactured Tantalum-titanium alloys with optimized osteogenic and immunomodulatory properties for load-bearing orthopedic implants",
+    "authors": "Li J, Cao F, Chen X, Li Y, Yin G, Yi P, Song L, Yang J, Cheng Z, Ying J, Cheng L, Tian S, Zhang X, Zhao D.",
+    "year": 2026,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2025.11.029",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

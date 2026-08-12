@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11345130",
+  "paper_id": "doi:10.1016/j.jot.2024.07.011",
+  "pmcid": "PMC11345130",
+  "source_record_sha256": "f2cb5562c9e98f42610b6b68a59bdd48102562b5964197146195680d0660bb89",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1e4ade239ab3701312adc75d906cfbaab096df9a5c1aae2e5dd61796ed0f4875",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Treatment effects, adverse outcomes and cardiovascular safety of romosozumab – Existing worldwide data: A systematic review and meta-analysis",
+    "authors": "Wong RMY, Wong PY, Liu C, Wong HY, Fong MK, Zhang N, Cheung WH, Law SW.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2024.07.011",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

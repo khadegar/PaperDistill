@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7895577",
+  "paper_id": "doi:10.1155/2021/6689564",
+  "pmcid": "PMC7895577",
+  "source_record_sha256": "7ac48f6d6b3dcac6e1361a11371be7a3e760427cdb2b3378fe0f3a4c79d30b27",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "942724b43ba06591bbecc51cea0ddf4b58ce0ce3a701dbfd075e654a31a0fd89",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of Bisphosphonates on Osseointegration of Dental Implants in Rabbit Model",
+    "authors": "Yu RQ, Wang JY, Rao NJ, Huo L, Zheng LW.",
+    "year": 2021,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2021/6689564",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

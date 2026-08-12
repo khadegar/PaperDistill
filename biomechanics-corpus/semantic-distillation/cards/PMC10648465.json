@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10648465",
+  "paper_id": "doi:10.3390/polym15214213",
+  "pmcid": "PMC10648465",
+  "source_record_sha256": "d55043fa288aa246e796940bcec69ee3209ee59dab53c17515a5af9718d13e77",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2b659c99ec2900972510471ed3c0ef0007bf9040671a6d081ddcd2bec2580fd8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Printing of Graphene Oxide/Poly-L-Lactic Acid Scaffolds Using Fischer–Koch Modeling",
+    "authors": "da Silva TS, Horvath-Pereira BO, da Silva-Júnior LN, Tenório Fireman JVB, Mattar M, Félix M, Buchaim RL, Carreira ACO, Miglino MA, Soares MM.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15214213",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

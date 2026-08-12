@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10940945",
+  "paper_id": "doi:10.1016/j.bioactmat.2024.03.004",
+  "pmcid": "PMC10940945",
+  "source_record_sha256": "fa1395c51ef4a4a92b507c01394f81b149a8186d844be58d1a6c21167afa793d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "febe7075f09744fd537f34c440bd5bab9b3e91237985ab52473b450a4b60a5c1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced osteochondral regeneration with a 3D-Printed biomimetic scaffold featuring a calcified interfacial layer",
+    "authors": "Wu D, Zheng K, Yin W, Hu B, Yu M, Yu Q, Wei X, Deng J, Zhang C.",
+    "year": 2024,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2024.03.004",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

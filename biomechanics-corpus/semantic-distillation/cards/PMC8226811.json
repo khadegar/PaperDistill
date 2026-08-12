@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8226811",
+  "paper_id": "doi:10.3390/bioengineering8060075",
+  "pmcid": "PMC8226811",
+  "source_record_sha256": "cba60da8a18227c44242c85544c1503109680006367c50b3d0cc120929785ae0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0fe55cc785cab32b92b421446ec68dee45bddf40c7718d562e523cab99e790b6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fibrin Glue Implants Seeded with Dental Pulp and Periodontal Ligament Stem Cells for the Repair of Periodontal Bone Defects: A Preclinical Study",
+    "authors": "Enukashvily NI, Dombrovskaya JA, Kotova AV, Semenova N, Karabak I, Banashkov RE, Baram D, Paderina T, Bilyk SS, Grimm WD, Kovalenko AN, Ivolgin D, Prikhodko EM, Silin AV.",
+    "year": 2021,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering8060075",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

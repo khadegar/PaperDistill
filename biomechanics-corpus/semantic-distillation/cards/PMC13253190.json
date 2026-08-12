@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13253190",
+  "paper_id": "doi:10.1016/j.bioactmat.2026.05.058",
+  "pmcid": "PMC13253190",
+  "source_record_sha256": "05df8e191b509151b3bb13c5ebf3a24d54efd290c5745416ccc047be13b20120",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c29aa3b62ec2396501ff4cf56319ea176e375235d10d9081e24095b9ccfc9eac",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Atomic-scale ordering enables intrinsic bioactivity and rapid osseointegration in medium-entropy alloys",
+    "authors": "Li J, Jiao M, Li H, Li C, Zhang J, Wang H, Xue J, Zhou X, Wu H, Yin Q, Tong X, Su X, Wu Y, Tian J, Lu Z, Zhao Y.",
+    "year": 2026,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2026.05.058",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

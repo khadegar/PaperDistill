@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9189917",
+  "paper_id": "doi:10.1002/jbm4.10627",
+  "pmcid": "PMC9189917",
+  "source_record_sha256": "6bfc84ae83db561d4f8d3495311064079b76cceca96b9d2ab700be106e42214e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cb41da58b77cede24dd9b36b3776905f579abdb9f18fb86116758d8489cd6821",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Computed Tomography–Based Stiffness Measures of Trabecular Bone Microstructure: Cadaveric Validation and In Vivo Application",
+    "authors": "Guha I, Zhang X, Rajapakse CS, Letuchy EM, Chang G, Janz KF, Torner JC, Levy SM, Saha PK.",
+    "year": 2022,
+    "journal": "JBMR Plus",
+    "doi": "10.1002/jbm4.10627",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

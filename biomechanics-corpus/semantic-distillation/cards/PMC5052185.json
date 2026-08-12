@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5052185",
+  "paper_id": "doi:10.1007/s11999-016-4801-8",
+  "pmcid": "PMC5052185",
+  "source_record_sha256": "80a7e6e487aa1c8d81413f40690e80394f734d6e4a87d7558d81c37505f08baa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fe3d93895e3c63eedb54df3aa1410d315250bfd3b21e5f9e61443dd395d76328",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Does a PEEK Femoral TKA Implant Preserve Intact Femoral Surface Strains Compared With CoCr? A Preliminary Laboratory Study",
+    "authors": "Rankin KE, Dickinson AS, Briscoe A, Browne M.",
+    "year": 2016,
+    "journal": "Clinical Orthopaedics and Related Research",
+    "doi": "10.1007/s11999-016-4801-8",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

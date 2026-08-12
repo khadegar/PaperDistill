@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10179376",
+  "paper_id": "doi:10.3390/ma16093298",
+  "pmcid": "PMC10179376",
+  "source_record_sha256": "0e4e2afa8fd81a42d0bb984c70230e5dcf18cb06d297785d74eac495a5a9d306",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "269c1390efe9ff8fb2172d30f1d722a7b0bcce2e35efb65b31fb43b2da576bdb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Effects of the Porous Structure of Gyroid and Voronoi Hip Implants: A Finite Element Analysis Using an Experimentally Validated Model",
+    "authors": "Salaha ZFM, Ammarullah MI, Abdullah NNAA, Aziz AUA, Gan HS, Abdullah AH, Abdul Kadir MR, Ramlee MH.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16093298",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

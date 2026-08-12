@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7816411",
+  "paper_id": "doi:10.1186/s13018-020-02187-3",
+  "pmcid": "PMC7816411",
+  "source_record_sha256": "3316294a39d365d00df177f71553b343eb13ebbd619f649445d864dcac3ddb6d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c6a44744219a7f8889048410cfd54e7146f129338522950a45bc35152e93a3ab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Case series and finite element analysis of PFNA combined with cerclage wire for treatment of subtrochanteric fracture of femur",
+    "authors": "Huang X, Zhang F, Zhang Y.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-020-02187-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

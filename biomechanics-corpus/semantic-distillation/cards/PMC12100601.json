@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12100601",
+  "paper_id": "doi:10.1021/acsami.5c05707",
+  "pmcid": "PMC12100601",
+  "source_record_sha256": "6439b08f41b8681dbbf77edf9a13e4cacbc43da13a07ba7b953b2bd533c59ba3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5be36aebea07e9df21d34aec4d4222dd2dfe7fcdfe85e18693a933a81abdb748",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printable Photothermal and Temperature-Controlled Polycaprolactone Scaffolds Incorporating Gold Plasmonic Blackbodies for Bone Tissue Engineering",
+    "authors": "Chen CY, Hope Gadia Moreno RL, Wang PY, Nguyen TS, Wu JL, Chen KH, Chen CH, Lin CY, Wong PC.",
+    "year": 2025,
+    "journal": "ACS Applied Materials & Interfaces",
+    "doi": "10.1021/acsami.5c05707",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

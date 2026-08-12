@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10342765",
+  "paper_id": "doi:10.3390/ma16134756",
+  "pmcid": "PMC10342765",
+  "source_record_sha256": "5cf9b6ff3bdb6a8e31f1e93d047c12c5f1ad8147c98be63c4b6bba30a9a0a07b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "67d9a9b57e24c5957be5b2660dd98351d18791341063ac10898d918c5b6f85db",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of Biomechanical Stability of Teeth Tissue According to Crown Materials: A Three-Dimensional Finite Element Analysis",
+    "authors": "Yoon Y, Lee MJ, Kang I, Oh S.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16134756",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9395756",
+  "paper_id": "doi:10.1016/j.bioactmat.2022.07.028",
+  "pmcid": "PMC9395756",
+  "source_record_sha256": "467ca5f1b113d9c6fb9efddb7908631b44c0bc945a8b8a6603654eda5dfa431b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "554e34ebabd15a7ef82877f9e616d9e8e72c0d9b906ff335ceecc3c05d6edc03",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Simvastatin-hydroxyapatite coatings prevent biofilm formation and improve bone formation in implant-associated infections",
+    "authors": "Sun T, Huang J, Zhang W, Zheng X, Wang H, Liu J, Leng H, Yuan W, Song C.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2022.07.028",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

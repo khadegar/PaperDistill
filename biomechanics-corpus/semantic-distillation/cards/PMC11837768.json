@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11837768",
+  "paper_id": "doi:10.1002/cnm.3909",
+  "pmcid": "PMC11837768",
+  "source_record_sha256": "1b57698d711d7c194aa37faa074436c9febc7a742ca75856f4488a73e55511a8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fe8d1c8140e643aedc198fe4c080a751bfcfe3b5eeed73b8e455fa3637189090",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Computational Study on the Neck‐Stem Rectangular Tapered Connection: Effects of Angular Mismatch, Assembly, and Cyclic Loading",
+    "authors": "Cromi R, Ciriello L, Berti F, La Barbera L, Villa T, Pennati G.",
+    "year": 2025,
+    "journal": "International Journal for Numerical Methods in Biomedical Engineering",
+    "doi": "10.1002/cnm.3909",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

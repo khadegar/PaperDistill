@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12578866",
+  "paper_id": "doi:10.1038/s41598-025-21990-8",
+  "pmcid": "PMC12578866",
+  "source_record_sha256": "59b939a59351bfe96eaf509323bde51059c58a32a2d15575b8b2b57e7d1264ff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a179745aa7d8aafe588e7f02220d063ae8e584eb9beb4eeff52a2df4ad3a5c19",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous cementless cups combined with trabecular metal augments in revision hip arthroplasty: mid-term outcomes",
+    "authors": "Polevoi E, Kagramanov S, Chragyan H, Aleksanyan H, Pitarque CB, Ais RL.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-21990-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

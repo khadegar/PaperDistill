@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7861395",
+  "paper_id": "doi:10.1371/journal.pone.0245800",
+  "pmcid": "PMC7861395",
+  "source_record_sha256": "518a77042d7344865f6923ca9da1addb88730e3d13bd9cc5ec121e0fd81588f4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "93dce4dc3cf3c9965f1c062461a9aa890987febee4b58a71801417c2678fe150",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative analysis of stress distribution in one-piece and two-piece implants with narrow and extra-narrow diameters: A finite element study",
+    "authors": "Barbosa FT, Zanatta LCS, de Souza Rendohl E, Gehrke SA.",
+    "year": 2021,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0245800",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

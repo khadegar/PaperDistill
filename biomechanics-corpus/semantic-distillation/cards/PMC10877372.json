@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10877372",
+  "paper_id": "doi:10.3389/fbioe.2024.1335955",
+  "pmcid": "PMC10877372",
+  "source_record_sha256": "bbb6dfd19f67def2b4050fe9915f20e414ed48b797a3f94168bec1250518e110",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "225f64cbddde11c9ec08bb9beeb27e3d595ea7b2630ee7c2e12ea9f81e32fe63",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The loading direction dramatically affects the mechanical properties of the mouse tibia",
+    "authors": "Farage-O'Reilly SM, Cheong VS, Pickering E, Pivonka P, Bellantuono I, Kadirkamanathan V, Dall'Ara E.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1335955",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

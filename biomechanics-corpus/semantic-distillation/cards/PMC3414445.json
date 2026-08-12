@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3414445",
+  "paper_id": "doi:10.1371/journal.pone.0042525",
+  "pmcid": "PMC3414445",
+  "source_record_sha256": "f17c7e3e34b7284159a4200b8ca9f712c011cab931d27a286cae76cd8f43d6a7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8ae13e5ca9b2800ca409c64a2b769f7fcc559a052f20c61539bf69879bdb3355",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous Surface Modified Bioactive Bone Cement for Enhanced Bone Bonding",
+    "authors": "He Q, Chen H, Huang L, Dong J, Guo D, Mao M, Kong L, Li Y, Wu Z, Lei W.",
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0042525",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

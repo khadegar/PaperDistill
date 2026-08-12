@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10855469",
+  "paper_id": "doi:10.3390/healthcare12030332",
+  "pmcid": "PMC10855469",
+  "source_record_sha256": "7baef26d91cf19d72b6aa69be0889714a22f4de8d936402353a9465bf9b1330c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "292daceb6d27cd5aad9aa0f7e77e46cfb401488b92bffef0a2687026c523b83b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Lower Jaw Full-Arch Restoration: A Completely Digital Approach to Immediate Load",
+    "authors": "Todaro C, Cerri M, Rodriguez Y Baena R, Lupi SM.",
+    "year": 2024,
+    "journal": "Healthcare",
+    "doi": "10.3390/healthcare12030332",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

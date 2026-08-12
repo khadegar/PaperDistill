@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11174439",
+  "paper_id": "doi:10.3390/nu16111744",
+  "pmcid": "PMC11174439",
+  "source_record_sha256": "0e7ae4ec90306ef225bd8866f5d0c6facef1a355eefb015e19627085155a92a3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a19c4bfad00a515f0997ec4860f4bfa10f6c962d03e272cd64f34f61e2a7321f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of High-Fat Diet and Exercise on Bone and Bile Acid Metabolism in Rats",
+    "authors": "Alonso N, Almer G, Semeraro MD, Rodriguez-Blanco G, Fauler G, Anders I, Ritter G, Vom Scheidt A, Hammer N, Gruber HJ, Herrmann M.",
+    "year": 2024,
+    "journal": "Nutrients",
+    "doi": "10.3390/nu16111744",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

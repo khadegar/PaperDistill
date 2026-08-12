@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9050029",
+  "paper_id": "doi:10.1039/c9ra08909h",
+  "pmcid": "PMC9050029",
+  "source_record_sha256": "aeb35afa8ec5afd6ef6e3b25d725ead125b5300057d29b968bd7ed4b9d311560",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d712ee83643fad01326cbbb92dcb526f3db23a6e4d0daa130a6551604b3b48af",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Strontium ranelate-loaded POFC/β-TCP porous scaffolds for osteoporotic bone repair",
+    "authors": "Ge C, Chen F, Mao L, Liang Q, Su Y, Liu C.",
+    "year": 2020,
+    "journal": "RSC Advances",
+    "doi": "10.1039/c9ra08909h",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

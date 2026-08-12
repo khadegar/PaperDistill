@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9465991",
+  "paper_id": "doi:10.12336/biomatertransl.2022.02.005",
+  "pmcid": "PMC9465991",
+  "source_record_sha256": "b8d5e7f85160da77038cd7a83b33d0588574236af14341da5f2ec510970b5afd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "574d7e57826a75aa5da396c201845d7b9c3de399391da5e22aa1de078eb141c4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional-printed titanium prostheses with bone trabeculae enable mechanical-biological reconstruction after resection of bone tumours",
+    "authors": "Pu F, Wu W, Jing D, Yu Y, Peng Y, Liu J, Wu Q, Wang B, Zhang Z, Shao Z.",
+    "year": 2022,
+    "journal": "Biomaterials Translational",
+    "doi": "10.12336/biomatertransl.2022.02.005",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

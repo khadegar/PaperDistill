@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8395816",
+  "paper_id": "doi:10.3390/gels7030115",
+  "pmcid": "PMC8395816",
+  "source_record_sha256": "2a4f7d7f4ea76b18777c0a3c28229a44517b5c615f0d8dc672341c403ebfbc9f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ad7ed071cbac392dc7be260c994f6eb2b449140816187a848a1da0da3ff9b8b6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and Fabrication of Sodium Alginate/Carboxymethyl Cellulose Sodium Blend Hydrogel for Artificial Skin",
+    "authors": "Zhang K, Wang Y, Wei Q, Li X, Guo Y, Zhang S.",
+    "year": 2021,
+    "journal": "Gels",
+    "doi": "10.3390/gels7030115",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

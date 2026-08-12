@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8588664",
+  "paper_id": "doi:10.1186/s12891-021-04777-6",
+  "pmcid": "PMC8588664",
+  "source_record_sha256": "809637b7a7182c743fe0a44994156c7a15c876d4067ce900ccff3c64e2f8329c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4317421ea19c82032204eb5e42ac719b63fb8b8dd91224bd1952b117b003de03",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Experimental study of the effects of hypoxia simulator on osteointegration of titanium prosthesis in osteoporotic rats",
+    "authors": "Liu J, Kang H, Lu J, Dai Y, Wang F.",
+    "year": 2021,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-021-04777-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

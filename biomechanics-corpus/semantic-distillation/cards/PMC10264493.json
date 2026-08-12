@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10264493",
+  "paper_id": "doi:10.1007/s00784-023-04932-4",
+  "pmcid": "PMC10264493",
+  "source_record_sha256": "764e264731d3b9f7660e53e73b6f51ff072db640b9f872c9a807b7cf36f56aa7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a2efff6a9b6e4e45c92eb9d4e962215013d1d41959900888dddca08533a98cb4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Composite grafts made of polycaprolactone fiber mats and oil-based calcium phosphate cement pastes for the reconstruction of cranial and maxillofacial defects",
+    "authors": "Fuchs A, Bartolf-Kopp M, Böhm H, Straub A, Kübler AC, Linz C, Gbureck U.",
+    "year": 2023,
+    "journal": "Clinical Oral Investigations",
+    "doi": "10.1007/s00784-023-04932-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

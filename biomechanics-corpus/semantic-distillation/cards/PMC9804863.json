@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9804863",
+  "paper_id": "doi:10.1002/jbm.a.37430",
+  "pmcid": "PMC9804863",
+  "source_record_sha256": "616360b007dc44b228d7060108151433dc28c159a0f1eec7b2ba35e3948cbb8a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2a93bb9f3c1b24e7b9e10702f8bf4b28600cae26d5f827c03867e26e672df07f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of cell seeding technique and cell density on BMP ‐2 production in transduced human mesenchymal stem cells",
+    "authors": "Collon K, Bell JA, Chang SW, Gallo MC, Sugiyama O, Marks C, Lieberman JR.",
+    "year": 2022,
+    "journal": "Journal of Biomedical Materials Research. Part a",
+    "doi": "10.1002/jbm.a.37430",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

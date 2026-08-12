@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12092379",
+  "paper_id": "doi:10.1002/jeo2.70187",
+  "pmcid": "PMC12092379",
+  "source_record_sha256": "d0298ef0bf6050e16a9d466c02151386a04057a6192bcf59da872135fc88114c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "55129ac3c05e4c0b33494a2e884686fc6d7271c766cf0dea53c4c06d27b349f0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Variations in bone mineral density after joint replacement: A systematic review examining different anatomical regions, fixation techniques and implant design",
+    "authors": "Alesi D, Zinno R, Scoppolini Massini M, Barone G, Valente D, Pinelli E, Zaffagnini S, Mirulla AI, Bragonzoni L.",
+    "year": 2025,
+    "journal": "Journal of Experimental Orthopaedics",
+    "doi": "10.1002/jeo2.70187",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

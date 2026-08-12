@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9500396",
+  "paper_id": "doi:10.3389/fbioe.2022.949802",
+  "pmcid": "PMC9500396",
+  "source_record_sha256": "0e0918d2be696d4740b2160762f59aafa9e11d6338fdde72fa380b6046c577e6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6a55e08bff907de67c21c2ec235561384b720c703bfb8bf6395a7c589baf9598",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical effects of different numbers and locations of screw-in clavicle hook plates",
+    "authors": "Wang CC, Lee CH, Chen KH, Pan CC, Tsai MT, Su KC.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.949802",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

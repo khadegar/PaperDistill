@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12594376",
+  "paper_id": "doi:10.1371/journal.pone.0335948",
+  "pmcid": "PMC12594376",
+  "source_record_sha256": "b2b6e084f9f2ce763954f32aae3b2acf3fec908d41edd27c597d0887242bf7fd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b533a36d84b1a6859c90cc6488cba86c0cfcba0c6adb425cf4f522a386fa48cb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Orthotropic reconstruction and characterization of bone tissues through a visco-plasto-damage model",
+    "authors": "Marangon G, Fincato R, Carniel EL, Toniolo I, Berardo A, Mazzucco G.",
+    "year": 2025,
+    "journal": "PLOS One",
+    "doi": "10.1371/journal.pone.0335948",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

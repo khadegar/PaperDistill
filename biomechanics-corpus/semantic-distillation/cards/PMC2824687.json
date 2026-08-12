@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC2824687",
+  "paper_id": "doi:10.1186/1471-2474-11-3",
+  "pmcid": "PMC2824687",
+  "source_record_sha256": "4042504b7292d576ef5d4aead8efb1ef94fd993849d9264a83497421388fe0c9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "19b6ec23873aaa5711ca63f30fd15b90243cfff348b3ac413b8516391c9ec86a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modular titanium alloy neck adapter failures in hip replacement - failure mode analysis and influence of implant material",
+    "authors": "Grupp TM, Weik T, Bloemer W, Knaebel HP.",
+    "year": 2010,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/1471-2474-11-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

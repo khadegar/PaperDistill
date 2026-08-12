@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7049827",
+  "paper_id": "doi:10.1155/2020/7539628",
+  "pmcid": "PMC7049827",
+  "source_record_sha256": "e9c607be667e6860e0e91bf2d7d1461eaaa617487bb578d7541bafd5e768d338",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1b287a500fc9fa0242dfed7f5c0a24ae6bd374544cba161e7540f9b20da38246",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Relationships of Stresses on Alveolar Bone and Abutment of Dental Implant from Various Bite Forces by Three-Dimensional Finite Element Analysis",
+    "authors": "Kang X, Li Y, Wang Y, Zhang Y, Yu D, Peng Y.",
+    "year": 2020,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2020/7539628",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

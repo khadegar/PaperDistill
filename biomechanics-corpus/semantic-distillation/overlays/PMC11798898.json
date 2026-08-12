@@ -1,0 +1,209 @@
+{
+  "study": {
+    "article_kind": "narrative_review",
+    "design_features": [
+      "cross-study_biological_and_biomechanical_synthesis",
+      "human_histomorphometry_and_clinical_evidence_mapping",
+      "animal_and_in_vitro_mechanobiology_evidence_mapping",
+      "implant_surface_and_graft_comparator_review"
+    ],
+    "research_problem": "Sinus-floor augmentation creates a composite interface of native bone, graft particles, medullary spaces, and newly formed bone, but the biological origin, amount, maturation, and mechanical support of that tissue are uncertain. Implant timing, loading, graft choice, and implant geometry therefore remain difficult to match to patient and sinus anatomy.",
+    "exact_gap": "The review identifies unresolved minimum vital-bone/graft ratios, conflicting evidence about Schneiderian-membrane osteogenic contribution and the spatial pattern of bone formation, and sparse biomechanical evidence for loading an implant in a consolidated versus unconsolidated grafted sinus. A universal material or timing rule is not established.",
+    "objective_or_hypothesis": "Synthesize biological, mechanical, and clinical evidence governing bone healing and implant osseointegration after maxillary sinus floor elevation, and use that synthesis to frame patient-, anatomy-, graft-, implant-, and loading-specific treatment decisions.",
+    "study_design": "Narrative review of cited human, animal, in-vitro, finite-element, histomorphometric, clinical, and meta-analytic studies; the authors report and interpret included-study findings rather than collecting a new cohort or experiment.",
+    "sample_or_model": "Included evidence spans human sinus-graft histomorphometry and implant cohorts, rodent/mouse and minipig preclinical models, in-vitro membrane/cell work, and finite-element analyses. No single pooled sample or independently measured review dataset is reported.",
+    "comparators": [
+      "Autograft versus allogeneic, xenogeneic, synthetic, or mixed grafts",
+      "Native alveolar bone versus consolidated grafted composite bone",
+      "Implant loading before versus after graft consolidation",
+      "Barrier membrane coverage versus no coverage",
+      "Machined versus rough or moderately rough implant surfaces",
+      "Wide versus narrow sinus, mesial versus distal sites, and short implants versus longer implants with sinus augmentation"
+    ],
+    "method_spine": [
+      "Describe maxillary/sinus anatomy, periosteal and membrane biology, vascularization, cellular sources, growth factors, and graft-material trade-offs.",
+      "Synthesize mechanobiology of strain, osteocyte/BMU signaling, early graft-particle displacement, and post-consolidation load transfer.",
+      "Contrast osseointegration and bone-implant contact at native and heterogeneous grafted interfaces.",
+      "Map anatomy, patient factors, healing time, graft resorption/shrinkage, implant macrogeometry, and surface roughness to clinical planning implications.",
+      "Retain conflicting study results and state where evidence is a review-level inference or recommendation rather than a direct measurement."
+    ],
+    "validation_roles": {
+      "verification": ["No new numerical model, protocol, or implementation was verified by the review; search and selection procedures are not reported in the packet."],
+      "calibration": ["No parameter calibration dataset is reported. Healing-time, surface-roughness, bone-percentage, and survival values are taken from heterogeneous cited studies."],
+      "validation": ["Cross-study agreement and contradiction provide a secondary evidence check, not independent validation of a single implant or loading model (S005:C01; S008:C01; S012:C01)."],
+      "sensitivity": ["The synthesis varies qualitatively with graft type, sinus width, native-wall distance, patient age/systemic factors, healing time, loading state, and implant surface, but no formal sensitivity analysis is performed (S006:C01; S012:C01-S012:C02)."],
+      "application_prediction": ["Recommendations for timing/loading, graft selection, implant macrogeometry, surface roughness, and short-implant alternatives are application-level predictions derived from cited evidence, not outcomes measured by this review (S011:C01; S012:C02; S013:C01)."]
+    },
+    "primary_outcomes": [
+      "The review reports conflicting bone-formation patterns: several clinical and preclinical studies support a centripetal gradient from sinus floor/walls, whereas other human or autograft studies report a more even distribution; autograft-derived cells may create additional ossification centers (S012:C01).",
+      "Early implant loading before graft consolidation is associated in cited animal/in-silico work with excessive interfacial strain, tissue deformation, and graft-particle displacement; after consolidation, lower strains are distributed through new bone/composite material and displacement resistance improves (S008:C01).",
+      "Cited human histomorphometry reports lower bone-implant contact in implant regions contacting non-autogenous graft particles than in native bone, while consolidated non-autogenous graft particles need not reduce overall implant stability (S009:C01).",
+      "Cited evidence links wider sinus anatomy, greater native-wall distance, patient age/systemic disease, and graft shrinkage to less predictable regeneration; reported contraction rates for autogenous and substitute grafts span roughly 20%-50% (S006:C01; S012:C01-S012:C02).",
+      "The review cites average survival of 86.3% for machined versus 96.7% for rough implants in grafted sinuses, but treats the comparison as heterogeneous review evidence; moderate roughness (Sa 1.0-2.0 micrometres) is preferred over very rough surfaces because of biofilm exposure concerns (S011:C01)."
+    ],
+    "highest_evidence_level_reached": "Heterogeneous secondary synthesis of preclinical and clinical evidence; no new experiment, independent validation dataset, pooled effect estimate, or causal test of an optimal loading/material rule is reached."
+  },
+  "argument_map": {
+    "central_claim": "Predictable osseointegration after sinus grafting requires a conditional plan that couples sinus anatomy and patient regenerative capacity with graft biology, consolidation state, implant design/surface, and loading; no single graft or timing strategy is superior in every case.",
+    "data": [
+      "The review separates graft-particle consolidation from subsequent implant integration and describes the mixed native/composite interface (S002:C01).",
+      "Mechanobiology and cited finite-element/animal findings distinguish damaging early loading from lower-strain loading after consolidation (S008:C01).",
+      "Human, animal, and clinical comparisons connect sinus width, graft type, healing time, implant surface, and implant length with bone formation, BIC, shrinkage, and survival (S009:C01; S011:C01; S012:C01-S012:C02)."
+    ],
+    "warrant": "Because the interface, material state, anatomy, and loading condition vary together, a clinical recommendation must preserve those conditions and the endpoint level instead of treating a proxy such as vital-bone percentage or survival as a universal mechanical or functional result.",
+    "backing": [
+      "The cited studies include contradictory membrane and bone-front findings rather than a single consensus (S002:C01; S005:C01; S012:C01).",
+      "The review reports both successful long-term graft-particle retention and substantial shrinkage/resorption, supporting conditional rather than absolute material claims (S012:C02)."
+    ],
+    "qualifier": "Conceptual and treatment-planning framework supported by cited evidence; strength varies by endpoint, model/species, graft/material state, follow-up, and comparator fairness.",
+    "rebuttals_or_boundaries": [
+      "The packet contains no reproducible search strategy, inclusion criteria, risk-of-bias method, or quantitative synthesis, so citation and publication bias cannot be audited.",
+      "Survival and surface comparisons combine different patients, surgical workflows, follow-up, and implant systems; they do not establish surface superiority in a controlled trial.",
+      "Finite-element predictions and histomorphometric proxies do not validate symptoms, function, revision risk, or fatigue durability.",
+      "A general centripetal pattern remains a hypothesis modified by autograft cells and anatomy, not a universal measured law."
+    ],
+    "argument_coherence": "moderate_for_conditional_framework_low_for_universal_quantitative_recommendations"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "The review reports measured findings from cited studies, including vital-bone percentages, BIC, graft contraction, implant survival, healing-time comparisons, and model-specific strain/displacement outcomes; these are not measurements made by the review authors (S009:C01; S011:C01; S012:C01-S012:C02).",
+      "Cited biology studies measure cell sources, vascularization, growth-factor signaling, and graft resorption in specified species/material states (S005:C01-S006:C01)."
+    ],
+    "predicted": [
+      "Finite-element and mechanobiological models cited by the review predict interfacial deformation, graft-particle displacement, and strain redistribution before versus after consolidation (S008:C01).",
+      "The proposed value of tapered/deep-thread implants, moderate roughness, and patient-specific loading is an application prediction rather than a review-measured outcome (S011:C01; S012:C02)."
+    ],
+    "inferred": [
+      "A centripetal bone-formation tendency from native sinus walls/floor, modified by osteogenic autograft cells, is inferred across heterogeneous studies and remains contested (S012:C01).",
+      "Lower BIC in graft-particle contact is attributed to lower regenerative potential or altered clot biology, but the causal explanation is explicitly speculative (S009:C01).",
+      "Early loading is inferred to jeopardize osteogenesis through strain and particle displacement; the direction is plausible but depends on model and consolidation state (S008:C01)."
+    ],
+    "recommended": [
+      "Risk-stratify sinus width, residual bone crest, age, smoking, systemic disease, medication, and regenerative potential before choosing graft, implant timing, or healing interval (S012:C02; S013:C01).",
+      "Consider macrogeometry that improves primary stability in low-density grafted bone, moderate surface roughness, and short implants in selected low-regenerative-potential cases (S011:C01; S012:C02).",
+      "Use prospective, condition-matched interface and loading studies to define vital-bone thresholds, graft-state transitions, and patient-relevant durability."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Vital-bone percentage, residual particles, BIC, bone density, radiographic voids, and histology describe architecture/interface proxies; they do not by themselves establish implant function, symptoms, revision, or long-term durability (S009:C01; S010:C01; S012:C01).",
+      "Reported survival rates are clinical endpoints but remain confounded by anatomy, surgery, implant system, and follow-up when drawn from different studies (S011:C01; S012:C02).",
+      "Finite-element stress/strain and loading recommendations do not substitute for independent fatigue, interface, or patient-function validation."
+    ],
+    "overclaim_risks": [
+      "The review discusses an 'optimal' vital-bone/graft ratio but states that no minimum or optimal ratio is defined (S001:C01; S002:C01).",
+      "Rough-surface survival differences and implant-geometry recommendations can be overread as causal superiority despite heterogeneous cited cohorts (S011:C01).",
+      "A review-level conditional recommendation can be miscompressed into a universal timing, graft, or clinical-success claim; the membrane contribution and bone-front pattern remain contradictory (S005:C01; S012:C01)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Define two sequential integration problems and the heterogeneous implant interface",
+      "execution": "The introduction first separates consolidation of graft particles from later implant integration, then contrasts the native crestal/native-floor anchor with the composite grafted segment (S002:C01).",
+      "locator": "S002:C01",
+      "effectiveness": "high",
+      "transferable_principle": "When a treatment contains sequential biological states, name each transition and its comparator before discussing a shared clinical outcome.",
+      "failure_mode": "Collapsing graft consolidation and implant osseointegration into one endpoint hides the state in which loading or failure occurs."
+    },
+    {
+      "section": "results",
+      "move": "Keep contradictory spatial and material findings visible",
+      "execution": "The review presents even, centripetal, autograft-modified, and wall-distance-dependent bone-formation patterns in one synthesis table rather than selecting a single direction (S012:C01).",
+      "locator": "S012:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For heterogeneous literature, stratify species, graft, anatomy, and endpoint before stating a directional mechanism.",
+      "failure_mode": "Calling a pattern general after mixing model-specific results turns a conditional inference into consensus."
+    },
+    {
+      "section": "discussion",
+      "move": "Use a consolidation-state loading timeline",
+      "execution": "Early loading, unconsolidated tissue strain, particle displacement, and post-consolidation lower-strain support are presented as different mechanical states (S008:C01).",
+      "locator": "S008:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Attach every loading claim to material/biological state and distinguish model prediction from measured interface outcome.",
+      "failure_mode": "A static stress or one finite-element state cannot justify all loading times or clinical durability."
+    },
+    {
+      "section": "conclusion",
+      "move": "Translate evidence into patient- and anatomy-conditioned options",
+      "execution": "The final sections combine sinus width, patient factors, graft resorption, implant geometry, surface, loading, and short-implant alternatives while warning that regenerative predictability varies (S012:C02-S013:C01).",
+      "locator": "S012:C02",
+      "effectiveness": "moderate",
+      "transferable_principle": "Write recommendations as bounded decision branches tied to measured risk factors, not as a single best device or material.",
+      "failure_mode": "A recommendation for predictability can be mistaken for proof of clinical efficacy when outcomes and comparators are indirect."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The authors repeatedly acknowledge debate, contradictory studies, undefined biomechanics, and variability by anatomy, patient, material, and regenerative potential (S002:C01; S005:C01; S012:C01-S012:C02).",
+      "No explicit limitations or reproducible search-method section is present in the packet."
+    ],
+    "reader_identified": [
+      "Search databases, time window, inclusion/exclusion criteria, study-level risk-of-bias assessment, and synthesis method are not reported, so review completeness and publication bias cannot be evaluated.",
+      "Human, animal, in-vitro, and finite-element findings are combined without a quantitative heterogeneity or uncertainty framework.",
+      "Clinical implant-survival and surface comparisons are vulnerable to confounding by surgical approach, anatomy, implant system, loading, and follow-up.",
+      "No direct patient-level validation of an optimal loading threshold, vital-bone ratio, interface mechanics, fatigue behavior, or functional durability is provided."
+    ],
+    "likely_bias_direction": [
+      "A narrative, citation-based synthesis may overrepresent accessible or positive studies and underweight null or unpublished results.",
+      "Mechanistic explanations can be favored over alternative causes when the cited evidence is indirect or species-specific.",
+      "Clinical recommendations based on cross-study survival and surface data may overestimate causal benefit when comparator conditions differ."
+    ],
+    "scope_boundary": "This paper supports a conditional framework for biological and mechanical planning of sinus-grafted implants. It does not establish a universal graft, loading time, vital-bone threshold, surface, or clinical-survival advantage, and it reports no new patient, animal, or device-level experiment."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC11798898-01",
+      "capability": "In a narrative review, separate the review's search/synthesis claims from the measured or predicted findings of included studies and label the evidence state of each bridge.",
+      "manuscript_use": "Review Methods, evidence tables, Results synthesis, and Discussion.",
+      "applicable_domains": ["bone_regeneration", "implant_biomechanics", "osseointegration"],
+      "applicable_study_designs": ["narrative_review", "mixed_evidence_synthesis"],
+      "supporting_locators": ["S002:C01", "S008:C01", "S012:C01"],
+      "counterexample_or_boundary": "A review citation or model prediction cannot be written as a new measurement by the review authors; missing search and bias methods limit certainty.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC11798898-02",
+      "capability": "Organize a multiscale implant claim around state transitions—graft consolidation, implant integration, and loading—while keeping mechanics, biology, and clinical function as separate endpoints.",
+      "manuscript_use": "Mechanobiology Results, translational Discussion, and limitation audits.",
+      "applicable_domains": ["implant_biomechanics", "bone_healing", "sinus_grafting"],
+      "applicable_study_designs": ["finite_element", "animal_study", "clinical_cohort", "review"],
+      "supporting_locators": ["S002:C01", "S008:C01", "S009:C01", "S013:C01"],
+      "counterexample_or_boundary": "Lower predicted strain after consolidation does not validate fatigue life, fixation, symptoms, or revision risk without endpoint-specific testing.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC11798898-03",
+      "capability": "Build a contradiction-preserving comparator matrix by graft, anatomy, model, healing time, implant surface, and endpoint before making a clinical recommendation.",
+      "manuscript_use": "Evidence map, Results synthesis, and patient-specific planning recommendations.",
+      "applicable_domains": ["bone_regeneration", "implant_surface", "clinical_implant_planning"],
+      "applicable_study_designs": ["comparative_review", "histomorphometry", "clinical_observational"],
+      "supporting_locators": ["S005:C01", "S011:C01", "S012:C01", "S012:C02"],
+      "counterexample_or_boundary": "A pooled survival direction across unmatched studies cannot prove a rough surface or short implant is superior for an individual anatomy.",
+      "confidence": "moderate",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate",
+    "methods_transparency": "low",
+    "validation_credibility": "moderate_for_secondary_framework_low_for_causal_or_quantitative_claims",
+    "outcome_uncertainty_reporting": "low_to_moderate",
+    "comparator_fairness": "low_to_moderate_across_heterogeneous_cited_studies",
+    "conclusion_proportionality": "moderate_for_conditional_planning_low_for_universal_rules",
+    "critical_weaknesses": [
+      "No reproducible search or risk-of-bias method is reported.",
+      "Heterogeneous model, material, anatomy, and endpoint findings are not quantitatively synthesized.",
+      "No independent experiment validates optimal loading, graft ratio, interface mechanics, or clinical superiority."
+    ],
+    "overall_credibility": "moderate_for_a_biological_mechanobiological_framework_low_for_specific_comparative_or_causal_recommendations"
+  },
+  "summary_zh": "这是一篇叙述性综述，不是有限元或临床原始研究。全文把窦底提升后的移植物固结与随后植体整合分成两个阶段，并把天然骨、复合移植物界面、未固结/已固结加载状态、移植物类型、窦宽、患者再生能力、植体宏观形态和表面粗糙度放进同一条件化决策框架。综述保留了Schneider膜成骨作用、骨形成前沿（向心或均匀）以及屏障膜效果的冲突证据；早期加载导致未固结组织变形和颗粒移位是跨动物/模型的推断，不能直接替代疲劳、固定、功能或修订终点。",
+  "reader_notes": [
+    "Primary Luna reader read every non-reference packet chunk in heading order: S001:C01 through S014:C01, including the short section-number chunks S003:C01 and S007:C01 and the conflicts statement S014:C01.",
+    "The metadata article-kind cue is retained only as navigation; full text supports narrative_review rather than original finite-element, animal, or clinical study.",
+    "Included-study numerical values and survival rates are review-reported external evidence, not measurements performed by the review authors.",
+    "No references chunk was present; no substantive non-reference locator was omitted."
+  ]
+}

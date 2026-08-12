@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11520829",
+  "paper_id": "doi:10.1186/s12903-024-04994-0",
+  "pmcid": "PMC11520829",
+  "source_record_sha256": "e7f1002a53722cba8d80a724d1a10b88ef68fbcdb2d7c1544f1bc841abafc4c5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2da0c8dede8f801598b079da730fdfeb74d37c3e36c105565cc32dcafce8189b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A comparative quantitative assessment of 3D-printed PEKK and PEEK thin meshes in customized alveolar bone augmentation",
+    "authors": "Zhu XR, Chen C, Hua YW, Xu XY, Song P, Wang RY, Wang CX.",
+    "year": 2024,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-024-04994-0",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

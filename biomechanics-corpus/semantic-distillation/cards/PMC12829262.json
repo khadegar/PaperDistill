@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12829262",
+  "paper_id": "doi:10.1186/s43019-026-00300-0",
+  "pmcid": "PMC12829262",
+  "source_record_sha256": "796a98c4dfc8efa5ba5558b2001563ac58832869e02fc6485fc5ee30eb8ba3a5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "093c08b9e6c44ce15fa0369d78491af5064b8fa087727e35b02f57cf062c2b2d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient selection and management for successful cementless total knee arthroplasty",
+    "authors": "Choi BS, Jung M, Cho BW, Chung JY, Ha JK, Han HS.",
+    "year": 2026,
+    "journal": "Knee Surgery & Related Research",
+    "doi": "10.1186/s43019-026-00300-0",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

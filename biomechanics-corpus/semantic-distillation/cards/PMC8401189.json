@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8401189",
+  "paper_id": "doi:10.1186/s12891-021-04617-7",
+  "pmcid": "PMC8401189",
+  "source_record_sha256": "31088e5d012d257999b283f4bf57b2aec9530402271814beaffaa0b3c3296605",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7473e6df94b28c978cbd1a50a0ac6f405ddc1d22c18fb69ec72b5fe6dea0196d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing of dual-cell delivery titanium alloy scaffolds for improving osseointegration through enhancing angiogenesis and osteogenesis",
+    "authors": "Zhao H, Shen S, Zhao L, Xu Y, Li Y, Zhuo N.",
+    "year": 2021,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-021-04617-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

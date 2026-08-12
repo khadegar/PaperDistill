@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10455463",
+  "paper_id": "doi:10.3390/jfb14080429",
+  "pmcid": "PMC10455463",
+  "source_record_sha256": "b2607a04745268cca3552e9911e1afadbf4eb512c4c31193649300b8c5f6c189",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b6c2b3889453ff3d46e53cac8ee32bafd824d9e871c50749b00f54878d34ba27",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Polyether-Ether-Ketone (PEEK) and Its 3D-Printed Quantitate Assessment in Cranial Reconstruction",
+    "authors": "Moiduddin K, Mian SH, Elseufy SM, Alkhalefah H, Ramalingam S, Sayeed A.",
+    "year": 2023,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb14080429",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

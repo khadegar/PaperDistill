@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3525565",
+  "paper_id": "doi:10.1371/journal.pone.0052049",
+  "pmcid": "PMC3525565",
+  "source_record_sha256": "28ac84af6a1fa09d355ebb6e74839cd443453af9c024b2b38bcd040543469949",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d58f284d808f608d7ac8c34ac5ee54dc107417aad88ba1be7db6a8a38e095b6e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of Biological Properties of Electron Beam Melted Ti6Al4V Implant with Biomimetic Coating In Vitro and In Vivo",
+    "authors": "Li X, Feng YF, Wang CT, Li GC, Lei W, Zhang ZY, Wang L.",
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0052049",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

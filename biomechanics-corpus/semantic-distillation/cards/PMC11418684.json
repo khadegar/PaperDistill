@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11418684",
+  "paper_id": "doi:10.1177/21925682231166612",
+  "pmcid": "PMC11418684",
+  "source_record_sha256": "47cc5597c6a2cb0805de953e1dd6a3dda3c959b8f5daee8916845df856885b53",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "219d87a3a043224836712e8ddcc31c4ebe8010648b6064646524e75d78afac1a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis of Lumbar Interbody Fusion Cages With Various Elastic Moduli in Osteoporotic and Non-osteoporotic Lumbar Spine: A Finite Element Analysis",
+    "authors": "Zou D, Yue L, Fan Z, Zhao Y, Leng H, Sun Z, Li W.",
+    "year": 2023,
+    "journal": "Global Spine Journal",
+    "doi": "10.1177/21925682231166612",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

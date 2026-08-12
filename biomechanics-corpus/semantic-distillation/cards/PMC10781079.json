@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10781079",
+  "paper_id": "doi:10.3390/polym16010018",
+  "pmcid": "PMC10781079",
+  "source_record_sha256": "9d0183f5d7e8981e2e8a4806b976f3c3b3f2220fb19f4144e0d7b5b7accbf4e6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4f40c46b52e1ebfccafb484d8de9fd692b9207f3964b3eba0c89c327afdaf8fe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "High-Cycle Fatigue Behaviour of Polyetheretherketone (PEEK) Produced by Additive Manufacturing",
+    "authors": "Rendas P, Imperadeiro A, Martins RF, Soares BAR.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16010018",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12228245",
+  "paper_id": "doi:10.1186/s12951-025-03580-y",
+  "pmcid": "PMC12228245",
+  "source_record_sha256": "4b614b8ab12e2c525d972b040128762120066e0e8751f1434402b79979eae61b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c9d06486f4a7ceedf39b7616986779d3fef303239a1211cd6b181f3098709e15",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Natural fish swim bladder-derived MPN-nanofibrous biomimetic system exhibit ECM-responsive signal regulation and promote robust tendon–bone healing",
+    "authors": "Shi L, Zhou P, Ye C, Sun J, Ma H, Tao R, Zhang P, Han F.",
+    "year": 2025,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-025-03580-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

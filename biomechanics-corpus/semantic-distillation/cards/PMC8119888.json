@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8119888",
+  "paper_id": "doi:10.3389/fbioe.2021.662381",
+  "pmcid": "PMC8119888",
+  "source_record_sha256": "5062eb1a42490c72e37c31d89e5573ffcee2eb515527deb355dc3ccf94e02d7d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "53e679ec50f7973ce3a75737ee71c0b97fadfc611f7aef1965137b398421f734",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed Poly(ε-Caprolactone)/Meniscus Extracellular Matrix Composite Scaffold Functionalized With Kartogenin-Releasing PLGA Microspheres for Meniscus Tissue Engineering",
+    "authors": "Li H, Liao Z, Yang Z, Gao C, Fu L, Li P, Zhao T, Cao F, Chen W, Yuan Z, Sui X, Liu S, Guo Q.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.662381",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

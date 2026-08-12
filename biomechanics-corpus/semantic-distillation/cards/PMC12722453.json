@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12722453",
+  "paper_id": "doi:10.3389/fbioe.2025.1680765",
+  "pmcid": "PMC12722453",
+  "source_record_sha256": "14e7a07557ebc101cb431f699a1e8fa2a6b97ddb070a5e0d37701bd0aa5f4505",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3a7872fa81d3eebe894a55bef79f38986f792842dbb6f56d1a4c9273d49ca791",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "4 pedicle screw mono-segment versus 6 pedicle screw short-segment fixation in the treatment of thoracolumbar endplate fractures: finite element analysis and clinical follow-up",
+    "authors": "He K, Liu S, Li F, Yang X, Xing W.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1680765",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

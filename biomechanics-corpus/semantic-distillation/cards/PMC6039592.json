@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6039592",
+  "paper_id": "doi:10.1097/md.0000000000011088",
+  "pmcid": "PMC6039592",
+  "source_record_sha256": "16449ba6eb24fbf4ad199edaf1565f6cb4e785ef6cbeceeae0b01f5d51364048",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a182540ad7d4624e643531a550a585d6630b7117e6815d6214bfe23de214d58d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A new 3D printed titanium metal trabecular bone reconstruction system for early osteonecrosis of the femoral head",
+    "authors": "Zhang Y, Zhang L, Sun R, Jia Y, Chen X, Liu Y, Oyang H, Feng L.",
+    "year": 2018,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000011088",
+    "publication_type": "research-article; Journal Article; Observational Study",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

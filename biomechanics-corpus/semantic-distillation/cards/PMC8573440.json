@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8573440",
+  "paper_id": "doi:10.21037/atm-21-2854",
+  "pmcid": "PMC8573440",
+  "source_record_sha256": "b8c0f9060e4859606c17027a2ef508582366e7ac226b0bf56b39abef1e25dc33",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "43e705e66868354f4f72ae3608bec6cf1be42f571aa5e3b848c78a6bfa21c274",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Narrative review of gene modification: applications in three-dimensional (3D) bioprinting",
+    "authors": "Fu B, Shen J, Chen Y, Wu Y, Zhang H, Liu H, Huang W.",
+    "year": 2021,
+    "journal": "Annals of Translational Medicine",
+    "doi": "10.21037/atm-21-2854",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

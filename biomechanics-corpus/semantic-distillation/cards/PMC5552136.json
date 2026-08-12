@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5552136",
+  "paper_id": "doi:10.1371/journal.pone.0182929",
+  "pmcid": "PMC5552136",
+  "source_record_sha256": "2fd60864e7141a1fea893f946c831f17157bd5e126b8e09ed46cc83dd326b716",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b2e9072219203aa21fcda791de579388048dbb09421defbb7ff8e80a33b6027b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Medication eluting devices for the field of OBGYN (MEDOBGYN): 3D printed biodegradable hormone eluting constructs, a proof of concept study",
+    "authors": "Tappa K, Jammalamadaka U, Ballard DH, Bruno T, Israel MR, Vemula H, Meacham JM, Mills DK, Woodard PK, Weisman JA.",
+    "year": 2017,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0182929",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

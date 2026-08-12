@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8189879",
+  "paper_id": "doi:10.1016/j.jds.2020.10.008",
+  "pmcid": "PMC8189879",
+  "source_record_sha256": "37536ba976f2f47a4edf045149059c6de12bc85a2b6aa7cf6f23c9d61c044b49",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ae448a0ac7a4c8d867f4c800706b59b4af3328c424140f74eb29d82a12f8006e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Immunomodulatory effect of dimethyloxallyl glycine/nanosilicates-loaded fibrous structure on periodontal bone remodeling",
+    "authors": "Liu ZQ, Shang LL, Ge SH.",
+    "year": 2021,
+    "journal": "Journal of Dental Sciences",
+    "doi": "10.1016/j.jds.2020.10.008",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

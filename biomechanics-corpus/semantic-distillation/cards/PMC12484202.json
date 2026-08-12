@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12484202",
+  "paper_id": "doi:10.3389/fbioe.2025.1642787",
+  "pmcid": "PMC12484202",
+  "source_record_sha256": "c73dd7cec2c8e7f5cb3517cb8f35bf6a2156c1bb83aa551c26e2c1ae12e8b2de",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "09e88cfbe06b85227ca29512c163657fdf8f0c223705538b68b03fe7ac5aebc2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanically optimized 3D-Printed titanium prostheses with stiffener arrangement for critical femoral diaphyseal defects: early weight-bearing capacity and combat readiness validated through integrated biomechanical-FEA approach",
+    "authors": "Li GS, Li H, Liu D, Yi R, Cui Y, Lao HD, Nie XY, Zhao M, Du CF, Xu YQ, Zhou JJ.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1642787",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

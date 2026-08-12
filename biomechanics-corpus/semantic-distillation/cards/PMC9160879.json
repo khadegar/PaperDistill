@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9160879",
+  "paper_id": "doi:10.1093/rb/rbac005",
+  "pmcid": "PMC9160879",
+  "source_record_sha256": "bc664892a62819bd7a196de8531339b96179a5cf119999d647d602aaa3aa393e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a4ac340e4365f44e61f14b5f461294741708893ff7813b29125df9f3d4d2b4da",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication and biological evaluation of 3D-printed calcium phosphate ceramic scaffolds with distinct macroporous geometries through digital light processing technology",
+    "authors": "Wang J, Tang Y, Cao Q, Wu Y, Wang Y, Yuan B, Li X, Zhou Y, Chen X, Zhu X, Tu C, Zhang X.",
+    "year": 2022,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbac005",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

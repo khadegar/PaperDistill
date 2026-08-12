@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11020654",
+  "paper_id": "doi:10.1186/s12903-024-04142-8",
+  "pmcid": "PMC11020654",
+  "source_record_sha256": "4edff866a4541b2733cbbbcddf732cc998297677e86e32b6fcdfca5278950a13",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9e4d7a4950ab27cd16af1cef4f07323bcd0e6a0635ef50d088a518f6d68b0276",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical behavior of implant retained prostheses in the posterior maxilla using different materials: a finite element study",
+    "authors": "Aboelfadl A, Keilig L, Ebeid K, Ahmed MAM, Nouh I, Refaie A, Bourauel C.",
+    "year": 2024,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-024-04142-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

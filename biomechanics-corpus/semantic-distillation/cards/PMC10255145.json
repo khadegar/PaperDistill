@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10255145",
+  "paper_id": "doi:10.3390/polym15112473",
+  "pmcid": "PMC10255145",
+  "source_record_sha256": "18add7af51318a9a923c38f4a39f4209c5f9680eae73490603480df99e16593a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3e99b25bc860717d4084ed316ef11eafefdba426391e3e5bb72fd46afe0b984f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive Manufacturing of Polymer/Bioactive Glass Scaffolds for Regenerative Medicine: A Review",
+    "authors": "Martelli A, Bellucci D, Cannillo V.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15112473",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

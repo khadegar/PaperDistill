@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6317238",
+  "paper_id": "doi:10.3390/ma11122402",
+  "pmcid": "PMC6317238",
+  "source_record_sha256": "775e209578c8a2673795a3d26d3ab0277953dc6046a259eb3da30f83ddfa9aec",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3f355565d5359e806f54b8a382f5541ffd75f17d87bde956d60ce80c5da8e917",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Unit Cell Type and Pore Size on Porosity and Mechanical Behavior of Additively Manufactured Ti6Al4V Scaffolds",
+    "authors": "Zaharin HA, Abdul Rani AM, Azam FI, Ginta TL, Sallih N, Ahmad A, Yunus NA, Zulkifli TZA.",
+    "year": 2018,
+    "journal": "Materials",
+    "doi": "10.3390/ma11122402",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

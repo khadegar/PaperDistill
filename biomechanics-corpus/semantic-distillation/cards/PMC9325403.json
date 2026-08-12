@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9325403",
+  "paper_id": "doi:10.1002/mp.15629",
+  "pmcid": "PMC9325403",
+  "source_record_sha256": "e26b6d46c8113f94e16a1de7f84f737ab648c9c9013c13ac559f731a1bc3d27f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8abf67ce2cc898a92c7854fab76dd9fa07bd7abd875a6e68a264fbe0fd7207ab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of trabecular bone microstructure using CT imaging and continuum mechanical modeling",
+    "authors": "Guha I, Zhang X, Rajapakse CS, Chang G, Saha PK.",
+    "year": 2022,
+    "journal": "Medical Physics",
+    "doi": "10.1002/mp.15629",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

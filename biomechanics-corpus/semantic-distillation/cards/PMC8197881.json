@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8197881",
+  "paper_id": "doi:10.3390/ma14112858",
+  "pmcid": "PMC8197881",
+  "source_record_sha256": "7083f0bbdc544852a814157cf3b9be8695ea23976f223b5dac1c4dc9bc0e090a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b939152d193b3f094847e2a1d0304b54f8e3c922c750e84953dbf2c376f98232",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Synthetic Injectable Biomaterials for Alveolar Bone Regeneration in Animal and Human Studies",
+    "authors": "Tomas M, Čandrlić M, Juzbašić M, Ivanišević Z, Matijević N, Včev A, Cvijanović Peloza O, Matijević M, Perić Kačarević Ž.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14112858",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

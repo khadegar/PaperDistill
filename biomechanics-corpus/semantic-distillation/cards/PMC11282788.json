@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11282788",
+  "paper_id": "doi:10.1186/s13018-024-04936-0",
+  "pmcid": "PMC11282788",
+  "source_record_sha256": "4e4481ca8730cbb86e9d0f34cc2be00ee7dda9ef402c07ad341bdd4fcd7c6bd2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ad7a4e71841d4abfd77ce250d77287af94e1b3b716589a0c2ccd44b48cd679e1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical analysis of patient specific cone vs conventional stem in revision total knee arthroplasty",
+    "authors": "Piovan G, Bori E, Padalino M, Pianigiani S, Innocenti B.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-04936-0",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

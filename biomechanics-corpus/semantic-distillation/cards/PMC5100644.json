@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5100644",
+  "paper_id": "doi:10.5037/jomr.2016.7304",
+  "pmcid": "PMC5100644",
+  "source_record_sha256": "23dcde865411fc00a1978124535c4a12ae7c62b32a416424785cafcb2de001bc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "28f12250e33e9425792d7a57a01c405f9ff7aa285f9881c3f9f773d556f6bebb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Prosthetic Influence and Biomechanics on Peri-Implant Strain: a Systematic Literature Review of Finite Element Studies",
+    "authors": "Maminskas J, Puisys A, Kuoppala R, Raustia A, Juodzbalys G.",
+    "year": 2016,
+    "journal": "Journal of Oral & Maxillofacial Research",
+    "doi": "10.5037/jomr.2016.7304",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

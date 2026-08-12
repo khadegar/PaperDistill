@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11763205",
+  "paper_id": "doi:10.1016/j.ijscr.2025.110815",
+  "pmcid": "PMC11763205",
+  "source_record_sha256": "13091cb4149ce1ddd3b99964e8e7a97e8544960977d8ea4efa72ab339a33b9df",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7b2f458ee57c4cd0e7f86612564f6e2d77052bf5f3341e1adab92f04261b19ed",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Prosthetic rehabiliatation of a hemimaxillectomy patient using a zygomatic - Corticobasal® implant- supported reconstructive prosthesis: A case report",
+    "authors": "Akifuddin S, Awadalkreem F.",
+    "year": 2025,
+    "journal": "International Journal of Surgery Case Reports",
+    "doi": "10.1016/j.ijscr.2025.110815",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

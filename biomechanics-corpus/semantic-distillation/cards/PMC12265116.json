@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12265116",
+  "paper_id": "doi:10.1186/s41205-025-00282-x",
+  "pmcid": "PMC12265116",
+  "source_record_sha256": "7b25c4ec0db3f2ff0edf08298531a4e88601ed2e83f969488486039a93980026",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "21ffcc7feb0cace772ea82ac9ea51a68733f6197650b934fac5f24eed04014f4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reconstruction of a large distal femoral giant cell tumor using a 3D-printed condylar support lattice metal implant and fibular grafts: a novel biomechanical and surgical approach",
+    "authors": "Chaudhry A, Sambharia AK, Bahre B, Pandey M, Chawla T.",
+    "year": 2025,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-025-00282-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

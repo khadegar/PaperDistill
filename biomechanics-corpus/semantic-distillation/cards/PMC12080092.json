@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12080092",
+  "paper_id": "doi:10.1111/jerd.13365",
+  "pmcid": "PMC12080092",
+  "source_record_sha256": "d608ddac87c2727a528b9ea9fa1fd30841a5243e9b7396f4e291b921e04952eb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a876a9e778b94db6ee238c5344e41cc1665c498787029ad7a47ee883582cfd38",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Accuracy of 3D ‐Printed Fixed Dental Restorations",
+    "authors": "Alammar A, Att W, Beuer F.",
+    "year": 2024,
+    "journal": "Journal of Esthetic and Restorative Dentistry",
+    "doi": "10.1111/jerd.13365",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

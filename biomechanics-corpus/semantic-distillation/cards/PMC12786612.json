@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12786612",
+  "paper_id": "doi:10.3390/ma19010164",
+  "pmcid": "PMC12786612",
+  "source_record_sha256": "f6f82127751bc79bc87c47226748279e353d24d8b28d6f7d0637ed9771daeeb1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8c87d494cdce47a437ac23ea8d703e8d10d00c761cf88d0468268c82ce0a12bc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Conventional and Innovative Abutment Designs and Retention Mechanisms on the Biomechanics and Microgap Pattern: A 3D Finite Element Analysis",
+    "authors": "Tunç Botello Becerra İ, Gültekin BA, Yalçın S.",
+    "year": 2026,
+    "journal": "Materials",
+    "doi": "10.3390/ma19010164",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

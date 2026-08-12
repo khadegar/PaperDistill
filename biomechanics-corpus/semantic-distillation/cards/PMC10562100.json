@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10562100",
+  "paper_id": "doi:10.1016/j.sdentj.2023.05.022",
+  "pmcid": "PMC10562100",
+  "source_record_sha256": "7a1abab11d598c8a2caf047267adf829ba04d4f18ee5e95b35071b5cd83cd012",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3c5b969ea7427a6ed660d9e26e30292b7d943d2159fbe0d6b71ae6b94357f11c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone tissue regeneration in peri-implantitis: A systematic review of randomized clinical trials",
+    "authors": "Castro F, Bouzidi AS, Fernandes JCH, Bottino MC, Fernandes GVO.",
+    "year": 2023,
+    "journal": "The Saudi Dental Journal",
+    "doi": "10.1016/j.sdentj.2023.05.022",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

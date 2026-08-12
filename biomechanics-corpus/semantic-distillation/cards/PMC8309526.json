@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8309526",
+  "paper_id": "doi:10.3390/polym13142348",
+  "pmcid": "PMC8309526",
+  "source_record_sha256": "f796bfc1413f540de350ecef2c61ded20b8480c330a4a84e5fe2c924d9d4be27",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6cc60dc670f9843edb51d365ce652ec3d9d9f2a9aa728ae10991090bb0943b8a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vivo Imaging of Biodegradable Implants and Related Tissue Biomarkers",
+    "authors": "Riehakainen L, Cavallini C, Armanetti P, Panetta D, Caramella D, Menichetti L.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13142348",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7161247",
+  "paper_id": "doi:10.1186/s13018-020-01636-3",
+  "pmcid": "PMC7161247",
+  "source_record_sha256": "f53ae6966a7cd36aa0bffc2559830067afddbbb10dcdf0a6287edb84a84195cb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "13edc5e3f2ed9781267c55fc3e654514b62e62da2e8d5943ce2806e3d4a667fa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "J-bone graft with double locking plate: a symphony of mechanics and biology for atrophic distal femoral non-union with bone defect",
+    "authors": "Lu J, Guo SC, Wang QY, Sheng JG, Tao SC.",
+    "year": 2020,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-020-01636-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

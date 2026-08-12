@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11278252",
+  "paper_id": "doi:10.3390/jfb15070174",
+  "pmcid": "PMC11278252",
+  "source_record_sha256": "c64707a43a284868658dd4a6f7ec6b0226155339a36c63d9305cd2d0e369730e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "14c84839b35b8ef6a8e79117a5e5e2d666e64f0b82abb9d7a05cefa0d2688ede",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimizing Filament-Based TCP Scaffold Design for Osteoconduction and Bone Augmentation: Insights from In Vivo Rabbit Models",
+    "authors": "Guerrero J, Maevskaia E, Ghayor C, Bhattacharya I, Weber FE.",
+    "year": 2024,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb15070174",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

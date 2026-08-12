@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12550775",
+  "paper_id": "doi:10.3389/fbioe.2025.1634172",
+  "pmcid": "PMC12550775",
+  "source_record_sha256": "941a029eeb0c73373490a3a4fea8646226a66539dd0357d147194254e5ecfb39",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1186a53c3181e87e256408e8372e1741aeea67a55557150050160f4dbccd0622",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimising tibial extension stem selection in total knee arthroplasty: the role of digital modelling",
+    "authors": "Severyns M, Zot F, Gardegaront M, Germaneau A, Vendeuvre T.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1634172",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12024696",
+  "paper_id": "doi:10.3390/bioengineering12040419",
+  "pmcid": "PMC12024696",
+  "source_record_sha256": "84e9fb6cbeeb2a371055d619ea713efdef55b86f35db15906cdf7f64bc464337",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "df1039e741229805c7399e9c6f1e9dcd61dd88849ed3c2d9f83154c8415aedc5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Effect of Dental Implant Restoration on the Biomechanics of the Temporomandibular Joint in Patients with Posterior Tooth Loss: A Pilot Study",
+    "authors": "Zhang Y, Yin C, Chen F, Zhang G, Hao P, Pu Y, Teng H, Huang H, Liu Z.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12040419",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

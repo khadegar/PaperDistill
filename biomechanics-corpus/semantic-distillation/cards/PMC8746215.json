@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8746215",
+  "paper_id": "doi:10.3390/ma15010153",
+  "pmcid": "PMC8746215",
+  "source_record_sha256": "8a95b27adefe6237c4a864fae60efc5722d3e5d90188ece07a8e849e2cca367b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e1f05ca5fb1ecce9691fd8fc3b16d673d92e9bb69ded7ee1681f7b3b99bb3f86",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Critical Review of the Design, Manufacture, and Evaluation of Bone Joint Replacements for Bone Repair",
+    "authors": "Huo Y, Lyu Y, Bosiakov S, Han F.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma15010153",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

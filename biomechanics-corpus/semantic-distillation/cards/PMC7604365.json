@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7604365",
+  "paper_id": "doi:10.3389/fbioe.2020.563203",
+  "pmcid": "PMC7604365",
+  "source_record_sha256": "b0548f6b3f7804cd87f2c883f840892c1f6d1795e3d081d216f1aff43e402d09",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "798292e910d7a7c75acaa5a0f45cc5c48602146b73716a58c15146f56817560e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Peptide-Enriched Silk Fibroin Sponge and Trabecular Titanium Composites to Enhance Bone Ingrowth of Prosthetic Implants in an Ovine Model of Bone Gaps",
+    "authors": "Lovati AB, Lopa S, Bottagisio M, Talò G, Canciani E, Dellavia C, Alessandrino A, Biagiotti M, Freddi G, Segatti F, Moretti M.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.563203",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

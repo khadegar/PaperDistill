@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11089723",
+  "paper_id": "doi:10.1186/s13018-024-04769-x",
+  "pmcid": "PMC11089723",
+  "source_record_sha256": "100186b4506489f755edb51b185bec46552c83281e3796e0162b266da0886f87",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bc43cb2e7a8a58b063a68d81ea3c364fe690d3ad2d9e287caaa472612ee82870",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical changes in the proximal femur before and after removal of femoral neck system",
+    "authors": "Nan C, Liu Y, Zhang D, Qin Y, Yu H, Ma Z.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-04769-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9028353",
+  "paper_id": "doi:10.3390/gels8040239",
+  "pmcid": "PMC9028353",
+  "source_record_sha256": "5a6e115a25bd419dadac8ad29c887f54140622a805590bda43b440ea908e479a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4c7e04efc42205e1d4ac730a67367742310a50230ad4815f2296812c1943d236",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Comprehensive Assessment on the Pivotal Role of Hydrogels in Scaffold-Based Bioprinting",
+    "authors": "Parimala Chelvi Ratnamani M, Zhang X, Wang H.",
+    "year": 2022,
+    "journal": "Gels",
+    "doi": "10.3390/gels8040239",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

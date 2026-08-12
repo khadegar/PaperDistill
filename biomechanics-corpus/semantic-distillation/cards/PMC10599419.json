@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10599419",
+  "paper_id": "doi:10.1089/3dp.2022.0134",
+  "pmcid": "PMC10599419",
+  "source_record_sha256": "eca97429b52d1326bc4f0dbf89559e5f8ae8c4a5508b43b12137e9a4a634c932",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ffb1e6b0ac9683580c6589bb924b2b5a3343f279209c891106f8d05d36710c03",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Printed Hydroxyapatite Bone Substitutes Designed by a Novel Periodic Minimal Surface Algorithm Are Highly Osteoconductive",
+    "authors": "Maevskaia E, Khera N, Ghayor C, Bhattacharya I, Guerrero J, Nicholls F, Waldvogel C, Bärtschi R, Fritschi L, Salamon D, Özcan M, Malgaroli P, Seiler D, de Wild M, Weber FE.",
+    "year": 2023,
+    "journal": "3D Printing and Additive Manufacturing",
+    "doi": "10.1089/3dp.2022.0134",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

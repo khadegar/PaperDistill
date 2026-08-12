@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12801225",
+  "paper_id": "doi:10.13107/jocr.2026.v16.i01.6698",
+  "pmcid": "PMC12801225",
+  "source_record_sha256": "0c11110b5311ff56abc267ba7f90cc408896106d179d42b9736f5434a5335def",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dc08264470ed5129d3203ea9a832148dbc34b98ba2554e576c5673422d9ca030",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Suprapatellar Nailing With Condylar Screw Support in Complex Proximal Tibia Fractures: Technical Experience from a Case Series",
+    "authors": "Raja RSB, Ramaswamy AR, Sivamurugan S.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Case Reports",
+    "doi": "10.13107/jocr.2026.v16.i01.6698",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

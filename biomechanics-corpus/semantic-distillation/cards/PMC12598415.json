@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12598415",
+  "paper_id": "doi:10.21037/aoj-25-5",
+  "pmcid": "PMC12598415",
+  "source_record_sha256": "74ce93440e91ec885d62d9c7a5b0f234053907c4f58bfe532688cbe78c3daf9b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "be73e34a8668480270437181166d140f7e5c8a6c89e51ed005f3f9d08c42cafa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Two case reports of greater trochanter fracture at the site of femoral array placement after robotic-assisted hip replacement in the posterolateral approach",
+    "authors": "Postnikov Y, Martinez D, Lalanza M, Vives R, Leal-Blanquet J.",
+    "year": 2025,
+    "journal": "Annals of Joint",
+    "doi": "10.21037/aoj-25-5",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

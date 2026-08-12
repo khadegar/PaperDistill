@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11763521",
+  "paper_id": "doi:10.1016/j.bonr.2024.101821",
+  "pmcid": "PMC11763521",
+  "source_record_sha256": "c8d92293864e93cef0231d09ee46ac94ff72a6a131ea158c39310b1290208725",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a87bcb59be36b77fdce3199342a55e4b44679151323b5c9757b0dcdf78094e94",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Integrating deep learning and machine learning for improved CKD-related cortical bone assessment in HRpQCT images: A pilot study",
+    "authors": "Lee Y, Bandara WR, Park S, Lee M, Seo C, Yang S, Lim KJ, Moe SM, Warden SJ, Surowiec RK.",
+    "year": 2025,
+    "journal": "Bone Reports",
+    "doi": "10.1016/j.bonr.2024.101821",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

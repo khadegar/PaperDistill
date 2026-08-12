@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12785401",
+  "paper_id": "doi:10.3390/diagnostics16010096",
+  "pmcid": "PMC12785401",
+  "source_record_sha256": "c7d5cdcb0feec697703c9ec6aea2f68eeec1a5c2cf5e6561cebf4893d8c22013",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dc762624dc1f7856766bd167537a3ea17673d27ed6bb950d09a7ce6ec7325532",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative Fractal Analysis on Orthopantomography Images of Bone Remodeling Changes at 3 Months Between Natural Socket Healing and Immediate Implant Placement",
+    "authors": "Radu A, Ionescu M, Khaddour AS, Munteanu CM, Iacov Crăițoiu MM, Cojocaru MO, Sălan AI, Marinescu IR, Mercuț R, Popescu SM.",
+    "year": 2025,
+    "journal": "Diagnostics",
+    "doi": "10.3390/diagnostics16010096",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

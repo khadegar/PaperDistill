@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11577077",
+  "paper_id": "doi:10.1038/s41598-024-80103-z",
+  "pmcid": "PMC11577077",
+  "source_record_sha256": "fc1f5758965c1176ad9a7dad97a0d41ac1c331f1075859c5590edf75bec38525",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "be9cd712f687da7390ced3056dd6f42f05dfe577dd142e2adeaeaa7c071b3534",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication and X-ray microtomography of sandwich-structured PEEK implants for skull defect repair",
+    "authors": "Qi ML, Li M, Yuan K, Song E, Zhang H, Yao S.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-80103-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

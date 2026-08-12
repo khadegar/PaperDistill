@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7918883",
+  "paper_id": "doi:10.3390/polym13040563",
+  "pmcid": "PMC7918883",
+  "source_record_sha256": "ec3ab86d3b0ed9f01d9520aa0565a0b4c52cb7d4df5e1b2aa340471c0f61073c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "079ef62682a067a8680d441d9763896be37cc6297ab78b0dc3cf4bef956814ea",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioresorbable Polymers: Advanced Materials and 4D Printing for Tissue Engineering",
+    "authors": "Saska S, Pilatti L, Blay A, Shibli JA.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13040563",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

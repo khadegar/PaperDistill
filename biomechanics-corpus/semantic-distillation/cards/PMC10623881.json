@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10623881",
+  "paper_id": "doi:10.1186/s13018-023-04310-6",
+  "pmcid": "PMC10623881",
+  "source_record_sha256": "7f53f7161797a9239a85cd9693171191291d5d0a37e24c157f3b0c687cf0ea8c",
+  "reading": {
+    "status": "completed",
+    "packet_sha256": "1816d4add2d6a0a8fcd4bb84dd8d3d46df64e6b33f88998fffcc53b3791a5217",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S003:C01",
+      "S004:C01",
+      "S005:C01",
+      "S006:C01",
+      "S007:C01",
+      "S008:C01",
+      "S009:C01",
+      "S010:C01",
+      "S011:C01",
+      "S012:C01",
+      "S013:C01",
+      "S014:C01",
+      "S015:C01",
+      "S015:C02",
+      "S016:C01",
+      "S017:C01",
+      "S018:C01",
+      "S019:C01",
+      "S020:C01",
+      "S021:C01",
+      "S022:C01",
+      "S023:C01",
+      "S024:C01",
+      "S025:C01",
+      "S026:C01",
+      "S027:C01"
+    ],
+    "omissions": [],
+    "access_level": "full_text_read",
+    "reader_role": "luna_primary",
+    "reader_model": "gpt-5.6-luna",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T15:30:00Z",
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "A novel artificial vertebral implant with Gyroid porous structures for reducing the subsidence and mechanical failure rate after vertebral body replacement",
+    "authors": "Shang P, Ma B, Hou G, Zhang Y, Cui L, Song W, Liu Y.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-04310-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_computational_and_experimental_biomechanics",
+    "design_features": [
+      "CT_based_lumbar_spine_finite_element_model",
+      "selective_laser_melted_Ti6Al4V_implant",
+      "TPMS_Gyroid_versus_strut_based_porous_comparator",
+      "static_compression_and_polyurethane_foam_subsidence_tests"
+    ],
+    "research_problem": "Vertebral-body replacement implants can mismatch endplates, concentrate stress, subside into cancellous bone, and fail mechanically. Strut-based porous artificial vertebral implants may trade lower stiffness for weak junctions and local stress concentration, motivating a Gyroid TPMS architecture.",
+    "exact_gap": "TPMS Gyroid porous artificial vertebral implants had not been evaluated with a high-resolution porous finite-element model and matched mechanical tests for vertebral-interface stress, implant stress, static compression, and subsidence. The study does not test in-vivo fusion or clinical outcomes.",
+    "objective_or_hypothesis": "Design a 60% nominal-porosity Gyroid AVI with the same external contour as a traditional strut/'diamond-like' porous AVI, and test whether it lowers modeled peak stress, increases static compressive capacity, and reduces static subsidence tendency under the reported conditions.",
+    "study_design": "CT-derived healthy L1-L5 lumbar finite-element model from one 26-year-old male (85 kg, 180 cm), postoperative L3-resection models with either traditional or Gyroid AVI, 400 N plus 10 Nm flexion/extension/bending/torsion simulations, and selective-laser-melted Ti6Al4V specimens (three replicates per type) tested in ASTM-style static compression and polyurethane-foam subsidence tests.",
+    "sample_or_model": "One healthy adult male CT anatomy for intact and postoperative FEM; Ti6Al4V Gyroid and traditional porous AVI specimens, target porosity 60%, three printed replicates per design; Grade 15 polyurethane foam block as a cancellous-bone surrogate for subsidence. No animal implantation, clinical cohort, fatigue test, or human outcome endpoint is included.",
+    "comparators": [
+      "Traditional strut-based/diamond-like porous AVI versus TPMS Gyroid AVI with the same external contour",
+      "Intact L1-L5 spine versus postoperative L3-resection reconstruction",
+      "Upper and lower bone-prosthetic interfaces across flexion, extension, lateral bending, and axial rotation",
+      "CAD-designed 60% porosity versus measured specimen porosity (58.9 +/- 0.53% traditional; 59.4 +/- 0.41% Gyroid)",
+      "Static compression failure and 3 mm subsidence in polyurethane foam; no cyclic or in-vivo comparator"
+    ],
+    "method_spine": [
+      "Define Gyroid implicit-surface parameters, nominal 60% porosity, estimated pore size about 725 micrometres, and an external contour matched to the traditional AVI.",
+      "Build and mesh an L1-L5 healthy lumbar FEM with cortical/cancellous/endplate/cartilage/disc/ligament components and literature material properties.",
+      "Create postoperative L3/L3-L4-resection models with pedicle screws/rods and either porous AVI, using bonded bone-prosthetic contact to represent a healed phase.",
+      "Apply 400 N and 10 Nm loading for flexion, extension, bending, and torsion; validate only global ROM against published human/FE ranges.",
+      "Fabricate Ti6Al4V by SLM, heat treat/clean, measure porosity, and test static compression and 3 mm polyurethane-foam subsidence with n=3 specimens per architecture."
+    ],
+    "validation_roles": {
+      "verification": [
+        "The healthy lumbar model's ROM was compared with published human and FE values for flexion, extension, bending, and torsion (S009:C01); this verifies global kinematic plausibility, not local implant stress.",
+        "Measured porosity checks the printed specimens against nominal CAD design; Gyroid was 59.4 +/- 0.41% versus 60% target and traditional was 58.9 +/- 0.53% (S012:C01)."
+      ],
+      "calibration": [
+        "Material properties were taken from literature tables and the postoperative model used a 100 MPa bone-graft value; no specimen-specific calibration to interface stress or subsidence was reported (S004:C01; S005:C01).",
+        "The Gyroid bias constant and 60% target were selected from the design relation, not optimized against a clinical load history or measured pore-size distribution (S003:C01)."
+      ],
+      "validation": [
+        "ROM agreement is an external comparison for the intact model only; postoperative stress fields and implant failure predictions were not independently validated against vertebral specimens (S009:C01-S011:C01).",
+        "Static compression and polyurethane-foam subsidence provide matched experimental checks of the two printed architectures, but they do not validate fatigue, osseointegration, or clinical subsidence (S008:C01; S013:C01-S014:C01)."
+      ],
+      "sensitivity": [
+        "Loading-direction sensitivity is sampled across flexion, extension, lateral bending, and axial rotation, with 400 N and 10 Nm conditions (S006:C01; S010:C01-S011:C01).",
+        "No systematic sensitivity to anatomy, endplate quality, contact friction, mesh, material uncertainty, pore-size deviation, load magnitude, fatigue history, or implant height is reported."
+      ],
+      "application_prediction": [
+        "Lower modeled stress and higher static loads are used to predict reduced mechanical-failure and subsidence risk after vertebral replacement; they are not clinical event measurements (S010:C01-S015:C02).",
+        "The conclusion's promising clinical-treatment language is an application prediction requiring in-vivo and long-term patient validation (S015:C02; S016:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "The Gyroid design used a 60% nominal porosity and an estimated pore size around 725 micrometres from the bias-constant relation; the packet does not report a direct as-built pore-size measurement (S003:C01).",
+      "Measured porosity was 58.9 +/- 0.53% for traditional porous AVI and 59.4 +/- 0.41% for Gyroid, both within about 3% of target; semi-molten powder contributed to the shortfall from CAD design (S012:C01).",
+      "At bone-prosthetic interfaces, Gyroid peak stress was lower except during left bending and left torsion; reported reductions at upper/lower interfaces ranged from 3.3% to 15.5% for selected directions (S010:C01).",
+      "Within the prosthesis, Gyroid peak stress reductions versus traditional porous AVI were 63.8% flexion, 46.8% extension, 73.4% left bending, 61.0% right bending, 42.1% left rotation, and 72.4% right rotation; traditional stress concentrated at porous-frame junctions whereas Gyroid stress was more uniform (S011:C01).",
+      "Static subsidence load at 3 mm in Grade 15 polyurethane foam was 2660 +/- 8 N for traditional and 3158 +/- 10 N for Gyroid, a 15.7% higher load for Gyroid and a surrogate reduction in subsidence tendency (S013:C01).",
+      "Static compression results were reported as 60.52 +/- 1.53 kN/mm for traditional and 98.4 +/- 2.3 kN/mm for Gyroid (38.51% higher; the abstract describes the ratio as about 1.63). The unit is reproduced as reported and is not clarified in the packet (S014:C01; S001:C01).",
+      "Traditional AVI fractured at the porous/frame junction by 1.5 mm compression displacement, whereas Gyroid failed at 3 mm mainly by a 45-degree shear fracture; these are monotonic static failure modes, not fatigue outcomes (S014:C01)."
+    ],
+    "highest_evidence_level_reached": "Verified global ROM plausibility plus comparative CT-based model predictions and n=3 static mechanical/surrogate-subsidence tests; no independent local-stress validation, cyclic durability, in-vivo osseointegration, clinical subsidence, or patient outcome is reached."
+  },
+  "argument_map": {
+    "central_claim": "Under the specified healthy anatomy, bonded healed-phase contact, 400 N/10 Nm motions, SLM Ti6Al4V state, and monotonic tests, the Gyroid AVI distributes stress more uniformly and outperforms a strut-based porous AVI in static compression and polyurethane-foam subsidence resistance.",
+    "data": [
+      "The two AVIs share external contour but differ in internal topology; nominal Gyroid porosity and pore size are design values, whereas measured porosity is reported separately (S003:C01; S012:C01).",
+      "FEM predicts lower implant and selected interface peak stresses across six loading directions, with exceptions at left bending/torsion for interfaces (S010:C01-S011:C01).",
+      "Three-specimen monotonic compression and foam subsidence tests report higher Gyroid loads and different failure locations (S007:C01-S008:C01; S013:C01-S014:C01)."
+    ],
+    "warrant": "A topology comparison is persuasive for the tested architecture only when nominal versus as-built structure, model assumptions, loading, sample count, failure definition, and surrogate endpoint are kept explicit.",
+    "backing": [
+      "The intact ROM comparison provides a limited global model check (S009:C01).",
+      "Traditional frame-junction fracture and Gyroid shear failure qualitatively align with the modeled stress concentration difference (S011:C01; S014:C01)."
+    ],
+    "qualifier": "Comparative engineering evidence for one Gyroid/traditional pair under one anatomy and static test protocol; translational benefit remains predicted.",
+    "rebuttals_or_boundaries": [
+      "The FEM uses one 26-year-old male anatomy, literature material properties, bonded bone-prosthetic contact, fixed L5, and simplified loading; inter-individual and postoperative variability are not represented (S004:C01-S006:C01).",
+      "ROM agreement does not validate local stress, subsidence, fusion, or failure timing.",
+      "Polyurethane foam is a cancellous-bone surrogate and 3 mm monotonic subsidence is an engineering proxy, not vertebral endplate subsidence in patients (S013:C01).",
+      "n=3 per printed design and a reported kN/mm compression unit ambiguity limit precision and comparability (S007:C01; S014:C01)."
+    ],
+    "argument_coherence": "high_for_conditioned_static_topology_comparison_moderate_for_model_extrapolation_low_for_clinical_treatment_claim"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "As-built specimen porosity, monotonic load-displacement curves, 3 mm foam subsidence load, compression failure displacement, and failure mode are directly measured for three replicates per architecture (S007:C01-S008:C01; S012:C01; S013:C01-S014:C01).",
+      "ROM values are compared against published ranges for the intact model, while postoperative interface and implant stresses are model outputs rather than measurements (S009:C01-S011:C01)."
+    ],
+    "predicted": [
+      "FEM predicts vertebral-interface and implant von Mises stress under 400 N/10 Nm flexion, extension, bending, and torsion and uses a healed bonded interface assumption (S005:C01-S006:C01; S010:C01-S011:C01).",
+      "Lower stress, higher static load, and lower foam subsidence tendency are used to predict reduced clinical mechanical failure/subsidence risk; no clinical event is observed (S013:C01; S015:C01-S016:C01)."
+    ],
+    "inferred": [
+      "The continuously curved Gyroid surface is inferred to reduce junction stress concentration and improve load distribution relative to the strut architecture (S011:C01; S015:C01).",
+      "Higher foam load at 3 mm is inferred to indicate reduced vertebral subsidence tendency, although endplate fracture, bone remodeling, and patient loading are absent (S013:C01; S015:C01).",
+      "The Gyroid topology is inferred to meet daily-activity safety requirements from static strength and modeled stress below cited fatigue-strength ranges, but no cyclic implant fatigue test was performed (S015:C01)."
+    ],
+    "recommended": [
+      "Measure as-built pore size, strut/sheet thickness, surface powder, internal defects, heat-treated properties, and batch variability alongside nominal Gyroid equations.",
+      "Validate local stress and subsidence in cadaveric or animal vertebral models with endplate quality, friction/contact, cyclic physiological loading, fatigue, and fusion/osseointegration outcomes.",
+      "Test multiple Gyroid bias/porosity/height designs and anatomies, and report clear force versus stiffness units and uncertainty before clinical translation (S015:C02)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "ROM agreement validates global kinematics only; it does not validate local bone-prosthetic stress or subsidence (S009:C01).",
+      "Peak von Mises stress is a model proxy for overload and failure risk, not fracture incidence, fatigue life, loosening, or fusion (S010:C01-S011:C01).",
+      "3 mm polyurethane-foam subsidence load is a surrogate for cancellous-bone support and does not substitute for vertebral endplate subsidence in vivo (S013:C01).",
+      "Monotonic compression capacity and failure displacement are static proxies, not cyclic durability or long-term mechanical failure rates (S014:C01)."
+    ],
+    "overclaim_risks": [
+      "'Pore size around 725 micrometres' is a nominal/design estimate; measured porosity is reported, but as-built pore-size and internal defect distributions are not (S003:C01; S012:C01).",
+      "The 15.7% foam subsidence difference and 38.51% static compression difference can be overread as clinical subsidence or implant-survival reduction without vertebral/endplate validation (S013:C01-S014:C01).",
+      "Lower modeled stress in selected motions does not establish lower failure in patients, especially because left bending/torsion interface reductions were not favorable and contact was bonded (S010:C01; S005:C01).",
+      "A reported kN/mm compression-load unit and n=3 sample size limit confidence in the exact magnitude and generality of the static comparison (S014:C01)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Separate nominal Gyroid geometry from as-built characterization",
+      "execution": "The design section defines a 60% nominal porosity and estimated 725 micrometre pore size, while fabrication/porosity sections measure printed mass-derived porosity and note semi-molten powder (S003:C01; S007:C01; S012:C01).",
+      "locator": "S012:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For lattice implants, keep CAD/implicit-surface targets, printed geometry, surface state, and measured properties on separate evidence rows.",
+      "failure_mode": "A nominal pore size or porosity can be mistaken for the structure actually tested or implanted."
+    },
+    {
+      "section": "methods",
+      "move": "Validate the intact model before using postoperative stress predictions",
+      "execution": "The paper compares intact ROM with published human/FE data, then applies postoperative bonded-contact models and six loading conditions to compare the two AVIs (S004:C01-S006:C01; S009:C01).",
+      "locator": "S009:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "Name exactly which model outputs are externally checked and do not transfer global kinematic agreement to local implant stress validation.",
+      "failure_mode": "A ROM match can be reported as validation of stress, fusion, or subsidence without a local measurement."
+    },
+    {
+      "section": "results",
+      "move": "Keep stress, static failure, and subsidence proxies separate",
+      "execution": "Interface/prosthesis stress reductions, foam 3 mm subsidence loads, and monotonic compression loads/failure modes are presented as distinct endpoints with different comparators and failure definitions (S010:C01-S014:C01).",
+      "locator": "S013:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Use an endpoint vector that prevents a static surrogate from standing in for clinical subsidence, fatigue, fixation, or fusion.",
+      "failure_mode": "A higher foam load or compression force can be compressed into a claim of lower clinical failure rate."
+    },
+    {
+      "section": "discussion",
+      "move": "Place topology advantages beside model and translation limits",
+      "execution": "The Discussion attributes smoother Gyroid stress distribution and higher static strength to continuous curvature but acknowledges one-anatomy FEM, one Gyroid design, and the need for in-vivo/long-term follow-up (S015:C01-S015:C02).",
+      "locator": "S015:C02",
+      "effectiveness": "moderate",
+      "transferable_principle": "State the next discriminating model or experiment at the same endpoint level as each proposed clinical benefit.",
+      "failure_mode": "Calling a promising AVI a clinical treatment option before cyclic, endplate, fusion, and patient validation overstates evidence."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The FEM is based on one individual's image data and may vary across the population.",
+      "Only one Gyroid design was investigated; other TPMS designs and optimal AVI features were not explored.",
+      "The study uses FEM and mechanical experiments without in-vivo or long-term patient validation, which the authors identify as necessary (S015:C02)."
+    ],
+    "reader_identified": [
+      "Only three printed replicates per architecture were tested; no power calculation, batch replication, or confidence intervals beyond mean +/- SD are reported.",
+      "The healthy model is one 26-year-old male with literature properties, fixed L5, 400 N/10 Nm loads, and bonded healed-phase contact; endplate damage, friction, fusion progression, and patient variability are absent.",
+      "Global ROM comparison does not independently validate postoperative local stress, contact mechanics, subsidence, or failure location.",
+      "The Gyroid pore size is estimated from the nominal equation and no direct as-built pore-size/strut-thickness distribution or internal-defect measurement is reported.",
+      "Static monotonic tests in Grade 15 polyurethane foam do not address cyclic fatigue, cadaveric endplates, bone remodeling, loosening, or fusion."
+    ],
+    "likely_bias_direction": [
+      "Choosing one Gyroid design and a traditional strut comparator may favor the selected topology while leaving the broader TPMS design space unresolved.",
+      "Surrogate foam and bonded-contact assumptions likely make subsidence/fixation behavior more uniform than in osteoporotic or damaged human endplates.",
+      "Static n=3 mechanical tests may overstate reproducibility and underrepresent manufacturing defects or fatigue failures."
+    ],
+    "scope_boundary": "The work supports a conditioned engineering comparison of one SLM Ti6Al4V Gyroid AVI against one traditional porous AVI in a single CT-based model and static surrogate tests. It does not establish clinical subsidence reduction, fusion, fatigue life, implant survival, or general superiority across patients and TPMS designs."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC10623881-01",
+      "capability": "Keep nominal lattice equations, as-built porosity/surface state, and tested mechanical response in separate rows so a CAD target is not mistaken for an implanted structure.",
+      "manuscript_use": "Porous-design Methods, manufacturing Results, and reproducibility audit.",
+      "applicable_domains": [
+        "TPMS_scaffold",
+        "additive_manufacturing",
+        "spinal_implant"
+      ],
+      "applicable_study_designs": [
+        "finite_element",
+        "mechanical_experiment",
+        "lattice_fabrication"
+      ],
+      "supporting_locators": [
+        "S003:C01",
+        "S007:C01",
+        "S012:C01"
+      ],
+      "counterexample_or_boundary": "A 725 micrometre pore estimate and 60% CAD porosity do not document direct as-built pore-size or defect distributions.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10623881-02",
+      "capability": "Build a mechanics endpoint vector that separates local FEM stress, global ROM verification, monotonic compression failure, and surrogate subsidence instead of treating them as one failure outcome.",
+      "manuscript_use": "Computational validation, Results, and translational boundary writing.",
+      "applicable_domains": [
+        "spinal_biomechanics",
+        "finite_element",
+        "implant_testing"
+      ],
+      "applicable_study_designs": [
+        "CT_based_FEA",
+        "static_mechanical_test"
+      ],
+      "supporting_locators": [
+        "S009:C01",
+        "S010:C01",
+        "S013:C01",
+        "S014:C01"
+      ],
+      "counterexample_or_boundary": "ROM agreement and a higher foam 3 mm load do not validate patient fusion, cyclic durability, or clinical subsidence reduction.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10623881-03",
+      "capability": "Report topology comparisons with load-direction exceptions and failure-mode differences before summarizing a global advantage.",
+      "manuscript_use": "Stress Results, figures, and Discussion.",
+      "applicable_domains": [
+        "TPMS",
+        "spinal_implants",
+        "mechanical_design"
+      ],
+      "applicable_study_designs": [
+        "finite_element",
+        "static_compression"
+      ],
+      "supporting_locators": [
+        "S010:C01",
+        "S011:C01",
+        "S014:C01"
+      ],
+      "counterexample_or_boundary": "Gyroid reduced most implant stress components but did not lower every interface direction and failed by a different shear mode at 3 mm.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_conditioned_engineering_comparison",
+    "methods_transparency": "moderate",
+    "validation_credibility": "moderate_for_global_ROM_and_static_surrogates_low_for_local_or_clinical_endpoints",
+    "outcome_uncertainty_reporting": "moderate_to_low",
+    "comparator_fairness": "high_for_same-contour_static_pair_moderate_for_single-anatomy_FEM",
+    "conclusion_proportionality": "moderate_for_engineering_results_low_for_clinical_treatment_language",
+    "critical_weaknesses": [
+      "One CT anatomy and bonded healed-phase contact limit model generalizability.",
+      "n=3 static specimens per design and an ambiguous reported compression unit limit precision.",
+      "No direct as-built pore-size/defect characterization, cyclic fatigue, cadaveric/animal endplate model, fusion, or clinical follow-up."
+    ],
+    "overall_credibility": "high_for_the_reported_static_topology_comparison_moderate_for_model_based_stress_inference_low_for_clinical_subsidence_or_failure_prediction"
+  },
+  "summary_zh": "这是一项有限元与静态力学原始研究，不含动物或临床结局。两种外形相同的Ti-6Al-4V人工椎体分别采用传统杆状/diamond-like孔结构与名义60%孔隙、估计孔径约725 μm的Gyroid；实际质量法孔隙率为传统58.9±0.53%、Gyroid59.4±0.41%，未报告直接实测孔径。单一26岁男性CT模型在400 N+10 Nm各运动下显示Gyroid多数植体应力下降，但界面左侧弯曲/左旋转并非全面改善；n=3静态试验中3 mm聚氨酯泡沫沉降载荷3158±10 N对2660±8 N，压缩结果按原文单位kN/mm报告且存在单位歧义。沉降、静态断裂和有限元应力均是代理/预测，不等于临床融合、疲劳或失效率。",
+  "reader_notes": [
+    "Primary Luna reader read every non-reference packet chunk in heading order: S001:C01 through S027:C01, including S015:C02 and all statements/ethics/data chunks.",
+    "Full text supports original computational plus static mechanical research; the metadata in-vivo/biological cues are not supported by an implantation experiment.",
+    "Nominal Gyroid structure, measured porosity, modeled stress, static compression failure, and polyurethane-foam subsidence are kept as distinct evidence states.",
+    "The reported compression-load unit kN/mm is preserved with an ambiguity note rather than silently converted; no references chunk was present."
+  ],
+  "selection": {
+    "selection_reason": "manifest_all",
+    "primary_stratum": "additive_manufacturing",
+    "reading_order": 65
+  },
+  "source": {
+    "record_path": "records/PMC10623881.json.gz",
+    "source_record": "records/PMC10623881.json.gz",
+    "source_record_sha256": "7f53f7161797a9239a85cd9693171191291d5d0a37e24c157f3b0c687cf0ea8c",
+    "source_hash": "7f53f7161797a9239a85cd9693171191291d5d0a37e24c157f3b0c687cf0ea8c"
+  }
+}

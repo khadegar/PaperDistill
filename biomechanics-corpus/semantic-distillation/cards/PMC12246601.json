@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12246601",
+  "paper_id": "doi:10.1016/j.identj.2025.100873",
+  "pmcid": "PMC12246601",
+  "source_record_sha256": "16d1ace127af635d83570de0a8944fced258143bce0c7dc6e7ef21688fb8a478",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7a10759c083361ff5477b40e142f5d83ac3bff11149ae967ece3dc847e98b2f9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis of Various Connector Designs of Dental Implant Complex: A Numerical Finite Element Study",
+    "authors": "Elsheikh SA, El-Anwar MI, Hong T, Bourauel C, Alhotan A, Anany NM, Shahin IG, Diab AH, Elshazly TM.",
+    "year": 2025,
+    "journal": "International Dental Journal",
+    "doi": "10.1016/j.identj.2025.100873",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

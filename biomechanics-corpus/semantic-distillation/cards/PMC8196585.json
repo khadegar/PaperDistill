@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8196585",
+  "paper_id": "doi:10.3390/ijms22115409",
+  "pmcid": "PMC8196585",
+  "source_record_sha256": "633e9dfaa77f9d6a139929875d17084f56fe77adc71433fd20054076240b50d6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "61cfc73fd9e0bf2403c2c6764933cf0bd0cc1634708d5fd0c92c1fc970c70229",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteogenesis of 3D-Printed PCL/TCP/bdECM Scaffold Using Adipose-Derived Stem Cells Aggregates; An Experimental Study in the Canine Mandible",
+    "authors": "Lee JS, Park TH, Ryu JY, Kim DK, Oh EJ, Kim HM, Shim JH, Yun WS, Huh JB, Moon SH, Kang SS, Chung HY.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms22115409",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

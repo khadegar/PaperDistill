@@ -1,0 +1,231 @@
+{
+  "study": {
+    "article_kind": "narrative_scoping_design_review",
+    "design_features": [
+      "tendon_tissue_engineering",
+      "four_principle_design_framework",
+      "biomechanical_matching",
+      "host_integration",
+      "porosity_and_transport",
+      "mechanobiological_stimulation",
+      "materials_and_fabrication_overview",
+      "translational_challenges"
+    ],
+    "research_problem": "Tendon scaffolds must restore a hierarchical, anisotropic, load-transmitting tissue while coordinating degradation, cell/immune integration, transport, and mechanobiological maturation, yet the literature spans heterogeneous materials, fabrication methods, and validation levels.",
+    "exact_gap": "The review aims to organize recent tendon-scaffold advances into a design framework that connects clinical/tissue requirements to material, architecture, mechanobiology, fabrication, and translation rather than catalogue materials alone (S001:C01; S009:C01-S013:C02).",
+    "objective_or_hypothesis": "Summarize recent tendon scaffold strategies and propose four guiding principles—biomechanical compatibility, biocompatibility/integration, porosity/mass transport, and mechanobiological stimulation—for designing hierarchical bio-instructive constructs (S001:C01).",
+    "study_design": "Narrative/scoping overview based on PubMed, Scopus, R Discovery, backward citation tracking, and selected key reviews, with stated keyword themes but no PRISMA flow, inclusion count, duplicate screening, risk-of-bias appraisal, or quantitative synthesis (S001:C01; S002:C01-S002:C02).",
+    "sample_or_model": "A heterogeneous body of cited in-vitro, small-animal, material/mechanical, and review literature across tendon types, cells, materials, and fabrication processes; no new experimental sample or dataset was generated.",
+    "comparators": [
+      "Natural versus synthetic materials",
+      "Static structure versus mechanical/electromechanical stimulation",
+      "Random versus aligned or graded architectures",
+      "Micropatterning, 3D printing, electrospinning, weaving/textiles, and melt electrowriting",
+      "Selected primary-study treatment and control groups summarized narratively, not pooled"
+    ],
+    "method_spine": [
+      "Define the native tissue's functional, hierarchical, and healing constraints.",
+      "Translate those constraints into four coupled scaffold requirements.",
+      "Map material families and fabrication methods to controllable variables and mechanisms.",
+      "Use representative studies to illustrate evidence at in-vitro, animal, mechanical, and functional levels.",
+      "Close with standardization, large-animal, manufacturing, regulatory, and clinical adoption gates.",
+      "Keep cited primary-study results separate from review-level conclusions and untested future concepts."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Databases, broad queries, date range, and backward citation tracking are stated, but screening counts, duplicate review, extraction checks, and a reproducible full search are absent (S001:C01; S002:C01-S002:C02)."
+      ],
+      "calibration": [],
+      "validation": [
+        "Individual cited studies include in-vitro, rat, rabbit, gait, tensile, histology, and marker outcomes, but these validate their own constructs and do not constitute validation of the review's four-principle framework or cross-study superiority claims (S019:C02-S024:C03)."
+      ],
+      "sensitivity": [
+        "No review-level risk-of-bias, heterogeneity, evidence-grading, sensitivity, or counterexample analysis is performed."
+      ],
+      "application_prediction": [
+        "Intelligent hierarchical scaffolds, next-generation bioreactors, combination therapies, and complete functional regeneration are future directions whose clinical effectiveness remains untested at review level (S025:C01-S026:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "The review defines time-dependent mechanical matching: a scaffold that remains too stiff can shield developing tissue, whereas one that weakens too quickly can fail before repair (S010:C01).",
+      "It frames integration as active control of cell, paracrine, and immune environments rather than mere absence of toxicity (S011:C01-S011:C02).",
+      "It identifies a porosity/transport-versus-strength/stability trade-off and emphasizes mechanical stimulation as a maturation input rather than an optional adjunct (S012:C01-S013:C02).",
+      "Representative cited studies illustrate how microgrooves, aligned fibers, gradients, textiles, MEW, and piezoelectric constructs can link architecture to cell markers, tissue organization, gait, or tensile outcomes, but evidence is not systematically compared (S019:C02-S024:C03).",
+      "The review identifies standardization, large-animal testing, manufacturability, regulation, cost, and supply-chain consistency as major translation gates (S025:C01-S025:C03)."
+    ],
+    "highest_evidence_level_reached": "Narrative design synthesis drawing on heterogeneous secondary and preclinical evidence; no systematic certainty estimate, comparative effect, original validation, or clinical efficacy conclusion."
+  },
+  "argument_map": {
+    "central_claim": "Effective tendon scaffold design should jointly address dynamic mechanical matching, host/cell integration, porosity/transport, and mechanobiological stimulation through hierarchical materials and fabrication; this is a useful design taxonomy, not evidence that a particular intelligent scaffold or fabrication route achieves complete functional regeneration in humans.",
+    "data": [
+      "Narratively selected material, mechanobiology, fabrication, in-vitro, and small-animal examples (S006:C01-S024:C03).",
+      "Review-level statements about clinical burden, native tendon hierarchy, healing phases, and translation barriers (S003:C01-S007:C02; S025:C01-S026:C01)."
+    ],
+    "warrant": "A scaffold is more likely to be functionally relevant when design variables map to the tissue's mechanical, transport, cellular, and temporal requirements, while therapeutic conclusions require comparable multi-level validation and manufacturing/clinical evidence.",
+    "backing": [
+      "The review repeatedly connects structure to cell organization and ECM, degradation to load transfer, and preclinical promise to standardization and large-animal needs (S009:C01-S013:C02; S025:C01-S025:C03)."
+    ],
+    "qualifier": "Conceptual design framework distilled from selected recent and foundational tendon-engineering literature.",
+    "rebuttals_or_boundaries": [
+      "The stated publication window is inconsistent—2020-2025 in the abstract and 2020-2026 in the Introduction—and no included-study list or quality appraisal makes coverage unverifiable (S001:C01; S002:C02).",
+      "Representative studies differ in tendon site, injury, cells, animal, material, loading, comparator, time, and outcome, preventing informal ranking.",
+      "Marker expression, collagen alignment, immune staining, gait, and tensile outcomes are complementary but not interchangeable evidence of complete regeneration.",
+      "Fabrication control does not automatically preserve strength while increasing porosity or guarantee manufacturability and reproducibility (S012:C01; S018:C01).",
+      "Most cited evidence is in vitro or small animal, and the review itself calls for large-animal and regulatory/manufacturing validation (S025:C01-S025:C03)."
+    ],
+    "argument_coherence": "moderate_to_high_as_framework_low_as_effect_synthesis"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "The review reports no new measurements. All incidence, material, cell, molecular, mechanical, gait, histological, and animal results are secondary summaries of cited studies (S003:C01-S024:C03)."
+    ],
+    "predicted": [],
+    "inferred": [
+      "Four recurring requirements are elevated into foundational design principles without a formal semantic coding or consensus process (S001:C01; S009:C01-S013:C02).",
+      "Selected examples are used to support broad structure-function and mechanotransduction narratives despite heterogeneous causal evidence.",
+      "Piezoelectric and combined strategies are framed as routes to robust regeneration, but clinical effect, long-term durability, and comparative value are not synthesized (S014:C01-S024:C03).",
+      "The field is described as trending toward synergistic intelligent scaffolds and complete functional regeneration; this is a forward-looking interpretation (S025:C03-S026:C01)."
+    ],
+    "recommended": [
+      "Develop multiaxial bioreactors, prespecified combination designs, standardized manufacturing/outcome reporting, large-animal validation, and scalable regulatory/surgical pathways (S025:C01-S025:C03)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Tenogenic markers and aligned cells do not establish mature tendon mechanics or rerupture prevention.",
+      "Histological alignment and immune polarization do not substitute for long-term fatigue, function, and safety.",
+      "Gait or tensile improvement in a small-animal model does not establish human clinical regeneration.",
+      "A review's four-principle taxonomy is not a validated optimization objective or universal weighting scheme.",
+      "A fabrication method's precision or tunability is not evidence of implantability, reproducibility, or clinical efficacy."
+    ],
+    "overclaim_risks": [
+      "The abstract/highlights imply that four principles 'mediate' intelligent systems and robust regeneration despite a narrative evidence base (S001:C01; S026:C01).",
+      "Claims that fabrication can control porosity without compromising mechanics are too general for a trade-off that is material- and architecture-dependent (S012:C01).",
+      "The text sometimes presents mechanisms from selected primary studies as broad field truths without explicit evidence-level qualifiers.",
+      "The future of complete functional regeneration is aspirational rather than demonstrated (S025:C03).",
+      "Automated experimental, animal, AM, and porous-scaffold cues mostly describe cited studies, not experiments performed by this review."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "review_body",
+      "move": "Translate native function into coupled design requirements",
+      "execution": "The review moves from tendon hierarchy/healing to mechanical matching, integration, transport, and stimulation requirements (S005:C01-S013:C02).",
+      "locator": "S010:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Organize engineering reviews as clinical function and failure mode, tissue constraint, controllable design variable, validation endpoint, and unresolved trade-off.",
+      "failure_mode": "A plausible framework is not an evidence-weighted proof that all four dimensions are sufficient."
+    },
+    {
+      "section": "review_body",
+      "move": "Make mechanical matching explicitly time dependent",
+      "execution": "The scaffold's stiffness and degradation are related to changing load sharing during tissue formation rather than a single initial modulus (S010:C01).",
+      "locator": "S010:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For degradable load-bearing scaffolds, write mechanics as a time-varying scaffold-tissue load-sharing problem and specify when each component is measured.",
+      "failure_mode": "Initial modulus matching does not establish strength retention, mechanostimulation, or long-term function."
+    },
+    {
+      "section": "review_body",
+      "move": "Compare technologies through material-architecture-mechanism-validation tuples",
+      "execution": "Micropatterning, printing, electrospinning, textiles, MEW, gradients, and piezoelectric examples are linked to architecture, proposed biological pathway, and selected outcomes (S019:C01-S024:C03).",
+      "locator": "S024:C02",
+      "effectiveness": "moderate",
+      "transferable_principle": "For every representative study, extract material, as-built architecture, stimulus/mechanism, comparator, evidence level, time point, and functional endpoint before cross-study comparison.",
+      "failure_mode": "Narrative examples from different models cannot be ranked by the most favorable endpoint."
+    },
+    {
+      "section": "future_perspective",
+      "move": "Extend scientific validation into product translation gates",
+      "execution": "The review separately names bioreactors, standardization, large animals, manufacturing consistency, regulation, cost, surgical usability, and supply chain (S025:C01-S025:C03).",
+      "locator": "S025:C02",
+      "effectiveness": "high",
+      "transferable_principle": "Close translational reviews with distinct evidence, manufacturing, regulatory, economic, and clinical-workflow gates rather than one generic call for more research.",
+      "failure_mode": "Listing gates does not show that a candidate has passed them."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The review emphasizes limited large-animal validation, absent standards, manufacturing consistency, regulatory burden, supply chains, cost, surgical manageability, and lack of clinical adoption (S025:C01-S025:C03)."
+    ],
+    "reader_identified": [
+      "Search-year inconsistency, broad keywords, no full search strings, screening flow, inclusion count, duplicate review, extraction schema, risk-of-bias, or evidence grading.",
+      "No systematic separation of primary versus review sources, and no deduplication of overlapping datasets.",
+      "Tendon types, injury models, cells, materials, animals, loading protocols, comparators, time points, and outcomes are highly heterogeneous.",
+      "Selected positive exemplars dominate; null, adverse, degradation, fatigue, manufacturability, and failure studies receive limited comparative treatment.",
+      "Incidence and clinical-treatment claims are broad and not critically appraised within the review method.",
+      "No quantitative or formal qualitative derivation validates the four principles or their relative importance.",
+      "Mechanistic language sometimes exceeds the underlying marker/association evidence."
+    ],
+    "likely_bias_direction": [
+      "Narrative selection of recent successful constructs likely favors optimistic technology and mechanism conclusions.",
+      "Mixing evidence levels can make in-vitro and small-animal advances appear closer to clinical translation.",
+      "Framework coherence may conceal conflicting evidence and application-specific weighting."
+    ],
+    "scope_boundary": "The paper is useful as a design-oriented narrative map for tendon scaffolds. It does not provide a comprehensive systematic evidence base, comparative efficacy, validated optimization weights, or proof of clinical functional regeneration."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC13271277-01",
+      "capability": "Organize an engineering review from clinical function and failure mode through tissue constraints, design variables, representative evidence, and translation gates.",
+      "manuscript_use": "Review outline, Introduction-to-Discussion argument spine, and design framework figure.",
+      "applicable_domains": ["biomechanics", "bone_implant", "porous_scaffold", "additive_manufacturing", "mechanobiology"],
+      "applicable_study_designs": ["narrative_review", "scoping_review", "design_review"],
+      "supporting_locators": ["S005:C01", "S009:C01", "S010:C01", "S011:C01", "S012:C01", "S013:C01"],
+      "counterexample_or_boundary": "A coherent design taxonomy is a planning tool, not a validated causal or optimization model.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC13271277-02",
+      "capability": "Write degradable scaffold mechanics as time-dependent load sharing among scaffold, healing tissue, and physiological stimulation rather than one-point modulus matching.",
+      "manuscript_use": "Design rationale, Methods time points, Discussion trade-off, and future validation.",
+      "applicable_domains": ["biomechanics", "porous_scaffold", "bone_regeneration_biomaterial", "bone_implant"],
+      "applicable_study_designs": ["materials_study", "animal_study", "design_review"],
+      "supporting_locators": ["S010:C01", "S013:C01", "S025:C01"],
+      "counterexample_or_boundary": "Initial stiffness alone does not establish degradation synchrony, mechanobiological loading, fatigue, or regenerated-tissue function.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC13271277-03",
+      "capability": "Compare fabrication studies using a fixed material-architecture-mechanism-comparator-evidence-level-functional-endpoint tuple and keep cited study results separate from review conclusions.",
+      "manuscript_use": "Cross-study matrix, review Results, and evidence audit.",
+      "applicable_domains": ["additive_manufacturing", "porous_scaffold", "mechanobiology", "biomaterials"],
+      "applicable_study_designs": ["systematic_review", "narrative_review"],
+      "supporting_locators": ["S019:C02", "S019:C03", "S020:C02", "S024:C02", "S024:C03"],
+      "counterexample_or_boundary": "Marker, histology, gait, and tensile outcomes from different models cannot be treated as a common effect scale.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC13271277-04",
+      "capability": "Write translational future work as separate preclinical, standardization, manufacturing, regulatory, economic, and clinical-workflow gates.",
+      "manuscript_use": "Review outlook and Discussion translation paragraph.",
+      "applicable_domains": ["all_domains"],
+      "applicable_study_designs": ["review", "preclinical_study"],
+      "supporting_locators": ["S025:C01", "S025:C02", "S025:C03"],
+      "counterexample_or_boundary": "A promising small-animal scaffold has not passed scalability, durability, regulation, cost, or clinical-use gates.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_as_narrative_framework",
+    "methods_transparency": "low",
+    "validation_credibility": "low_at_review_level",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "low_heterogeneous_selected_examples",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "No reproducible systematic-review or evidence-grading workflow.",
+      "Heterogeneous evidence levels and selected positive exemplars are integrated narratively.",
+      "Aspirational intelligent-scaffold and complete-regeneration claims exceed available synthesis."
+    ],
+    "overall_credibility": "useful_for_conceptual_design_organization_low_for_comparative_effect_mechanism_certainty_or_clinical_translation"
+  },
+  "summary_zh": "这篇综述最适合作为‘如何组织工程综述’的范例，而不是疗效证据。它把腱组织的临床功能和失效模式转译为四个相互耦合的设计维度：动态力学匹配、宿主/细胞整合、孔隙与传质、机械生物学刺激；随后再用材料和制造案例说明这些维度。尤其有价值的是把支架力学写成随时间变化的负载分担问题：过硬过久会遮挡新生组织刺激，过快降解又会提前失去支撑。但检索年份前后不一致，也没有筛选数量、偏倚评价或证据分级；所列细胞、动物、组织学、步态和力学结果来自不同被引研究，不能合并为‘智能支架已实现完整再生’。写作 Skill 应保留其框架，同时强制为每个案例记录材料、as-built 结构、机制、比较器、证据层级、时间点和功能终点，并在结尾分开大型动物、标准化、制造、监管、成本和临床流程门槛。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section, including the design-principle, material, fabrication, and translation sections.",
+    "The experimental, animal, additive-manufacturing, and porous-scaffold cues describe cited literature rather than work performed by this review.",
+    "The four-principle framework is transferable, but its derivation is narrative and should not be presented as validated or exhaustive."
+  ]
+}

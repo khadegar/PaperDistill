@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9127420",
+  "paper_id": "doi:10.1016/j.phro.2022.04.011",
+  "pmcid": "PMC9127420",
+  "source_record_sha256": "72e6f469aedaa08f2d158bfea70a6bb47f3fad56b468ca050e520eaae9c9b9a5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "33a376396efdfe2dbbf9e23a20b722ff8395fca01c96ad9672eaa63f12d78303",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Monte Carlo calculations of radiotherapy dose distributions within and around orthopaedic implants",
+    "authors": "Katsifis GA, McKenzie DR, Suchowerska N.",
+    "year": 2022,
+    "journal": "Physics and Imaging in Radiation Oncology",
+    "doi": "10.1016/j.phro.2022.04.011",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

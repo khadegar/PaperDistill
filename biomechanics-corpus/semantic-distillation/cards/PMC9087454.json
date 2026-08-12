@@ -1,0 +1,309 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9087454",
+  "paper_id": "doi:10.1111/os.13218",
+  "pmcid": "PMC9087454",
+  "source_record_sha256": "14da291f8d6188d5c5c26c9e94d2ee81129ecec2b4609768e6a2a789956e8e74",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T10:58:18Z",
+    "packet_sha256": "52903e7e31d2241d2d3c23e82db2195abe55227b967162152999f1d536997555",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S002:C02",
+      "S002:C03",
+      "S002:C04",
+      "S002:C05",
+      "S003:C01",
+      "S003:C02",
+      "S003:C03",
+      "S004:C01",
+      "S004:C02",
+      "S004:C03",
+      "S004:C04",
+      "S005:C01",
+      "S005:C02",
+      "S005:C03",
+      "S006:C01",
+      "S006:C02",
+      "S006:C03",
+      "S007:C01",
+      "S007:C02",
+      "S007:C03",
+      "S008:C01",
+      "S009:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Evolution and Development of Ilizarov Technique in the Treatment of Infected Long Bone Nonunion with or without Bone Defects",
+    "authors": "Li J, Li M, Wang W, Li B, Liu L.",
+    "year": 2022,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13218",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "narrative_clinical_review_with_structured_search",
+    "design_features": [
+      "infected_nonunion",
+      "segmental_bone_defect",
+      "ilizarov_bone_transport",
+      "clinical_case_series_synthesis",
+      "benefit_burden",
+      "digital_orthopedics_outlook"
+    ],
+    "research_problem": "Infected long-bone nonunion and defects require simultaneous infection control, stable fixation, length restoration, and bone regeneration, yet Ilizarov bone transport imposes prolonged external fixation and substantial complications/burden.",
+    "exact_gap": "Clinical experience with debridement, bone transport, grafting, intramedullary conversion, vascularized fibula, and Taylor frames needed to be organized around different combinations of infection, nonunion, defect length, and treatment burden.",
+    "objective_or_hypothesis": "Narratively review the development and clinical applications of Ilizarov-based strategies and propose combination/digital approaches that might reduce fixation time, complications, and patient burden.",
+    "study_design": "Search-informed narrative review of 22 predominantly retrospective clinical series/case-control reports selected from 793 records; no formal risk-of-bias, certainty, or meta-analytic method.",
+    "sample_or_model": "Published clinical cohorts/series of infected tibial/femoral/humeral nonunion and segmental defects treated with heterogeneous external fixation, transport, grafting, nails, fibular grafts, antibiotics, and Taylor frames.",
+    "comparators": [
+      "Ilizarov versus/combined with intramedullary fixation, bone graft, vascularized fibula, or Taylor frame",
+      "Infection eradication versus fracture union versus ASAMI bone/function outcomes",
+      "External-fixation duration and defect/transport distance versus complications/patient burden",
+      "No empirical comparison for proposed 3D-print/digital strategies"
+    ],
+    "method_spine": [
+      "Describe tension-stress/distraction-osteogenesis rationale and external-fixator advantages/burdens.",
+      "Separate infected nonunion, infected defect, and combined nonunion-plus-defect scenarios.",
+      "Extract union, transport distance, treatment time, infection recurrence, function, and complications from heterogeneous series.",
+      "Discuss strategy combinations intended to reduce fixation burden.",
+      "Keep digital/3D-printing concepts as future hypotheses rather than current evidence."
+    ],
+    "validation_roles": {
+      "verification": [
+        "A screening count and table of 22 studies improve traceability, but inclusion/exclusion rules conflict and reviewer/search procedures are not reproducible (S002:C02-S002:C05)."
+      ],
+      "calibration": [],
+      "validation": [
+        "Historical case series provide clinical feasibility signals; they do not validate causal superiority or one universal treatment algorithm."
+      ],
+      "sensitivity": [
+        "No risk-of-bias, heterogeneity, outcome-definition, leave-one-out, publication-bias, or subgroup sensitivity analysis was conducted."
+      ],
+      "application_prediction": [
+        "Patient-specific printed frames/templates, remote modeling, and printed antibiotic constructs are proposals without included empirical validation (S007:C01-S007:C03)."
+      ]
+    },
+    "primary_outcomes": [
+      "Included reports describe union rates often above 90% but with wide variation, incomplete outcomes, diverse defect lengths/techniques, and mostly retrospective designs (S002:C03-S002:C05).",
+      "An early approach achieved union but one cited series reported 100% infection recurrence, motivating radical debridement before transport and showing that union and infection control are separate outcomes (S004:C01-S004:C02).",
+      "Nail conversion or grafting may reduce external-fixation time in selected reports, but indications/timing remain controversial and comparative evidence is weak (S004:C02-S004:C04; S006:C01-S006:C02).",
+      "Large defects can unite, yet transport distance and prolonged fixation contribute to docking problems, deviation, pin loosening/infection, stiffness, psychosocial burden, persistent nonunion, and occasional amputation (S005:C01-S005:C03).",
+      "All 3D-print/digital benefits appear in the prospects section as suggested applications rather than study results (S007:C01-S007:C03)."
+    ],
+    "highest_evidence_level_reached": "Heterogeneous low-level clinical observational evidence and expert narrative; no pooled comparative effect, formal certainty, or tested digital/AM intervention."
+  },
+  "argument_map": {
+    "central_claim": "Ilizarov-based bone transport is a versatile limb-reconstruction option with substantial clinical experience, but its benefit must be reported together with infection recurrence, external-fixation time, complications, function, and selection context; proposed digital/3D-print integration remains untested.",
+    "data": [
+      "Table-level case counts, defect/transport lengths, union, ASAMI-type outcomes, and healing durations (S002:C03-S002:C05).",
+      "Narrative examples include successes, failures, infection recurrence, complications, and combination approaches (S004:C01-S006:C03)."
+    ],
+    "warrant": "For prolonged complex reconstruction, a high union percentage is clinically incomplete unless infection control, limb function, burden, complications, salvage/amputation, and treatment duration are jointly considered.",
+    "backing": [
+      "The review itself repeatedly emphasizes fixation duration, discomfort, pin infection, stiffness, and psychological burden as central limitations (S003:C02-S003:C03; S004:C02; S006:C02)."
+    ],
+    "qualifier": "Feasibility and practice-pattern evidence from selected, mostly retrospective heterogeneous cohorts.",
+    "rebuttals_or_boundaries": [
+      "Study-selection criteria contradict one another about reviews and do not explain how 771 records were excluded (S002:C02-S002:C03).",
+      "No standardized definitions, independent appraisal, confounder control, or pooled denominators.",
+      "Large observed union rates may reflect selection, co-interventions, survivor/reporting bias, and inconsistent follow-up.",
+      "Failure/infection recurrence and complication reporting is uneven.",
+      "The review's 3D-printing propositions are not evidence from the 22 clinical reports."
+    ],
+    "argument_coherence": "moderate_as_clinical_overview_low_as_comparative_evidence"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "The review directly records search counts and transcribes study-level cases, technique, defect/transport distance, union, scores, and time; no new patient outcomes are measured (S002:C02-S002:C05)."
+    ],
+    "predicted": [],
+    "inferred": [
+      "Ilizarov is called a gold standard and combination approaches are inferred to reduce time/complications from nonrandomized series (S003:C02; S004:C03; S007:C01).",
+      "Tension-stress and regeneration are used as mechanistic explanations, not tested within this review (S002:C01-S002:C02).",
+      "Digital modeling/printing is inferred to improve accuracy, prognosis, infection control, and fixation duration (S007:C02)."
+    ],
+    "recommended": [
+      "Individualize debridement, transport, graft timing, fixation conversion, and frame choice; prospectively compare comprehensive outcomes and test digital strategies before recommending them (S004:C03-S007:C03)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Fracture union is not equivalent to eradicated infection, good limb function, or acceptable patient burden.",
+      "ASAMI bone and function categories should not be collapsed into one success rate.",
+      "External-fixation time and defect length are exposure/burden descriptors, not treatment efficacy alone.",
+      "A plausible CAD/3D-print workflow is not a clinically validated intervention.",
+      "Retrospective case-series proportions are not comparative treatment effects."
+    ],
+    "overclaim_risks": [
+      "'Efficacy well verified' and 'internationally recognized gold standard' are stronger than the appraised evidence process supports (S002:C02; S007:C01).",
+      "Several 100% union reports are presented without equally standardized complications, infection recurrence, or uncertainty (S004:C01-S005:C03).",
+      "Keywords/automated cues imply 3D printing and porous scaffolds, but these appear only as future proposals (S007:C01-S007:C03).",
+      "The review's inclusion criteria admit reviews while exclusion criteria exclude them, weakening selection transparency (S002:C02-S002:C03)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "results_synthesis",
+      "move": "Use a benefit-burden outcome bundle",
+      "execution": "Clinical examples jointly discuss union, infection, transport/fixation time, functional scores, docking/graft procedures, complications, and amputation (S004:C01-S006:C02).",
+      "locator": "S005:C02",
+      "effectiveness": "moderate",
+      "transferable_principle": "For reconstructive treatment, synthesize biological success, infection control, mechanical/functional result, treatment time, complication burden, and patient experience in the same evidence row.",
+      "failure_mode": "A 100% union rate can coexist with recurrent infection, long fixation, stiffness, or poor function."
+    },
+    {
+      "section": "discussion",
+      "move": "Organize heterogeneous studies by clinical problem and decision",
+      "execution": "The review separates infected nonunion, infected defects, and combined periarticular cases, then discusses graft/nail/frame choices (S004:C01-S006:C03).",
+      "locator": "S006:C01",
+      "effectiveness": "high",
+      "transferable_principle": "When pooling is inappropriate, structure evidence by decision-relevant phenotype, failure mechanism, and co-intervention rather than by headline success rate.",
+      "failure_mode": "Do not compare techniques across radically different defect lengths and infection states as if exchangeable."
+    },
+    {
+      "section": "future_work",
+      "move": "Keep digital concepts explicitly prospective",
+      "execution": "The final section lists CT/CAD, printed frames/templates, remote monitoring, and antibiotic constructs as assumptions/future applications (S007:C01-S007:C03).",
+      "locator": "S007:C02",
+      "effectiveness": "moderate",
+      "transferable_principle": "Write future technology as problem→proposed mechanism→required validation→patient-important endpoint; never mix it into the evidence table as an achieved result.",
+      "failure_mode": "A detailed workflow can still be entirely hypothetical."
+    },
+    {
+      "section": "methods",
+      "move": "Audit internal consistency of selection rules",
+      "execution": "Reviews are simultaneously listed as eligible and excluded (S002:C02-S002:C03).",
+      "locator": "S002:C03",
+      "effectiveness": "low",
+      "transferable_principle": "Before trusting a review, reconcile eligibility, flow counts, study types, dates, and duplicates; flag contradictions rather than silently treating the corpus as systematic.",
+      "failure_mode": "A flow diagram alone does not make selection reproducible."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Ilizarov requires complex/long treatment, burdens patients, and causes pin infection/loosening, nonunion, stiffness, and psychosocial problems; it is unsuitable for some compliance/anatomical contexts (S003:C02-S003:C03; S007:C01)."
+    ],
+    "reader_identified": [
+      "Search strategy lacks reproducible syntax/reviewer procedures; eligibility is contradictory and no risk-of-bias/certainty appraisal is provided.",
+      "Mostly retrospective series with heterogeneous diagnoses, lengths, sites, techniques, co-interventions, scores, and follow-up.",
+      "No confidence intervals, standardized adverse events, comparative adjustment, meta-analysis, or publication-bias assessment.",
+      "Some table labels/data are incomplete or ambiguous.",
+      "Digital/AM section is expert speculation, not evidence synthesis."
+    ],
+    "likely_bias_direction": [
+      "Positive case-series publication and selective reporting likely inflate apparent union/effectiveness.",
+      "Incomplete burden and failure reporting likely favors intervention conclusions.",
+      "Clinical heterogeneity can create misleading cross-study rankings in either direction."
+    ],
+    "scope_boundary": "Use this article as a clinical problem/decision map and source-finding aid, not as high-certainty comparative evidence or proof that 3D-printed/digital Ilizarov strategies improve outcomes."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC9087454-01",
+      "capability": "For complex reconstructive procedures, report a benefit-burden bundle that keeps union, infection eradication, function, treatment duration, complications, psychosocial load, salvage, and amputation distinct.",
+      "manuscript_use": "Clinical evidence tables, Results synthesis, and Discussion.",
+      "applicable_domains": [
+        "bone_implant",
+        "clinical_biomechanics",
+        "bone_regeneration_biomaterial"
+      ],
+      "applicable_study_designs": [
+        "clinical_series",
+        "review"
+      ],
+      "supporting_locators": [
+        "S003:C03",
+        "S004:C01",
+        "S004:C02",
+        "S005:C02",
+        "S006:C02"
+      ],
+      "counterexample_or_boundary": "A high union percentage is not comprehensive success when infection or burden remains high.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9087454-02",
+      "capability": "Distinguish observed clinical evidence, biomechanical rationale, expert recommendation, and future digital/AM concept in every review paragraph.",
+      "manuscript_use": "Narrative review and future-work section.",
+      "applicable_domains": [
+        "all_domains"
+      ],
+      "applicable_study_designs": [
+        "narrative_review"
+      ],
+      "supporting_locators": [
+        "S002:C01",
+        "S004:C03",
+        "S007:C01",
+        "S007:C02",
+        "S007:C03"
+      ],
+      "counterexample_or_boundary": "A keyword, mechanistic explanation, or detailed CAD workflow is not an evaluated intervention.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9087454-03",
+      "capability": "Audit review-corpus construction for internally inconsistent eligibility and resist converting low-level heterogeneous series into comparative certainty.",
+      "manuscript_use": "Evidence-quality audit and literature synthesis.",
+      "applicable_domains": [
+        "all_domains"
+      ],
+      "applicable_study_designs": [
+        "review"
+      ],
+      "supporting_locators": [
+        "S002:C02",
+        "S002:C03",
+        "S002:C04",
+        "S002:C05"
+      ],
+      "counterexample_or_boundary": "A numbered flow and study table do not compensate for contradictory rules or absent bias assessment.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate",
+    "methods_transparency": "low",
+    "validation_credibility": "low_for_comparative_claims",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "low",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "Contradictory selection rules and no bias assessment.",
+      "Predominantly retrospective heterogeneous series.",
+      "3D-print/digital claims are entirely prospective."
+    ],
+    "overall_credibility": "moderate_as_clinical_taxonomy_low_for_effect_estimation_or_digital_translation"
+  },
+  "summary_zh": "这篇文章最有用的不是其‘金标准’判断，而是复杂重建论文的结局框架：骨愈合、感染清除、肢体长度/功能、外固定时间、并发症、心理负担、再手术和截肢必须分列。文中甚至出现愈合同时感染复发率很高的例子，说明一个成功率不能代表整体成功。检索虽有流程图和22篇表格，但纳入与排除条件对综述相互矛盾、没有偏倚评价，主要证据也是回顾性病例系列。3D打印只在展望中出现，必须标为未来假设，不能被关键词或自动分类升级成已验证技术。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section.",
+    "The additive-manufacturing, porous-scaffold, and animal cues are false for the review itself.",
+    "This paper is useful for decision taxonomy but unsuitable as a high-certainty effectiveness source."
+  ],
+  "selection": {
+    "selection_reason": "balanced_stratum",
+    "primary_stratum": "bone_regeneration_biomaterials",
+    "stratum_rank": 4,
+    "reading_order": 19
+  },
+  "source": {
+    "record_path": "records/PMC9087454.json.gz",
+    "source_record": "records/PMC9087454.json.gz",
+    "source_record_sha256": "14da291f8d6188d5c5c26c9e94d2ee81129ecec2b4609768e6a2a789956e8e74",
+    "source_hash": "14da291f8d6188d5c5c26c9e94d2ee81129ecec2b4609768e6a2a789956e8e74"
+  }
+}

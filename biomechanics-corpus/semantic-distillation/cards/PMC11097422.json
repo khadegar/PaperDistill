@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11097422",
+  "paper_id": "doi:10.1186/s12893-024-02451-x",
+  "pmcid": "PMC11097422",
+  "source_record_sha256": "e9e3ac641e5f0f58c09a3b556f821fd65cc39edbffe02d5c96a4f2ba361bc232",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7d1ef68cfbc2d784fdb4d0243a64171a8a725d292cfcff2e3aea81a295f7f0a2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surgical treatment outcomes of acetabular posterior wall and posterior column fractures using 3D printing technology and individualized custom-made metal plates: a retrospective study",
+    "authors": "Zhang H, Guo HP, Xu RD, Duan SY, Liang HR, Cai ZC.",
+    "year": 2024,
+    "journal": "BMC Surgery",
+    "doi": "10.1186/s12893-024-02451-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

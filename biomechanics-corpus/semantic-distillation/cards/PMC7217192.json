@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7217192",
+  "paper_id": "doi:10.1002/jbm.b.34556",
+  "pmcid": "PMC7217192",
+  "source_record_sha256": "9d3cb0d479d1984963eacf144e1a5ceb76eb5f04fe163becdc362d3eb54644b3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b3a8b8a3727ce96d483b4ad79202e011753c80760835b9afcd071dd4cf320e15",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous titanium fiber mesh with tailored elasticity and its effect on stromal cells",
+    "authors": "Aerts E, Li J, Van Steenbergen MJ, Degrande T, Jansen JA, Walboomers XF.",
+    "year": 2020,
+    "journal": "Journal of Biomedical Materials Research. Part B, Applied Biomaterials",
+    "doi": "10.1002/jbm.b.34556",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

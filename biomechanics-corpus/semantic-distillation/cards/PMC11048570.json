@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11048570",
+  "paper_id": "doi:10.3390/bioengineering11040320",
+  "pmcid": "PMC11048570",
+  "source_record_sha256": "405f4d19ddfeabcc550f0d771875ac9770c85a946f2e3a41eae0e818d1258b26",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5774fa3d386cdbc45168bda0c42889f5d6272cfa631f9fe44c5ef5c5da33171a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Nonthermal Atmospheric Pressure Plasma Treatment of Endosteal Implants for Osseointegration and Antimicrobial Efficacy: A Comprehensive Review",
+    "authors": "Schafer S, Swain T, Parra M, Slavin BV, Mirsky NA, Nayak VV, Witek L, Coelho PG.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11040320",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

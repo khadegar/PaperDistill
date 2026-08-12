@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10729383",
+  "paper_id": "doi:10.1186/s40001-023-01580-y",
+  "pmcid": "PMC10729383",
+  "source_record_sha256": "817aa78389b2153e64ba19fee97d3e4bdcf216a19049132e5af61921f53129f3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cc954e34fe427e12bd834618b04c5cb1aec8055cef6913ccaee4d8017e42c53c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of frontal trauma on the edentulous mandible with four different interforaminal implant-prosthodontic anchoring configurations. A 3D finite element analysis",
+    "authors": "Krennmair S, Malek M, Stehrer R, Stähler P, Otto S, Postl L.",
+    "year": 2023,
+    "journal": "European Journal of Medical Research",
+    "doi": "10.1186/s40001-023-01580-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

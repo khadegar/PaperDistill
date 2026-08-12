@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10758461",
+  "paper_id": "doi:10.3389/fendo.2023.1308604",
+  "pmcid": "PMC10758461",
+  "source_record_sha256": "39d825ffb5bdde6b3702e9c820ff0588ff1f71ab23b7a1a2eb64f821fe9dc8a8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d040be2258edd0a4a39119ce6b8e294fc8a718589e7185ab106eac850c918bc8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Engineering three-dimensional bone macro-tissues by guided fusion of cell spheroids",
+    "authors": "Prabhakaran V, Melchels FPW, Murray LM, Paxton JZ.",
+    "year": 2023,
+    "journal": "Frontiers in Endocrinology",
+    "doi": "10.3389/fendo.2023.1308604",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

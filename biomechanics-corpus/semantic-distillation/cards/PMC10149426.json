@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10149426",
+  "paper_id": "doi:10.1186/s41747-023-00335-y",
+  "pmcid": "PMC10149426",
+  "source_record_sha256": "02c0b6047ce43d6b53d3da1662f7c366366814ce3303d9a6203063b85cec6862",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b4a02afcf28a70e89ab8df5078cd52734aa5604bf2d8461cb9334b05f51c963c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Improved visualization of the bone-implant interface and osseointegration in ex vivo acetabular cup implants using photon-counting detector CT",
+    "authors": "Woisetschläger M, Booij R, Tesselaar E, Oei EHG, Schilcher J.",
+    "year": 2023,
+    "journal": "European Radiology Experimental",
+    "doi": "10.1186/s41747-023-00335-y",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

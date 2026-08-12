@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10236481",
+  "paper_id": "doi:10.18063/ijb.697",
+  "pmcid": "PMC10236481",
+  "source_record_sha256": "23398832b4ba868aeb80c7f8f3d62f95261b3205a722b54320fb82f8b2b1a20b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "74eef606ca411b9d07499353b2e5724993ebfed93bcc8b60a5f2ba838f6f209b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of an osteoporotic anatomical 3D printed posterior lumbar interbody fusion cage with internal lattice design based on weighted topology optimization",
+    "authors": "Huang SF, Chang CM, Liao CY, Chan YT, Li ZY, Lin CL.",
+    "year": 2023,
+    "journal": "International Journal of Bioprinting",
+    "doi": "10.18063/ijb.697",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

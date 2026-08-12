@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8526903",
+  "paper_id": "doi:10.1016/j.jot.2021.09.001",
+  "pmcid": "PMC8526903",
+  "source_record_sha256": "73eae033be6f05e22aaaf7ed6a06c95c8f48b8da1124fd729449fcdf3541a728",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "14438694665ca7b7f10b35b6f37091d15112e5a545a1af359f250ea81b185eae",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bilayered scaffold with 3D printed stiff subchondral bony compartment to provide constant mechanical support for long-term cartilage regeneration",
+    "authors": "Yang T, Tamaddon M, Jiang L, Wang J, Liu Z, Liu Z, Meng H, Hu Y, Gao J, Yang X, Zhao Y, Wang Y, Wang A, Wu Q, Liu C, Peng J, Sun X, Xue Q.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2021.09.001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

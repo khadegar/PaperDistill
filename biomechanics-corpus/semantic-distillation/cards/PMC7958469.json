@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7958469",
+  "paper_id": "doi:10.1186/s13018-021-02334-4",
+  "pmcid": "PMC7958469",
+  "source_record_sha256": "8b8cb1bb0b034346e78589a1dd7d22be2fa815ef60d8610314199734f69de19c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c37e1d0b4e28228d274e6ffc348a982b8aabe12062e3c19574f6e3ee4da98f87",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of different locking plate fixation methods for the treatment of ulnar head fracture",
+    "authors": "Zhang Y, Shao Q, Yang C, Ai C, Zhou D, Yu Y, Sun G.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-021-02334-4",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

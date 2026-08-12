@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7487482",
+  "paper_id": "doi:10.1186/s13018-020-01913-1",
+  "pmcid": "PMC7487482",
+  "source_record_sha256": "8170fedc6e01526ab6fa6ca032eecca85a9f775a3cf3ada410824635fb71e186",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7059a1d182590a41ebbd4f4de163093b158477dd0ce2af314e2f626525acf350",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A new 3D printing porous trabecular titanium metal acetabular cup for primary total hip arthroplasty: a minimum 2-year follow-up of 92 consecutive patients",
+    "authors": "Geng X, Li Y, Li F, Wang X, Zhang K, Liu Z, Tian H.",
+    "year": 2020,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-020-01913-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

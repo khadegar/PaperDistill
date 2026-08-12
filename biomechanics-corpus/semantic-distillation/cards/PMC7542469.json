@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7542469",
+  "paper_id": "doi:10.1186/s13287-020-01954-7",
+  "pmcid": "PMC7542469",
+  "source_record_sha256": "a5b3126f4c838dab66294905f60aebbd0d5494b4ccaed6dd619ebf70daa02334",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7e17c65c9059021635d54ab84d5554af46ddf578656e350a31803e54767d4e89",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of electromagnetic fields treatment on rat critical-sized calvarial defects with a 3D-printed composite scaffold",
+    "authors": "Tu C, Chen J, Huang C, Xiao Y, Tang X, Li H, Ma Y, Yan J, Li W, Wu H, Liu C.",
+    "year": 2020,
+    "journal": "Stem Cell Research & Therapy",
+    "doi": "10.1186/s13287-020-01954-7",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

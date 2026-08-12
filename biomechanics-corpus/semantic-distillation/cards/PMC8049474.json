@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8049474",
+  "paper_id": "doi:10.1371/journal.pone.0250270",
+  "pmcid": "PMC8049474",
+  "source_record_sha256": "19c849d0f8c7f8f561dde9f20e38231b1014448c13865fc27d52288aa5a3d086",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fca21b014eb20e7fa0c710099e8253d524cc179568e05f24829993427ea18c58",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of biomechanical performance of single-level triangular and quadrilateral profile anterior cervical plates",
+    "authors": "Cao F, Fu R, Wang W.",
+    "year": 2021,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0250270",
+    "publication_type": "Comparative Study; Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4569979",
+  "paper_id": "doi:10.4103/1305-7456.163235",
+  "pmcid": "PMC4569979",
+  "source_record_sha256": "eeeda1d514726d329dad66e9e06b727385ba48152c5118f2c5b943d16f7bfd97",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b32fccdcc40a0e25b65d429dcabef92b32b87eb8db2f7b90c9a21d1f4085b855",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of implant angulation and splinting on stress distribution in implant body and supporting bone: A finite element analysis",
+    "authors": "Behnaz E, Ramin M, Abbasi S, Pouya MA, Mahmood F.",
+    "year": 2015,
+    "journal": "European Journal of Dentistry",
+    "doi": "10.4103/1305-7456.163235",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

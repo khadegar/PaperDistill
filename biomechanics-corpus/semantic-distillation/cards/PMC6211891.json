@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6211891",
+  "paper_id": "doi:10.1097/md.0000000000012726",
+  "pmcid": "PMC6211891",
+  "source_record_sha256": "2b60eca5cdcead233bf306e653f8537b043ff61c7eab359b3ff7a53d0683a1e8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bb0016514b4a7b59b61b049702d6d4d47b455795ddb0616fedd7ace02e104afa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Individualized reconstruction for severe periprosthetic fractures around the tumor prosthesis of knee under assistance of 3D printing technology",
+    "authors": "Han Q, Zhao X, Wang C, Chen B, Wang X, Zhang Z, Zhang K, Zheng Y, Wang J.",
+    "year": 2018,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000012726",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9082573",
+  "paper_id": "doi:10.1039/c8ra04815k",
+  "pmcid": "PMC9082573",
+  "source_record_sha256": "8627148a5bdc11088ccc9e2fd00d004dd42290977d5950c9083d816c6f77e37d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3899d854950c9859e12cb525b4e7790b98bf16223864e855e0741abf1443935a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive manufacturing technique-designed metallic porous implants for clinical application in orthopedics",
+    "authors": "Gao C, Wang C, Jin H, Wang Z, Li Z, Shi C, Leng Y, Yang F, Liu H, Wang J.",
+    "year": 2018,
+    "journal": "RSC Advances",
+    "doi": "10.1039/c8ra04815k",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

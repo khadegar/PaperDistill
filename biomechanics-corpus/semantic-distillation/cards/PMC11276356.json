@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11276356",
+  "paper_id": "doi:10.3390/dj12070200",
+  "pmcid": "PMC11276356",
+  "source_record_sha256": "97bcd1122449ea88d759693c11ee337d711b924a3479bdab0fdd24e972c6b6f9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "04af6edbc33cb454de2218e6e13b3e7c700a3c82390407577ce9eae5fcd34ea0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical Factors on Dental Implant Fractures: A Systematic Review",
+    "authors": "Manfredini M, Poli PP, Giboli L, Beretta M, Maiorana C, Pellegrini M.",
+    "year": 2024,
+    "journal": "Dentistry Journal",
+    "doi": "10.3390/dj12070200",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11267061",
+  "paper_id": "doi:10.1016/j.mbplus.2024.100155",
+  "pmcid": "PMC11267061",
+  "source_record_sha256": "988b34a2a6fecb7c156831663f2e6017a183b4cd709e7606920c7e35b2c20f5b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4356a0a9bfd5e96125b4481e10c7cd0b5ac8e99cbcdc07654a6ab16f954e9842",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tissue material properties, whole-bone morphology and mechanical behavior in the Fbn1 C1041G/+ mouse model of Marfan syndrome",
+    "authors": "Zimmermann EA, DeVet T, Cilla M, Albiol L, Kavaseri K, Andrea C, Julien C, Tiedemann K, Panahifar A, Alidokht SA, Chromik R, Komarova SV, Reinhardt DP, Zaslansky P, Willie BM.",
+    "year": 2024,
+    "journal": "Matrix Biology Plus",
+    "doi": "10.1016/j.mbplus.2024.100155",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

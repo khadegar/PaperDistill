@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13215853",
+  "paper_id": "doi:10.3389/fphys.2026.1820186",
+  "pmcid": "PMC13215853",
+  "source_record_sha256": "91a526a95605243d290f4121b05a297bb5d91e6040885da6d9578d3d02b1dc6d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bcf106bf245be4eb5a33f78608a920ece871156276721de657c3a9656f046ca3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Morphological characteristics of lumbar vertebral bodies and regional distribution patterns of bone mineral density: a CT study",
+    "authors": "Li X, Lv F, Tang X, Jia P, Gao Y.",
+    "year": 2026,
+    "journal": "Frontiers in Physiology",
+    "doi": "10.3389/fphys.2026.1820186",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

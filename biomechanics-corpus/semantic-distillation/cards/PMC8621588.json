@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8621588",
+  "paper_id": "doi:10.3390/ma14226821",
+  "pmcid": "PMC8621588",
+  "source_record_sha256": "c368b9342c4be48d4342382b8107c8126592fdbc1496c0045f5a452a0840c8a7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2fae2a8433f78f0ecf69ec798fe2b5ecedd7401e22ec2a1ad8db5a04b07dcd13",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Auxetic Structures for Tissue Engineering Scaffolds and Biomedical Devices",
+    "authors": "Kim Y, Son KH, Lee JW.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14226821",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

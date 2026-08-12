@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12862519",
+  "paper_id": "doi:10.1002/jor.70081",
+  "pmcid": "PMC12862519",
+  "source_record_sha256": "5dc861f4527482b2d413e43b5a2db8fff1998ec57e57dee892338336f0a0c83c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5d6bd85c62f6039304179c58b0bd6de0305b26f380d7ad01f610ea7bdabd4e7e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Importance of Modeling Press‐Fit to Accurately Evaluate Interfacial Micromotion as an Indicator of Primary Stability in Uncemented Arthroplasty",
+    "authors": "Johnson JE, Verdonschot N, Janssen D, Anderson DD.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Research",
+    "doi": "10.1002/jor.70081",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

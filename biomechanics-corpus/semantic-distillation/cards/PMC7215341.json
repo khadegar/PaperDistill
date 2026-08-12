@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7215341",
+  "paper_id": "doi:10.3390/ma13081836",
+  "pmcid": "PMC7215341",
+  "source_record_sha256": "9b068e777a436209b8f5fc80f5454098c84c02ddf67e17cf9c3109a3a5c7da11",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "61dc2805326fb5edd5a26e805242a0a803afa48b25756d019e255c2d0f6e86db",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printing of Hierarchically Designed and Osteoconductive Bone Tissue Engineering Scaffolds",
+    "authors": "Söhling N, Neijhoft J, Nienhaus V, Acker V, Harbig J, Menz F, Ochs J, Verboket RD, Ritz U, Blaeser A, Dörsam E, Frank J, Marzi I, Henrich D.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13081836",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

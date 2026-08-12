@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8983879",
+  "paper_id": "doi:10.3389/fsurg.2022.848620",
+  "pmcid": "PMC8983879",
+  "source_record_sha256": "5be32e3aa41f4ed6f6d3458ed47584a3249d9977bc997cea00362d16c61b9e17",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "11d253355701c3b278bca7a8d5eb8963e9e2a695735af08fe871016d31087e49",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Multicentric European Clinical Study on Custom-Made Porous Hydroxyapatite Cranioplasty in a Pediatric Population",
+    "authors": "Zaed I, Safa A, Spennato P, Mottolese C, Chibbaro S, Cannizzaro D, Faggin R, Frassanito P, Maduri R, Messerer M, Servadei F.",
+    "year": 2022,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2022.848620",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

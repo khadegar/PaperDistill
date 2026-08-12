@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6424441",
+  "paper_id": "doi:10.1302/0301-620x.100b1.bjj-2017-0362.r1",
+  "pmcid": "PMC6424441",
+  "source_record_sha256": "cd59ebfa0675c6fc8d58247682e945ede752b22464592fbdbd25b36bf8deeb1d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5c548ab56646f8c6c3840d80f00014adee544626bb9b1952948162b4803f7c62",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The patient-specific Triflange acetabular implant for revision total hip arthroplasty in patients with severe acetabular defects",
+    "authors": "Berend ME, Berend KR, Lombardi AV, Cates H, Faris P.",
+    "year": 2018,
+    "journal": "The Bone & Joint Journal",
+    "doi": "10.1302/0301-620x.100b1.bjj-2017-0362.r1",
+    "publication_type": "research-article; Multicenter Study; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

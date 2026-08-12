@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9890554",
+  "paper_id": "doi:10.1039/d2ra07828g",
+  "pmcid": "PMC9890554",
+  "source_record_sha256": "b603fc94f99825499640e43faf730983e75c5f90949994db25c492510bd3a317",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c6a564c83570d6dc2b9a0e621ac7683c40c863885ce81ab037213d2e81d77cfa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Chitosan-vancomycin hydrogel incorporated bone repair scaffold based on staggered orthogonal structure: a viable dually controlled drug delivery system",
+    "authors": "Gao X, Xu Z, Li S, Cheng L, Xu D, Li L, Chen L, Xu Y, Liu Z, Liu Y, Sun J.",
+    "year": 2023,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d2ra07828g",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

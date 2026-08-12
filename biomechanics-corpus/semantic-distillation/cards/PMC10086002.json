@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10086002",
+  "paper_id": "doi:10.1038/s41467-023-37651-1",
+  "pmcid": "PMC10086002",
+  "source_record_sha256": "b42f47f9faa36c29a30d28d5994dab2dcaa3321098aa793d69fb9327e90454fe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ddee2f0735b7bed69145b01a1b62b620628665ffb9af4cb414d2911f590c223f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "KIAA1199 deficiency enhances skeletal stem cell differentiation to osteoblasts and promotes bone regeneration",
+    "authors": "Chen L, Shi K, Ditzel N, Qiu W, Figeac F, Nielsen LHD, Tencerova M, Kowal JM, Ding M, Andreasen CM, Andersen TL, Kassem M.",
+    "year": 2023,
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-023-37651-1",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

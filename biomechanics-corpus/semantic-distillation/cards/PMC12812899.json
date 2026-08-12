@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12812899",
+  "paper_id": "doi:10.3389/fbioe.2025.1626104",
+  "pmcid": "PMC12812899",
+  "source_record_sha256": "87e361ee71f4083bc233b4d2e76ef77de807c3bd1eff6782286b2404e3ae4431",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3cd79a374903415bc4e56ae64995ec1925dd35b3e12a1a43e8504e91088eb338",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Approximate analytical prediction on elastic properties of Diamond structures with varying porosities and orientations",
+    "authors": "Wang H, Lyu Y, Jiang J, Zhao F, Bosiakov S, Zhu H.",
+    "year": 2026,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1626104",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12435865",
+  "paper_id": "doi:10.1590/1413-785220253304e291300",
+  "pmcid": "PMC12435865",
+  "source_record_sha256": "cad80912f6ab4d7d646bc82a76744e617aee4ef7285cb87305b0ee65fad2fc68",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "81a8193bc0440c6b9e4c00c4ef50fa76ac75a62d4c9cd182fd736a9f4ae11edd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "RADIOGRAPHIC AND FUNCTIONAL EVALUATION OF HIGH POROUS METAL OSSEOINTEGRATION IN ACETABULAR REVISIONS WITH PELVIC DISSOCIATION",
+    "authors": "Prado RP, Barbosa L, Silva GR, de Oliveira LA.",
+    "year": 2025,
+    "journal": "Acta Ortopedica Brasileira",
+    "doi": "10.1590/1413-785220253304e291300",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

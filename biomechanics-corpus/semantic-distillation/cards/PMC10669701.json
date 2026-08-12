@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10669701",
+  "paper_id": "doi:10.3390/bioengineering10111250",
+  "pmcid": "PMC10669701",
+  "source_record_sha256": "6f5106760185f52423c3f160e5a4a0358eef1b2eea3edd44f8577ff7c7d64993",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "451fefdc3d5b710cf0896359f6191b83fee94678fd987519348c12de5c90a5cf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimizing Spinal Fusion Cage Design to Improve Bone Substitute Filling on Varying Disc Heights: A 3D Printing Study",
+    "authors": "Shih CM, Lee CH, Chen KH, Pan CC, Yen YC, Wang CH, Su KC.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10111250",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

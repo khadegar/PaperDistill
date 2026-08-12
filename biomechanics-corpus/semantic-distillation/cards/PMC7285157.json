@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7285157",
+  "paper_id": "doi:10.3390/polym12051031",
+  "pmcid": "PMC7285157",
+  "source_record_sha256": "82c8a1901b3d6ae03e13dee6f39fe661b3b48f1a0946e8f359baa6df4a57fa5c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7853440e17ccc2f71e3df4404d95e5b10e97bf8c9c1e27ec08863b2e2371e7ba",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Direct Printing of Silicone Meniscus Implant Using a Novel Heat-Cured Extrusion-Based Printer",
+    "authors": "Luis E, Pan HM, Sing SL, Bajpai R, Song J, Yeong WY.",
+    "year": 2020,
+    "journal": "Polymers",
+    "doi": "10.3390/polym12051031",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

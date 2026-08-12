@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10055514",
+  "paper_id": "doi:10.3390/pharmaceutics15030872",
+  "pmcid": "PMC10055514",
+  "source_record_sha256": "6d3f3e1a29f4c82115c71a6566429463e88ad9a52cdc18d6f1a40b6c1185b6ee",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "332e6d18db0eadf7732b8c6a5113cde0111dc7357b03d7b54d6d232cf3da24d9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Functionalization of 3D-Printed Titanium Scaffolds with Elastin-like Recombinamers to Improve Cell Colonization and Osteoinduction",
+    "authors": "Guillem-Marti J, Vidal E, Girotti A, Heras-Parets A, Torres D, Arias FJ, Ginebra MP, Rodriguez-Cabello JC, Manero JM.",
+    "year": 2023,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics15030872",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

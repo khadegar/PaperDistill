@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8226963",
+  "paper_id": "doi:10.3390/ma14123149",
+  "pmcid": "PMC8226963",
+  "source_record_sha256": "685eb9d5a153da9fe20a226a92b8cb4e144577963e80fd5a67b9148943464739",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b47763e65f4237d50478f20ffbf4d2b8c41bb3601a8476411fe96b16479a9746",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advances in 3D Printing for Tissue Engineering",
+    "authors": "Zaszczyńska A, Moczulska-Heljak M, Gradys A, Sajkiewicz P.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14123149",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

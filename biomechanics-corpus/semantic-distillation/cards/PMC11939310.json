@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11939310",
+  "paper_id": "doi:10.3390/bioengineering12030263",
+  "pmcid": "PMC11939310",
+  "source_record_sha256": "822ee9cb6830323153d69418f1bcea85ef89abef9129e9771d146afbdfa2e190",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3d330772b0bdfd8eb8756b6b3bcb35b4e853651a562645f5cb5956cdd70d53d8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Muscle-Driven Spine Model for Predictive Simulations in the Design of Spinal Implants and Lumbar Orthoses",
+    "authors": "Remus R, Lipphaus A, Ritter M, Neumann M, Bender B.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12030263",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

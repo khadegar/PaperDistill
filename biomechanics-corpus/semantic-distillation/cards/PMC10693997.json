@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10693997",
+  "paper_id": "doi:10.1111/os.13899",
+  "pmcid": "PMC10693997",
+  "source_record_sha256": "8e0a0c3f091687d2b6af9e7df9fc5b1d765b3c4436da16c3acdcf3aaed8ec532",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2b84b2a4aaa365ce6d2b19ccc8fe50b443334f879622e9045313ae444b88b3c6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Novel Technology for 3D‐Printing Artificial Vertebral Bodies for Treating Lumbar Spine Adrenal Pheochromocytoma Metastases: A Case Report and Review of the Literature",
+    "authors": "Zhang Y, Li H, Wang W, Shan L, Hao D.",
+    "year": 2023,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13899",
+    "publication_type": "Review; Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

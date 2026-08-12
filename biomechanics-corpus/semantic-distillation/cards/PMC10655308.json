@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10655308",
+  "paper_id": "doi:10.1186/s12903-023-03559-x",
+  "pmcid": "PMC10655308",
+  "source_record_sha256": "830de11029098712967b87f9898502c0c49e2316d68d310af826aa72353954bd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d27f68b94ccbe3c478b71d79754b212c083085296c00bc0231dde12e904aaa31",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D finite element analysis of stress distribution as a result of oblique and horizontal forces after regenerative endodontic treatment part II: comparison of material thickness",
+    "authors": "Demircan B, Demir P.",
+    "year": 2023,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-023-03559-x",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

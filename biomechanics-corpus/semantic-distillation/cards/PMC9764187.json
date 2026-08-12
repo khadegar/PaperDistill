@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9764187",
+  "paper_id": "doi:10.1016/j.heliyon.2022.e12152",
+  "pmcid": "PMC9764187",
+  "source_record_sha256": "827162f8e34c33ae99aa3e11484073bf971dac0aa7ff29b1240c49e76828a8ef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "434082f51c68c0f8d5372fa18829741db337393454969e02cd47fe8e139571b7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of Chinese customized three-dimensional printed titanium miniplate in the Lefort I osteotomy: A finite element analysis",
+    "authors": "Li J, Xie Q, Liu X, Jiao Z, Yang C.",
+    "year": 2022,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2022.e12152",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

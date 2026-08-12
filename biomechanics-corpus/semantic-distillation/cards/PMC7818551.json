@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7818551",
+  "paper_id": "doi:10.1186/s13036-021-00255-8",
+  "pmcid": "PMC7818551",
+  "source_record_sha256": "05345321babc772e188c040761ebd335472f412d803118178b7ef7c681db0d53",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e638e7a0752112cdf1a0ffbf18286727364d6838dfa32ab95ea3939ead3fd025",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed Ti6Al4V bone scaffolds with different pore structure effects on bone ingrowth",
+    "authors": "Deng F, Liu L, Li Z, Liu J.",
+    "year": 2021,
+    "journal": "Journal of Biological Engineering",
+    "doi": "10.1186/s13036-021-00255-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

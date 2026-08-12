@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4309900",
+  "paper_id": "doi:10.1186/s40902-015-0001-9",
+  "pmcid": "PMC4309900",
+  "source_record_sha256": "7cf2b950db0623fdc43e389d2fb7b7a994a49f443f359fa62fc6837d3a005a97",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d365e88d37cf95b79e2eacef2f6b381fa06261cafc8183933e1044c8807e016f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Selective laser melted titanium implants: a new technique for the reconstruction of extensive zygomatic complex defects",
+    "authors": "Rotaru H, Schumacher R, Kim SG, Dinu C.",
+    "year": 2015,
+    "journal": "Maxillofacial Plastic and Reconstructive Surgery",
+    "doi": "10.1186/s40902-015-0001-9",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

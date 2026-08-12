@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10622292",
+  "paper_id": "doi:10.1111/os.13885",
+  "pmcid": "PMC10622292",
+  "source_record_sha256": "9f5247f3edfe4a8eb8ad8de419e8bf63b6c742a970f73511b883694483a846e2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0ff717f7713858c155ad764639614c654b3f9c24dc94749ff15730c4f903bf75",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stability of Three‐Dimensional Printed Custom‐Made Metaphyseal Cone for Tibial Bone Defects Reconstruction: A Finite Element Analysis and Biomechanical Study",
+    "authors": "Wang X, Li X, Wang C, Geng X, Chen B, Dong Z, Li Y, Zhao M, Li Z, Li F, Wang C, Tian H.",
+    "year": 2023,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13885",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

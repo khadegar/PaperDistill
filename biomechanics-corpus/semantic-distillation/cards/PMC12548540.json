@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12548540",
+  "paper_id": "doi:10.3171/case25164",
+  "pmcid": "PMC12548540",
+  "source_record_sha256": "c6eb018df6d635fad4d3b0bd95899c92ab1f430b6d67f46724f0b074371d451c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b875000ac793c0a8ab7486d6216830c2c5cf4bbdd480bb8b9158a481c2d00765",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Resection and 3D-printed prosthetic reconstruction of a giant aneurysmal bone cyst in the atlas: illustrative case",
+    "authors": "Zheng Y, Fang X, He G, Xue X, Chen X, Mai C, Chen F, Chu W.",
+    "year": 2025,
+    "journal": "Journal of Neurosurgery: Case Lessons",
+    "doi": "10.3171/case25164",
+    "publication_type": "Journal Article; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8203544",
+  "paper_id": "doi:10.1007/s10856-021-06548-0",
+  "pmcid": "PMC8203544",
+  "source_record_sha256": "8932d5d74d06f1f3466cfada3cbbe74ac6f6db6fd012fa21c347243c5764a2f9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "86a5a8ec8fe4e855e9eaf0668de916aaf0b63199c027602ce0e2432b0385f09d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of pore size and porosity on cytocompatibility and osteogenic differentiation of porous titanium",
+    "authors": "Yao YT, Yang Y, Ye Q, Cao SS, Zhang XP, Zhao K, Jian Y.",
+    "year": 2021,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-021-06548-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

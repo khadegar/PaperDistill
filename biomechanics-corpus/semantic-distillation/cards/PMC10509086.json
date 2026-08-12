@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10509086",
+  "paper_id": "doi:10.1186/s40729-023-00500-3",
+  "pmcid": "PMC10509086",
+  "source_record_sha256": "45b7ef24edd1fd7c6b3a21aca00d8725b29604812184bc8e755173d500747d33",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2400b989bb9630a85820c1732a46d21686d1ac517f90f9dcdea137e0af69eff7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of implant location on load distribution of implant-assisted removable partial dentures: a review of in vitro model and finite-element analysis studies",
+    "authors": "Ichikawa H, Yoda N, Ogawa T, Iwamoto M, Kawata T, Egusa H, Sasaki K.",
+    "year": 2023,
+    "journal": "International Journal of Implant Dentistry",
+    "doi": "10.1186/s40729-023-00500-3",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

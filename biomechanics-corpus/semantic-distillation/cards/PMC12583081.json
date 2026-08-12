@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12583081",
+  "paper_id": "doi:10.3389/fbioe.2025.1662741",
+  "pmcid": "PMC12583081",
+  "source_record_sha256": "bc4bd7daeeed76ba420dd277bd5692959c34c7c9db04d61fdc11a955c26a7dec",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0a4b297e141f8a5fa2a32c499eb6c849bca42075c9695c057cc4818a55a34cac",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical and clinical evaluation of 3D-printed integrated tibial prosthesis for reconstructing AORI type Ⅲ tibial plateau defects",
+    "authors": "Wang Y, Zhou X, Guo L.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1662741",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

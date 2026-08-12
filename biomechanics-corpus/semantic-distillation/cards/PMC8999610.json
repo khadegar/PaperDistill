@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8999610",
+  "paper_id": "doi:10.3390/ma15072394",
+  "pmcid": "PMC8999610",
+  "source_record_sha256": "6f2e5fe9153d5766220fc5db791dee82967d798877136056b455c088a1a0e071",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "00d0c15d18d01646d9b5dfae5e7cd6bf71cf5e955597f2f48e29ed99904dbfec",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fiber Thickness and Porosity Control in a Biopolymer Scaffold 3D Printed through a Converted Commercial FDM Device",
+    "authors": "Lovecchio J, Cortesi M, Zani M, Govoni M, Dallari D, Giordano E.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15072394",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

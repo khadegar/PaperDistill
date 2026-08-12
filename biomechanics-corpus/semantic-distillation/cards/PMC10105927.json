@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10105927",
+  "paper_id": "doi:10.1186/s12903-023-02945-9",
+  "pmcid": "PMC10105927",
+  "source_record_sha256": "db1748b3aa107aeeaa736b34daecf98b5a98d0a21e5e547ecf1f01524fe7c809",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fa3589443e1603095f46a9eb5942140335dedd8e43972ffb325d695d81f2d99d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional finite element analysis of stress distribution on short implants with different bone conditions and osseointegration rates",
+    "authors": "Yang Y, Liu Y, Yuan X, Ren M, Chen X, Luo L, Zheng L, Liu Y.",
+    "year": 2023,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-023-02945-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11411058",
+  "paper_id": "doi:10.1038/s41598-024-72457-1",
+  "pmcid": "PMC11411058",
+  "source_record_sha256": "a5ef5febad8a6acd8ccee924ee4bf2bee8b273e4740f4cdc00f326335818b355",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e0a53745176e3bb26eca5558f37ff453deec7f870cf446e1331a70b85c6accd6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed porous titanium rods equipped with vancomycin-loaded hydrogels and polycaprolactone membranes for intelligent antibacterial drug release",
+    "authors": "Ma Z, Zhao Y, Xu Z, Zhang Y, Han Y, Jiang H, Sun P, Feng W.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-72457-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

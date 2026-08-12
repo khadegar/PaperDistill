@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8040235",
+  "paper_id": "doi:10.1186/s13256-021-02741-5",
+  "pmcid": "PMC8040235",
+  "source_record_sha256": "7fe2d69a8905d03d606c9b725b3557f530e96ab6938844b85ee7c9d3ef3a68d4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7e81e3c7333e1b86fe1cc7334cf4b46be1565015c654932af886d64cbe9106d1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The power of three-dimensional printing technology in functional restoration of rare maxillomandibular deformity due to genetic disorder: a case report",
+    "authors": "Oren D, Dror AA, Bramnik T, Sela E, Granot I, Srouji S.",
+    "year": 2021,
+    "journal": "Journal of Medical Case Reports",
+    "doi": "10.1186/s13256-021-02741-5",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

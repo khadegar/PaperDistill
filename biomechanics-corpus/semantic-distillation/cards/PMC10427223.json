@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10427223",
+  "paper_id": "doi:10.1302/2046-3758.128.bjr-2023-0010.r1",
+  "pmcid": "PMC10427223",
+  "source_record_sha256": "08e4f7c1e616a653e4a35c343cdd508cb0cdf8572a385beb54681190fb9eb967",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ca109db4d6ce1968930ffcee994fc14b5ea4448a833fdb03c18cc871ed6849b6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of surface matching mismatch of focal knee articular prosthetic on tibiofemoral contact stress using finite element analysis",
+    "authors": "Lee JA, Koh YG, Kim PS, Park JH, Kang KT.",
+    "year": 2023,
+    "journal": "Bone & Joint Research",
+    "doi": "10.1302/2046-3758.128.bjr-2023-0010.r1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

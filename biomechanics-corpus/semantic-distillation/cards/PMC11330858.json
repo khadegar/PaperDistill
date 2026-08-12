@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11330858",
+  "paper_id": "doi:10.2147/ijn.s467886",
+  "pmcid": "PMC11330858",
+  "source_record_sha256": "561aeef16551de558b64d9bc12d39b34310fb5ebe118afed5a5690164775edb0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a26adc56cbeeeef3097569830a6400db11b3e6bd05983a1ce142319fb98cb7ce",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "GO/Cu Nanosheet-Integrated Hydrogel Platform as a Bioactive and Biocompatible Scaffold for Enhanced Calvarial Bone Regeneration",
+    "authors": "Yang Y, Zhou B, Li M, Sun Y, Jiang X, Zhou X, Hu C, Zhang D, Luo H, Tan W, Yang X, Lei S.",
+    "year": 2024,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s467886",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

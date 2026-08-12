@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7307257",
+  "paper_id": "doi:10.1111/os.12685",
+  "pmcid": "PMC7307257",
+  "source_record_sha256": "905a74223bfe800dc5f40001db1bb67612bbe335eb4c70ab5fcebf3d6910d37a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f1e70f57f885ac2470f3b5a13243303bc99f5a67b4649efd3e61d321b543212e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Finite Element Analysis of the Modular Prosthesis with Tooth Mechanism of the Femoral Shaft",
+    "authors": "Zhang JF, Hu YC, Wang BC, Wang L, Wang H, Li Y, Yan M, Liu HT.",
+    "year": 2020,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.12685",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

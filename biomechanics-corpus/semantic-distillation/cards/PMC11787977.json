@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11787977",
+  "paper_id": "doi:10.1111/os.14337",
+  "pmcid": "PMC11787977",
+  "source_record_sha256": "b8297b89abdc2a42a526b4b250304335f43b13174247cbd235d7b2dc0366e882",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e64dd46094cdc5e862d37c19c40b7ef5006918028c8a019914db240f8f998a98",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis and Solution Suggestions of Screw Replacement Scenarios in Femoral Neck Fracture Surgeries: Finite Element Method",
+    "authors": "Güvercin Y, Yaylacı M, Dizdar A, Özdemir ME, Ay S, Yaylacı EU, Karahasanoğlu U, Uygun H, Peker G.",
+    "year": 2025,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.14337",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

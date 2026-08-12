@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12219387",
+  "paper_id": "doi:10.1016/j.jbo.2025.100698",
+  "pmcid": "PMC12219387",
+  "source_record_sha256": "c3c14e27a9f40ec73785b7e1486be48451ad686c67d0e94c79947b0dfb1aef36",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7cc9394bb9bcbe2fdae18836bae4452b041ea344e8847b89edb54494d84d8531",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Exploring bone-tumor interactions through 3D in vitro models: Implications for primary and metastatic cancers",
+    "authors": "Cristini N, Tavakoli M, Sanati M, Yavari SA.",
+    "year": 2025,
+    "journal": "Journal of Bone Oncology",
+    "doi": "10.1016/j.jbo.2025.100698",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

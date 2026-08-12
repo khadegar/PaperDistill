@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13077288",
+  "paper_id": "doi:10.1002/jsp2.70176",
+  "pmcid": "PMC13077288",
+  "source_record_sha256": "b21d1486d24f028a586df8900c5aa7d604a643f016d87e0efeca0dc0573daa3e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1506b8b952f484ee6cfc5155dd65c5dddb4e675d7716405ba3070dfc0da0340d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "From Concept to Clinic: Pre‐Clinical Testing and Regulatory Considerations in Spine Implant Development",
+    "authors": "Benady A, Varghese JT, Quarrington RD, Khashan M, Prusty BG, Diwan A.",
+    "year": 2026,
+    "journal": "JOR Spine",
+    "doi": "10.1002/jsp2.70176",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

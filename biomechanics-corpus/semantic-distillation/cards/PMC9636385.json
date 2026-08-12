@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9636385",
+  "paper_id": "doi:10.1038/s41598-022-22502-8",
+  "pmcid": "PMC9636385",
+  "source_record_sha256": "d60ff3e50d834c4090a5680d05050c0917e3c951183fb6529b99d58f6c6d0f50",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3b51cb07f7dc72ecec3d8d40974c76b3e06f34ead97f22b22b6ae809174893bc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "iPSC-neural crest derived cells embedded in 3D printable bio-ink promote cranial bone defect repair",
+    "authors": "Glaeser JD, Bao X, Kaneda G, Avalos P, Behrens P, Salehi K, Da X, Chen A, Castaneda C, Nakielski P, Jiang W, Tawackoli W, Sheyn D.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-22502-8",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

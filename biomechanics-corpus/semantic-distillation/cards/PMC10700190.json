@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10700190",
+  "paper_id": "doi:10.1002/advs.202304190",
+  "pmcid": "PMC10700190",
+  "source_record_sha256": "c006507d8fd6d5cd72f52626e427b7f5bc3b18c7fee844560163cb03ab7c3a48",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ab41adc2c6ced9ae8a42260242d644003ea0aa8fb8479beb91b3ed0b765a32da",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Pearl Powder Hybrid Bioactive Scaffolds from Microfluidic 3D Printing for Bone Regeneration",
+    "authors": "Yang L, Fan L, Lin X, Yu Y, Zhao Y.",
+    "year": 2023,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202304190",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

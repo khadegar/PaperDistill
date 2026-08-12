@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7957660",
+  "paper_id": "doi:10.3390/ma14051152",
+  "pmcid": "PMC7957660",
+  "source_record_sha256": "3cd1061c1dd81f20ecd9c5bacdd616c42cdb6f4aec4c8e38a638f65cb82b2760",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3e5493b7a82b15453fff3ba856b1460cfa600ff6df131932e0ca92fdda302bce",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of Tooth- and Bone-Borne Appliances on the Stress Distributions and Displacement Patterns in the Facial Skeleton in Surgically Assisted Rapid Maxillary Expansion—A Finite Element Analysis (FEA) Study",
+    "authors": "Nowak R, Olejnik A, Gerber H, Frątczak R, Zawiślak E.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14051152",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

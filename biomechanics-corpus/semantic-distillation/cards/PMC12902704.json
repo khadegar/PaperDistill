@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12902704",
+  "paper_id": "doi:10.7759/cureus.101497",
+  "pmcid": "PMC12902704",
+  "source_record_sha256": "adf8a14bfb7946be30826f2426e8f10c486d7fe425d840e290956cf44534a4d6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ec81a162384e16be83e36efc2c06ca6f95b550afeb33af7f3c394a3fb4cb4008",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tantalum Dental Implants: A New Frontier in Biocompatibility and Bone Integration",
+    "authors": "Sharma A, Kumar V, Vardhan G.",
+    "year": 2026,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.101497",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

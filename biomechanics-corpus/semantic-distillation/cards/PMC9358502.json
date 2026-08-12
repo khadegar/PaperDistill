@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9358502",
+  "paper_id": "doi:10.21037/atm-22-2796",
+  "pmcid": "PMC9358502",
+  "source_record_sha256": "509fb9558d7759f78104eda5ab30817d52b464ec2b37279d8e62a6214328b30e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "945f4cee41ccc096607fd4b8c414aac6bdec15825b165210f77d158b1097a164",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of electrohydrodynamic printing scaffold with different spacing on chondrocyte dedifferentiation",
+    "authors": "Liu X, Zhang Z, Shi Y, Meng X, Qiu Z, Qu X, Dang J, Zhang Y, Sun L, Wang L, Zhu D, Mi Z, He J, Fan H.",
+    "year": 2022,
+    "journal": "Annals of Translational Medicine",
+    "doi": "10.21037/atm-22-2796",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

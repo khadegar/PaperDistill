@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8226109",
+  "paper_id": "doi:10.1093/rb/rbab028",
+  "pmcid": "PMC8226109",
+  "source_record_sha256": "4b9f423655d65f0eb45935abcc0c55706639367cf8c850d278bacda54caab247",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "595c997fb403f07fd9a21407dc81766b8eb6d1034aba9faf394c14c2507b748a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of different aperture-sized type I collagen/silk fibroin scaffolds on the proliferation and differentiation of human dental pulp cells",
+    "authors": "Jiang S, Yu Z, Zhang L, Wang G, Dai X, Lian X, Yan Y, Zhang L, Wang Y, Li R, Zou H.",
+    "year": 2021,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbab028",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

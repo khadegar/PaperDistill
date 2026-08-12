@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9774095",
+  "paper_id": "doi:10.3390/bioengineering9120780",
+  "pmcid": "PMC9774095",
+  "source_record_sha256": "169d81635382eb88e66ec95af179d596b8792ac312cd8f9eb1400fe6dd93400a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c747d4c6d57d1e79cc86d68827927f54deeea226cedada5c93ad562d2393a51a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "About 3D Printability of Thermoplastic Collagen for Biomedical Applications",
+    "authors": "Passos M, Zankovic S, Minas G, Klüver E, Baltzer M, Schmal H, Seidenstuecker M.",
+    "year": 2022,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering9120780",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

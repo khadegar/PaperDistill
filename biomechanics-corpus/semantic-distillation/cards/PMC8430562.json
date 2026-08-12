@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8430562",
+  "paper_id": "doi:10.3390/ijms22179361",
+  "pmcid": "PMC8430562",
+  "source_record_sha256": "04800ade3c0a5f26c8cce92e13aef253c877045a8b50fea14041e2e5cbd720c3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9f6a8c1bc4ada2d04f486dace694ce7fa02616f6c4014616f7d7912e6d97c1a6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Early Bone Healing on Hydroxyapatite-Coated and Chemically-Modified Hydrophilic Implant Surfaces in an Ovine Model",
+    "authors": "Ajami E, Fu C, Wen HB, Bassett J, Park SJ, Pollard M.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms22179361",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11426735",
+  "paper_id": "doi:10.4103/jpbs.jpbs_381_24",
+  "pmcid": "PMC11426735",
+  "source_record_sha256": "5b05566b51de5024da233efa5aa44ed7a075b34786c24b4f6551a45a8fbb1ab8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bf7b9f3638140f641a5ea2fc08b15cbfd8f0e9eeae18df6fc47152b3c56b1174",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of Different Implant Systems by Stress and Resistance of Prosthetic Screws: An Original Research",
+    "authors": "Sadan PP.",
+    "year": 2024,
+    "journal": "Journal of Pharmacy & Bioallied Sciences",
+    "doi": "10.4103/jpbs.jpbs_381_24",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

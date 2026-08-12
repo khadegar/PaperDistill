@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10236336",
+  "paper_id": "doi:10.18063/ijb.686",
+  "pmcid": "PMC10236336",
+  "source_record_sha256": "db8e49d18a3a8c260f0a4eef933102a3da4d2e7177f7654008ce9e10d2d4f8cd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "05d0a2651e546925829a3d9cbe62f013e11a33a19b352fe9cf9c5eb46a68d757",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The biological properties of 3D-printed degradable magnesium alloy WE43 porous scaffolds via the oxidative heat strategy",
+    "authors": "Min S, Wang C, Liu B, Liu J, Liu Y, Jing Z, Cheng Y, Wen P, Wang X, Zheng Y, Tian Y.",
+    "year": 2023,
+    "journal": "International Journal of Bioprinting",
+    "doi": "10.18063/ijb.686",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

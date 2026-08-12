@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8038447",
+  "paper_id": "doi:10.3390/polym13071154",
+  "pmcid": "PMC8038447",
+  "source_record_sha256": "8803201c21b2733ed298e8fdda809ecc662557fed47ace4e7cba2fdfb6982c27",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "19ec9bb2f46819294cf56c89b8805235260a128a20ad8137ab70d1d6fbdd1c61",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Assessment of a PCL-3D Printing-Dental Pulp Stem Cells Triplet for Bone Engineering: An In Vitro Study",
+    "authors": "Rosales-Ibáñez R, Cubo-Mateo N, Rodríguez-Navarrete A, González-González AM, Villamar-Duque TE, Flores-Sánchez LO, Rodríguez-Lorenzo LM.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13071154",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

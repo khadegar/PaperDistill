@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9333462",
+  "paper_id": "doi:10.1097/md.0000000000029319",
+  "pmcid": "PMC9333462",
+  "source_record_sha256": "a1e80961f16d2425974a4ab72bf4ed39ebb7aed223dc3103d0df1448dbb5b71a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e97e82c63077c7a4f87db14d71054516108c8191ca7fdf58c192a9aedd8ad72b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Numerical simulation and biomechanical analysis of locking screw caps on clavicle locking plates",
+    "authors": "Kim DG, Min Kim S, Kim Y.",
+    "year": 2022,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000029319",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

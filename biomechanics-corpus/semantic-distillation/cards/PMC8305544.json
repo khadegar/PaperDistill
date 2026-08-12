@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8305544",
+  "paper_id": "doi:10.3390/ma14143947",
+  "pmcid": "PMC8305544",
+  "source_record_sha256": "9e92fb0462db4de0701b586ba39dbd04a64f50dbd70f24611ec6a3fea85ded4f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a84cc0bdc4b22d2591cdb7f7d82d68a94d24be7133ad44270dd00b5c5513ed79",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Improved Biological Responses of Titanium Coating Using Laser-Aided Direct Metal Fabrication on SUS316L Stainless Steel",
+    "authors": "Kim TI, Lee SW, Jo WL, Kim YS, Kim SC, Kwon SY, Lim YW.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14143947",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

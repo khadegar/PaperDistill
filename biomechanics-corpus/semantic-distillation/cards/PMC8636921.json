@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8636921",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.08.024",
+  "pmcid": "PMC8636921",
+  "source_record_sha256": "d9faf339f0049f06cb25759f52e3a3248749a9f3164e40c1c53d36424c9614d8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "65a3c967cdefbcd74eb810fa813d1894a39b045e39ffd6310d640565382594f9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A hierarchical bilayer architecture for complex tissue regeneration",
+    "authors": "Yu M, Luo D, Qiao J, Guo J, He D, Jin S, Tang L, Wang Y, Shi X, Mao J, Cui S, Fu Y, Li Z, Liu D, Zhang T, Zhang C, Li Z, Zhou Y, Liu Y.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.08.024",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

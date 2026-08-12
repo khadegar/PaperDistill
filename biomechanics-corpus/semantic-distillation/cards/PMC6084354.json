@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6084354",
+  "paper_id": "doi:10.1111/clr.13074",
+  "pmcid": "PMC6084354",
+  "source_record_sha256": "56c26c07dacf1e1df11dbcd6540c3acf500b75192f8c184ff5e08af235e5f1d9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "084852957e52a822ab989729f471fb335eea58826dd1083aa7e8ce0d9e681542",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "New bone formation and trabecular bone microarchitecture of highly porous tantalum compared to titanium implant threads: A pilot canine study",
+    "authors": "Lee JW, Wen HB, Gubbi P, Romanos GE.",
+    "year": 2017,
+    "journal": "Clinical Oral Implants Research",
+    "doi": "10.1111/clr.13074",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

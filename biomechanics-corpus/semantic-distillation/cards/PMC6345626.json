@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6345626",
+  "paper_id": "doi:10.1016/j.biomaterials.2018.11.026",
+  "pmcid": "PMC6345626",
+  "source_record_sha256": "6aaded12b91766c220211e11d5d66be2f71a19fbca977c107bdf37d373294198",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "74426f12a158cae6fc54b0a3751594d78109a4556d75c1f07ce2f8de3d56541d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Individual response variations in scaffold-guided bone regeneration are determined by independent strain- and injury-induced mechanisms",
+    "authors": "Reznikov N, Boughton OR, Ghouse S, Weston AE, Collinson L, Blunn GW, Jeffers JRT, Cobb JP, Stevens MM.",
+    "year": 2019,
+    "journal": "Biomaterials",
+    "doi": "10.1016/j.biomaterials.2018.11.026",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

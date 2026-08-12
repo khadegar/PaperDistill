@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8620820",
+  "paper_id": "doi:10.3390/ijms222212563",
+  "pmcid": "PMC8620820",
+  "source_record_sha256": "90614f7a7c995becc6830a9be373cff841cffd02cdd1d2be192169b81fd5d622",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5f6a22dc9cc0265e4abe4bac45716ec2fa6a2d7f4d539209fd1a341304659821",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Possible Treatment of Myocardial Infarct Based on Tissue Engineering Using a Cellularized Solid Collagen Scaffold Functionalized with Arg-Glyc-Asp (RGD) Peptide",
+    "authors": "Schussler O, Falcoz PE, Chachques JC, Alifano M, Lecarpentier Y.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms222212563",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

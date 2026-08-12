@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9832114",
+  "paper_id": "doi:10.1016/j.bioactmat.2022.07.032",
+  "pmcid": "PMC9832114",
+  "source_record_sha256": "0f5e172f34e3d17afe1983d4839bcc83f43d8c3e3e101527b9ceff5da07897fe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cc0b606a76a149b9ba3844a0389ce1e73406b807fc66be52b88c645a12ef9e44",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dynamic degradation patterns of porous polycaprolactone/β-tricalcium phosphate composites orchestrate macrophage responses and immunoregulatory bone regeneration",
+    "authors": "Wu H, Wei X, Liu Y, Dong H, Tang Z, Wang N, Bao S, Wu Z, Shi L, Zheng X, Li X, Guo Z.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2022.07.032",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

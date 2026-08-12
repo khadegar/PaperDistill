@@ -1,0 +1,321 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10999972",
+  "paper_id": "doi:10.5312/wjo.v15.i3.257",
+  "pmcid": "PMC10999972",
+  "source_record_sha256": "d58962207e485fef303e658dcf68848a2ee0e7bd1c38f5e51ea60928a6d66188",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T10:49:39Z",
+    "packet_sha256": "9f809f0f1d005b9f552405788c8e80c423e67d6cf3fe953be0d154ea5a81175d",
+    "section_locators_read": [
+      "S001:C01",
+      "S001:C02",
+      "S002:C01",
+      "S002:C02",
+      "S003:C01",
+      "S004:C01",
+      "S005:C01",
+      "S006:C01",
+      "S007:C01",
+      "S008:C01",
+      "S009:C01",
+      "S009:C02",
+      "S009:C03",
+      "S010:C01",
+      "S010:C02",
+      "S010:C03",
+      "S010:C04",
+      "S010:C05",
+      "S011:C01",
+      "S012:C01",
+      "S013:C01",
+      "S014:C01",
+      "S015:C01",
+      "S016:C01",
+      "S017:C01",
+      "S018:C01",
+      "S019:C01",
+      "S020:C01",
+      "S021:C01",
+      "S022:C01",
+      "S023:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Mid-term survival of the Optimys short stem: A prospective case series of 500 patients",
+    "authors": "Hamans B, de Waard S, Kaarsemaker S, Janssen ERC, Sierevelt IN, Kerkhoffs GMMJ, Haverkamp D.",
+    "year": 2024,
+    "journal": "World Journal of Orthopedics",
+    "doi": "10.5312/wjo.v15.i3.257",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "prospective_multicenter_single_arm_cohort",
+    "design_features": [
+      "total_hip_arthroplasty",
+      "short_femoral_stem",
+      "device_survival",
+      "patient_reported_outcomes",
+      "registry_revision_ascertainment",
+      "attrition_sensitivity"
+    ],
+    "research_problem": "A newly adopted calcar-guided short femoral stem requires post-market surveillance because its bone-preserving/proximal-loading rationale does not itself establish durable survival or patient benefit.",
+    "exact_gap": "Only limited mid-term Optimys data existed, so a larger multicenter cohort was needed to estimate five-year revision-defined survival and describe early patient-reported recovery.",
+    "objective_or_hypothesis": "Estimate five-year Optimys stem survival and the trajectory of HOOS, SF-36, and satisfaction in a broad elective-THA cohort.",
+    "study_design": "Prospective consecutive two-center single-arm cohort enrolled from 2014-2021, with clinical follow-up, registry/file revision ascertainment, Kaplan-Meier survival, and mixed-model PROM trajectories.",
+    "sample_or_model": "500 adults receiving the same Ti6Al4V plasma-sprayed/calcium-phosphate-coated Optimys stem; mean age 62.3 years, 40% male; ASA greater than 3, sepsis, malignancy, and revision cases excluded.",
+    "comparators": [
+      "No concurrent stem or conventional-THA comparator",
+      "Baseline versus repeated postoperative PROMs",
+      "All-cause revision versus infection-excluded stem revision",
+      "Contextual comparison with published cohorts and NICE ten-year benchmark"
+    ],
+    "method_spine": [
+      "Define the consecutive eligible population and revision endpoint.",
+      "Ascertain revision through files and the national registry.",
+      "Estimate five-year survival with censoring and confidence intervals.",
+      "Model PROM change in years one and two and expose response denominators.",
+      "Contextualize rather than causally compare against external cohorts/benchmarks."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Patient files plus the LROI registry cross-check revision status, although registry reason fields are incomplete (S003:C01; S010:C04)."
+      ],
+      "calibration": [],
+      "validation": [
+        "The cohort provides prospective post-market survival and PROM evidence for the specific stem; it does not validate the design mechanisms of proximal loading, bone preservation, coating ingrowth, or superiority."
+      ],
+      "sensitivity": [
+        "Last-observation-carried-forward sensitivity yielded smaller first-year PROM effects but a similar qualitative trajectory; it does not remove nonresponse bias (S006:C01; S009:C01)."
+      ],
+      "application_prediction": [
+        "Expected compliance with a ten-year NICE revision benchmark and safety for common daily use are projections from five-year uncontrolled data (S010:C01; S014:C01-S017:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "At median 5.5-year follow-up, six revisions and seven deaths in situ yielded 98.8% five-year all-cause revision-free survival (95% CI 97.3-99.5) (S008:C01).",
+      "Three revisions were for infection, two for subsidence attributed to undersizing, and one for malposition; infection-excluded survival was 99.4% (95% CI 98.1-99.8), with no revision labeled aseptic loosening (S008:C01).",
+      "PROM response fell from 471/500 at baseline to 317/500 at one year and 233/500 at two years; all domains improved during year one and showed no significant additional change during year two (S009:C01-S009:C03).",
+      "Only 210/500 supplied two-year satisfaction, among whom 91.4% were satisfied or very satisfied (S009:C03)."
+    ],
+    "highest_evidence_level_reached": "Moderate-size prospective single-arm device-surveillance evidence with few revision events and substantial PROM attrition; no comparative effectiveness or direct osseointegration evidence."
+  },
+  "argument_map": {
+    "central_claim": "The Optimys stem showed high five-year revision-free survival in this selected two-center cohort and large early PROM improvement, but absence of a comparator, few events, incomplete PROM follow-up, and lack of direct mechanical/bone endpoints prevent claims of superiority, mechanism, or established long-term safety.",
+    "data": [
+      "Kaplan-Meier estimate, confidence interval, and reasons for six revisions (S008:C01).",
+      "Repeated HOOS/SF-36 values with explicit declining denominators and mixed-model estimates (S009:C01-S009:C03)."
+    ],
+    "warrant": "A device-survival claim is justified by revision ascertainment and time-to-event analysis; claims about why the device survives or whether it is better require mechanistic or concurrent comparative data.",
+    "backing": [
+      "Results are broadly similar to external short-stem cohorts, but these are contextual rather than exchangeable controls (S010:C02-S010:C04)."
+    ],
+    "qualifier": "Five-year, revision-defined, selected elective population at two Dutch centers.",
+    "rebuttals_or_boundaries": [
+      "No randomized or parallel conventional-stem group.",
+      "Six total events produce wide uncertainty about specific failure modes despite a narrow overall survival interval.",
+      "PROM response is 47% at two years and satisfaction response 42%, permitting informative missingness.",
+      "Revision-free status does not measure radiographic migration, bone remodeling, BIC, interface mechanics, pain-free function, or future wear.",
+      "The five-year curve cannot establish a ten-year benchmark, and exclusions limit high-risk generalizability."
+    ],
+    "argument_coherence": "high_for_descriptive_survival_moderate_for_safety_and_common_use_claims"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Population characteristics, observed revisions/deaths, registry/file follow-up, HOOS, SF-36, and respondent satisfaction (S003:C01-S009:C03)."
+    ],
+    "predicted": [
+      "Ten-year benchmark compliance is informally projected from five-year experience without a formal extrapolation model (S010:C01)."
+    ],
+    "inferred": [
+      "Subsidence is attributed to undersizing with later fixation based on revision observations (S008:C01; S010:C01).",
+      "Safety/viability for common use is inferred from single-arm survival and PROMs (S014:C01; S017:C01).",
+      "Bone-stock preservation and proximal loading are design rationales, not measured cohort outcomes (S002:C01; S012:C01)."
+    ],
+    "recommended": [
+      "Continue ten-year follow-up and add comparative, radiographic/migration, bone-remodeling, and subgroup evidence (S010:C04-S010:C05; S018:C01)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Revision-free survival is a patient-important device endpoint but does not equal radiographic or histological osseointegration.",
+      "No aseptic-loosening revision is not proof that every stem was biologically integrated.",
+      "PROM improvement after THA cannot be attributed specifically to the short-stem design without a comparator.",
+      "Infection-excluded survival answers a device-mechanical question but must not erase infection from all-cause patient risk."
+    ],
+    "overclaim_risks": [
+      "The paper calls the population large and varied despite exclusions of ASA greater than 3, sepsis, malignancy, and revision surgery (S003:C01; S014:C01).",
+      "'Safe and viable for common use' is stronger than a five-year uncontrolled cohort supports (S017:C01).",
+      "Expected NICE compliance at ten years is asserted from five-year results (S010:C01).",
+      "The article is labeled/prepared under CONSORT despite being a nonrandomized cohort (S020:C01)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Make the survival estimand explicit",
+      "execution": "Revision is defined, reasons are retained, deaths are censored, and the Kaplan-Meier confidence interval is specified (S005:C01-S006:C01).",
+      "locator": "S006:C01",
+      "effectiveness": "high",
+      "transferable_principle": "A device-survival paragraph must name the index component, failure event, competing/censoring rules, horizon, denominator, and confidence interval.",
+      "failure_mode": "Changing from all-cause to infection-excluded revision changes the estimand and must remain visibly secondary."
+    },
+    {
+      "section": "results",
+      "move": "Carry response denominators beside every longitudinal outcome",
+      "execution": "The paper states baseline, one-year, two-year, and satisfaction denominators before interpreting PROM change (S009:C01-S009:C03).",
+      "locator": "S009:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For repeated PROMs, report n/N at every time point, model assumptions, effect with interval, and an explicit informative-missingness boundary.",
+      "failure_mode": "A sensitivity analysis based on last observation carried forward does not prove missing-at-random or eliminate attrition bias."
+    },
+    {
+      "section": "discussion",
+      "move": "Use external evidence as context, not a synthetic control",
+      "execution": "Other Optimys, NANOS, Fitmore, and systematic-review survival figures are compared narratively (S010:C02-S010:C04).",
+      "locator": "S010:C04",
+      "effectiveness": "moderate",
+      "transferable_principle": "In a single-arm device cohort, call external benchmarks contextual comparators and list population, component, endpoint, and follow-up incompatibilities before judging similarity.",
+      "failure_mode": "Comparable percentages across nonexchangeable cohorts do not establish noninferiority or superiority."
+    },
+    {
+      "section": "discussion",
+      "move": "Separate device survival, function, and biological mechanism",
+      "execution": "The data report revision and PROMs, while bone preservation, loading, coating ingrowth, and fixation are background rationales (S002:C01; S004:C01; S008:C01-S009:C03).",
+      "locator": "S008:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Keep survival, patient experience, radiographic mechanics, and osseointegration in separate columns; use only verbs supported by the measured column.",
+      "failure_mode": "Do not translate 'no aseptic-loosening revision' into measured bone integration or proximal-load preservation."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Incomplete registry reason for one revision, low PROM response—especially at two years—and need for long-term survival follow-up (S010:C04-S010:C05)."
+    ],
+    "reader_identified": [
+      "No concurrent control, radiographic outcomes, RSA/migration data in this cohort, bone density/remodeling, implant-position analysis, or activity/wear assessment.",
+      "Only six revision events limit failure-mode precision and multivariable risk assessment.",
+      "Approach and likely surgeon/center practice varied but are not modeled.",
+      "No formal sample-size rationale, lost-to-follow-up accounting beyond deaths/revisions, or competing-risk analysis is described.",
+      "LOCF is a weak missing-data sensitivity analysis and satisfaction is reported among only 42%.",
+      "Five-year evidence cannot validate a ten-year benchmark or long-term wear/late loosening."
+    ],
+    "likely_bias_direction": [
+      "Informative PROM nonresponse may overestimate or underestimate recovery; satisfied patients may be more likely to respond to satisfaction surveys.",
+      "Elective low-to-moderate-risk exclusions likely overestimate general-population performance.",
+      "Attribution of all improvement to the stem rather than THA and care pathway likely overstates device-specific benefit."
+    ],
+    "scope_boundary": "The study estimates revision-defined five-year survival and early patient-reported trajectory for one short stem in selected elective patients; it does not establish comparative superiority, biological osseointegration, bone preservation, or ten-year safety."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC10999972-01",
+      "capability": "Write implant survival with a fully specified estimand and keep all-cause, device-specific, infection-excluded, radiographic, and clinical endpoints distinct.",
+      "manuscript_use": "Clinical Methods, Results, abstract, and survival table.",
+      "applicable_domains": [
+        "bone_implant",
+        "clinical_biomechanics"
+      ],
+      "applicable_study_designs": [
+        "cohort",
+        "registry_study",
+        "device_surveillance"
+      ],
+      "supporting_locators": [
+        "S005:C01",
+        "S006:C01",
+        "S008:C01",
+        "S010:C01"
+      ],
+      "counterexample_or_boundary": "A high infection-excluded survival estimate must not replace all-cause patient risk or imply osseointegration.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10999972-02",
+      "capability": "Attach longitudinal PROM conclusions to time-specific response denominators, intervals, missingness assumptions, and sensitivity results.",
+      "manuscript_use": "Clinical Results and limitations.",
+      "applicable_domains": [
+        "clinical_study",
+        "bone_implant"
+      ],
+      "applicable_study_designs": [
+        "cohort",
+        "trial"
+      ],
+      "supporting_locators": [
+        "S006:C01",
+        "S009:C01",
+        "S009:C02",
+        "S009:C03",
+        "S010:C04"
+      ],
+      "counterexample_or_boundary": "A stable mean among remaining respondents does not establish stable recovery in all enrolled patients.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10999972-03",
+      "capability": "Separate measured device survival and patient benefit from unmeasured design rationales such as proximal loading, bone preservation, coating ingrowth, and biological fixation.",
+      "manuscript_use": "Introduction rationale, Discussion, and conclusion audit.",
+      "applicable_domains": [
+        "bone_implant",
+        "biomechanics"
+      ],
+      "applicable_study_designs": [
+        "clinical_cohort"
+      ],
+      "supporting_locators": [
+        "S002:C01",
+        "S004:C01",
+        "S008:C01",
+        "S012:C01",
+        "S017:C01"
+      ],
+      "counterexample_or_boundary": "Revision-free follow-up is compatible with, but does not directly measure, the proposed biomechanical mechanism.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_descriptive_survival",
+    "methods_transparency": "moderate_to_high",
+    "validation_credibility": "moderate",
+    "outcome_uncertainty_reporting": "moderate",
+    "comparator_fairness": "low_no_concurrent_comparator",
+    "conclusion_proportionality": "moderate_in_main_conclusion_low_in_highlighted_common_use_claim",
+    "critical_weaknesses": [
+      "Single arm and only six events.",
+      "PROM response falls to 47% and satisfaction to 42%.",
+      "No direct interface/mechanical/bone-preservation outcomes."
+    ],
+    "overall_credibility": "high_for_five_year_descriptive_revision_survival_moderate_for_prom_trajectory_low_for_device_specific_mechanism_or_comparative_claims"
+  },
+  "summary_zh": "这篇队列最适合提炼的是临床植入器械结局的分层写法：首先明确生存估计的对象、失败事件、删失规则、时间窗和置信区间；其次把全因翻修、排除感染后的柄生存、无菌松动、PROM 和满意度分开。500 例中只有 6 次翻修，五年生存率很高，但没有同期对照；两年 PROM 仅 233 人应答、满意度仅 210 人应答。因而它支持该柄在特定人群中的五年描述性监测，却不直接证明近端负荷、骨量保存、涂层骨长入、骨整合或十年安全性。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section.",
+    "Automated case-report, finite-element, and animal cues are false; this is a prospective clinical cohort.",
+    "The title says case series, while the methods more precisely support prospective multicenter single-arm cohort."
+  ],
+  "selection": {
+    "selection_reason": "balanced_stratum",
+    "primary_stratum": "bone_implants_fixation",
+    "stratum_rank": 5,
+    "reading_order": 15
+  },
+  "source": {
+    "record_path": "records/PMC10999972.json.gz",
+    "source_record": "records/PMC10999972.json.gz",
+    "source_record_sha256": "d58962207e485fef303e658dcf68848a2ee0e7bd1c38f5e51ea60928a6d66188",
+    "source_hash": "d58962207e485fef303e658dcf68848a2ee0e7bd1c38f5e51ea60928a6d66188"
+  }
+}

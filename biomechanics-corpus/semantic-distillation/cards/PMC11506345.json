@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11506345",
+  "paper_id": "doi:10.3390/dj12100303",
+  "pmcid": "PMC11506345",
+  "source_record_sha256": "206c3b76e7becf32a8630aea7a5341d33bebb7aaf90deebedc21eda889279b75",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "73591a1946800c94bc5a9176a4e457fd62c29a708f6bdc849d30b15c8e7beedf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Customized 3D-Printed Mesh, Membrane, Bone Substitute, and Dental Implant Applied to Guided Bone Regeneration in Oral Implantology: A Narrative Review",
+    "authors": "Di Spirito F, Giordano F, Di Palo MP, Ferraro C, Cecere L, Frucci E, Caggiano M, Lo Giudice R.",
+    "year": 2024,
+    "journal": "Dentistry Journal",
+    "doi": "10.3390/dj12100303",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

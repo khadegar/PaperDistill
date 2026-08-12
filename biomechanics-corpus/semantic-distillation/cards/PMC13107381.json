@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13107381",
+  "paper_id": "doi:10.1021/acsami.6c02958",
+  "pmcid": "PMC13107381",
+  "source_record_sha256": "bda734f301c7e9d29416304d4de858d5d2fdb5a9ee20eb7e7d4794798d844cae",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8604b86754c9209861e22f34b0e7755bc9910913c373bd0f45651168d2df8f23",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multifunctional 3D-Printed Titanium Alloy Composite-Coated Scaffold for Modulating the Immune Microenvironment and Promoting Osteogenesis",
+    "authors": "Ni R, Wang M, Chen Z, Wu Z, Jing Z, Li W.",
+    "year": 2026,
+    "journal": "ACS Applied Materials & Interfaces",
+    "doi": "10.1021/acsami.6c02958",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

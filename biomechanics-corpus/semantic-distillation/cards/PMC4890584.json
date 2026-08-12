@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4890584",
+  "paper_id": "doi:10.1038/srep26925",
+  "pmcid": "PMC4890584",
+  "source_record_sha256": "4dc4bf31483b84a29fed6a08777d8ef97d4c17a275a7196ccca20359f7482e20",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b22a22d0c15ef393cfe6027d045ba26ebf352acac3f3cb334b6920b72deb5057",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone scaffolds loaded with siRNA- Semaphorin4d for the treatment of osteoporosis related bone defects",
+    "authors": "Zhang Y, Wei L, Miron RJ, Shi B, Bian Z.",
+    "year": 2016,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep26925",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

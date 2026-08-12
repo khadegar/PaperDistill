@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12398577",
+  "paper_id": "doi:10.1038/s41467-025-63456-5",
+  "pmcid": "PMC12398577",
+  "source_record_sha256": "f3c1da20f0a551bb62cb424555b7ee0378f8dab02f717f7e86ee86279149ad46",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2f991ca81499272c6bbe76c6ee03b94615c4633a84bd3e5ded4f176eff3542dc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Pyroptosis-responsive microspheres modulate the inflammatory microenvironment to retard osteoporosis in female mice",
+    "authors": "Lu S, Cao J, Song Z, Gong F, Yang P, Ge J, He Y, Han Z, Hou G, Zhang Z, Yang Y, Teng Y, Zhang Z, Zou J, Cheng L, Yang H.",
+    "year": 2025,
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-025-63456-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

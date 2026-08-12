@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10607433",
+  "paper_id": "doi:10.3390/jfb14100494",
+  "pmcid": "PMC10607433",
+  "source_record_sha256": "0ccfe5f0824eda301334899e2054e8840f92bf5e493885b69ea36cd2b3e8d841",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f113dbe53f2319f7543594219e29e86d714b923c4a154ba44fb4b541ec184471",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "High-Precision 3D Printing of Microporous Cochlear Implants for Personalized Local Drug Delivery",
+    "authors": "Isaakidou A, Apachitei I, Fratila-Apachitei LE, Zadpoor AA.",
+    "year": 2023,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb14100494",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

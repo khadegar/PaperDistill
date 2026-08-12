@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11631174",
+  "paper_id": "doi:10.1159/000541044",
+  "pmcid": "PMC11631174",
+  "source_record_sha256": "e13ab725bbf4f3ace6e6fc47d0c26706265677f2345505374def8fe5dd7487d0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1aa908929bb90ff57cecf835a6e5fb65c816c509e36e73b866492d50c379c926",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical Characteristics, Current Treatment Options, Potential Mechanisms, Biomarkers, and Therapeutic Targets in Avascular Necrosis of Femoral Head",
+    "authors": "Khanchandani P, Narayanan A, Naik AA, Kannan V, Pradhan SS, Srimadh Bhagavatham SK, Pulukool SK, Sivaramakrishnan V.",
+    "year": 2024,
+    "journal": "Medical Principles and Practice",
+    "doi": "10.1159/000541044",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

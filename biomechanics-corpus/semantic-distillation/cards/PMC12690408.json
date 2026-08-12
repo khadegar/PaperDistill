@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12690408",
+  "paper_id": "doi:10.1002/jeo2.70529",
+  "pmcid": "PMC12690408",
+  "source_record_sha256": "a9d434c92a10d81943e3cae19008ddde73a9b38ab6dfc814133536176738b7fc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6c89518449c72d6fc4c77c36df8dabb1fa2a8ff0be9041915665b1d189ea2283",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tibiofemoral axial rotation during the golf swing is influenced by total knee arthroplasty bearing type and foot rotation",
+    "authors": "List R, Horn N, Monn S, Hinny D, Bänteli P, Wunderlin K, Oberhofer K, Taylor WR, Ferguson SJ, Drobny T, Preiss S, Schütz P.",
+    "year": 2025,
+    "journal": "Journal of Experimental Orthopaedics",
+    "doi": "10.1002/jeo2.70529",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

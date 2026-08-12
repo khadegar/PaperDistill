@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8961427",
+  "paper_id": "doi:10.1016/j.bioactmat.2022.03.024",
+  "pmcid": "PMC8961427",
+  "source_record_sha256": "022997a6fc4f934266830c466371f56ea1a6a434a4562e2cc1dce4173ebd2c14",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5b672d9e0940061305fc3881abfd3efd43b9bee1903cc4889e66d4fa334bea05",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Orchestration of energy metabolism and osteogenesis by Mg 2+ facilitates low-dose BMP-2-driven regeneration",
+    "authors": "Lin S, Yin S, Shi J, Yang G, Wen X, Zhang W, Zhou M, Jiang X.",
+    "year": 2022,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2022.03.024",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

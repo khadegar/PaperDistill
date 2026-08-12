@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10046336",
+  "paper_id": "doi:10.3390/biom13030464",
+  "pmcid": "PMC10046336",
+  "source_record_sha256": "4ad028c44237d84aede75b9bca911ecdce2a7f9404fcf22a82e833e518e39e83",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8c65b89b6bda04e475cd9b21f00b9a4ea07415271dae626cd7aa1dfc9667e606",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surface Treatments of PEEK for Osseointegration to Bone",
+    "authors": "Dondani JR, Iyer J, Tran SD.",
+    "year": 2023,
+    "journal": "Biomolecules",
+    "doi": "10.3390/biom13030464",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

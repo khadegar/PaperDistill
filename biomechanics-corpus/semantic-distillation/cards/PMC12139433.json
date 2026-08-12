@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12139433",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101847",
+  "pmcid": "PMC12139433",
+  "source_record_sha256": "3d4a0167259e9c579563e01ca957434c690fa7df90ebdc8ab2d4850732a7404a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8fb8564f3c248894ac4929fe563098ed69e60667d1af0b88e18e13a1b78b37af",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed vancomycin-eluting PGCL/MXene bifunctional scaffold for management of infected bone defects",
+    "authors": "Chen X, Cheng Y, Li Y, Tan Z, Wu H.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101847",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

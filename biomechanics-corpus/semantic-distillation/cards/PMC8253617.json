@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8253617",
+  "paper_id": "doi:10.1055/s-0041-1730377",
+  "pmcid": "PMC8253617",
+  "source_record_sha256": "1de1263318468776c7c3e1f3c3787e61c25fdf4ef8b826fa0dfd97934be4ed59",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "57144bc4afc05cf5b1af2965f4f5d6d9e20d85eebd12b6db0b812c6985596ef1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous-Coated Metaphyseal Sleeves in Revision Total Knee Arthroplasty: Midterm Results",
+    "authors": "Stefani G, Mattiuzzo V, Prestini G, Civitenga C, Calafiore R, Traverso F.",
+    "year": 2021,
+    "journal": "Joints",
+    "doi": "10.1055/s-0041-1730377",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

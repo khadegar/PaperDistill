@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7988351",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.03.010",
+  "pmcid": "PMC7988351",
+  "source_record_sha256": "ed7d7f8a2fe264c6d31cb49124fb35674cee0f3965a0f1b648a4e376d8b2119b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "08d3c2cdc3ff106ea31e63e590d1ed5f298d8f0e49a5d328d459062c872e1ce7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimetic Ti–6Al–4V alloy/gelatin methacrylate hybrid scaffold with enhanced osteogenic and angiogenic capabilities for large bone defect restoration",
+    "authors": "Ma L, Wang X, Zhou Y, Ji X, Cheng S, Bian D, Fan L, Zhou L, Ning C, Zhang Y.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.03.010",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

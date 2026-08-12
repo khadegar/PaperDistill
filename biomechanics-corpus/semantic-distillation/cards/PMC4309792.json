@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4309792",
+  "paper_id": "doi:10.2147/ijn.s69001",
+  "pmcid": "PMC4309792",
+  "source_record_sha256": "95856febcb57da5cf6a947e2aa91403606d02babcb83513fdcdd6ba19cdcb797",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6e8aaeda1de267a224ab9285722d0889879a8519c27294428d55b09df4795cd4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vivo experimental study on bone regeneration in critical bone defects using PIB nanogels/boron-containing mesoporous bioactive glass composite scaffold",
+    "authors": "Chen X, Zhao Y, Geng S, Miron RJ, Zhang Q, Wu C, Zhang Y.",
+    "year": 2015,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s69001",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

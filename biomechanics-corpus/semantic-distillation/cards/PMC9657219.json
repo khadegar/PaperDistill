@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9657219",
+  "paper_id": "doi:10.3390/polym14214756",
+  "pmcid": "PMC9657219",
+  "source_record_sha256": "67a92c03b8d84f41f2c93c55ea1790e2a6ebdba3681d4b04b52f9c05079446e3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c6d384cde69bbc9feff70e1c5a3c30c7d27cc2ef5a25e8d5b38f0f05724b4b34",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preparation of 3D Printed Polylactic Acid/Bacterial Cellulose Composite Scaffold for Tissue Engineering Applications",
+    "authors": "Wu Y, Wang Y, Wang F, Huang Y, He J.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14214756",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

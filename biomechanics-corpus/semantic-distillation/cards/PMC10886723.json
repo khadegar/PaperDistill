@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10886723",
+  "paper_id": "doi:10.3390/biomimetics9020094",
+  "pmcid": "PMC10886723",
+  "source_record_sha256": "bc22f7f27ebfc4f43d00582b093d0ccde7e8f9dc834829769f2fea97e72427b3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a743a2350aa380b9d955936f4ada85d506de8720974ed16a0f85f482b7361f59",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The 3D-McMap Guidelines: Three-Dimensional Multicomposite Microsphere Adaptive Printing",
+    "authors": "Klar RM, Cox J, Raja N, Lohfeld S.",
+    "year": 2024,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics9020094",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

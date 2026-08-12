@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6896722",
+  "paper_id": "doi:10.1016/j.jot.2019.03.003",
+  "pmcid": "PMC6896722",
+  "source_record_sha256": "75f84ae685307fa7df8ab00b9970e6153fe4d5e6e3cf1c35ea513b0fb65d3197",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a52606818a6e9bfeacab3b10777f98e952c570c6ad3be539a98e414bb4425984",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Early osteointegration evaluation of porous Ti6Al4V scaffolds designed based on triply periodic minimal surface models",
+    "authors": "Li L, Shi J, Zhang K, Yang L, Yu F, Zhu L, Liang H, Wang X, Jiang Q.",
+    "year": 2019,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2019.03.003",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8000753",
+  "paper_id": "doi:10.3390/ma14061384",
+  "pmcid": "PMC8000753",
+  "source_record_sha256": "b5b13dacb41be62b3f2b6c67132a38fb2ab7126af5f07b7ca9852d75a2a25538",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dc517936dff3e1f3591a30d5bc4a624711cc48635e828840f29d478227b3ca93",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Density Micro-CT Assessment during Embedding of the Innovative Multi-Spiked Connecting Scaffold in Periarticular Bone to Elaborate a Validated Numerical Model for Designing Biomimetic Fixation of Resurfacing Endoprostheses",
+    "authors": "Uklejewski R, Winiecki M, Patalas A, Rogala P.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14061384",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10297549",
+  "paper_id": "doi:10.3390/diagnostics13122123",
+  "pmcid": "PMC10297549",
+  "source_record_sha256": "f7ee4783f346f68b015defbc9ad5d78483b74aac5e33255a4a1458bd2257fbe0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "627ccef2c9d2461708516156eb1948473c0c3653eeebf2ff4fabbb5ed3b123dd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Failed Dental Implant: When Titanium Fractures",
+    "authors": "Tribst JPM, Werner A, Blom EJ.",
+    "year": 2023,
+    "journal": "Diagnostics",
+    "doi": "10.3390/diagnostics13122123",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

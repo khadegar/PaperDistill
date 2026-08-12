@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12604235",
+  "paper_id": "doi:10.1186/s12951-025-03791-3",
+  "pmcid": "PMC12604235",
+  "source_record_sha256": "8808fa5002ef0b76d1e6b7067d392ae630e87ee1eaf5aafcf41e1691cd2778a4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a49fdea2c0f8213eec4504d3c591a519665da1381b29a7e0676e9e9362a4bf9c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multifunctional metal-phenolic network coatings drive immunocompetent osseointegration via marrow microenvironment remodeling",
+    "authors": "Ge YW, Zhai NS, Liu CJ, Wang X, Yang G, Yang L, Shu LY, Sun H.",
+    "year": 2025,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-025-03791-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

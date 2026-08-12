@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11869124",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101531",
+  "pmcid": "PMC11869124",
+  "source_record_sha256": "fe0e6ffe1a40e03d1ca23b1baaf1470125f1bc87c3dfe74b141ef6062c5cd4ca",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2585b9497e3e8d6390629cb90c1fc8b8e657019dd48cfc2924d6066915304399",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advancements in 3D printing technologies for personalized treatment of osteonecrosis of the femoral head",
+    "authors": "Chen T, Luo L, Li J, Li J, Lin T, Liu M, Sang H, Hong X, Pu J, Huang W.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101531",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11697509",
+  "paper_id": "doi:10.1186/s13018-024-05418-z",
+  "pmcid": "PMC11697509",
+  "source_record_sha256": "6c1937efcd1111a3f2e1dbce04b97462e1b83e7c2f18d97443a4304898c65d56",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cc55aaf14b16ad50572a4bc1b4adafc22ab10e25e12872863a727e957f8095cf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative finite element analysis: internal fixation plate versus intramedullary nail for neer type III-VI proximal humeral fractur",
+    "authors": "Shi Y, Zhou J.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-05418-z",
+    "publication_type": "Comparative Study; research-article; Journal Article; Case Reports",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

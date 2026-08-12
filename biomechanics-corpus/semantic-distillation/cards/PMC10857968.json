@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10857968",
+  "paper_id": "doi:10.1007/s00405-023-08392-0",
+  "pmcid": "PMC10857968",
+  "source_record_sha256": "3c80c8f98cb7a87c50650928c3912a401b8ea619d054f8a2810c8c6c5f939362",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "84a86732de322956b531718d6512a72e2e27b9024e4f3a5330c1eefb24b35f97",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Computer-aided designed 3D-printed polymeric scaffolds for personalized reconstruction of maxillary and mandibular defects: a proof-of-concept study",
+    "authors": "Mattavelli D, Verzeletti V, Deganello A, Fiorentino A, Gualtieri T, Ferrari M, Taboni S, Anfuso W, Ravanelli M, Rampinelli V, Grammatica A, Buffoli B, Maroldi R, Elisabetta C, Rezzani R, Nicolai P, Piazza C.",
+    "year": 2024,
+    "journal": "European Archives of Oto-Rhino-Laryngology",
+    "doi": "10.1007/s00405-023-08392-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

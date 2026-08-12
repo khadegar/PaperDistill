@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9764714",
+  "paper_id": "doi:10.1186/s13287-022-03208-0",
+  "pmcid": "PMC9764714",
+  "source_record_sha256": "07a506ef7e191562b5d5ac184c43f825482c8b56a41622bfa6526bfe16d96a27",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "326e7a25404d3c526b6ce8d85264ed288fe3411ff973b918de267d8d63653d17",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing of injury-preconditioned secretome/collagen/heparan sulfate scaffolds for neurological recovery after traumatic brain injury in rats",
+    "authors": "Liu XY, Chang ZH, Chen C, Liang J, Shi JX, Fan X, Shao Q, Meng WW, Wang JJ, Li XH.",
+    "year": 2022,
+    "journal": "Stem Cell Research & Therapy",
+    "doi": "10.1186/s13287-022-03208-0",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

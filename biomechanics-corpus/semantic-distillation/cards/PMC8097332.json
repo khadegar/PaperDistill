@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8097332",
+  "paper_id": "doi:10.1002/advs.202004205",
+  "pmcid": "PMC8097332",
+  "source_record_sha256": "256343e4fd1f8b3b714ef3268b9e67abebfb0139135682b35a6ff6d5d7a45ec6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3abc37b6b19b93a648592678c8afab5acd984150b6ec76909f130791b4ad3f70",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "One‐Step 3D Printing of Heart Patches with Built‐In Electronics for Performance Regulation",
+    "authors": "Asulin M, Michael I, Shapira A, Dvir T.",
+    "year": 2021,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202004205",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

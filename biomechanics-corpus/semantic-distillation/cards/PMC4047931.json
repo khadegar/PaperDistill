@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4047931",
+  "paper_id": "doi:10.3390/jfb3020313",
+  "pmcid": "PMC4047931",
+  "source_record_sha256": "5dadada2bdd63830fdfe4b80b8cf9c0aad011761b3e0cc2c3f746601e78fada7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3ba051e98e5eba2ec66a33e026ec42d9663e76b3439b8cb705941887a13142af",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Substitute Effect on Vascularization and Bone Remodeling after Application of phVEGF 165 Transfected BMSC",
+    "authors": "Geiger F, Beverungen M, Lorenz H, Wieland J, Fehr M, Kasten P.",
+    "year": 2012,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb3020313",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

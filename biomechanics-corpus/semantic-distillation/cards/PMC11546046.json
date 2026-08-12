@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11546046",
+  "paper_id": "doi:10.13107/jocr.2024.v14.i11.4902",
+  "pmcid": "PMC11546046",
+  "source_record_sha256": "8dce60d0e00fe321ccbea0f029c711d9ccc96601ea9734fffd078fc1924df31e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d2b63ff96fdd72ce3677577108263558160d522ab56db16a5df26c1123a9c92f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Femoral Neck Fracture Non-Union: Treatment with Bone Marrow Concentrate, Demineralized Bone Matrix, and Morselized Allograft and Angular Stable Fixation. Report of 2 Cases",
+    "authors": "Deguée M, Jacquemart N, Fossati A, Wijngaert TVD, Wembou AS, Cornu O.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Case Reports",
+    "doi": "10.13107/jocr.2024.v14.i11.4902",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

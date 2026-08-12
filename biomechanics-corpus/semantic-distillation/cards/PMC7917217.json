@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7917217",
+  "paper_id": "doi:10.3389/fbioe.2021.642217",
+  "pmcid": "PMC7917217",
+  "source_record_sha256": "9f684cca418f2c80827706c57727e72209b95d9e016dbaac14b3b576408b87fd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9bef249b06da02bbd351cb4f2782b00f5f871207b58b77acc0ea36064bf4e7e1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Scaffold-Dependent Mechanical and Architectural Cues Guide Osteochondral Defect Healing in silico",
+    "authors": "Tortorici M, Petersen A, Ehrhart K, Duda GN, Checa S.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.642217",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

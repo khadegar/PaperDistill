@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9100251",
+  "paper_id": "doi:10.3390/jcm11092493",
+  "pmcid": "PMC9100251",
+  "source_record_sha256": "f63ccc6be0b96754b4cf419a65a74ac9e3e095f568de29ed72e88feb070f1d28",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "62ac991775d7f170223e7314ee5afcdcb07e9be77dc5678eae3de644871d559c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Alveolar Bone Remodeling with or without Collagen Filling of the Extraction Socket: A High-Resolution X-ray Tomography Animal Study",
+    "authors": "Covani U, Giammarinaro E, Panetta D, Salvadori PA, Cosola S, Marconcini S.",
+    "year": 2022,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm11092493",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

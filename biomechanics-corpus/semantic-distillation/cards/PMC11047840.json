@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11047840",
+  "paper_id": "doi:10.3390/bioengineering11040393",
+  "pmcid": "PMC11047840",
+  "source_record_sha256": "45f8b87244610e42e36c47795b028fb559b2e1d28186cf12630d4801f4d0c86e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a7202baf345a3bfdb26d7f8af964027dd7156ac8aee277bdba4c31d066e46819",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Debulking of the Femoral Stem in a Primary Total Hip Joint Replacement: A Novel Method to Reduce Stress Shielding",
+    "authors": "Sunavala-Dossabhoy G, Saba BM, McCarthy KJ.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11040393",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12066082",
+  "paper_id": "doi:10.7759/cureus.82077",
+  "pmcid": "PMC12066082",
+  "source_record_sha256": "b60aa01e09274c7d3a57e7cfbf001169fb87f618dd86b1b6c8a0177106b8e9fc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "81fe80cd88476fe5d251ee56b7a4c570ee50a4ffd28adad5ab910666764b632d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modified Tension Band Wiring Technique for Patella Fractures: A Case Report",
+    "authors": "Hurkat H, Desouza C.",
+    "year": 2025,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.82077",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

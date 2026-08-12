@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12541680",
+  "paper_id": "doi:10.1002/hed.28230",
+  "pmcid": "PMC12541680",
+  "source_record_sha256": "09447c95aa2084da2895ddcee3f321f7b8f28f71e4e4c99e0186dfc4b56f242d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "828e283c0f6c37efd1998bfedeb73bfde0411bfceb7892594c026a6b8ce2ff1c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Silico Modeling of Safe Force Limits for Trismus Therapy Following Jaw Reconstruction",
+    "authors": "Mohseni-Dargah M, Wan B, Charters E, Dunn M, Manzie T, Aung YM, Hasmat S, Li Q, Clark JR.",
+    "year": 2025,
+    "journal": "Head & Neck",
+    "doi": "10.1002/hed.28230",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

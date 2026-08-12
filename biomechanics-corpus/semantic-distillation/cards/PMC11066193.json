@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11066193",
+  "paper_id": "doi:10.3389/fbioe.2024.1391298",
+  "pmcid": "PMC11066193",
+  "source_record_sha256": "8b36ddef516229e3f8cb723dd7a67f03d9fa0d29b4e2d3c68d147ad917c7e713",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5822d6ca201211447879b20cdcb73467c1e40cc649353454c2372a8f002baa23",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Assessing the influence of gastrocnemius reconstruction on stress distribution of femoral tumor rotating hinge knee prosthesis via finite element analysis",
+    "authors": "Jiang J, Zeng F, Tang X.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1391298",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

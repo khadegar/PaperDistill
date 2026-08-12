@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10656537",
+  "paper_id": "doi:10.1038/s41598-023-47495-w",
+  "pmcid": "PMC10656537",
+  "source_record_sha256": "8a35ab0325376804ef334e0b1139bbb68f20e5a4ab0954aacf49669033024f78",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ab41ea12582b66d111f804dccbef8e5afeacc49e1f3a53ec9085e32cd8bb651b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Efficacy of bone defect therapy involving various surface treatments of titanium alloy implants: an in vivo and in vitro study",
+    "authors": "Wang B, Guo Y, Xu J, Zeng F, Ren T, Guo W.",
+    "year": 2023,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-023-47495-w",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10534938",
+  "paper_id": "doi:10.3390/polym15183714",
+  "pmcid": "PMC10534938",
+  "source_record_sha256": "00f8d4cc5944613c97d5ffbbb73fec9576334e5b7b1bdd09d5defd057237ed96",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6dcb4378f49c2931388dda37741290373b27de5ee4b119f5498961be43f65daa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro Degradation of 3D-Printed Poly(L-lactide-Co-Glycolic Acid) Scaffolds for Tissue Engineering Applications",
+    "authors": "Ghosh Dastidar A, Clarke SA, Larrañeta E, Buchanan F, Manda K.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15183714",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

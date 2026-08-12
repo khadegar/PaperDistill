@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9285948",
+  "paper_id": "doi:10.1002/cnm.3601",
+  "pmcid": "PMC9285948",
+  "source_record_sha256": "7e35a0620072235527e9649fc53b533e2684ca5b4311eda7a11871b7568fff0d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e28d54d16cda74816b8c02c29f013779279485d3f7aeeedb7f184edd63485d47",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Toward an artificial intelligence‐assisted framework for reconstructing the digital twin of vertebra and predicting its fracture response",
+    "authors": "Ahmadian H, Mageswaran P, Walter BA, Blakaj DM, Bourekas EC, Mendel E, Marras WS, Soghrati S.",
+    "year": 2022,
+    "journal": "International Journal for Numerical Methods in Biomedical Engineering",
+    "doi": "10.1002/cnm.3601",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

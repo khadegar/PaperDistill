@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10829709",
+  "paper_id": "doi:10.1016/j.jds.2023.11.001",
+  "pmcid": "PMC10829709",
+  "source_record_sha256": "29e4e6fb58aad323c6c795f373d03e96b84ae97b18b43332f93aa5a11ddb007f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bd76a1ba5d08a9bc68ea7a62b9bb09ef81dbb4d7ea633770d8bf3e3d70510978",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of different implant locations and abutment types on stress and strain distribution under non-axial loading: A 3-dimensional finite element analysis",
+    "authors": "Sakar D, Guncu MB, Arikan H, Muhtarogullari M, Aktas G, Reiss N, Turkyilmaz I.",
+    "year": 2023,
+    "journal": "Journal of Dental Sciences",
+    "doi": "10.1016/j.jds.2023.11.001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

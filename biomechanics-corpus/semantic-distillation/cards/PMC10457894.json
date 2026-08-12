@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10457894",
+  "paper_id": "doi:10.3390/pharmaceutics15082118",
+  "pmcid": "PMC10457894",
+  "source_record_sha256": "d97ff6f1164b1e5cdf3e918741fbd3a393b953122316e7dd101514a7a4957897",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "563e0aedac6fc36c31bf2e4c8bf89ac459791796a042fc10fe478d24e5328a6c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biopolymers and Their Application in Bioprinting Processes for Dental Tissue Engineering",
+    "authors": "Kim S, Hwangbo H, Chae S, Lee H.",
+    "year": 2023,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics15082118",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

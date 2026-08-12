@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11571649",
+  "paper_id": "doi:10.1186/s13018-024-04786-w",
+  "pmcid": "PMC11571649",
+  "source_record_sha256": "1f815032a7c7ac12cc77f5b2ecf303d597e923d760a0425175f7f44fb039b186",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "199497ead5059fbdd2d288ee930ae2c8939b34d845bcd35c12563913bbff59cc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vivo study of a novel 3D-printed motion-preservation artificial cervical corpectomy construct: short-term imaging and biocompatibility evaluations in a goat model",
+    "authors": "Wang J, Meng B, Wang X, Lei W, Zhao X.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-04786-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

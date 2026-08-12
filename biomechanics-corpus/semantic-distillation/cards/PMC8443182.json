@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8443182",
+  "paper_id": "doi:10.1126/sciadv.abi5918",
+  "pmcid": "PMC8443182",
+  "source_record_sha256": "25903952b00b7492abb118450c9110307fd1d51530ff1a0f52d36e3eb031d85c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9ccc7bbfa03306dcb4f167dd4b744f493301633a971b4ba025b32b5d7a96c23b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biological resurfacing in a canine model of hip osteoarthritis",
+    "authors": "Estes BT, Enomoto M, Moutos FT, Carson MA, Toth JM, Eggert P, Stallrich J, Willard VP, Veis DJ, Little D, Guilak F, Lascelles BDX.",
+    "year": 2021,
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.abi5918",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

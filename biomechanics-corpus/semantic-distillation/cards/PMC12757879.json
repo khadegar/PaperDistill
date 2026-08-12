@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12757879",
+  "paper_id": "doi:10.7759/cureus.100589",
+  "pmcid": "PMC12757879",
+  "source_record_sha256": "b7c9da1cfbf31fc0a67a0689d27ddeab6cf9fe7a1bf07d1f925eb07a3a3c291a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a7813164d6659bc6909b2be1c3d438f1b408fed06d3df301afe74892bc84a8c1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Periprosthetic Proximal Femoral Fractures: A Comprehensive Review of Epidemiology, Risk Factors, Classification and Management",
+    "authors": "Foster A, Beeharry MW.",
+    "year": 2026,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.100589",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

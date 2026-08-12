@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11217039",
+  "paper_id": "doi:10.1007/s43390-024-00846-7",
+  "pmcid": "PMC11217039",
+  "source_record_sha256": "0a52cae3bd5a9d4149fdffd55e194ac1413f7981d290a674020463fdf806287b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "13306832f6a51267a7b6cad0750e137fc2a187923b3b85719499f26a2dbcf0a9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Validation of a patient-specific finite element analysis framework for identification of growing rod-failure regions in early onset scoliosis patients",
+    "authors": "Jayaswal D, Kodigudla M, Kelkar A, Goel V, Palepu V.",
+    "year": 2024,
+    "journal": "Spine Deformity",
+    "doi": "10.1007/s43390-024-00846-7",
+    "publication_type": "research-article; Validation Study; Research Support, U.S. Gov't, Non-P.H.S.; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

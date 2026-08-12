@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9221483",
+  "paper_id": "doi:10.3390/biom12060837",
+  "pmcid": "PMC9221483",
+  "source_record_sha256": "1eb582c7abaf0b05bc9c55b475a237543378d2eeb7b77468e1d067c5d1b7f4b6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2164358d52c2cae1872acfd61dcc6c9191ea5d51edad5202fe490e55fb9acae1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multi-Scale Analysis of the Composition, Structure, and Function of Decellularized Extracellular Matrix for Human Skin and Wound Healing Models",
+    "authors": "Sarmin AM, El Moussaid N, Suntornnond R, Tyler EJ, Kim YH, Di Cio S, Megone WV, Pearce O, Gautrot JE, Dawson J, Connelly JT.",
+    "year": 2022,
+    "journal": "Biomolecules",
+    "doi": "10.3390/biom12060837",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

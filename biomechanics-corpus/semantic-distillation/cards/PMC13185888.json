@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13185888",
+  "paper_id": "doi:10.1016/j.xrrt.2026.100755",
+  "pmcid": "PMC13185888",
+  "source_record_sha256": "ad4c49af5d8b7b88780e90a6a25f90fa2eb0d5c1897850405ab90c1dac8c223f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7029b4e75fa2ed46b9d80ded93c686894b11d9cf43c00e5dcd163cd1d7f2ef9d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanics of custom glenoid components in reverse total shoulder arthroplasty—a narrative review of concepts for surgeons",
+    "authors": "Sewpaul Y, Monga P, Petermann M.",
+    "year": 2026,
+    "journal": "JSES Reviews, Reports, and Techniques",
+    "doi": "10.1016/j.xrrt.2026.100755",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

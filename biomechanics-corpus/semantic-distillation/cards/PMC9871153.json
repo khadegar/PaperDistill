@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9871153",
+  "paper_id": "doi:10.1186/s40902-023-00374-w",
+  "pmcid": "PMC9871153",
+  "source_record_sha256": "e199bc3e5981e5703d75399f361da4ce9a170d929df92f15c209465731a7c268",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "029fd4359a50c6752e13eb87e31898f6cfe0cb7bf1d63a62ab2a7ad8dd132d8b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Total mandible and bilateral TMJ reconstruction combining a customized jaw implant with a free fibular flap: a case report and literature review",
+    "authors": "Govoni FA, Felici N, Ornelli M, Marcelli VA, Migliano E, Pesucci BA, Pistilli R.",
+    "year": 2023,
+    "journal": "Maxillofacial Plastic and Reconstructive Surgery",
+    "doi": "10.1186/s40902-023-00374-w",
+    "publication_type": "Journal Article; case-report",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

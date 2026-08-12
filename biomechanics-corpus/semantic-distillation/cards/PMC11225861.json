@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11225861",
+  "paper_id": "doi:10.1016/j.mtbio.2024.101120",
+  "pmcid": "PMC11225861",
+  "source_record_sha256": "76b373f8597e73d6c809ac7650baf3ebffa493d85532fe91fce79b692791e702",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f8d728892d5998d36a6c39e70e0dc113490b264d4c0e79b5ec6e897771a20ebd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fullerol-reinforced antioxidantive 3D-printed bredigite scaffold for accelerating bone healing",
+    "authors": "Yang J, Zhan Z, Li X, Hu M, Zhu Y, Xiao Y, Xu X.",
+    "year": 2024,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2024.101120",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

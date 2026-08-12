@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4509532",
+  "paper_id": "doi:10.2147/ijn.s84398",
+  "pmcid": "PMC4509532",
+  "source_record_sha256": "d863a391b039ff372f44ca9ecc850871e1356e62bcf5628b4e113650a7d4df6d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7a6e2831b1dc3d51eb1ed9247ef22ec6e3fb601f036b5ea2d36f048a2165e6a7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of a micro/nano rough strontium-loaded surface on osseointegration",
+    "authors": "Li Y, Qi Y, Gao Q, Niu Q, Shen M, Fu Q, Hu K, Kong L.",
+    "year": 2015,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s84398",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

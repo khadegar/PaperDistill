@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10763424",
+  "paper_id": "doi:10.1186/s13036-023-00401-4",
+  "pmcid": "PMC10763424",
+  "source_record_sha256": "1fbc8e04a9542436b111b7b6897826085158e6009882543053d5d64568f2d1d5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d964a899f8fed22e1b7348581679fba21a14f7aa4fb34418b349b03c2bc6212e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed PCL@BG scaffold integrated with SDF-1α-loaded hydrogel for enhancing local treatment of bone defects",
+    "authors": "Wang C, Dong J, Liu F, Liu N, Li L.",
+    "year": 2024,
+    "journal": "Journal of Biological Engineering",
+    "doi": "10.1186/s13036-023-00401-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12130539",
+  "paper_id": "doi:10.1038/s41598-025-02831-0",
+  "pmcid": "PMC12130539",
+  "source_record_sha256": "bcabf960bdbee5bc7916c00219b825a745bb0da5268d049e8af6076afbf1c844",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d3bfe51013bdff964fd1773b8f10a63439cbc8a3631e456c25c67abfc6106136",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Microstructural evolution and phase transitions in porous Ta/Cu alloys under high strain rates",
+    "authors": "Malti A, Rashidfar P, Kardani A, Montazeri A.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-02831-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

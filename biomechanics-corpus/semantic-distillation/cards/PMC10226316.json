@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10226316",
+  "paper_id": "doi:10.1177/23259671231169198",
+  "pmcid": "PMC10226316",
+  "source_record_sha256": "25b550c1b283a5ff0584cd36e00e4dcc905c638977912dc4530a2fcca51c437b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5b31366d9c552873bf4edc27e44b5386e9ca4db6925137927b405fcec86746e0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Evaluation of TensionLoc Versus the Double Spike Plate for ACL Graft Tibial Fixation",
+    "authors": "Jernick M, Borden PS, Seager A, McGarry MH, Adamson GJ, Lee TQ.",
+    "year": 2023,
+    "journal": "Orthopaedic Journal of Sports Medicine",
+    "doi": "10.1177/23259671231169198",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

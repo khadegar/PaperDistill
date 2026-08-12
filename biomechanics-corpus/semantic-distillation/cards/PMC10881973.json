@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10881973",
+  "paper_id": "doi:10.1038/s41467-024-45938-0",
+  "pmcid": "PMC10881973",
+  "source_record_sha256": "8839c0ebc0de3a8ec84abb42baaca72f6ec9c2b5923da5bd2e473bababa0a9ce",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dbfa56d1e8686a3cea297dce0b698fd51d90df1082f2df50994398e5634aea7c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "4D printed hydrogel scaffold with swelling-stiffening properties and programmable deformation for minimally invasive implantation",
+    "authors": "Liu B, Li H, Meng F, Xu Z, Hao L, Yao Y, Zhu H, Wang C, Wu J, Bian S, Lu WW, Liu W, Pan H, Zhao X.",
+    "year": 2024,
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-024-45938-0",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

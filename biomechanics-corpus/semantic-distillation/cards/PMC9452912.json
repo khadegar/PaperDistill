@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9452912",
+  "paper_id": "doi:10.3389/fbioe.2022.973297",
+  "pmcid": "PMC9452912",
+  "source_record_sha256": "09d471011648c269ad067d39dd50af68caac918a177d6a0395bf1b4a6730ea52",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ec2eb12e76224f335d8d8c32803988de7fab87337deb4a0adcf9774dd7e017a8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous construction and surface modification of titanium-based materials for osteogenesis: A review",
+    "authors": "Wang R, Ni S, Ma L, Li M.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.973297",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

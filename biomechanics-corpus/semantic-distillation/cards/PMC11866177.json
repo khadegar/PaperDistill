@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11866177",
+  "paper_id": "doi:10.1021/acsomega.4c06820",
+  "pmcid": "PMC11866177",
+  "source_record_sha256": "97826d280f96cd5a2f0dfb11e81e68e1e02799d1ed491f6ecbde2553cc0cc0ae",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ddff531b16dc14140da55b1823c5428f7915c3ec96871496dfe359af1c7653c0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed Functionally Graded PCL-HA Scaffolds with Multi-Scale Porosity",
+    "authors": "Bilgili HK, Aydin MS, Sahin M, Sahin SB, Cetinel S, Kiziltas G.",
+    "year": 2025,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.4c06820",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

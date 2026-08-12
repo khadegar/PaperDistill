@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12374351",
+  "paper_id": "doi:10.1186/s13018-025-06166-4",
+  "pmcid": "PMC12374351",
+  "source_record_sha256": "d5f0c5bc4850c537eecd956064518c800eb1b66867e27135208177a442ef46c7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e375e1e9b9d2764928e6a63b8e3b9d6286c2a0906c0f581003c06d70c9378c57",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication and evaluation of a host-guest polylactic acid/gelatin-hydroxyapatite-blueberry scaffold for bone regeneration",
+    "authors": "Sistani S, Asgharzade S, Arab S, Bahraminasab M, Soltani-Fard E.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-06166-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

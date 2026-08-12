@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8122675",
+  "paper_id": "doi:10.3390/jcm10091808",
+  "pmcid": "PMC8122675",
+  "source_record_sha256": "8093197a6f426ed806cb02f22508eef1dd10a758de0af37c0f98af2299fb228f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "deb64c521e2a66a1cd0b8baf02c215687e87ab5905b7d6326ca958c684faf432",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Accuracy of Computer-Assisted Dynamic Navigation in Implant Placement with a Fully Digital Approach: A Prospective Clinical Trial",
+    "authors": "Edelmann C, Wetzel M, Knipper A, Luthardt RG, Schnutenhaus S.",
+    "year": 2021,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm10091808",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

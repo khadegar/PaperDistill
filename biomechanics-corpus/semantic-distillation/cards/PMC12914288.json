@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12914288",
+  "paper_id": "doi:10.1016/j.tcr.2026.101305",
+  "pmcid": "PMC12914288",
+  "source_record_sha256": "5b88ca572f4edd7f93872c95fcd753195767e515e2375556874b841890770a07",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "54128bc54d8ae60a5c67291bdaeb0a6736124b44a2593793ca6668efed0ff621",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteonecrosis of femoral head after cement augmented TFNA nailing for an intertrochanteric fracture: A case report",
+    "authors": "Kasha S, Yalamanchili RK, Gurram A, Yamajala S, Rohit GPRK.",
+    "year": 2026,
+    "journal": "Trauma Case Reports",
+    "doi": "10.1016/j.tcr.2026.101305",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

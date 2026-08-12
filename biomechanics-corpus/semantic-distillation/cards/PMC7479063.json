@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7479063",
+  "paper_id": "doi:10.3389/fbioe.2020.00971",
+  "pmcid": "PMC7479063",
+  "source_record_sha256": "fe792464f621a5459e35294311ef86249be297b799cc710addd70e2c00abef95",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "26eeacc060169f2186d68e22babddb5773eee10bcef49d5e7e301c099dc44018",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Production and Characterization of an Integrated Multi-Layer 3D Printed PLGA/GelMA Scaffold Aimed for Bile Duct Restoration and Detection",
+    "authors": "Xiang Y, Wang W, Gao Y, Zhang J, Zhang J, Bai Z, Zhang S, Yang Y.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.00971",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

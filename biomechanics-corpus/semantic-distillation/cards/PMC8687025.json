@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8687025",
+  "paper_id": "doi:10.4103/jpbs.jpbs_305_21",
+  "pmcid": "PMC8687025",
+  "source_record_sha256": "0375e162c40fed2e6bd68662491eaee8f3b6f9220dc4846dd1b0f213a1933595",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "84cd41aa6403ed1b7d6ae0037a0cff0b4035eb544bb1f845544884855a1df111",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Analysis of Stress Distribution on the Bone around an Implant Placed in the Anterior Maxilla Using Three Different Abutment Angulations by Means of Finite Element Analysis",
+    "authors": "Shende S, Jadhav A, Edake DN, Patil AH, Patil H, Agrawal N.",
+    "year": 2021,
+    "journal": "Journal of Pharmacy & Bioallied Sciences",
+    "doi": "10.4103/jpbs.jpbs_305_21",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

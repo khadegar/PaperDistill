@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8796563",
+  "paper_id": "doi:10.1186/s42836-020-00031-x",
+  "pmcid": "PMC8796563",
+  "source_record_sha256": "aa23145ca9a762959515ebbedf3044cf502c9f70e925fd0c0ba720efe01730ce",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "37a18e9c244435e0948cf19199ea7dd7d8a95c9efed3020cdca2fe6bf44c7966",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous-coated metaphyseal sleeves and MBT implant for severe bone loss in revision total knee arthroplasty: a mean 2.4-year follow-up",
+    "authors": "Wu Y, Feng E, Zhang Y, Lin F, Lin L, Li Z, Xiao L.",
+    "year": 2020,
+    "journal": "Arthroplasty",
+    "doi": "10.1186/s42836-020-00031-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

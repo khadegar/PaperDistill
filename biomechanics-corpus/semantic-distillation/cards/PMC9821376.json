@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9821376",
+  "paper_id": "doi:10.3390/ijms24010814",
+  "pmcid": "PMC9821376",
+  "source_record_sha256": "7ae0ccc568edc8319e4a7de725f67fb7188e7506a43b37d3e2f47a858784e0c7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3ef2036a43a3580105f94994683bd0fb134fac91d29f135cad712602406d8fbf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Four-Dimensional Printing and Shape Memory Materials in Bone Tissue Engineering",
+    "authors": "Zhang X, Yang Y, Yang Z, Ma R, Aimaijiang M, Xu J, Zhang Y, Zhou Y.",
+    "year": 2023,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms24010814",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11943772",
+  "paper_id": "doi:10.3390/ma18061295",
+  "pmcid": "PMC11943772",
+  "source_record_sha256": "7aa16c88cc74b8c46246c816b11ab4ffbac3231c294dfd9e6dbfc344dae0a35f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "daf7426b7fe6d92810ced2c9f862c77a9852b132eeaeb4d49f22ad8e1efffabf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of a 3D-Printed Acetabular Prosthesis for an Acetabular Defect According to the Paprosky Classification",
+    "authors": "Ceddia M, Solarino G, Pulcrano A, Benedetto A, Trentadue B.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18061295",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

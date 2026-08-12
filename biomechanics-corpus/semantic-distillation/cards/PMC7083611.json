@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7083611",
+  "paper_id": "doi:10.1126/sciadv.aaz6725",
+  "pmcid": "PMC7083611",
+  "source_record_sha256": "a0da89b1830103692b5b41cde6ba718252817479d809e5ce4e2ba72f70f61890",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f9763287cbdb12414f53ffed6f72e52fb60b9435e72d21e998acd6bada7de35c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing of Haversian bone–mimicking scaffolds for multicellular delivery in bone regeneration",
+    "authors": "Zhang M, Lin R, Wang X, Xue J, Deng C, Feng C, Zhuang H, Ma J, Qin C, Wan L, Chang J, Wu C.",
+    "year": 2020,
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aaz6725",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

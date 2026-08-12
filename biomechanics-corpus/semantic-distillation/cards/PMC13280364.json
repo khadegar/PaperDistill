@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13280364",
+  "paper_id": "doi:10.1038/s41598-026-49671-0",
+  "pmcid": "PMC13280364",
+  "source_record_sha256": "5ed5093b7883f9e71d26dbac551a83e7c66f6f8f696b84bc88af82517140e018",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7562dfc836d17ffe4a09e7241469f9b048250d219195362d946decc8dadb0355",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical effect of implant thickness and screw diameter on CFR-PEEK subperiosteal implants: a three-dimensional finite element analysis",
+    "authors": "Etik E, Keskin Yalcin B.",
+    "year": 2026,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-026-49671-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

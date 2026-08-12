@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12474723",
+  "paper_id": "doi:10.2147/ijn.s535976",
+  "pmcid": "PMC12474723",
+  "source_record_sha256": "c5929de12f0be636f951cdd280d8d9da165f8342be20ae5395af3ede4b925727",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1824b9d1007f6d89cfb71bce5e5ff117e918e2630d2c5a92f3aa47b6fd05c469",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Role of Piezoelectric Materials in Bone Remodeling and Repair: Mechanisms and Applications",
+    "authors": "Yue W, Zhang W, Zhang J, Qin W, Bie X, Zhao Y, Xu G.",
+    "year": 2025,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s535976",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

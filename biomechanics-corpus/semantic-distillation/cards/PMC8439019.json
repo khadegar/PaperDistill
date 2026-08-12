@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8439019",
+  "paper_id": "doi:10.1186/s13018-021-02594-0",
+  "pmcid": "PMC8439019",
+  "source_record_sha256": "ef53ae4bf7a7ed5a6ecb009a371cfc8b016d44d7b1a4c428669ca8aa827dda97",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e5ec8946628db51eb4f85457e87b675cb0b2c2898d8ea5b3c41b52b8cdc80e71",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Predilection for developing a hematogenous orthopaedic implant-associated infection in older versus younger mice",
+    "authors": "Thompson JM, Ashbaugh AG, Wang Y, Miller RJ, Pickett JE, Thorek DLJ, Sterling RS, Miller LS.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-021-02594-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

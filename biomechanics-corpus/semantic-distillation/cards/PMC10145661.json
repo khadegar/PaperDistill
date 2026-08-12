@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10145661",
+  "paper_id": "doi:10.3390/pharmaceutics15041039",
+  "pmcid": "PMC10145661",
+  "source_record_sha256": "73895aba9b98a66b386922d026b460bc8e39ddcaaca42a835c1b85ce0fcdf636",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "984dc53773161d7c6c854064360feca25dca41f178cef07953cdebc027a8ce40",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of PEGDA Molecular Weight and Concentration on the In Vitro Release of the Model Protein BSA–FITC from Photo Crosslinked Systems",
+    "authors": "Rekowska N, Wulf K, Koper D, Senz V, Seitz H, Grabow N, Teske M.",
+    "year": 2023,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics15041039",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

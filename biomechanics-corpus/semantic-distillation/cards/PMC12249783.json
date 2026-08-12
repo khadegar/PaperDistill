@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12249783",
+  "paper_id": "doi:10.3390/jcm14134527",
+  "pmcid": "PMC12249783",
+  "source_record_sha256": "73e816d95fbc43454de5f766fe4b77f97f31b5917c1d55860bc61bed5de178e5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "52d79717ef5ca8218962eddf919781ad9c05fb299a6c26d9b14a952c741a3fce",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Short-Term Outcomes of Cementless Total Hip Arthroplasty Using a 3D-Printed Acetabular Cup Manufactured by Directed Energy Deposition: A Prospective Observational Study",
+    "authors": "Bahk JH, Jo WL, Lee KH, Song JH, Kim SC, Lim YW.",
+    "year": 2025,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm14134527",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

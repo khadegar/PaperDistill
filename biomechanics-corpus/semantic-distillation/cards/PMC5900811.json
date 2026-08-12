@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5900811",
+  "paper_id": "doi:10.1177/2041731418769863",
+  "pmcid": "PMC5900811",
+  "source_record_sha256": "361f08d0564d60f8d67156e0eaff8d93bf3c3013d137eec7cb5ab464178339c7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7d3b513aac5ba057766649fcd9e55be3e72a023540ae79339bf144735b7dc7a0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The potential role of bioengineering and three-dimensional printing in curing global corneal blindness",
+    "authors": "Ludwig PE, Huff TJ, Zuniga JM.",
+    "year": 2018,
+    "journal": "Journal of Tissue Engineering",
+    "doi": "10.1177/2041731418769863",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

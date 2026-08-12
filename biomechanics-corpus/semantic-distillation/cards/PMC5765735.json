@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5765735",
+  "paper_id": "doi:10.7150/ijms.20522",
+  "pmcid": "PMC5765735",
+  "source_record_sha256": "74d3ab10587630bc8c2a45a64673aeccb5d067e5c151eee11b4e627d969a9a1a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ceb240070a235a3d9fd41fc11af13550cecb9f6beae8f4b581ef250e099ebcf8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimal Load for Bone Tissue Scaffolds with an Assigned Geometry",
+    "authors": "Boccaccio A, Uva AE, Fiorentino M, Monno G, Ballini A, Desiate A.",
+    "year": 2018,
+    "journal": "International Journal of Medical Sciences",
+    "doi": "10.7150/ijms.20522",
+    "publication_type": "research-article; Evaluation Study; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

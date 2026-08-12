@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9673047",
+  "paper_id": "doi:10.1016/j.bioactmat.2022.11.003",
+  "pmcid": "PMC9673047",
+  "source_record_sha256": "2fb4c91c6549164c4a367cdb4b998b74c318ef700779a4da8cc7fd4ddc366c67",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4e73b25ad7ced91248c8b14e6653446a9eed44e651cf42a220b02635cb5dbfcd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A biomimetic gradient porous cage with a micro-structure for enhancing mechanical properties and accelerating osseointegration in spinal fusion",
+    "authors": "Jia CQ, Zhang Z, Cao SQ, Wang TJ, Yu HC, Wang WX, Guo BM, Qiu XY, You YG, Hu FQ, Zhao J, Zhang XS.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2022.11.003",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

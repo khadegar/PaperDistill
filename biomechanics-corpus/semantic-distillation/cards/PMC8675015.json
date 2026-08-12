@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8675015",
+  "paper_id": "doi:10.1021/acsomega.1c04672",
+  "pmcid": "PMC8675015",
+  "source_record_sha256": "0d853a7a5085f197dbf0b06b14b174036c4a7940a5499d0844c41f2490b7a777",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b8f6c4b715db7fb6b07dba19fe6309eb21184a77d79641136067e0d880f9dfeb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of Fiber Cross-Angle Structures on the Mechanical Property of 3D Printed Scaffolds and Performance of Seeded MC3T3-E1 Cells",
+    "authors": "Liu H, Qiu L, Liu H, Li F, Fan Y, Meng L, Sun X, Zhan C, Luo R, Wang C, Zhang J, Li R.",
+    "year": 2021,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.1c04672",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

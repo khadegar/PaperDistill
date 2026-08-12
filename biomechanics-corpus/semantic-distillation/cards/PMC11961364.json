@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11961364",
+  "paper_id": "doi:10.1038/s41563-025-02146-5",
+  "pmcid": "PMC11961364",
+  "source_record_sha256": "e1b12b5b48bc7287f252be5183c21615236798644d91d15343fa90e7488b1270",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "696db1d99641563e6dca6cc44d34475888b5a65d6cbdf691371f02c422b20a17",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stiff and self-healing hydrogels by polymer entanglements in co-planar nanoconfinement",
+    "authors": "Liang C, Dudko V, Khoruzhenko O, Hong X, Lv ZP, Tunn I, Umer M, Timonen JVI, Linder MB, Breu J, Ikkala O, Zhang H.",
+    "year": 2025,
+    "journal": "Nature Materials",
+    "doi": "10.1038/s41563-025-02146-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

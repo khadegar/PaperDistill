@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7362511",
+  "paper_id": "doi:10.1186/s12951-020-00655-w",
+  "pmcid": "PMC7362511",
+  "source_record_sha256": "4c0e2675b57d6004445b3007fc6fb3f8cb6ee3dda87bb730c120b40bd1662e30",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bb2f1666dc729177c1ed545046bd25446411f654ebe238593f3ff5d8f28d0fa8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Potential use of 3D-printed graphene oxide scaffold for construction of the cartilage layer",
+    "authors": "Cheng Z, Xigong L, Weiyi D, Jingen H, Shuo W, Xiangjin L, Junsong W.",
+    "year": 2020,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-020-00655-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

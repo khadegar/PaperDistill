@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11057758",
+  "paper_id": "doi:10.1371/journal.pone.0297932",
+  "pmcid": "PMC11057758",
+  "source_record_sha256": "64c8e6d63e96a2c0499f4690f720790c05f9f7816cec12bfd696ea02d8404295",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c7622a0275a9b2992a7debae9ce3b04080533971292945f07fc2520876187146",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of a change in activity regime on femoral bone architecture and failure behaviour",
+    "authors": "Villette CC, Phillips ATM.",
+    "year": 2024,
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0297932.r003",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

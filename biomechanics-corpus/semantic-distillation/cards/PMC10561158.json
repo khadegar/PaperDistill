@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10561158",
+  "paper_id": "doi:10.1088/1758-5090/acfdd0",
+  "pmcid": "PMC10561158",
+  "source_record_sha256": "032813fde45aa8211f2e113b173a7985c218afac948339b06cebd69fc9cb3f64",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "67b0994eeab1a55140d48372cfa2acac34d1273b5a5884123fed28d8726c3f03",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Translational biomaterials of four-dimensional bioprinting for tissue regeneration",
+    "authors": "Faber L, Yau A, Chen Y.",
+    "year": 2023,
+    "journal": "Biofabrication",
+    "doi": "10.1088/1758-5090/acfdd0",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Research Support, U.S. Gov't, Non-P.H.S.; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11775735",
+  "paper_id": "doi:10.3389/fbioe.2024.1461768",
+  "pmcid": "PMC11775735",
+  "source_record_sha256": "8b092b1c059ff0e0108851e611443201b324fb8397726c64c1c81c6863689874",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9c0710978458f5ab2d83eda8862fdbea179978b34cbff6949a283eeac68aa6e2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of machine learning techniques for real-time prediction of implanted lower limb mechanics",
+    "authors": "Maag C, Fitzpatrick CK, Rullkoetter PJ.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1461768",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12817116",
+  "paper_id": "doi:10.1002/adhm.202502773",
+  "pmcid": "PMC12817116",
+  "source_record_sha256": "31561ff21a4fbe802c53a31f13afe8501a49f1492544ccd4a6393bdfac7b502c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1fe871572003e81391d67e02759492352cbde1d49c428e0b5026673d30b7d922",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Geometry‐Guided Osteogenesis in Bone‐on‐a‐Chip Systems Using Triply Periodic Minimal Surface Scaffolds",
+    "authors": "Kim D, Ha G, Kim M, Kwak M, Kim HJ, Lee J.",
+    "year": 2025,
+    "journal": "Advanced Healthcare Materials",
+    "doi": "10.1002/adhm.202502773",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

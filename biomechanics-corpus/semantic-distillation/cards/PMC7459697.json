@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7459697",
+  "paper_id": "doi:10.3390/ani10081389",
+  "pmcid": "PMC7459697",
+  "source_record_sha256": "edcd6a40e24e4ab664da5803ec371dce5663d5c3f51f8d07d5956e4851a2926d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6e58a18f66b30fc7c1929c1e94a1551045c7274c946e98e67f9a0192c9e9a236",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Biomimetic Porous Titanium (Ti 6 Al 4 V ELI) Scaffolds for Large Bone Critical Defect Reconstruction: An Experimental Study in Sheep",
+    "authors": "Crovace AM, Lacitignola L, Forleo DM, Staffieri F, Francioso E, Di Meo A, Becerra J, Crovace A, Santos-Ruiz L.",
+    "year": 2020,
+    "journal": "Animals : an Open Access Journal from MDPI",
+    "doi": "10.3390/ani10081389",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

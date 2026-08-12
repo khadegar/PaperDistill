@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13237995",
+  "paper_id": "doi:10.1186/s42836-026-00402-w",
+  "pmcid": "PMC13237995",
+  "source_record_sha256": "4bb909662580f98d63febe9cec784d1727937916db4137c812c0db9ae4c38940",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5120fb02c2665061fa40f8a263d9498202f5b92138d983f6573824110d02eb82",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Full-flexion gap balancing-driven personalized preoperative planning for TKA: biomechanical evidence of improved load symmetry in an in vitro model",
+    "authors": "Tang Z, Zou D, Yang Y, Zheng N, Zhu Z, Wang J, Li P, Cheng R, Zhang G, Tsai TY.",
+    "year": 2026,
+    "journal": "Arthroplasty",
+    "doi": "10.1186/s42836-026-00402-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

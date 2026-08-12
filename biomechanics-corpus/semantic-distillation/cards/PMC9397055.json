@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9397055",
+  "paper_id": "doi:10.3390/jfb13030104",
+  "pmcid": "PMC9397055",
+  "source_record_sha256": "194ba8285a3446b4d4e9c42f3e0ecd9f4ae41c7eee87bd737230496e9e298d6b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "267f9bb6825c691b03291a2a151d4754355680d38d9404b9bf8d007763cc6f6c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Geometry-Based Computational Fluid Dynamic Model for Predicting the Biological Behavior of Bone Tissue Engineering Scaffolds",
+    "authors": "Omar AM, Hassan MH, Daskalakis E, Ates G, Bright CJ, Xu Z, Powell EJ, Mirihanage W, Bartolo PJDS.",
+    "year": 2022,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb13030104",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

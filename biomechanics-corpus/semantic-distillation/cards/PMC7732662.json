@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7732662",
+  "paper_id": "doi:10.3389/fsurg.2020.526020",
+  "pmcid": "PMC7732662",
+  "source_record_sha256": "bfcbea9f5e50316482f3e284de7fde908f0db8583faf663fcbe71cd90eacad36",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "029e1bd3df9798f66bf1d74d23db632aaec73d548d0e3481f2c90668445b8fe1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Complete Osseointegration of a Retrieved 3-D Printed Porous Titanium Cervical Cage",
+    "authors": "van den Brink W, Lamerigts N.",
+    "year": 2020,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2020.526020",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

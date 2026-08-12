@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9839266",
+  "paper_id": "doi:10.1097/md.0000000000032507",
+  "pmcid": "PMC9839266",
+  "source_record_sha256": "11ad8514a0f7b30075e557cd6a0e2ad348a4aab13cd2d58d0e37769fa0e12b1e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f5cd8ded123f1c582212d867e24b39d05e0acb0838aa84048bf7f09353b8d11d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional printing designed customized plate in the treatment of coronal fracture of distal humerus in teenager: A case report",
+    "authors": "Cao C, Xing H, Cao F, Du Z, Wang G, Wang X.",
+    "year": 2023,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000032507",
+    "publication_type": "research-article; Journal Article; Case Reports",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

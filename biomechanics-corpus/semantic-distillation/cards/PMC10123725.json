@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10123725",
+  "paper_id": "doi:10.3390/biomimetics8020138",
+  "pmcid": "PMC10123725",
+  "source_record_sha256": "152b2453ae8fcc4dcdbee6ccb8afb66ba330fea49b73e0daee1dc2db497c9865",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a8c3a77489d1dab74305f1947f003950ffaa160cd24c2108af0ce6ccdc5f4724",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Long Bone Defect Filling with Bioactive Degradable 3D-Implant: Experimental Study",
+    "authors": "Popkov A, Kononovich N, Dubinenko G, Gorbach E, Shastov A, Tverdokhlebov S, Popkov D.",
+    "year": 2023,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics8020138",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12796339",
+  "paper_id": "doi:10.1038/s41598-025-31030-0",
+  "pmcid": "PMC12796339",
+  "source_record_sha256": "15b5ec1b54ee040f81568a97f07dc74b6482d4587be0457fd21181e922e1c06a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a0e7db63b2f5a186b4b39b8919582092b4ff3150467c651ce979c62b60f69cdd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In silico study of a bilayer titanium dental implant with a porous titanium and hydroxyapatite composite outer layer for enhanced osseointegration",
+    "authors": "Dommeti VK, Valente F, Falcinelli C, Traini T, Ghosh G, Roy S.",
+    "year": 2026,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-31030-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

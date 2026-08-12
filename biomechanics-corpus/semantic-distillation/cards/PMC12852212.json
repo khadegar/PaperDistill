@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12852212",
+  "paper_id": "doi:10.1007/s10856-025-06993-1",
+  "pmcid": "PMC12852212",
+  "source_record_sha256": "6473e79f6ebe365203608f3b786e0c42feac5a8d57dfffebb0cf7bda2f5fa9da",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8f6015a3590a991370c8836b90a12ee1804575d43b985d06b4f2352e18b3abce",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hydroxyapatite–cellulose composites: properties, fabrication methods, and applications",
+    "authors": "Berrahou S, Latifi S, Saoiabi S, Abidi N, Saoiabi S, Azzaoui K, Hanbali G, Jodeh S, Hammouti B, Sabbahi R.",
+    "year": 2026,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-025-06993-1",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

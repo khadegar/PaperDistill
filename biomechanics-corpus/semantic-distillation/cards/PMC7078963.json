@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7078963",
+  "paper_id": "doi:10.1002/jbm.a.36838",
+  "pmcid": "PMC7078963",
+  "source_record_sha256": "4ade5ba8e28ec4b27ca53865f0d7f7283a39d1d33c4d89826ae2341337ee5ef2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0cd6c39872e0185ff933ec4d68df0059a55b2e98ecfc2cc37a9ac713555e7a66",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A step toward engineering thick tissues: Distributing microfibers within 3D printed frames",
+    "authors": "Molde J, Steele JAM, Pastino AK, Mahat A, Murthy NS, Kohn J.",
+    "year": 2019,
+    "journal": "Journal of Biomedical Materials Research. Part a",
+    "doi": "10.1002/jbm.a.36838",
+    "publication_type": "research-article; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

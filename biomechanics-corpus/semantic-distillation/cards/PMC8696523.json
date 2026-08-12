@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8696523",
+  "paper_id": "doi:10.1302/2046-3758.1012.bjr-2020-0533.r1",
+  "pmcid": "PMC8696523",
+  "source_record_sha256": "a6e9803cdcf97002e038f4e8e4aaf2fb28375c4d8aefb530cd1b3f6fbed45906",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "76de1f12e6c69e57137e4a6fef42769b02aba9ef84c309efbf3228c5b6c564bf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of cement augmentation on pedicle screw fixation under various load cases",
+    "authors": "Chevalier Y, Matsuura M, Krüger S, Traxler H, Fleege C, Rauschmann M, Schilling C.",
+    "year": 2021,
+    "journal": "Bone & Joint Research",
+    "doi": "10.1302/2046-3758.1012.bjr-2020-0533.r1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

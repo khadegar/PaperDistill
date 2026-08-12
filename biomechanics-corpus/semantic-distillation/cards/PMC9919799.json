@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9919799",
+  "paper_id": "doi:10.3390/ma16031107",
+  "pmcid": "PMC9919799",
+  "source_record_sha256": "393f664745b00819cda9acc121fcd662fea26ed342b10a1ce952f93f4abb7e27",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d89a9e8858a8f42036184e31a6f269c2523d3f34100cac0eac4d69f576e38db0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing and Performance Study of Porous Artificial Bone Based on HA-ZrO 2 -PVA Composites",
+    "authors": "Bie H, Chen H, Shan L, Tan CY, Al-Furjan MSH, Ramesh S, Gong Y, Liu YF, Zhou RG, Yang W, Wang H.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16031107",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

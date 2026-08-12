@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12075602",
+  "paper_id": "doi:10.1038/s41746-025-01677-0",
+  "pmcid": "PMC12075602",
+  "source_record_sha256": "6228359dcd4f8836a4e3fd24e9d32e5ba9654b42c77237551822a73a69126012",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b8b4eea5d5184dc264b7dae2efbbdf2240ec563f7532784104b8e4d218c59d99",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Integrating personalized shape prediction, biomechanical modeling, and wearables for bone stress prediction in runners",
+    "authors": "Xiang L, Gu Y, Deng K, Gao Z, Shim V, Wang A, Fernandez J.",
+    "year": 2025,
+    "journal": "NPJ Digital Medicine",
+    "doi": "10.1038/s41746-025-01677-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

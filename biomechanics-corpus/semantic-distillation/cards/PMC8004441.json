@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8004441",
+  "paper_id": "doi:10.1186/s12891-021-04174-z",
+  "pmcid": "PMC8004441",
+  "source_record_sha256": "605cf0fce47e9135977b85da27ebcdf18e3153d84ed5409421163ba112339d48",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "76ab3d08e58ffee324ec652a46bec745d54b9ebe3ee24d2fb51f4624de8b7240",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Total hip arthroplasty using a three-dimensional porous titanium acetabular cup: an examination of micromotion using subject-specific finite element analysis",
+    "authors": "Miyagawa T, Matsumoto K, Komura S, Akiyama H.",
+    "year": 2021,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-021-04174-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

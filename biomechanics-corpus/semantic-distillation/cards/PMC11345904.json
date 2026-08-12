@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11345904",
+  "paper_id": "doi:10.1016/j.bioactmat.2024.07.029",
+  "pmcid": "PMC11345904",
+  "source_record_sha256": "3777057feb0d695e1e3ff32ad78472db8c81b6e80f00c60a9084a9179624539c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d03f7533c8c1ffac2c7e00bd09b388db8651a62fa1b1966ab0d036af70075223",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Personalized composite scaffolds for accelerated cell- and growth factor-free craniofacial bone regeneration",
+    "authors": "Kim M, Wang X, Li Y, Lin Z, Collins CP, Liu Y, Ahn Y, Tsal HM, Song JW, Duan C, Zhu Y, Sun C, He TC, Luo Y, Reid RR, Ameer GA.",
+    "year": 2024,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2024.07.029",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

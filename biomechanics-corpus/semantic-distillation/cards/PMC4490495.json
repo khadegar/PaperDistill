@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4490495",
+  "paper_id": "doi:10.3390/ijms160613287",
+  "pmcid": "PMC4490495",
+  "source_record_sha256": "77cbbdb6a02908016a9a6c2a4e6d96ee7af6d3ae3c57af5147fe306f1284d423",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "213d4aa2ca7f7d547820006137a3d06a4e303a6b12e3a539da137682ac5468e2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of Selective Laser Melted Titanium and Magnesium Implants Coated with PCL",
+    "authors": "Matena J, Petersen S, Gieseke M, Teske M, Beyerbach M, Kampmann A, Murua Escobar H, Gellrich NC, Haferkamp H, Nolte I.",
+    "year": 2015,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms160613287",
+    "publication_type": "Comparative Study; Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

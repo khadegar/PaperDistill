@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11506238",
+  "paper_id": "doi:10.1590/0103-6440202406134",
+  "pmcid": "PMC11506238",
+  "source_record_sha256": "e58cc19e136ebee09fc4bed9ccc3959544d5ed2968cb194709f901d141364d7f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "38bbfd24d955a3a38c75f83800ffad71279198808bc83f5b6a736911b08a3267",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Use of Mesenchymal Stromal/Stem Cells (MSC) for Periodontal and Peri-implant Regeneration: Scoping Review",
+    "authors": "Santos NCCD, Cotrim KC, Achôa GL, Kalil EC, Kantarci A, Bueno DF.",
+    "year": 2024,
+    "journal": "Brazilian Dental Journal",
+    "doi": "10.1590/0103-6440202406134",
+    "publication_type": "Scoping Review; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

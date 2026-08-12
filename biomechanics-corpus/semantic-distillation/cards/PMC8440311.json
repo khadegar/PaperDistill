@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8440311",
+  "paper_id": "doi:10.1007/s11517-021-02422-x",
+  "pmcid": "PMC8440311",
+  "source_record_sha256": "05434c96b71c3bb2913572c2dbc2c42cec445a62f4e65c0fd2c5d288a4e29f0e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "57d2cf20178cdb22f87c3f99a6deb0481b033089d4a8a55f4d3ccb0e83602ab3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "2D and 3D numerical models to evaluate trabecular bone damage",
+    "authors": "Buccino F, Colombo C, Duarte DHL, Rinaudo L, Ulivieri FM, Vergani LM.",
+    "year": 2021,
+    "journal": "Medical & Biological Engineering & Computing",
+    "doi": "10.1007/s11517-021-02422-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

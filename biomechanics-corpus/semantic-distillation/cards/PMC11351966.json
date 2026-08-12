@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11351966",
+  "paper_id": "doi:10.3390/biomimetics9080498",
+  "pmcid": "PMC11351966",
+  "source_record_sha256": "b138bb730b541ff3f4cfd0dc52b898bf84f3891c0c16fb0dd1d0a640c1e5f430",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d3ed3e059c3d5464c058ccd67467ed26780aabd8acb44f288f7f6698db51ee06",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Examination of Various Abutment Designs Behavior Depending on Load Using Finite Element Analysis",
+    "authors": "Yağır MO, Şen Ş, Şen U.",
+    "year": 2024,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics9080498",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

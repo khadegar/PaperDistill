@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9868285",
+  "paper_id": "doi:10.2147/ijn.s394366",
+  "pmcid": "PMC9868285",
+  "source_record_sha256": "c096c42af7efa422add5488444cbf7e459b2f923d09f182d5699977b888bf96a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ab0e623799b586eb948934fa8cc69fa2f9e380b7232292a268a234793f756714",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dual-Nozzle 3D Printed Nano-Hydroxyapatite Scaffold Loaded with Vancomycin Sustained-Release Microspheres for Enhancing Bone Regeneration",
+    "authors": "Li J, Li K, Du Y, Tang X, Liu C, Cao S, Zhao B, Huang H, Zhao H, Kong W, Xu T, Shao C, Shao J, Zhang G, Lan H, Xi Y.",
+    "year": 2023,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s394366",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

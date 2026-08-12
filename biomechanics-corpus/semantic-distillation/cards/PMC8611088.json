@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8611088",
+  "paper_id": "doi:10.1038/s41536-021-00184-6",
+  "pmcid": "PMC8611088",
+  "source_record_sha256": "df46312a6ac4a9f2b30e8c21442e883b6f3e8955145ca5699755e8807e6a4d6b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3cac921ef0dcb92e68d1bc1414417823261487365ea5f843571422ac188936ae",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Capacitive interdigitated system of high osteoinductive/conductive performance for personalized acting-sensing implants",
+    "authors": "de Sousa BM, Correia CR, Ferreira JAF, Mano JF, Furlani EP, Soares Dos Santos MP, Vieira SI.",
+    "year": 2021,
+    "journal": "NPJ Regenerative Medicine",
+    "doi": "10.1038/s41536-021-00184-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

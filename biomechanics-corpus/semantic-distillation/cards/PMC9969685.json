@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9969685",
+  "paper_id": "doi:10.1186/s12891-023-06245-9",
+  "pmcid": "PMC9969685",
+  "source_record_sha256": "1c589fef47085f77966d185441e03af03b1fca9ecbbd53f5a5745adbcbf82694",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5c0f1a78109b3da054e50d3018ae735aecdebe95e69d06c9f9b67ff8ff499e04",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The hydroxyapatite modified 3D printed poly L-lactic acid porous screw in reconstruction of anterior cruciate ligament of rabbit knee joint: a histological and biomechanical study",
+    "authors": "Wang Y, Ren C, Bi F, Li P, Tian K.",
+    "year": 2023,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-023-06245-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

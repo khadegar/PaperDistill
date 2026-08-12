@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10604230",
+  "paper_id": "doi:10.3390/bioengineering10101187",
+  "pmcid": "PMC10604230",
+  "source_record_sha256": "55bf48bd654c6136040f7ef4751c5cc08ecbf4ac2ea6a3b5ddf2b902a70b86fc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fcc190db220fbb3968eccbaaacc12f95fd3904acb0f4f6ebe0abbc575996a8f5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mesenchymal Stem/Stromal Cells: Immunomodulatory and Bone Regeneration Potential after Tumor Excision in Osteosarcoma Patients",
+    "authors": "Baron M, Drohat P, Crawford B, Hornicek FJ, Best TM, Kouroupis D.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10101187",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

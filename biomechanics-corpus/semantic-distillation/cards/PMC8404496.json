@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8404496",
+  "paper_id": "doi:10.1002/cre2.365",
+  "pmcid": "PMC8404496",
+  "source_record_sha256": "10c435de3c88af330d2bfa963469904e46f6cb27fc7c46c8faf8408e955643d3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "32f177392e8376f85e5ac3c20b1537c6d51fff80e7e9d77c2167bb9d24669e14",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Micromotion analysis of immediately loaded implants with Titanium and Cobalt‐Chrome superstructures. 3D finite element analysis",
+    "authors": "Tobar-Reyes J, Andueza-Castro L, Jiménez-Silva A, Bustamante-Plaza R, Carvajal-Herrera J.",
+    "year": 2021,
+    "journal": "Clinical and Experimental Dental Research",
+    "doi": "10.1002/cre2.365",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational"
+    ]
+  },
+  "status": "blank"
+}

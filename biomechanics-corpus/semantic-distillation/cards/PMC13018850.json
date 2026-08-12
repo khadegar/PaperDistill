@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13018850",
+  "paper_id": "doi:10.1136/bjsports-2025-110260",
+  "pmcid": "PMC13018850",
+  "source_record_sha256": "e385b0816f83fe297c223af525730af2f6eaf7aa711375dbafa17a521f9e30ee",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2b1d6d1bc00b915d0f11e2dbe4a867a01c8da499abfa85cd4456df89cbbd893b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical insights into Achilles tendinopathy risk and protection in runners: a large prospective study 4HAIE",
+    "authors": "Jandacka D, Skypala J, Plesek J, Urbaczka J, Golian M, Burda M, Šustek J, Zahradnik D, Elavsky S, Jandackova VK, Selbie S, Silvernail JF, Hamill J.",
+    "year": 2026,
+    "journal": "British Journal of Sports Medicine",
+    "doi": "10.1136/bjsports-2025-110260",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

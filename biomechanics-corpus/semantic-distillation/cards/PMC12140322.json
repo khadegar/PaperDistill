@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12140322",
+  "paper_id": "doi:10.1002/advs.202414362",
+  "pmcid": "PMC12140322",
+  "source_record_sha256": "de0864d74e73e20cf61e3bf186fda07ad537e6899d563116880aa662bc612330",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "313fa7a46d881af90f3de84c10f1bd694f37e881fd33ce662f1b53868e3032bf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D‐Printed Biomimetic Vascular Scaffold Crosslinked with Heparan Sulfate for Sustained Release of PDGFB‐LG4 Fusion Protein Promotes Bone Regeneration",
+    "authors": "Duan J, Qian G, Zhang H, Wang F, Tian Q, Lei D, Zhao J.",
+    "year": 2025,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202414362",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

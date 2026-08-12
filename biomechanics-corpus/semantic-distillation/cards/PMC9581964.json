@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9581964",
+  "paper_id": "doi:10.1038/s41598-022-22520-6",
+  "pmcid": "PMC9581964",
+  "source_record_sha256": "8a2917d4849a0d18689e6669585b8c33f2c191b9bac15a2495c0d78aab94b398",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "43f041473c2df8ae2a6de46c8425636ac8a8ad47ea329851a4feb35a35681cfb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication of 3D printed head phantom using plaster mixed with polylactic acid powder for patient-specific QA in intensity-modulated radiotherapy",
+    "authors": "Kim SY, Park JW, Park J, Yea JW, Oh SA.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-22520-6",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

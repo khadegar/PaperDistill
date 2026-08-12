@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10731124",
+  "paper_id": "doi:10.1002/jbm4.10835",
+  "pmcid": "PMC10731124",
+  "source_record_sha256": "02b4e06ffe32edc5715c01b7615385cf3543dd562844f911d140b1b819deba51",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e73c6203f8d56b122fbe33db50cb58193f985ca16ad8ec755a2d6ee912bc9b94",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Anisotropy, Anatomical Region, and Additional Variables Influence Young's Modulus of Bone: A Systematic Review and Meta‐Analysis",
+    "authors": "Kovács K, Váncsa S, Agócs G, Harnos A, Hegyi P, Weninger V, Baross K, Kovács B, Soós G, Kocsis G.",
+    "year": 2023,
+    "journal": "JBMR Plus",
+    "doi": "10.1002/jbm4.10835",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

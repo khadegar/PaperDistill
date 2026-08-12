@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10253518",
+  "paper_id": "doi:10.3390/ma16113895",
+  "pmcid": "PMC10253518",
+  "source_record_sha256": "46326efce300e6f7dc4185e79c4bfcd0796cd740887c10e4da065a255e6d8a0d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5dc7ae67456b324b15c84071ac30af069d5ccccb33756ac78fd5663ffc973096",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Antibacterial 3D-Printed Silver Nanoparticle/Poly Lactic-Co-Glycolic Acid (PLGA) Scaffolds for Bone Tissue Engineering",
+    "authors": "Chen F, Han J, Guo Z, Mu C, Yu C, Ji Z, Sun L, Wang Y, Wang J.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16113895",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

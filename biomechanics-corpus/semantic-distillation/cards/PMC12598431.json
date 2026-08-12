@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12598431",
+  "paper_id": "doi:10.21037/aoj-25-45",
+  "pmcid": "PMC12598431",
+  "source_record_sha256": "150d6dd4fb36f43831fe56621b83991893c2323e2537416e280cfd93f4bd3b8f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8f59e99bfc7c63ffb78e4a92689c993419660ea000a24053f6995427bb00742d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteochondral solutions for cartilage lesions of the knee: a narrative review",
+    "authors": "van der List JP, Cavendish PA, Milliron EM, Flanigan E, Flanigan DC.",
+    "year": 2025,
+    "journal": "Annals of Joint",
+    "doi": "10.21037/aoj-25-45",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

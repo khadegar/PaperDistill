@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10253623",
+  "paper_id": "doi:10.3390/ijms24119464",
+  "pmcid": "PMC10253623",
+  "source_record_sha256": "c3bbb83c5f3f9dad76881d89d2c2e1e8812702f60a8262cc58b0cb3114585878",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5f2a1684a1066fc15b74b3464dbff3de5402e5b412d9bb565a5bafa30a1e66eb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Effect of Polymeric Nanofibers Used for 3D-Printed Scaffolds on Cellular Activity in Tissue Engineering: A Review",
+    "authors": "Kharaghani D, Kaffashsaei E, Haider MK, Kim IS, Kim IS.",
+    "year": 2023,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms24119464",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

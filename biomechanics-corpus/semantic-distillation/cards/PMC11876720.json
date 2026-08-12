@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11876720",
+  "paper_id": "doi:10.1111/cid.70016",
+  "pmcid": "PMC11876720",
+  "source_record_sha256": "2a71b617dc96d615c3a7e906c6b6cada06c24c549b91acb086cb284d466d7c31",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9cdd2edb27daff3808aee0c42f4b61dc7b5f9577391e03086ee08a3e6c002fe0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Prediction of Dental Implants Primary Stability With Cone Beam Computed Tomography‐Based Homogenized Finite Element Analysis",
+    "authors": "Vautrin A, Thierrin R, Wili P, Klingler S, Chappuis V, Varga P, Zysset P.",
+    "year": 2025,
+    "journal": "Clinical Implant Dentistry and Related Research",
+    "doi": "10.1111/cid.70016",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

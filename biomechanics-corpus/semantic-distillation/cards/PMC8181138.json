@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8181138",
+  "paper_id": "doi:10.3389/fbioe.2021.677768",
+  "pmcid": "PMC8181138",
+  "source_record_sha256": "741ba8e5026422360ecbba9c5f29416224d7839bccd694abc3d5c6246e4744b6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9df1698e8cae7caea25d79682c0d7e5ac3e036de2671f38158d87831be7e6fb1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Rib Cortical Bone Fracture Risk as a Function of Age and Rib Strain: Updated Injury Prediction Using Finite Element Human Body Models",
+    "authors": "Larsson KJ, Blennow A, Iraeus J, Pipkorn B, Lubbe N.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.677768",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

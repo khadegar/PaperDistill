@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4578837",
+  "paper_id": "doi:10.1155/2015/857969",
+  "pmcid": "PMC4578837",
+  "source_record_sha256": "67cd993bb3058fc16bd189a449199bbc083c022ed987e9d3d4587da114db7491",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2cd9977100001ec08640b6ef8f3909f54a83128372ba777fe576fdca12e007ae",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Anodisation Increases Integration of Unloaded Titanium Implants in Sheep Mandible",
+    "authors": "Duncan WJ, Lee MH, Bae TS, Lee SJ, Gay J, Loch C.",
+    "year": 2015,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2015/857969",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12701623",
+  "paper_id": "doi:10.1002/jor.70108",
+  "pmcid": "PMC12701623",
+  "source_record_sha256": "67f5321860757b7765f6f23178506da9aa35fe3b6243e64ec0742c1676d9eb4c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "122046dc782bc1037d1fe7a502b93c0be7d12931b05a3fc010376e2f4f46fd9d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Acoustic Prediction and Biomechanical Validation of Primary Stability in Uncemented Short‐Stem Hip Prostheses: An Experimental Study",
+    "authors": "Jahnke A, Schreynemackers S, Tawous A, Petersen S, Hamad S, Rickert M, Ishaque B.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Research",
+    "doi": "10.1002/jor.70108",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Validation Study; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

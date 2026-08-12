@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12938692",
+  "paper_id": "doi:10.3390/bioengineering13020228",
+  "pmcid": "PMC12938692",
+  "source_record_sha256": "950e9bac5f2898663b080736070bc3a56c29f1e7ae96d732aef85fdfbff0a67e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cf9e17773027d7476271461685c809db4abbd43843833387dfdf70f3a6aae8f6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Review of Motion-Preserving Cervical Spinal Implants and Fusion Constructs",
+    "authors": "Merem I, Vasquez R, Wise J, Beaulieu E, Patel S, Lin M, Pires G, Vrionis FD.",
+    "year": 2026,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering13020228",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

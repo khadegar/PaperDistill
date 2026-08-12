@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11790508",
+  "paper_id": "doi:10.1002/cnm.70014",
+  "pmcid": "PMC11790508",
+  "source_record_sha256": "5224704f0a2842398ef80c0575379d343f6c9aee6f4bff096fe38c82ae10ec52",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "31ff852548475790b2d122d4d2e33e506dae85c652bcaa6372b8b50689f3e786",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Health Deterioration in Transfemoral Prosthetic Users: An Analytical Biomechanical Explanation",
+    "authors": "Zavaleta-Ruiz JL, Major MJ, Pankaj P.",
+    "year": 2025,
+    "journal": "International Journal for Numerical Methods in Biomedical Engineering",
+    "doi": "10.1002/cnm.70014",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

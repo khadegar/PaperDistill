@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12114454",
+  "paper_id": "doi:10.3390/ph18050631",
+  "pmcid": "PMC12114454",
+  "source_record_sha256": "c3f4ca131ca2c1a19dd4d32b5592cca19f3fb06a6276d6cdf5a8d28f1fc4b4d1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d99275d1f2cb40b3c220962589cbbbe68d0e7cc35409da8a419a7b0e18d5e81e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "PLGA Implants for Controlled Drug Delivery and Regenerative Medicine: Advances, Challenges, and Clinical Potential",
+    "authors": "Omidian H, Wilson RL.",
+    "year": 2025,
+    "journal": "Pharmaceuticals",
+    "doi": "10.3390/ph18050631",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

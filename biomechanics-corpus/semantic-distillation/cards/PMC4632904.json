@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4632904",
+  "paper_id": "doi:10.15386/cjmed-479",
+  "pmcid": "PMC4632904",
+  "source_record_sha256": "a2c1b8ec0fb0f2712e687ccdd3d5555cf3d27b5624e525ebb7a3d0cd48741f50",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "92b7ba315ea02e1c589f543601e713800e3af60d554de89c0c2a40d62b297ea1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Micro-CT and histological analysis of Ti 6 Al 7 Nb custom made implants with hydroxyapatite and SiO 2 -TiO 2 coatings in a rabbit model",
+    "authors": "Armencea G, Berce C, Rotaru H, Bran S, Leordean D, Coada C, Todea M, Jula CA, Gheban D, Baciut G, Baciut M, Campian RS.",
+    "year": 2015,
+    "journal": "Clujul Medical",
+    "doi": "10.15386/cjmed-479",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

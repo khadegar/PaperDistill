@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6549216",
+  "paper_id": "doi:10.1302/2058-5241.4.180070",
+  "pmcid": "PMC6549216",
+  "source_record_sha256": "e880606e6a0ae0963b66ce26dde30d6ad339c116ec5137cb9a39d5858f9795b6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "622cfc3ffe402c01d6c5ef36493176b83cc7ef8c76025598ebb7181c34cfa6b6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The role of rotating hinge implants in revision total knee arthroplasty",
+    "authors": "Pasquier G, Ehlinger M, Mainard D.",
+    "year": 2019,
+    "journal": "EFORT Open Reviews",
+    "doi": "10.1302/2058-5241.4.180070",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

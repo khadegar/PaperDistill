@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10414018",
+  "paper_id": "doi:10.1039/d3ra02786d",
+  "pmcid": "PMC10414018",
+  "source_record_sha256": "cc9d70dcefcf38b93bdf9d44d0f96495d214611a7529a657c3b0a20d8240a6c7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9ed5096e5dc777cb0184d044a0dca502c2f9ba36c302ac9427f347917a1db188",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D double-reinforced graphene oxide – nanocellulose biomaterial inks for tissue engineered constructs †",
+    "authors": "Cernencu AI, Vlasceanu GM, Serafim A, Pircalabioru G, Ionita M.",
+    "year": 2023,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d3ra02786d",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10995801",
+  "paper_id": "doi:10.1016/j.artd.2024.101371",
+  "pmcid": "PMC10995801",
+  "source_record_sha256": "5cde6ae142df29fa0d37798cd4089d23ff41abcf37eeb5843dc1b274a561479e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "10b4c691416e92c73351af64fda81be9a83c5f82c84ec2b18991489454726b02",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Early Radiographic and Clinical Outcomes of an Additive-Manufactured Acetabular Component",
+    "authors": "Radtke L, Frandsen JJ, Lancaster AJ, Loughmiller S, Blackburn BE, Soltanolkotabi M, Anderson LA, Gililland JM.",
+    "year": 2024,
+    "journal": "Arthroplasty Today",
+    "doi": "10.1016/j.artd.2024.101371",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

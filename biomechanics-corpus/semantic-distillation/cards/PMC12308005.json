@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12308005",
+  "paper_id": "doi:10.1016/j.mtbio.2025.102123",
+  "pmcid": "PMC12308005",
+  "source_record_sha256": "04ff6a722c4d94c342de928466dcf1431e2c59bb0e2888acf8177ebbf9babd0c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5272bad18223d1513863116eb08eea9373dc14bc3f0c78129e881a3f58c7aff2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additively manufactured biodegradable porous FeMn-akermanite scaffolds for critical-size bone defects: the first in vivo evaluation",
+    "authors": "Putra NE, Xu J, Leeflang MA, Kops N, Klimopoulou M, Moosabeiki V, Fratila-Apachitei LE, Zhou J, van Osch GJVM, Farrell E, Zadpoor AA.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.102123",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10432209",
+  "paper_id": "doi:10.1016/j.mtbio.2023.100748",
+  "pmcid": "PMC10432209",
+  "source_record_sha256": "2cf3e97fd7adc67a8723e20fa51623485072869d12f1d05f1b93cd215dfcedf4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "957209e96565f62c29a3dc8797e93fc6d1e9d6f78385e5f9f6c9f15fa85fe9a9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Latest advances: Improving the anti-inflammatory and immunomodulatory properties of PEEK materials",
+    "authors": "Zhang Z, Zhang X, Zheng Z, Xin J, Han S, Qi J, Zhang T, Wang Y, Zhang S.",
+    "year": 2023,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2023.100748",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

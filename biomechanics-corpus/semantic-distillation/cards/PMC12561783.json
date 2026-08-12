@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12561783",
+  "paper_id": "doi:10.3390/biomimetics10100700",
+  "pmcid": "PMC12561783",
+  "source_record_sha256": "8022857db39d6807d0e1e4ab6e43d5d7f47fe846dcfe30bfe2bbf220f8e1c164",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cef04cc62bb75d3efff4ea8f578446cb28da9e4828846956bb6d34d60909a8b6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimizing Biodegradable Poly(D,L-lactide) Scaffolds Reinforced with Graphene Oxide for Bone Tissue Regeneration",
+    "authors": "Díaz E, García A, León X, Merodio Y, Ribeiro S, Lanceros-Méndez S.",
+    "year": 2025,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics10100700",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

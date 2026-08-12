@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8101616",
+  "paper_id": "doi:10.1002/jbm4.10489",
+  "pmcid": "PMC8101616",
+  "source_record_sha256": "f1d35e9bbfe9e8770e0d19af5e7cb712a3c659d296d01572ff4fca41a463dafd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "48fdc05a3a982ebe86c00b416002b7ba7f4c66601d639c0e85fe123af7d39f26",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cancellous Bone May Have a Greater Adaptive Strain Threshold Than Cortical Bone",
+    "authors": "Yang H, Bullock WA, Myhal A, DeShield P, Duffy D, Main RP.",
+    "year": 2021,
+    "journal": "JBMR Plus",
+    "doi": "10.1002/jbm4.10489",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

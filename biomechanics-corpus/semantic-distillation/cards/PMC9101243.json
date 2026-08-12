@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9101243",
+  "paper_id": "doi:10.3390/jcm11092577",
+  "pmcid": "PMC9101243",
+  "source_record_sha256": "75548c15e8c27fcf2b9dcdf6ee1ca0bb4fea66aafcf965d15216cc187fd0ca84",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fc2f599dea6194118f5ae040a57d906b95000fe2c9e2687db6c0bd469b60b70d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Innovation of Surgical Techniques for Screw Fixation in Patients with Osteoporotic Spine",
+    "authors": "Kanno H, Onoda Y, Hashimoto K, Aizawa T, Ozawa H.",
+    "year": 2022,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm11092577",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

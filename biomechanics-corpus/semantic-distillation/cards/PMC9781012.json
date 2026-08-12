@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9781012",
+  "paper_id": "doi:10.3390/pharmaceutics14122843",
+  "pmcid": "PMC9781012",
+  "source_record_sha256": "797e28b2cca590374cc9b185aaabe3edbbded248caafeb878ed048481c07d958",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "407060c65de99f49a52f0339a5d5f722cfe072138e3b0cb71e2df21c7a4ea8af",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hybrid 3D Printed and Electrospun Multi-Scale Hierarchical Polycaprolactone Scaffolds to Induce Bone Differentiation",
+    "authors": "Gonzalez-Pujana A, Carranza T, Santos-Vizcaino E, Igartua M, Guerrero P, Hernandez RM, de la Caba K.",
+    "year": 2022,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics14122843",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

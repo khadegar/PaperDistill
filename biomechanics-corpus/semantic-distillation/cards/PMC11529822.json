@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11529822",
+  "paper_id": "doi:10.1039/d4lc00404c",
+  "pmcid": "PMC11529822",
+  "source_record_sha256": "d1b0c60096a251670709ead5ed91aa6cffd4304dc4db213d5b95df3973e3d75b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e1d3a1c22cbd2033687a3824e696a919a22627d44c9e087dcc1ad52a67481346",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A gravity-driven tissue chip to study the efficacy and toxicity of cancer therapeutics †",
+    "authors": "Rafsanjani Nejad P, Lamichhane A, Guragain P, Luker G, Tavana H.",
+    "year": 2024,
+    "journal": "Lab on a Chip",
+    "doi": "10.1039/d4lc00404c",
+    "publication_type": "research-article; Research Support, U.S. Gov't, Non-P.H.S.; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

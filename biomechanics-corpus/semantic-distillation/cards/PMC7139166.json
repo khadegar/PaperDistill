@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7139166",
+  "paper_id": "doi:10.1016/j.bioactmat.2020.03.009",
+  "pmcid": "PMC7139166",
+  "source_record_sha256": "f02698895895d9fbc307e71d883ca3cd002f6374cd877424a83c6ece5cbfbaf9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "32078d371411575b375cf852fa6debd2a4a7ac96b2ce346b7fdeae0bca459594",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive manufacturing of biodegradable porous orthopaedic screw",
+    "authors": "Dhandapani R, Krishnan PD, Zennifer A, Kannan V, Manigandan A, Arul MR, Jaiswal D, Subramanian A, Kumbar SG, Sethuraman S.",
+    "year": 2020,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2020.03.009",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

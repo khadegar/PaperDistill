@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5005705",
+  "paper_id": "doi:10.1186/s40729-015-0006-2",
+  "pmcid": "PMC5005705",
+  "source_record_sha256": "15147a6248dab06912ab29e9559c202db600e289c88de112815f00696413e29d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1de3d2ac44545ebe9a744128767320b0fb52de89c6e7db6c5d2336ec8832efbc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Genomic analyses of early peri-implant bone healing in humans: a systematic review",
+    "authors": "Shanbhag S, Shanbhag V, Stavropoulos A.",
+    "year": 2015,
+    "journal": "International Journal of Implant Dentistry",
+    "doi": "10.1186/s40729-015-0006-2",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

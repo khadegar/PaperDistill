@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6805537",
+  "paper_id": "doi:10.1186/s41232-019-0109-x",
+  "pmcid": "PMC6805537",
+  "source_record_sha256": "ee386581845c73245c9a10645c0a149456c745737abc47fb5ccc2165a2c99b90",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2fd2359cfd64214459f5eedae3327ae4144f9c22e25f807ba623c695ae0f6472",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical application of injectable growth factor for bone regeneration: a systematic review",
+    "authors": "Kuroda Y, Kawai T, Goto K, Matsuda S.",
+    "year": 2019,
+    "journal": "Inflammation and Regeneration",
+    "doi": "10.1186/s41232-019-0109-x",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11470186",
+  "paper_id": "doi:10.1016/j.jot.2024.08.011",
+  "pmcid": "PMC11470186",
+  "source_record_sha256": "b8e7cc7204f4dba922863379e0b8d23b246a5a09126599b265879465bc202e65",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "74b536f6b7877a317d7f33a05cb7389f6f6ba8dbb2a88f9d1417f87298f53d32",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Failure analysis and design improvement of retrieved plates from revision surgery",
+    "authors": "Zhang NZ, Shui YY, Zhang QD, Zhang YT, Su J, Qin L, Cheng CK.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2024.08.011",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

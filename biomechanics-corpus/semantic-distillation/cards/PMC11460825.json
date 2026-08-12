@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11460825",
+  "paper_id": "doi:10.1051/sicotj/2024034",
+  "pmcid": "PMC11460825",
+  "source_record_sha256": "bfa10ae8735542f83abe6d66765ae80e5a1d74abc7bcbe28bd46ed0625edc1cf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7f5b197453e09ecbc54b50e3cc8633c37f3171505e493ceee20cc6062eacf868",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical comparison of the tensile strength of fixation implants used for pull-out repair of medial meniscus posterior root tear",
+    "authors": "Handa M, Takahashi T, Takeshita K.",
+    "year": 2024,
+    "journal": "SICOT-J",
+    "doi": "10.1051/sicotj/2024034",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

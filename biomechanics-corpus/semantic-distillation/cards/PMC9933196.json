@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9933196",
+  "paper_id": "doi:10.1021/acsomega.2c05984",
+  "pmcid": "PMC9933196",
+  "source_record_sha256": "f83b3c08fd973a953887fe40eeda6d1070beca18a4554058faa884867509fecc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "48446794f25a149f493146d8b70cec6a3fef08d96e90f1451eaace9cbc0b4663",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Strategies To Modify the Surface and Bulk Properties of 3D-Printed Solid Scaffolds for Tissue Engineering Applications",
+    "authors": "Chakraborty R, Anoop AG, Thakur A, Mohanta GC, Kumar P.",
+    "year": 2023,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.2c05984",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

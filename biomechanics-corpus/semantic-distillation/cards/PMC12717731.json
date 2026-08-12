@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12717731",
+  "paper_id": "doi:10.1186/s12938-025-01475-5",
+  "pmcid": "PMC12717731",
+  "source_record_sha256": "2bda56817313b295ed8a98cb215f8d4b68c3ae6ff5a8f90749bc2be8d3b7addc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a7225d656546f87c2ff65b4b06b833bb612105067f0fea2c4242ad1a47ae10d4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Indirect 3D printing in tissue engineering: expanding materials used for improved scaffold functionality",
+    "authors": "Bahraminasab M, Arabhalvaei M, Ghanbari MA.",
+    "year": 2025,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-025-01475-5",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

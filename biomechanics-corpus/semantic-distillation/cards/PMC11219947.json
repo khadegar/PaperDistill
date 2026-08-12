@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11219947",
+  "paper_id": "doi:10.3389/fbioe.2024.1395197",
+  "pmcid": "PMC11219947",
+  "source_record_sha256": "39d50c0e7096064f6c3550fadb3eebc47931f20a1f758ef4ffeffdcd07918a8c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f493a3e1ab70d92b4b91510d3d62ba94a5b80697f3369ee9def3833fb1037762",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical analysis of the tandem spinal external fixation in a multiple-level noncontiguous lumbar fractures model: a finite element analysis",
+    "authors": "Chen H, Kang Y, Yan Y, Wang H, Peng W, Liao Y, Zou M, Xu Z, Song X, Wang W, Wang C.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1395197",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

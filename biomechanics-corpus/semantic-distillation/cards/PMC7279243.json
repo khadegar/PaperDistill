@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7279243",
+  "paper_id": "doi:10.3390/ijms21103628",
+  "pmcid": "PMC7279243",
+  "source_record_sha256": "1116f2e6cb73dd0de6e6e62095461e6ca5f0c91455da2f353e378887ed048358",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4a4c85b6fd19558118b3bd64f39a7d8a69df65174ab9a5af740c3044c1e1ee62",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Printed Porous Titanium Screw with Bioactive Surface Modification for Bone–Tendon Healing: A Rabbit Animal Model",
+    "authors": "Huang YM, Huang CC, Tsai PI, Yang KY, Huang SI, Shen HH, Lai HJ, Huang SW, Chen SY, Lin FH, Chen CY.",
+    "year": 2020,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms21103628",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

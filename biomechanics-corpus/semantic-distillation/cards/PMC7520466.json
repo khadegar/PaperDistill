@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7520466",
+  "paper_id": "doi:10.2147/ijn.s254094",
+  "pmcid": "PMC7520466",
+  "source_record_sha256": "efd34ffd9f77077038143cd101217a2334926afa031ce620d08fb993d07f20fb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c94a33be005dd068654aee7a95c6e11f9c11c60fcdf4438092224f6fa1907429",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Novel 3D-bioprinted Porous Nano Attapulgite Scaffolds with Good Performance for Bone Regeneration",
+    "authors": "Wang Z, Hui A, Zhao H, Ye X, Zhang C, Wang A, Zhang C.",
+    "year": 2020,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s254094",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8081879",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.04.005",
+  "pmcid": "PMC8081879",
+  "source_record_sha256": "1a30206027391d808c86aa89124112db0cf58fde3f2aab2a7a787ba0b056da42",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1a4d0ac93bb3cd2da65fa384b98475b36a300154f53e611d5779bd32606b9fad",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Marginal sealing around integral bilayer scaffolds for repairing osteochondral defects based on photocurable silk hydrogels",
+    "authors": "Wu X, Zhou M, Jiang F, Yin S, Lin S, Yang G, Lu Y, Zhang W, Jiang X.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.04.005",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

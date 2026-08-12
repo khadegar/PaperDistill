@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12613119",
+  "paper_id": "doi:10.1021/acsomega.5c06943",
+  "pmcid": "PMC12613119",
+  "source_record_sha256": "613cef51299b9a83e2ae5f459bfec8edfd6dcbdac8244fbfee6093b913cfca2f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2f6d34144bf2cf2e90e8002c02d3fcc6348c463d380cc0bf7d65afcf3b56c7c4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osseointegration Effects of 3D-Printed Porous Titanium–Tantalum Scaffolds with Different Tantalum Contents",
+    "authors": "Liu G, Kong Z, Jia Z, Wang J.",
+    "year": 2025,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.5c06943",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

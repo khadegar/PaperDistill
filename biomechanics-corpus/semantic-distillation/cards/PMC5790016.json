@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5790016",
+  "paper_id": "doi:10.1038/s41598-018-19742-y",
+  "pmcid": "PMC5790016",
+  "source_record_sha256": "7f9645c823e4d17e179ce806a8cb4914db209ccc2d1ba8dd4f5c3849e50076e1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0c81245b642bd9eeeabd83fc59f7ceeb60b18e1f70b550b17bf7b473692c96c2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of the osteogenesis and osseointegration of titanium alloys coated with graphene: an in vivo study",
+    "authors": "Li K, Wang C, Yan J, Zhang Q, Dang B, Wang Z, Yao Y, Lin K, Guo Z, Bi L, Han Y.",
+    "year": 2018,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-018-19742-y",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

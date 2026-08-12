@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7932120",
+  "paper_id": "doi:10.1371/journal.pone.0247764",
+  "pmcid": "PMC7932120",
+  "source_record_sha256": "df28c431aaa7b93b35ea94019760637f586f1af263a02316ceac09557d425ba0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8dc24b785cb53b79f746873c9df530954a3fe59e744f1b57e76bbaa343b50d57",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Study on mechanical properties and permeability of elliptical porous scaffold based on the SLM manufactured medical Ti6Al4V",
+    "authors": "Shi C, Lu N, Qin Y, Liu M, Li H, Li H.",
+    "year": 2021,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0247764.r008",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

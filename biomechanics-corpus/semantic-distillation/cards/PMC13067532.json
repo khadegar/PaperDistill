@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13067532",
+  "paper_id": "doi:10.1186/s13018-026-06675-w",
+  "pmcid": "PMC13067532",
+  "source_record_sha256": "eaf904469fc8c17a23f8e25e00569ffec5ed94d969e205947a8343a4e8ba9cb0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cfa38ec12b2969beffc3c81698d0a7e2caf3d8cb523827598d111c8e4d51369b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Lower limb osseointegrated prosthetics: are we standing on the edge of a new era?",
+    "authors": "Barootchi E, Jirofti N, Daliri M, Moradi A.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-026-06675-w",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

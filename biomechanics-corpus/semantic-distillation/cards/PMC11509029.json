@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11509029",
+  "paper_id": "doi:10.3390/jfb15100280",
+  "pmcid": "PMC11509029",
+  "source_record_sha256": "60f77f27b3588328ffe7347a2814d7757f3b6ebab78792af038310488a5bb13b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e487b141bcc9e8fd38a531db0da47dec3f137fdeca36477bdbe1351fbe2b4ac5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Functional Scaffolds for Bone Tissue Regeneration: A Comprehensive Review of Materials, Methods, and Future Directions",
+    "authors": "Todd EA, Mirsky NA, Silva BLG, Shinde AR, Arakelians ARL, Nayak VV, Marcantonio RAC, Gupta N, Witek L, Coelho PG.",
+    "year": 2024,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb15100280",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

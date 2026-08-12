@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9932198",
+  "paper_id": "doi:10.3389/fsurg.2023.1019410",
+  "pmcid": "PMC9932198",
+  "source_record_sha256": "0684269f0fe44589072059172175cab955855e1fc8cd5ce1a5470cfbef2045c3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6179f240f888f24754461170a955f67310fc34fa20eea85719658c36cb8775d3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Artificial lamina after laminectomy: Progress, applications, and future perspectives",
+    "authors": "Yue J, Han Q, Chen H, Zhang A, Liu Y, Gong X, Wang Y, Wang J, Wu M.",
+    "year": 2023,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2023.1019410",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

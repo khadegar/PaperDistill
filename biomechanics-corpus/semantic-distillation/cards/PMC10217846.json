@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10217846",
+  "paper_id": "doi:10.3390/ijms24108519",
+  "pmcid": "PMC10217846",
+  "source_record_sha256": "e789add638cb2a5c5d3b41aa0ecd8beee805bbe841fe84a03ad6d220d28d6c2d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0d93be53a9c8fb36e312a4f8a8ce5a1ecfe23bcd9c105046ca8ed6ee815eb9b6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Novel Porous Butyryl Chitin–Animal Derived Hydroxyapatite Composite Scaffold for Cranial Bone Defect Repair",
+    "authors": "Zhang W, Jiang Z, Chi J, Sun H, Li H, Liu W, Han B.",
+    "year": 2023,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms24108519",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

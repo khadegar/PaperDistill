@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8585171",
+  "paper_id": "doi:10.3390/ma14216409",
+  "pmcid": "PMC8585171",
+  "source_record_sha256": "c5738d1f539809ee1f264e0b5679373df2b09d76e94c47db7fc46b1bfc6223b4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ebda05b896c18b205e270d2858ce44b088ed5c3ecb0e968c79f53c92d639fa5a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Correlation of Regional Microstructure and Mechanics of the Cervical Articular Process in Adults",
+    "authors": "Feng H, Ma Y, Wang SJ, Zhang S, Li Z.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14216409",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11121928",
+  "paper_id": "doi:10.3390/ijms25105555",
+  "pmcid": "PMC11121928",
+  "source_record_sha256": "b446a83539263e5071a64cd3e84c98ec3a736690124e2bc24661625919fc73ac",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fa66eaf192ee4082d80b737134b35d17f63a30a51d14dd23b6aa0dcfca4550fb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Murine iPSC-Loaded Scaffold Grafts Improve Bone Regeneration in Critical-Size Bone Defects",
+    "authors": "Kessler F, Arnke K, Eggerschwiler B, Neldner Y, Märsmann S, Gröninger O, Casanova EA, Weber FA, König MA, Stark WJ, Pape HC, Cinelli P, Tiziani S.",
+    "year": 2024,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms25105555",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

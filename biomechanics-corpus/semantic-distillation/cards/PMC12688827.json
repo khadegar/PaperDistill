@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12688827",
+  "paper_id": "doi:10.1097/ms9.0000000000004248",
+  "pmcid": "PMC12688827",
+  "source_record_sha256": "823e0f3f1ef2f9c91c0877e8045aa4d81a3dd0d3131dcbe750cbc22dab2e7a83",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "11b7c0fc0d82aaf86a383bc1a7a0bbb63cc54d9a06e31e9ac942b49e621dbe6d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed living implants: advancing cranial reconstruction",
+    "authors": "Khizar M, Zaib M, Bilal M, Karimi H, Aminpoor H.",
+    "year": 2025,
+    "journal": "Annals of Medicine and Surgery",
+    "doi": "10.1097/ms9.0000000000004248",
+    "publication_type": "Letter",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "other_substantive",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

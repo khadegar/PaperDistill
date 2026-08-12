@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7078813",
+  "paper_id": "doi:10.1002/jbm.b.34449",
+  "pmcid": "PMC7078813",
+  "source_record_sha256": "7f2e5b1a58dbeecd761c223e921f7ce6ba724b0c22c748327685796a4eab6e19",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a89548fea74d22506d03999efa04577a5dbe8bd9c478d9eac36391db51ea94e8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "System for application of controlled forces on dental implants in rat maxillae: Influence of the number of load cycles on bone healing",
+    "authors": "de Barros E Lima Bueno R, Dias AP, Ponce KJ, Brunski JB, Nanci A.",
+    "year": 2019,
+    "journal": "Journal of Biomedical Materials Research. Part B, Applied Biomaterials",
+    "doi": "10.1002/jbm.b.34449",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11807329",
+  "paper_id": "doi:10.1186/s12903-025-05586-2",
+  "pmcid": "PMC11807329",
+  "source_record_sha256": "44c76799febcb3763c1f619e1a93a2681fb42b4d974964856ca6b1ecfcb46b9a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "14ff59da7c13734ac10cafcd656d5c3840ac972116b7651f92cd5b528b2a7d59",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Microscale bone interlocking enhances osseointegration strength on the rough surface of 3D-printed titanium implants: experimental and finite element analysis",
+    "authors": "Shu T, Shi H, Li M, Lin YC, Li A, Pei D.",
+    "year": 2025,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-025-05586-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

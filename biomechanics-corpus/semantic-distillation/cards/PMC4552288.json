@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4552288",
+  "paper_id": "doi:10.1186/s40824-015-0037-z",
+  "pmcid": "PMC4552288",
+  "source_record_sha256": "f836ecdb54680fe06da7490f8c73d48e81f078ce053c8e1dbd12832b600a3758",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3caf65420b423f76eb7b49136d3a3dbd30acb7f25485cad7c0ce6d2a6a7c291a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Production of porous Calcium Phosphate (CaP) ceramics with aligned pores using ceramic/camphene-based co-extrusion",
+    "authors": "Choi WY, Kim HE, Moon YW, Shin KH, Koh YH.",
+    "year": 2015,
+    "journal": "Biomaterials Research",
+    "doi": "10.1186/s40824-015-0037-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

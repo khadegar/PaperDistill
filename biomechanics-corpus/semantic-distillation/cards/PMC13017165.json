@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13017165",
+  "paper_id": "doi:10.11005/jbm.26.1003",
+  "pmcid": "PMC13017165",
+  "source_record_sha256": "471d7872357dcd4c6fbce827d7ba72d0fa25174af8f24d5a1195eddb96fa7183",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ad25c4d8c52236a4cdde34e6f0e276a2ddba628fe4f81819e8f3d02b3ad755f0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimetic Architectural Cover Accelerates Osseointegration of Titanium Implants",
+    "authors": "Kim SJ, Kim EC, Choi WY, Lee SJ, Ryu JH.",
+    "year": 2026,
+    "journal": "Journal of Bone Metabolism",
+    "doi": "10.11005/jbm.26.1003",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

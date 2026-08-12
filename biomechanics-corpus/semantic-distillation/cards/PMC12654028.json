@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12654028",
+  "paper_id": "doi:10.3390/medicina61112050",
+  "pmcid": "PMC12654028",
+  "source_record_sha256": "3b523e1187c1c8202fb278afd9c4250403716fb56fe6cac041f66f2bd0e0bcd1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "352db61d849f4dc428c2dc138c43f4a2d2c5432a2c1244276d9880263691f7cb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Femoral Malunion and Its Correction: A Review",
+    "authors": "Vaidya R, Mazur M, Agomuoh I, Abdelnour D, Boutany M, Teitge R.",
+    "year": 2025,
+    "journal": "Medicina",
+    "doi": "10.3390/medicina61112050",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

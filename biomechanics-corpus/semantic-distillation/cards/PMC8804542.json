@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8804542",
+  "paper_id": "pmcid:PMC8804542",
+  "pmcid": "PMC8804542",
+  "source_record_sha256": "246421c6e58c88be4ae22365c1bb2a7f6aee5bce6a5297881c840c9b8a0e3f23",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c0098135284cde2b8856d3753dbfec07706a304f436215d2567e71b518f26751",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of stress distribution of porous tantalum and solid titanium implant-assisted overdenture in the mandible: A finite element study",
+    "authors": "Akbarzadeh A, Hemmati Y, Saleh-Saber F.",
+    "year": 2021,
+    "journal": "Dental Research Journal",
+    "doi": null,
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

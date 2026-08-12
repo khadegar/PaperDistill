@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10690428",
+  "paper_id": "doi:10.3389/fbioe.2023.1254739",
+  "pmcid": "PMC10690428",
+  "source_record_sha256": "336fdc18683c3d68e67239f3ce51f40f1dcc215ab9732d0993334f0c2daf2d28",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f6c01f83fde9128bc37cf3b5d8f7b5ed06acd237bfca2e5b6c52417c69e583fc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mending a broken heart by biomimetic 3D printed natural biomaterial-based cardiac patches: a review",
+    "authors": "Rosellini E, Cascone MG, Guidi L, Schubert DW, Roether JA, Boccaccini AR.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1254739",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

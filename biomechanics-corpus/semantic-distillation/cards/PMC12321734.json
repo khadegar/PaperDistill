@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12321734",
+  "paper_id": "doi:10.1186/s40729-025-00638-2",
+  "pmcid": "PMC12321734",
+  "source_record_sha256": "f87d0ce8b52d60ec33de6a8e3603e49662bb5e872dcc375f43b5f4a7d33c5ef2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d4f563a4bdef16706853d373fff8ed089711ad36bceda2bba143fedfaddd747a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The next frontier in osseointegration: energy and speed as critical determinants and their enhancement by UV photofunctionalization",
+    "authors": "Matsuura T, Komatsu K, Shibata R, Suzumura T, Choi J, Ogawa T.",
+    "year": 2025,
+    "journal": "International Journal of Implant Dentistry",
+    "doi": "10.1186/s40729-025-00638-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

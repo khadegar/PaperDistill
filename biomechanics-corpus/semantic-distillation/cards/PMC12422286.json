@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12422286",
+  "paper_id": "doi:10.1117/1.jbo.30.12.124505",
+  "pmcid": "PMC12422286",
+  "source_record_sha256": "4c36184400087bb2e93aa5b3dcf36e897eb2dee29adb1c29a855e34e58d84f72",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c7edad9964c9494b9571572be7b44b5571d4b00c764eea25aac261b7c92db4ab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Quantifying age and spatial variations of bone marrow elasticity with noncontact optical coherence elastography",
+    "authors": "Singh A, Singh M, Aglyamov SR, Mayerich D, Larin KV.",
+    "year": 2025,
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.jbo.30.12.124505",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

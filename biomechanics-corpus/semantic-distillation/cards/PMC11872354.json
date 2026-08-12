@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11872354",
+  "paper_id": "doi:10.1111/os.14345",
+  "pmcid": "PMC11872354",
+  "source_record_sha256": "5664832d1a0b4c984dbc441943bc63b5e69f7b90a0c9e51f1cf4718400a52f4f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "486dcc19cc54cd83814a9e213cceb0f26949b6ff36d311627163a89c5ae1d96b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of Proximal Femoral Bionic Nail (PFBN), Proximal Femoral Nail Antirotation and InterTan for Treatment of Reverse Obliquity Intertrochanteric Fractures",
+    "authors": "Xiong C, Zhang L, Wang Y, Zhang X, Chen X, Yu K, Zhang Y, Fu H, Ding Z, Zhang D.",
+    "year": 2025,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.14345",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

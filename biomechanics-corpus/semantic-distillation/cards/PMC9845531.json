@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9845531",
+  "paper_id": "doi:10.1093/rb/rbac094",
+  "pmcid": "PMC9845531",
+  "source_record_sha256": "6f55faa5b5deb28cb1907af9bd602787016122b0fc4f0b0d739bc4130782f6b1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "257024d8bba381f6294f76fd0f440018bc83ffe2b66bd87ce554e0816da833e7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Functional engineering strategies of 3D printed implants for hard tissue replacement",
+    "authors": "Chen C, Huang B, Liu Y, Liu F, Lee IS.",
+    "year": 2022,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbac094",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

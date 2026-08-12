@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11633849",
+  "paper_id": "doi:10.7759/cureus.75520",
+  "pmcid": "PMC11633849",
+  "source_record_sha256": "36a243e7e53adcfbd5984eccdf673d3a10e34871ab830bfe7cf9924d83d6b6f2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f8116ce3dc1f27c1881ec689a3c09ffaea50042cdff63ca0638d18fef210de69",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Breaking the Mould: Comparing 3D-Printed and Composite Bone Models in Orthopaedic Training",
+    "authors": "Binnie C, Nayab Y, Bano C, Gundle L, Davidson J.",
+    "year": 2024,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.75520",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

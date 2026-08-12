@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10388156",
+  "paper_id": "doi:10.1039/d3ra03034b",
+  "pmcid": "PMC10388156",
+  "source_record_sha256": "4c6db878cb4b645f4c0d837878225e3decbc8d9204f237efabb6d3104e8287c3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f74cc2df097f0a4c5d3ab0b87ddde33ac34abb3a361d43c3fa5d8e67b1c7df1d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preparation and characterization of 3D hydroxyapatite/collagen scaffolds and its application in bone regeneration with bone morphogenetic protein-2",
+    "authors": "Xie H, Ruan S, Zhao M, Long J, Ma X, Guo J, Lin X.",
+    "year": 2023,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d3ra03034b",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

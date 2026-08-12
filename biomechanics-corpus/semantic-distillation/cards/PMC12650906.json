@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12650906",
+  "paper_id": "doi:10.3390/diagnostics15222918",
+  "pmcid": "PMC12650906",
+  "source_record_sha256": "65c28eb9cac2963c3ac267471629dd84acd35537f678f68f36fa696242075867",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "834442c62044c7bc95d77d8c114893e20337872df54ff6037da6b22712125451",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Artificial Intelligence for the Diagnosis and Management of Patellofemoral Instability: A Comprehensive Review",
+    "authors": "Mercurio M, Denami F, Vescio A, Familiari F, Longo UG, Galasso O, Gasparini G, Italian Orthopaedic Research Society (IORS), Dejour DH.",
+    "year": 2025,
+    "journal": "Diagnostics",
+    "doi": "10.3390/diagnostics15222918",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

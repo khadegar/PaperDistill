@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8838658",
+  "paper_id": "doi:10.3390/polym14030391",
+  "pmcid": "PMC8838658",
+  "source_record_sha256": "cbff3292aa290ea9750a0e7fa4646815a5c8c4f55f563004b506ec574dfd9b69",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3265e9a47a013178fc9ab7b375d8d893c5833b6000992545f075c4533780a8d3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cross-Linked Gelatine by Modified Dextran as a Potential Bioink Prepared by a Simple and Non-Toxic Process",
+    "authors": "Musilová L, Achbergerová E, Vítková L, Kolařík R, Martínková M, Minařík A, Mráček A, Humpolíček P, Pecha J.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14030391",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10291117",
+  "paper_id": "doi:10.1177/19386400211029741",
+  "pmcid": "PMC10291117",
+  "source_record_sha256": "ffbced783f972e343c4122bc05fc67cdcfcef90a0fb27966e2159136e8d5016c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6c3d18ba4a8530508a7b8619ed32e288cdbb17f109a3b59b82bdad0889c274b3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Establishing a New Patient-Specific Implantation Technique for Total Ankle Replacement: An In Vitro Study",
+    "authors": "Claassen L, Luedtke P, Nebel D, Yao D, Ettinger S, Daniilidis K, Stukenborg-Colsman C, Plaass C.",
+    "year": 2021,
+    "journal": "Foot & Ankle Specialist",
+    "doi": "10.1177/19386400211029741",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

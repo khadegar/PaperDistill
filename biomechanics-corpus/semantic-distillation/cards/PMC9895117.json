@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9895117",
+  "paper_id": "doi:10.3389/fbioe.2023.1100155",
+  "pmcid": "PMC9895117",
+  "source_record_sha256": "c554c2509da6a5f0a0f373322c7932b3505eb435e93c7d3a96908a4fdb497595",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1ab18c49f12fcd0323bc76903870e33334803919ebb360ab61b3f67df0599094",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive manufacturing technologies in the oral implant clinic: A review of current applications and progress",
+    "authors": "Huang S, Wei H, Li D.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1100155",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

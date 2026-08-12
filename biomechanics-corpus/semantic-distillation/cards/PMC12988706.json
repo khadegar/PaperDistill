@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12988706",
+  "paper_id": "doi:10.7759/cureus.103420",
+  "pmcid": "PMC12988706",
+  "source_record_sha256": "06ca3489ceef6e79bf35829f4eddd08e0a0af5520b4b45784a069469b1368b65",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f0db84eb6a14a312fe86e7399a16f0843ca853fdd5180e55fd4847b91bafbf18",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Total Hip Arthroplasty for Acetabular Fracture Sequelae: Surgical Complexity and Technical Pitfalls in a Series of 16 Cases",
+    "authors": "Haichour I, El Farhaoui A, Darraz S, Margoum H, Zeryouh B, Tebbaa El Hassali A, Najib A, Yacoubi H.",
+    "year": 2026,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.103420",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

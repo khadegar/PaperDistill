@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13164647",
+  "paper_id": "doi:10.3390/ma19091740",
+  "pmcid": "PMC13164647",
+  "source_record_sha256": "831e094c80f43c0135e1f35392c1404fa6d52f3e96d8edf91eb99458af393fa6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "76e77b3d51a92dfccfdfa2a538a9145ff4581f703a60a57d464122815e1cf35f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Synergistic Effects of Bioactive Glass on the Physicochemical Properties and In Vitro Bioactivity of 3D-Printed PCL Scaffolds",
+    "authors": "Yang B, Wang R, Yang G, Zhang Z, Chen X.",
+    "year": 2026,
+    "journal": "Materials",
+    "doi": "10.3390/ma19091740",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

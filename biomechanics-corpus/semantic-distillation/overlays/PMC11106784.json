@@ -1,0 +1,75 @@
+{
+  "study": {
+    "article_kind": "original_research",
+    "design_features": ["multistage_preclinical", "laser_micropatterning", "decellularized_xenograft", "in_vitro", "finite_element_analysis", "large_animal"],
+    "research_problem": "A natural osteochondral interface is difficult to reproduce artificially, but dense native cartilage impedes decellularization and recellularization; added pores must improve transport without destroying mechanical stability or interface function.",
+    "exact_gap": "The effectiveness and safe parameter window of laser micropatterning through an intact osteochondral graft were unknown, as were zonal recellularization, self-fixation without glue, and long-term repair in a weight-bearing large-animal defect.",
+    "objective_or_hypothesis": "Screen pore density/depth for a mechanics–transport–decellularization compromise, test recellularization, and evaluate a BMSC-loaded decellularized porcine graft in a self-fixing conical-frustum goat defect at 6 and 12 months.",
+    "study_design": "Sequential parameter-screening and translational preclinical study: bench mechanics and simplified FE, decellularization/permeability assays, rabbit-BMSC recellularization, then randomized three-group goat implantation with imaging, macroscopic, mechanical, biochemical, micro-CT, and histological endpoints.",
+    "sample_or_model": "Porcine osteochondral plugs; nine pore depth/density combinations; rabbit BMSCs for in-vitro screening; 18 young male goats allocated to untreated defect, acellular dLMP-OI, or autologous-goat-BMSC dLMP-OI groups with 6/12-month assessments.",
+    "comparators": ["Three pore depths and three pore densities", "Before versus after decellularization and after recellularization", "Untreated defect versus acellular graft versus BMSC-loaded graft", "Six versus twelve months"],
+    "method_spine": [
+      "Laser-pattern native plugs and quantify pore geometry, compressive behavior, and simplified FE fields.",
+      "Relate pore geometry to decellularization rate, permeability, residual alpha-Gal, and modulus loss.",
+      "Select d2#/h2# as a compromise and assess cell location, viability, DNA, and GAG in vitro.",
+      "Implant matched conical-frustum grafts in goat weight-bearing defects and triangulate repair using MRI, gross scoring, indentation/GAG, micro-CT, and blinded histology."
+    ],
+    "validation_roles": {
+      "verification": ["No mesh convergence or solution verification is reported; FE is a qualitative design aid using a simplified isotropic linear-elastic cartilage model (S008:C01; S034:C01)."],
+      "calibration": ["The FE modulus is assigned rather than calibrated to the study's stress-relaxation data; laser parameters are empirically screened, which is design tuning rather than model calibration."],
+      "validation": ["Bench compression, transport/cell assays, and multi-modal goat outcomes test different links in the graft concept, but do not independently validate the FE field or human clinical performance (S021:C02-S029:C02)."],
+      "sensitivity": ["Pore depth/density and time/treatment groups are varied; FE material law, boundary conditions, alpha-Gal safety threshold, defect geometry, and cell-source assumptions are not sensitivity-tested."],
+      "application_prediction": ["Clinical translation of a xenogeneic implant and self-fixing defect geometry remains prospective (S034:C01-S035:C01)."]
+    },
+    "primary_outcomes": [
+      "Greater pore depth/density accelerated transport and decellularization but reduced compressive modulus; d2#/h2# was selected as a compromise (S021:C02-S022:C04; S023:C01).",
+      "The simplified FE localized stress at pore edges but its claims about cell growth and fatigue are mechanistic inferences, not measured outcomes (S021:C03).",
+      "Rabbit BMSCs populated micropores with >80% viability at 14 days, while longer culture showed aggregation and non-increasing DNA/GAG in some groups (S023:C01-S023:C03).",
+      "At 6/12 months, the BMSC-loaded graft group generally showed convergent improvement in gross score, indentation modulus/GAG, MRI/T2, subchondral morphometry, and histology versus untreated and acellular groups (S025:C01-S029:C02).",
+      "Decellularization greatly reduced but did not eliminate alpha-Gal antigen (S022:C03-S022:C04; S034:C01-S034:C02)."
+    ],
+    "highest_evidence_level_reached": "Controlled large-animal preclinical repair evidence, preceded by bench/in-vitro screening; no human safety or efficacy evidence."
+  },
+  "argument_map": {
+    "central_claim": "Preserving a natural osteochondral interface while adding a carefully chosen micropore pattern can balance mechanics, transport, decellularization, recellularization, and large-animal repair, with BMSC loading improving several 6/12-month endpoints.",
+    "data": [
+      "A parameter matrix quantifies geometry-dependent modulus, decellularization, permeability, residual antigen, and cell response (S021:C01-S023:C03).",
+      "A conical-frustum match retained implants without external adhesive in the goat defect (S013:C01-S013:C02; S033:C01-S033:C02).",
+      "Independent endpoint modalities point in the same direction for BMSC-loaded grafts (S025:C01-S029:C02)."
+    ],
+    "warrant": "A graft that retains the native interface, creates controlled transport/cell niches, remains initially fixed, and improves structural, compositional, mechanical, and histological repair endpoints is a stronger preclinical candidate than an untreated defect or acellular graft.",
+    "backing": ["The study links each design variable to intermediate mechanism measurements before animal evaluation (S021:C01-S023:C03)."],
+    "qualifier": "Supported in this porcine-graft/young-goat model and tested pore/defect configuration.",
+    "rebuttals_or_boundaries": ["FE does not establish a causal stress-to-cell-growth mechanism (S034:C01).", "Cell origin/migration/differentiation and endogenous bone-repair sources are unresolved (S034:C01).", "Residual alpha-Gal and xenograft immunogenic safety remain unresolved (S034:C01-S034:C02).", "Large-animal improvement does not establish human translation."],
+    "argument_coherence": "high_for_preclinical_chain_moderate_for_mechanism_and_translation"
+  },
+  "evidence_boundary": {
+    "measured": ["Pore geometry, modulus, decellularization, permeability, alpha-Gal, in-vitro cell endpoints, and goat imaging/mechanics/biochemistry/histology were measured (S021:C01-S029:C02)."],
+    "predicted": ["FE stress and displacement fields under simplified 20% compression are predicted (S008:C01; S021:C03)."],
+    "inferred": ["Uniform FE deformation is inferred to favor cell growth and h3# stress is inferred to threaten fatigue life without direct cell-mechanotransduction or fatigue tests (S021:C03).", "The natural interface is inferred to cause relatively independent but permeable cartilage/bone repair environments (S033:C03).", "Absence of detachment is attributed to conical-frustum self-fixation without quantified fixation strength (S033:C01-S033:C02)."],
+    "recommended": ["Further characterize cell fate, endogenous repair sources, xenogeneic antigen safety, realistic cartilage constitutive behavior, and human-relevant fixation before translation (S034:C01-S034:C02)."],
+    "proxy_to_outcome_bridges": ["Simplified FE stress is a design/mechanism proxy, not biological validation.", "MRI, micro-CT, histology, and indentation are complementary preclinical outcomes, not clinical function.", "Reduced alpha-Gal is not equivalent to a demonstrated safe immunogenic level."],
+    "overclaim_risks": ["The abstract calls the construct an 'ideal scaffold' and suggests clinical translation beyond the model's evidence (S001:C02).", "FE stress distribution is described as beneficial for cells and indicative of fatigue without direct tests (S021:C03).", "The conclusion does not foreground residual antigen and unresolved cell mechanisms (S034:C01-S035:C01).", "Automated clinical/observational cue is false; this is preclinical, not a human study."]
+  },
+  "section_moves": [
+    {"section":"introduction","move":"Translate a biological interface problem into two explicit design hypotheses","execution":"The authors specify how pores may affect decellularization/permeability and how pore morphology may guide recellularization, followed by a staged objective (S002:C03-S002:C04).","locator":"S002:C04","effectiveness":"high","transferable_principle":"End the Introduction with separate, testable links in the design→transport/mechanics→cell→tissue chain.","failure_mode":"Do not imply that later animal repair will prove every proposed mechanism."},
+    {"section":"results","move":"Select a parameter by multi-objective compromise","execution":"Pore geometry is judged jointly by modulus, decellularization, permeability, antigen reduction, and cell response rather than by a single maximum (S021:C02-S023:C01).","locator":"S023:C01","effectiveness":"high","transferable_principle":"State which objectives trade off, the evidence used to choose a compromise, and why the chosen setting is not a universal optimum.","failure_mode":"No predeclared weighting or decision threshold is provided."},
+    {"section":"discussion","move":"Converge modalities, then expose missing causal links","execution":"The discussion connects large-animal endpoints while separately admitting simplified FE, unknown cell migration/differentiation, endogenous repair sources, and residual alpha-Gal (S033:C02-S034:C02).","locator":"S034:C01","effectiveness":"high","transferable_principle":"After multi-modal success, name which mechanisms and safety links remain inferred so translation claims stop at the weakest link.","failure_mode":"The final 'ideal/clinical translation' wording is stronger than these limitations."}
+  ],
+  "limitations": {
+    "author_reported": ["Simplified non-viscoelastic FE focused only on between-layer deformation (S034:C01).", "Limited in-vivo samples prevented cell migration/differentiation characterization (S034:C01).", "Subchondral repair cell sources remain unknown (S034:C01).", "Residual alpha-Gal was not completely removed (S034:C01-S034:C02)."],
+    "reader_identified": ["FE lacks convergence, calibration, validation, and sensitivity evidence.", "The cross-species chain—porcine matrix, rabbit screening cells, goat autologous cells—complicates mechanistic continuity.", "Small group/time-point samples, multiple outcomes, and SNK testing raise multiplicity and precision concerns.", "Self-fixation is not quantified mechanically, and the custom defect geometry may not represent all clinical defects.", "Young healthy goats do not model older, diseased, or immunologically diverse patients."],
+    "likely_bias_direction": ["Selecting d2#/h2# after many outcomes without a prespecified decision rule may favor a narratively convenient compromise.", "Multiple favorable modalities with limited samples may overstate precision.", "Residual antigen and untracked cell fate bias translation claims upward."],
+    "scope_boundary": "The study supports a staged preclinical proof in a specific xenograft, pore pattern, conical defect, and young-goat model; it does not validate FE mechanisms, define a universal optimum, establish xenograft immune safety, or demonstrate human clinical benefit."
+  },
+  "writing_capability_candidates": [
+    {"candidate_id":"WC-PMC11106784-01","capability":"Build a multiscale manuscript as design variable → intermediate mechanics/transport → cell behavior → tissue-level outcomes, labeling each link measured, predicted, or inferred.","manuscript_use":"Whole-paper argument spine for implant/scaffold studies.","applicable_domains":["biomechanics","porous_scaffold","mechanobiology","bone_regeneration"],"applicable_study_designs":["multistage_preclinical"],"supporting_locators":["S002:C03","S021:C02","S022:C03","S023:C03","S025:C01","S029:C01"],"counterexample_or_boundary":"Convergent downstream outcomes do not prove an unmeasured intermediate mechanism; mark missing links.","confidence":"high","promotion_status":"candidate"},
+    {"candidate_id":"WC-PMC11106784-02","capability":"Report design optimization as a transparent multi-objective compromise rather than a single-metric optimum.","manuscript_use":"Optimization Methods, Results, and Discussion.","applicable_domains":["topology_optimization","porous_scaffold","additive_manufacturing"],"applicable_study_designs":["parameter_screening"],"supporting_locators":["S021:C02","S022:C02","S022:C04","S023:C01"],"counterexample_or_boundary":"Declare weighting/acceptance rules prospectively; otherwise call the choice selected or balanced, not optimal.","confidence":"high","promotion_status":"candidate"},
+    {"candidate_id":"WC-PMC11106784-03","capability":"Use multi-modal preclinical endpoint convergence while retaining explicit species, time-point, safety, and mechanism boundaries.","manuscript_use":"Discussion and translational conclusion.","applicable_domains":["bone_regeneration","osseointegration","bone_implant"],"applicable_study_designs":["large_animal"],"supporting_locators":["S025:C01","S026:C01","S027:C03","S028:C02","S029:C02","S034:C01"],"counterexample_or_boundary":"Large-animal imaging/histology/mechanics strengthen preclinical inference but do not establish human safety or efficacy.","confidence":"high","promotion_status":"candidate"}
+  ],
+  "quality": {
+    "research_question_design_alignment":"high", "methods_transparency":"high", "validation_credibility":"moderate_to_high_for_preclinical_repair_low_for_FE_and_human_translation", "outcome_uncertainty_reporting":"moderate", "comparator_fairness":"moderate", "conclusion_proportionality":"moderate_with_translation_overreach", "critical_weaknesses":["Simplified unvalidated FE used mechanistically.", "Residual xenogeneic antigen and unknown cell fate.", "Small samples/multiple endpoints and no prespecified optimization rule."], "overall_credibility":"high_for_model_specific_preclinical_signal_moderate_for_mechanism_low_for_clinical_translation"
+  },
+  "summary_zh": "该研究最值得蒸馏的是跨尺度论证链：孔深/孔密度先影响力学、渗透和脱细胞，再影响细胞进入，最后用山羊 6/12 月的 MRI、压痕、GAG、micro-CT 与组织学收敛验证修复信号。d2#/h2# 不是单指标最大值，而是多目标折中。必须同时保留三条边界：FE 只是简化预测，不能证明应力促进细胞；残余 alpha-Gal 与细胞来源仍未解决；大型动物改善也不等于临床转化。",
+  "reader_notes": ["已阅读全文全部非参考文献章节。", "自动 clinical_or_observational cue 为误判；证据最高层级是受控大型动物研究。"]
+}

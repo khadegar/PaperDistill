@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12355052",
+  "paper_id": "doi:10.1016/j.jobcr.2025.08.002",
+  "pmcid": "PMC12355052",
+  "source_record_sha256": "92b0c424504b78eb24d79690b678dea2b54219399b521f2e32520e810eed10bb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ca9c2bc058d9aa95cc7576b7bceb707fb2308dff3d464d9663e8c49bf6076db1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Whitlockite as a next-generation biomaterial for bone regeneration: A systematic review of In Vivo evidence for bone regeneration",
+    "authors": "Palati S, Ganapathy D, Sekaran S.",
+    "year": 2025,
+    "journal": "Journal of Oral Biology and Craniofacial Research",
+    "doi": "10.1016/j.jobcr.2025.08.002",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

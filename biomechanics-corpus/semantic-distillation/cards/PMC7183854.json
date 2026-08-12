@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7183854",
+  "paper_id": "doi:10.4047/jap.2020.12.2.67",
+  "pmcid": "PMC7183854",
+  "source_record_sha256": "826778e906dc935ffcf9df72407765bd233787d8cababef3dfea5f3090a9f658",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "549d21b0de5585f30515742ff8ef8e449c6d1e492dcc30db4d577e1da7323a5d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Does the prosthesis weight matter? 3D finite element analysis of a fixed implant-supported prosthesis at different weights and implant numbers",
+    "authors": "Tribst JPM, Dal Piva AMO, Borges ALS, Rodrigues VA, Bottino MA, Kleverlaan CJ.",
+    "year": 2020,
+    "journal": "The Journal of Advanced Prosthodontics",
+    "doi": "10.4047/jap.2020.12.2.67",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

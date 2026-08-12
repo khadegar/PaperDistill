@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10933854",
+  "paper_id": "doi:10.3390/polym16050706",
+  "pmcid": "PMC10933854",
+  "source_record_sha256": "2ec5d9fdfa7fdbf49c11dc75d94d12be75a102d9ed6d4301c38ec04fd99ae0d4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9acfa1e648f48f0173295cb2183fe943902f73d6ecdfa5f0c3ffd5ada37f3f92",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A 3D-Printed Scaffold for Repairing Bone Defects",
+    "authors": "Dong J, Ding H, Wang Q, Wang L.",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16050706",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

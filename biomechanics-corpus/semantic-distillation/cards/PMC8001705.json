@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8001705",
+  "paper_id": "doi:10.3390/mi12030307",
+  "pmcid": "PMC8001705",
+  "source_record_sha256": "e6361aa81c700523cbfb6a62dd5ca5644081a91a30937ebcbc5e5031da7497cf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "06671c9a36ba8112e56c73257273b3a073f8e44e1d440db795cc8a7e28e8d2a2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design of Customize Interbody Fusion Cages of Ti64ELI with Gradient Porosity by Selective Laser Melting Process",
+    "authors": "Pan CT, Lin CH, Huang YK, Jang JSC, Lin HK, Kuo CN, Lin DY, Huang JC.",
+    "year": 2021,
+    "journal": "Micromachines",
+    "doi": "10.3390/mi12030307",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

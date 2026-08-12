@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10203166",
+  "paper_id": "doi:10.3389/fbioe.2023.1193605",
+  "pmcid": "PMC10203166",
+  "source_record_sha256": "7f4f947da361e2ed211dbf177d6b1f0338bad2ca9eb4e66218beee6296820e19",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8796c7e621889060ea75fc5f52a981ba3380124af756ec1c462d72c8c72d5fcd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mussel-inspired HA@TA-CS/SA biomimetic 3D printed scaffolds with antibacterial activity for bone repair",
+    "authors": "Ji C, Zhang C, Xu Z, Chen Y, Gan Y, Zhou M, Li L, Duan Q, Huang T, Lin J.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1193605",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

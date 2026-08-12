@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12531250",
+  "paper_id": "doi:10.3389/fbioe.2025.1673758",
+  "pmcid": "PMC12531250",
+  "source_record_sha256": "785570aed456ade8de865db5f5e14c82577248e5a802355f7e0b5ca0590a48df",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "489c4f66c89258259a7ff6696fb6e037a9133dd9f027595cbeea6b90adb7ff3a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Animal experiment on osseointegration of porous titanium root analogue implants with composite CSn-TAK242 coating",
+    "authors": "Li H, Luo D, Gao Y, Wang D, Yang J, Xu Z.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1673758",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

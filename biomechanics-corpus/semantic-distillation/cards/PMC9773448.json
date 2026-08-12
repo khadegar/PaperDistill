@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9773448",
+  "paper_id": "doi:10.1186/s13036-022-00317-5",
+  "pmcid": "PMC9773448",
+  "source_record_sha256": "371c3a58b3b6ac2e7fa2b0667f6f17c1c77a723fcd4e0951a23ee6f83fb01adc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8b891ea635808ed1334c32037f02e6e1ad2ca8462dbcc98184ea14b765b88451",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabricating a robust POSS-PCL nanofiber scaffold for nesting of mesenchymal stem cells: potential application in bone tissue regeneration",
+    "authors": "Bagheri L, Valizadeh H, Dindar-Safa K, Zarghami N.",
+    "year": 2022,
+    "journal": "Journal of Biological Engineering",
+    "doi": "10.1186/s13036-022-00317-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

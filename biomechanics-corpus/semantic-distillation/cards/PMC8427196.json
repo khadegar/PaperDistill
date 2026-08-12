@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8427196",
+  "paper_id": "doi:10.3389/fsurg.2021.687379",
+  "pmcid": "PMC8427196",
+  "source_record_sha256": "797c4688d73c3d5fbe45acbc49185dd9d9d8d36f4e9efcba3fe14397f28596bf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e29dd63c41bea319161b233cf27aed13d52b0ecf3135f05b381c2a07dff62054",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed Patient-Specific Complex Hip Arthroplasty Models Streamline the Preoperative Surgical Workflow: A Pilot Study",
+    "authors": "Jiang M, Coles-Black J, Chen G, Alexander M, Chuen J, Hardidge A.",
+    "year": 2021,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2021.687379",
+    "publication_type": "brief-report; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

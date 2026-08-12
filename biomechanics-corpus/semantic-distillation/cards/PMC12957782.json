@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12957782",
+  "paper_id": "doi:10.3389/fsurg.2026.1765063",
+  "pmcid": "PMC12957782",
+  "source_record_sha256": "5e183dab2aefc35b765b2ba9106849a8a90aa0e4e06695336482d413421d7b35",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e8cafae067577c1bc8a293b9b3b637d619c4abb7ec213a55e3625af08efb7691",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Precision restoration of complex cervical instability and decompression for neurofibromatosis type I: a case report using patient-specific 3D-printed templates",
+    "authors": "Ma Z, Zheng W, Wang N, Li R, Wen S.",
+    "year": 2026,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2026.1765063",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

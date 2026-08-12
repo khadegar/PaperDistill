@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11340157",
+  "paper_id": "doi:10.1186/s13018-024-04948-w",
+  "pmcid": "PMC11340157",
+  "source_record_sha256": "5939ac48e75850bc34b8ffb40deebcaa02322c56bee39aee6555e66e328e54df",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c4ca0eec489e9d1f354cf32e5c0361cc149963e784a008d38d6ab09bd541fcb6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Designing and additive manufacturing of talus implant for post-traumatic talus avascular necrosis: a case study",
+    "authors": "Antounian F, Avagyan H, Ghaltaghchyan T, Holovenko Y, Khachatryan H, Aghayan M.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-04948-w",
+    "publication_type": "research-article; Journal Article; Case Reports",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

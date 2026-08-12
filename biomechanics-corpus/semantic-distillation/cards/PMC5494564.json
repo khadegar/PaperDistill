@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5494564",
+  "paper_id": "doi:10.1155/2017/7495606",
+  "pmcid": "PMC5494564",
+  "source_record_sha256": "06e622f61012571196d484cb5a9cb18d649df865fec2e3d27aae7ab7367ce7d1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "64b8edca21e8de371e8cc970de5ccdea9a689d612d726c2aa80a792539da9472",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Effects of Various Bone-Implant Interfaces on the Stability of Orthodontic Miniscrews: A Finite Element Study",
+    "authors": "Tan F, Wang C, Yang C, Huang Y, Fan Y.",
+    "year": 2017,
+    "journal": "Journal of Healthcare Engineering",
+    "doi": "10.1155/2017/7495606",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

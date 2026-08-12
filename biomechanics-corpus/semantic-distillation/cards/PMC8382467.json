@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8382467",
+  "paper_id": "doi:10.1055/s-0040-1721549",
+  "pmcid": "PMC8382467",
+  "source_record_sha256": "4947605ecd2410f156a1a331e270c7aa6737c101c3124dc57356b8977d2dcb5f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7d81d18839c2eea593c3a4100002a6bc34a4466fba305c454deb0fceda66af9e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of Bone–Implant Interface Stress and Strain Using Heterogeneous Mandibular Bone Properties Based on Different Empirical Correlations",
+    "authors": "Hussein MO, Alruthea MS.",
+    "year": 2021,
+    "journal": "European Journal of Dentistry",
+    "doi": "10.1055/s-0040-1721549",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

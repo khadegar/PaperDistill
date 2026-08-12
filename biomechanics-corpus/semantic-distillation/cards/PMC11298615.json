@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11298615",
+  "paper_id": "doi:10.1016/j.mtbio.2024.101150",
+  "pmcid": "PMC11298615",
+  "source_record_sha256": "37d6e550fa5067be39b48d9cfe904bc4f82e397a948b4578aa9d138ebe2ff70e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5a3b49dbbe3a2d654d259019532fb3a6706963e10e2ae4f8a0a619faff33d6dc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced vascularization and osseointegration under osteoporotic conditions through functional peptide coating on implant surfaces",
+    "authors": "Liu J, Zhao B, Shen X, Lu D, He W, Zan X, Li L, Pan Y.",
+    "year": 2024,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2024.101150",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

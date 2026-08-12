@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7151589",
+  "paper_id": "doi:10.3390/jfb11010014",
+  "pmcid": "PMC7151589",
+  "source_record_sha256": "1313caa517e5acdfb03b1d161baf2ab2a963e0627901182494e66eeed69bb24f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b6a562550b976078d03672ef1ff35f6a07c84c8a8b614dab1b892252d73e296d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Numerical Simulation of the Posterior Malleolus Fracture with the Finite Element Method",
+    "authors": "Ampla R, Vasiliadis AV, Katakalos K.",
+    "year": 2020,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb11010014",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

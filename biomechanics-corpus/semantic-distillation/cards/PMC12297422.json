@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12297422",
+  "paper_id": "doi:10.1038/s41598-025-11174-9",
+  "pmcid": "PMC12297422",
+  "source_record_sha256": "7f27d781acbe613a9c84f3b34961503095f5634434e07b6ca13e1395a253e004",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "20a82ba60ee39b2358b725045ff1a2be2acb16ddf5c4996d62c55cd3b9892e9d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of anterior spanning attachment devices for supporting biomechanical stability in diaphyseal femoral periprosthetic fracture fixation",
+    "authors": "Heinecke M, Schwan S, Ries I, Jayakumar RK, Migliorini F, Mendel T.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-11174-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

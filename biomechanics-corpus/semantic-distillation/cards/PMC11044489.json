@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11044489",
+  "paper_id": "doi:10.1186/s13018-024-04649-4",
+  "pmcid": "PMC11044489",
+  "source_record_sha256": "193417b5dd0a6bd0355a4605df760a5cf5f5fdbc6f0870d7a717615f83a3ae55",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c7a6fdfca21324ea35b2fac1248f853ac64fdffda65b04d744e469c843bb86de",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Positive buttress reduction in femoral neck fractures: a literature review",
+    "authors": "Han S, Zhang ZY, Zhou K, Yin GK, Liu YC, Wang BJ, Wen Z.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-04649-4",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

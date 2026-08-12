@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11300227",
+  "paper_id": "doi:10.3389/fbioe.2024.1424553",
+  "pmcid": "PMC11300227",
+  "source_record_sha256": "3c38568cb7fe4ab44e0ff0d16a441b9dfece411317f3e86f418597bd40e68906",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "83511894c99de33af759832fe23130d7ff5bcf9eb76a3c68092e9f79bbee41dc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "CT-based finite element simulating spatial bone damage accumulation predicts metastatic human vertebrae strength and stiffness",
+    "authors": "Soltani Z, Xu M, Radovitzky R, Stadelmann MA, Hackney D, Alkalay RN.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1424553",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9598556",
+  "paper_id": "doi:10.3390/bioengineering9100525",
+  "pmcid": "PMC9598556",
+  "source_record_sha256": "4151794cd705b1393b7e0769d864335442d05bd86fbf4586aeb9b1d6af75ed24",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a499ab888d651eac9d4c83526ae193ce0dfb82aa131e431923acb3a3d8f4ad56",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioactive Scaffold Fabricated by 3D Printing for Enhancing Osteoporotic Bone Regeneration",
+    "authors": "Zhang X, Wang X, Lee YW, Feng L, Wang B, Pan Q, Meng X, Cao H, Li L, Wang H, Bai S, Kong L, Chow DHK, Qin L, Cui L, Lin S, Li G.",
+    "year": 2022,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering9100525",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

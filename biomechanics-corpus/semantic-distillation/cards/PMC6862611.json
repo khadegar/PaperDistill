@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6862611",
+  "paper_id": "doi:10.3390/ma12213606",
+  "pmcid": "PMC6862611",
+  "source_record_sha256": "1378945198ed820762e2aba8dfb76d0b3d88177f9b084be6c109b5da724572bc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7c2ef5b91c54af2fc90096831d1457f600dff36bd414574db7e1216db6ad3273",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of Peri-Implant Bone Grafting Around Surface-Porous Dental Implants: An In Vivo Study in a Goat Model",
+    "authors": "Alshehri F, Alshehri M, Sumague T, Niazy A, Jansen J, van den Beucken J, Alghamdi H.",
+    "year": 2019,
+    "journal": "Materials",
+    "doi": "10.3390/ma12213606",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

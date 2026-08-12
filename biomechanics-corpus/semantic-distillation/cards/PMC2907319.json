@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC2907319",
+  "paper_id": "doi:10.1186/1749-799x-5-40",
+  "pmcid": "PMC2907319",
+  "source_record_sha256": "084187b56d0d03c1f4552bf5af98c1ed0cd885143901907a79489dcb00c9d8b4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1dd8d392d7f98ec975f693cf32530166abf3104c6f16a58cb897ff7c3e0ed2d3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of abductor muscle and anterior-posterior hip contact load simulation on the in-vitro primary stability of a cementless hip stem",
+    "authors": "Park Y, Albert C, Yoon YS, Fernlund G, Frei H, Oxland TR.",
+    "year": 2010,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/1749-799x-5-40",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

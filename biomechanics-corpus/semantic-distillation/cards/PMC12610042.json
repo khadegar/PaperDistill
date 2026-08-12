@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12610042",
+  "paper_id": "doi:10.3390/jcm14217613",
+  "pmcid": "PMC12610042",
+  "source_record_sha256": "6f1160e49767a812887dd17e5b7dc808df6898b7e4df4d2adebcb693dfd9d60b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8ee2314894f08a17716b8ab5e6bf54c14ffde62f5e420d98e5fc8d3c7d75427d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Technical Details of Lateral Tenodesis at the Fascia Lata: A Systematic Review of the Literature",
+    "authors": "Laudet F, Noailles T, Lutz C, Hardy A.",
+    "year": 2025,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm14217613",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9570064",
+  "paper_id": "doi:10.3390/ijms231911459",
+  "pmcid": "PMC9570064",
+  "source_record_sha256": "c50db1e006386d1bd9c6f60785248ca1814330e87730526062a3577621db3404",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8614db0b3202f124ffb933d9d3e4994240ac3f7d54983c2014dfdf48e2b69fc3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Macropore Regulation of Hydroxyapatite Osteoinduction via Microfluidic Pathway",
+    "authors": "Shi F, Fang X, Zhou T, Huang X, Duan K, Wang J, Qu S, Zhi W, Weng J.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms231911459",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

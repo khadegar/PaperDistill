@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10761204",
+  "paper_id": "doi:10.1093/rb/rbad093",
+  "pmcid": "PMC10761204",
+  "source_record_sha256": "d99a52fe59e53a1e8773ca9ee0737337646f725628403dcb696f8915f9858b5a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4ca931e81647091c0becd3c5fdc87b20a3e1302f2dfacd385257b32f519d0b82",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Poly( l -lactic acid)-based double-layer composite scaffold for bone tissue repair",
+    "authors": "Ren Y, Ma C, Yu Y, Yang D, Zhang L, Wang H, Sun L.",
+    "year": 2024,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbad093",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9413413",
+  "paper_id": "doi:10.1021/acsnano.2c03776",
+  "pmcid": "PMC9413413",
+  "source_record_sha256": "0b862f8be1a96ad7981604ce78c5b8399e19abe45f9b29e394f11bb0bf350888",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "faa423aaafce5a85b52a92cf11b89e20c0ea080ae9f3e4349eb45a3df88a8036",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of Scaffold Shape on Bone Regeneration: Tiny Shape Differences Affect the Entire System",
+    "authors": "Hayashi K, Yanagisawa T, Kishida R, Ishikawa K.",
+    "year": 2022,
+    "journal": "ACS Nano",
+    "doi": "10.1021/acsnano.2c03776",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

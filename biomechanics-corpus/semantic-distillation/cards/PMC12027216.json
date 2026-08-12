@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12027216",
+  "paper_id": "doi:10.3390/gels11040223",
+  "pmcid": "PMC12027216",
+  "source_record_sha256": "4453ae2ebfb8ad0273a97fafa716668f617e80a7f3d599132b68e950497e358b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e2b4b457f1a00f089764f9de114e531933ef9c6eeda2a262a58cf1bb693850fb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hybrid Hydrogels Augmented via Additive Network Integration (HANI) for Meniscal Tissue Engineering Applications",
+    "authors": "El Kommos A, Magesh P, Lattanze S, Perros A, Andreopoulos F, Travascio F, Jackson A.",
+    "year": 2025,
+    "journal": "Gels",
+    "doi": "10.3390/gels11040223",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

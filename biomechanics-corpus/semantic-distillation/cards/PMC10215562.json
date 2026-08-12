@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10215562",
+  "paper_id": "doi:10.3390/bioengineering10050541",
+  "pmcid": "PMC10215562",
+  "source_record_sha256": "c230a9bcb855fdb4353fc61726e340feb2d93524f1b44bec4797d2a68ed628b2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8a29fa556f475199078998e3a229d76c0ebfea49d21f61ae23dcb598b54cac4a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Evaluation of Temporomandibular Joint Reconstruction Using Individual TMJ Prosthesis Combined with a Fibular Free Flap in a Pediatric Patient",
+    "authors": "Dowgierd K, Kawlewska E, Joszko K, Kropiwnicki J, Wolanski W.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10050541",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

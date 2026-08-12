@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13075084",
+  "paper_id": "doi:10.3390/s26072168",
+  "pmcid": "PMC13075084",
+  "source_record_sha256": "4b110caf89f3e87657f4a21a56fe86d1ba9f28151f887b200a33d2426cd9311a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "39a36215f7464cdaf2e08dd8435c45d9588a966a9cf8e9b12317e316458a1534",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Study on the Influence of Protector Design on the Biomechanical Characteristics of Knee Joint Movement",
+    "authors": "Zhao J, Wang X, Xi L, Cheng X, Bae J, Li Y.",
+    "year": 2026,
+    "journal": "Sensors (Basel, Switzerland)",
+    "doi": "10.3390/s26072168",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

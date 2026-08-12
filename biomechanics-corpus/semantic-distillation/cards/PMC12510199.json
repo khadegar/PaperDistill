@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12510199",
+  "paper_id": "doi:10.1016/j.mtbio.2025.102351",
+  "pmcid": "PMC12510199",
+  "source_record_sha256": "db6c14a74d4358618f13016ad477a054512e805706de31117d0c33330dbddeba",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1987e05cebc2eb42edcde259d5758f54b6374c2971cfc443a8802a9a7914e7ba",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent progress of 3D printed responsive scaffolds for bone repair: A review",
+    "authors": "Bai Y, Wu N, Li X, Liu Z, Li K, Jiao T, Liu F.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.102351",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

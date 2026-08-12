@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8882993",
+  "paper_id": "doi:10.3389/fbioe.2022.828921",
+  "pmcid": "PMC8882993",
+  "source_record_sha256": "78f55b19dd54b19de64f51f793a347ca84d40d299bad152fb90a63b9aa23ae3e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "da2bd412a3bf7734e455929f175537a4935503788cda095ee3dd8fb0cbfb2a76",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing for Bone-Cartilage Interface Regeneration",
+    "authors": "Xu J, Ji J, Jiao J, Zheng L, Hong Q, Tang H, Zhang S, Qu X, Yue B.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.828921",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

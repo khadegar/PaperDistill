@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10454833",
+  "paper_id": "doi:10.2147/ijn.s417422",
+  "pmcid": "PMC10454833",
+  "source_record_sha256": "cd50c826f142bc8f3372c43e3f3cb1e56f8a6b4f5016da1144f6c9e98b323407",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "429710bab2eacc4d6ceaeb5c6374514c31db06e5e72cdb1804edd60d11b3e9c5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Current Knowledge and Future Perspectives of Exosomes as Nanocarriers in Diagnosis and Treatment of Diseases",
+    "authors": "Zou Z, Li H, Xu G, Hu Y, Zhang W, Tian K.",
+    "year": 2023,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s417422",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

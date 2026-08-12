@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7870929",
+  "paper_id": "doi:10.1038/s41598-021-82788-y",
+  "pmcid": "PMC7870929",
+  "source_record_sha256": "808096bda8e27f17282e6d710c02ab733b949ae4285c1076e5679c64729dd4d2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b8c8bc10fba24446b425b98a9e0ed8a6f3d895b7648d09d4f541c6858258e254",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development and first biomechanical validation of a score to predict bone implant interface stability based on clinical qCT scans",
+    "authors": "Wähnert D, Frank A, Ueberberg J, Heilmann LF, Sauzet O, Raschke MJ, Gehweiler D.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-82788-y",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Validation Study; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7186540",
+  "paper_id": "doi:10.34172/bi.2020.10",
+  "pmcid": "PMC7186540",
+  "source_record_sha256": "d899752563b21cef45f30b15627ecfc93dd7656645af1d51d3686b543927ee1e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "58042faafed2297209745eb2824416cb0fd447444ac2f31e07b36cc080019506",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Freeze-dried multiscale porous nanofibrous three dimensional scaffolds for bone regenerations",
+    "authors": "Khoramgah MS, Ranjbari J, Abbaszadeh HA, Tabatabaei Mirakabad FS, Hatami S, Hosseinzadeh S, Ghanbarian H.",
+    "year": 2020,
+    "journal": "BioImpacts : BI",
+    "doi": "10.34172/bi.2020.10",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

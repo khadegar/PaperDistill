@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8876762",
+  "paper_id": "doi:10.3390/ijms23042029",
+  "pmcid": "PMC8876762",
+  "source_record_sha256": "71c45b5583ad9cb2d882b6546e477213c378e38f89984bb704b59066d908cb1f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a16d91fe496c80cd559b73005b4e2ad7a36bbb13416ac90c75761b9052a50703",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An Evaluation of Different 3D Cultivation Models on Expression Profiles of Human Periodontal Ligament Fibroblasts with Compressive Strain",
+    "authors": "Schröder A, Schöniger R, Oeldemann J, Spanier G, Proff P, Jantsch J, Kirschneck C, Ullrich N.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms23042029",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

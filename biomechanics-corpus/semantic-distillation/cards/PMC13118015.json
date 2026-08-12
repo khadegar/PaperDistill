@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13118015",
+  "paper_id": "doi:10.3390/jfb17040177",
+  "pmcid": "PMC13118015",
+  "source_record_sha256": "f5c7d847ec59e00366661a2dd926c1175279220cb84ca606a5518d8bf4f621ce",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "926bcc540245d1d7b2f01cc364835409eee1f9435c94394c210155ff6938f9bc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimetic Chitosan/Polyvinyl Alcohol–Glycerol Scaffolds Inspired by Porcupine Quills for Segmental Bone Defect Repair",
+    "authors": "Yang J, Zhao Z, Song Z, Cao L, Mei X, Zhang X.",
+    "year": 2026,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb17040177",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

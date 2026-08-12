@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12653216",
+  "paper_id": "doi:10.3390/jfb16110420",
+  "pmcid": "PMC12653216",
+  "source_record_sha256": "f09cf4fb33618aa961cf1c17600bff6b6b2b08e8e15aecf4f46dfbcfc120ad95",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b406949c4af7264ef33d223e92a6f8c2e0b9c44dbec9d6a3681267fd9c63a673",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Influence of Different Cervical Micro-Thread Forms over Narrow-Diameter Implants (2.9 mm) Using Finite Element Analysis",
+    "authors": "Zhang Q, Lau W, Cheong N, Zhang T.",
+    "year": 2025,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb16110420",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

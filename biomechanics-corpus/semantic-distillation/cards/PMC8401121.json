@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8401121",
+  "paper_id": "doi:10.3390/polym13162584",
+  "pmcid": "PMC8401121",
+  "source_record_sha256": "46828c01957def3eac1375e9d883bce5aa4fc7e513b3a44fcae87ee61760efaf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "465e8ec9056e3a912743fc32215097df9751406ea564cdc83d073da38a3de8c7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of a Multi-Layer Skin Substitute Using Human Hair Keratinic Extract-Based Hybrid 3D Printing",
+    "authors": "Choi WS, Kim JH, Ahn CB, Lee JH, Kim YJ, Son KH, Lee JW.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13162584",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

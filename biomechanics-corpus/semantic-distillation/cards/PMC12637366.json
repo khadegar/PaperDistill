@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12637366",
+  "paper_id": "doi:10.1038/s44455-025-00003-8",
+  "pmcid": "PMC12637366",
+  "source_record_sha256": "c3620130c84b2ca9a2578b8bed64bb8ddd1eae998d1204fee9175af758ec7fe0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "401b686508876cc7182456ce603ffe3fce40e057dfc1178a90ad3b0500e2dfb2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A computational optimisation study of hip implant using density mapping functionally graded biomimetic TPMS-based lattice structures",
+    "authors": "Vafaeefar M, Quinn C, Moerman KM, Vaughan TJ.",
+    "year": 2025,
+    "journal": "Npj Metamaterials",
+    "doi": "10.1038/s44455-025-00003-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "mechanobiology_remodeling",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

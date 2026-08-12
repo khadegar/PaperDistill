@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10419179",
+  "paper_id": "doi:10.3389/fbioe.2023.1215233",
+  "pmcid": "PMC10419179",
+  "source_record_sha256": "70ea9b8448eba7eaf108ea883727b98e89b8f9552c37b0ebb85eadbbbd1dba91",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "92876f77206a56c99f273642c1fb5c05a9a4adc3ad4bad6d4cc5bcbf2b141d34",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Sustained release of a highly specific GSK3β inhibitor SB216763 in the PCL scaffold creates an osteogenic niche for osteogenesis, anti-adipogenesis, and potential angiogenesis",
+    "authors": "Gong W, Li M, Zhao L, Wang P, Wang X, Wang B, Liu X, Tu X.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1215233",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

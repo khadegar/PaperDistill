@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12899301",
+  "paper_id": "doi:10.3390/polym18030397",
+  "pmcid": "PMC12899301",
+  "source_record_sha256": "1d9f45b3059a486e0ce5571970eea929889109b2fb56e8e9d50f01c4dd17cb26",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a082466fa8a8c4e5303ded9632afaef9bec99b7208c55032993b6cd69057b1d0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioactive Polymer Composites for 3D-Printed Bone Implants: A Systematic Review",
+    "authors": "Khrustaleva A, Khrustalev D, Yedrissov A, Rusyaeva P, Savelyev A, Kiikbayev M, Perepelitsyna K, Kazantsev V.",
+    "year": 2026,
+    "journal": "Polymers",
+    "doi": "10.3390/polym18030397",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

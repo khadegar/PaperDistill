@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10636999",
+  "paper_id": "doi:10.1186/s13018-023-04349-5",
+  "pmcid": "PMC10636999",
+  "source_record_sha256": "d6e6db664b3e482e4e582e0cd3f692e7eeb75b727527712c26d0ea61955708e3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "37fcfa119f5fa059bd243e7df550f180cd9745c806c6bc0a355c5336e3225bc0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis comparing a PEEK posterior fixation device versus pedicle screws for lumbar fusion",
+    "authors": "Eastlack RK, Nunley PD, Poelstra KA, Vaccaro AR, Stone M, Miller LE, Legay P, Clin J, Agarwal A.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-04349-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

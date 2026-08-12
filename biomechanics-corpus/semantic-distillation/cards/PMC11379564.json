@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11379564",
+  "paper_id": "doi:10.1016/j.heliyon.2024.e36152",
+  "pmcid": "PMC11379564",
+  "source_record_sha256": "9c76b513a7cf4c6eabd017114941a2c0d8607225896bc7f0d025ea578f9cadb7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c19c20ec5619d530c5e4eec73b75bd3c91e9018574add50ff5f15372c6b168f4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Prospective applications of bioactive materials in orthopedic therapies: A review",
+    "authors": "Liang W, Zhou C, Bai J, Zhang H, Long H, Jiang B, Wang J, Huang X, Zhang H, Zhao J.",
+    "year": 2024,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2024.e36152",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

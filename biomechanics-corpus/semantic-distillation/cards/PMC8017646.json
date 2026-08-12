@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8017646",
+  "paper_id": "doi:10.1186/s12891-021-04187-8",
+  "pmcid": "PMC8017646",
+  "source_record_sha256": "4c5594cb714f23a5786348dc13c2f7f0c589928dd38e3a925fda4ef3a56673ab",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7d4afe77ab97788f505e944147f26028941bcb08c9feca47e81dbe3281934b19",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical characteristics of tibio-femoral joint after partial medial meniscectomy in different flexion angles: a finite element analysis",
+    "authors": "Zhang X, Yuan S, Wang J, Liao B, Liang.",
+    "year": 2021,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-021-04187-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

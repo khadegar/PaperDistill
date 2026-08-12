@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6306897",
+  "paper_id": "doi:10.3390/jfb9040057",
+  "pmcid": "PMC6306897",
+  "source_record_sha256": "57e7b5ceafdba3124369ead31320db608c31782c85054287d07e190604886189",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0fbc5a9aeea39bea3113ddd29547969dfdc3aef29026bf24e9153e2e45d60866",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The 3D Printing of Calcium Phosphate with K-Carrageenan under Conditions Permitting the Incorporation of Biological Components—A Method",
+    "authors": "Kelder C, Bakker AD, Klein-Nulend J, Wismeijer D.",
+    "year": 2018,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb9040057",
+    "publication_type": "other; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

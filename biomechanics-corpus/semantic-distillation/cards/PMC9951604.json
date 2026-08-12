@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9951604",
+  "paper_id": "doi:10.2147/ijn.s393080",
+  "pmcid": "PMC9951604",
+  "source_record_sha256": "dcf458b26e6e4d8909e378fbdb2d2fe9a5c18362b6c094630326f40b001f769f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "313c75b75d390af6d1818074636c44483bac619bdfde40ac2e384a04de86127d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The 3D-Printed Ordered Bredigite Scaffold Promotes Pro-Healing of Critical-Sized Bone Defects by Regulating Macrophage Polarization",
+    "authors": "Xuan Y, Li L, Zhang C, Zhang M, Cao J, Zhang Z.",
+    "year": 2023,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s393080",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

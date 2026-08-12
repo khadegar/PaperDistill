@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8636835",
+  "paper_id": "doi:10.3389/fchem.2021.768007",
+  "pmcid": "PMC8636835",
+  "source_record_sha256": "681f40f5436ab6697a1a45591e93532368ef0649a62eec089d00cb9ad55857d3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "957d2e42ab02584c6632579ac4e0a9f69d462fb17768ff44e786bd2c76b9cf0c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surface Treatment and Bioinspired Coating for 3D-Printed Implants",
+    "authors": "Liu J, Mohd Rafiq NB, Wong LM, Wang S.",
+    "year": 2021,
+    "journal": "Frontiers in Chemistry",
+    "doi": "10.3389/fchem.2021.768007",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

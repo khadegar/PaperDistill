@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12030672",
+  "paper_id": "doi:10.3390/polym17081090",
+  "pmcid": "PMC12030672",
+  "source_record_sha256": "86e453fbe70b3857ee01f16e9162744189860971c8042321ea4b7ae626f80ff4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e0d00dc4fa793443593ad95b1a0ed0ed4368b5797fe4112b6ed3fc0e8f5c8f70",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomaterial-Based Additive Manufactured Composite/Scaffolds for Tissue Engineering and Regenerative Medicine: A Comprehensive Review",
+    "authors": "Vyas J, Raytthatha N, Vyas P, Prajapati BG, Uttayarat P, Singh S, Chittasupho C.",
+    "year": 2025,
+    "journal": "Polymers",
+    "doi": "10.3390/polym17081090",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

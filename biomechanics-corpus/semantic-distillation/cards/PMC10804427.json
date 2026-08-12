@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10804427",
+  "paper_id": "pmcid:PMC10804427",
+  "pmcid": "PMC10804427",
+  "source_record_sha256": "98dcafa8bf6ccac61eb45ab525109fd5eeb4d12611e4b90d7790854e93c75c3c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7a7c5a6dcaf256aa76f333080c0a82c6ff94d628341e4fd670fede49e1ab9da6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of the impact of collared cementless total hip arthroplasty stems on implant subsidence: a cadaveric study in German Shepherd",
+    "authors": "Cho H, Seo D, Kim D, Kang J, Kim Y, Kwon Y, Kim M.",
+    "year": 2023,
+    "journal": "Iranian Journal of Veterinary Research",
+    "doi": "10.22099/ijvr.2023.47029.6770",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

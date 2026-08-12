@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10532529",
+  "paper_id": "doi:10.3390/md21090473",
+  "pmcid": "PMC10532529",
+  "source_record_sha256": "ffc090c1f8c31d826c542d1f23ff6605553416c7d5f2a2db754e00c2cce239f9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4019c75c77da506fd7079548340ed500c52c64812d5a29e0eae4e3306581f77c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of a Novel Marine-Derived Tricomposite Biomaterial for Bone Regeneration",
+    "authors": "Aslam B, Augustyniak A, Clarke SA, McMahon H.",
+    "year": 2023,
+    "journal": "Marine Drugs",
+    "doi": "10.3390/md21090473",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

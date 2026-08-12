@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8042966",
+  "paper_id": "doi:10.1186/s13018-021-02368-8",
+  "pmcid": "PMC8042966",
+  "source_record_sha256": "17107ca6ef034bbf15b9680eef2b941f918ef548f53a2d4e2767a842e6b49297",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fcb9505ee65374c1bf61aa04886cf7391b4f78c67fbb4e9046f3f847854b5f5e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "BMSC seeding in different scaffold incorporation with hyperbaric oxygen treats seawater-immersed bony defect",
+    "authors": "Zhang G, Chen X, Cheng X, Ma W, Chen C.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-021-02368-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

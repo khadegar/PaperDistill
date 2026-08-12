@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4404358",
+  "paper_id": "doi:10.1371/journal.pone.0124774",
+  "pmcid": "PMC4404358",
+  "source_record_sha256": "0a51e40e3eb40fa2ac07eb4b28ad4c98d881563456cac88e1ffa3ed334331250",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "eb8229f5f15c7aa304ecf8b2a23584014f8c14a0b558ed45a1b78743c456c6c5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Intervertebral Disc Tissue Engineering with Natural Extracellular Matrix-Derived Biphasic Composite Scaffolds",
+    "authors": "Xu B, Xu H, Wu Y, Li X, Zhang Y, Ma X, Yang Q.",
+    "year": 2015,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0124774",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

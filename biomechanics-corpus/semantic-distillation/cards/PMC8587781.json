@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8587781",
+  "paper_id": "doi:10.3390/polym13213669",
+  "pmcid": "PMC8587781",
+  "source_record_sha256": "df40840c96f2d8895cc4cbf6529ecd47e30c516e540cfd1231c41c1f90bf53ec",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "11c7b9d2b8ca77134f2a1dcac9e462dc5c139f70020b75bef936557771b6c575",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical Performance of 3D-Printed Biocompatible Polycarbonate for Biomechanical Applications",
+    "authors": "Gómez-Gras G, Abad MD, Pérez MA.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13213669",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

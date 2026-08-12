@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10045394",
+  "paper_id": "doi:10.3390/biomedicines11030665",
+  "pmcid": "PMC10045394",
+  "source_record_sha256": "1b68d60a0d9145627a5092e76efb0a19c59362c7d96b7b4840cc11ca0942c320",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8dd074b08281a5ee7e6f47340c136da14d63efb384d00bdf927881d35205d86f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A New Implantation Method for Orthodontic Anchor Screws: Basic Research for Clinical Applications",
+    "authors": "Tokuyama-Toda R, Umeki H, Ide S, Kobayashi F, Tooyama S, Umehara M, Tadokoro S, Tomonari H, Satomura K.",
+    "year": 2023,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines11030665",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

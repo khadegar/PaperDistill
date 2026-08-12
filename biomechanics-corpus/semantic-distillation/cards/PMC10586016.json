@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10586016",
+  "paper_id": "doi:10.1021/acsomega.3c03284",
+  "pmcid": "PMC10586016",
+  "source_record_sha256": "ee90d5a373314eb9351d4663d5b5e7f1659bcc2972d4d58ea284fc45401b956c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ae24da1d6bc8d36cf9681316ea32ff17aae97e0cc127161e6a18d4ec529374ab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed Composite Bioceramic Scaffolds for Bone and Cartilage Integrated Regeneration",
+    "authors": "Xu N, Lu D, Qiang L, Liu Y, Yin D, Wang Z, Luo Y, Yang C, Ma Z, Ma H, Wang J.",
+    "year": 2023,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.3c03284",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

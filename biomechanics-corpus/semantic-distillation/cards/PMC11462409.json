@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11462409",
+  "paper_id": "doi:10.1039/d3ra08185k",
+  "pmcid": "PMC11462409",
+  "source_record_sha256": "95c778a4fdaa6f5bd7bb8557efddaa095f9da95fa5412ec7e3a45b9fbf012b91",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7e88cb5ab257afe443edf63a095b7b755d8fb174aedae468d8ef4a19c6359794",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A novel porous interbody fusion cage modified by microarc oxidation and hydrothermal treatment technology accelerate osseointegration and spinal fusion in sheep †",
+    "authors": "Sun J, Liu SS, Zou D, Ni RH, Wei CB, Wang H, Li WS.",
+    "year": 2024,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d3ra08185k",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

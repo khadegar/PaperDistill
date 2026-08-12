@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4669605",
+  "paper_id": "doi:10.1186/s12891-015-0822-9",
+  "pmcid": "PMC4669605",
+  "source_record_sha256": "3f5579bb1e0d4facc12fd66790b94538b540c796884db494bfc8112a0cd5a964",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "52c3ab5f3522d3480ff0512afd281560884c292b41ea8538405f2532098e08ee",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical and radiographic outcomes of a trabecular titanium™ acetabular component in hip arthroplasty: results at minimum 5 years follow-up",
+    "authors": "Perticarini L, Zanon G, Rossi SM, Benazzo FM.",
+    "year": 2015,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-015-0822-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

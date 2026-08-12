@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7813009",
+  "paper_id": "doi:10.1002/ccr3.3499",
+  "pmcid": "PMC7813009",
+  "source_record_sha256": "7827355ea71461fe22f10a1d9215d13d69f633cddc806ad4b60341565cfed611",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4dfed840cc95f9c92ba3bd1824c292ce16ff0e0a47a3419ac9f19a79c8136746",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Digital surgical planning and placement of osseointegrated implants to retain an auricular prosthesis using implant software with cone‐beam computed tomography and 3D‐printed surgical guides: A case report",
+    "authors": "Domingue D, Sinada N, White JR.",
+    "year": 2020,
+    "journal": "Clinical Case Reports",
+    "doi": "10.1002/ccr3.3499",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12746633",
+  "paper_id": "doi:10.1186/s13018-025-06458-9",
+  "pmcid": "PMC12746633",
+  "source_record_sha256": "02c4053bc1b2fc01299420b1659a5f263113bba234c4a2705711f088f5f35bd9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e745910a94e1f4dcbd1cf9c60cf42051748194b6ac709b559b6e9ad5860ecce8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preclinical evaluation of a 3D-printed porous stand-alone interbody cage for cervical fusion in a sheep model",
+    "authors": "Liu S, Li Q, Xiao K, Wei X, Wang Y.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-06458-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

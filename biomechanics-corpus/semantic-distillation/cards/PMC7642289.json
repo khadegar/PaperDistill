@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7642289",
+  "paper_id": "doi:10.1038/s41598-020-76021-5",
+  "pmcid": "PMC7642289",
+  "source_record_sha256": "5a714fa338ce8f183cbdda761a5ed6557f519394ca7c91ea9474c77327c18f96",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0ec072031cc54c27ac48c5224636d8b7f520064c814f5966f79dc2fe739432f5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioinspired material architectures from bighorn sheep horncore velar bone for impact loading applications",
+    "authors": "Aguirre TG, Fuller L, Ingrole A, Seek TW, Wheatley BB, Steineman BD, Donahue TLH, Donahue SW.",
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-76021-5",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

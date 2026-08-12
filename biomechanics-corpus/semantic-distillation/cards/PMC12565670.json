@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12565670",
+  "paper_id": "doi:10.3390/jfb16100393",
+  "pmcid": "PMC12565670",
+  "source_record_sha256": "a3cb82c486bf19d6b2592a51a787c8448cb47d6ed951ab0720d70bcd76fc08d3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "31d139f264355fc6e72953a925bd2d83d963b5da34b23f6f48467bf347aa8544",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Experimental Biomechanical Analysis of the Bone-to-Implant Connection in Single-Piece Implants",
+    "authors": "Krawiec K, Kurzawa A, Słowiński JJ, Fodor CR, Pałka Ł.",
+    "year": 2025,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb16100393",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

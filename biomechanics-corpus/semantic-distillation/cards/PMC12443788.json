@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12443788",
+  "paper_id": "doi:10.3389/fbioe.2025.1614727",
+  "pmcid": "PMC12443788",
+  "source_record_sha256": "e1f43291100deb132935973defad5fb31bafc6b08c8e5822b0e3510b4b751406",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ed93ce10316f73cf40a8f462fd45b37e732f03840b9714aaebbe1a920711a372",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed artificial bone scaffolds: the design of materials, the incorporation of bioactive substances, and the integration of vascularized tissue flaps",
+    "authors": "Duan Q, Shao H, Luo N, Wang F, Cheng L, Ying J, Zhao D.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1614727",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

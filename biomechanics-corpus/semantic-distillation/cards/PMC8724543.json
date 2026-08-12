@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8724543",
+  "paper_id": "doi:10.3389/fbioe.2021.763031",
+  "pmcid": "PMC8724543",
+  "source_record_sha256": "f2d2b6b9d968a67ec1e7b7c1a1a45209f549ef3b127bcce4e69b91d341dc874f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6a99b8a594a45f7c8cd33ac7e8655e19995da31be097b115684d2ca22b3cf3dd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Microbial-Derived Polyhydroxyalkanoate-Based Scaffolds for Bone Tissue Engineering: Biosynthesis, Properties, and Perspectives",
+    "authors": "Li J, Zhang X, Udduttula A, Fan ZS, Chen JH, Sun AR, Zhang P.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.763031",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

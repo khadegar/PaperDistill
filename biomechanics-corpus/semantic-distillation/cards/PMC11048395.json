@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11048395",
+  "paper_id": "doi:10.3390/biomedicines12040870",
+  "pmcid": "PMC11048395",
+  "source_record_sha256": "baf9a29de8e5eeafe966eb2835bed16eca2d066ce06eaa8997d987feb0765039",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5adc484f55d9236b64fb080ccdae00e0c7d938fb90e9d5d9bc518513433c5714",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical and Material Analysis of 3D-Printed Temporary Materials for Implant Reconstructions—A Pilot Study",
+    "authors": "Nowicki A, Osypko K, Kurzawa A, Roszak M, Krawiec K, Pyka D.",
+    "year": 2024,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines12040870",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

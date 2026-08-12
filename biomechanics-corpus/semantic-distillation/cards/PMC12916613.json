@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12916613",
+  "paper_id": "doi:10.3389/fbioe.2026.1758582",
+  "pmcid": "PMC12916613",
+  "source_record_sha256": "9e09558d1f2ef70e49d808f8dc771ecbf3a356867c92d0cf8fb67ebf29661d37",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "710abc4c27cc588425951d26e484d1da3d371f31b8a3310c8d2b3bf26ce7bbf7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient-specific 3D cryo(bio)printing of a glenoid labrum scaffold for fibrocartilaginous tissue engineering",
+    "authors": "da Silva FT, de Souza CM, Stocco TD.",
+    "year": 2026,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2026.1758582",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

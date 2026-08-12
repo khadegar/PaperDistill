@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13285088",
+  "paper_id": "doi:10.1186/s41205-026-00332-y",
+  "pmcid": "PMC13285088",
+  "source_record_sha256": "8cc79342b1fec98cc6c93b316731fa618808eddd9e470cfc27ebf499625ef6a7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c248de4058b0f3cd5f8a2ef6336befb607c11970c22bd0f4324d5ed8771dbd39",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of a new operative 3D printed template-cranioplasty-concept for performing craniotomy in the posterior cranial fossa and validation of the system using a 3D printed simulation model: a preclinical feasibility study",
+    "authors": "Jung S, Stummer M, König C, Güresir E, Winkler D, Arlt F, Grunert R.",
+    "year": 2026,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-026-00332-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11437609",
+  "paper_id": "doi:10.1016/j.jds.2024.03.017",
+  "pmcid": "PMC11437609",
+  "source_record_sha256": "3d4018836c24f8ecd631b4b23e5bbea6d4c015a0f7b4cbcb4ccc098c79d73b04",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "75c039c306be242226f557ce4528d75ecade6263ae6eccf583fce23f92e72cfd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Personalized prosthesis design in all-on-4® treatment through deep learning-accelerated structural optimization",
+    "authors": "Chen YC, Wang KH, Lin CL.",
+    "year": 2024,
+    "journal": "Journal of Dental Sciences",
+    "doi": "10.1016/j.jds.2024.03.017",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "topology_or_structural_optimization",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

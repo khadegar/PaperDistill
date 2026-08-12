@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7324477",
+  "paper_id": "doi:10.3389/fbioe.2020.00619",
+  "pmcid": "PMC7324477",
+  "source_record_sha256": "664ed5802bed742d8dd2bdbd0436d53c7117bde669a2ec9d12bef7576b02f4b4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0409ae3aa69f9de2210a0999911c765bd0e32230a75b938b8b05ec5ee573eb6a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Modeling Application in Forensic Practice: A Periprosthetic Femoral Fracture Case Study",
+    "authors": "Terzini M, Aldieri A, Nurisso S, De Nisco G, Bignardi C.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.00619",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

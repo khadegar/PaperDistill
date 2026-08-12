@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13208582",
+  "paper_id": "doi:10.3390/medicina62050934",
+  "pmcid": "PMC13208582",
+  "source_record_sha256": "68987d25a49cab71fd31ef0465848b7ca8e62cd1a6ccc10428ce71157e365d39",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "94ef9c9f86cb1870cf1ea18590498f69ef4b957a246f2230784ef6c685b68a13",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Early Outcomes of a Novel Collared Triple-Tapered Femoral System in Primary Total Hip Arthroplasty",
+    "authors": "Bahlouli L, Schaffer O, Stoebner J, Cohen-Rosenblum A, Aggarwal VK, Schwarzkopf R.",
+    "year": 2026,
+    "journal": "Medicina",
+    "doi": "10.3390/medicina62050934",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

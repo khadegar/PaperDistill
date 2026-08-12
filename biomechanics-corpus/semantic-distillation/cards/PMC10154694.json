@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10154694",
+  "paper_id": "doi:10.3389/fbioe.2023.1100462",
+  "pmcid": "PMC10154694",
+  "source_record_sha256": "4ef60e6388e12d6abe8099299c27e66224d5cc44cf3d17f5adf83d9a423b49cc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4aeb4f9dd0ee71007a0e2831f31f78166c918df2d4b49e4d8e829df5f13f7b0e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Long-term results comparison after anterior cervical discectomy with BGS-7 spacer (NOVOMAX®-C) and allograft spacer: A prospective observational study",
+    "authors": "Ryu S, Ryu DS, Kim KS.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1100462",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

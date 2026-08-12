@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8911960",
+  "paper_id": "doi:10.3390/ma15051971",
+  "pmcid": "PMC8911960",
+  "source_record_sha256": "b59141ac0f19356acd87727be2e4244e839ea389ebc7a8ecfd74643b55027978",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "74e3913c751c8f4894d23f6ad065530a905637eda84c905efb4e3198e7f652e5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Printing of a Hybrid Bioceramic and Biopolymer Porous Scaffold for Promoting Bone Regeneration Potential",
+    "authors": "Hung KS, Chen MS, Lan WC, Cho YC, Saito T, Huang BH, Tsai HY, Hsieh CC, Ou KL, Lin HY.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15051971",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

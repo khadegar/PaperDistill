@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10490355",
+  "paper_id": "doi:10.3390/polym15173620",
+  "pmcid": "PMC10490355",
+  "source_record_sha256": "e2dfc6d2805147f7e45358e317fcecd5619c064c95eea07e204d1d8e0a140b9e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "398446a9e8bfcd94a801f498bd67bedd2c7ad76739578a18f52081817d111538",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of Patient-Specific 3D-Printed Cranial Implant Manufactured with PMMA and PEEK: A Mechanical Comparative Study",
+    "authors": "Moncayo-Matute FP, Vázquez-Silva E, Peña-Tapia PG, Torres-Jara PB, Moya-Loaiza DP, Viloria-Ávila TJ.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15173620",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

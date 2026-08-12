@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9358041",
+  "paper_id": "doi:10.3389/fbioe.2022.947521",
+  "pmcid": "PMC9358041",
+  "source_record_sha256": "dce0109cab88ab37687bc268416bbb172eb52f8f335eaaf055148673f5fceb4c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "584ea60ca5d9660e006328295e12f5c15d33fe129efe5329eab90ba0aa28ce19",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing polylactic acid polymer-bioactive glass loaded with bone cement for bone defect in weight-bearing area",
+    "authors": "Ding Y, Liu X, Zhang J, Lv Z, Meng X, Yuan Z, Long T, Wang Y.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.947521",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

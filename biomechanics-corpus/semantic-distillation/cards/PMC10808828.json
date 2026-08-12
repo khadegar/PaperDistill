@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10808828",
+  "paper_id": "doi:10.3389/fbioe.2023.1261108",
+  "pmcid": "PMC10808828",
+  "source_record_sha256": "df762e08da8f5c02c081ac71ce8bd2c253c0974092b848ff6923682cf65b5bdd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a3ec614337d7b0bac015a352661be146eafb7923212c8f019f352cbd3d2c4c7e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Computational design and evaluation of the mechanical and electrical behavior of a piezoelectric scaffold: a preclinical study",
+    "authors": "Badali V, Checa S, Zehn MM, Marinkovic D, Mohammadkhah M.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1261108",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

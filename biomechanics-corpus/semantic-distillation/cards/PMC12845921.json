@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12845921",
+  "paper_id": "doi:10.3390/polym18020294",
+  "pmcid": "PMC12845921",
+  "source_record_sha256": "58351159bb8b649b9371533facbd09cb272353a9e31c778fa1090798044a047b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5d881295a028d2001f1322c7b8f7a09bbd7ea2f13964f6d9488313f9bbf29e6e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Polylactide/Polycaprolactone Nanofiber Scaffold Enhances Primary Cortical Neuron Growth",
+    "authors": "Shtol VS, Tsareva AD, Arsentiev KA, Konovalova SP, Tlimahova SA, Klinov DV, Ivanov DA, Musienko PE.",
+    "year": 2026,
+    "journal": "Polymers",
+    "doi": "10.3390/polym18020294",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3494665",
+  "paper_id": "doi:10.1371/journal.pone.0049051",
+  "pmcid": "PMC3494665",
+  "source_record_sha256": "d28eae95ce64799a22d217cfa78d8786fae577179a8787ecbb4dd560a2e89b9e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7e1e17acc50208984740355933e0ce1fc9cb58425dcf94080785e16d80178a9e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of Implant/Interconnected Porous Hydroxyapatite Complex as New Concept Graft Material",
+    "authors": "Doi K, Oue H, Morita K, Kajihara S, Kubo T, Koretake K, Perrotti V, Iezzi G, Piattelli A, Akagawa Y.",
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0049051",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12244647",
+  "paper_id": "doi:10.4103/jpbs.jpbs_1926_24",
+  "pmcid": "PMC12244647",
+  "source_record_sha256": "ff9369b4c73904edbd2f84b0741265c9aea933a126160830fa4f4c3ba152813a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "633750ffa08c3652cce17e947af2d403710486a23b6fd723198d201db18f3e5e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro Study on Influence of Implant Placement Angulation on Biomechanical Stability",
+    "authors": "Bhairammanavar VKM, Singh NJ, Ravindra KA, Kyatam SN, Jain S, Gorde K.",
+    "year": 2025,
+    "journal": "Journal of Pharmacy & Bioallied Sciences",
+    "doi": "10.4103/jpbs.jpbs_1926_24",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

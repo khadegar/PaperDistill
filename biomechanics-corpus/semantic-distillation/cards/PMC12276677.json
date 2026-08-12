@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12276677",
+  "paper_id": "doi:10.1186/s12903-025-06610-1",
+  "pmcid": "PMC12276677",
+  "source_record_sha256": "f9fdedb9d5a4ada4cd791bbf47926cf37d435f0a0385d6a3b57abbd373dca6fd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "66ef95157eb85efa338ca3cd98bb5911503fefb0894d97e50c667b8995da3a36",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical comparison of various implant inclinations and abutment types in a bendable implant system",
+    "authors": "Bilgi-Ozyetim E, Dinçer G, Sulaiman A, Dayan SÇ, Kurtulmus-Yilmaz S, Geçkili O.",
+    "year": 2025,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-025-06610-1",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

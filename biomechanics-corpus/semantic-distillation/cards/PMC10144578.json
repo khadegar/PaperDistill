@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10144578",
+  "paper_id": "doi:10.3390/ijms24087611",
+  "pmcid": "PMC10144578",
+  "source_record_sha256": "9faba568363dc582c6f901ae756c1d046fc09213ce81d5c94911fd06c05e8593",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "03eab6f020039b4e83abd375c7d11f23e0c3cec7eedf9aa01168491983efe0f0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A 3D-Printed Biomaterial Scaffold Reinforced with Inorganic Fillers for Bone Tissue Engineering: In Vitro Assessment and In Vivo Animal Studies",
+    "authors": "Sithole MN, Kumar P, Du Toit LC, Erlwanger KH, Ubanako PN, Choonara YE.",
+    "year": 2023,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms24087611",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

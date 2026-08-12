@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9935681",
+  "paper_id": "doi:10.3389/fonc.2023.1103104",
+  "pmcid": "PMC9935681",
+  "source_record_sha256": "7c9180a4ac8c455fe61cebf0ab92dfce03361e465cc31eaeb4640c6f8296e113",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b765e928faf870528235258c8954dc9afdc294c691f673fa37581b72dbf33287",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Double osseous flaps for simultaneous midfacial and mandible reconstruction: Automation in surgical complexity within an entirely computerized workflow",
+    "authors": "Tel A, Bagatto D, Sembronio S, Ferrari S, Robiony M.",
+    "year": 2023,
+    "journal": "Frontiers in Oncology",
+    "doi": "10.3389/fonc.2023.1103104",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10143993",
+  "paper_id": "doi:10.3390/ma16083151",
+  "pmcid": "PMC10143993",
+  "source_record_sha256": "203ab18cbc384082c5af0be984423d605da4c18c7a01a5ed6c24073412363fec",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8b104cc871b18f741d15c3a352740a4c88474c86f71e3f7256b65414af2065b6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multi-Scale Topology Optimization of Femoral Stem Structure Subject to Stress Shielding Reduce",
+    "authors": "Xiao Z, Wu L, Wu W, Tang R, Dai J, Zhu D.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16083151",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "topology_or_structural_optimization"
+    ]
+  },
+  "status": "blank"
+}

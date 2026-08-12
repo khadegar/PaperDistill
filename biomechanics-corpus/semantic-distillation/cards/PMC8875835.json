@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8875835",
+  "paper_id": "doi:10.3390/jpm12020253",
+  "pmcid": "PMC8875835",
+  "source_record_sha256": "2c22d464b7a8ae9c605952329c08b690bd2a9e363539658b963267b8f33f6d5f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0cd22cb8f9b32f3377af1bc06470b8c5885ef333f88d3b485f0024e0adaaa7bd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Numerical Comparison of Restored Vertebral Body Height after Incomplete Burst Fracture of the Lumbar Spine",
+    "authors": "Jhong GH, Chung YH, Li CT, Chen YN, Chang CW, Chang CH.",
+    "year": 2022,
+    "journal": "Journal of Personalized Medicine",
+    "doi": "10.3390/jpm12020253",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

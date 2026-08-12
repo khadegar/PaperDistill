@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12647118",
+  "paper_id": "doi:10.3389/fbioe.2025.1707406",
+  "pmcid": "PMC12647118",
+  "source_record_sha256": "8ea24b602814c1a1c982b236356306538b1d1757089975720a24cd6f2fb37506",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d9c3deb2866225f6adfac576172fee9a260e99ddd5c18461f07215e5529c5cb2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advances in 3D-Printed scaffolds for bone defect repair: material strategies and synergistic functional performance",
+    "authors": "Tang X, Xu H, Liu X, Yang Y, Li Z.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1707406",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

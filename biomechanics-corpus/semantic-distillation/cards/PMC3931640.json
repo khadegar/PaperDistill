@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3931640",
+  "paper_id": "doi:10.2147/ijn.s48416",
+  "pmcid": "PMC3931640",
+  "source_record_sha256": "143bba01a70024c20c82537a4861e65ddc548897e46530de271324da6ea9eb42",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f9a9cc6f173d2e53c772ecabf78a2b52dd2c5cabdae3976cb23befc5f9453d7e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vivo and in vitro investigations of a nanostructured coating material – a preclinical study",
+    "authors": "Adam M, Ganz C, Xu W, Sarajian HR, Götz W, Gerber T.",
+    "year": 2014,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s48416",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

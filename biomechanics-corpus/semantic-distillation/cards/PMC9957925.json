@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9957925",
+  "paper_id": "doi:10.1007/s10237-022-01637-7",
+  "pmcid": "PMC9957925",
+  "source_record_sha256": "e9770f8d496446b06e7e587527b56bfcca163446f9a882cfd7c0c94f87c97f63",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e94a358f8b05fca9468bfb772a1de96ff497d964c4a32ebaafdd5f162dffbf42",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modeling the debonding process of osseointegrated implants due to coupled adhesion and friction",
+    "authors": "Immel K, Nguyen VH, Haïat G, Sauer RA.",
+    "year": 2022,
+    "journal": "Biomechanics and Modeling in Mechanobiology",
+    "doi": "10.1007/s10237-022-01637-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11694181",
+  "paper_id": "doi:10.1088/2752-5724/ad9493",
+  "pmcid": "PMC11694181",
+  "source_record_sha256": "bad92a957717a35d603ec3cde51dacbcf293ee2c327788f4dc068e8de327f6f7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1079ba4249caecd824e201d7e9ed6102c563f74f6b96a4bf651cf9072c080179",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Overview of porous magnesium-based scaffolds: development, properties and biomedical applications",
+    "authors": "Motaharinia A, Drelich JW, Sharif S, Ismail AF, Naeimi F, Glover A, Ebrahiminejad M, Bakhsheshi-Rad HR.",
+    "year": 2025,
+    "journal": "Materials Futures",
+    "doi": "10.1088/2752-5724/ad9493",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

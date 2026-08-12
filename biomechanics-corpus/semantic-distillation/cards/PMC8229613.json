@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8229613",
+  "paper_id": "doi:10.3390/cells10061337",
+  "pmcid": "PMC8229613",
+  "source_record_sha256": "9cf43f0cebfa6ad3e43bcba4ec345892e5062438e98b981d54b91f383cd37752",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d7465c40e285aaa04a353446eeea57e6b9bd19740227aa9ff35ce8931a039ecf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioprinting on 3D Printed Titanium Scaffolds for Periodontal Ligament Regeneration",
+    "authors": "Lee UL, Yun S, Cao HL, Ahn G, Shim JH, Woo SH, Choung PH.",
+    "year": 2021,
+    "journal": "Cells",
+    "doi": "10.3390/cells10061337",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

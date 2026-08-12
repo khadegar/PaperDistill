@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12618450",
+  "paper_id": "doi:10.1007/s10237-025-02001-1",
+  "pmcid": "PMC12618450",
+  "source_record_sha256": "31bab5210fb19065f134682bd30fab6ed4d4101dc561d9b4c17f21d433305133",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2394ec49ab85658490e28530426b012087b71638b9c91bd3150fbc88edb56442",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of bone remodeling induced by swelling anchors considering heterogeneous properties",
+    "authors": "Sadighi A, Taheri M, Black N, Stolle J, Taghvaei M, Boyes M, Siegler S, Schaer TP, Najafi AR.",
+    "year": 2025,
+    "journal": "Biomechanics and Modeling in Mechanobiology",
+    "doi": "10.1007/s10237-025-02001-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12777410",
+  "paper_id": "doi:10.1186/s13005-025-00566-x",
+  "pmcid": "PMC12777410",
+  "source_record_sha256": "b5fcb48eb6edbe8e7f88bc35666ceaae254b6af513ea8db6430d060ca9e76491",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2c4e445d57a14f4329141e6bf47c2b6ef03fd2c073ab01e4f0c7c0729cc7deca",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fixture design effects on posterior dental implant stability using finite element analysis (FEA): a systematic review",
+    "authors": "Kriswanto K, Jamari J, Andika R, Bayuseno AP, Yusuf AA, Ammarullah MI.",
+    "year": 2025,
+    "journal": "Head & Face Medicine",
+    "doi": "10.1186/s13005-025-00566-x",
+    "publication_type": "Systematic Review; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11733714",
+  "paper_id": "doi:10.1002/adma.202312964",
+  "pmcid": "PMC11733714",
+  "source_record_sha256": "655bc2f6179fec4889e0903dcd772168572f687e859b082657e8e44ac506c589",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "186a323d965021b5159bf4bedbf5adad96648cadddd8e36ff759ecfd05a776c6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioactive Glass in Tissue Regeneration: Unveiling Recent Advances in Regenerative Strategies and Applications",
+    "authors": "Zhu Y, Zhang X, Chang G, Deng S, Chan HF.",
+    "year": 2024,
+    "journal": "Advanced Materials (Deerfield Beach, Fla.)",
+    "doi": "10.1002/adma.202312964",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

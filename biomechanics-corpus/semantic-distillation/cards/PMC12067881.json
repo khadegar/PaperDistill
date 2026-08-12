@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12067881",
+  "paper_id": "doi:10.1016/j.mbm.2025.100130",
+  "pmcid": "PMC12067881",
+  "source_record_sha256": "d84b9040ae9d25df2eca9503f172236b31cf08e6e95d9a6f8650cd808630bfc2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2e32420666c96469b3f994cd54eab425b821a948ed1fe0fa05ef0bf5cc2023aa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Prognostic assessment of osteolytic lesions and mechanical properties of bones bearing breast cancer using neural network and finite element analysis ☆",
+    "authors": "Wang S, Chu T, Wasi M, Guerra RM, Yuan X, Wang L.",
+    "year": 2025,
+    "journal": "Mechanobiology in Medicine",
+    "doi": "10.1016/j.mbm.2025.100130",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

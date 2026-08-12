@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9861768",
+  "paper_id": "doi:10.3390/ma16020751",
+  "pmcid": "PMC9861768",
+  "source_record_sha256": "09ebb537ad2eebe1ff6a171afe35a7eff2aa1b988c939ba99076362fe5fdd1b3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "527efbefe0b05dcdda41f7c24c5d5fb661b336b8b9cb86b9a3b103044580ccba",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Porosity and Heat Treatment on Mechanical Properties of Additive Manufactured CoCrMo Alloys",
+    "authors": "Lam TN, Chen KM, Tsai CH, Tsai PI, Wu MH, Hsu CC, Jain J, Huang EW.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16020751",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

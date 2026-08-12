@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10907677",
+  "paper_id": "doi:10.1016/j.heliyon.2024.e26726",
+  "pmcid": "PMC10907677",
+  "source_record_sha256": "8fabaaaee638b6efdb6b5ac7c9946c18f4b1bdb4d6c1b5570411baec2ba50000",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fd63431b022e61f5fc44c7dbebe9d433023e79475343140f298af4e5886fcfba",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical study of different bone cement distribution on osteoporotic vertebral compression Fracture-A finite element analysis",
+    "authors": "Zhou C, Meng X, Huang S, Chen H, Zhou H, Liao Y, Tang Z, Zhang X, Li H, Sun W, Wang Y.",
+    "year": 2024,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2024.e26726",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

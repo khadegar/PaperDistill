@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7738679",
+  "paper_id": "doi:10.1038/s41598-020-78806-0",
+  "pmcid": "PMC7738679",
+  "source_record_sha256": "decd96b5094c0fb3ae556cc310cc6c09b882bdca2257cf45a9eb5cbed793ed66",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c855c16d3831cf31f1682899a4036ba45eedb431afe286af224d14b591054e72",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Quantitative ultrasound assessment of the influence of roughness and healing time on osseointegration phenomena",
+    "authors": "Fraulob M, Vayron R, Le Cann S, Lecuelle B, Hériveaux Y, Albini Lomami H, Flouzat Lachaniette CH, Haïat G.",
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-78806-0",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

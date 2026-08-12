@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11000132",
+  "paper_id": "doi:10.1002/jeo2.12015",
+  "pmcid": "PMC11000132",
+  "source_record_sha256": "a55aa5d07ee3423ffe6df120ead2aba85cabb2069dad2931a1b63a04d1041a2b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "820ff488468707542d9e995a39b5ed88d4a52bc0033e10c504e8391892a328b1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Setting hinge position distal to the proximal margin of the distal lateral femur reduces the maximum principal strains of the hinge area and risk of hinge fractures",
+    "authors": "Tanaka A, Matsushita T, Nakatsuji T, Katsui Y, Nagai K, Nishida K, Mukai T, Kuroda R.",
+    "year": 2024,
+    "journal": "Journal of Experimental Orthopaedics",
+    "doi": "10.1002/jeo2.12015",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10856394",
+  "paper_id": "doi:10.3390/ma17030654",
+  "pmcid": "PMC10856394",
+  "source_record_sha256": "60320e16d964961675e8b09bfcffd44c14418ccaa09540a8e058a2ac34e13b06",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d912cf8ae9c7c08e5df9ba433fac4bd2c12562ac0a9f7701843a404121105e5c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design, Stereolithographic 3D Printing, and Characterization of TPMS Scaffolds",
+    "authors": "Gabrieli R, Wenger R, Mazza M, Verné E, Baino F.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17030654",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

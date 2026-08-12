@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10129841",
+  "paper_id": "pmcid:PMC10129841",
+  "pmcid": "PMC10129841",
+  "source_record_sha256": "f38e6a0a55aae2e91dab41b5ac64d55c06d3331a327bffa316b6d666cd894b51",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a48225ba6db9539481e7eebf0d6e381b8c0b205fd85261bd6fd0059914f70e17",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "416 A Comparison of Bone Stresses in Transtibial and Transfemoral Osseointegrated Prostheses",
+    "authors": "Tinsley J, Gaffney D, Stoneback J.",
+    "year": 2023,
+    "journal": "Journal of Clinical and Translational Science",
+    "doi": "10.1017/cts.2023.449",
+    "publication_type": "Abstract",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "other_substantive",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

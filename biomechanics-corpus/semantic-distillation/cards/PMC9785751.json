@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9785751",
+  "paper_id": "doi:10.3390/medicina58121854",
+  "pmcid": "PMC9785751",
+  "source_record_sha256": "800750feefb03ead2ebc5dc64bd6d6b7c9b6d7c1935984e121cd59befdeced65",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2ff38efb3ddcb0bfa4810fd23c8233a5d078c38c707c320ff6e87ca36ce4ef03",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Management of Complex Acetabular Fractures by Using 3D Printed Models",
+    "authors": "Ivanov S, Valchanov P, Hristov S, Veselinov D, Gueorguiev B.",
+    "year": 2022,
+    "journal": "Medicina",
+    "doi": "10.3390/medicina58121854",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

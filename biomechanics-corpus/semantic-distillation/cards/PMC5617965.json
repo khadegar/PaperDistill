@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5617965",
+  "paper_id": "doi:10.3390/cells6030019",
+  "pmcid": "PMC5617965",
+  "source_record_sha256": "70cfcb5a08f9de6f159ebb3bec837eea3fb96e8c872c6c0bb7c31d4f3042a0b0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a72eb08f29cc226cfec3be2a71e0ae35c24ba29ef93e20eb949ef1545e652dc2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Vascular Mechanobiology: Towards Control of In Situ Regeneration",
+    "authors": "van Haaften EE, Bouten CVC, Kurniawan NA.",
+    "year": 2017,
+    "journal": "Cells",
+    "doi": "10.3390/cells6030019",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

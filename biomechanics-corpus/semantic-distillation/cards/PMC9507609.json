@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9507609",
+  "paper_id": "doi:10.1055/s-0041-1736592",
+  "pmcid": "PMC9507609",
+  "source_record_sha256": "a291d8d59454759c1c766f05b8d399e9ce76d7109125f127a6db5f5b9f4efa40",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "13a09722e8ebd311ab103eddbdfb99c713520ec629be4505b593adb43be6b677",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Silico Analysis of Glycosaminoglycan-Acemannan as a Scaffold Material on Alveolar Bone Healing",
+    "authors": "Sularsih S, Mulawarmanti D, Rahmitasari F, Siswodihardjo S.",
+    "year": 2022,
+    "journal": "European Journal of Dentistry",
+    "doi": "10.1055/s-0041-1736592",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

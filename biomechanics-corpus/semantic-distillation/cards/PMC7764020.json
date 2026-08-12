@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7764020",
+  "paper_id": "doi:10.3390/polym12122938",
+  "pmcid": "PMC7764020",
+  "source_record_sha256": "cb2d9f7a1d1157f4f314c3749f4ac4aa58a232da31fec4331fe9f19cb30c7109",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ce549f27858e7458187b9eb02b3952607a5b3072b5a55df918d0bb399d1e18e5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biocompatibility and Physico-Chemical Properties of Highly Porous PLA/HA Scaffolds for Bone Reconstruction",
+    "authors": "Zimina A, Senatov F, Choudhary R, Kolesnikov E, Anisimova N, Kiselevskiy M, Orlova P, Strukova N, Generalova M, Manskikh V, Gromov A, Karyagina A.",
+    "year": 2020,
+    "journal": "Polymers",
+    "doi": "10.3390/polym12122938",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

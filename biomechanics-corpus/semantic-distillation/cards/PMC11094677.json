@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11094677",
+  "paper_id": "doi:10.1021/acsbiomaterials.3c01799",
+  "pmcid": "PMC11094677",
+  "source_record_sha256": "d25103a07df9aea5dfb24ab53ee33b91a966e0b8d65780445abff86c000feb6d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "aff932805b1f6175870dc822b7a5be89e1c7211498312c9c8253c18b8e506cc1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Calcified Cartilage-Guided Identification of Osteogenic Molecules and Geometries",
+    "authors": "Kawaai K, Kuroda Y, Matsuo K.",
+    "year": 2024,
+    "journal": "ACS Biomaterials Science & Engineering",
+    "doi": "10.1021/acsbiomaterials.3c01799",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

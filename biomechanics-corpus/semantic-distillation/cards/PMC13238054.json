@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13238054",
+  "paper_id": "doi:10.1186/s12891-026-09820-y",
+  "pmcid": "PMC13238054",
+  "source_record_sha256": "15fcf67868fbc0afedadb0089235f840d8df8d674327b8bb018d57ae0e204a88",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "45ef67444774abe092f05541c662930cd9b3da8af4179a444cf3f21ca410fcc2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A finite element analysis of the biomechanical stability of tri-cortical versus traditional pedicle screw fixation in adult thoracic spine",
+    "authors": "Sun K, Tang Z, Li J, Qin X, Mao S, Shi B, Qiu Y, Zhu Z, Liu Z.",
+    "year": 2026,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-026-09820-y",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

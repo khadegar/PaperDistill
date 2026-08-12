@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9163975",
+  "paper_id": "doi:10.1111/os.13282",
+  "pmcid": "PMC9163975",
+  "source_record_sha256": "f2f57d523dc2e2a0a0434b625a8a12339080207cfc232113d7e9f589db2d65d3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8d7fb3c3d8ed08f8087d08524d4f6518a323c3f24f32e2e5df29359bb4c695b9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reconstruction for Massive Proximal Tibial Bone Defects Using Patient‐Customized Three‐Dimensional‐Printed Metaphyseal Cones in Revision Total Knee Arthroplasty",
+    "authors": "Li Y, Wang X, Tian H.",
+    "year": 2022,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13282",
+    "publication_type": "other; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

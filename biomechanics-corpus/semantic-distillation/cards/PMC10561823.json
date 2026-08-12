@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10561823",
+  "paper_id": "doi:10.34133/research.0239",
+  "pmcid": "PMC10561823",
+  "source_record_sha256": "5531b50608a66e668a340d882beba59dc2f868fc32ed3a1b5b09153d80a222c9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6f501dd12860cdc3edc9779765acd339cfe63302191bbd8edaeba9592e9a6fc5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Customized Additive Manufacturing in Bone Scaffolds—The Gateway to Precise Bone Defect Treatment",
+    "authors": "Zhou J, See CW, Sreenivasamurthy S, Zhu D.",
+    "year": 2023,
+    "journal": "Research",
+    "doi": "10.34133/research.0239",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

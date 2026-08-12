@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8348682",
+  "paper_id": "doi:10.3390/ma14154149",
+  "pmcid": "PMC8348682",
+  "source_record_sha256": "c6837ba9bec6ed97a506bf8fcb784254ef6cbe3d7cc4e41dba89683131cf7ff1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "40db52e78c6a3a843a5b181f020aeda7cb8c1bc5ffd3a54aef189bc68a6c660e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Promotion of Bone Regeneration Using Bioinspired PLGA/MH/ECM Scaffold Combined with Bioactive PDRN",
+    "authors": "Kim DS, Lee JK, Jung JW, Baek SW, Kim JH, Heo Y, Kim TH, Han DK.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14154149",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

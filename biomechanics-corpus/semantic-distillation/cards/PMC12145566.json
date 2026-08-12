@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12145566",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101834",
+  "pmcid": "PMC12145566",
+  "source_record_sha256": "19aa9df9480291aa5c6be4137012ae9469580c18b31b8208bbda4b972dcaecaa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "92886c834dcb419236f6ba4789aa12e70fa1baf7ed40a96ae0f8a023e55ee9ab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D bioprinted scaffolds for osteochondral regeneration: advancements and applications",
+    "authors": "Lu J, Gao Y, Cao C, Wang H, Ruan Y, Qin K, Liu H, Wang Y, Yang P, Liu Y, Ma Y, Yu Z, Wang Y, Zhong Z, Chang F.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101834",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

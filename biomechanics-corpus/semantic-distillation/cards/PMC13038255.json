@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13038255",
+  "paper_id": "doi:10.1093/rb/rbag036",
+  "pmcid": "PMC13038255",
+  "source_record_sha256": "6eaf0608bf6e9fdb89dbfc25d7aee5b6d433a7f144a044156a1ed606f1eb67cc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "101386945fc44a4792cbbccc21c25b0ab06b6362445b7bc0796b4151be6b41f9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A neurovascularized bone regeneration strategy for mandibular and alveolar bone defects based on elastin-like biomaterials",
+    "authors": "Mahmoudi N, Lesieur R, Rey S, Paiva Dos Santos B, Catros S, Garbay B, Amédée Vilamitjana J, Roque M.",
+    "year": 2026,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbag036",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10382015",
+  "paper_id": "doi:10.3390/jfb14070355",
+  "pmcid": "PMC10382015",
+  "source_record_sha256": "2c421f5b9cf59e8f2ef86f69e15b8ecdc698bdc129bd09eefaa28aace324f22a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8226e722f3a3e1dac42d5738721532a2a3995f64211645a94a9f29f7e00298ff",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osseointegration of Tantalum Trabecular Metal in Titanium Dental Implants: Histological and Micro-CT Study",
+    "authors": "Al Deeb M, Aldosari AA, Anil S.",
+    "year": 2023,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb14070355",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

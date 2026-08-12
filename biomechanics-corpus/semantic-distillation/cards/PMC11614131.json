@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11614131",
+  "paper_id": "doi:10.4103/jips.jips_30_24",
+  "pmcid": "PMC11614131",
+  "source_record_sha256": "39509da1cd47a9046014dcfa18d0a1109fa0177ecb9b0f96bf5125e854e831e0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b43ba8938c8f104ccfd5c4a811b45624cd62f91e6a94a912e84bf82427e10d0c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stress distribution by parafunctional loading on tooth–implant, implant–implant, and tooth–tooth-supported prosthesis: A comparative three-dimensional finite element analysis",
+    "authors": "Ravindran PA, Raghavan R, Christopher K, Sramadathil S, George A, Sasi AK.",
+    "year": 2024,
+    "journal": "The Journal of the Indian Prosthodontic Society",
+    "doi": "10.4103/jips.jips_30_24",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

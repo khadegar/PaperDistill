@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10272761",
+  "paper_id": "doi:10.3389/fvets.2023.1149413",
+  "pmcid": "PMC10272761",
+  "source_record_sha256": "c320a68cd8f165e89397b04b0f9de37e7c63c05bae003d6343feb1cb9e275b02",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "39a26b34bb20ca5436f62213772995cb7d89f003458cccda54db881b0684e90a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteogenic differentiation of adipose-derived canine mesenchymal stem cells seeded in porous calcium-phosphate scaffolds",
+    "authors": "Herrera D, Lodoso-Torrecilla I, Ginebra MP, Rappe K, Franch J.",
+    "year": 2023,
+    "journal": "Frontiers in Veterinary Science",
+    "doi": "10.3389/fvets.2023.1149413",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12473714",
+  "paper_id": "doi:10.3390/tomography11090101",
+  "pmcid": "PMC12473714",
+  "source_record_sha256": "3ca4e9cd49cf42b53567f06dd26eebed81e861b66ea974c9a17f51cdffb03767",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5c484988dc6be5110a72a62c121fb522c8f5e1df1299098fc69a75c19d5c09a7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Evaluation with Micro Finite Element Analysis in Animal Models",
+    "authors": "Namiranian B, Doi K, Alenezi S, Shah SB, Jerban S, Chang EY.",
+    "year": 2025,
+    "journal": "Tomography",
+    "doi": "10.3390/tomography11090101",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

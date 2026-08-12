@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12647534",
+  "paper_id": "doi:10.1177/24730114251390497",
+  "pmcid": "PMC12647534",
+  "source_record_sha256": "173965db23ae1255834bd703aeb439db5178a2d8630583154f9b157cbe185860",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "efda3f0c4ef1afe880a78c1f7b962ba330defa57dfac41e7b0ecf85c9ea85227",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Subtalar Joint Statistical Shape Modeling Differentiates Cavus-to-Planus Foot Types From Weightbearing CT",
+    "authors": "Lapins ER, Peterson AC, Saltzman CL, Elhabian SY, Chrea B, Miyamoto T, Lenz AL.",
+    "year": 2025,
+    "journal": "Foot & Ankle Orthopaedics",
+    "doi": "10.1177/24730114251390497",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

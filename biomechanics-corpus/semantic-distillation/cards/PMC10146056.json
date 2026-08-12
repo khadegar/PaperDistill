@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10146056",
+  "paper_id": "doi:10.3390/ma16083261",
+  "pmcid": "PMC10146056",
+  "source_record_sha256": "8c6b55fad23c4d94c199cac1c4bebb0f6cc79c9194cef3c3cf69c3ce4e2e381d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1b439cc418e406a520a1979949a70174abaa16d0a77c5377ec348a6dac1f0529",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of Implant Surgery Methods of Cortical Tapping and Cortical Widening in Bone of Various Density: A Three-Dimensional Finite Element Study",
+    "authors": "Baek YW, Lim YJ, Kim B.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16083261",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

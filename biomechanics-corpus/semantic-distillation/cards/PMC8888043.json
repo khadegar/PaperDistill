@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8888043",
+  "paper_id": "doi:10.1155/2022/1291996",
+  "pmcid": "PMC8888043",
+  "source_record_sha256": "4afbaf86f4fb82bf1ef1ec671ad79dd33afbd3b8c80fd054a273e62d09c27921",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f4f765b10f0d70357724b669c6f52f1ff929ab8b388b24d5f0e48e807695f570",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of 3D Printing Technology in Proximal Femoral Osteotomy in Children with Developmental Dysplasia of the Hip",
+    "authors": "Cao J, Gao C, Sun JH, Zheng HJ, Zhu HY, Zhong ZP, Zhou L.",
+    "year": 2022,
+    "journal": "Disease Markers",
+    "doi": "10.1155/2022/1291996",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

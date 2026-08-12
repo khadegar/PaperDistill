@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8980439",
+  "paper_id": "doi:10.1016/j.bioactmat.2022.03.010",
+  "pmcid": "PMC8980439",
+  "source_record_sha256": "5e981275fd0a0372645603b3c34fca867c4b78fbc6f1182f1c92c521ba2118ff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e2238622fc37bfa0278ccd99935484aa60c9b3da0a87f9bc5650eee037d8db4e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additively manufactured pure zinc porous scaffolds for critical-sized bone defects of rabbit femur",
+    "authors": "Xia D, Qin Y, Guo H, Wen P, Lin H, Voshage M, Schleifenbaum JH, Cheng Y, Zheng Y.",
+    "year": 2022,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2022.03.010",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

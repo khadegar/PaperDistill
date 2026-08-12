@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11088090",
+  "paper_id": "doi:10.1186/s12903-024-04328-0",
+  "pmcid": "PMC11088090",
+  "source_record_sha256": "70530abc114595c4742d3190910dfe01df84668cdc45cf334e2446b5b3dd0d1a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1f0baf01f98cc427c77a74016d84a73a92480e696ed0c89919ab123f79dd330d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Static and dynamic stress analysis of different crown materials on a titanium base abutment in an implant-supported single crown: a 3D finite element analysis",
+    "authors": "Deste Gökay G, Oyar P, Gökçimen G, Durkan R.",
+    "year": 2024,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-024-04328-0",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11157078",
+  "paper_id": "doi:10.3389/fbioe.2024.1384062",
+  "pmcid": "PMC11157078",
+  "source_record_sha256": "25b98bad3a1dc5ff430dd48d981df949eac17ba9ff2ff76f51675cf232e9af2e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2d05dbb567eed86a4c306e2610a7384a29b5999644a0905ce86bd60e1dfcd4ad",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Soft tissue material properties based on human abdominal in vivo macro-indenter measurements",
+    "authors": "Remus R, Sure C, Selkmann S, Uttich E, Bender B.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1384062",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10496390",
+  "paper_id": "doi:10.1186/s12938-023-01151-6",
+  "pmcid": "PMC10496390",
+  "source_record_sha256": "328c141ca5dffd9ddac1f56019766e3612b93b346ffba2484040a453d5d8c463",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "05b01b59500486fb6102d6eb51a66d844ce88623cbc8d9d2ecbbd6966976d32a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of different running intensities on the micro-level failure strain of rat femoral cortical bone structures: a finite element investigation",
+    "authors": "Fan R, Liu J, Jia Z.",
+    "year": 2023,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-023-01151-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

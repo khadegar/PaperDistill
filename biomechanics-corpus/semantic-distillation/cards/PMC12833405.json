@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12833405",
+  "paper_id": "doi:10.3389/fbioe.2025.1712322",
+  "pmcid": "PMC12833405",
+  "source_record_sha256": "51bdde68161d0a62126680a773dec4d477b0865adeffa2cba778f7a88aeb5fc1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "32d7cdbed7e458936d2c0433d9b73007e6864ba0eb65f26ee9787975f5934b40",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Medial unicompartmental knee arthroplasty wear prediction using a total knee joint finite element model",
+    "authors": "Zhu X, Mao Z, Li R, Ma S, Lv R, Zhao F.",
+    "year": 2026,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1712322",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

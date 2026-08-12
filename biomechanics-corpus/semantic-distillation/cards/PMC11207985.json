@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11207985",
+  "paper_id": "doi:10.3390/polym16121667",
+  "pmcid": "PMC11207985",
+  "source_record_sha256": "c3a06aa88322008ec1bc6673099e779efaaf8b5ccfad4b82411cb3ad6996a7c3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "72184506df5647499df1fd2506f04f2fb84c32869bb7e848018c4918039fb0a4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro and In Vivo Drug Release from a Nano-Hydroxyapatite Reinforced Resorbable Nanofibrous Scaffold for Treating Female Pelvic Organ Prolapse",
+    "authors": "Chen YP, Lo TS, Chien YH, Kuo YH, Liu SJ.",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16121667",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

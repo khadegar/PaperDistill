@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7469110",
+  "paper_id": "doi:10.1186/s12938-020-00810-2",
+  "pmcid": "PMC7469110",
+  "source_record_sha256": "7ba09ba738cca710ac3669c60ef7a06443261f32f2b5c1801a86849b2d2d98d4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c78fcec62dbbb8311da5f0abee369afaaca59c8f8db7229871d42173f1aeb75a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Challenges on optimization of 3D-printed bone scaffolds",
+    "authors": "Bahraminasab M.",
+    "year": 2020,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-020-00810-2",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

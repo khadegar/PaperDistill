@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10120851",
+  "paper_id": "doi:10.3389/fbiom.2022.948493",
+  "pmcid": "PMC10120851",
+  "source_record_sha256": "9a70b4bb56bd20b242510ae732b3e5d53e43ec8b74fdea9e6f0fd10d93131b5f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3e526a9a645762c041ebccb62712a0eb0b7325579df54f7845d523367a5a3c89",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Injectable hydrogel with immobilized BMP-2 mimetic peptide for local bone regeneration",
+    "authors": "Gultian KA, Gandhi R, DeCesari K, Romiyo V, Kleinbart EP, Martin K, Gentile PM, Kim TWB, Vega SL.",
+    "year": 2022,
+    "journal": "Frontiers in biomaterials science",
+    "doi": "10.3389/fbiom.2022.948493",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

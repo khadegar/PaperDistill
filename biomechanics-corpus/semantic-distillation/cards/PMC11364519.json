@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11364519",
+  "paper_id": "doi:10.1093/rb/rbae097",
+  "pmcid": "PMC11364519",
+  "source_record_sha256": "cb4c3304ac6a21fe82050241cf196fa69537bb64ca90e8009d34aafaf4a84689",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a98b622cfa5015742df3e8fd98cf1c68739153e7a86001d21da3d1e565248f21",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing of recombinant collagen/chitosan methacrylate/nanoclay hydrogels loaded with Kartogenin nanoparticles for cartilage regeneration",
+    "authors": "Zhang W, Shi K, Yang J, Li W, Yu Y, Mi Y, Yao T, Ma P, Fan D.",
+    "year": 2024,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbae097",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

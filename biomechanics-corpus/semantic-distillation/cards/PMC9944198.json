@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9944198",
+  "paper_id": "doi:10.1177/23259671221150632",
+  "pmcid": "PMC9944198",
+  "source_record_sha256": "5489ccbf7a145e82c435977f3467cb3f3a7028af11f991ebca195e19f86cd11f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "97770f8e6560c7091cfb530d0e762d1c6c14b88f9abadb403f2226e58d8c3df6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Polyurethane Scaffold vs Fascia Lata Autograft for Hip Labral Reconstruction: Comparison of Femoroacetabular Biomechanics",
+    "authors": "Capurro B, Tey-Pons M, Carrera A, Marqués-López F, Marín-Peña O, Torres-Eguía R, Monllau JC, Reina F.",
+    "year": 2023,
+    "journal": "Orthopaedic Journal of Sports Medicine",
+    "doi": "10.1177/23259671221150632",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

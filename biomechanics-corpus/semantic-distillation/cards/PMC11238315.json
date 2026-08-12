@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11238315",
+  "paper_id": "doi:10.1021/acsomega.3c09035",
+  "pmcid": "PMC11238315",
+  "source_record_sha256": "c593a81b64cf1eb5b30f55df18881d9c8deac742e969d2a3a30686415508a10b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ec1388b6ee3a46e7665e3f3952300cdafc4cc55fd32b7503e88273c75dbe95f6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication of 3D-Printed Scaffolds with Multiscale Porosity",
+    "authors": "Podgórski R, Wojasiński M, Małolepszy A, Jaroszewicz J, Ciach T.",
+    "year": 2024,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.3c09035",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

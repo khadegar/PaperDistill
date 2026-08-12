@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4209504",
+  "paper_id": "doi:10.2174/1874325001408010375",
+  "pmcid": "PMC4209504",
+  "source_record_sha256": "7d3f35a71042ad91b7c8d5173f37ddac2e6987349dc6a9758c38b3d3fa4228cd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a7f3bf0534a2ed00839c348ce00a6a00600d721fb9d1be8aac77c17495067f70",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Five-Year Clinical and Radiographic Outcomes After Minimally Invasive Sacroiliac Joint Fusion Using Triangular Implants",
+    "authors": "Rudolf L, Capobianco R.",
+    "year": 2014,
+    "journal": "The Open Orthopaedics Journal",
+    "doi": "10.2174/1874325001408010375",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

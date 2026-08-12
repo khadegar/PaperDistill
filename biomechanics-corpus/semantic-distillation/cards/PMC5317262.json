@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5317262",
+  "paper_id": "doi:10.2147/ijn.s123930",
+  "pmcid": "PMC5317262",
+  "source_record_sha256": "3f71da982ae147e4182fa55f8b6b197f25ef5cb7069f42fe431dda01cc7f3ba0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "80f7aebf12a8eb90109e310ebc39b1aa7cf86e79f95f5028187282f3f0403cc9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteogenic activity of titanium surfaces with hierarchical micro-/nano-structures obtained by hydrofluoric acid treatment",
+    "authors": "Liang J, Xu S, Shen M, Cheng B, Li Y, Liu X, Qin D, Bellare A, Kong L.",
+    "year": 2017,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s123930",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11595311",
+  "paper_id": "doi:10.3390/ma17225435",
+  "pmcid": "PMC11595311",
+  "source_record_sha256": "5803fcf60b3ce5f3a4a4e3c3fb958fad69c4f4c5509bc7ccdf3e7455d260b4ee",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3901a81265890d88cde20eda65be1ea448604f747392d275f5152add17f1d24f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Biomechanical Evaluation of Distal Tilting Implants in All-on-Four Rehabilitation with Mild Mandibular Resorption: A Finite Element Analysis Study",
+    "authors": "Tsai MH, Lee CH, Wu AY, Lei YN, Chen HS, Wu YL.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17225435",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

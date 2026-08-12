@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8346478",
+  "paper_id": "doi:10.1038/s41536-021-00152-0",
+  "pmcid": "PMC8346478",
+  "source_record_sha256": "c5059036d502be31dba6f7728b34bbec9306b80e10bb0df04e466493a7dee9e1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a86458540cb5ec1608818690161f73818d03b03542ad9b38b574e947ec7672c4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Engineering large, anatomically shaped osteochondral constructs with robust interfacial shear properties",
+    "authors": "Brown WE, Huang BJ, Hu JC, Athanasiou KA.",
+    "year": 2021,
+    "journal": "NPJ Regenerative Medicine",
+    "doi": "10.1038/s41536-021-00152-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

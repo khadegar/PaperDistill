@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10740735",
+  "paper_id": "doi:10.3390/bioengineering10121413",
+  "pmcid": "PMC10740735",
+  "source_record_sha256": "1b719d546f6677cf069212155457844aeb4d0f2cb59696abe9d7b90cbefad8fb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1d180e24e6689f9d7fde026a6637523c259308bb5929b2653c8b662ec2dc453b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical and Biological Assessment of Polyglycelrolsebacate-Coupled Implant with Shape Memory Effect for Treating Osteoporotic Fractures",
+    "authors": "Park S, Lee SJ, Park KM, Jung TG.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10121413",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

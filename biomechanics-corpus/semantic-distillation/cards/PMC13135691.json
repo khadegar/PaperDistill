@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13135691",
+  "paper_id": "doi:10.1093/burnst/tkaf072",
+  "pmcid": "PMC13135691",
+  "source_record_sha256": "024efa3642b97a5a5d27ba94f5188236297f35bd1d0ed52f8d1ed0ef831dd30f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2ef711a7a733d338c3c55e8f874f585e1b7af8c8595972e6a4121313a535c660",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Sequential treatment of infectious bone defects with three dimensional-printed body temperature-responsive shape memory scaffold coated with metal-polyphenol layers",
+    "authors": "Yang S, Hu Q, Hu Y, Pu Z, Lan Y, Wu H, Zhu G, Gao Z, Yang J, Tan S, Hu N, Hu X, Qin L.",
+    "year": 2025,
+    "journal": "Burns & Trauma",
+    "doi": "10.1093/burnst/tkaf072",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

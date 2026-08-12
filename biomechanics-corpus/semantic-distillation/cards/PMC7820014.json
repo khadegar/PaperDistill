@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7820014",
+  "paper_id": "doi:10.1038/s41467-020-20865-y",
+  "pmcid": "PMC7820014",
+  "source_record_sha256": "11d98eed4bb1879af02326339fd707906d0b5d9177ff9d80ed933a3d7764181b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e0a17544158b71e16b7ad9ff4be51a4cdae12a1d39dd922ed0ea904f19dd3999",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A hybrid additive manufacturing platform to create bulk and surface composition gradients on scaffolds for tissue regeneration",
+    "authors": "Sinha R, Cámara-Torres M, Scopece P, Verga Falzacappa E, Patelli A, Moroni L, Mota C.",
+    "year": 2021,
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-020-20865-y",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

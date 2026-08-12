@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9958140",
+  "paper_id": "doi:10.1007/s10237-022-01642-w",
+  "pmcid": "PMC9958140",
+  "source_record_sha256": "fd5300fede1ded50bd1eba435b40236998a1657856673bc959b63b6f7acedfcc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e761d7838ab6bc9673f4a08ecf0117e30c74317cd7e6c596cc69f58a058c7d4b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Geometry and bone mineral density determinants of femoral neck strength changes following exercise",
+    "authors": "O'Rourke D, Beck BR, Harding AT, Watson SL, Pivonka P, Martelli S.",
+    "year": 2022,
+    "journal": "Biomechanics and Modeling in Mechanobiology",
+    "doi": "10.1007/s10237-022-01642-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

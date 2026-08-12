@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8347469",
+  "paper_id": "doi:10.3390/ijms22157969",
+  "pmcid": "PMC8347469",
+  "source_record_sha256": "6c33fb3973350b83cb7ec7682f6349c7b980f8ec752095ba36c3533c0f3a433c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0cc816cf477756a4fa80683eb5cec9f5792f3b379da55ff19c0814da51e29caf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimetic Zirconia with Cactus-Inspired Meso-Scale Spikes and Nano-Trabeculae for Enhanced Bone Integration",
+    "authors": "Saruta J, Ozawa R, Okubo T, Taleghani SR, Ishijima M, Kitajima H, Hirota M, Ogawa T.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms22157969",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

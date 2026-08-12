@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9059085",
+  "paper_id": "doi:10.1016/j.mtbio.2022.100252",
+  "pmcid": "PMC9059085",
+  "source_record_sha256": "4baa1c7e9bf5d24d638604d3be5cc29b9293d0fe77ab729aff7c2a7b88581969",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5edb97842a2675971c8ecad4bcbfd1f3bba65f75881ced2c74762615f682d9ab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tissue engineered in-vitro vascular patch fabrication using hybrid 3D printing and electrospinning",
+    "authors": "Mayoral I, Bevilacqua E, Gómez G, Hmadcha A, González-Loscertales I, Reina E, Sotelo J, Domínguez A, Pérez-Alcántara P, Smani Y, González-Puertas P, Mendez A, Uribe S, Smani T, Ordoñez A, Valverde I.",
+    "year": 2022,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2022.100252",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

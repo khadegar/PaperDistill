@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10934518",
+  "paper_id": "doi:10.3390/ma17051213",
+  "pmcid": "PMC10934518",
+  "source_record_sha256": "10f2c7bcde14ae1c6acb42814d5719e3c80cb68809ec48af07e03341643208af",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e7420f9414b575e53d66a8260d2212a1fc925b33eb6601b56eb7e5ea03c62570",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis and Fatigue Test of INTEGRA Dental Implant System",
+    "authors": "Zieliński R, Lipa S, Piechaczek M, Sowiński J, Kołkowska A, Simka W.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17051213",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

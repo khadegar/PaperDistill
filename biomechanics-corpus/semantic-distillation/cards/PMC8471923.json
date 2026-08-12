@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8471923",
+  "paper_id": "doi:10.3390/biomedicines9091224",
+  "pmcid": "PMC8471923",
+  "source_record_sha256": "aaca46085c2ac2b1e6bddd4dcc48d1d0870bfb03f18c3fc054bbb6e082f8f330",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9eb827ac8ef1f2f2473db4688ccc5080b2b430dcfc58cb17d525f804750bf8c0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing of Polysaccharide-Based Self-Healing Hydrogel Reinforced with Alginate for Secondary Cross-Linking",
+    "authors": "Roh HH, Kim HS, Kim C, Lee KY.",
+    "year": 2021,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines9091224",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

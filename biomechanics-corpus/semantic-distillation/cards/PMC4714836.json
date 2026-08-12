@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4714836",
+  "paper_id": "doi:10.1371/journal.pone.0146935",
+  "pmcid": "PMC4714836",
+  "source_record_sha256": "d36f0592821a4d85640288ef1c22991e52c7d32da5f949a501f212de40f3bbbf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "44664472bccf20208e99efa2b4fd0689755ca5655decc6d683361235bea78b7a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Geometry Design Optimization of Functionally Graded Scaffolds for Bone Tissue Engineering: A Mechanobiological Approach",
+    "authors": "Boccaccio A, Uva AE, Fiorentino M, Mori G, Monno G.",
+    "year": 2016,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0146935",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

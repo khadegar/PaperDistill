@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10022180",
+  "paper_id": "doi:10.1186/s40824-023-00361-2",
+  "pmcid": "PMC10022180",
+  "source_record_sha256": "23f8ef4be1fb72436793fca11d7e089b79b35ce127bdffab5bf0f55d000cf438",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0d1994499cf73fd5695184a168c634343904c702e598e0effad697c187e985cf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surface modifications of titanium dental implants with strontium eucommia ulmoides to enhance osseointegration and suppress inflammation",
+    "authors": "Sun AR, Sun Q, Wang Y, Hu L, Wu Y, Ma F, Liu J, Pang X, Tang B.",
+    "year": 2023,
+    "journal": "Biomaterials Research",
+    "doi": "10.1186/s40824-023-00361-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

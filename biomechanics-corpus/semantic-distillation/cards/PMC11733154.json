@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11733154",
+  "paper_id": "doi:10.1038/s41598-025-86108-6",
+  "pmcid": "PMC11733154",
+  "source_record_sha256": "4b56fc179b65f00b03f66cee0f9f16cc36bb24e1fa620099a911cbc4657f46be",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9507b99ea88998484d64840723478c4ff432eb84e7baf356732630212eb4a21b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical analysis of a short femoral stem used in revision total hip replacement of a standard femoral stem",
+    "authors": "Yan SG, Wang Z, Cui Y, Liu F, Lu J, Zhang H, Li D.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-86108-6",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

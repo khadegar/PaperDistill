@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7723487",
+  "paper_id": "doi:10.1155/2020/4542302",
+  "pmcid": "PMC7723487",
+  "source_record_sha256": "64b355c3fe30c9b9cbd273675b907710e44df27d0c0289b227e4caa8fd7bf1f9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ad2636f489b7787a2275753abdbffbe064075de78823fc55e6daa42122634581",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vivo Reconstruction of the Acetabular Bone Defect by the Individualized Three-Dimensional Printed Porous Augment in a Swine Model",
+    "authors": "Fu J, Xiang Y, Ni M, Qu X, Zhou Y, Hao L, Zhang G, Chen J.",
+    "year": 2020,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2020/4542302",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

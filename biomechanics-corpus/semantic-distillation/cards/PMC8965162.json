@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8965162",
+  "paper_id": "doi:10.1016/j.bioactmat.2022.01.034",
+  "pmcid": "PMC8965162",
+  "source_record_sha256": "101d23d4a3b8deb3d7083f730fe7492892c8549d223023164019575ce0081d51",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "94273ef6a84c7bb1883200a0c623da1f077e33718c75c94c89ec44f475c40658",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed biomimetic epithelium/stroma bilayer hydrogel implant for corneal regeneration",
+    "authors": "He B, Wang J, Xie M, Xu M, Zhang Y, Hao H, Xing X, Lu W, Han Q, Liu W.",
+    "year": 2022,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2022.01.034",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7662257",
+  "paper_id": "doi:10.3390/ma13214794",
+  "pmcid": "PMC7662257",
+  "source_record_sha256": "7d05caa1d4f2e84028e4c4c0d87994c0f6d38a7b400c53b557a161bfa67bd7aa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "160f8d970b3535ef7ace2d3b874a4c3a02386fa0917e21d60db6d470b090af01",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Exploring Macroporosity of Additively Manufactured Titanium Metamaterials for Bone Regeneration with Quality by Design: A Systematic Literature Review",
+    "authors": "Martinez-Marquez D, Delmar Y, Sun S, Stewart RA.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13214794",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

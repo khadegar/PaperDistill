@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9597292",
+  "paper_id": "doi:10.1039/d2ra02942a",
+  "pmcid": "PMC9597292",
+  "source_record_sha256": "f97ce3df43bec2774cf055ab2f901a4fcf91b2e426616cbd084ac72f3d365233",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b5f7300b5d58d52939e6139785e16a5d2c865b06d35053790aab36cd56584902",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed bioactive ceramic scaffolds with MoSe 2 nanocrystals as photothermal agents for bone tumor therapy †",
+    "authors": "Zhang X, Li Y, Dong X, Wang H, Chen B, Li R, Qin Y, Ivasishin O.",
+    "year": 2022,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d2ra02942a",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

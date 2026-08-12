@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11577426",
+  "paper_id": "doi:10.1021/acsabm.4c00567",
+  "pmcid": "PMC11577426",
+  "source_record_sha256": "8e58db638209c2b95aae55fc9c4efc4a19d8ccc2625feadd566ee1f793dc1272",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bd9bd68caf44af37c3a352d457e008881cdc44ddf700e6783454db270b6697d0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Smart Biopolymer Scaffolds Based on Hyaluronic Acid and Carbonyl Iron Microparticles: 3D Printing, Magneto-Responsive, and Cytotoxicity Study",
+    "authors": "Gorgol D, Mrlík M, Mikulka F, Víchová Z, Mahelová L, Ilčíková M, Minařík A.",
+    "year": 2024,
+    "journal": "ACS Applied Bio Materials",
+    "doi": "10.1021/acsabm.4c00567",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

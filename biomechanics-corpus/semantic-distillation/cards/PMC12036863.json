@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12036863",
+  "paper_id": "doi:10.7150/thno.113623",
+  "pmcid": "PMC12036863",
+  "source_record_sha256": "d6c9187f588709de0de2a78f19b8d239ab19987e7227f21034538f1d33d00239",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "01676284a1f8083bdd7090565a63a7f2a8010fa5fb781d8e18932919f8cead08",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Vine-inspired zinc-ion modified black phosphorus coating accelerates bone tissue infiltration of 3D printed scaffolds",
+    "authors": "Li D, Dai D, Wang J, Wang Y, Tian Y, Zhang C.",
+    "year": 2025,
+    "journal": "Theranostics",
+    "doi": "10.7150/thno.113623",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

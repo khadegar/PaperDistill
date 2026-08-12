@@ -1,0 +1,194 @@
+{
+  "study": {
+    "article_kind": "single_patient_case_report",
+    "design_features": [
+      "paget_disease",
+      "pathological_femoral_fracture",
+      "external_fixation_failure_sequence",
+      "functional_bracing",
+      "radiographic_follow_up",
+      "five_year_follow_up"
+    ],
+    "research_problem": "Pagetic femoral fractures are mechanically weakened and prone to delayed union, while severe comorbidity and deformity can make recommended internal fixation impractical.",
+    "exact_gap": "The report addresses a rare clinical decision scenario: a Japanese patient with Paget-related femoral delayed union, pin-site infection, and high operative risk in whom functional bracing was used after external fixation (S001:C01-S004:C02).",
+    "objective_or_hypothesis": "Describe the treatment sequence and healing of one Paget-related femoral delayed union managed with functional bracing when further surgery was judged unsuitable.",
+    "study_design": "Single-patient diagnostic and treatment timeline with plain radiography, laboratory/radionuclide support for Paget disease, six months of external fixation followed by removal for pin-site infection, six months of functional bracing, and radiographic/functional follow-up to five years (S003:C01-S003:C02).",
+    "sample_or_model": "One 63-year-old Japanese woman with monostotic Paget disease, a displaced transverse left-femoral fracture, bowing/deformity, elevated alkaline phosphatase, multiple comorbidities, and poor operative candidacy.",
+    "comparators": [
+      "Within-patient time sequence before and after functional bracing",
+      "External fixation period with nonunion and pin-site infection versus subsequent brace period",
+      "No parallel, historical matched, surgical, or alternative-treatment control"
+    ],
+    "method_spine": [
+      "Document diagnostic evidence and anatomical constraints.",
+      "Explain why usual internal fixation options were unsuitable.",
+      "Report initial treatment, complication, and explicit trigger for strategy change.",
+      "Provide dated radiographic and functional outcomes after the alternative treatment.",
+      "Separate observed healing from speculative vascular/mechanical mechanisms and general treatment recommendations."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Radiography, alkaline phosphatase, and radionuclide uptake provide convergent diagnostic support, but histology/genetic confirmation is not reported (S003:C01)."
+      ],
+      "calibration": [],
+      "validation": [
+        "Serial radiographs at six months after bracing and five years plus walking status document this patient's course; they do not validate brace efficacy relative to surgery or natural healing (S003:C01-S003:C02)."
+      ],
+      "sensitivity": [],
+      "application_prediction": [
+        "Functional bracing as an option for other Paget-related delayed/nonunions or high-risk elderly patients is hypothesis-generating and requires series/comparative evidence (S004:C02-S004:C03)."
+      ]
+    },
+    "primary_outcomes": [
+      "After six months of external fixation, pin-site infection prompted removal and radiographs showed no healing (S003:C01).",
+      "Radiographic healing was observed six months after application of the functional brace (S003:C01-S003:C02).",
+      "At five years after injury, the fracture was described as completely healed and the patient walked with a single T-cane (S003:C01-S003:C02)."
+    ],
+    "highest_evidence_level_reached": "One-patient longitudinal observation with radiographic and functional follow-up; no comparative efficacy, biomechanical measurement, or generalizable treatment effect."
+  },
+  "argument_map": {
+    "central_claim": "Functional bracing coincided with radiographic union and long-term walking recovery in one medically high-risk patient after an externally fixed Paget-related femoral fracture had not united; the case supports clinical plausibility and a decision example, not comparative efficacy or a proven vascular mechanism.",
+    "data": [
+      "Diagnostic imaging/laboratory findings, treatment timeline, pin-site infection, six-month nonunion, post-brace radiographic union, and five-year follow-up (S003:C01-S003:C02)."
+    ],
+    "warrant": "A clearly sequenced rare case can show that an option was feasible in one constrained setting, while treatment attribution requires controls, protocol detail, and exclusion of spontaneous/time-dependent recovery.",
+    "backing": [
+      "The authors position functional bracing within biological fracture-treatment concepts and cite earlier tibial delayed-union experience (S004:C02)."
+    ],
+    "qualifier": "Single unusual case in a poor surgical candidate with Paget disease and prior external-fixator complication.",
+    "rebuttals_or_boundaries": [
+      "Union occurred approximately one year after injury, so time-dependent healing and prior stabilization cannot be separated from the brace effect.",
+      "No control, mechanical loading measurement, alignment metric, callus score, independent radiographic adjudication, or patient-reported outcome is provided.",
+      "Brace design, fitting, compliance, weight-bearing/rehabilitation protocol, bone-active medication, nutrition, and comorbidity management are not described.",
+      "The vascular-preservation explanation is speculative and not measured (S004:C02).",
+      "A femoral Paget case cannot establish effectiveness for nonunion generally or superiority to internal fixation/MIPO."
+    ],
+    "argument_coherence": "moderate_for_case_narrative_low_for_causal_effect"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Plain-radiographic fracture morphology/healing, serum alkaline phosphatase, radionuclide uptake, pin-site infection, treatment timing, and walking status in one patient (S003:C01-S003:C02)."
+    ],
+    "predicted": [],
+    "inferred": [
+      "The authors speculate that avoiding disruption of the fracture site preserved vascular regeneration and blood supply (S004:C02).",
+      "Healing after the treatment switch is attributed to functional bracing despite absence of a counterfactual or quantified mechanical exposure.",
+      "The case is used to suggest a viable alternative for delayed/nonunion and high-risk patients (S004:C02-S004:C03)."
+    ],
+    "recommended": [
+      "Report brace mechanics and adherence, weight-bearing and rehabilitation, concurrent therapies, standardized union/function outcomes, and accumulate multicentre case-series or comparative evidence."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Radiographic union supports structural healing but does not quantify mechanical strength or reinjury risk.",
+      "Walking with a cane is a functional observation, not a validated patient-reported or performance outcome.",
+      "A temporal before/after sequence is not a controlled treatment effect.",
+      "A successful rare case does not estimate success rate, indication, or relative benefit."
+    ],
+    "overclaim_risks": [
+      "'Successful' is accurate descriptively for this patient's observed course but should not imply brace efficacy beyond the case (S001:C01; S004:C03).",
+      "Calling bracing a viable alternative for Paget delayed/nonunion generalizes from n=1 and unmeasured co-interventions (S004:C02).",
+      "The biological blood-supply mechanism is explicitly speculation, not a measured finding (S004:C02).",
+      "Automated finite-element and experimental-mechanical cues are false; no model or mechanical test was performed."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "case_presentation",
+      "move": "Build a decision-centred clinical timeline",
+      "execution": "Diagnosis, operative risk, external fixation, infection/removal, six-month nonunion, brace initiation, union, and five-year status are presented in sequence (S003:C01-S003:C02).",
+      "locator": "S003:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For case reports, align each decision with its diagnostic evidence, constraint, trigger, intervention, and dated outcome so the reader can reconstruct the reasoning.",
+      "failure_mode": "Chronology demonstrates sequence, not causality."
+    },
+    {
+      "section": "discussion",
+      "move": "Distinguish observed outcome from mechanism speculation",
+      "execution": "The paper reports union, then uses 'we speculate' for preserved blood supply (S004:C02).",
+      "locator": "S004:C02",
+      "effectiveness": "high",
+      "transferable_principle": "State the observed change first; label the proposed biomechanical/biological explanation as a hypothesis and name the measurement needed to test it.",
+      "failure_mode": "Temporal association does not prove the proposed vascular or mechanical mechanism."
+    },
+    {
+      "section": "discussion",
+      "move": "Bound the transferable lesson to the constrained indication",
+      "execution": "The suggested role is framed around elderly or high-risk patients in whom major corrective surgery is unsuitable (S004:C02-S004:C03).",
+      "locator": "S004:C03",
+      "effectiveness": "moderate",
+      "transferable_principle": "In rare cases, separate the reusable decision principle from any unestimated treatment effect and specify the patient constraints that made the option reasonable.",
+      "failure_mode": "A feasible rescue in one contraindicated patient is not a general standard of care."
+    }
+  ],
+  "limitations": {
+    "author_reported": [],
+    "reader_identified": [
+      "Single patient, no counterfactual, and approximately one year total healing time make treatment attribution uncertain.",
+      "Sparse treatment detail: brace construction, alignment, compliance, weight-bearing, physiotherapy, medication, metabolic management, and imaging adjudication are absent.",
+      "No mechanical strength, callus scoring, limb alignment, pain, range-of-motion, validated functional, or quality-of-life outcomes.",
+      "Prior external fixation and infection are major history effects; spontaneous or delayed healing cannot be excluded.",
+      "Rare monostotic Paget disease and severe comorbidity sharply limit external validity."
+    ],
+    "likely_bias_direction": [
+      "Publication of an unusual successful case favors a positive feasibility narrative.",
+      "Temporal attribution likely exaggerates the brace-specific effect and vascular mechanism.",
+      "Sparse negative/functional detail may overstate completeness of recovery."
+    ],
+    "scope_boundary": "The report documents one radiographically healed Paget-related femoral delayed union after functional bracing in a poor surgical candidate. It does not establish efficacy, mechanism, comparative benefit, or a general indication."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC2881078-01",
+      "capability": "Write rare orthopedic case reports as an auditable timeline linking diagnostic evidence, treatment constraint, failure/complication, decision trigger, and dated outcomes.",
+      "manuscript_use": "Case presentation, clinical reasoning, and figure timeline.",
+      "applicable_domains": ["clinical_biomechanics", "bone_implant", "patient_specific_implant"],
+      "applicable_study_designs": ["case_report"],
+      "supporting_locators": ["S003:C01", "S003:C02"],
+      "counterexample_or_boundary": "A well-documented time sequence remains observational and cannot estimate comparative efficacy.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC2881078-02",
+      "capability": "Separate a measured clinical outcome from an unmeasured biological or mechanical rationale using explicit hypothesis language.",
+      "manuscript_use": "Discussion mechanism paragraph and conclusion audit.",
+      "applicable_domains": ["all_domains"],
+      "applicable_study_designs": ["case_report", "clinical_observational"],
+      "supporting_locators": ["S003:C01", "S004:C02"],
+      "counterexample_or_boundary": "Union after bracing does not prove preserved vascularity or an optimal mechanical environment.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC2881078-03",
+      "capability": "Extract a bounded decision principle from a single case without converting feasibility into a treatment recommendation.",
+      "manuscript_use": "Case-report conclusion and translational implications.",
+      "applicable_domains": ["clinical_biomechanics", "bone_implant"],
+      "applicable_study_designs": ["case_report"],
+      "supporting_locators": ["S004:C01", "S004:C02", "S004:C03"],
+      "counterexample_or_boundary": "Use in one high-risk patient does not establish success rate or superiority over fixation alternatives.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "appropriate_for_case_description",
+    "methods_transparency": "low_to_moderate",
+    "validation_credibility": "low_for_effect_moderate_for_observed_case_course",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "none",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "Single uncontrolled timeline with sparse treatment detail.",
+      "Mechanism and brace-specific attribution are unmeasured.",
+      "No standardized mechanical or functional outcomes."
+    ],
+    "overall_credibility": "credible_as_case_documentation_low_for_efficacy_mechanism_or_generalization"
+  },
+  "summary_zh": "这是一篇标准的罕见病例时间线，而不是力学实验。患者因 Paget 病发生股骨病理性骨折，外固定 6 个月后因针道感染拆除且仍未愈合；随后使用功能支具，6 个月影像显示愈合，5 年时骨折完全愈合并持杖行走。可迁移的写作能力是把诊断证据、手术禁忌、初始治疗、并发症、改策触发点和带时间戳的结局串成一条可审计链。证据边界同样清楚：n=1、总病程约一年、无对照且未报告支具力学/依从性/康复和并用治疗，因此只能写‘在该病例中可行并伴随愈合’；作者提出的血供保护机制应保留为推测，也不能据此得出普遍疗效或与内固定的优劣。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section.",
+    "The finite-element and experimental-mechanical cues are false; the brace rationale is not a measured mechanics study.",
+    "This paper is valuable mainly as a case-writing and causal-boundary exemplar."
+  ]
+}

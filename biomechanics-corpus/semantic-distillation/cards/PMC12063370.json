@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12063370",
+  "paper_id": "doi:10.1186/s41205-025-00268-9",
+  "pmcid": "PMC12063370",
+  "source_record_sha256": "fab1368d881a3bc67705089be1ec921568a9cb793cb56e0f4ba066ac158e4cf3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d59ea92182945274d19ac861da1fa3741595d33b4dd734e8d3fcc7f67e3844ab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical design considerations of a 3D-printed tibiotalocalcaneal nail for ankle joint fusion",
+    "authors": "Wong KW, Huang SF, Yeh SH, Yang TH, Liang CY, Lin CL.",
+    "year": 2025,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-025-00268-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

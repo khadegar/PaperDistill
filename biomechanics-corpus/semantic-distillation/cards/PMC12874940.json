@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12874940",
+  "paper_id": "doi:10.1186/s41205-026-00314-0",
+  "pmcid": "PMC12874940",
+  "source_record_sha256": "61a8ccc24bcf640e59b43621c6b2fcca904eb42dcb98840641457cb42e0a0785",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c6218fff3c1ee9d93ee1bc0dd6be4df0f474d3231f6f7d6d1976fbada9d01906",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing enabled biomechanical evaluation of a novel expandable wedge spacer for atlantoaxial reduction",
+    "authors": "Chang CC, Huang SF, Lin RC, Lin CL.",
+    "year": 2026,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-026-00314-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

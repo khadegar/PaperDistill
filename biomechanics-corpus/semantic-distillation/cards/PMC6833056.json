@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6833056",
+  "paper_id": "doi:10.3390/jcm8101522",
+  "pmcid": "PMC6833056",
+  "source_record_sha256": "63400fdf0e88d6afd247a32412b4d6363aa3a9f8ccf91790553684c6b22368af",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6eaac07a0f13648547c227a368bc4b548ba577e470a567426af2576d998be1a6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stimulation of Human Osteoblast Differentiation in Magneto-Mechanically Actuated Ferromagnetic Fiber Networks",
+    "authors": "Katarivas Levy G, Birch MA, Brooks RA, Neelakantan S, Markaki AE.",
+    "year": 2019,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm8101522",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

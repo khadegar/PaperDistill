@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10451995",
+  "paper_id": "doi:10.3390/antibiotics12081229",
+  "pmcid": "PMC10451995",
+  "source_record_sha256": "1051d7a6c97e6ddd06080f35b33601bf557b5553b100199c97a313cfe786a3a0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1746e6f2ed3faa3f96423a03ceecbce3974759dfa33df5818b110273b08bf905",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Engineering 3D-Printed Advanced Healthcare Materials for Periprosthetic Joint Infections",
+    "authors": "Yuste I, Luciano FC, Anaya BJ, Sanz-Ruiz P, Ribed-Sánchez A, González-Burgos E, Serrano DR.",
+    "year": 2023,
+    "journal": "Antibiotics",
+    "doi": "10.3390/antibiotics12081229",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

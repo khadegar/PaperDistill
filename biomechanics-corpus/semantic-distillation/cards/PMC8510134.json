@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8510134",
+  "paper_id": "doi:10.3390/ma14195801",
+  "pmcid": "PMC8510134",
+  "source_record_sha256": "c71505ccb37d03fb1b3d62c3d5d7ae7fd9890df80f699e91e1ac22bb72668a39",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "831e1f8a62073ee7acbc6ace7d231a1f9c6a2029a9554bcd224179c591a94bf7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Stress Evaluation with and without Cortical Bone Using Several Dental Restorative Materials Subjected to Impact Load: A Fully 3D Transient Finite-Element Study",
+    "authors": "Medina-Galvez R, Cantó-Navés O, Marimon X, Cerrolaza M, Ferrer M, Cabratosa-Termes J.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14195801",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11410606",
+  "paper_id": "doi:10.3389/fbioe.2024.1417440",
+  "pmcid": "PMC11410606",
+  "source_record_sha256": "5e9f28345eca855cb94454521089034f8f70e110768a7b0cd6438c51688828e2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bad98b76e426977440b0483f0ca3d5c2c2ebacbff418dfdde4298e93068742c9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis and in vitro tests on endurance life and durability of composite bone substitutes",
+    "authors": "Seraji AA, Nahavandi R, Kia A, Rabbani Doost A, Keshavarz V, Sharifianjazi F, Tavamaishvili K, Makarem D.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1417440",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

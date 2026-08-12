@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11117865",
+  "paper_id": "doi:10.3390/biomimetics9050294",
+  "pmcid": "PMC11117865",
+  "source_record_sha256": "5ebf5b90f5a3768ceba794db3e9d37bfeafdbe25cdbb8e0c85d840fe9aa6bc4c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "77a75dcee0eb19d6c6b8cc493aa6ff56ed63bde2e15077b9ead908f3d8dd8b47",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical Application of Unidirectional Porous Hydroxyapatite to Bone Tumor Surgery and Other Orthopedic Surgery",
+    "authors": "Kunisada T, Nakata E, Fujiwara T, Hata T, Sato K, Katayama H, Kondo A, Ozaki T.",
+    "year": 2024,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics9050294",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12165544",
+  "paper_id": "doi:10.1097/js9.0000000000002312",
+  "pmcid": "PMC12165544",
+  "source_record_sha256": "378ddfba9893237fecc2116feaf8d6f1971c538c65708e16d83fdd06465c3522",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "042d64c289e4c3f259dcc3cd1599f1c5cf8b44d273e3b97415b1d5397a9f5729",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-bioprinted functional scaffold based on synergistic induction of i-PRF and laponite exerts efficient and personalized bone regeneration via miRNA-mediated TGF-β/Smads signaling",
+    "authors": "Cao B, Zhang K, Zuo R, Kang Z, Lin J, Kang Z, Luo D, Chai Y, Xu J, Kang Q, Qiu S.",
+    "year": 2025,
+    "journal": "International Journal of Surgery (London, England)",
+    "doi": "10.1097/js9.0000000000002312",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

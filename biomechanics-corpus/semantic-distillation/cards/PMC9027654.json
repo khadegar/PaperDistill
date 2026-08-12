@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9027654",
+  "paper_id": "doi:10.3390/polym14081627",
+  "pmcid": "PMC9027654",
+  "source_record_sha256": "ff5bd31660f3b691a6dec693228d52aa62b7efc22edcda2f62837d45dbe26dcb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0ab7b2e5d33dd91a9061f4884031b595e00e64ccf40b44a5e402e4a21249fc2b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Can 3D-Printed Bioactive Glasses Be the Future of Bone Tissue Engineering?",
+    "authors": "Dukle A, Murugan D, Nathanael AJ, Rangasamy L, Oh TH.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14081627",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

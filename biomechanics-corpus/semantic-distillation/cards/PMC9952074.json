@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9952074",
+  "paper_id": "doi:10.3390/bioengineering10020161",
+  "pmcid": "PMC9952074",
+  "source_record_sha256": "5ecff7b3cb10ad0d5dd284e73f5212b4e06882b94c4373124121b7992a1ccced",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0563ffb5c06500f11aad82ef13fe91dc1843dfa05e47e51ae8b360dd9ce51dea",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Review of Conventional and Novel Treatments for Osteoporotic Hip Replacements",
+    "authors": "Alabdah F, Alshammari A, Hidalgo-Bastida A, Cooper G.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10020161",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

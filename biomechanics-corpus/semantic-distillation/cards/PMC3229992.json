@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3229992",
+  "paper_id": "doi:10.3109/17453674.2010.548027",
+  "pmcid": "PMC3229992",
+  "source_record_sha256": "fdd9109cc3e8a62a69f018a793e34287d2c841808b9fc41f830bb82e2dc7eb4a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b97b804e462a7d6415b8ecd86772423271a2f8fdc88bf7f4d7d16965111e0345",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A prospective randomized study comparing electrochemically deposited hydroxyapatite and plasma-sprayed hydroxyapatite on titanium stems",
+    "authors": "Bøe BG, Röhrl SM, Heier T, Snorrason F, Nordsletten L.",
+    "year": 2011,
+    "journal": "Acta Orthopaedica",
+    "doi": "10.3109/17453674.2010.548027",
+    "publication_type": "Comparative Study; research-article; Randomized Controlled Trial; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

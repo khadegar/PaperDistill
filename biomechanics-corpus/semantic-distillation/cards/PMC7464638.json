@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7464638",
+  "paper_id": "doi:10.3390/biology9080224",
+  "pmcid": "PMC7464638",
+  "source_record_sha256": "c56dde46990c87be8c3554da90a3c1af0a2ec93900d12cef89dad0f6405132d9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "051acb6beff99636e3352b6c37a865aec18033c49998273f2c8f22da02719fba",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Bone Definition and Finite Element Parameters in Bone and Dental Implants Stress: A Literature Review",
+    "authors": "Prados-Privado M, Martínez-Martínez C, Gehrke SA, Prados-Frutos JC.",
+    "year": 2020,
+    "journal": "Biology",
+    "doi": "10.3390/biology9080224",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

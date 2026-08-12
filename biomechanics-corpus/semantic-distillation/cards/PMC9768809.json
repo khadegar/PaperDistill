@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9768809",
+  "paper_id": "doi:10.1021/acsabm.2c00763",
+  "pmcid": "PMC9768809",
+  "source_record_sha256": "8535f79f3902664ed6710615f22f75e072a34e0d9d1469f64eb011e0a4d58800",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2985f819fae5e0c1b83830f6abb66a88e29154add6be7a05435313c31a8b5507",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed Porous Nanocellulose-Based Scaffolds As Carriers for Immobilization of Glycosyltransferases",
+    "authors": "Lackner F, Liu H, Štiglic AD, Bračič M, Kargl R, Nidetzky B, Mohan T, Kleinschek KS.",
+    "year": 2022,
+    "journal": "ACS Applied Bio Materials",
+    "doi": "10.1021/acsabm.2c00763",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

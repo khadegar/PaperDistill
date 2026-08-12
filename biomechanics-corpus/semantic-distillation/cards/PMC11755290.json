@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11755290",
+  "paper_id": "doi:10.12669/pjms.41.1.8991",
+  "pmcid": "PMC11755290",
+  "source_record_sha256": "814aaf5b7192c4abf86b5761874b10f025c178a51066a3004d8d2a1c64343200",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "49978edf5da255e02971c3297aa4c80aadb76c40df89ad0457f41a6a6af8dc68",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis (FEA) for Influence of Variation in Dental Implant Dimensions (Length and Diameter) on Peri-implant Bone Stress/Strain Distribution: A Systematic Review",
+    "authors": "Sayed AJ, Mohsin SF, Garg KK, Agwan MAS, Tareen SUK, Alruthea MS, Mohan S.",
+    "year": 2025,
+    "journal": "Pakistan Journal of Medical Sciences",
+    "doi": "10.12669/pjms.41.1.8991",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

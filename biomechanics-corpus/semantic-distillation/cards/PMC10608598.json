@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10608598",
+  "paper_id": "doi:10.3390/medicina59101732",
+  "pmcid": "PMC10608598",
+  "source_record_sha256": "2da5986e4d9478e5d98eae588266c1b79b397ce302876823aee31f9ec196f888",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d03a82cc3604157dd88079b2417e41b074eb1c509ef7c74e0841705b076558ba",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Breaking Barriers in Cranioplasty: 3D Printing in Low and Middle-Income Settings—Insights from Zenica, Bosnia and Herzegovina",
+    "authors": "Bečulić H, Spahić D, Begagić E, Pugonja R, Skomorac R, Jusić A, Selimović E, Mašović A, Pojskić M.",
+    "year": 2023,
+    "journal": "Medicina",
+    "doi": "10.3390/medicina59101732",
+    "publication_type": "research-article; Journal Article; Observational Study",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

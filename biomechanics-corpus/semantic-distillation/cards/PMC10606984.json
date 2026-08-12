@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10606984",
+  "paper_id": "doi:10.3390/jfb14100515",
+  "pmcid": "PMC10606984",
+  "source_record_sha256": "93a4b8fc5919cba6aec03d7cd00b4798855292cf07704b15364d1687e54dadab",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ed0470b4b3b8a817bc58aadee56234cde2979f311e63200f456f15aa1d67b1d9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis of Titanium Dental Implants in the All-on-4 Treatment with Different Implant–Abutment Connections: A Three-Dimensional Finite Element Study",
+    "authors": "Wang PS, Tsai MH, Wu YL, Chen HS, Lei YN, Wu AY.",
+    "year": 2023,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb14100515",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

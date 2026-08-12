@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7669340",
+  "paper_id": "doi:10.1155/2020/8861347",
+  "pmcid": "PMC7669340",
+  "source_record_sha256": "5cf325b22fb84c6d293f8e28dd67b35dfd0dc3313e8a82b92ec21a1298682689",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c276f5e79d4cb4ce5e178d01cafcd24682198afabd7342bab92618143746843f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Characterization of the Subchondral Bone and Pain Behavior Changes in a Novel Bipedal Standing Mouse Model of Facet Joint Osteoarthritis",
+    "authors": "Li M, Xie WQ, He M, Yu DJ, Xu DQ, Xiao WF, Cao Y.",
+    "year": 2020,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2020/8861347",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

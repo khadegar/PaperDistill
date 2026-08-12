@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8374443",
+  "paper_id": "doi:10.1016/j.mex.2021.101373",
+  "pmcid": "PMC8374443",
+  "source_record_sha256": "754fe7c7f0e222604e7ee6e219b9e2c09cdf83577187ba18f1aa33d022a6d228",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f98a02d2acd9f1fc369a4bb0df7b11f0fdd68fc193d6886f5451aa99d068645a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of a lead foil crown delineation technique for implant rehabilitations to generate patient specific finite element model of occlusal loading points",
+    "authors": "Sundar S S, Shetty SK, S G.",
+    "year": 2021,
+    "journal": "MethodsX",
+    "doi": "10.1016/j.mex.2021.101373",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

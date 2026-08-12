@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12372394",
+  "paper_id": "doi:10.1302/2046-3758.148.bjr-2024-0412.r1",
+  "pmcid": "PMC12372394",
+  "source_record_sha256": "a885ed1a633b3c51b35a0143ae1f83286a35033fed15573448114eaa19be1981",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "340d1beaad2dc3a3171d8543b596bb9cc904c75a06a9de8ea1340aa931778ea2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Candy box technique with sutures and Nice knot",
+    "authors": "Fan W, He K, Tan X, Liu J, Xiao Y, Liang J, Duan K, Yan J, Ma W, Chen Y, Yang Y, Xiang F.",
+    "year": 2025,
+    "journal": "Bone & Joint Research",
+    "doi": "10.1302/2046-3758.148.bjr-2024-0412.r1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

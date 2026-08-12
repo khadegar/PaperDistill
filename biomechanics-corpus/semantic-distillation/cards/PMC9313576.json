@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9313576",
+  "paper_id": "doi:10.1002/jbmr.4517",
+  "pmcid": "PMC9313576",
+  "source_record_sha256": "58f4f158e895bb080e227d36f6a2324aa2b600b51c24a27ab4fa275ea4498db6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f689e2aef8aafc390176c93302bd1b2f3de9be3bf132a995d1e9c7356311110d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Microarchitecture and Strength in Long‐Standing Type 1 Diabetes",
+    "authors": "Sewing L, Potasso L, Baumann S, Schenk D, Gazozcu F, Lippuner K, Kraenzlin M, Zysset P, Meier C.",
+    "year": 2022,
+    "journal": "Journal of Bone and Mineral Research",
+    "doi": "10.1002/jbmr.4517",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7061547",
+  "paper_id": "doi:10.1016/j.mtbio.2019.100009",
+  "pmcid": "PMC7061547",
+  "source_record_sha256": "545672efc8af6cc75ac4acb28c70fc56ee30575941f50b6a8ab5f82aa9c85b31",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "39b21c5aaad3014658c899da31c2ae8d512cbebbb5772a377e6c571bcc59996b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomaterial-based endochondral bone regeneration: a shift from traditional tissue engineering paradigms to developmentally inspired strategies",
+    "authors": "Sheehy EJ, Kelly DJ, O'Brien FJ.",
+    "year": 2019,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2019.100009",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

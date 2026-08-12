@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12711910",
+  "paper_id": "doi:10.1038/s41598-025-25581-5",
+  "pmcid": "PMC12711910",
+  "source_record_sha256": "8ba6e4398ef8cc3147995f4ffb79713674f1697b30e22ecf1631fd8fecc05b9c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bfd159704dbbf68128b511c87912ce811d2eecf23e8c8b402053011c63fa424b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone regeneration using adipose derived stem cell spheroids within 3D printed scaffolds in a rabbit radial defect model",
+    "authors": "Chae Y, Jang K, Lee S, Kim YH, Jin S, Shim KM, Kang SS, Kim SE.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-25581-5",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10929290",
+  "paper_id": "doi:10.21037/aoj-22-52",
+  "pmcid": "PMC10929290",
+  "source_record_sha256": "625eaf7b431ed632efec18a90ff199ad5bb11c51f5765ef88abd4e77d2452f55",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "aea3a36eb625fc963839fed70a3287a583d0259cd8a5834f6bdc00920c506fe3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical comparison of anterior cruciate ligament reconstruction fixation methods and implications on clinical outcomes",
+    "authors": "McDermott E, DeFoor MT, Blaber OK, Aman ZS, DePhillipo NN, Dekker TJ.",
+    "year": 2023,
+    "journal": "Annals of Joint",
+    "doi": "10.21037/aoj-22-52",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

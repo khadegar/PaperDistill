@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11508474",
+  "paper_id": "doi:10.3390/jpm14101040",
+  "pmcid": "PMC11508474",
+  "source_record_sha256": "78a73f3d3a58ac81fd1d77d9e7b3aef6ba77781bc6c707ccaa59c867c717c1d8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cd500822977e7690e2fb9f5c13bc1497d40928430146a3f4e1c968b15f080034",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Assessment of the Impact of Bone Quality and Abutment Configuration on the Fatigue Performance of Dental Implant Systems Using Finite Element Analysis (FEA)",
+    "authors": "Erdoğdu M, Demirel MG, Mohammadi R, Güntekin N.",
+    "year": 2024,
+    "journal": "Journal of Personalized Medicine",
+    "doi": "10.3390/jpm14101040",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

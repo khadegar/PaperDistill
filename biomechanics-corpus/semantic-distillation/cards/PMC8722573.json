@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8722573",
+  "paper_id": "doi:10.2147/ijn.s339500",
+  "pmcid": "PMC8722573",
+  "source_record_sha256": "df20c5f234e14118429d8a86a88f3c18d6b0ee5007878c5f338e3655b15440ef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "da73d645f4f7f73157548729134209dc39dad2f0cae4ef49da8f570f024799d5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed Gelatin/Sodium Alginate Hydrogel Scaffolds Doped with Nano-Attapulgite for Bone Tissue Repair",
+    "authors": "Liu C, Qin W, Wang Y, Ma J, Liu J, Wu S, Zhao H.",
+    "year": 2021,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s339500",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

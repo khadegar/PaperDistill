@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4429214",
+  "paper_id": "doi:10.1155/2015/587857",
+  "pmcid": "PMC4429214",
+  "source_record_sha256": "b8fbe70a25063316ae93755082505e94960cf9844bee16aec2d6266058f8d240",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2c54d1034808884c8fa2e034259e060f1ead74892cfac9fc4058463b2c9ab875",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vivo MicroCT Monitoring of Osteomyelitis in a Rat Model",
+    "authors": "Stadelmann VA, Potapova I, Camenisch K, Nehrbass D, Richards RG, Moriarty TF.",
+    "year": 2015,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2015/587857",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

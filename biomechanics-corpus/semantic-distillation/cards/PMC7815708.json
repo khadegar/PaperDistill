@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7815708",
+  "paper_id": "doi:10.1038/s42003-020-01576-y",
+  "pmcid": "PMC7815708",
+  "source_record_sha256": "a3d1b33f12d384bbb8af101d41f5bd68eb3e995ff299a1673840fc8cccb4fb00",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b252de58a32f4b0cb982d1eb66e18415c043eaf008406f1ad5789c3124d704bd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Scaffold-free human mesenchymal stem cell construct geometry regulates long bone regeneration",
+    "authors": "Herberg S, Varghai D, Alt DS, Dang PN, Park H, Cheng Y, Shin JY, Dikina AD, Boerckel JD, Rolle MW, Alsberg E.",
+    "year": 2021,
+    "journal": "Communications Biology",
+    "doi": "10.1038/s42003-020-01576-y",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

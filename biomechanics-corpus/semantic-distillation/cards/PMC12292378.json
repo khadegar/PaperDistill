@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12292378",
+  "paper_id": "doi:10.3390/bioengineering12070723",
+  "pmcid": "PMC12292378",
+  "source_record_sha256": "eb9ff68d5bacde0f3b9521cab6b378c2922cab193599923bbf0f2d07fdf83db2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "874a5e98eb330c142eba28cacac489939c4371935a140925f3872e1890ee7b41",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Towards an Automated Computational Workflow to Assess Primary Stability in Total Hip Arthroplasty",
+    "authors": "Mercuri M, Toccaceli E, Sun X, Marongiu G, Viceconti M, La Mattina AA, Curreli C.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12070723",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7966376",
+  "paper_id": "doi:10.1038/s41598-021-85257-8",
+  "pmcid": "PMC7966376",
+  "source_record_sha256": "08f4290ff5cece865b9e7ae2b3a80c60bf6da3a1aa81f940858744a558b968fb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0bbdba0aed188bd11bccaa27752e206abfb432ab4e624b482d7a4da534a2e3ed",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical influence of the surgical approaches, implant length and density in stabilizing ankylosing spondylitis cervical spine fracture",
+    "authors": "Liu Y, Wang Z, Liu M, Yin X, Liu J, Zhao J, Liu P.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-85257-8",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

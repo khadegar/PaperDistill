@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12409801",
+  "paper_id": "doi:10.1016/j.jot.2025.08.001",
+  "pmcid": "PMC12409801",
+  "source_record_sha256": "a67daed9c749b244fc4f995d5977514c898a398aef307c06ee15ad3829cbd588",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "896b72a3f3171e7b0d355469181483f09991d5f0b44bc92083900774a36724ec",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preclinical validation of finite element models for predicting in vivo residual plate bending using continuous implant sensor data",
+    "authors": "Mischler D, Ernst M, Varga P.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2025.08.001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

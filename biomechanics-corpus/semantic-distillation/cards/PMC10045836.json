@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10045836",
+  "paper_id": "doi:10.3390/bioengineering10030307",
+  "pmcid": "PMC10045836",
+  "source_record_sha256": "a0c39dd06e330d1afb0c30064d751664182e754d5fc4481519ae4293bc458a92",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b7557e80a87205583b61626018041c93c63677639ab1d85fd7d02072f865bd21",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Printing of Poly-L-Lactic Acid Composite Scaffolds with Enhanced Bioactivity and Controllable Zn Ion Release Capability by Coupling with Carbon-ZnO",
+    "authors": "Yuan X, Zhu W, Yang Z, Chen F, Han X.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10030307",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

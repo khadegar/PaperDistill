@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13226756",
+  "paper_id": "doi:10.1007/s44445-026-00187-3",
+  "pmcid": "PMC13226756",
+  "source_record_sha256": "55500754d834d964f3d6f610af008a2414a9a36a09e73236517f2c0baf202a56",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "37285ac76c976f419b5a7c030258343ff7e05c57cbb197657a753ee76a903a2e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative efficacy of chitosan and calcium carbonate-based scaffolds for bone regeneration in preclinical in vivo models: a systematic review",
+    "authors": "Marampa WR, Febrida R, Djustiana N.",
+    "year": 2026,
+    "journal": "The Saudi Dental Journal",
+    "doi": "10.1007/s44445-026-00187-3",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

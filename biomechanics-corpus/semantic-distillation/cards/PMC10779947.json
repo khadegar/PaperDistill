@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10779947",
+  "paper_id": "doi:10.3390/ma17010037",
+  "pmcid": "PMC10779947",
+  "source_record_sha256": "9b2c64bbdfa21bbea8fcfeca9ab5135f9e7b4f8812a693493c24c0e6e1e01df3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "da802c5a0620aa3dba152599b8b035d0737955fefd4540c8bc304c72365e540f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Highly Reinforced Acrylic Resins for Hard Tissue Engineering and Their Suitability to Be Additively Manufactured through Nozzle-Based Photo-Printing",
+    "authors": "Gallicchio V, Spinelli V, Russo T, Marino C, Spagnuolo G, Rengo C, De Santis R.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma17010037",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

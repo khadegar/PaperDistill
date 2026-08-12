@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6428983",
+  "paper_id": "doi:10.7150/ijms.30832",
+  "pmcid": "PMC6428983",
+  "source_record_sha256": "742fd518ba12cb1e41c5d7c17521ad28e5a532d69ae64509b75c676dc601f047",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "476b8b2dfb18adc59b64b6b4fb159134aa0fe999d669125e7b577380a8315ab7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A 3D Printed Porous Titanium Alloy Rod with Diamond Crystal Lattice for Treatment of the Early-Stage Femoral Head Osteonecrosis in Sheep",
+    "authors": "Wang C, Liu D, Xie Q, Liu J, Deng S, Gong K, Huang C, Yin L, Xie M, Guo Z, Zheng W.",
+    "year": 2019,
+    "journal": "International Journal of Medical Sciences",
+    "doi": "10.7150/ijms.30832",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

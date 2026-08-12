@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13184998",
+  "paper_id": "doi:10.1002/jeo2.70752",
+  "pmcid": "PMC13184998",
+  "source_record_sha256": "f8db16f34e38bb008040ecd836ba0d306829c6bbc0e1032cb3dd15185e2fddcf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e19c0f424a7d6b52b059fd51780b74d8f9f05c79cd9f0e8bc8a04e3fcb06d56f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Medial‐pivot total knee arthroplasty demonstrates more constrained mid‐flexion gait kinematics than posterior‐stabilised total knee arthroplasty under standardised soft‐tissue balancing: A randomised controlled trial with a healthy reference cohort",
+    "authors": "Nakamura E, Okamoto N, Masuda T, Hisanaga S, Yugami M, Oniki Y, Miyamoto T.",
+    "year": 2026,
+    "journal": "Journal of Experimental Orthopaedics",
+    "doi": "10.1002/jeo2.70752",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

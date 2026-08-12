@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9845791",
+  "paper_id": "doi:10.3389/fbioe.2022.1081548",
+  "pmcid": "PMC9845791",
+  "source_record_sha256": "7d95f4698abf8bfbabf75dc2073a1ad2382012607f9815799e82f8cff8a27e78",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "435f5258425c0f98ec0ae654300ab4c199faeb6e7c7f01add1d8382b296f0d37",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Definition, measurement, and function of pore structure dimensions of bioengineered porous bone tissue materials based on additive manufacturing: A review",
+    "authors": "Peng W, Liu Y, Wang C.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1081548",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

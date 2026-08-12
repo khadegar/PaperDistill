@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11218317",
+  "paper_id": "doi:10.1186/s13287-024-03807-z",
+  "pmcid": "PMC11218317",
+  "source_record_sha256": "2fcf7da82422e88e9cec5169fdfe7240947652d1e7ad32f1ccfd7157e29dc261",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ed53d0750452f70bf0df888da093c5e2e11bf4398893e91976069f571a425c1b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Acceleration of bone repairation by BMSCs overexpressing NGF combined with NSA and allograft bone scaffolds",
+    "authors": "Ji Y, Mao Y, Lin H, Wang Y, Zhao P, Guo Y, Gu L, Fu C, Chen X, Lv Z, Wang N, Li Q, Bei C.",
+    "year": 2024,
+    "journal": "Stem Cell Research & Therapy",
+    "doi": "10.1186/s13287-024-03807-z",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

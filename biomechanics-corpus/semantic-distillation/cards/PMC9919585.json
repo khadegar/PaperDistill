@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9919585",
+  "paper_id": "doi:10.3390/ma16031061",
+  "pmcid": "PMC9919585",
+  "source_record_sha256": "5a4f156cd9bb43de4643b76b89d60927cb92051dec7fe2c450de8e9e3a2ca36c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fd72c3152ead6d8d132f5506d4d684ae5b2239810908ef93e32839ba17104682",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed Polycaprolactone Implants Modified with Bioglass and Zn-Doped Bioglass",
+    "authors": "Rajzer I, Kurowska A, Frankova J, Sklenářová R, Nikodem A, Dziadek M, Jabłoński A, Janusz J, Szczygieł P, Ziąbka M.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16031061",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

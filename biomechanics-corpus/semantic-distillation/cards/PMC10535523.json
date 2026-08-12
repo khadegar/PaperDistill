@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10535523",
+  "paper_id": "doi:10.3390/membranes13090802",
+  "pmcid": "PMC10535523",
+  "source_record_sha256": "bc7dacddb9a7961275d4d4d790076d0da71ff0294094cb3480cf38852c83e4c9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "57657b104da48339f0353d2ceeee4190535098ac81dee5f9bbd51eafb8480d23",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development and Prospective Applications of 3D Membranes as a Sensor for Monitoring and Inducing Tissue Regeneration",
+    "authors": "Wu H, Chen J, Zhao P, Liu M, Xie F, Ma X.",
+    "year": 2023,
+    "journal": "Membranes",
+    "doi": "10.3390/membranes13090802",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

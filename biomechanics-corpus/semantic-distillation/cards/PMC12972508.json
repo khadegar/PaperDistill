@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12972508",
+  "paper_id": "doi:10.34133/research.1162",
+  "pmcid": "PMC12972508",
+  "source_record_sha256": "13652609799a50ad7ef6f5e308768a6619707d328418ae0f26a2650003d61a9d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c22ea69e511887d436dfb43596686136649f4f6a0e5df1b75daf0ed7089b5845",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mapping Immune-Inflammatory Niches on Zirconia Bone Implants: Single-Cell Transcriptomic Profiling",
+    "authors": "Zhou J, Li A, Chen J, Dai J, Zhang W, Yang Z, Li P.",
+    "year": 2026,
+    "journal": "Research",
+    "doi": "10.34133/research.1162",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

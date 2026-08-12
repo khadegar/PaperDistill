@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12969444",
+  "paper_id": "doi:10.1016/j.bioactmat.2026.02.038",
+  "pmcid": "PMC12969444",
+  "source_record_sha256": "e66eff27c75c882e320b8e032a34c82a4368a0aa9573d5136b9a5128055c3c65",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "38a5a1cc98e98cbf6e8224d4a0893bae2d05a85f474e51887416214fc45fc7e1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomedical titanium-tantalum alloys for orthopedic implant applications: From manufacturing to biological performance",
+    "authors": "Luo SD, Paisansuthichol S, Tran N, Qian M, Song T.",
+    "year": 2026,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2026.02.038",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

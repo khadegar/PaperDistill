@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10676166",
+  "paper_id": "doi:10.1177/21925682221099470",
+  "pmcid": "PMC10676166",
+  "source_record_sha256": "825819113feed4f35243be7f55ef1a2e4a42dc4ada06b069c5066c4441073595",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5fa4babc67e95078302f323936317d9a3d45d61b6d1f67e093eae733ad460b67",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "How to Optimize Pedicle Screw Parameters for the Thoracic Spine? A Biomechanical and Finite Element Method Study",
+    "authors": "Solitro GF, Welborn MC, Mehta AI, Amirouche F.",
+    "year": 2022,
+    "journal": "Global Spine Journal",
+    "doi": "10.1177/21925682221099470",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

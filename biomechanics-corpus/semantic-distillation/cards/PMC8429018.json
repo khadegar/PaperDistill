@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8429018",
+  "paper_id": "doi:10.1155/2021/3087071",
+  "pmcid": "PMC8429018",
+  "source_record_sha256": "ad167bfc33f88ce498b8e5eb67def373b267ae234a0ab379c5cebf845684e4f1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a63061ab836acc4a8713422ca78c192f0bc732237efc13e5bdc541be3aff2d00",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Consequences of Peri-Implant Bone Loss in the Occlusal Load Transfer to the Supporting Bone in terms of Magnitude of Stress, Strain, and Stress Distribution: A Finite Element Analysis",
+    "authors": "Pérez-Pevida E, Chávarri-Prado D, Diéguez-Pereira M, Estrada-Martínez A, Montalbán-Vadillo O, Jiménez-Garrudo A.",
+    "year": 2021,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2021/3087071",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

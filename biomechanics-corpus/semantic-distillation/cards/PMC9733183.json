@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9733183",
+  "paper_id": "doi:10.1186/s40824-022-00318-x",
+  "pmcid": "PMC9733183",
+  "source_record_sha256": "a37d62121189d0a05bdd21b4f9427d67669a43fcaaa02a23496d66d903e5ecbd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2170d70abefe33922e7a778937fd5a3031af4c7695f71577e4fdb73d28523e9b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Control of maleic acid-propylene diepoxide hydrogel for 3D printing application for flexible tissue engineering scaffold with high resolution by end capping and graft polymerization",
+    "authors": "Tran HN, Kim IG, Kim JH, Chung EJ, Noh I.",
+    "year": 2022,
+    "journal": "Biomaterials Research",
+    "doi": "10.1186/s40824-022-00318-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

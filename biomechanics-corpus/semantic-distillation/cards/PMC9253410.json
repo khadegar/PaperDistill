@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9253410",
+  "paper_id": "doi:10.1016/j.bioactmat.2022.06.002",
+  "pmcid": "PMC9253410",
+  "source_record_sha256": "3faf361bd8694c1a326fc91318d2895fa51892e56dff72e7833806749e256341",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "416d9c8ef451c6ceb333646895b33187bc6f5acf7ac11382b5593b57d3986d40",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed auxetic-structured intervertebral disc implant for potential treatment of lumbar herniated disc",
+    "authors": "Jiang Y, Shi K, Zhou L, He M, Zhu C, Wang J, Li J, Li Y, Liu L, Sun D, Feng G, Yi Y, Zhang L.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2022.06.002",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

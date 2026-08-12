@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4843207",
+  "paper_id": "doi:10.1186/s40824-016-0058-2",
+  "pmcid": "PMC4843207",
+  "source_record_sha256": "aaebac175a5f8e7e29091800be53775f675bbcf88e7a0bed2f4c506676a8be13",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e4b6dafc1bd5a462965b20b3de5a29e520e34a66fc3f5ea01f94fa0a32540706",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3-dimensional bioprinting for tissue engineering applications",
+    "authors": "Gu BK, Choi DJ, Park SJ, Kim MS, Kang CM, Kim CH.",
+    "year": 2016,
+    "journal": "Biomaterials Research",
+    "doi": "10.1186/s40824-016-0058-2",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11398029",
+  "paper_id": "doi:10.3390/polym16172521",
+  "pmcid": "PMC11398029",
+  "source_record_sha256": "810c63547daba541256de44f2e99aee9e4676afbcdc09275470b62f212bf1d2e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c7f4247250b20c461f27fcfe818886f09ecf01addf6fcb4cd67c0faee796aa9e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Early Biological Response to Poly(ε-Caprolactone)/Alumina-Toughened Zirconia Composites Obtained by 3D Printing for Peri-Implant Application",
+    "authors": "Pedraza R, Mosca Balma A, Roato I, Orrico C, Genova T, Baima G, Berta GN, Giura A, Ribotta L, Duraccio D, Faga MG, Mussano F.",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16172521",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

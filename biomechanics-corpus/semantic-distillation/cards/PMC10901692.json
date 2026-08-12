@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10901692",
+  "paper_id": "doi:10.1016/j.jor.2024.02.027",
+  "pmcid": "PMC10901692",
+  "source_record_sha256": "6da2cca110e8dc950d1010691739c52dd598e9fd6a716ccc4de0d289ab90826b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "91c7d32474a178d3084ccae3b8aa3b2cfc0ce2d48a18d75318c23a55bc510122",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanics of a collum-fixated short stem in total hip arthroplasty",
+    "authors": "Tjønneland A, Nielsen PT, Jakobsen T.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedics",
+    "doi": "10.1016/j.jor.2024.02.027",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

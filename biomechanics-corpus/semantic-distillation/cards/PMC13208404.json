@@ -1,0 +1,335 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13208404",
+  "paper_id": "doi:10.3390/ma19102082",
+  "pmcid": "PMC13208404",
+  "source_record_sha256": "8d6b0a73435176ecddf6598116dbf399c0f75426fafb72ec788256cf105b30cd",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T11:50:35Z",
+    "packet_sha256": "b4792fea40d34e0d5ca3fd001aa2968fc022892c32369f0ef0bc04999ebced1c",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S002:C02",
+      "S002:C03",
+      "S003:C01",
+      "S004:C01",
+      "S004:C02",
+      "S005:C01",
+      "S005:C02",
+      "S006:C01",
+      "S006:C02",
+      "S007:C01",
+      "S008:C01",
+      "S008:C02",
+      "S009:C01",
+      "S010:C01",
+      "S010:C02",
+      "S010:C03",
+      "S011:C01",
+      "S011:C02",
+      "S011:C03",
+      "S012:C01",
+      "S013:C01",
+      "S013:C02",
+      "S014:C01",
+      "S014:C02",
+      "S014:C03",
+      "S015:C01",
+      "S015:C02",
+      "S016:C01",
+      "S016:C02",
+      "S017:C01",
+      "S017:C02",
+      "S018:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Material and Topology Optimization of Composite Bone Plate to Reduce the Stress Shielding Effect",
+    "authors": "Szymkiewicz K.",
+    "year": 2026,
+    "journal": "Materials",
+    "doi": "10.3390/ma19102082",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "simplified_construct_FE_material_screen_and_SIMP_topology_study",
+    "design_features": [
+      "cylindrical_tibia_model",
+      "locked_plate_gap_configuration",
+      "material_comparison",
+      "PEEK_carbon_fiber_composite",
+      "SIMP_topology_optimization",
+      "manual_manufacturability_reconstruction",
+      "stress_shielding_surrogate",
+      "assumed_healing_stage_sequence",
+      "no_physical_experiment"
+    ],
+    "research_problem": "Conventional metallic fracture plates can unload bone because their stiffness greatly exceeds that of bone, motivating joint material and topology design of a lower-stiffness plate.",
+    "exact_gap": "The study asks how plate material and prescribed topology volume reduction alter load transfer and a stress-shielding factor in a controlled fracture construct, including whether a heavily reduced PEEK-CF plate remains numerically feasible after geometry is made more printable (S001:C01-S003:C01).",
+    "objective_or_hypothesis": "Compare metallic, functionally graded, and PEEK-CF plates; optimize the selected composite plate at 75%, 50%, and 25% retained volume; reconstruct the preferred geometry for manufacturing constraints; and compare predicted stresses, deformation, and SSF (S003:C01-S008:C02).",
+    "study_design": "Linear-elastic FE study of a simplified cylindrical tibial shaft, transverse fracture and 50%-healed callus, 1 mm locked-plate gap, threadless screws, one 800 N axial load, material variants, three SIMP volume fractions, and an assumed healing-stage material sequence (S004:C01-S008:C02).",
+    "sample_or_model": "One idealized 25 mm-diameter tibia, 103 x 4 mm curved plate, four screw construct, cortical/trabecular bone and callus; no patient geometry, printed plate, cadaver, animal, or clinical sample.",
+    "comparators": [
+      "Steel, titanium, magnesium, Ti-HAP FGM, PEEK-10CF, and PEEK-30CF plate materials",
+      "Original PEEK-CF plate versus TOPO75, TOPO50, and TOPO25",
+      "Raw TOPO25 versus manually corrected manufacturing-oriented geometry",
+      "Stabilized versus non-stabilized bone stress in the SSF formula",
+      "TOPO25 versus steel across assumed healing stages"
+    ],
+    "method_spine": [
+      "Fix a controlled bone-fracture-plate geometry and locked-plate load path.",
+      "Declare material axes, constitutive assumptions, healing-state callus properties, contacts, mesh, and axial load.",
+      "Compare material alternatives before selecting the topology substrate.",
+      "Run prescribed retained-volume SIMP cases under the same model.",
+      "Reconstruct thin/critical regions for manufacturing and rerun FE.",
+      "Calculate SSF against an explicit unplated reference while keeping it a model surrogate."
+    ],
+    "validation_roles": {
+      "verification": [
+        "A mesh-refinement study reports convergence of average stress at smaller element sizes, although a quantitative acceptance criterion and consistency with the final component-specific mesh sizes are not fully documented (S006:C01; S009:C01).",
+        "The manually corrected TOPO25 geometry is rerun under the same FE conditions, verifying preservation of the modeled response after reconstruction (S012:C01)."
+      ],
+      "calibration": [
+        "Material and healing-stage properties are literature assigned; no specimen-, patient-, or construct-level inverse calibration is performed (S005:C01-S006:C02)."
+      ],
+      "validation": [
+        "No physical plate, coupon, construct, cadaver, animal, or clinical comparison validates stress, stiffness, fatigue, fracture-gap stability, or the week-by-week SSF curve.",
+        "Trend agreement with prior simplified numerical studies is contextual support, not independent experimental validation (S014:C02-S017:C02)."
+      ],
+      "sensitivity": [
+        "Plate material, retained volume, mesh density, and assumed healing stage are varied (S005:C01-S013:C02).",
+        "No sensitivity covers multiaxial/cyclic loads, anatomy, plate gap/contact, screw preload/threads, callus properties, fracture geometry, material uncertainty, optimization filters, or reconstruction rules."
+      ],
+      "application_prediction": [
+        "Reduced stress shielding and improved functional recovery are application interpretations of FE surrogates, not measured healing or patient outcomes (S017:C01-S018:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "Across material models, construct maximum stress was reported around 33 MPa for steel, about 24 MPa for titanium/magnesium, and about 22 MPa for PEEK composite, with small global deformation; component-level directionality is not consistently aligned with the stated stress-shielding objective (S010:C01-S010:C03).",
+      "TOPO25 retained 25% of initial material and produced similar modeled bone/plate deformation; reported bone and plate stress changes relative to the original composite geometry were about 6% and 33%, respectively (S011:C01-S011:C03).",
+      "After manual wall/critical-region correction, TOPO25 produced a stress map similar to the raw topology output and stresses less than 1 MPa below the original composite-plate construct (S012:C01).",
+      "Modeled PEEK-10CF SSF averaged roughly 0.2-0.3 and TOPO25 reduced it further; the assumed healing sequence reached a favorable range earlier than steel and later generated negative SSF, which indicates bone stress above the reference rather than proven beneficial remodeling (S013:C01-S013:C02)."
+    ],
+    "highest_evidence_level_reached": "Verified comparative FE trends in one simplified axial-load model; no physical manufacturing, construct mechanics, biological healing, or clinical validation."
+  },
+  "argument_map": {
+    "central_claim": "Within one idealized axial locked-plate model, lower-stiffness PEEK-CF and aggressive volume reduction alter modeled load sharing and SSF favorably, but optimality, manufacturability, fatigue safety, healing benefit, and clinical recovery are not established.",
+    "data": [
+      "Material-screen FE results, three retained-volume topology cases, one manually reconstructed geometry, mesh study, and SSF calculations over assigned healing properties (S005:C01-S013:C02)."
+    ],
+    "warrant": "Comparative modeling can isolate material and volume effects under fixed assumptions, but translation requires construct-level stability/failure metrics, manufacturing evidence, and independent biological or clinical endpoints.",
+    "backing": [
+      "The authors explicitly limit interpretation to pure axial loading, cylindrical anatomy, and a selected plate-bone gap/contact configuration (S014:C02-S014:C03)."
+    ],
+    "qualifier": "Relative FE comparison for the stated geometry, materials, load, contact, and healing assumptions.",
+    "rebuttals_or_boundaries": [
+      "The paper does not fully report the optimization objective, design/non-design domains, penalization/filter, convergence, or constraint values beyond retained volume.",
+      "Minimizing plate/bone peak stress, preserving fracture stability, and increasing bone load are distinct objectives whose desired directions may conflict.",
+      "Manual geometry correction followed by FE does not demonstrate printability or as-built properties.",
+      "One static axial force omits bending, torsion, gait cycles, screw pullout, fatigue, and fracture-gap motion.",
+      "The week labels derive from assigned callus properties rather than longitudinal measurement or calibrated healing prediction.",
+      "Negative SSF denotes overloading relative to the reference and is not automatically beneficial."
+    ],
+    "argument_coherence": "moderate_for_relative_material_and_volume_effects_low_for_optimality_manufacturing_or_healing"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "No physical or biological outcome is measured; reported stresses, strains, deformation, SSF, mass/volume, and healing-time curves are numerical outputs."
+    ],
+    "predicted": [
+      "FE component stresses/deformations and SSF under one static load, three prescribed topology reductions, corrected geometry, and assigned callus states (S009:C01-S013:C02)."
+    ],
+    "inferred": [
+      "A more physiological biomechanical environment, reduced resorption/loosening, improved healing, functional recovery, economic benefit, and AM feasibility are inferred from numerical surrogates (S015:C01-S018:C01)."
+    ],
+    "recommended": [
+      "Report the full optimization contract, quantify raw-to-reconstructed geometry loss, print and inspect specimens, validate static/fatigue/fracture-gap response, and test multiaxial patient/anatomy/healing uncertainty before biological claims."
+    ],
+    "proxy_to_outcome_bridges": [
+      "SSF is a model-defined stress ratio, not bone resorption or healing.",
+      "Low plate stress does not by itself mean adequate fixation or reduced stress shielding.",
+      "Global displacement is not fracture-gap micromotion/strain.",
+      "Assigned callus stiffness over nominal weeks is not a validated longitudinal healing model.",
+      "A printable-looking solid geometry is not an as-built implant."
+    ],
+    "overclaim_risks": [
+      "The conclusion labels composite stiffness optimal and links it to functional recovery without physical or biological validation (S018:C01).",
+      "TOPO25 is called most suitable although only one axial model and three volume fractions were evaluated.",
+      "Re-analysis after geometric correction is described as manufacturability verification despite no manufacturing evidence (S012:C01).",
+      "The automatic experimental-mechanical cue is false; the work is entirely computational."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Declare the implant-bone load-path model before optimization",
+      "execution": "Geometry, gap, screws, material axes, callus state, mesh, fixation, and axial load are specified before material/topology comparison (S004:C01-S006:C02).",
+      "locator": "S006:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Freeze geometry, materials, contact, loading, healing state, and reference construct before comparing implant materials or topologies.",
+      "failure_mode": "A controlled model supports relative comparison but narrows external validity."
+    },
+    {
+      "section": "methods",
+      "move": "Write topology optimization as an executable contract",
+      "execution": "Three retained-volume SIMP cases are reported, but objective, filters, stopping rules, and protected regions remain incomplete (S007:C01).",
+      "locator": "S007:C01",
+      "effectiveness": "low_as_reporting_exemplar_high_as_counterexample",
+      "transferable_principle": "State objective, constraints, design variables, non-design regions, loads/weights, material interpolation, filter, manufacturing bounds, convergence, and selection rule.",
+      "failure_mode": "Prescribed volume alone cannot establish what 'optimal' means or whether the result is reproducible."
+    },
+    {
+      "section": "results",
+      "move": "Quantify reconstruction loss after manufacturability editing",
+      "execution": "The raw TOPO25 output is manually corrected and rerun, showing similar modeled fields (S012:C01).",
+      "locator": "S012:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "Preserve raw, reconstructed, and as-built states; report geometry/volume and every critical response before and after each transition.",
+      "failure_mode": "Re-analysis verifies only the edited CAD model, not printing or device mechanics."
+    },
+    {
+      "section": "discussion",
+      "move": "Bound a stress-shielding surrogate by its reference and direction",
+      "execution": "SSF is explicitly defined against unplated bone and later negative values are identified as bone stress above reference (S008:C01-S008:C02; S013:C02).",
+      "locator": "S013:C02",
+      "effectiveness": "moderate",
+      "transferable_principle": "For any stress-shielding metric, report numerator/denominator, spatial statistic, reference state, uncertainty, and what positive, zero, and negative values physically mean.",
+      "failure_mode": "A lower or negative surrogate must not be labeled beneficial without stability and tissue-response evidence."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Pure axial 800 N loading, simplified cylindrical tibia, and a 1 mm non-contact plate-bone configuration limit interpretation to relative trends (S014:C02-S014:C03)."
+    ],
+    "reader_identified": [
+      "No experimental calibration or validation of materials, construct stiffness, fracture-gap motion, strength, fatigue, screw fixation, or SSF.",
+      "Incomplete optimization-contract reporting and no proof of global or robust optimum.",
+      "No uncertainty/sensitivity for multiaxial load, anatomy, contact, screw preload, callus properties, fracture, or AM anisotropy.",
+      "Manual manufacturability correction lacks quantitative geometric rules, printing, metrology, or mechanics.",
+      "Stress/strain directionality across plate, bone, and callus is not always reconciled with the load-sharing objective.",
+      "Healing weeks are assigned scenarios, not observed time points."
+    ],
+    "likely_bias_direction": [
+      "Single-load optimization favors a light geometry that may be unsafe in bending/torsion/fatigue.",
+      "Surrogate-to-healing language overstates biological and clinical benefit.",
+      "Selective emphasis on favorable SSF may hide fracture-stability and overloading trade-offs."
+    ],
+    "scope_boundary": "The study supports relative numerical comparison of plate materials and volume-reduced geometries in one simplified axial locked-plate construct; it does not establish a manufactured device, fatigue safety, biological remodeling, healing acceleration, or clinical recovery."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC13208404-01",
+      "capability": "Write implant topology optimization as a complete objective-constraint-variable-load-manufacturing-convergence contract before using the word optimal.",
+      "manuscript_use": "Optimization Methods and reproducibility audit.",
+      "applicable_domains": [
+        "topology_optimization",
+        "bone_implant",
+        "biomechanics"
+      ],
+      "applicable_study_designs": [
+        "finite_element",
+        "topology_optimization"
+      ],
+      "supporting_locators": [
+        "S003:C01",
+        "S006:C01",
+        "S006:C02",
+        "S007:C01"
+      ],
+      "counterexample_or_boundary": "Three retained-volume cases under one load do not prove a general optimum.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC13208404-02",
+      "capability": "Treat raw topology, reconstructed CAD, printed geometry, and tested construct as four separate validation states and quantify loss at each transition.",
+      "manuscript_use": "Topology reconstruction, AM Methods, and validation Results.",
+      "applicable_domains": [
+        "topology_optimization",
+        "additive_manufacturing",
+        "bone_implant"
+      ],
+      "applicable_study_designs": [
+        "finite_element",
+        "manufacturing_validation"
+      ],
+      "supporting_locators": [
+        "S007:C01",
+        "S011:C01",
+        "S011:C02",
+        "S011:C03",
+        "S012:C01"
+      ],
+      "counterexample_or_boundary": "An edited CAD rerun is not manufacturing validation.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC13208404-03",
+      "capability": "Define stress-shielding proxies with reference, spatial statistic, sign, load-sharing trade-off, and biological-validation boundary.",
+      "manuscript_use": "Biomechanical Results and Discussion calibration.",
+      "applicable_domains": [
+        "biomechanics",
+        "bone_implant",
+        "mechanobiology"
+      ],
+      "applicable_study_designs": [
+        "finite_element"
+      ],
+      "supporting_locators": [
+        "S008:C01",
+        "S008:C02",
+        "S013:C01",
+        "S013:C02",
+        "S014:C02",
+        "S018:C01"
+      ],
+      "counterexample_or_boundary": "A favorable FE SSF does not measure bone resorption, healing, or function.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_for_relative_computational_comparison",
+    "methods_transparency": "moderate",
+    "validation_credibility": "moderate_for_mesh_and_internal_comparison_low_for_physical_or_biological_claims",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "high_within_the_fixed_model",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "One simplified axial model and incomplete optimization specification.",
+      "No physical/manufacturing/fatigue/biological validation.",
+      "SSF and assigned healing scenarios are overextended to functional recovery."
+    ],
+    "overall_credibility": "moderate_to_high_for_relative_FE_trends_low_for_optimal_device_or_healing_claims"
+  },
+  "summary_zh": "这是一项纯数值材料筛选与拓扑优化研究。作者在简化圆柱胫骨、50%愈合骨痂、板骨间隙1 mm和单一800 N轴向载荷下比较金属、梯度材料和PEEK-CF骨板，再用SIMP保留75%、50%或25%体积。TOPO25在同一模型中呈现较轻和较低SSF，并在手工加厚/修正后重新FE；但这只验证了修正CAD在该模型中的响应，不是打印或力学验证。所谓第3–4周或第9周SSF来自预设骨痂参数，不能写成纵向愈合预测。Skill将据此强制要求：先给完整优化合同；把raw topology、重构CAD、as-built和实测构件分层；定义SSF参考和正负号；并把应力遮挡代理与骨重塑、愈合及功能恢复分开。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference section, material and topology comparison, corrected geometry, SSF definition, assumed healing trajectory, and limitations.",
+    "The automatic experimental-mechanical cue is incorrect; no physical experiment was performed.",
+    "The strongest transferable lesson is topology-contract and reconstruction-loss reporting, not evidence of clinical benefit."
+  ],
+  "selection": {
+    "selection_reason": "explicit_include",
+    "primary_stratum": "topology_optimization",
+    "stratum_rank": 1,
+    "reading_order": 41
+  },
+  "source": {
+    "record_path": "records/PMC13208404.json.gz",
+    "source_record": "records/PMC13208404.json.gz",
+    "source_record_sha256": "8d6b0a73435176ecddf6598116dbf399c0f75426fafb72ec788256cf105b30cd",
+    "source_hash": "8d6b0a73435176ecddf6598116dbf399c0f75426fafb72ec788256cf105b30cd"
+  }
+}

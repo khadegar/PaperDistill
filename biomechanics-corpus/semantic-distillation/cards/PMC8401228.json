@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8401228",
+  "paper_id": "doi:10.3390/ma14164405",
+  "pmcid": "PMC8401228",
+  "source_record_sha256": "ec5eb49d4d37a7da37b141e0aaf71e013bd97c76895e06867cf4c42b4321eb85",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "97bdc74f9a501e3c108a8705dff1e3258477f777739c3e3a01b04ad2f7bcdd63",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Response to Conventional Titanium Implants and New Zirconia Implants Produced by Additive Manufacturing",
+    "authors": "Kim JC, Yeo IL.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14164405",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

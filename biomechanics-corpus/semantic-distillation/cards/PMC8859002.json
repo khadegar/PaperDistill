@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8859002",
+  "paper_id": "doi:10.1016/j.dib.2022.107936",
+  "pmcid": "PMC8859002",
+  "source_record_sha256": "aa8a036a0b69d9a9af734784c9f92adf9db71b1333b18a5c47309d761131895a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d75863b3e59b9ab5493eeec4b41716851341c33c4f5c03934cc6ba7f4ecfcb73",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Loading characteristics data applied on osseointegrated implant by transfemoral bone-anchored prostheses fitted with state-of-the-art components during daily activities",
+    "authors": "Frossard L, Laux S, Geada M, Heym PP, Lechler K.",
+    "year": 2022,
+    "journal": "Data in Brief",
+    "doi": "10.1016/j.dib.2022.107936",
+    "publication_type": "data-paper; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

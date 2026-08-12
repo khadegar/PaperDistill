@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12259587",
+  "paper_id": "doi:10.3389/fbioe.2025.1573086",
+  "pmcid": "PMC12259587",
+  "source_record_sha256": "17655a8e18e8b772f3db17e639effe078c2c6d5da6719ef24f09729a3e9178f1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2b53ab1bb80625373094f3f4cc261840ee7ccc4781b8758d062feff9baf1535d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical and clinical comparison of different prosthetic in reconstruction following total en bloc spondylectomy in the thoracolumbar spine: based on finite element analysis and clinical data",
+    "authors": "Gu Z, Ma L, Liu Q, Wang K, Yang Z, Niu N, Shi J.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1573086",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

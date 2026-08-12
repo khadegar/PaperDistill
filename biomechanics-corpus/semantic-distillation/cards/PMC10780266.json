@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10780266",
+  "paper_id": "doi:10.3390/jcm13010233",
+  "pmcid": "PMC10780266",
+  "source_record_sha256": "4f6ab0572d598304a019ddedb7ccff74f1cac907f28d4eb825aae1fa332cbbe8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4a46b8548da779b4d3da36fb298096e1892392604a43aae4277da32e117e65fe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "New Horizons of Cementless Total Knee Arthroplasty",
+    "authors": "Polizzotti G, Lamberti A, Mancino F, Baldini A.",
+    "year": 2023,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm13010233",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

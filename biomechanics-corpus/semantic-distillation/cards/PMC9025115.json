@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9025115",
+  "paper_id": "doi:10.3390/biology11040578",
+  "pmcid": "PMC9025115",
+  "source_record_sha256": "d797b6c020248269361ef1bf6266b7fb1f3ec813232aa08aa25995232f99634c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e37e5a51065eee94ae1d0d0a3056c6b2d40ab4bd4faad1cb0662c72deed990f7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Improvement of Peri-Implant Repair in Estrogen-Deficient Rats Fed a Cafeteria Diet and Treated with Risedronate Sodium",
+    "authors": "Ervolino da Silva AC, de Souza Batista FR, Hassumi JS, Pitol Palin L, Monteiro NG, Frigério PB, Okamoto R.",
+    "year": 2022,
+    "journal": "Biology",
+    "doi": "10.3390/biology11040578",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

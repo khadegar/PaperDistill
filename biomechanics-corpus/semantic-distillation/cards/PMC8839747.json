@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8839747",
+  "paper_id": "doi:10.3390/nano12030391",
+  "pmcid": "PMC8839747",
+  "source_record_sha256": "1dd744881ca7f96be7d8c1e6579b769fb9a500a1e27167638b92d11519452d7b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "777dcf69fb5983d9bdb13143aafba15fc8b608842810edc694fdba7005bc9cd8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Micro/Nanoarchitectonics of 3D Printed Scaffolds with Excellent Biocompatibility Prepared Using Femtosecond Laser Two-Photon Polymerization for Tissue Engineering Applications",
+    "authors": "Yuan Y, Yuan Y, Chen L, Shi Z, Chen J.",
+    "year": 2022,
+    "journal": "Nanomaterials",
+    "doi": "10.3390/nano12030391",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

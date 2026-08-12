@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7846796",
+  "paper_id": "doi:10.1038/s41597-021-00806-0",
+  "pmcid": "PMC7846796",
+  "source_record_sha256": "db00002b7a545220188d332893689b4c16151ce2d1104398d1fb7178775b89e6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9735097e86cbbed9d84f8555a3bbc291909659338ead7a8b17c74f493f467788",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Synthetic skull bone defects for automatic patient-specific craniofacial implant design",
+    "authors": "Li J, Gsaxner C, Pepe A, Morais A, Alves V, von Campe G, Wallner J, Egger J.",
+    "year": 2021,
+    "journal": "Scientific Data",
+    "doi": "10.1038/s41597-021-00806-0",
+    "publication_type": "Research Support, Non-U.S. Gov't; Dataset; data-paper; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

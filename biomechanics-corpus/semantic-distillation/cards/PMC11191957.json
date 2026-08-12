@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11191957",
+  "paper_id": "doi:10.1097/md.0000000000038431",
+  "pmcid": "PMC11191957",
+  "source_record_sha256": "e39753efc5efec3504a34a3358fe047c17597b56feeff31e1adff30ac2154f61",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b06d13bb24da6bf3f5a42759a9fab6339f0a2afe2774774fb36b73d84127c6bd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The postoperative clinical effects of utilizing 3D printed (Ti6Al4V) interbody fusion cages in posterior lumbar fusion: A retrospective cohort study",
+    "authors": "Wang Z, Zhang D, Zhang Z, Miao J.",
+    "year": 2024,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000038431",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

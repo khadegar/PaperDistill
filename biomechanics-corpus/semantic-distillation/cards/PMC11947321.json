@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11947321",
+  "paper_id": "doi:10.1038/s41413-025-00418-z",
+  "pmcid": "PMC11947321",
+  "source_record_sha256": "cef517a4de8e2b74587adfe0eec2648d7b97937ef6a07537de29eeecccb30ca7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "90a437cc5bc78a7af04edd7380fa39238df3b511e1b2b913ea5fdbd13c0e7989",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Callus organoids reveal distinct cartilage to bone transition mechanisms across donors and a role for biological sex",
+    "authors": "Decoene I, Svitina H, Hamed MB, Economou A, Stegen S, Luyten FP, Papantoniou I.",
+    "year": 2025,
+    "journal": "Bone Research",
+    "doi": "10.1038/s41413-025-00418-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7789156",
+  "paper_id": "doi:10.1186/s13036-020-00252-3",
+  "pmcid": "PMC7789156",
+  "source_record_sha256": "10ad1c4b361d1ed8e17846e61af135420324cf7dedbddb452063fe846b8f19f1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "573b9d3a591fa50ab7688332989812fc00cf5756bde7f0844c9d3a57a287844d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Rational design of nonstoichiometric bioceramic scaffolds via digital light processing: tuning chemical composition and pore geometry evaluation",
+    "authors": "Li Y, Wu R, Yu L, Shen M, Ding X, Lu F, Liu M, Yang X, Gou Z, Xu S.",
+    "year": 2021,
+    "journal": "Journal of Biological Engineering",
+    "doi": "10.1186/s13036-020-00252-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

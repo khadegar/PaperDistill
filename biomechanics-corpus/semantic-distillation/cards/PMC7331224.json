@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7331224",
+  "paper_id": "doi:10.1186/s12891-020-03465-1",
+  "pmcid": "PMC7331224",
+  "source_record_sha256": "4e9f9afac386f1a25ae843843b54a9dfe23a4ab461a16f7d0d0679389a6163f0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7bc9bed7c36c29cdf43a104daf54e10fcbddf8b46cf3d41ce899ef27e57a5bf9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A 3D-printed, personalized, biomechanics-specific beta-tricalcium phosphate bioceramic rod system: personalized treatment strategy for patients with femoral shaft non-union based on finite element analysis",
+    "authors": "Lu J, Wang QY, Sheng JG, Guo SC, Tao SC.",
+    "year": 2020,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-020-03465-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

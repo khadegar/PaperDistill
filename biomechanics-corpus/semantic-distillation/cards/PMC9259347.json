@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9259347",
+  "paper_id": "doi:10.4047/jap.2022.14.3.182",
+  "pmcid": "PMC9259347",
+  "source_record_sha256": "042c107850c93cd153563b9aff09421109114a63d003ec39c14660785b3375f5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ad22eefbc280a268bfd0fb88d637affc30d7d09c4b8beb8877f71e4bbfdbf9ee",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluations of the long-term stability of dental implant using finite element modeling method: a systematic review",
+    "authors": "Hosseini-Faradonbeh SA, Katoozian HR.",
+    "year": 2022,
+    "journal": "The Journal of Advanced Prosthodontics",
+    "doi": "10.4047/jap.2022.14.3.182",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

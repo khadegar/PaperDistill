@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12368192",
+  "paper_id": "doi:10.1038/s41598-025-15122-5",
+  "pmcid": "PMC12368192",
+  "source_record_sha256": "216de4cbff03015a194d2248dd1e8fb33d05f1338f89a573fe6af953d851183e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "32689cf6edcbc96494dd022123dc8442ab93bd5949c51ea6d3e1e6b7ed336e5e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Computational optimization of 3D printed bone scaffolds using orthogonal array-driven FEA and neural network modeling",
+    "authors": "Shetty A, Fathima A, Anika B, Shetty R, Vinyas, Supriya JP, Hegde A.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-15122-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

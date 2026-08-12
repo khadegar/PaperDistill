@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8051753",
+  "paper_id": "doi:10.1371/journal.pone.0249451",
+  "pmcid": "PMC8051753",
+  "source_record_sha256": "c2a1df5c6d8465ca4019363d790ac834d929f5303cdccd1b8543f487480c3e41",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6a8fbf33fb7da09aff17797c4c66758f8654ca0112b5aaebdcf87af2a0c314d4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The presence of Wormian bones increases the fracture resistance of equine cranial bone",
+    "authors": "Zambrano M LA, Kilroy D, Kumar A, Gilchrist MD, Ní Annaidh A.",
+    "year": 2021,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0249451.r005",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

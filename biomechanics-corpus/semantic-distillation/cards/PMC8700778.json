@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8700778",
+  "paper_id": "doi:10.3390/gels7040274",
+  "pmcid": "PMC8700778",
+  "source_record_sha256": "037e13f58d420ab14efdf59b095773123245fe3a3b646f67b4f770f0d753ab99",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6d2dbe34ec2779f3487c8a0ee7fce77d830c6ff287a5f72677131a2188de9ea5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioactive Inks Development for Osteochondral Tissue Engineering: A Mini-Review",
+    "authors": "Bakhtiary N, Liu C, Ghorbani F.",
+    "year": 2021,
+    "journal": "Gels",
+    "doi": "10.3390/gels7040274",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

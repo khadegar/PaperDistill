@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9072356",
+  "paper_id": "doi:10.1038/s41598-022-11426-y",
+  "pmcid": "PMC9072356",
+  "source_record_sha256": "df44f59c7839a7a3a30887ea24ff101c7ff8ea9da26aee69648e00607f55b148",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6af3fda786eb7afa25883e3284b5d51b8643e026a1e09f2ca9a6db49de9f4e51",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cytotoxicity of polymers intended for the extrusion-based additive manufacturing of surgical guides",
+    "authors": "Burkhardt F, Spies BC, Wesemann C, Schirmeister CG, Licht EH, Beuer F, Steinberg T, Pieralli S.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-11426-y",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9059475",
+  "paper_id": "doi:10.1002/jbm4.10622",
+  "pmcid": "PMC9059475",
+  "source_record_sha256": "87a07509c30489867cf159a69f4b7b7a04ce738fdd9fc74ea49473ad656d312e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "25076a9e97399c2aa5df066145f2af1a9b32d3317af9e624c5eeb10dd5ae64c1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Genetic Deletion of Menin in Mouse Mesenchymal Stem Cells: An Experimental and Computational Analysis",
+    "authors": "Abi-Rafeh J, Asgari M, Troka I, Canaff L, Moussa A, Pasini D, Goltzman D.",
+    "year": 2022,
+    "journal": "JBMR Plus",
+    "doi": "10.1002/jbm4.10622",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8456994",
+  "paper_id": "doi:10.3389/fsurg.2021.706597",
+  "pmcid": "PMC8456994",
+  "source_record_sha256": "da05f5f79683a893fbc171f7009820b3aa5e43758bf6957c515cf78c63870bc7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ff8240359d6fd1137c8a5509b1bd024d6851d550d2e4bc8f4a9e11d7028e6590",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Evaluation of the Transcortical and Transpedicular Trajectories for Pedicle Screw Insertion in Thoracolumbar Fracture Fixation for Ankylosing Spondylitis",
+    "authors": "Tong Z, Xiao B, Yan K, Xing Y, Zhang Y.",
+    "year": 2021,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2021.706597",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

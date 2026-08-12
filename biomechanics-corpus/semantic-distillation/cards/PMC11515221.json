@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11515221",
+  "paper_id": "doi:10.1186/s12938-024-01289-x",
+  "pmcid": "PMC11515221",
+  "source_record_sha256": "5a925fbb43e22a588675daf278d54e12df68ce52ff65b491fa58cd544898c8c5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d61f53fe87e1a16664a4ce66553170806a2c3d8c000ef9221af502bc65f1eb9a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of stiffness-matched, 3D-printed, NiTi mandibular graft fixation in an ovine model",
+    "authors": "Khattab NR, Olivas-Alanis LH, Chmielewska-Wysocka A, Emam H, Brune R, Jahadakbar A, Khambhampati S, Lozier J, Safaei K, Skoracki R, Elahinia M, Dean D.",
+    "year": 2024,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-024-01289-x",
+    "publication_type": "research-article; Evaluation Study; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

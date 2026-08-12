@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7609156",
+  "paper_id": "doi:10.1155/2020/8872362",
+  "pmcid": "PMC7609156",
+  "source_record_sha256": "6ba15eb234aa47eded3604e78f7dab7f134f23fe69b234baee9138843ca4a2f0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ef528ee743e85cabc4826198a315567e3f6a01e8b87d99f85ad129ba48483f51",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development and Performance Verification of a Motorized Prosthetic Leg for Stair Walking",
+    "authors": "Park K, Ahn HJ, Lee KH, Lee CH.",
+    "year": 2020,
+    "journal": "Applied Bionics and Biomechanics",
+    "doi": "10.1155/2020/8872362",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

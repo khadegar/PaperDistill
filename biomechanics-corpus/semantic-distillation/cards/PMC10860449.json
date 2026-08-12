@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10860449",
+  "paper_id": "doi:10.1002/acm2.14240",
+  "pmcid": "PMC10860449",
+  "source_record_sha256": "42078608b6362be947c5ca3ad6ec844e8e467f30445072f6668627c683b77477",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f79817f452a629176ea388b614233813fe0ed338a9f8c8ea810f5ea1a7a7a7c9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development and validation of the low‐cost pregnant female physical phantom for fetal dosimetry in MV photon radiotherapy",
+    "authors": "Kopačin V, Brkić H, Ivković A, Kasabašić M, Knežević Ž, Majer M, Nodilo M, Turk T, Faj D.",
+    "year": 2023,
+    "journal": "Journal of Applied Clinical Medical Physics",
+    "doi": "10.1002/acm2.14240",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

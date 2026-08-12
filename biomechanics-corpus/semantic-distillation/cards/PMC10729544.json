@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10729544",
+  "paper_id": "doi:10.1186/s12984-023-01296-4",
+  "pmcid": "PMC10729544",
+  "source_record_sha256": "3608f5f6f5fc4250d43ceeff9d92dd1d94b3709ed917c115c99c194beaf7bebd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "933f0dae738e4e4f694c4d0e03b5a133133497af4eee5edf10a7932c4d14a836",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hip joint and muscle loading for persons with bilateral transfemoral/through-knee amputations: biomechanical differences between full-length articulated and foreshortened non-articulated prostheses",
+    "authors": "Toderita D, Favier CD, Henson DP, Vardakastani V, Sherman K, Bennett AN, Bull AMJ.",
+    "year": 2023,
+    "journal": "Journal of NeuroEngineering and Rehabilitation",
+    "doi": "10.1186/s12984-023-01296-4",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

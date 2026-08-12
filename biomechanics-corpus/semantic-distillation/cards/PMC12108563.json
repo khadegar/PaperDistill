@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12108563",
+  "paper_id": "doi:10.3390/bioengineering12050545",
+  "pmcid": "PMC12108563",
+  "source_record_sha256": "1e2e3ccbbd0856ea25187f7b03f44a16e69cf90f276587249bcbf3d6db5ea3a6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "024b4544b35f0bb96b27abe7a7bfa25ff60de5b15749596fc38021904b5f0be8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Simulation of a Custom-Made Temporomandibular Joint—An Academic View on an Industrial Workflow",
+    "authors": "Andres A, Wickert K, Gneiting E, Binmoeller F, Diebels S, Roland M.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12050545",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

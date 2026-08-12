@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11643993",
+  "paper_id": "doi:10.3390/nu16234089",
+  "pmcid": "PMC11643993",
+  "source_record_sha256": "721bb2c8a552bc57c3b2e959f2354b8a37b3d76c03082dfb04ec8ee82d2e30bb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "48d635f735a5a4415eb30c5ecd20a622f9883ea18fcae4c37b0efd463061c73c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Amorphous Calcium Carbonate Enhances Fracture Healing in a Rat Fracture Model",
+    "authors": "Yeh TT, Chen CK, Kuthati Y, Mende LK, Wong CS, Kong ZL.",
+    "year": 2024,
+    "journal": "Nutrients",
+    "doi": "10.3390/nu16234089",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

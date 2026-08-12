@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9852618",
+  "paper_id": "doi:10.3389/fsurg.2022.1025650",
+  "pmcid": "PMC9852618",
+  "source_record_sha256": "12eb2766d9abf7a6aa3447d324bca162c8005542bf801f7934e8ca620e935829",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6e947c1fc3311bd4f52f4fa03e5faea76d370bdd3ba4f8e918d9080a671cfcac",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Sacroiliac screws fixation navigated with three-dimensional printing personalized guide template for the treatment of posterior pelvic ring injury: A case report",
+    "authors": "Yang Z, Sheng B, Liu D, Wang Y, Liu C, Xiao R.",
+    "year": 2023,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2022.1025650",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

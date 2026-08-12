@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10668449",
+  "paper_id": "doi:10.1186/s12967-023-04661-y",
+  "pmcid": "PMC10668449",
+  "source_record_sha256": "e088457baa8d4722a95abaed34edcdb3a3c91cca76cf6236a95ad8ce4343b2ca",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1bf2f00d87b9a6c0134351b6a46853c612d7969e3bd5c3571333933b1d52045a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Parathyroid hormone stimulates bone regeneration in an atrophic non-union model in aged mice",
+    "authors": "Menger MM, Tobias AL, Bauer D, Bleimehl M, Scheuer C, Menger MD, Histing T, Laschke MW.",
+    "year": 2023,
+    "journal": "Journal of Translational Medicine",
+    "doi": "10.1186/s12967-023-04661-y",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

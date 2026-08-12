@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8624479",
+  "paper_id": "doi:10.3390/ma14226974",
+  "pmcid": "PMC8624479",
+  "source_record_sha256": "1b3956ed21cd9cda5c10a3f5888fa6ddf8fb67111cd7804feb14ab790535ad68",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "078111281170d9e1774dec2a164e1e98dce5acd20b92fff26928f4fc9a3b7a84",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Finite Element Investigation into Effects of Implant Thread Design and Loading Rate on Stress Distribution in Dental Implants and Anisotropic Bone",
+    "authors": "Alemayehu DB, Jeng YR.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14226974",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

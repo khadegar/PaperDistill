@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6681572",
+  "paper_id": "doi:10.2147/ijn.s202457",
+  "pmcid": "PMC6681572",
+  "source_record_sha256": "721bab5277282486e12c3c75d897569bfa5835c43ef9ac32c663be117007ac28",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0012e4779324412ae81f981ae73172e616bebdc020c2f53db23490e35892f3c0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed zirconia ceramic hip joint with precise structure and broad-spectrum antibacterial properties",
+    "authors": "Zhu Y, Liu K, Deng J, Ye J, Ai F, Ouyang H, Wu T, Jia J, Cheng X, Wang X.",
+    "year": 2019,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s202457",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

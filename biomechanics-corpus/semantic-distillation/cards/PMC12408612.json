@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12408612",
+  "paper_id": "doi:10.3389/fbioe.2025.1625650",
+  "pmcid": "PMC12408612",
+  "source_record_sha256": "c9c3804a664a50c463382c4eeda0800eda333aee6ec203272bcf004340d6345d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6194cfdb9c8ba9a65e4b3a0de3db73bb35d09177e801a7a4ad912b294aff946e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Personalized porous tantalum implants crafted via 3D printing: new horizons in complex cervical-thoracic spinal fusion",
+    "authors": "Chen C, Fan H, Chen G, Li Z, Wang P, Wang F.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1625650",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

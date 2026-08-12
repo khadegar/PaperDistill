@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8333029",
+  "paper_id": "doi:10.1302/2046-3758.107.bjr-2020-0462.r1",
+  "pmcid": "PMC8333029",
+  "source_record_sha256": "84aed74ae43d63f5e184b7fd9c9798e6e650e97d41227549398dc477b85041e6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "37c8e0372944c00be0f58731e12c4de801368e3ee531dc9089a41c01fa0a1ba1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osseointegration of retrieved 3D-printed, off-the-shelf acetabular implants",
+    "authors": "Dall'Ava L, Hothi H, Henckel J, Di Laura A, Tirabosco R, Eskelinen A, Skinner J, Hart A.",
+    "year": 2021,
+    "journal": "Bone & Joint Research",
+    "doi": "10.1302/2046-3758.107.bjr-2020-0462.r1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

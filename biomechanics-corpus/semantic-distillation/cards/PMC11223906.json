@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11223906",
+  "paper_id": "doi:10.1155/2024/6015794",
+  "pmcid": "PMC11223906",
+  "source_record_sha256": "96dfaf8c43435fcc96c173ac54d099f14c1aed8ae11600d38c8074771c3fc36a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bd2e638a2ea77625a4038b04b99252a5d631daeddd28f0b71c66b0a0e81ef751",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Design Optimization of Distal Humerus Fracture Plates: A Review",
+    "authors": "Zdero R, Brzozowski P, Schemitsch EH.",
+    "year": 2024,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2024/6015794",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

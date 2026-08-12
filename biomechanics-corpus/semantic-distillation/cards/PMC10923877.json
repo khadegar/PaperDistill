@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10923877",
+  "paper_id": "doi:10.1038/s41598-024-56327-4",
+  "pmcid": "PMC10923877",
+  "source_record_sha256": "9578406d7b1376af72d7784b1248af1c274fa93d30206f3eed508df7bac3db05",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c1cd29f921aafcaa80a382ab225b7767b17441649bce97583fa099e1d81f45d0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of a density-based topology optimization of homogenized lattice structures for individualized hip endoprostheses and validation using micro-FE",
+    "authors": "Müller P, Synek A, Stauß T, Steinnagel C, Ehlers T, Gembarski PC, Pahr D, Lachmayer R.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-56327-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

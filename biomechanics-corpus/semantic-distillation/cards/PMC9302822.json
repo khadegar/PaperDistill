@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9302822",
+  "paper_id": "doi:10.1371/journal.pone.0271061",
+  "pmcid": "PMC9302822",
+  "source_record_sha256": "a690ec7884192d60b25ed8b0af0433a2376a8af9c3e8761623084371a5124e7b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a01f7e543fcbfa2f3aeb0d4299b3cc5cbc1ef86ff9de67d73a6c7dc912728ed8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A preclinical model of post-surgery secondary bone healing for subtrochanteric femoral fracture based on fuzzy interpretations",
+    "authors": "Nag P, Chanda S.",
+    "year": 2022,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0271061.r006",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

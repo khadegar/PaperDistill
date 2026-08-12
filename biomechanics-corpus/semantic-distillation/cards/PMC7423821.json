@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7423821",
+  "paper_id": "doi:10.1186/s41747-020-00172-3",
+  "pmcid": "PMC7423821",
+  "source_record_sha256": "e4006d1b535f85efad44b06635d5e580860ca5ad9521365518e19c5f30765b1b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "76f117084136287af6fd016eb86b4972ec96e17752ad98005d424ba078ab1e44",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Image-based biomechanical models of the musculoskeletal system",
+    "authors": "Galbusera F, Cina A, Panico M, Albano D, Messina C.",
+    "year": 2020,
+    "journal": "European Radiology Experimental",
+    "doi": "10.1186/s41747-020-00172-3",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

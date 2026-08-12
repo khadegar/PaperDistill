@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10020692",
+  "paper_id": "doi:10.3389/fbioe.2023.1143575",
+  "pmcid": "PMC10020692",
+  "source_record_sha256": "dc0608c144354c73e2b2782a479cb64022806b1aa821df834f9c66aefbd45eb7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f0284044e6bf9be68de6f3d6dd79492ca4c12cd9e4d69fed441dfab91488cc4e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical study of internal fixation methods for femoral neck fractures based on Pauwels angle",
+    "authors": "Wang F, Liu Y, Huo Y, Wang Z, Zhang J, Xu M, Ma K, Wang L, Lu Y, Cheng L, Zhao D.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1143575",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

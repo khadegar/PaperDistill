@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6280913",
+  "paper_id": "doi:10.2147/ijn.s181137",
+  "pmcid": "PMC6280913",
+  "source_record_sha256": "f605b3e3e51492c047ed4bd4b94b36e4cb93c9fd1926b7db5d25e1ba01ee5002",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ad19070b1d6250ff5a769f055744cbd4cf521616e397165fc87d53bcda9f8d84",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Polydopamine-induced hydroxyapatite coating facilitates hydroxyapatite/polyamide 66 implant osteogenesis: an in vitro and in vivo evaluation",
+    "authors": "Xu Y, Li H, Wu J, Yang Q, Jiang D, Qiao B.",
+    "year": 2018,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s181137",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

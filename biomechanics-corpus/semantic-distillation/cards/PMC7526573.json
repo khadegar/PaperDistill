@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7526573",
+  "paper_id": "doi:10.1097/jcma.0000000000000364",
+  "pmcid": "PMC7526573",
+  "source_record_sha256": "55edd8c2e39bffb7de6f54d48440ba2718c88aa571c9817606a13b8c2854f770",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "86a363f474da374a49b1079a2dc165aa48b4ce1d750b7e0589b6c5baa6d4bcb8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Printing a patient-specific instrument guide for skull osteoma management",
+    "authors": "Wang TH, Ma H, Huang LY, Hung YC, Wang TH, Yu WC, Chiu FY, Wang SJ, Chen WM.",
+    "year": 2020,
+    "journal": "Journal of the Chinese Medical Association : JCMA",
+    "doi": "10.1097/jcma.0000000000000364",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

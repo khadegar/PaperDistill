@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10662809",
+  "paper_id": "doi:10.1186/s12903-023-03655-y",
+  "pmcid": "PMC10662809",
+  "source_record_sha256": "bee4ed2b89873223d7345d9c70480deb0c252fb5df2bce5ce92fdb0fd0c21771",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3e4bd81734a30bedbf750d644ecbfeb5ed6d49c05c8ab8453c1363dc9127748d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of upper arch expansion using clear aligners on different stride and torque: a three-dimensional finite element analysis",
+    "authors": "Zhang Y, Hui S, Gui L, Jin F.",
+    "year": 2023,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-023-03655-y",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

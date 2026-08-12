@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7729448",
+  "paper_id": "doi:10.3390/ma13235584",
+  "pmcid": "PMC7729448",
+  "source_record_sha256": "af68c3210a8e6df93292933309240dec8d2508f87642103642b6589ad8e6df57",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "830fd39577dc8add20fd537852e65f4cae7b786bbabff09718d739a8e2b72603",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Selective Laser Melting and Electron Beam Melting of Ti6Al4V for Orthopedic Applications: A Comparative Study on the Applied Building Direction",
+    "authors": "Ginestra P, Ferraro RM, Zohar-Hauber K, Abeni A, Giliani S, Ceretti E.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13235584",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

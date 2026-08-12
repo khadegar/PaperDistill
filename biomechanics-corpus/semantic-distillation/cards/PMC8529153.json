@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8529153",
+  "paper_id": "doi:10.3389/fbioe.2021.722275",
+  "pmcid": "PMC8529153",
+  "source_record_sha256": "d6b8ec7175a04dad94aad1a81713a42f4c9b33951b87ab4c68a9e572f902eb3b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f46af308a5654c3b1c8c50b8c7102c4fe87bbf1874b06945c596e8e4b9604578",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of Digital Twins to Optimize Trauma Surgery and Postoperative Management. A Case Study Focusing on Tibial Plateau Fracture",
+    "authors": "Aubert K, Germaneau A, Rochette M, Ye W, Severyns M, Billot M, Rigoard P, Vendeuvre T.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.722275",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

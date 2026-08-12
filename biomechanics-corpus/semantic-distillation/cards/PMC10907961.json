@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10907961",
+  "paper_id": "doi:10.1016/j.eats.2023.09.034",
+  "pmcid": "PMC10907961",
+  "source_record_sha256": "78607f4194c7dd38f12325f62bef07f8a9da637a24632c73d3932f081b040bc0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "decbf37b83fd03da0d8676f3a96276bc08eb6358ba4e08f3b8d26a3a197b1403",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Anterior Cruciate Ligament Allograft Reconstruction Augmented With a Reinforced, Bioinductive Collagen Scaffold in the Setting of Multiligamentous Knee Injury",
+    "authors": "Bi AS, Hughes AJ, Savage-Elliott I, Lowe D, Meislin RJ.",
+    "year": 2024,
+    "journal": "Arthroscopy Techniques",
+    "doi": "10.1016/j.eats.2023.09.034",
+    "publication_type": "brief-report; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11566662",
+  "paper_id": "doi:10.1186/s12903-024-05099-4",
+  "pmcid": "PMC11566662",
+  "source_record_sha256": "72b374027b86d58946c937f07500f5a9cec114467f36944282ccf4ba6fae613c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "aaf12d03d2013b0867f6cc282df5e682edccfad230fc8ec5537d22ca86e83fad",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Outstretching challenges for rehabilitation of a mucormycotic case-a digitally designed patient-specific implant approach in the recent era",
+    "authors": "Pathak A, Dhamande M, Mundada B, Bhoyar A, Sathe S, Gujjelwar S, Tawade S, Gupta A, Sonar P.",
+    "year": 2024,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-024-05099-4",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

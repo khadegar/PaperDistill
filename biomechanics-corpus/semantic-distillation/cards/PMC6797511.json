@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6797511",
+  "paper_id": "doi:10.1111/cpr.12658",
+  "pmcid": "PMC6797511",
+  "source_record_sha256": "ff3fe0b1a70be1a5d950292ea9d8a7f544e3dc8406b6554a4d355e24fcee7481",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6bd1284d007f9294c8bb547d31b49c9669f38291925cabda3fa0d0ad3fda76b7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced bone tissue regeneration of a biomimetic cellular scaffold with co‐cultured MSCs‐derived osteogenic and angiogenic cells",
+    "authors": "Li L, Li J, Zou Q, Zuo Y, Cai B, Li Y.",
+    "year": 2019,
+    "journal": "Cell Proliferation",
+    "doi": "10.1111/cpr.12658",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

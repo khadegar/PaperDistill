@@ -1,0 +1,337 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12193905",
+  "paper_id": "doi:10.3390/jfb16060200",
+  "pmcid": "PMC12193905",
+  "source_record_sha256": "4083dd5919f1c3dc3988c5c2bbc35611e9b09525b0248398cc34ab6b787bbd87",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T10:58:18Z",
+    "packet_sha256": "ed7094204edf2111eac60c2b1e8870eed1be2b29c6cb20d78095bdecec9f5cb8",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S002:C02",
+      "S002:C03",
+      "S002:C04",
+      "S002:C05",
+      "S003:C01",
+      "S003:C02",
+      "S004:C01",
+      "S005:C01",
+      "S006:C01",
+      "S007:C01",
+      "S008:C01",
+      "S009:C01",
+      "S010:C01",
+      "S011:C01",
+      "S012:C01",
+      "S013:C01",
+      "S013:C02",
+      "S014:C01",
+      "S014:C02",
+      "S015:C01",
+      "S016:C01",
+      "S017:C01",
+      "S017:C02",
+      "S017:C03",
+      "S018:C01",
+      "S018:C02",
+      "S019:C01",
+      "S020:C01",
+      "S020:C02",
+      "S021:C01",
+      "S022:C01",
+      "S023:C01",
+      "S024:C01",
+      "S025:C01",
+      "S026:C01",
+      "S027:C01",
+      "S028:C01",
+      "S029:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Polycaprolactone/Doped Bioactive Glass Composite Scaffolds for Bone Regeneration",
+    "authors": "Pádua AS, Graça MPF, Silva JC.",
+    "year": 2025,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb16060200",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_in_vitro_materials_screening",
+    "design_features": [
+      "polycaprolactone_composite",
+      "doped_bioactive_glass",
+      "salt_leached_porosity",
+      "compression_testing",
+      "extract_cytotoxicity",
+      "saos_2_osteogenic_screening"
+    ],
+    "research_problem": "Bioactive-glass-filled PCL scaffolds can combine porous architecture with ceramic-mediated biological activity, but the comparative mechanical and cell response of Ta-, Cu-, Zn-, Mg-, and Nb-doped glasses in the same scaffold platform was not established.",
+    "exact_gap": "The study addresses an early formulation-selection gap, especially the limited evidence for Ta- and Mg-containing PCL/bioactive-glass composites, rather than a demonstrated gap in animal bone regeneration or implant fixation (S002:C03-S002:C05).",
+    "objective_or_hypothesis": "Compare undoped and ion-doped bioactive-glass/PCL porous composites for morphology, compression modulus, extract cytotoxicity, Saos-2 adhesion/proliferation, and alkaline-phosphatase activity to nominate candidates for later bone-regeneration testing (S001:C01; S002:C05).",
+    "study_design": "PCL, undoped bioactive-glass/PCL, and five doped-glass/PCL formulations were fabricated by solvent casting, hot pressing, and salt leaching; morphology/chemistry, static compression modulus, ISO 10993-5-style extract cytotoxicity, cell attachment/proliferation, ALP activity, and fluorescence morphology were compared in vitro.",
+    "sample_or_model": "Salt-leached PCL composite coupons and the human osteosarcoma-derived Saos-2 cell line; compression used at least five specimens, while cell experiments used the replication described for each assay (S006:C01-S010:C01).",
+    "comparators": [
+      "Neat PCL versus 20% and 25% undoped bioactive-glass/PCL",
+      "Ta-, Cu-, Zn-, Mg-, and Nb-doped glass/PCL formulations",
+      "Culture-condition negative control and 10% DMSO positive cytotoxicity control",
+      "Glass coverslip cell control",
+      "No mature bone-graft, device, animal, or clinical comparator"
+    ],
+    "method_spine": [
+      "Define the composition matrix, including unequal total glass contents and dopant concentrations.",
+      "Confirm pore morphology, elemental presence, and polymer/glass chemical signatures.",
+      "Measure static compression modulus and identify loading- or aggregation-associated plateaus.",
+      "Screen extract cytotoxicity and short-term Saos-2 attachment/proliferation.",
+      "Use ALP and fluorescence morphology to nominate, but not validate, osteogenic candidates.",
+      "State the missing ion-release, degradation, fatigue, primary-cell, mineralization, and in-vivo evidence before making an application claim."
+    ],
+    "validation_roles": {
+      "verification": [
+        "SEM/EDS and FTIR provide formulation and morphology checks, but no quantitative as-built porosity, pore-size distribution, interconnectivity, or residual-solvent verification is reported (S012:C01-S013:C02).",
+        "Cytotoxicity includes negative and DMSO positive controls, which verify assay response but do not benchmark regenerative performance (S007:C01; S016:C01)."
+      ],
+      "calibration": [],
+      "validation": [
+        "The study validates only early coupon- and cell-assay behavior within its in-vitro test system; it does not validate bone formation, osteoconduction, implant integration, load-bearing function, or clinical safety."
+      ],
+      "sensitivity": [
+        "Glass content is varied across some undoped formulations, but dopant identity, dopant molar fraction, total ceramic loading, aggregation, and likely ion release are not independently varied; consequently the composition matrix is not a clean dopant sensitivity study (S003:C01-S003:C02).",
+        "Cell responses are followed over several time points, but no ion-dose, extract concentration beyond the reported screen, degradation, wet-state mechanics, or manufacturing sensitivity analysis is presented."
+      ],
+      "application_prediction": [
+        "Use of the Zn- or Nb-containing formulations in bone regeneration is a candidate-selection prediction that requires primary-cell, mineralization, release/degradation, mechanics, and in-vivo confirmation (S018:C02; S020:C01-S020:C02)."
+      ]
+    },
+    "primary_outcomes": [
+      "SEM showed interconnected pores described at approximately 100-200 micrometres, with increasing glass agglomeration at higher ceramic content; EDS detected the intended elements (S013:C01-S013:C02).",
+      "Adding bioactive glass increased initial compression modulus, but no clear dopant-specific modulus effect was detected at comparable loading and the 20%-to-25% gain plateaued, which the authors associated with aggregation (S014:C01-S014:C02).",
+      "Most extract-viability values remained above 80%, while the 10Cu formulation approached or crossed the cytotoxicity threshold at the highest extract condition within its uncertainty (S016:C01).",
+      "Undoped 20BG/25BG reduced initial adhesion relative to PCL; 25Zn was the only doped formulation reported with PCL-like adhesion and enhanced proliferation, whereas 10Cu performed worst (S017:C01-S017:C03).",
+      "25Zn had the highest ALP activity across tested times and 25Nb also showed elevated late ALP; 10Cu showed no ALP signal, but no later differentiation or mineralization endpoints were measured (S018:C01-S018:C02)."
+    ],
+    "highest_evidence_level_reached": "Static coupon mechanics plus short-term extract and Saos-2 screening; no primary-cell, ion-release, degradation, fatigue, animal, device-level, or clinical evidence."
+  },
+  "argument_map": {
+    "central_claim": "Within a compositionally unequal in-vitro screening matrix, the 25Zn/PCL composite was the strongest early candidate because it combined acceptable compression behavior with the most favorable Saos-2 proliferation and ALP signals; the study does not demonstrate bone regeneration, osteoinduction, implant integration, or dopant-specific superiority independent of ceramic loading.",
+    "data": [
+      "Formulation-specific SEM/EDS/FTIR and compression results (S012:C01-S014:C02).",
+      "Extract viability, adhesion/proliferation, ALP, and fluorescence morphology in Saos-2 cells (S016:C01-S019:C01)."
+    ],
+    "warrant": "A candidate that survives a materials-to-cell screening funnel may reasonably advance to mechanistic and preclinical testing, but early proxies and a confounded composition matrix support prioritization rather than efficacy or causal ion attribution.",
+    "backing": [
+      "The authors acknowledge that ALP is only one osteogenic indicator and call for additional cell types and in-vivo evaluation (S018:C02; S020:C02)."
+    ],
+    "qualifier": "Early in-vitro formulation screening under the tested PCL/glass compositions and Saos-2 assay conditions.",
+    "rebuttals_or_boundaries": [
+      "Total glass loading differs among Cu, Mg, and the other doped groups, so dopant identity is confounded with ceramic fraction and aggregation (S003:C01-S003:C02).",
+      "No ion release or dissolution measurements connect nominal dopant content to cell exposure.",
+      "ALP and proliferation in Saos-2 cells are early proxies, not proof of osteoinduction, matrix mineralization, or functional bone formation.",
+      "Compression modulus alone does not characterize compressive strength, toughness, cyclic fatigue, wet-state evolution, or device-level load bearing.",
+      "The Cu group shows an adverse signal, making the general statement that all formulations are safe/functionally suitable disproportionate (S016:C01-S018:C02)."
+    ],
+    "argument_coherence": "moderate"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "SEM/EDS morphology and elemental distribution, FTIR spectra, static compression modulus, extract metabolic activity, Saos-2 adhesion/proliferation, ALP normalized to population, and fluorescence cell morphology (S012:C01-S019:C01)."
+    ],
+    "predicted": [],
+    "inferred": [
+      "The compression-modulus plateau is attributed to glass aggregation without an independent aggregation-mechanics model or controlled dispersion experiment (S014:C02).",
+      "Zn and Nb are discussed through known ion-mediated osteogenic pathways, but ion release, intracellular pathway activation, and causal rescue/blockade were not measured (S018:C02).",
+      "Reduced Cu-group metabolic/proliferation signals are interpreted partly as slowed proliferation rather than cell death without orthogonal viability or apoptosis assays (S016:C01-S017:C03).",
+      "Future Zn-plus-Nb co-doping synergy is a hypothesis, not an observed interaction (S020:C02)."
+    ],
+    "recommended": [
+      "Use equal total ceramic loading and matched dopant molarity, quantify release/degradation and dispersion, and add primary MSC/osteoblast, mineralization, molecular, wet-mechanical, fatigue, and animal tests before claiming regenerative efficacy (S018:C02; S020:C02)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Resazurin/metabolic activity above a threshold is not long-term local or systemic biocompatibility.",
+      "Saos-2 proliferation and ALP are formulation-screening proxies, not osteoinduction, osteoconduction, or bone formation.",
+      "A nominal salt size and qualitative interconnected morphology do not establish quantitative as-built porosity or transport performance.",
+      "Static compression modulus does not establish strength retention, fatigue life, fracture resistance, or fixation under physiological loading.",
+      "Nominal dopant identity does not establish delivered ion dose without dissolution/release measurements."
+    ],
+    "overclaim_risks": [
+      "Calling all compositions 'safe functional scaffolds' is too broad given the 10Cu cytotoxicity/proliferation/ALP signal and the limited assay set (S016:C01-S020:C01).",
+      "Calling 25Zn a bone-regeneration scaffold exceeds an early Saos-2 screen; 'candidate for further testing' is proportionate.",
+      "Ranking dopant effects as if all formulations differed only by ion ignores unequal glass loading and dopant-content confounding (S003:C01-S003:C02).",
+      "The absence of a significant modulus difference among matched formulations is a valid null result and should not be converted into implied mechanical superiority (S014:C01)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Expose the full composition matrix before comparing formulations",
+      "execution": "The methods list total glass fraction and dopant content for each formulation, revealing that Cu and Mg groups are not composition-matched to Zn, Ta, and Nb groups (S003:C01-S003:C02).",
+      "locator": "S003:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For multifunctional material screens, tabulate base polymer, filler fraction, dopant molarity, particle state, and fabrication conditions so readers can identify isolated factors and confounded comparisons.",
+      "failure_mode": "Do not label a multi-composition comparison as a pure dopant screen."
+    },
+    {
+      "section": "results",
+      "move": "Use a screening funnel rather than a universal-best narrative",
+      "execution": "Morphology and mechanics first establish construct feasibility, cytotoxicity removes an adverse candidate, and adhesion/proliferation plus ALP nominate 25Zn for later work (S013:C01-S018:C02).",
+      "locator": "S018:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Write formulation studies as a staged elimination and nomination process, naming the decision criterion and uncertainty at each stage.",
+      "failure_mode": "A candidate winning early screens has not demonstrated therapeutic efficacy."
+    },
+    {
+      "section": "results",
+      "move": "Retain null and adverse outcomes in the main comparison",
+      "execution": "The study reports no clear dopant-specific compression benefit and identifies consistently weak Cu cell/ALP behavior rather than presenting only the Zn-positive findings (S014:C01-S014:C02; S016:C01-S018:C02).",
+      "locator": "S014:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Report mechanical nulls and biological adverse signals beside positive candidates; they define the actual selection boundary and prevent post-hoc success framing.",
+      "failure_mode": "Nonsignificant differences are not evidence of equivalence unless the design and analysis test equivalence."
+    },
+    {
+      "section": "discussion",
+      "move": "Set an evidence-upgrade gate for osteogenic language",
+      "execution": "ALP and Saos-2 outcomes motivate further marker, cell-type, and in-vivo work rather than completing the bone-regeneration claim (S018:C02; S020:C02).",
+      "locator": "S020:C02",
+      "effectiveness": "high",
+      "transferable_principle": "After an early osteogenic proxy, explicitly name the next validation rungs—release, primary cells, matrix mineralization, mechanism, mechanics, and in-vivo repair—before using osteoinductive or integrative language.",
+      "failure_mode": "ALP in an osteosarcoma-derived line is not a bone-regeneration endpoint."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The authors acknowledge the need for additional osteogenic markers, multiple cell types, in-vivo studies, and exploration of combined dopants such as Zn and Nb (S018:C02; S020:C02)."
+    ],
+    "reader_identified": [
+      "Unequal ceramic fractions and dopant molar contents confound cross-dopant rankings; no factorial or matched-dose design isolates ion effects.",
+      "No quantitative porosity/interconnectivity distribution, permeability, wet-state shrinkage, as-built deviation, glass dispersion metric, ion release, degradation, or residual-solvent analysis.",
+      "Only compression modulus is reported; strength, failure strain, toughness, cyclic fatigue, time-dependent/wet mechanics, and device-level behavior are absent.",
+      "Saos-2 is a transformed osteosarcoma-derived line, and ALP/resazurin are insufficient to establish osteogenic differentiation, mineralization, or safety.",
+      "No primary cells, immune/vascular response, animal model, standard scaffold comparator, or functional bone outcome.",
+      "Repeated time-point comparisons appear to rely on one-way ANOVA/Tukey without clear handling of longitudinal or multiplicity structure (S011:C01).",
+      "The apparent 10Cu adverse signal is not resolved with direct live/dead, apoptosis, ion-dose, or release measurements."
+    ],
+    "likely_bias_direction": [
+      "Candidate-selection language may overstate Zn-specific biology because composition and delivered dose are uncontrolled.",
+      "Early proxy endpoints and absence of demanding mechanical/animal tests likely exaggerate application readiness.",
+      "General safety language understates the Cu-group uncertainty."
+    ],
+    "scope_boundary": "The work supports shortlisting 25Zn/PCL for further study within one in-vitro composition screen. It does not establish dopant-isolated causality, osteoinduction, bone regeneration, implant integration, load-bearing performance, or clinical safety."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC12193905-01",
+      "capability": "Write multifunctional material comparisons from an explicit composition matrix and flag when filler fraction, dopant concentration, or aggregation prevents clean attribution.",
+      "manuscript_use": "Methods design table, Results comparison, causal-language audit, and limitations.",
+      "applicable_domains": [
+        "bone_regeneration_biomaterial",
+        "porous_scaffold",
+        "additive_manufacturing"
+      ],
+      "applicable_study_designs": [
+        "in_vitro",
+        "materials_screening"
+      ],
+      "supporting_locators": [
+        "S003:C01",
+        "S003:C02",
+        "S013:C02",
+        "S014:C02"
+      ],
+      "counterexample_or_boundary": "A favorable group cannot be attributed to one dopant when total ceramic loading and delivered ion dose differ.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12193905-02",
+      "capability": "Structure formulation Results as a screening funnel that preserves null and adverse findings and ends with a candidate nomination rather than an efficacy claim.",
+      "manuscript_use": "Results ordering, Discussion synthesis, and conclusion calibration.",
+      "applicable_domains": [
+        "biomaterials",
+        "bone_regeneration_biomaterial",
+        "porous_scaffold"
+      ],
+      "applicable_study_designs": [
+        "in_vitro",
+        "materials_screening"
+      ],
+      "supporting_locators": [
+        "S014:C01",
+        "S016:C01",
+        "S017:C01",
+        "S018:C01"
+      ],
+      "counterexample_or_boundary": "The best early proxy profile is only a prioritization result and does not demonstrate bone regeneration.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12193905-03",
+      "capability": "Apply an evidence-upgrade gate before converting Saos-2 viability, proliferation, or ALP into osteogenic, osteoinductive, or implant-integration language.",
+      "manuscript_use": "Abstract, Discussion, conclusion, and claim-citation audit.",
+      "applicable_domains": [
+        "bone_regeneration_biomaterial",
+        "bone_implant",
+        "porous_scaffold"
+      ],
+      "applicable_study_designs": [
+        "in_vitro",
+        "animal_study"
+      ],
+      "supporting_locators": [
+        "S017:C01",
+        "S018:C01",
+        "S018:C02",
+        "S020:C02"
+      ],
+      "counterexample_or_boundary": "ALP in one transformed cell line is an early differentiation proxy, not functional bone or clinical integration.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_for_screening",
+    "methods_transparency": "moderate",
+    "validation_credibility": "low_to_moderate",
+    "outcome_uncertainty_reporting": "moderate",
+    "comparator_fairness": "low_to_moderate_due_to_unequal_compositions",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "Composition matrix does not isolate dopant identity from ceramic loading or dose.",
+      "Only early Saos-2 proxies and static compression modulus are tested.",
+      "No release/degradation, primary-cell, mineralization, fatigue, animal, or functional validation."
+    ],
+    "overall_credibility": "moderate_for_early_formulation_shortlisting_low_for_dopant_causality_bone_regeneration_or_translation"
+  },
+  "summary_zh": "这是一项配方筛选研究，而不是骨再生疗效验证。文章用形貌、静态压缩模量、提取液细胞毒性、Saos-2 黏附/增殖和 ALP 构成筛选漏斗，25Zn 组在当前矩阵中表现最有希望，10Cu 组则出现不利信号。核心写作边界是：不同组的生物活性玻璃总含量和掺杂量并不一致，未测离子释放，因此不能把组间差异干净归因于某一种元素；ALP 和 Saos-2 只能用于候选排序，也不能升级为骨诱导、骨整合或临床安全。机械证据同样只有压缩模量，尚缺强度、疲劳、湿态退化和器械级验证。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section.",
+    "The paper contains no finite-element, animal, or clinical experiment.",
+    "The most transferable lesson is to separate candidate selection from therapeutic validation and to expose composition confounding before causal interpretation."
+  ],
+  "selection": {
+    "selection_reason": "balanced_stratum",
+    "primary_stratum": "bone_regeneration_biomaterials",
+    "stratum_rank": 5,
+    "reading_order": 20
+  },
+  "source": {
+    "record_path": "records/PMC12193905.json.gz",
+    "source_record": "records/PMC12193905.json.gz",
+    "source_record_sha256": "4083dd5919f1c3dc3988c5c2bbc35611e9b09525b0248398cc34ab6b787bbd87",
+    "source_hash": "4083dd5919f1c3dc3988c5c2bbc35611e9b09525b0248398cc34ab6b787bbd87"
+  }
+}

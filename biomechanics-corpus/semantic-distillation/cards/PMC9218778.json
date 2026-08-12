@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9218778",
+  "paper_id": "doi:10.1002/advs.202200670",
+  "pmcid": "PMC9218778",
+  "source_record_sha256": "beecfc67f9bd5cf75b88d7d934146b3d3de76aad3c159ad9fcd8691abe69b9f9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ca19bbc78e0e6d72583cd7a9374440dd874638feacd6f2171a0c4216831132d3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cells‐Micropatterning Biomaterials for Immune Activation and Bone Regeneration",
+    "authors": "Zhang B, Han F, Wang Y, Sun Y, Zhang M, Yu X, Qin C, Zhang H, Wu C.",
+    "year": 2022,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202200670",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

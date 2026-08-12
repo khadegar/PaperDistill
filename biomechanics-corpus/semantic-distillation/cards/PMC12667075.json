@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12667075",
+  "paper_id": "doi:10.1186/s13018-025-06368-w",
+  "pmcid": "PMC12667075",
+  "source_record_sha256": "304f646ae3f39b8165521fd89b51788c0ac972d0cd17786436fdb6fe01978211",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "47fbc9a9f93a3a11aabb6e46c7eae8c9070474f7ebbe3dac36aaf80844118ed4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical analysis of the patient-specific appropriate correction angle for cervical kyphosis in multilevel anterior cervical discectomy and fusion: a finite element analysis",
+    "authors": "Lv R, Ma X, Chen H, Mao Z, Li R, Zheng Y, Zhou F, Zhao F.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-06368-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

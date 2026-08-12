@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9017375",
+  "paper_id": "doi:10.1093/rb/rbac010",
+  "pmcid": "PMC9017375",
+  "source_record_sha256": "98296177fb40107c8656fc637757cebb16e6941364123dc2254b63269816f5dd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1cb7139c15e5ae28efe3e9fc919bc179db00be8394a1f82a44e11acdee134658",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of pore interconnectivity on bone regeneration in carbonate apatite blocks",
+    "authors": "Elsheikh M, Kishida R, Hayashi K, Tsuchiya A, Shimabukuro M, Ishikawa K.",
+    "year": 2022,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbac010",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

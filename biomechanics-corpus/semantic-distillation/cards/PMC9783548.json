@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9783548",
+  "paper_id": "doi:10.3390/jcm11247328",
+  "pmcid": "PMC9783548",
+  "source_record_sha256": "d80de5c5e9b909073fef77f4224298fd516c82d494c366c358128cb553b15732",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fb46d5f6ea514fe89c6a378e527ca27b438fccbd6d6994d7dd455962aa90efb9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Clinical Study of Alveolar Bone Tissue Engineering Using Autologous Bone Marrow Stromal Cells: Effect of Optimized Cell-Processing Protocol on Efficacy",
+    "authors": "Kagami H, Inoue M, Agata H, Asahina I, Nagamura-Inoue T, Taguri M, Tojo A.",
+    "year": 2022,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm11247328",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

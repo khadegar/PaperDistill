@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9578010",
+  "paper_id": "doi:10.3389/fbioe.2022.1022310",
+  "pmcid": "PMC9578010",
+  "source_record_sha256": "5f3c102fdcf6caee90eede20ae922dc9297d16ab63546f3a9761d9b12cc99eaf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5f0e4a0b6fb3dc5fc0e3809e680f342e81f5249228ad2a8eaa68c6d5105d79dd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimal microstructure and mechanical properties of open-cell porous titanium structures produced by selective laser melting",
+    "authors": "Kulcsár K, Buzgo M, Costa PF, Zsoldos I.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1022310",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

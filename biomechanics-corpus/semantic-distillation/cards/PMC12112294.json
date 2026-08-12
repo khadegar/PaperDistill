@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12112294",
+  "paper_id": "doi:10.3390/jfb16050168",
+  "pmcid": "PMC12112294",
+  "source_record_sha256": "3ca148ef1ba51e198b68fb0426370ab66e8d06378c5ac844c719941e04b38199",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "316f70344931f55ff95cee5e59eec443dda9b7e1cb606ca967be1000183dbb4a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Analysis of Biomechanical Characteristics of Bone Tissues Using a Bayesian Neural Network: A Narrative Review",
+    "authors": "Beisekenov N, Sadenova M, Azamatov B, Syrnev B.",
+    "year": 2025,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb16050168",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

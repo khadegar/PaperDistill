@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8577583",
+  "paper_id": "doi:10.5037/jomr.2021.12304",
+  "pmcid": "PMC8577583",
+  "source_record_sha256": "9568915eeda7b35c032cd8184e4eefa3cf3635928fbc24010732b403b085798c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5bf8f3c64645111d4c88d5c2100613631a307bc12ac8fc53b39f4e311124f852",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osseointegration Aspects of Implants at the Bone Reconstruction Site by a Novel Porous Titanium Scaffold",
+    "authors": "Doi K, Kobatake R, Makihara Y, Oki Y, Umehara H, Kubo T, Tsuga K.",
+    "year": 2021,
+    "journal": "Journal of Oral & Maxillofacial Research",
+    "doi": "10.5037/jomr.2021.12304",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

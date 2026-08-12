@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12492516",
+  "paper_id": "doi:10.1186/s13005-025-00539-0",
+  "pmcid": "PMC12492516",
+  "source_record_sha256": "dbe19f473f70d43c6835bb19b3e840f87ed78477703dc6cd3f61f41816a28079",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1009100e78deb8c50b7494ce64bb6f007486422b963217292f133a4b797fc176",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Efficacy and safety analysis of endoscopic navigation-guided 3D printing technology combined with absorbable materials in the treatment of orbital blowout fractures",
+    "authors": "Ren Z, Yu J, Sang Z, Xiong C, Gan P, Jin Q, Xu Q, Liao H.",
+    "year": 2025,
+    "journal": "Head & Face Medicine",
+    "doi": "10.1186/s13005-025-00539-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8398312",
+  "paper_id": "doi:10.3390/ma14164592",
+  "pmcid": "PMC8398312",
+  "source_record_sha256": "368caf57326cd07162294fe46828c18debf2df23f83615728abbb70e24c86bf1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "504d0372cfc0d93e857c704d30f7e0032e2937c8fb102567eafa3a1abccdb2c5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical Properties of Porous Structures for Dental Implants: Experimental Study and Computational Homogenization",
+    "authors": "Jíra A, Šejnoha M, Krejčí T, Vorel J, Řehounek L, Marseglia G.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14164592",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11790160",
+  "paper_id": "doi:10.1371/journal.pone.0311210",
+  "pmcid": "PMC11790160",
+  "source_record_sha256": "0863f14f3511ba15bad4778f04e3450395b42fa42794448aa0a1f66bbc2bbc8e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "662b7985124865f328f2e45abb32ced75d7fa8245ca066b40eb97f4b47f90712",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigation of customized total knee implant with articular cartilage under loading conditions using finite element analysis",
+    "authors": "Alshewaier SA, Sikkandar MY, Almakrami AAA, Begum SS, Alassaf A, AlMohimeed I, Sundaram SM, Poojary D, Sudharsan NM, Ng EYK.",
+    "year": 2025,
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0311210",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

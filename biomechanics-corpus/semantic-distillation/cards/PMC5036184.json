@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5036184",
+  "paper_id": "doi:10.1038/srep34072",
+  "pmcid": "PMC5036184",
+  "source_record_sha256": "dc5faa478d9ddff0735d1be7031cf8b301d1d4376f5b70e0d868d84211ab5a9b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4c3c6b94d9c03f2dbf06851ed380da05380fd94f8f64c339b92e1c2fb1a5a934",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vitro and in vivo study of additive manufactured porous Ti6Al4V scaffolds for repairing bone defects",
+    "authors": "Li G, Wang L, Pan W, Yang F, Jiang W, Wu X, Kong X, Dai K, Hao Y.",
+    "year": 2016,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep34072",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

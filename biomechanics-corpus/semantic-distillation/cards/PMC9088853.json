@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9088853",
+  "paper_id": "doi:10.1039/c8ra07518b",
+  "pmcid": "PMC9088853",
+  "source_record_sha256": "23d65fa564627f67a5f7ccb1b1daad174e0320160c5896942efac2b1efdf69d3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c035a023f4bed027e22be56e12ea72a13603723b08984e1b4e2ded403fcfc7e7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vitro and in vivo evaluations of mechanical properties, biocompatibility and osteogenic ability of sintered porous titanium alloy implant",
+    "authors": "Li J, Li Z, Li R, Shi Y, Wang H, Wang Y, Jin G.",
+    "year": 2018,
+    "journal": "RSC Advances",
+    "doi": "10.1039/c8ra07518b",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8209549",
+  "paper_id": "doi:10.3389/fbioe.2021.654087",
+  "pmcid": "PMC8209549",
+  "source_record_sha256": "41e5bec8874f4f6cb4d48ff55cb38d48e786bdf548e2ff96d30e09f09559b8be",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "90fe1d9fdb7aa5adc09e4bbeda30c73d266b8ec90b043c2c75f5665560131c15",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enlightenment of Growth Plate Regeneration Based on Cartilage Repair Theory: A Review",
+    "authors": "Wang X, Li Z, Wang C, Bai H, Wang Z, Liu Y, Bao Y, Ren M, Liu H, Wang J.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.654087",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

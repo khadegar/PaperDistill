@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11804838",
+  "paper_id": "doi:10.1002/adhm.202402873",
+  "pmcid": "PMC11804838",
+  "source_record_sha256": "1239c00309cb8bd64ed43a4d5eb79cfd9fa1bb0594d0556fe00480fdc4faa381",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7a2bf4d5294cc22eb8419e8c69b4294118dc30d8d09e196e44c7a228a830aff8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biological Characterization of Ti6Al4V Additively Manufactured Surfaces: Comparison Between Ultrashort Laser Texturing and Conventional Post‐Processing",
+    "authors": "Sartori M, Bregoli C, Carniato M, Cavazza L, Maglio M, Giavaresi G, Biffi CA, Fiocchi J, Gruppioni E, Tuissi A, Fini M.",
+    "year": 2024,
+    "journal": "Advanced Healthcare Materials",
+    "doi": "10.1002/adhm.202402873",
+    "publication_type": "Comparative Study; Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

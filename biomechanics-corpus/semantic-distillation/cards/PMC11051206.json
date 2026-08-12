@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11051206",
+  "paper_id": "doi:10.3390/jfb15040094",
+  "pmcid": "PMC11051206",
+  "source_record_sha256": "3548eeb0fa2d443c3cbaf32c155080bc96beffda1a060f974a60d8d1cf505d87",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b41a49d8950af45460041b77ae30f8f6ec2c9c90317529c29adb652195cf7a6e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advancing 3D Dental Implant Finite Element Analysis: Incorporating Biomimetic Trabecular Bone with Varied Pore Sizes in Voronoi Lattices",
+    "authors": "Alemayehu DB, Todoh M, Huang SJ.",
+    "year": 2024,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb15040094",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

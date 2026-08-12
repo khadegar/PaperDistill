@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10112960",
+  "paper_id": "doi:10.1093/rb/rbad032",
+  "pmcid": "PMC10112960",
+  "source_record_sha256": "84fcb059cc2a236c8da9ff2733f73469ef2afef2cb4609d4b5d77aa0f7853396",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dcbd3c35e014a023f5ea8411893ae8b4cdebbea692ec08d3f1c4b5d34afe6f90",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing of cell-delivery scaffolds for tissue regeneration",
+    "authors": "Xue J, Qin C, Wu C.",
+    "year": 2023,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbad032",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

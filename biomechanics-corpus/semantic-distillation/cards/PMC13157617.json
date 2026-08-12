@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13157617",
+  "paper_id": "doi:10.7759/cureus.106761",
+  "pmcid": "PMC13157617",
+  "source_record_sha256": "089a637b532e5240aadbf2df8a1ee0a20f3ae196e0ebb83db1faa145bde2e9ca",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9a2cf79b74b8d5944dd3e0f881e67359f4545ae1b7c05f27e5abc2248e049364",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Periprosthetic Distal Femoral Fracture Following Total Knee Arthroplasty Associated With Anterior Femoral Notching: A Case Report",
+    "authors": "Zin NA, Zaw T, Shune Let Aung S, Maung MM, Shwe HAN, Tun T.",
+    "year": 2026,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.106761",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

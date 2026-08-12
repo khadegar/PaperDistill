@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6332599",
+  "paper_id": "doi:10.1186/s40824-018-0149-3",
+  "pmcid": "PMC6332599",
+  "source_record_sha256": "c25d56e59e744cf5cf4c41933e98fd506cae292ebcfe19388e9bdc18415b5683",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "194f6aa35dd6fef196056961360c0cb6a807bea88461970ae132797fe5065193",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioactive calcium phosphate materials and applications in bone regeneration",
+    "authors": "Jeong J, Kim JH, Shim JH, Hwang NS, Heo CY.",
+    "year": 2019,
+    "journal": "Biomaterials Research",
+    "doi": "10.1186/s40824-018-0149-3",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

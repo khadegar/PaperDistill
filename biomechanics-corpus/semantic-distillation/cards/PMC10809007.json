@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10809007",
+  "paper_id": "doi:10.1016/j.bioactmat.2023.12.020",
+  "pmcid": "PMC10809007",
+  "source_record_sha256": "4028ca3c050747a3c766370f7cefc42a7506673096681bbb2600c6bcbf033a39",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6f26521d6e393e0df04e4b556e0112e0117ac11de0bdb54f16e867edd2095d52",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Integrating coaxial electrospinning and 3D printing technologies for the development of biphasic porous scaffolds enabling spatiotemporal control in tumor ablation and osteochondral regeneration",
+    "authors": "He W, Li C, Zhao S, Li Z, Wu J, Li J, Zhou H, Yang Y, Xu Y, Xia H.",
+    "year": 2024,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2023.12.020",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

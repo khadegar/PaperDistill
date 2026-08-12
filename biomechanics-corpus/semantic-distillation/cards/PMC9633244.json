@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9633244",
+  "paper_id": "doi:10.31616/asj.2021.0424",
+  "pmcid": "PMC9633244",
+  "source_record_sha256": "929a6bd8bf84f2a3dbf936b80fbce205a75ca5b0482eb178948dbaf070645db7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "35c09aaf9298f0fa5614937afee984e090a33779ddb979ca183e5aa57788da84",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Study of Cervical Endplate Removal on Subsidence and Migration in Multilevel Anterior Cervical Discectomy and Fusion",
+    "authors": "Lin M, Paul R, Shapiro SZ, Doulgeris J, O'Connor TE, Tsai CT, Vrionis FD.",
+    "year": 2022,
+    "journal": "Asian Spine Journal",
+    "doi": "10.31616/asj.2021.0424",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10809673",
+  "paper_id": "doi:10.1186/s12891-024-07202-w",
+  "pmcid": "PMC10809673",
+  "source_record_sha256": "13cb8c0cc195fe7d7227082db6acefd8e701812ee9c468e706c0fb89db357b53",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a1454125df724b2b0ad5ab7490a7aadc9bbc4c13c509a6d9ef04aafcd822040f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing assisted MIPO for treatment of complex middle-proximal humeral shaft fractures",
+    "authors": "Hu C, Qiu B, Cen C, Luo Q, Cao Y.",
+    "year": 2024,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-024-07202-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

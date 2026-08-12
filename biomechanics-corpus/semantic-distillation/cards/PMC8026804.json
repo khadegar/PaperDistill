@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8026804",
+  "paper_id": "doi:10.1186/s40729-021-00309-y",
+  "pmcid": "PMC8026804",
+  "source_record_sha256": "cf93043a1ca8b6b590459d6ee29753f00e89b7e0bd238d8ec207cc66d38d6f03",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dd4cce20d785a8c58cfe452d5ffe9c76b7240ac0810b07b3955883b24cd9029b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of renin-angiotensin system inhibitors and beta-blockers on dental implant stability",
+    "authors": "Saravi B, Vollmer A, Lang G, Adolphs N, Li Z, Giers V, Stoll P.",
+    "year": 2021,
+    "journal": "International Journal of Implant Dentistry",
+    "doi": "10.1186/s40729-021-00309-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

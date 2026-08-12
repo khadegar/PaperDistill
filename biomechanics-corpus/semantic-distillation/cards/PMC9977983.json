@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9977983",
+  "paper_id": "doi:10.31616/asj.2021.0362",
+  "pmcid": "PMC9977983",
+  "source_record_sha256": "f5ef76592af568683848afe430ba7f5f309a1c55da991e2012cae6f4b02ed5cf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "92156efe12c3ef024bb93c6fc1c6123787c55fc2b915dfcbead8becc3d99f22d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient-Specific Drill Guide Template for Pedicle Screw Insertion into the Atlantoaxial Cervical Spine Using Stereolithographic Modeling: An In Vitro Study",
+    "authors": "Bundoc RC, Obenieta HL, Dizon DAG.",
+    "year": 2022,
+    "journal": "Asian Spine Journal",
+    "doi": "10.31616/asj.2021.0362",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10575009",
+  "paper_id": "doi:10.3390/polym15193980",
+  "pmcid": "PMC10575009",
+  "source_record_sha256": "cd1a2d6905e507bb974d310323566ed5b00283dc9e6c356d93da916bca9dc884",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "300cf90a40f7f069f94fd7e5e55ccbc79878dbfd12ae6c672047204d114f3054",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of Physicochemical Properties of a Hydroxyapatite Polymer Nanocomposite for Use in Fused Filament Fabrication",
+    "authors": "Nguyen NM, Kakarla AB, Nukala SG, Kong C, Baji A, Kong I.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15193980",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

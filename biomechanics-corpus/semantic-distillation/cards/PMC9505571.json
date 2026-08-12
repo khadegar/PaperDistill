@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9505571",
+  "paper_id": "doi:10.3390/membranes12090902",
+  "pmcid": "PMC9505571",
+  "source_record_sha256": "770995974f09596e8e7de7a8d7042f3a43bd2c04cea9d76bc3ea061628a914ca",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b53ca85bad790fa0792179d0688861630e941d50d500e6836923d8d51b0d8f97",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed and Bioprinted Membranes and Scaffolds for the Periodontal Tissue Regeneration: A Narrative Review",
+    "authors": "Sufaru IG, Macovei G, Stoleriu S, Martu MA, Luchian I, Kappenberg-Nitescu DC, Solomon SM.",
+    "year": 2022,
+    "journal": "Membranes",
+    "doi": "10.3390/membranes12090902",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

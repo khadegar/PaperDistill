@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10454183",
+  "paper_id": "doi:10.3390/ijms241612881",
+  "pmcid": "PMC10454183",
+  "source_record_sha256": "46824cfc2a2b617adb654875d8c404670f13b9620d6665a6901b31d574cd517d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ee66bd24f98f6ec09c48e1dad42a4da948705339de5412bb69a8b70977c70f74",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro and In Vivo Biological Assessments of 3D-Bioprinted Scaffolds for Dental Applications",
+    "authors": "Mohd N, Razali M, Fauzi MB, Abu Kasim NH.",
+    "year": 2023,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms241612881",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

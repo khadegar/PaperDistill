@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9139222",
+  "paper_id": "doi:10.3390/dj10050077",
+  "pmcid": "PMC9139222",
+  "source_record_sha256": "0284ca89b3d2104dcb7bf9fb9f38b6b993a8b037bdfab840cdb295e926e990ef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8b6fc3e6515687fba2fa4d623c3b504bd280ab44cc5f2d71a8fcdc91322014a1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Implant Tilting and Length on the Biomechanics of Single-Tooth Restoration: A Finite Element Analysis in Atrophic Mandible",
+    "authors": "Anitua E, Larrazabal Saez de Ibarra N, Morales Martín I, Saracho Rotaeche L.",
+    "year": 2022,
+    "journal": "Dentistry Journal",
+    "doi": "10.3390/dj10050077",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

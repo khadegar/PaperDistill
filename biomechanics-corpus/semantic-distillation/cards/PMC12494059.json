@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12494059",
+  "paper_id": "doi:10.1530/eor-2024-0155",
+  "pmcid": "PMC12494059",
+  "source_record_sha256": "f0fce847c668534c30c780e463b0f7182a5b3c4df85a9047df0b49a19f333ce8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "06791093226be3112ea2a84762e065ba42d6d0f5a7a9580f8617d464b4b9ab10",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biplanar radiographic analysis of knee alignment: a stepwise approach for phenotype classification and knee arthroplasty planning",
+    "authors": "Hiyama S, Rao RP, Takahashi T, Palan J, Pandit H.",
+    "year": 2025,
+    "journal": "EFORT Open Reviews",
+    "doi": "10.1530/eor-2024-0155",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

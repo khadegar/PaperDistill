@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8397160",
+  "paper_id": "doi:10.3390/jcm10163563",
+  "pmcid": "PMC8397160",
+  "source_record_sha256": "8786e32f3bbc9f895fdfe423300b863569b2dc4db6d8b7c5a3583154696dbf77",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "79fb98791ef3cb3034c7c996559525246a84b2962ae93ad095f34d0cbffb4b87",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Multi-Criteria Assessment Strategy for 3D Printed Porous Polyetheretherketone (PEEK) Patient-Specific Implants for Orbital Wall Reconstruction",
+    "authors": "Sharma N, Welker D, Aghlmandi S, Maintz M, Zeilhofer HF, Honigmann P, Seifert T, Thieringer FM.",
+    "year": 2021,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm10163563",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

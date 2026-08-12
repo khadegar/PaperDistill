@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10745053",
+  "paper_id": "doi:10.3390/jpm13121664",
+  "pmcid": "PMC10745053",
+  "source_record_sha256": "d3ef67077d55fd223cde47ca686ccb69c68d5e2a819c085f09b6f82a1dd343fc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dca1ed576ef054df8b851d82fd68598d3195f415945eca765eaea50069b34c85",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Virtual Surgical Planning and Patient-Specific Instruments for Correcting Lower Limb Deformities in Pediatric Patients: Preliminary Results from the In-Office 3D Printing Point of Care",
+    "authors": "Trisolino G, Depaoli A, Menozzi GC, Lerma L, Di Gennaro M, Quinto C, Vivarelli L, Dallari D, Rocca G.",
+    "year": 2023,
+    "journal": "Journal of Personalized Medicine",
+    "doi": "10.3390/jpm13121664",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

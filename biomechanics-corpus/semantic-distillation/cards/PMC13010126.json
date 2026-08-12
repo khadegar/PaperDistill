@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13010126",
+  "paper_id": "doi:10.1016/j.mtbio.2026.103007",
+  "pmcid": "PMC13010126",
+  "source_record_sha256": "08dd8f2f0f47c4a378cf7e171cd6bb94a6c90e334cf4072fab3063809861038e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7d8da42af9697dd7d1c9fe0fe84d6669d5e9dec0a71df5bfc49090f0ce4b326e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Immunomodulatory-osteogenic dual-functional nanofibers augment screw anchorage in osteoporotic bone",
+    "authors": "Jiang W, Han Z, Hou F, Li D, Wang A, Shi Y, Bao P, Hua X, Wu L, Ye T, Shen C.",
+    "year": 2026,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2026.103007",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

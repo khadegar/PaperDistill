@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12395596",
+  "paper_id": "doi:10.4317/medoral.27199",
+  "pmcid": "PMC12395596",
+  "source_record_sha256": "e047ab9f945d65e85df934598f0f07d722ef3b561236bec5664ac2b98a0ae9a8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7941d3911417d876cb76d666a1310f51200bd9729c54c04a175ee592695f9a2a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigation of the stresses on pterygoid and zygomatic implants used in atrophic maxilla rehabilitation by finite element analysis",
+    "authors": "Bakay U, Gulsun B, Guler R.",
+    "year": 2025,
+    "journal": "Medicina Oral, Patología Oral y Cirugía Bucal",
+    "doi": "10.4317/medoral.27199",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

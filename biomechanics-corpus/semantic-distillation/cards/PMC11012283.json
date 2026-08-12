@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11012283",
+  "paper_id": "doi:10.3390/jcm13071829",
+  "pmcid": "PMC11012283",
+  "source_record_sha256": "b07135695155f64c8421d175f38001d33e1700e73f555b354703c0fec4c6b3d9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "de229a3ad2de0dfafe81b5609bd74380aad35835c287eb6e159e57469f0724da",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preoperative Robotics Planning Facilitates Complex Construct Design in Robot-Assisted Minimally Invasive Adult Spinal Deformity Surgery—A Preliminary Experience",
+    "authors": "Pham MH, Hernandez NS, Stone LE.",
+    "year": 2024,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm13071829",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

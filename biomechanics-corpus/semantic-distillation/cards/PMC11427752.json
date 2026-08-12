@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11427752",
+  "paper_id": "doi:10.1093/rb/rbae095",
+  "pmcid": "PMC11427752",
+  "source_record_sha256": "d3c68ca502fed7e6759c422523ddb81f8ee89615b43e450dff65a6d04ae2b5f2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "180f7fe9de9fa5e9313e987341a5399cb048c1c2aaf021fb189e79cfe8daa04a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A comparative study on the effects of biodegradable high-purity magnesium screw and polymer screw for fixation in epiphyseal trabecular bone",
+    "authors": "Chang L, Luo Y, Li W, Liu F, Guo J, Dai B, Tong W, Qin L, Wang J, Xu J.",
+    "year": 2024,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbae095",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12689546",
+  "paper_id": "doi:10.3389/fbioe.2025.1702276",
+  "pmcid": "PMC12689546",
+  "source_record_sha256": "102a5a66dc4f365769e487503b2c3f98ae1b44209d8d768b9c31017e21d517ed",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3e4051ecd127c6eb9c41399b5484ec0c913f302c4c8a66f8cb45e1666f853989",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Custom 3D-printed split-type triflange implants for severe acetabular defects: mid-term clinical outcomes and biomechanical insights from finite element analysis",
+    "authors": "Guo Y, Feng D, Gu X, Wang L, Ding Y, Liu Y, Qin J.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1702276",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

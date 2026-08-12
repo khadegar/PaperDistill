@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8954149",
+  "paper_id": "doi:10.3390/ma15062091",
+  "pmcid": "PMC8954149",
+  "source_record_sha256": "d987838efb46b2b65abf39aa3add0f4c96273564a59cdf439de55c24d1062afb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d844747847b09da861733d2c381a8fc08195748c50312d269575d22b0ec2d7c2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of 3D Printing Parameters on the Mechanical Stability of PCL Scaffolds and the Proliferation Behavior of Bone Cells",
+    "authors": "Huber F, Vollmer D, Vinke J, Riedel B, Zankovic S, Schmal H, Seidenstuecker M.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15062091",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8240606",
+  "paper_id": "doi:10.1093/rb/rbab019",
+  "pmcid": "PMC8240606",
+  "source_record_sha256": "0ff297370f18690bc17e539317022a5bb8595e2d1c85057930314cbf958f0a8f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e58a451be954e27e8021cc80d15a5f047b98336a27b947a92ccbc45c0859e669",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mesenchymal stem cells loaded on 3D-printed gradient poly(ε-caprolactone)/methacrylated alginate composite scaffolds for cartilage tissue engineering",
+    "authors": "Cao Y, Cheng P, Sang S, Xiang C, Xiang C, An Y, Wei X, Shen Z, Zhang Y, Li P.",
+    "year": 2021,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbab019",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

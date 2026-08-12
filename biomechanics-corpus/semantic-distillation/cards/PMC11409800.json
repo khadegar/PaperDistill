@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11409800",
+  "paper_id": "doi:10.1186/s12891-024-07860-w",
+  "pmcid": "PMC11409800",
+  "source_record_sha256": "644d77d41121a8724a6a4df90db6a48f423457938cf2d9ec0b106467b0235cdb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cb0427415b4b3b540f628215f3f621d12e1fba7d1e9704e7e720116a704c893e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effects of simvastatin on the bone microstructure and mechanics of ovariectomized mice: a micro-CT and micro-finite element analysis study",
+    "authors": "Liang Y, Yuan X, Dai X, Zhang G, Li C, Yang H, Zhang T, Qin J.",
+    "year": 2024,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-024-07860-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

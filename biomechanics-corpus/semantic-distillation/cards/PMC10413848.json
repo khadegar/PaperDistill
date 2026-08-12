@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10413848",
+  "paper_id": "doi:10.1021/acsomega.3c03920",
+  "pmcid": "PMC10413848",
+  "source_record_sha256": "d2578d5a972c37d6be3397ba39781b614761fb5c86f40a0c1461f5d94e736e63",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "76ffbfcfef80e82f53ac9939bb29d8203c003ccef2e79f15c4d86bf127b5a345",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Integration of 3D Printing–Coelectrospinning: Concept Shifting in Biomedical Applications",
+    "authors": "Ghosh A, Orasugh JT, Ray SS, Chattopadhyay D.",
+    "year": 2023,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.3c03920",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

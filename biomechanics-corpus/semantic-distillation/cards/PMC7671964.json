@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7671964",
+  "paper_id": "doi:10.3389/fbioe.2020.586406",
+  "pmcid": "PMC7671964",
+  "source_record_sha256": "31b2211001b35ed1ab3a5bf0159672f12b1210e9c6304194ca723814f043ac0f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0ebb350dfe2d9aae403b13b905ab91ef897985914e245c0d70d25b6c6790f396",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Toward Biomimetic Scaffolds for Tissue Engineering: 3D Printing Techniques in Regenerative Medicine",
+    "authors": "Chung JJ, Im H, Kim SH, Park JW, Jung Y.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.586406",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

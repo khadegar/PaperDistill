@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8091180",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.01.013",
+  "pmcid": "PMC8091180",
+  "source_record_sha256": "7494946d8de8b105da517a1ee19b308b1a93b5ad2a96858d81def6938af720ed",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2f0622256ae1d3b0e4189b6b7b21d60ecc6a07fcd7d143d2a5fe03f4f3c1ff3d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D bioactive cell-free-scaffolds for in-vitro/in-vivo capture and directed osteoinduction of stem cells for bone tissue regeneration",
+    "authors": "Rahman M, Peng XL, Zhao XH, Gong HL, Sun XD, Wu Q, Wei DX.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.01.013",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

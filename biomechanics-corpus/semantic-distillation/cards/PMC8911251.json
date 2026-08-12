@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8911251",
+  "paper_id": "doi:10.3390/ma15051732",
+  "pmcid": "PMC8911251",
+  "source_record_sha256": "3eb9ce1d30b0d399bc00d32d9dcc1484e4c5ba03737aca94155d1d9fa90a1771",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "adee7199860d1abfa5108cab211a4710b58f9d9159210d80c97b44bf37652637",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modified Histopathological Protocol for Poly-ɛ-Caprolactone Scaffolds Preserving Their Trabecular, Honeycomb-like Structure",
+    "authors": "Dębski T, Wysocki J, Siennicka K, Jaroszewicz J, Szlązak K, Święszkowski W, Pojda Z.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15051732",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

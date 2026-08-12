@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9964545",
+  "paper_id": "doi:10.3390/jcm12041294",
+  "pmcid": "PMC9964545",
+  "source_record_sha256": "fddf81c0e2323eb1f4f767a2d0580a814ac4ea8e84b9a9af1b59474570cdc214",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bc299762329bb8eec76bb08f6685f33ce8facb60143d15552542968d8ace92d5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Antisclerostin Effect on Osseointegration and Bone Remodeling",
+    "authors": "Couto BADA, Fernandes JCH, Saavedra-Silva M, Roca H, Castilho RM, Fernandes GVO.",
+    "year": 2023,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm12041294",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

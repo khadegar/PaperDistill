@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10649288",
+  "paper_id": "doi:10.3390/jcm12216924",
+  "pmcid": "PMC10649288",
+  "source_record_sha256": "48077ff2217bb387d4221f883f7b81263ebfeeb189166c2604bfbe73caea0c3b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9102664a9a1f8aff858a3c72deefed0948b8dd9cb414ba9bd3280ec6236e47ea",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomaterials and Clinical Application of Dental Implants in Relation to Bone Density—A Narrative Review",
+    "authors": "Khaohoen A, Sornsuwan T, Chaijareenont P, Poovarodom P, Rungsiyakull C, Rungsiyakull P.",
+    "year": 2023,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm12216924",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

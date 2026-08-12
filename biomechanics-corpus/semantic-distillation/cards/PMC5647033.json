@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5647033",
+  "paper_id": "doi:10.3892/mmr.2017.7266",
+  "pmcid": "PMC5647033",
+  "source_record_sha256": "1ef524ae3c6c5b737d5e6486d8803ce978bba232566ddb594006e63096713ae1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "901d64aa15f233e51031dc096f33b1f8577460fba03fc2a6307575dbc79f8fee",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Adhesion, proliferation and osteogenic differentiation of mesenchymal stem cells in 3D printed poly-ε-caprolactone/hydroxyapatite scaffolds combined with bone marrow clots",
+    "authors": "Zheng P, Yao Q, Mao F, Liu N, Xu Y, Wei B, Wang L.",
+    "year": 2017,
+    "journal": "Molecular Medicine Reports",
+    "doi": "10.3892/mmr.2017.7266",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

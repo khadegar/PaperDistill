@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9463390",
+  "paper_id": "doi:10.1016/j.mtbio.2022.100412",
+  "pmcid": "PMC9463390",
+  "source_record_sha256": "479100ef5fa162ffdcedcc9bc066a4e32f80765f4b7a55dde3580111e136751f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9e8428382392cbad8621280e320faa8d1b3bd1914970f7c3b450c40b63ae7085",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Scaffolds in the microbial resistant era: Fabrication, materials, properties and tissue engineering applications",
+    "authors": "Serrano-Aroca Á, Cano-Vicent A, Sabater I Serra R, El-Tanani M, Aljabali A, Tambuwala MM, Mishra YK.",
+    "year": 2022,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2022.100412",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

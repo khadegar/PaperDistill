@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10480783",
+  "paper_id": "doi:10.1016/j.jot.2023.08.003",
+  "pmcid": "PMC10480783",
+  "source_record_sha256": "8b9787f93f408fa17a8912c0ca77ba25209fefaee6ced957972d57b108c3743a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fab827c728c5d3a0da350941d3553dca7b8a4bd039c13b65bef406c90f2bbe36",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The novel magnesium–titanium hybrid cannulated screws for the treatment of vertical femoral neck fractures: Biomechanical evaluation",
+    "authors": "Zhang Q, Chen Z, Peng Y, Jin Z, Qin L.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2023.08.003",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

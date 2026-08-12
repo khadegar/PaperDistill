@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10198909",
+  "paper_id": "doi:10.1007/s00223-023-01082-3",
+  "pmcid": "PMC10198909",
+  "source_record_sha256": "b88eeaca8b1c11cc65172c948facee1852bb31b25e8117787f1907ef60b16a7b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b16092e9d11a68e95e88916d7a87ea540fb454c8af44f1a0f94a7a65fe65c97f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Radial HR-pQCT and Finite Element Analysis in HPP Patients are Superior in Identifying Susceptibility to Fracture-Associated Skeletal Affections Compared to DXA and Laboratory Tests",
+    "authors": "Schmidt FN, Schmidt C, Delsmann J, Amling M, Barvencik F.",
+    "year": 2023,
+    "journal": "Calcified Tissue International",
+    "doi": "10.1007/s00223-023-01082-3",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

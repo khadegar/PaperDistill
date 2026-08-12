@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4392469",
+  "paper_id": "doi:10.1186/s13036-015-0001-4",
+  "pmcid": "PMC4392469",
+  "source_record_sha256": "ddbeb741b6babe4a6c62371eeed12b34fa5f34778324fd75331d6d27460b8ab2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "af3112725d53c43dd669ede541de149f6f64f5b851a05d37f353195014e402d0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent advances in 3D printing of biomaterials",
+    "authors": "Chia HN, Wu BM.",
+    "year": 2015,
+    "journal": "Journal of Biological Engineering",
+    "doi": "10.1186/s13036-015-0001-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

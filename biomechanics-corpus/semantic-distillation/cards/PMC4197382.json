@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4197382",
+  "paper_id": "doi:10.1186/1471-2474-15-312",
+  "pmcid": "PMC4197382",
+  "source_record_sha256": "02e1979a17beeb3230a29663434f8e2f3b4990f9ee3524d395e0872f7972269c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "77c998cb325150480102023767d5c00a5db1341bb673f001ab332dd13b738ff1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of stemmed and nonstemmed hip replacement on stress distribution of proximal femur and implant",
+    "authors": "Chen CM, Tsai WC, Lin SC, Tseng CS.",
+    "year": 2014,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/1471-2474-15-312",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6315002",
+  "paper_id": "doi:10.1007/s13577-018-0218-x",
+  "pmcid": "PMC6315002",
+  "source_record_sha256": "31db68387f00bd856a5df78e9092874540b19a09807a1a4dfc0120af4c88c06b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "75357a67ed7a00e5eafaae6343f05cfb5c2de1a23f14becebac71ade0866a2a1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bio-artificial bone formation model with a radial-flow bioreactor for implant therapy—comparison between two cell culture carriers: porous hydroxyapatite and β-tricalcium phosphate beads",
+    "authors": "Nomoto H, Maehashi H, Shirai M, Nakamura M, Masaki T, Mezaki Y, Park J, Aizawa M, Ohkawa K, Yoshida K, Matsuura T.",
+    "year": 2018,
+    "journal": "Human Cell",
+    "doi": "10.1007/s13577-018-0218-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

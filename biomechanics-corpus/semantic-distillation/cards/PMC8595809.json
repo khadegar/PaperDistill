@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8595809",
+  "paper_id": "doi:10.1038/s41598-021-01739-9",
+  "pmcid": "PMC8595809",
+  "source_record_sha256": "ed31041801e75113ba79098c332fe2aa7992b97b7a7de0fc7641d0be3c5bfd9b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d3f60ae54a7bd8a954b9697e734cce6f21f0ae558ef2f8a0e525bb45ce1a54ed",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced osseointegration through direct energy deposition porous coating for cementless orthopedic implant fixation",
+    "authors": "Ryu DJ, Jung A, Ban HY, Kwak TY, Shin EJ, Gweon B, Lim D, Wang JH.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-01739-9",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

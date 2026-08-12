@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10584154",
+  "paper_id": "doi:10.3389/fbioe.2023.1272348",
+  "pmcid": "PMC10584154",
+  "source_record_sha256": "77eddfd6b3b968d3a851538e825d052b0ba4bb3f1b5387cf5535541ba280c1fe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "83e43075fabc458cb1cb30ebe9d2c29b6d52a5b3d163431679c9d3755ab5f0a4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vivo characterization of 3D-printed polycaprolactone-hydroxyapatite scaffolds with Voronoi design to advance the concept of scaffold-guided bone regeneration",
+    "authors": "Laubach M, Herath B, Bock N, Suresh S, Saifzadeh S, Dargaville BL, McGovern J, Wille ML, Hutmacher DW, Medeiros Savi F.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1272348",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

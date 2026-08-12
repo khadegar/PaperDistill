@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12359860",
+  "paper_id": "doi:10.1186/s12891-025-08999-w",
+  "pmcid": "PMC12359860",
+  "source_record_sha256": "812ac7208e24f23b6e5b6874b5bb11a20e28e2c9856b71d005057cc7af9c44a8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c0802784a9070fbcd860bd68f8cac549c27af6cecda3c2440e7ace61d971e4f3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Intramedullary nailing with and without cerclage in subtrochanteric fractures: an updated systematic review and meta-analysis",
+    "authors": "Oun A, Abdelaziz O, Elhois IS, Al-Badaineh M, Zinhom K, Jabrieh G, Al-Himyari HS, Nada AA.",
+    "year": 2025,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-025-08999-w",
+    "publication_type": "Meta-Analysis; Systematic Review; review-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

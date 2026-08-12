@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10366274",
+  "paper_id": "doi:10.1007/s10237-023-01715-4",
+  "pmcid": "PMC10366274",
+  "source_record_sha256": "6c60b03c82ec37ebc4080197251dead49c00e27749d2f633a18e193d0f196d81",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9c24734b489a334d56bc79ce4aeceb876ba0a682ee645ad6e907347706168c2b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A continuum mechanical porous media model for vertebroplasty: Numerical simulations and experimental validation",
+    "authors": "Trivedi Z, Gehweiler D, Wychowaniec JK, Ricken T, Gueorguiev B, Wagner A, Röhrle O.",
+    "year": 2023,
+    "journal": "Biomechanics and Modeling in Mechanobiology",
+    "doi": "10.1007/s10237-023-01715-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

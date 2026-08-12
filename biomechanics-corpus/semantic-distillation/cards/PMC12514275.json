@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12514275",
+  "paper_id": "doi:10.1038/s41598-025-19302-1",
+  "pmcid": "PMC12514275",
+  "source_record_sha256": "fe4830228d5b052d398bab50f0f197bbebe712b8496ef61f5f8917d346a9537a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c839225af80aab94e22feb021f8765fe7b789aa4e33ff8da63dc20b918bce758",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical application research on the titanium metal metatarsal prosthesis designed through FEA and manufactured by 3D printing",
+    "authors": "Wu C, Shen D, Qin B, Deng J, Hu H, Wang X, Xu L, Li H, Yang T.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-19302-1",
+    "publication_type": "research-article; Journal Article; Case Reports",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

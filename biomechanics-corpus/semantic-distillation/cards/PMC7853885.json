@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7853885",
+  "paper_id": "doi:10.1002/cre2.334",
+  "pmcid": "PMC7853885",
+  "source_record_sha256": "e7e1dd9450defe79b233f7141f02864467487e7b8f23c8c9adb120ec375e6221",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "507c9c15cd0c0e4f927e82596691657c54f7c3f0e3eff6a479e5da28260db490",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development and evaluation of an interdisciplinary teaching model via 3D printing",
+    "authors": "Reymus M, Liebermann A, Diegritz C, Keßler A.",
+    "year": 2020,
+    "journal": "Clinical and Experimental Dental Research",
+    "doi": "10.1002/cre2.334",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

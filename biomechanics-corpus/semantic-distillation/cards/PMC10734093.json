@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10734093",
+  "paper_id": "doi:10.1186/s13018-023-04476-z",
+  "pmcid": "PMC10734093",
+  "source_record_sha256": "69047bdca79c57161f1403e90a74ab398f314b3f2680714e15154377b39fa9bf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9d6d9a1e0ba3d844c12db2481ffcb350c8dd7987149e73c1d272e3eae2b3d1a0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element mechanical analysis of ipsilateral approach and contralateral approach in unilateral bilateral endoscopic spine surgery",
+    "authors": "Li W, Han J, Xin Q, Liu Q, Feng C, Liu Y, Zhang D.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-04476-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11002918",
+  "paper_id": "doi:10.5194/jbji-9-49-2024",
+  "pmcid": "PMC11002918",
+  "source_record_sha256": "f12f5cfdee4f10fcfeeec1e81ca7dc0389fb0e7cac74ed623ce01dc25996efa7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "758be4b17f5db84fdc9733ecea057131f69819b651a4b072f2a2d4bd94635946",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of an evidence-based diagnostic algorithm for infection in patients with transcutaneous osseointegration following amputation",
+    "authors": "Alam SH, Hoellwarth JS, Tetsworth K, Oomatia A, Taylor TN, Al Muderis M.",
+    "year": 2024,
+    "journal": "Journal of Bone and Joint Infection",
+    "doi": "10.5194/jbji-9-49-2024",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

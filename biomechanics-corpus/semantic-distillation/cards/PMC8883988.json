@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8883988",
+  "paper_id": "doi:10.3390/jfmk7010013",
+  "pmcid": "PMC8883988",
+  "source_record_sha256": "5ffd2bd91efb40ceae2c1f07c87e5a0ba31d6a2632ba56fd43629d5fd7943b5d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4787b1b8480be4363ce3255144814a404c1afcafda7368a69a663a125e9abd0d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reverse Shoulder Arthroplasty Biomechanics",
+    "authors": "Roche CP.",
+    "year": 2022,
+    "journal": "Journal of Functional Morphology and Kinesiology",
+    "doi": "10.3390/jfmk7010013",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

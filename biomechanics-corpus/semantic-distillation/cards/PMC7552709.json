@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7552709",
+  "paper_id": "doi:10.3390/bioengineering7030099",
+  "pmcid": "PMC7552709",
+  "source_record_sha256": "70022333f97ab6ae60af48f82a9c0aabdb715c9a8d9ffa55f3189ee4461ff76c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0be0179ce706af57b056b6d7ec9bd2dcd812512e9113ba4be2d1297b2aaa7332",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advanced Techniques for Skeletal Muscle Tissue Engineering and Regeneration",
+    "authors": "Kang MS, Lee SH, Park WJ, Lee JE, Kim B, Han DW.",
+    "year": 2020,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering7030099",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

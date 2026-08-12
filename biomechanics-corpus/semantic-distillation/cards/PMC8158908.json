@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8158908",
+  "paper_id": "doi:10.1371/journal.pone.0252435",
+  "pmcid": "PMC8158908",
+  "source_record_sha256": "199c963cd9c06a9a22a97c15047690fa096f0ddb5939d1cd8772c3a3b68a90ee",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fe084558730a5a4a2d120460e2d0864049d18d4cb05bb757e29c500aad2666a9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Computational modelling of hip resurfacing arthroplasty investigating the effect of femoral version on hip biomechanics",
+    "authors": "Bourget-Murray J, Taneja A, Naserkhaki S, El-Rich M, Adeeb S, Powell J, Johnston K.",
+    "year": 2021,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0252435.r006",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

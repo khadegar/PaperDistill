@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11503996",
+  "paper_id": "doi:10.3390/bioengineering11101022",
+  "pmcid": "PMC11503996",
+  "source_record_sha256": "f46c9f3d08495a2759dd4991c9c29747a35732ca7cbc77e431b6187abaee2263",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3d3f51ecf07b504a38f6ea49043d02cc4e4db41987496a2526e93cdd9094b945",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Thermal Evaluation of Bone Drilling with a One-Drill Protocol",
+    "authors": "Rugova S, Abboud M.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11101022",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

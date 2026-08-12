@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12819763",
+  "paper_id": "doi:10.3389/fbioe.2025.1681077",
+  "pmcid": "PMC12819763",
+  "source_record_sha256": "79b436727312e6807711b5d71eb7b784442fe2fbee09c89118ef59f51f453b57",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "548223728b326dc10db877b2f401b1f0d8a5aed104b02a5e36722bd017aa2db4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of rear impact on the instrumented cervical spine: a finite element study",
+    "authors": "Harinathan B, Jebaseelan D, Yoganandan N.",
+    "year": 2026,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1681077",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

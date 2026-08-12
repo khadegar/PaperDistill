@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12715041",
+  "paper_id": "doi:10.1007/s00068-025-03036-w",
+  "pmcid": "PMC12715041",
+  "source_record_sha256": "e7bacaa6b0bfc442c93d2ed3b14a5e907c0a295c89262369655a9182784bf67e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "02383d8f0c1287e7cb71747b1b6df4230d16672a07b1139973cf7da21ade415d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Anatomical implant region – a critical determinant for the osteogenic potency of small extracellular vesicles and rhBMP-2",
+    "authors": "Deininger C, Wagner A, Wichlas F, Rohde E, Freude T, Deluca A, Fierlbeck J, Holzleitner M, Senck S, Tempfer H, Gimona M, Traweger A.",
+    "year": 2025,
+    "journal": "European Journal of Trauma and Emergency Surgery",
+    "doi": "10.1007/s00068-025-03036-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

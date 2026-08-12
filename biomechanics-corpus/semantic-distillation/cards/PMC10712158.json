@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10712158",
+  "paper_id": "doi:10.1186/s40001-023-01475-y",
+  "pmcid": "PMC10712158",
+  "source_record_sha256": "cf798d3c2b658b6e81b4d391011adf58c0e87346bd50ab9d77326cc7d1693c75",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "065c163c3d72602354b69eebc8a1e8ce9993c79eee8ddfd4554a873b5e47b77f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of dynamic and rigid implantation on biomechanical characteristics of different sagittal alignment lumbar after single- or double-level spinal fixations: a finite-element modeling study",
+    "authors": "Wang W, Kong C, Pan F, Wu X, Pei B, Lu S.",
+    "year": 2023,
+    "journal": "European Journal of Medical Research",
+    "doi": "10.1186/s40001-023-01475-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

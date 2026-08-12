@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8006156",
+  "paper_id": "doi:10.3390/biomimetics6010018",
+  "pmcid": "PMC8006156",
+  "source_record_sha256": "73acbb96b1f750082f29c72fb9c3642bca3fbc5a5391a354f46cf9494bbfa6b8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f25b79da660295af679d0477f068da6d8737825aefe07e50ac1fabcea986a9e9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bio-Inspired Design of a Porous Resorbable Scaffold for Bone Reconstruction: A Preliminary Study",
+    "authors": "Scerrato D, Bersani AM, Giorgio I.",
+    "year": 2021,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics6010018",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

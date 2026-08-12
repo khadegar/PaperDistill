@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12422644",
+  "paper_id": "doi:10.13107/jocr.2025.v15.i09.6054",
+  "pmcid": "PMC12422644",
+  "source_record_sha256": "e915ce2047d6cf22a1f719068831a7b03eb4189ed980da1aa2b2185ff709997a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4baf499efede40b33d9e83394f10587731eb9a8f98b612c3d9254196ab990671",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Rare Periprosthetic Fractures Following Oxford Unicompartmental Knee Arthroplasty: A Case Series of Supracondylar Femoral and Proximal Tibial Fractures",
+    "authors": "Rajani AM, Kulkarni V, Desouza C.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Case Reports",
+    "doi": "10.13107/jocr.2025.v15.i09.6054",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

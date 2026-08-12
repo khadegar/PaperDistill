@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8036866",
+  "paper_id": "doi:10.3390/polym13071099",
+  "pmcid": "PMC8036866",
+  "source_record_sha256": "b266396ff676462fcf598c3cfd7306fabf66f7210daef89cb3346ee12ff91f7a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4ad465e9b54a80d1017ba9c6379e95b032b48243d0322d7c4e9d093f019aa0c6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Bioprinted Bacteriostatic Hyperelastic Bone Scaffold for Damage-Specific Bone Regeneration",
+    "authors": "Shokouhimehr M, Theus AS, Kamalakar A, Ning L, Cao C, Tomov ML, Kaiser JM, Goudy S, Willett NJ, Jang HW, LaRock CN, Hanna P, Lechtig A, Yousef M, Martins JDS, Nazarian A, Harris MB, Mahmoudi M, Serpooshan V.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13071099",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

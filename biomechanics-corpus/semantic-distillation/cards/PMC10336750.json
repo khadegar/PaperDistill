@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10336750",
+  "paper_id": "doi:10.1021/acsbiomaterials.1c00620",
+  "pmcid": "PMC10336750",
+  "source_record_sha256": "2c0d34b667bf3cd5974e43f5ffcdf2c87abb62ca837feb80f0138b737c297334",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9bdb76ba4c2ddf1406e82b6fe66bcb6b43fe1a63af3ee154ebcd49546c3ed5da",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimetic Approaches for the Design and Fabrication of Bone-to-Soft Tissue Interfaces",
+    "authors": "Pitta Kruize C, Panahkhahi S, Putra NE, Diaz-Payno P, van Osch G, Zadpoor AA, Mirzaali MJ.",
+    "year": 2021,
+    "journal": "ACS Biomaterials Science & Engineering",
+    "doi": "10.1021/acsbiomaterials.1c00620",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

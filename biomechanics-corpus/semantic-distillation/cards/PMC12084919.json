@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12084919",
+  "paper_id": "doi:10.1186/s13018-025-05889-8",
+  "pmcid": "PMC12084919",
+  "source_record_sha256": "a4e89f0640ffd2451b4d8b618d025fd98cb9cccf78b65b798b461fd8e614ad80",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d24067871f52e384a7989bec04d0badecf633c53812b39ac270b16282f0ba0a9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Long-term clinical comparison of three different femoral stems in Total Hip Arthroplasty with femoral shortening in patients with high-riding hips",
+    "authors": "Albayrak K, Alpay Y, Turk OI, Mert M, Akbulut D, Albayrak A.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-05889-8",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

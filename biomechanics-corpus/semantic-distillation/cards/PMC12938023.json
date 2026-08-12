@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12938023",
+  "paper_id": "doi:10.3390/biomimetics11020145",
+  "pmcid": "PMC12938023",
+  "source_record_sha256": "9da55ed4b83f40714d7623da9e6c5440378c056a889f7f9e8f400786d5a6c59a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "66b73c7c7677c9159d6874a7c4caeb8b3c504dd30a7c0ba2f6bad3230b70d033",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient-Specific Lattice Implants for Segmental Femoral and Tibial Reconstruction (Part 2): CT-Based Personalization, Design Workflows and Validation—A Review",
+    "authors": "Rezapourian M, Sadat Mirhakimi A, Minasyan T, Nematollahi M, Hussainova I.",
+    "year": 2026,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics11020145",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,318 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12295659",
+  "paper_id": "doi:10.3390/jfb16070232",
+  "pmcid": "PMC12295659",
+  "source_record_sha256": "d1d61a6db40fedc0a9198a1446c50e8e065fdf638ca40587d67b7a58793bfb5d",
+  "reading": {
+    "status": "completed",
+    "packet_sha256": "04ffc0fd0a951c83452e84b6397ff28a5e019a502fc4c25e9a0a38e0fa7eecd4",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S003:C01",
+      "S004:C01",
+      "S005:C01",
+      "S006:C01",
+      "S007:C01",
+      "S007:C02",
+      "S008:C01",
+      "S009:C01",
+      "S010:C01",
+      "S011:C01",
+      "S012:C01"
+    ],
+    "omissions": [],
+    "access_level": "full_text_read",
+    "reader_role": "luna_primary",
+    "reader_model": "gpt-5.6-luna",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T15:30:00Z",
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Next-Generation Biomaterials for Load-Bearing Tissue Interfaces: Sensor-Integrated Scaffolds and Mechanoadaptive Constructs for Skeletal Regeneration",
+    "authors": "Kumar R, Sporn K, Prabhakar P, Paladugu P, Khanna A, Ngo A, Gowda C, Waisberg E, Jagadeesan R, Zaman N, Tavakkoli A.",
+    "year": 2025,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb16070232",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "narrative_review",
+    "design_features": [
+      "selective_cross-disciplinary_literature_synthesis",
+      "sensor_integrated_scaffold_concepts",
+      "mechanoadaptive_and_gradient_material_concepts",
+      "in_silico_and_device_engineering_evidence_map"
+    ],
+    "research_problem": "Load-bearing skeletal implants must handle mechanical mismatch, micromotion, infection, inflammation, degradation, and incomplete tissue regeneration. Conventional passive scaffolds do not sense the local environment or adapt their mechanics/therapy, motivating sensor-integrated, gradient, hybrid, antibacterial, and mechanoadaptive platforms.",
+    "exact_gap": "Evidence for gradient materials, hybrid composites, microsensors, infection/metabolite monitoring, multi-objective optimization, and in-silico mechanobiology is dispersed across materials science, device engineering, and biology. The review aims to connect these concepts, but clinically calibrated sensing thresholds, closed-loop intervention, long-term implant safety, and patient outcomes remain largely unresolved.",
+    "objective_or_hypothesis": "Provide a forward-looking selective synthesis of biomaterials for load-bearing tissue interfaces, emphasizing sensor-integrated scaffolds and mechanoadaptive constructs that could monitor strain, infection, biochemical state, and tissue response while tailoring stiffness, porosity, degradation, and therapy.",
+    "study_design": "Narrative review explicitly distinguished from a systematic review; a broad search of PubMed, Scopus, and Web of Science for 2013-2023 publications followed by selective synthesis of emerging material, sensor, antimicrobial, optimization, and mechanobiological concepts. No new experiment, pooled estimate, or unified cohort is reported.",
+    "sample_or_model": "Cited work spans gradient hydroxyapatite/polymer and PCL/PLGA scaffolds, ceramic/polymer/metal/natural hybrids, piezoresistive/optical/graphene/MEMS sensors, impedance/pH/oxygen/metabolite/immunosensors, antibacterial nanostructures, FEA/optimization, and agent-based or multiscale in-silico models. Study-level samples, device failure rates, and clinical cohorts are not enumerated in the packet.",
+    "comparators": [
+      "Passive homogeneous scaffolds versus gradient or mechanoadaptive constructs",
+      "Sensorless implants versus embedded strain, infection, pH, oxygen, metabolite, or immune sensors",
+      "Conventional antibiotic or antifouling strategies versus sensing-triggered release and non-leaching nanostructures",
+      "Empirical sequential parameter sweeps versus multi-objective/Pareto optimization",
+      "Static material support versus responsive degradation, shape-memory, hydrogel, or closed-loop platforms"
+    ],
+    "method_spine": [
+      "Review gradient fabrication and hybrid material systems for stiffness, porosity, degradation, bioactivity, and interfacial load transfer.",
+      "Map microsensor networks for strain/micromotion and sensor modalities for biofilm, pH, oxygen, metabolites, ions, inflammatory markers, and microfluidic sampling.",
+      "Describe antibacterial nanostructures, antifouling surfaces, ion/ROS mechanisms, and responsive release concepts.",
+      "Synthesize multi-objective optimization, personalized platforms, FEA, agent-based, and multiscale in-silico mechanobiology as predictive design tools.",
+      "Discuss regulatory and translational requirements for integrated diagnostic/therapeutic scaffolds while separating reported specifications from future promises."
+    ],
+    "validation_roles": {
+      "verification": [
+        "The review itself verifies no device, sensor, model, or fabrication batch; numerical capabilities such as gauge factor, resolution, detection limits, and channel size are reported from cited work without study-level conditions (S005:C01; S006:C01; S007:C01-S007:C02)."
+      ],
+      "calibration": [
+        "No patient- or cohort-calibrated strain, infection, pH, oxygen, metabolite, or cytokine thresholds are provided; the text describes ongoing validation and proposed reference profiles (S005:C01; S006:C01; S007:C01)."
+      ],
+      "validation": [
+        "The review cites clinical relevance and ongoing validation studies but presents no independent clinical endpoint, longitudinal sensor accuracy, false-positive/negative rate, biocompatibility dataset, or closed-loop efficacy test (S005:C01; S012:C01)."
+      ],
+      "sensitivity": [
+        "Multi-objective optimization and multiscale models are described as ways to explore trade-offs and design sensitivity, but no reproducible parameter sweep or uncertainty analysis is reported (S009:C01-S011:C01)."
+      ],
+      "application_prediction": [
+        "Theranostic scaffolds, real-time monitoring, adaptive degradation, infection-triggered therapy, and personalized load-bearing constructs are application predictions or design proposals, not outcomes measured by this review (S005:C01-S008:C01; S012:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "The review reports gradient concepts spanning osteogenic 10-20 GPa to fibrocartilaginous 0.1-1 MPa and porosity gradients from about 90% open infiltration zones to 30% load-transmission zones, with nanoindentation, digital volume correlation, Raman mapping, and EDX named as characterization tools (S003:C01).",
+      "Reported sensor capabilities include gauge factors >50, micromotion detection around 20 micrometres, optical strain resolution <0.1 micrometres, biofilm impedance detection below 10^3 CFU/cm2, pH resolution below 0.05 units, and microfluidic channels of 50-300 micrometres; these are review-reported specifications from cited studies rather than a common validation experiment (S005:C01; S006:C01; S007:C01).",
+      "The review describes pH, oxygen, glucose/lactate, ion, cytokine, and MMP sensing as potential local reference profiles for distinguishing regeneration, hypoxia, inflammation, mineralization, or degradation, but no universal threshold or patient outcome is established (S007:C01-S007:C02).",
+      "Antibacterial concepts combine mechanical membrane rupture, ion toxicity, ROS, antifouling, antimicrobial peptides, and stimuli-responsive release; claims of synergy remain conceptual unless interaction contrasts and host-safety endpoints are independently measured (S008:C01).",
+      "FEA/optimization and agent-based or multiscale models are described as predicting stress/strain distributions, cell migration/differentiation, matrix deposition, vascular ingrowth, and Pareto trade-offs, not as validated tissue outcomes (S009:C01-S011:C01)."
+    ],
+    "highest_evidence_level_reached": "Selective narrative synthesis of emerging device, materials, and computational concepts; no standardized clinical sensor validation, closed-loop therapeutic trial, unified quantitative comparison, or patient-level outcome evidence is reached."
+  },
+  "argument_map": {
+    "central_claim": "Sensor-integrated and mechanoadaptive scaffolds could extend load-bearing implants from passive supports to responsive diagnostic/therapeutic platforms by linking local mechanics, biochemical state, infection, and material adaptation, but the cited evidence remains fragmented and largely preclinical, engineering-level, or predictive.",
+    "data": [
+      "Gradient and hybrid material sections link spatial composition/porosity/mechanics to load transfer, cell fate, degradation, and interface continuity (S003:C01-S004:C01).",
+      "Sensor sections enumerate strain, micromotion, biofilm, pH, oxygen, metabolite, ion, inflammatory, and microfluidic modalities and proposed thresholds (S005:C01-S007:C02).",
+      "Optimization and in-silico sections describe Pareto solutions and predicted mechanobiological phenotypes, while the conclusion frames future personalized, responsive systems rather than reporting a clinical trial (S009:C01-S012:C01)."
+    ],
+    "warrant": "A smart-implant claim requires a traceable chain from sensing or material response to a calibrated decision, intervention, and patient-relevant outcome; sensor capability or model prediction alone does not complete that chain.",
+    "backing": [
+      "The introduction explicitly labels the article a narrative review and distinguishes it from a protocol-driven systematic review (S002:C01).",
+      "Manufacturing reproducibility, interfacial fatigue, encapsulation, telemetry, and threshold validation are acknowledged as engineering/translational challenges across sections (S003:C01; S005:C01; S012:C01)."
+    ],
+    "qualifier": "Forward-looking technology map for skeletal regeneration; confidence is higher for design concepts and measurement modalities than for clinical efficacy, safety, or closed-loop benefit.",
+    "rebuttals_or_boundaries": [
+      "Search and selection are broad but not reproducible enough to quantify coverage, study quality, or publication bias; no included-study table or denominator is provided.",
+      "Sensor specifications are not equivalent to in-vivo stability, calibration, drift resistance, biocompatibility, power/telemetry reliability, or actionable diagnostic accuracy.",
+      "Mechanoadaptive degradation, shape-memory, responsive release, and model-predicted cell/tissue outcomes are often proposed rather than demonstrated in load-bearing human implants.",
+      "Antibacterial 'synergy' requires interaction contrasts and host-safety data; combining mechanisms conceptually does not establish additive clinical infection control."
+    ],
+    "argument_coherence": "high_for_forward_looking_taxonomy_moderate_for_engineering_translation_low_for_clinical_or_theranostic_efficacy"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "The review reports cited device/material capabilities and ranges, including sensor resolution/detection limits, gradient moduli/porosities, channel dimensions, and nanostructure dimensions; these are not measurements made by the review authors and their conditions are not fully enumerated (S003:C01; S005:C01-S008:C01).",
+      "No patient, animal, or unified device cohort outcomes are measured in this review."
+    ],
+    "predicted": [
+      "FEA, multi-objective optimization, agent-based, and multiscale models predict stress/strain, material layouts, cell migration/differentiation, matrix deposition, vascular ingrowth, and evolving tissue phenotypes (S009:C01-S011:C01).",
+      "Sensor-triggered antimicrobial release, adaptive degradation, and oxygen/biochemical threshold interventions are proposed response pathways rather than demonstrated clinical predictions (S006:C01-S007:C02; S012:C01)."
+    ],
+    "inferred": [
+      "Gradient stiffness/porosity and dynamic composites are inferred to reduce stress concentrations, coordinate tissue compartments, and improve integration; direct long-term patient evidence is not shown (S003:C01-S004:C01).",
+      "Real-time strain or infection sensing is inferred to enable earlier intervention and reduce loosening/infection, but a calibrated sensor-output-to-outcome bridge is missing (S005:C01-S006:C01).",
+      "Mechanoadaptive constructs are framed as active agents in healing, yet many examples remain concept, in-vitro, model, or early validation stages (S004:C01; S011:C01-S012:C01)."
+    ],
+    "recommended": [
+      "For each sensor, report in-vivo calibration, drift, specificity, false-positive/negative rates, telemetry/power, encapsulation, and a prespecified action threshold before clinical deployment.",
+      "Validate adaptive mechanics and degradation under cyclic physiological loads with independent tissue, interface, infection, and functional endpoints rather than model outputs alone.",
+      "Test closed-loop antimicrobial or regenerative interventions with fair controls, dose/exposure tracking, host safety, and long-term implant durability.",
+      "Use multi-objective optimization with explicit Pareto constraints for mechanics, transport, manufacturability, biological integration, and clinical workflow."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Microsensor strain or micromotion readings are diagnostic proxies; they do not by themselves establish loosening, fusion, fracture healing, or revision prevention (S005:C01).",
+      "Impedance, quorum-sensing, pH, temperature, SERS, and metabolite signals are local infection/metabolic proxies; they require clinical calibration before replacing culture, imaging, or patient outcomes (S006:C01-S007:C01).",
+      "Gradient modulus, porosity, ion release, and model-predicted cell/tissue behavior are design/mechanism proxies, not direct evidence of osseointegration or load-bearing durability (S003:C01-S004:C01; S009:C01-S011:C01).",
+      "Antibacterial nanostructure activity and responsive release are not equivalent to eradication of implant infection or absence of host toxicity (S008:C01)."
+    ],
+    "overclaim_risks": [
+      "Phrases such as 'clinically demonstrated,' 'ongoing validation,' or 'theranostic' can be read as established clinical evidence even though the packet contains no trial-level outcomes or accuracy metrics (S003:C01; S005:C01; S012:C01).",
+      "A sensor detection limit or strain resolution can be mistaken for actionable diagnostic performance in a fouling, moving, degrading implant.",
+      "Mechanoadaptive degradation and model-predicted tissue phenotypes can be promoted to demonstrated healing or personalized support without independent in-vivo validation.",
+      "Combining mechanical rupture, ions, ROS, peptides, and antifouling is called synergistic in the review, but no interaction design or comparative host-safety experiment is presented (S008:C01)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Declare narrative-review scope and evidence ceiling before taxonomy",
+      "execution": "The introduction explicitly calls the work a narrative review, names PubMed/Scopus/Web of Science and the 2013-2023 window, and frames a selective synthesis rather than a systematic protocol (S002:C01).",
+      "locator": "S002:C01",
+      "effectiveness": "high",
+      "transferable_principle": "State search scope and article kind before treating a technology map as evidence of efficacy.",
+      "failure_mode": "A forward-looking review can be mistaken for a systematic consensus or clinical validation study."
+    },
+    {
+      "section": "results",
+      "move": "Separate nominal gradient/material capabilities from as-built and tissue validation",
+      "execution": "Gradient moduli, porosity, degradation, composite functions, and characterization tools are described as design capabilities while manufacturing continuity, reproducibility, and interfacial fatigue remain challenges (S003:C01-S004:C01).",
+      "locator": "S003:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "Keep intended spatial/material functions, measured as-built properties, and tissue outcomes on separate evidence rows.",
+      "failure_mode": "A designed gradient or responsive composite can be reported as a validated patient-specific interface without fidelity and durability data."
+    },
+    {
+      "section": "results",
+      "move": "Report sensor modality and resolution without silently upgrading to diagnostic action",
+      "execution": "The sensor sections list strain/micromotion, biofilm, pH, oxygen, metabolite, ion, and inflammatory capabilities, but the review does not supply a common calibration, cohort, or intervention endpoint (S005:C01-S007:C02).",
+      "locator": "S005:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For a sensorized scaffold, pair each specification with in-vivo stability, calibration, false-alarm behavior, and the clinical decision it is meant to change.",
+      "failure_mode": "Detection limit or submicron resolution is treated as proof of early loosening/infection detection or improved outcome."
+    },
+    {
+      "section": "discussion",
+      "move": "Label optimization and mechanobiological simulation as predictions",
+      "execution": "The review describes Pareto optimization and in-silico cell/tissue models as tools for exploring trade-offs and design iterations, then presents personalized responsive scaffolds as future platforms (S009:C01-S012:C01).",
+      "locator": "S011:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Use predicted stress/cell/tissue outputs to select tests and hypotheses, not as substitutes for independent tissue, safety, and patient validation.",
+      "failure_mode": "A model-predicted mechanoadaptive phenotype becomes a demonstrated regeneration or clinical benefit."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The article identifies itself as a narrative rather than systematic review and describes selective synthesis (S002:C01).",
+      "Gradient manufacturing requires spatial fidelity, continuity, reproducibility, closed-loop feedback, and regulatory quality control (S003:C01).",
+      "Sensor encapsulation, telemetry, power, and ongoing validation are presented as translational requirements rather than solved endpoints (S005:C01-S007:C02)."
+    ],
+    "reader_identified": [
+      "Search terms, exact screening flow, inclusion criteria, study-level quality/risk-of-bias assessment, and denominators are not reported beyond broad databases and a decade window.",
+      "No unified table links each sensor or mechanoadaptive construct to specimen number, in-vivo duration, calibration, drift, false positives/negatives, or patient outcome.",
+      "Many claims use forward-looking language about clinical relevance, diagnostic thresholds, and synergistic antibacterial action without interaction contrasts or clinical controls.",
+      "No fatigue, wear, degradation-product, systemic toxicity, interface fixation, or surgical-workflow evidence is synthesized at a level that supports deployment."
+    ],
+    "likely_bias_direction": [
+      "A selective emerging-technology review may overrepresent novel positive concepts and underrepresent failed prototypes, null sensor signals, and regulatory barriers.",
+      "Specifications from different devices and environments can be interpreted as interchangeable despite different packaging, calibration, and exposure conditions.",
+      "In-silico and engineering demonstrations may receive more weight than long-term tissue and patient outcomes because the field is early stage."
+    ],
+    "scope_boundary": "This paper provides a forward-looking taxonomy and design agenda for gradient, hybrid, sensor-integrated, antibacterial, and mechanoadaptive scaffolds. It does not establish clinical diagnostic accuracy, infection/loosening prevention, personalized healing, closed-loop efficacy, or long-term implant safety."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC12295659-01",
+      "capability": "Use an evidence ladder for smart scaffolds: concept/specification, as-built verification, in-vitro or model signal, in-vivo calibration, closed-loop intervention, and patient outcome.",
+      "manuscript_use": "Technology review, sensor Methods/Results, translational Discussion, and audit.",
+      "applicable_domains": [
+        "sensorized_implants",
+        "mechanobiology",
+        "skeletal_regeneration"
+      ],
+      "applicable_study_designs": [
+        "narrative_review",
+        "device_validation",
+        "in_silico_model"
+      ],
+      "supporting_locators": [
+        "S002:C01",
+        "S005:C01",
+        "S006:C01",
+        "S007:C01",
+        "S012:C01"
+      ],
+      "counterexample_or_boundary": "A gauge factor, detection limit, or model output is not an in-vivo actionable diagnostic without calibration, drift, specificity, and outcome linkage.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12295659-02",
+      "capability": "Write gradient and hybrid scaffolds as a multi-objective trade-off among load transfer, porosity/transport, degradation, manufacturability, tissue integration, and interface safety rather than as a single optimum.",
+      "manuscript_use": "Materials design rationale, optimization Results, and translational limits.",
+      "applicable_domains": [
+        "gradient_scaffold",
+        "hybrid_biomaterials",
+        "additive_manufacturing"
+      ],
+      "applicable_study_designs": [
+        "materials_review",
+        "multi_objective_optimization",
+        "scaffold_validation"
+      ],
+      "supporting_locators": [
+        "S003:C01",
+        "S004:C01",
+        "S009:C01"
+      ],
+      "counterexample_or_boundary": "A favorable predicted stress or cell signal does not resolve cyclic fatigue, delamination, release kinetics, or clinical workflow constraints.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12295659-03",
+      "capability": "Keep sensor output, intervention logic, and patient endpoint as separate arrows in a causal audit, and state the missing perturbation or validation at each arrow.",
+      "manuscript_use": "Infection/loosening monitoring, mechanoadaptive Discussion, and clinical translation.",
+      "applicable_domains": [
+        "orthopedic_sensors",
+        "infection_control",
+        "implant_mechanobiology"
+      ],
+      "applicable_study_designs": [
+        "sensor_platform",
+        "closed_loop_preclinical",
+        "clinical_validation"
+      ],
+      "supporting_locators": [
+        "S005:C01",
+        "S006:C01",
+        "S007:C01",
+        "S012:C01"
+      ],
+      "counterexample_or_boundary": "Impedance or pH change may reflect benign tissue/metabolic variation and requires specificity and outcome-linked threshold testing before therapy is triggered.",
+      "confidence": "moderate",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_to_high_for_forward_looking_taxonomy",
+    "methods_transparency": "low_to_moderate",
+    "validation_credibility": "low_for_clinical_or_closed_loop_claims_moderate_for_conceptual_device_mapping",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "low",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "Selective narrative search lacks auditable screening and risk-of-bias detail.",
+      "Sensor specifications and model predictions are not linked to standardized in-vivo calibration or patient outcomes.",
+      "Closed-loop therapy, fatigue, degradation, safety, infection specificity, and interface durability remain largely proposed or early-stage."
+    ],
+    "overall_credibility": "moderate_for_emerging_technology_taxonomy_low_for_clinical_diagnostic_theranostic_or_mechanoadaptive_efficacy"
+  },
+  "summary_zh": "这是一篇明确自称叙述性综述的前瞻性技术综述，检索PubMed、Scopus和Web of Science的2013–2023文献，但没有系统筛选、研究质量或统一样本表。文章提出梯度/复合材料、微传感器、抗菌纳米结构、多目标优化与in-silico mechanobiology可把被动支架变成响应式平台；传感器规格（应变、20 μm微动、<0.1 μm光学分辨率、<10^3 CFU/cm²阻抗检测、pH<0.05单位等）是引文中的能力/设计值，不是本综述测量，也不等于体内校准、诊断阈值或治疗收益。机制适应、感染触发释放和‘theranostic’结论仍需独立验证、闭环干预、疲劳/降解/安全与患者结局。",
+  "reader_notes": [
+    "Primary Luna reader read every non-reference packet chunk in heading order: S001:C01 through S012:C01, including both S007 chunks.",
+    "Full text explicitly supports narrative_review; metadata finite-element/in-vivo cues are navigation only and do not imply original modeling or animal validation.",
+    "Sensor/mechanoadaptive statements are separated into cited specifications, predictions, inferences, and recommendations; no clinical accuracy or outcome is promoted from a concept claim.",
+    "No references chunk was present and no substantive non-reference locator was omitted."
+  ],
+  "selection": {
+    "selection_reason": "manifest_all",
+    "primary_stratum": "additive_manufacturing",
+    "reading_order": 66
+  },
+  "source": {
+    "record_path": "records/PMC12295659.json.gz",
+    "source_record": "records/PMC12295659.json.gz",
+    "source_record_sha256": "d1d61a6db40fedc0a9198a1446c50e8e065fdf638ca40587d67b7a58793bfb5d",
+    "source_hash": "d1d61a6db40fedc0a9198a1446c50e8e065fdf638ca40587d67b7a58793bfb5d"
+  }
+}

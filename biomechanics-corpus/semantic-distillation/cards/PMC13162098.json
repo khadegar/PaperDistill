@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13162098",
+  "paper_id": "doi:10.13107/jocr.2026.v16.i05.7214",
+  "pmcid": "PMC13162098",
+  "source_record_sha256": "22a8f9502fbce032da56555abb9292f580a85cab57039fa9306a66c583cace8d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b77fbf6ce69deb61e8c8e2187b56eeee1cbef44bcf430090d02d1b732378eaa3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Aneurysmal Bone Cyst Presenting as a Pathological Subtrochanteric Femur Fracture in an Adolescent: A Case Report",
+    "authors": "Rai CR, Gavhale SV, Chandele V, Yadav AP, Torne CS, Karpe VB.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Case Reports",
+    "doi": "10.13107/jocr.2026.v16.i05.7214",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

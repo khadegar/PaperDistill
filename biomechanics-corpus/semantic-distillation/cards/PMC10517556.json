@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10517556",
+  "paper_id": "doi:10.1186/s12903-023-03370-8",
+  "pmcid": "PMC10517556",
+  "source_record_sha256": "c10479cef53b565f326bacf64ceb80193694e0d7eb22a8e4063ee20d5707d2f7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ff2ff975011adc205af0de28f0d106ff198de21b314ba387ad205cb51880a08e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigating the impact of diameters and thread designs on the Biomechanics of short implants placed in D4 bone: a 3D finite element analysis",
+    "authors": "Alqahtani AR, Desai SR, Patel JR, Alqhtani NR, Alqahtani AS, Heboyan A, Fernandes GVO, Mustafa M, Karobari MI.",
+    "year": 2023,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-023-03370-8",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

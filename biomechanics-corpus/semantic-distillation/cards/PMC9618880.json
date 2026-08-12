@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9618880",
+  "paper_id": "doi:10.3389/fbioe.2022.1010508",
+  "pmcid": "PMC9618880",
+  "source_record_sha256": "9aaac318b949ed5379cb99ba03a6cf3bfb7728545318ba9db578be96f64c4bd0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8462cdbf53c0bb6efcb80025b829c9ef91fe828257394f60f9ae2bc0b91c7282",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Efficacy comparison of Kirschner-wire tension band combined with patellar cerclage and anchor-loop plate in treatment of inferior patellar pole fracture",
+    "authors": "Du B, Ma T, Bai H, Lu Y, Xu Y, Yang Y, Zhang K, Li Z, Li M.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1010508",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

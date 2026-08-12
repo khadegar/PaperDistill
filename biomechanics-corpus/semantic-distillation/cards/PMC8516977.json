@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8516977",
+  "paper_id": "doi:10.1038/s41598-021-00024-z",
+  "pmcid": "PMC8516977",
+  "source_record_sha256": "e03c08c51561521fe79b68a937ed6e2479cffb13747ae7f73e5eb803173e0c28",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e7bd644efd60a1769cb39c559abdea60a502d31de784e0c918779b8d65079824",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multiple channels with interconnected pores in a bioceramic scaffold promote bone tissue formation",
+    "authors": "Wang X, Nie Z, Chang J, Lu ML, Kang Y.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-00024-z",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

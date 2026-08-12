@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12674936",
+  "paper_id": "doi:10.7150/thno.120711",
+  "pmcid": "PMC12674936",
+  "source_record_sha256": "46ff436726924579699cd95c1f78f634cc939d2e114c6f6d0056b0434eed39d9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8ed12076e0b273ea94afed40a64b85c5bc8bd0a664ea6aea9e9fd31efebdb406",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Sequential release of bioactive factors from functionalized metal-organic framework hydrogel enhances interfacial osseointegration of 3D-printed titanium alloy porous scaffolds",
+    "authors": "Che Z, Sheng X, Wu Y, Lin B, Song K, Chen Q, Chen A, Deng L, Chen J, Cai M.",
+    "year": 2026,
+    "journal": "Theranostics",
+    "doi": "10.7150/thno.120711",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

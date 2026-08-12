@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8375879",
+  "paper_id": "doi:10.4103/jpbs.jpbs_679_20",
+  "pmcid": "PMC8375879",
+  "source_record_sha256": "483b390f6320a2e24fc3e8f01af33180346eff7c595cde9d51d5cc9619501e90",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c9695d421bc75756c6ed3ccda229149273595c9a9bc8aac1df857f3d62fbd465",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stress Distribution in Cortical Bone around the Basal Implant – A Finite Element Analysis",
+    "authors": "Roy AK, Dixit N, Punde P, Sinha KT, Jalaluddin M, Kumar A.",
+    "year": 2021,
+    "journal": "Journal of Pharmacy & Bioallied Sciences",
+    "doi": "10.4103/jpbs.jpbs_679_20",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7544311",
+  "paper_id": "doi:10.1097/gox.0000000000003140",
+  "pmcid": "PMC7544311",
+  "source_record_sha256": "f868ff79939e695490406c7ab07b59c2ae94eaa2dcc47cc093c3acc2e6d0bdf3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d73265c4a0ef5c708a633afcfa570aaf3d18301c9a50815cd4a32b1711185873",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "“Hybrid Reconstruction” for Zygomaticomaxillary Complex Defect Using CAD/CAM: A Case Report",
+    "authors": "Mahendru S, Jain R, Garg S, Singh H, Jain A, Sarin D, Khazanchi RK.",
+    "year": 2020,
+    "journal": "Plastic and Reconstructive Surgery Global Open",
+    "doi": "10.1097/gox.0000000000003140",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

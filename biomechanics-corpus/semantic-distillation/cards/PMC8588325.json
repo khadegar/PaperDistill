@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8588325",
+  "paper_id": "doi:10.3390/s21217078",
+  "pmcid": "PMC8588325",
+  "source_record_sha256": "a25877b8f498337cc971babca2e7961ebae9c1e62bbaa42d95d08faf6d806527",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e382c038cac5f2c49a04fc09e0b07be485d921cfd8ec88392c15d2386dfb5cd0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Monitoring Bone Density Using Microwave Tomography of Human Legs: A Numerical Feasibility Study",
+    "authors": "Alkhodari M, Zakaria A, Qaddoumi N.",
+    "year": 2021,
+    "journal": "Sensors (Basel, Switzerland)",
+    "doi": "10.3390/s21217078",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

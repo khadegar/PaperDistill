@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12205424",
+  "paper_id": "doi:10.1002/ksa.12605",
+  "pmcid": "PMC12205424",
+  "source_record_sha256": "492ca1c27d463448e8c4e9a350e93ce759bb9f481827c87eb8fb3de6b88312dd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "056e42200f5c0e20b6ca44dc56d0d6368280f41cd760991d71a79d49685baa7c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Autologous bone grafting combined with spheroid‐based matrix‐induced autologous chondrocyte implantation for osteochondral defects of the knee: Good clinical outcomes alongside abnormal postoperative gait patterns",
+    "authors": "Oehme S, Milinkovic DD, Paolucci A, Krafzick S, Fahy S, Damm P, Winkler T, Jung T, Bartek B.",
+    "year": 2025,
+    "journal": "Knee Surgery, Sports Traumatology, Arthroscopy",
+    "doi": "10.1002/ksa.12605",
+    "publication_type": "other; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8050801",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.03.039",
+  "pmcid": "PMC8050801",
+  "source_record_sha256": "866c76873febe5a4c36f7427f138c5c336d205a7e725605925da2cf5cf4c1b22",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f4e723098a3f712c271f9466962073efe35fbfedf63afb100f10a901307cc7fd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mn-containing bioceramics inhibit osteoclastogenesis and promote osteoporotic bone regeneration via scavenging ROS",
+    "authors": "Li J, Deng C, Liang W, Kang F, Bai Y, Ma B, Wu C, Dong S.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.03.039",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

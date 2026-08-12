@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13080220",
+  "paper_id": "doi:10.7759/cureus.105284",
+  "pmcid": "PMC13080220",
+  "source_record_sha256": "2e2d555437445c6b5bfd6e0713c4d8ae47e8db1303885c1b8368cb3d80826949",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "639a7b9f98d13d7095b0c0009208f4e1b14d2ed85c070af20fd53ee918d23c6a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Lumbar Interbody Cages: Design Characteristics, Biomaterials, Biomechanical Performance, Clinical Challenges, and Emerging Innovations",
+    "authors": "Enache AV, Corlatescu AD, Costin HP, Ciurea AV.",
+    "year": 2026,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.105284",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

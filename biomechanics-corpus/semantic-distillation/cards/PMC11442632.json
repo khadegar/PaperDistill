@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11442632",
+  "paper_id": "doi:10.1007/s10856-024-06828-5",
+  "pmcid": "PMC11442632",
+  "source_record_sha256": "c9fa630e808200d77f6fc99e90b9519faf2d0f3a80d8479c2a9dab9dd030caed",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "677e93be1ac5cf545fe74175b59268d5a5a542d3e10d9671df5a776a24c3a829",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed polycaprolactone/gelatin/ordered mesoporous calcium magnesium silicate nanocomposite scaffold for bone tissue regeneration",
+    "authors": "Mirzavandi Z, Poursamar SA, Amiri F, Bigham A, Rafienia M.",
+    "year": 2024,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-024-06828-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

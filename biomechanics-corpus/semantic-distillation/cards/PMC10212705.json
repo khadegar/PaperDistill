@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10212705",
+  "paper_id": "doi:10.1111/cpr.13466",
+  "pmcid": "PMC10212705",
+  "source_record_sha256": "ac5fd5a2fc59e722e63c2eb2301b8b5aa65bae9fda653cf8bdb6738bfdbc0ffd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3d1f66315f400e762a15bad7add36244985b92a238d1227cff7016a45a584e4f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Scalable preparation of osteogenic micro‐tissues derived from hESC‐derived immunity‐and‐matrix‐regulatory cells within porous microcarriers in suspension culture",
+    "authors": "Ma H, Gao T, Wang L, Mohsin A, Hao J, Guo M, Wu J.",
+    "year": 2023,
+    "journal": "Cell Proliferation",
+    "doi": "10.1111/cpr.13466",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10377373",
+  "paper_id": "doi:10.3390/biomedicines11071890",
+  "pmcid": "PMC10377373",
+  "source_record_sha256": "8416114e90ec782c58a1cdc908498fa742ffbe0e80d5230fbbba89171982af87",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d50dce2ddf19ade67b3160424c879530e2eb1bfd6543c147fe55f3dc5ff57364",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication of a Smart Fibrous Biomaterial That Harbors an Active TGF-β1 Peptide: A Promising Approach for Cartilage Regeneration",
+    "authors": "Mantsou A, Papachristou E, Keramidas P, Lamprou P, Pitou M, Papi RM, Dimitriou K, Aggeli A, Choli-Papadopoulou T.",
+    "year": 2023,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines11071890",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

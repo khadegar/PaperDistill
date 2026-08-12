@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8225949",
+  "paper_id": "doi:10.3389/fbioe.2021.676867",
+  "pmcid": "PMC8225949",
+  "source_record_sha256": "a2721b917ba96a1c9298d1c7ba6a4cbf97bf25cd4fa3449e2f7be3844309afd1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f3c3e5f960f6348ae6b45e8d20aa962bfc7d612d80ba573999ef26920c716e32",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Role of the Loading Condition in Predictions of Bone Adaptation in a Mouse Tibial Loading Model",
+    "authors": "Cheong VS, Kadirkamanathan V, Dall'Ara E.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.676867",
+    "publication_type": "brief-report; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

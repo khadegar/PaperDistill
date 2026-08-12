@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7758984",
+  "paper_id": "doi:10.1021/acsomega.0c04378",
+  "pmcid": "PMC7758984",
+  "source_record_sha256": "09e2d5ae10a2b60f5559eabab5929508ccd511540cca32e17feeafabea58a587",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "305f78c2553568c686612e48c4ce2653a079fe41b9103423be7ffd2bc0762948",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Analysis and Demonstration of a Scaffold Finite Element Model for Cartilage Tissue Engineering",
+    "authors": "Sun K, Li R, Li H, Fan M, Li H.",
+    "year": 2020,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.0c04378",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

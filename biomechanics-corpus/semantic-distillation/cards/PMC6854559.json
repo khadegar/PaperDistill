@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6854559",
+  "paper_id": "doi:10.1021/acsomega.9b02580",
+  "pmcid": "PMC6854559",
+  "source_record_sha256": "c6a54fe857c89712ee2c3654ffc1f58b7f01025e7c93d68d75a3f5c3c6eda91b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "37b062f8570f7f05b6532d0bb672668bbd7c833294e2822e50e2098baa352582",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced Bone Remodeling Effects of Low-Modulus Ti–5Zr–3Sn–5Mo–25Nb Alloy Implanted in the Mandible of Beagle Dogs under Delayed Loading",
+    "authors": "Hu J, Zhong X, Fu X.",
+    "year": 2019,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.9b02580",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

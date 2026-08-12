@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8635740",
+  "paper_id": "doi:10.1063/5.0061361",
+  "pmcid": "PMC8635740",
+  "source_record_sha256": "56df13d796aa759a9c73ebadd63aac615f535059cce42f461fd0feaaa5dcc5f5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b60cc82351a27a66bf8276f5b59a64f7abd44e30ad95f1d03d100708259a593a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A suspended layer additive manufacturing approach to the bioprinting of tri-layered skin equivalents",
+    "authors": "Moakes RJA, Senior JJ, Robinson TE, Chipara M, Atansov A, Naylor A, Metcalfe AD, Smith AM, Grover LM.",
+    "year": 2021,
+    "journal": "APL Bioengineering",
+    "doi": "10.1063/5.0061361",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11497556",
+  "paper_id": "doi:10.7759/cureus.69980",
+  "pmcid": "PMC11497556",
+  "source_record_sha256": "1432489a13f3e61d16dbffc963bebeb734ff6d9a77a0b80f69938e09f6e79011",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "713767e8c15029fb75240774c1750308f3d6a600a917f2b62efbef0aa4da805f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Impact of Socket Shield and Implant Surface Modification With Platelet-Derived Growth Factor on Osseointegration",
+    "authors": "Kawadkar K, Thakare K, Parwani S, Jaiswal P, Rathod A.",
+    "year": 2024,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.69980",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

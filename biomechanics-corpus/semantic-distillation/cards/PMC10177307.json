@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10177307",
+  "paper_id": "doi:10.1177/21925682231159066",
+  "pmcid": "PMC10177307",
+  "source_record_sha256": "6d35f172fbf91a2b1564182bb2e9b2318c693048438ed5900d078f50f59d524e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f92d1ab612ca0a35cf2b05741133333f8cdcc34ec1868376b6d72fcb2d396797",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Avoiding Spinal Implant Failures in Osteoporotic Patients: A Narrative Review",
+    "authors": "Schömig F, Becker L, Schönnagel L, Völker A, Disch AC, Schnake KJ, Pumberger M.",
+    "year": 2023,
+    "journal": "Global Spine Journal",
+    "doi": "10.1177/21925682231159066",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

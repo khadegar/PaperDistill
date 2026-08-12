@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8941217",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.12.027",
+  "pmcid": "PMC8941217",
+  "source_record_sha256": "4cb8668f94a7f6a7bd4440b07b1a7ad20b0bc0446cacb870613327faaae8d16b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "51fd972e5394092bf65cbdd6053622c384330cd792be377b6ceebe0f358bb510",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additively manufactured metallic biomaterials",
+    "authors": "Davoodi E, Montazerian H, Mirhakimi AS, Zhianmanesh M, Ibhadode O, Shahabad SI, Esmaeilizadeh R, Sarikhani E, Toorandaz S, Sarabi SA, Nasiri R, Zhu Y, Kadkhodapour J, Li B, Khademhosseini A, Toyserkani E.",
+    "year": 2022,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.12.027",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

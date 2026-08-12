@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12644719",
+  "paper_id": "doi:10.1038/s41598-025-25586-0",
+  "pmcid": "PMC12644719",
+  "source_record_sha256": "c5bd2a72aee043df421fea4d4db6fdc0d0ba181dcd118376edb741f5e76b7a90",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bb0b3ab13058ece85dff7c11ededde17784f11c460b7db7af2a0d4b64c4c0abe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Frictional behavior between bone and additively manufactured Ti6Al4V implants is affected by bone density and surface texture under varying loads",
+    "authors": "Abedi A, Farahmand F, Salmanimehrjardi M, Nasiri Khonsari H.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-25586-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

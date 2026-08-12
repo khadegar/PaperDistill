@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9827197",
+  "paper_id": "doi:10.31616/asj.2021.0354",
+  "pmcid": "PMC9827197",
+  "source_record_sha256": "ecc6ba7bd3189ec1dcccd77577a3bcea714ec05a436d19df3d251fe61ea75ea1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ee7ad4b144923d9c1734fb998555a27d7e0a895d081a94a2cc69a626d08f2ea6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multicenter Prospective Study of Lateral Lumbar Interbody Fusions Using Bioactive Porous Titanium Spacers without Bone Grafts",
+    "authors": "Fujibayashi S, Takemoto M, Ishii K, Funao H, Isogai N, Otsuki B, Shimizu T, Nakamura T, Matsuda S.",
+    "year": 2022,
+    "journal": "Asian Spine Journal",
+    "doi": "10.31616/asj.2021.0354",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

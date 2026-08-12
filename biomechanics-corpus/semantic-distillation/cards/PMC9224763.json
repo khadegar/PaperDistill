@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9224763",
+  "paper_id": "doi:10.3390/jpm12060997",
+  "pmcid": "PMC9224763",
+  "source_record_sha256": "5bb09595185e11350218a5e4889b1502b81cc65c75e9d5ab97d45df29e88f810",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b049fc3629aceceb345e5d062fc4cab38b40d51c4ecc8fa28cee0bc86599f724",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Rapid Personalised Virtual Planning and On-Demand Surgery for Acute Spinal Trauma Using 3D-Printing, Biomodelling and Patient-Specific Implant Manufacture",
+    "authors": "Mobbs RJ, Parr WCH, Huang C, Amin T.",
+    "year": 2022,
+    "journal": "Journal of Personalized Medicine",
+    "doi": "10.3390/jpm12060997",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

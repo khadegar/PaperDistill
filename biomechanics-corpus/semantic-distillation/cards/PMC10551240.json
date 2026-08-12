@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10551240",
+  "paper_id": "doi:10.1093/rb/rbad083",
+  "pmcid": "PMC10551240",
+  "source_record_sha256": "db6dbfd9393ffc90126626f354b09463ad374b43209fba2684da4bdc8be4a49c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0b2c32ea05005ba085d17f3316a5fd1a62fe72034810e30cfe39aadb7ea6649f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomaterials combined with ADSCs for bone tissue engineering: current advances and applications",
+    "authors": "Song Y, Wang N, Shi H, Zhang D, Wang Q, Guo S, Yang S, Ma J.",
+    "year": 2023,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbad083",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

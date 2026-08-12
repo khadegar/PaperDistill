@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11755917",
+  "paper_id": "doi:10.1186/s41205-025-00249-y",
+  "pmcid": "PMC11755917",
+  "source_record_sha256": "ae087e3ca96440bb99622e96f2949324aee1d3db96156cc6d61ab42e44b1bb50",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "93d1703eddd9e45c0563be57974a84b72b5b0f395f12aed07d816c21e5ea1f9b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development and biomechanical evaluation of a 3D printed analogue of the human lumbar spine",
+    "authors": "Dukkipati ST, Driscoll M.",
+    "year": 2025,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-025-00249-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

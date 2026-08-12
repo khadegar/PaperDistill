@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10603949",
+  "paper_id": "doi:10.3390/biomimetics8060498",
+  "pmcid": "PMC10603949",
+  "source_record_sha256": "7837ff6364e09d8eb15886c68c19675da616125f9e74a4c690266ed3e661f5dd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b40c728f99350f6287fc9ecb71cd7a4f375637c651cfe6716aa6a46d008ca789",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimization of Fixations for Additively Manufactured Cranial Implants: Insights from Finite Element Analysis",
+    "authors": "Haque F, Luscher AF, Mitchell KS, Sutradhar A.",
+    "year": 2023,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics8060498",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10960093",
+  "paper_id": "doi:10.1016/j.jot.2024.02.002",
+  "pmcid": "PMC10960093",
+  "source_record_sha256": "f8441001482edee0bfbc0cc98aa9feeb366194c0babc6c018c6f309c14c03e5e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "90a55d1e0ed0d34b5a08cd7b62400c10106914dd7e792874ca9793530a7f9037",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The potential of sheep in preclinical models for bone infection research – A systematic review",
+    "authors": "Beagan MLC, Dreyer CH, Jensen LK, Jensen HE, Andersen TE, Overgaard S, Ding M.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2024.02.002",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

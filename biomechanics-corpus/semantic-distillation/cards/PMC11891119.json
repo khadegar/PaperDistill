@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11891119",
+  "paper_id": "doi:10.1186/s40510-025-00557-3",
+  "pmcid": "PMC11891119",
+  "source_record_sha256": "dd73b4a2a39095278b05ae5f7f9b57032442173e9001b65632fe49685ad4fa89",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "01300fdf5a15c538063e032ae15b208bf98d18a806475ebbd461063b6018d9b5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical analysis of clear aligners for mandibular anterior teeth intrusion and its clinical application in the design of new aligner attachment",
+    "authors": "Xiao S, Cheng C, Li H, Li L, Shen C, Feng Q, Zhao Y, Duan Y, Xia L, Chu F, Fang B.",
+    "year": 2025,
+    "journal": "Progress in Orthodontics",
+    "doi": "10.1186/s40510-025-00557-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11991156",
+  "paper_id": "doi:10.3390/polym17070858",
+  "pmcid": "PMC11991156",
+  "source_record_sha256": "16fcecc025f77edb87c6bd43d5fc607363c273119bf5174ae878c5a6c37061c2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "faef63ca8dfcfc00788b0b3e302f6b4a9ad8a2cc89a7aa3d6ebb010671f81d4a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed Polycaprolactone/Hydroxyapatite Bionic Scaffold for Bone Regeneration",
+    "authors": "Wang FZ, Liu S, Gao M, Yu Y, Zhang WB, Li H, Peng X.",
+    "year": 2025,
+    "journal": "Polymers",
+    "doi": "10.3390/polym17070858",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

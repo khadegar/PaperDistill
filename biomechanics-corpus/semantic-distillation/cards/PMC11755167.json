@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11755167",
+  "paper_id": "doi:10.1021/acsomega.4c09221",
+  "pmcid": "PMC11755167",
+  "source_record_sha256": "fb8ffa0d6c07a46f350a4b7c5864cfe0c7cdc238735fcaa972f8c31ee594273c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ceda41eceb762edc60c5d6a63a140cb5982057a8d46b5b5cd26dcca8b3031c9b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Oyster Shell Powder/PCL Composite Scaffolds Loaded with Psoralen Nanospheres Promote Large Bone Defect Repair",
+    "authors": "Liu T, Chen M, Zhao Y, Zhao S, Rui C, Li W, Yang F.",
+    "year": 2025,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.4c09221",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

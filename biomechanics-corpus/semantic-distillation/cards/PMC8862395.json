@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8862395",
+  "paper_id": "doi:10.1186/s13020-022-00569-9",
+  "pmcid": "PMC8862395",
+  "source_record_sha256": "6064bf8bb8497afd4c46b4c13c0c5e5940b3348af9c0c5bcfa888f627fc7ffd2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1ffb75b0fdcb5e67423aedf15d8b95ef2d0f52b3deb458325ce9328f02aaf3e1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Improvement of polydopamine-loaded salidroside on osseointegration of titanium implants",
+    "authors": "Yi Q, Liang P, Liang D, Cao L, Sha S, Jiang X, Chang Q.",
+    "year": 2022,
+    "journal": "Chinese Medicine",
+    "doi": "10.1186/s13020-022-00569-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

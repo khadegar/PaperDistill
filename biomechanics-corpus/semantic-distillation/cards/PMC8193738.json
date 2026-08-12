@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8193738",
+  "paper_id": "doi:10.3389/fbioe.2021.661469",
+  "pmcid": "PMC8193738",
+  "source_record_sha256": "771d7ac7d30320938860cf2a12118c292b3e7ebdf3eea16db7cbfcad6f2e9801",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ed7c6d5cb908de3eb6621b67a731dea62d6c59baf3991f03285a889122a9cf9a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Experimental and Computational Comparison of Intervertebral Disc Bulge for Specimen-Specific Model Evaluation Based on Imaging",
+    "authors": "Mengoni M, Zapata-Cornelio FY, Wijayathunga VN, Wilcox RK.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.661469",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

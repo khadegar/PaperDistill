@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8634467",
+  "paper_id": "doi:10.3389/fbioe.2021.757767",
+  "pmcid": "PMC8634467",
+  "source_record_sha256": "a007efe13432f900fe226032ba792eaedc153f152459c9d8ad8add17810babfa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b12202107febba04990ede7a3480f26df925c23c36f3bc6710cc7965ae6191e0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Sustained Release of VEGF to Promote Angiogenesis and Osteointegration of Three-Dimensional Printed Biomimetic Titanium Alloy Implants",
+    "authors": "Li Y, Liu Y, Bai H, Li R, Shang J, Zhu Z, Zhu L, Zhu C, Che Z, Wang J, Liu H, Huang L.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.757767",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

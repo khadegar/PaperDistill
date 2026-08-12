@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11760115",
+  "paper_id": "doi:10.1186/s12903-025-05501-9",
+  "pmcid": "PMC11760115",
+  "source_record_sha256": "860e9a32f1c1f29c6b785ed6d79577b665a317d841a71ca8c355935bd1282319",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e9a0c5ee3791a3410894ee8496fba89350cac942edd5e4b4b17019ab0aa31eb2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of stress patterns in teeth with endodontic treatment and periapical lesions as abutments for fixed prosthesis: a finite element analysis study",
+    "authors": "Koç S, Kırmalı Ö, Çelik HK.",
+    "year": 2025,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-025-05501-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

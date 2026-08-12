@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8228233",
+  "paper_id": "doi:10.3390/jpm11060498",
+  "pmcid": "PMC8228233",
+  "source_record_sha256": "8c6c6be869507aaffc6798db4e8544143029c566d8b7a469b89c2194d2fd0d77",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "45a9ca5b5c67b39f919cd14d595f4f892346179d2c49280c13b7b0ced8014996",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Opinion Piece: Patient-Specific Implants May Be the Next Big Thing in Spinal Surgery",
+    "authors": "Amin T, Parr WCH, Mobbs RJ.",
+    "year": 2021,
+    "journal": "Journal of Personalized Medicine",
+    "doi": "10.3390/jpm11060498",
+    "publication_type": "other; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

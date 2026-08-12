@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11856067",
+  "paper_id": "doi:10.3390/jfb16020039",
+  "pmcid": "PMC11856067",
+  "source_record_sha256": "749cdf9fa943322a3dfc9eafe675c67f568d0aa56d8ff70e0895ee805def898a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4d29d17c6fe0df526d891b1e9d0d62cf66911478c2e4654369057b6afc96810d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative Biomechanical Evaluation of Novel Screwless Retained Dental Implant Prosthesis: A 3D Finite Element Analysis",
+    "authors": "Lee KS, Kim J, Lim J, Ryu JJ.",
+    "year": 2025,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb16020039",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

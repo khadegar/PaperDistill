@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11620434",
+  "paper_id": "doi:10.1371/journal.pone.0314091",
+  "pmcid": "PMC11620434",
+  "source_record_sha256": "8fb54e7f4e78ae7c346239944a4fb90797f9433538a143b415599ad0564d988f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e064162c37150d2edb6c93c8eb79ff7f62b3f344350e556f296b1f252f8a7ff1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced bacteriostasis and osseointegrative properties of SiRNA-modified polyetheretherketone surface for implant applications",
+    "authors": "Liu Z, Yang L, Ni Y, Chen K, Yan Q, Zhao Z, Xu B, Li Y, Li R, Li J.",
+    "year": 2024,
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0314091.r004",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

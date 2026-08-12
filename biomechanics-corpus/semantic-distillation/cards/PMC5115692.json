@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5115692",
+  "paper_id": "doi:10.2147/ijn.s115286",
+  "pmcid": "PMC5115692",
+  "source_record_sha256": "c349b1e9f9ee9fde0417c146ced6be85617a2aa7454e5cd525c7ce4db5ec3183",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "193d0f218a91a534999517357b056884f89dee0eaba7a66be7e7734c5bddf936",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osseointegration of nanohydroxyapatite- or nano-calcium silicate-incorporated polyetheretherketone bioactive composites in vivo",
+    "authors": "Ma R, Yu Z, Tang S, Pan Y, Wei J, Tang T.",
+    "year": 2016,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s115286",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

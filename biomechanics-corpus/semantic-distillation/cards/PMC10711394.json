@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10711394",
+  "paper_id": "doi:10.1016/j.bonr.2023.101729",
+  "pmcid": "PMC10711394",
+  "source_record_sha256": "7784a1f462204ff13a1f5ba0fff8bbc08f6ac4e7461dec7b6411a2417bd9ec80",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4f4666bea74b7ce69e0a232b0da67a7c11a97632c83210cf017b399f10719d5e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Derivation, validation, and prediction of loading-induced mineral apposition rates at endocortical and periosteal bone surfaces based on fluid velocity and pore pressure",
+    "authors": "Singh S, Singh SJ, Prasad J.",
+    "year": 2023,
+    "journal": "Bone Reports",
+    "doi": "10.1016/j.bonr.2023.101729",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

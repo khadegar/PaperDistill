@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8774978",
+  "paper_id": "doi:10.3390/gels8010028",
+  "pmcid": "PMC8774978",
+  "source_record_sha256": "d876ccf0b8d742fe3c1e2e4b30f0c17c4caf39752228df31dbbc3a0f79670add",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d0739f2ab42414c8cf28a244aa5bc1d5908c0f3ee54276fd90620e67a0bd7ebd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect on Rheological Properties and 3D Printability of Biphasic Calcium Phosphate Microporous Particles in Hydrocolloid-Based Hydrogels",
+    "authors": "Herrada-Manchón H, Rodríguez-González D, Fernández MA, Kucko NW, Barrère-de Groot F, Aguilar E.",
+    "year": 2022,
+    "journal": "Gels",
+    "doi": "10.3390/gels8010028",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

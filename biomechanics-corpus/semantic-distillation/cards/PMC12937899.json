@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12937899",
+  "paper_id": "pmcid:PMC12937899",
+  "pmcid": "PMC12937899",
+  "source_record_sha256": "82cc31eea9e713b0f3bcd8bbda39fd3eb058a13c736464ddfda414204027b60d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fe043e1a30635e1c6761af4c2abe9419a33c1392c7d33b61a4658d9f51bf39b4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development and Biomechanical Evaluation of a Modular Knee Prosthesis: From Conceptual V1 Design to an Improved V3 Model",
+    "authors": "Abdreshova S, Akhmejanov S, Ozhikenov K, Zhetenbayev N, Nurgizat Y, Bizhanov D, Sultan A, Ayazbay A, Zharmagambetova M, Sergazin G.",
+    "year": 2026,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering13020201",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

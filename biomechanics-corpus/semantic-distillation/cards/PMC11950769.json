@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11950769",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101647",
+  "pmcid": "PMC11950769",
+  "source_record_sha256": "7465f7e3e5a3e58157e58696299b29496e0ec9d9831ba10564f60c716e9a14ee",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d8779426603a3bab16a1d1796a66eaecf4b3fa7fdf5011d11aa5fa696e3e575b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed intelligent photothermal conversion Nb 2 C MXene composite scaffolds facilitate the regulation of angiogenesis-osteogenesis coupling for vascularized bone regeneration",
+    "authors": "Zhang Y, Li M, Zhang H, You J, Zhou J, Ren S, Feng J, Han Y, Zhang Y, Zhou Y.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101647",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

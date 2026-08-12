@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8948711",
+  "paper_id": "doi:10.3390/gels8030163",
+  "pmcid": "PMC8948711",
+  "source_record_sha256": "50e347978d58492bd93c4c60250afbdf2c1d0463f7253bb3f70fbf5789754ee3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "71f6923b017cb00d04d107741f84c4a2d8b4bd9eb8a21a7d4f75bc75fa635880",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "PCL/Sodium-Alginate Based 3D-Printed Dual Drug Delivery System with Antibacterial Activity for Osteomyelitis Therapy",
+    "authors": "Lee JH, Park JK, Son KH, Lee JW.",
+    "year": 2022,
+    "journal": "Gels",
+    "doi": "10.3390/gels8030163",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

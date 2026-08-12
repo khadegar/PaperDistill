@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8160992",
+  "paper_id": "doi:10.3390/ma14102666",
+  "pmcid": "PMC8160992",
+  "source_record_sha256": "4a1c94fefa597827f86285c0d2f340f3e61d40aa89fa5edcdbe8cf1de2e577d6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0ecc0c302f7d4a04d09fe22c9758d609fa0b7e67d983ad628ca4e0b59ee78906",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of Dental Implants with Zirconia Crown Restorations: Conventional Cement-Retained vs. Cementless Screw-Retained",
+    "authors": "Lee JH, Jang HY, Lee SY.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14102666",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

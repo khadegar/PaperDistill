@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9872372",
+  "paper_id": "doi:10.1186/s12891-023-06182-7",
+  "pmcid": "PMC9872372",
+  "source_record_sha256": "8c68b9acac0bf6f742116a581f474708228ac53f5805992c3e369e0f49d6379b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "16c85bcd7c0d12a8f32e781e6afd28a400ac5e782b1e624994af424db6669a33",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modification to Mirels scoring system location component improves fracture prediction for metastatic disease of the proximal femur",
+    "authors": "Amendola RL, Miller MA, Kaupp SM, Cleary RJ, Damron TA, Mann KA.",
+    "year": 2023,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-023-06182-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12743289",
+  "paper_id": "doi:10.7759/cureus.97909",
+  "pmcid": "PMC12743289",
+  "source_record_sha256": "1551c1e8a312fefff0323e72b4f54883f3b51d766c8774eb9f52eac87905a5c4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8624d23306d49c4cf85fcd09db67efa008bdcdd98f3ed57de566439ae59d1f0b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical and Radiological Outcomes of Intertrochanteric Femur Fractures Treated With the Trochanteric Fixation Nail: A Prospective Observational Study From a Tertiary Care Centre in South India",
+    "authors": "Siva K, John L, Murugan K.",
+    "year": 2025,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.97909",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

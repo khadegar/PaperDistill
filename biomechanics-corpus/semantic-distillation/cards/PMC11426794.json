@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11426794",
+  "paper_id": "doi:10.4103/jpbs.jpbs_432_24",
+  "pmcid": "PMC11426794",
+  "source_record_sha256": "9f9280aa8f9497add98aeb4f848e99b6ae1eb89830b5720a17cd57cc2826a094",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "12aa6904a5c420e384b28905d05b3579fae29fa6cc8ec700ae672b9efb994411",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative Study of the Influence of Dental Implant Design on the Stress and Strain Distribution using the Finite Element Method",
+    "authors": "Sahai NS, Yadav D, Madhav S, Kumar N, Dubey A, Qadeer N, Makkad RS.",
+    "year": 2024,
+    "journal": "Journal of Pharmacy & Bioallied Sciences",
+    "doi": "10.4103/jpbs.jpbs_432_24",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

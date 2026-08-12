@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10661970",
+  "paper_id": "doi:10.3389/fbioe.2023.1279067",
+  "pmcid": "PMC10661970",
+  "source_record_sha256": "d792c2b3a8050deeb67dbfd1713321118d9428682d60fe43740c9d94a58978ae",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0624a32853af2f0552da295db51031db3b379e2c92a3f303a3e317b0edc27003",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of three implants for treating unstable femoral intertrochanteric fractures: finite element analysis in axial, bending and torsion loads",
+    "authors": "Bai H, Liu L, Duan N, Xue H, Sun L, Li M, Li Z, Zhang K, Wang Q, Huang Q.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1279067",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

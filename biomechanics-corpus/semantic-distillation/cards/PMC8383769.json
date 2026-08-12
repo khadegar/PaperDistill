@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8383769",
+  "paper_id": "doi:10.3892/etm.2021.10525",
+  "pmcid": "PMC8383769",
+  "source_record_sha256": "71a8d51e67da916cae9767ffd106e7da24ca275fedf4fddf923e376a106e8467",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b5f882f006c3dea6bcc4379d38e961889b4395552b7cdeb7d2d7713356402ccd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteogenic ability using porous hydroxyapatite scaffold-based delivery of human placenta-derived mesenchymal stem cells",
+    "authors": "Ren X, Wang Q, Liu C, Zhao Q, Zheng J, Tian K, Xu H, Mu Y.",
+    "year": 2021,
+    "journal": "Experimental and Therapeutic Medicine",
+    "doi": "10.3892/etm.2021.10525",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

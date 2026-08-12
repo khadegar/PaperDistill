@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6384960",
+  "paper_id": "doi:10.3390/ma12030485",
+  "pmcid": "PMC6384960",
+  "source_record_sha256": "c10075a01ae4a8a539c5896d22649731006f33d9776835682177749dd6ca7779",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d1319bd0eb146f3b81765f797d5ccb2415ad34378199d335b27e2b8558997211",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reactive Compatibilization of PLA/PA11 Blends and Their Application in Additive Manufacturing",
+    "authors": "Rasselet D, Caro-Bretelle AS, Taguet A, Lopez-Cuesta JM.",
+    "year": 2019,
+    "journal": "Materials",
+    "doi": "10.3390/ma12030485",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

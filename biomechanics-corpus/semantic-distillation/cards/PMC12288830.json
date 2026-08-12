@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12288830",
+  "paper_id": "doi:10.1002/adma.202504475",
+  "pmcid": "PMC12288830",
+  "source_record_sha256": "2bf2c2530ba09695232f0e650dc382509d2084ad3d19b236acc82cf070cc1ef2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dd12ea9e8ce3c5185cd5c9fdb61825b9672b9b5e2eace4c45097cae488fa33db",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioactive Glass Microscaffolds Fabricated by Two‐Photon Lithography",
+    "authors": "Hambitzer L, Hornbostel JM, Roolfs L, Prediger R, Kluck S, Zheng K, Lee-Thedieck C, Kotz-Helmer F.",
+    "year": 2025,
+    "journal": "Advanced Materials (Deerfield Beach, Fla.)",
+    "doi": "10.1002/adma.202504475",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

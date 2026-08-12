@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12183841",
+  "paper_id": "doi:10.1186/s40001-025-02785-z",
+  "pmcid": "PMC12183841",
+  "source_record_sha256": "5740f59fd83ac596abae2cef8696fbfc88f534bc04996e841fd90de581689f2c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "21cb1072a59de8c054762436c38d7d622063f6b83452513d5ed9f317817c1f3b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of percutaneous uniplanar screw fixation in the treatment of thoracolumbar fractures",
+    "authors": "Cao S, Xuan T, Zhang C, Zhang Y.",
+    "year": 2025,
+    "journal": "European Journal of Medical Research",
+    "doi": "10.1186/s40001-025-02785-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

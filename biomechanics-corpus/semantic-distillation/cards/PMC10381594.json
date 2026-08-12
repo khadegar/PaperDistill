@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10381594",
+  "paper_id": "doi:10.3390/jpm13071145",
+  "pmcid": "PMC10381594",
+  "source_record_sha256": "97adc663d300376d803b830e0f4dba3027e53fcef9fdfc08af0d52626cd9cc6c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "edd93a9f71f68260f7ccc876ca5ae23494e91bdab96fa3ff14b99673cfd23ff6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Clinical Efficacy of Contouring Periarticular Plates on a 3D Printed Bone Model",
+    "authors": "Sakong SY, Cho JW, Kim BS, Park SJ, Lim EJ, Oh JK.",
+    "year": 2023,
+    "journal": "Journal of Personalized Medicine",
+    "doi": "10.3390/jpm13071145",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

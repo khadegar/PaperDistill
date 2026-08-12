@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8892476",
+  "paper_id": "doi:10.1021/acsomega.1c06679",
+  "pmcid": "PMC8892476",
+  "source_record_sha256": "400bc37d5928b96f77088b4820308d07a449ff5e8cb6d166c8f7508474b8477e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7b3aa3c5e23e7d46ef5ffda05b23bba210af951329dbfcda3d562a4d9e1490be",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Assessing the 3D Printability of an Elastomeric Poly(caprolactone- co -lactide) Copolymer as a Potential Material for 3D Printing Tracheal Scaffolds",
+    "authors": "V G R, Wilson J, V Thomas L, Nair PD.",
+    "year": 2022,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.1c06679",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

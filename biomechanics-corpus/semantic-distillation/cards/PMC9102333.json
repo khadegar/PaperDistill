@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9102333",
+  "paper_id": "doi:10.3390/polym14091633",
+  "pmcid": "PMC9102333",
+  "source_record_sha256": "c2e8d641ac2ebb2573d51f183bfb48f831c2a9c5e6650e6fbfd08ded48141d4b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "48c9478b9995045491f6439690bb0e3bb438bc89f8967114f9aa5e529923cfc5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Immobilization of Collagen on the Surface of a PEEK Implant with Monolayer Nanopores",
+    "authors": "Kim H, Lee YH, Kim NK, Kang IK.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14091633",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8961049",
+  "paper_id": "doi:10.1002/elsc.202100100",
+  "pmcid": "PMC8961049",
+  "source_record_sha256": "7939d975716388b82801a2064dbc0b0582bb7e18ff22a0b9c5187eec811ca190",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d775f3a1f6a5b1fd86101262ba69e24d110655eea9284e654cde42e195356e00",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Vascular implants – new aspects for in situ tissue engineering",
+    "authors": "Blume C, Kraus X, Heene S, Loewner S, Stanislawski N, Cholewa F, Blume H.",
+    "year": 2022,
+    "journal": "Engineering in Life Sciences",
+    "doi": "10.1002/elsc.202100100",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

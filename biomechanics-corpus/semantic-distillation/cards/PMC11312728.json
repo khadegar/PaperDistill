@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11312728",
+  "paper_id": "doi:10.3390/ma17153796",
+  "pmcid": "PMC11312728",
+  "source_record_sha256": "591ce9863efed5aba24921e2b816a2970be8e920a818783539ff3b58b64115cc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "50c284e1b61614ba2ddcd7626532f359b5fff98938b0c950731ce4ff2aa9e5bb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Numerical Investigation of Fatigue Behavior in Ti-6Al-4V Orthopedic Hip Implants Subjected to Different Environments",
+    "authors": "Smoljanić T, Milović L, Sedmak S, Milovanović A, Čolić K, Radaković Z, Sedmak A.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17153796",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7229563",
+  "paper_id": "doi:10.1155/2020/2363298",
+  "pmcid": "PMC7229563",
+  "source_record_sha256": "10a174ca2b263f9e3826c490166dbb77e0c8ef6ce04e409a8f3fa579779cfe95",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "777f86b82b67a3e024de329a7a7dc76aa519cff80577b204eb6e7d71b13fcc98",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Behavior of Bioactive Material in Dental Implant: A Three-Dimensional Finite Element Analysis",
+    "authors": "Patil V, Naik N, Gadicherla S, Smriti K, Raju A, Rathee U.",
+    "year": 2020,
+    "journal": "The Scientific World Journal",
+    "doi": "10.1155/2020/2363298",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

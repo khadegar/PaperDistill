@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11378568",
+  "paper_id": "doi:10.1186/s13018-024-04957-9",
+  "pmcid": "PMC11378568",
+  "source_record_sha256": "22222e08b89ed5f2bf9b0be1323b869e0b64bf9c5cd55be1148700d9880cb08d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f72857cb0a8ebc9048f3a02bd3278b92e5099bd5bb143028e62c93d68ae46479",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Semi-automated finite element analyses of surgically treated acetabular fractures to investigate the biomechanical behaviour of patient-specific compared to conventional implants",
+    "authors": "Oldhoff MGE, Kamal Z, Ten Duis K, Wubs FW, de Vries JPPM, Kraeima J, IJpma FFA.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-04957-9",
+    "publication_type": "Comparative Study; research-article; Journal Article; Case Reports",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

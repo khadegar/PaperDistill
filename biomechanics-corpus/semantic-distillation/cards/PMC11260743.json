@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11260743",
+  "paper_id": "doi:10.3389/fbioe.2024.1407512",
+  "pmcid": "PMC11260743",
+  "source_record_sha256": "b4ceca8a0baf61c68c872046e61ac04469ddf7f6f05984d2f2abd38d0909f4cc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cf2d97d4326fdc7d847685ead52829914e06dca850d76bbab9faff1971a92e2d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed Mg-incorporated PCL-based scaffolds improves rotator cuff tendon-bone healing through regulating macrophage polarization",
+    "authors": "Wang T, Yu Z, Lin S, Chen Z, Jin H, Liang L, Zhang ZY.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1407512",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

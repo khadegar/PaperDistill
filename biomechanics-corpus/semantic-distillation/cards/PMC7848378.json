@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7848378",
+  "paper_id": "doi:10.1002/sctm.19-0385",
+  "pmcid": "PMC7848378",
+  "source_record_sha256": "0575975fcb60b6c85a3ffd93ea8e5b4ffc2396c4a0dec89f07636ac0bcaac7ae",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e5637d4503dced7ed0c8526252e3697107c1cf916a14b784fc3b3e12dabb06bf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tissue‐specific mesenchymal stem cell‐dependent osteogenesis in highly porous chitosan‐based bone analogs",
+    "authors": "Midha S, Jain KG, Bhaskar N, Kaur A, Rawat S, Giri S, Basu B, Mohanty S.",
+    "year": 2020,
+    "journal": "Stem Cells Translational Medicine",
+    "doi": "10.1002/sctm.19-0385",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

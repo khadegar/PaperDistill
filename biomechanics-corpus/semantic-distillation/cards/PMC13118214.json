@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13118214",
+  "paper_id": "doi:10.3390/jfb17040181",
+  "pmcid": "PMC13118214",
+  "source_record_sha256": "09c8bcb2b0cf47d7cea9cfa70835c29214cfd54b7c5eacaf707c451b83e618ba",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "524d33427f5a76bdb3c83621ae8eabd8523ceafab65a211f2086ecb1f3cb3137",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteogenic and Anti-Inflammatory Effects of Strontium-Loaded Polydopamine on Micro-Arc Oxidized Titanium Surfaces",
+    "authors": "Yang Y, Liu R, Zhou Y, Yuan L, Li Z, Liao Q, Fang B.",
+    "year": 2026,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb17040181",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10367419",
+  "paper_id": "doi:10.3389/fbioe.2023.1198545",
+  "pmcid": "PMC10367419",
+  "source_record_sha256": "62dfe0a74e72786a5d2091e26e067e5f747feae36732e04c734445a6284ae9d8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cbc8a62fbc59b1208673cefb849eb45d5caee8e769fd7edb85ea1ecafc58b857",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone marrow stromal cell-derived exosome combinate with fibrin on tantalum coating titanium implant accelerates osseointegration",
+    "authors": "Cui JT, Wang XY, Mu XD, Huang M, Wang YD, Luo Q, He HX.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1198545",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

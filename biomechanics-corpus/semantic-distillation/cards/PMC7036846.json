@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7036846",
+  "paper_id": "doi:10.3390/ijms21030783",
+  "pmcid": "PMC7036846",
+  "source_record_sha256": "35c3f92c82154642a1f4b4ffa94a68bec16c46289e8045a1cef40081d64633c7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e94b9dd8617fbe73940ac848083430265f8fa8fc5bfec79f387cea37b991ec27",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Newly Created Meso-, Micro-, and Nano-Scale Rough Titanium Surface Promotes Bone-Implant Integration",
+    "authors": "Hasegawa M, Saruta J, Hirota M, Taniyama T, Sugita Y, Kubo K, Ishijima M, Ikeda T, Maeda H, Ogawa T.",
+    "year": 2020,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms21030783",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

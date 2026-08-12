@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11764406",
+  "paper_id": "doi:10.3390/cells14020130",
+  "pmcid": "PMC11764406",
+  "source_record_sha256": "b5eea5485e223eb6b033a5bfa35145de4237906379a17dfa00b6175100802758",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5a0439fdc063296ea61a7609aed1f9d3fe5bd4eb1d9a571458e7ed2f68f79b00",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of High Glucose on Bone Collagenous Matrix Composition, Structure, and Organization: An Integrative Analysis Using an Ex Vivo Model",
+    "authors": "Araújo R, Páscoa RNMJ, Bernardino R, Gomes PS.",
+    "year": 2025,
+    "journal": "Cells",
+    "doi": "10.3390/cells14020130",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9107272",
+  "paper_id": "doi:10.1186/s13018-022-03143-z",
+  "pmcid": "PMC9107272",
+  "source_record_sha256": "9aec27066539edce457da00aefe6031e889c5c13411ce491e2b506856822eaf1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9b2b866a46d81237a360605344c7a55405481d5c3048d9b8b595013cb2a14e76",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical study of oblique lumbar interbody fusion (OLIF) augmented with different types of instrumentation: a finite element analysis",
+    "authors": "Cai XY, Bian HM, Chen C, Ma XL, Yang Q.",
+    "year": 2022,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-022-03143-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

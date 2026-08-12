@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10483819",
+  "paper_id": "pmcid:PMC10483819",
+  "pmcid": "PMC10483819",
+  "source_record_sha256": "bc5f4e7819974e0905c25784009e73f71f570f3fd1837ac582b2159d7752307d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "175beaa9cfb5c6d04a134e6983fedfdca72cf15c65e51e1e446f89f96ee153a2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Novel Methodology to Estimate Bone Mechanical Properties Using Dual-Energy Imaging to Improve Pedicle Screw Fixation",
+    "authors": "Solorzano Barrera C, Villemure I, Aubin CÉ.",
+    "year": 2023,
+    "journal": "Journal of Musculoskeletal & Neuronal Interactions",
+    "doi": null,
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

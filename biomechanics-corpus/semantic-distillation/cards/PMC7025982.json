@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7025982",
+  "paper_id": "doi:10.1002/cre2.255",
+  "pmcid": "PMC7025982",
+  "source_record_sha256": "4918b72a81b450be1e6f789525102a1bc466184208abf28fc15d20775e382087",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "79b214369e0972e52e9a75e90aa8d6e930c3d787f4b2f5ee249b7fd2de137f23",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A diet high in fat and fructose adversely affects osseointegration of titanium implants in rats",
+    "authors": "King S, Baptiston Tanaka C, Ross D, Kruzic JJ, Levinger I, Klineberg I, Brennan-Speranza TC.",
+    "year": 2019,
+    "journal": "Clinical and Experimental Dental Research",
+    "doi": "10.1002/cre2.255",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

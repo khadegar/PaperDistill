@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11265588",
+  "paper_id": "doi:10.1016/j.mtbio.2024.101141",
+  "pmcid": "PMC11265588",
+  "source_record_sha256": "6f41ae65d6f3ee5066ac897ae9e83ac5e0f7c2999f6e005bb78df8daea2c5348",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7c26b16ba9b72533e828d42a6eccbb5da38b9681415444d56ca1f53e2726f8ab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing tissue-engineered scaffolds for auricular reconstruction",
+    "authors": "Gao S, Nie T, Lin Y, Jiang L, Wang L, Wu J, Jiao Y.",
+    "year": 2024,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2024.101141",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

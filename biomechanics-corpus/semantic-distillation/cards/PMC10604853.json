@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10604853",
+  "paper_id": "doi:10.3390/bioengineering10101180",
+  "pmcid": "PMC10604853",
+  "source_record_sha256": "a5319e2a204518bc0c2bb662fa7c02ad981d823660df6ebdb8a1e39f9a13f87c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7cc775781d268daf6dae008e8fb218657582bb45a201c42a1a6ea687bfe973c2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluating the Feasibility and Reproducibility of a Novel Insertion Method for Modular Acetabular Ceramic Liners",
+    "authors": "Hunger S, Seidler A, Rotsch C, Heyde CE, Drossel WG.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10101180",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8626041",
+  "paper_id": "doi:10.3390/ma14226804",
+  "pmcid": "PMC8626041",
+  "source_record_sha256": "897ee399ca65fddb801e506a2e0b734040dbbda6f77b392e850556effc3ad05a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a5f95fc726adc8ae090d66176c9cbd783250447c495be1efe0fef66e7a4189ca",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Approximate Optimization Study of Light Curing Waterborne Polyurethane Materials for the Construction of 3D Printed Cytocompatible Cartilage Scaffolds",
+    "authors": "Chen YW, Shie MY, Chang WC, Shen YF.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14226804",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9468950",
+  "paper_id": "doi:10.18063/ijb.v8i3.556",
+  "pmcid": "PMC9468950",
+  "source_record_sha256": "cee6b8ab754645793317f9ca66c65f2ba3c0eace7eb8d4af9197b33b944117d4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "78d867f13bf72c8c80e7d570082e81959fca7972414f655743ed81800f003153",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additively Manufactured Multi-Morphology Bone-like Porous Scaffolds: Experiments and Micro-Computed Tomography-Based Finite Element Modeling Approaches",
+    "authors": "Noroozi R, Tatar F, Zolfagharian A, Brighenti R, Shamekhi MA, Rastgoo A, Hadi A, Bodaghi M.",
+    "year": 2022,
+    "journal": "International Journal of Bioprinting",
+    "doi": "10.18063/ijb.v8i3.556",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

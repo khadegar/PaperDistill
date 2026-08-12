@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11818585",
+  "paper_id": "doi:10.3390/jcm14030938",
+  "pmcid": "PMC11818585",
+  "source_record_sha256": "ac962ca15da1342ec5c9edaac83a466c46cecb1e14bf891c6cd4e6879115aa03",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fe0b85055998a34cdc92ece4c5b1215d4a1dd0875dc98507d0eebb0e12711619",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Use of Highly Porous 3-D-Printed Titanium Acetabular Cups in Revision Total Hip Arthroplasty: A Systematic Review and Meta-Analysis",
+    "authors": "Almeida PR, Macpherson GJ, Simpson P, Gaston P, Clement ND.",
+    "year": 2025,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm14030938",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

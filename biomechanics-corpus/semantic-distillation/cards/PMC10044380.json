@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10044380",
+  "paper_id": "doi:10.1186/s13018-023-03736-2",
+  "pmcid": "PMC10044380",
+  "source_record_sha256": "5f9b0f775a44307ae07c3cebbf399f4c4ca97d7aefaf49a8cedb80b833d2521e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a6c2d4d8bc555df31b245d0d66e84b2b707c54c888052778b436ebdc3956aba0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of a healed acetabulum with internal fixators: finite element analysis",
+    "authors": "Duan P, Ding X, Xiong M, Wang P, Xu S, Du W.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-03736-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

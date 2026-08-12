@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11010742",
+  "paper_id": "doi:10.1177/20417314241244997",
+  "pmcid": "PMC11010742",
+  "source_record_sha256": "3e3e40d09cd9bdf907e724baa7b4994e2d141f2eb616cdb1fad9f6bcb937b7c8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5ec6698b2c23250fed69efac56bfa7e9ca755b5b0c1e9cc6c092ff95866bc29b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additively manufactured bioceramic scaffolds based on triply periodic minimal surfaces for bone regeneration",
+    "authors": "Zhu H, Wang J, Wang S, Yang Y, Chen M, Luan Q, Liu X, Lin Z, Hu J, Man K, Zhang J.",
+    "year": 2024,
+    "journal": "Journal of Tissue Engineering",
+    "doi": "10.1177/20417314241244997",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

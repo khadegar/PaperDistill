@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10354748",
+  "paper_id": "doi:10.1021/acsabm.3c00145",
+  "pmcid": "PMC10354748",
+  "source_record_sha256": "ea005e9686570d8505a18ba74954a553d9a0cdd611f1da2bb9e018ee56bc9af8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4293e5e1e26b961b8ee5e981a2b5b41d22751d80329f7fb61f88de5d9dc828fd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Auxeticity as a Mechanobiological Tool to Create Meta-Biomaterials",
+    "authors": "Yarali E, Zadpoor AA, Staufer U, Accardo A, Mirzaali MJ.",
+    "year": 2023,
+    "journal": "ACS Applied Bio Materials",
+    "doi": "10.1021/acsabm.3c00145",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

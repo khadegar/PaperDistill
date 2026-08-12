@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9225172",
+  "paper_id": "doi:10.3390/jfb13020072",
+  "pmcid": "PMC9225172",
+  "source_record_sha256": "f257c375cddff24a7860224e0061bc1b385053c218473ba92173180cf1b7df5c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "800cc35f0270a349780ed83db87e93e156ee5df5bfa2c8709350b91f9445ad63",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biodegradable Iron and Porous Iron: Mechanical Properties, Degradation Behaviour, Manufacturing Routes and Biomedical Applications",
+    "authors": "Salama M, Vaz MF, Colaço R, Santos C, Carmezim M.",
+    "year": 2022,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb13020072",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

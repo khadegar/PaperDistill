@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8913485",
+  "paper_id": "doi:10.1007/s00701-021-05077-7",
+  "pmcid": "PMC8913485",
+  "source_record_sha256": "7f50a8f31ee045d1201d591bc72fc7d0d7dead85bdc93bd6e602c14fc5b3f884",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e728aede4b3ecb027edc84401f5da05d66f440e3a36cbb7d9493f34ccbe99c11",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The “springform” technique in cranioplasty: custom made 3D-printed templates for intraoperative modelling of polymethylmethacrylate cranial implants",
+    "authors": "Pöppe JP, Spendel M, Schwartz C, Winkler PA, Wittig J.",
+    "year": 2021,
+    "journal": "Acta Neurochirurgica",
+    "doi": "10.1007/s00701-021-05077-7",
+    "publication_type": "brief-report; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

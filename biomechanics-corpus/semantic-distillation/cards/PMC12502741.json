@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12502741",
+  "paper_id": "doi:10.1128/spectrum.00410-25",
+  "pmcid": "PMC12502741",
+  "source_record_sha256": "ee23630affed3ae56f2648df4dbb9e4292f6da83c3fc3af19a94e3744f00dfa6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c84884656b6f2b2d744f9523a041ff8755ec5d38973c4b85f50b207d0c7b029e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biofilm development of Porphyromonas gingivalis on titanium surfaces in response to 1,4-dihydroxy-2-naphthoic acid—a hybrid in vitro – in silico approach",
+    "authors": "Mukherjee R, Klempt F, Fuchs F, Doll-Nikutta K, Soleimani M, Wriggers P, Junker P, Stiesch M, Szafrański SP.",
+    "year": 2025,
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00410-25",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

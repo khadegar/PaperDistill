@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10169346",
+  "paper_id": "doi:10.1186/s42836-023-00177-4",
+  "pmcid": "PMC10169346",
+  "source_record_sha256": "40081f1a8b75b9588add89a071c91cfee530df57c4e9f82a06ab1d0b84e7e449",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "63bbd0c1f9f70db6f12dd2c9ac4983a009b72db8edd07c57af88f6f59ffaaf5f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Early clinical and radiological outcomes of the new porous titanium shell in combination with locking screw in revision total hip arthroplasty",
+    "authors": "Shaarani SR, Jaibaji M, Yaghmour KM, Vles G, Haddad FS, Konan S.",
+    "year": 2023,
+    "journal": "Arthroplasty",
+    "doi": "10.1186/s42836-023-00177-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

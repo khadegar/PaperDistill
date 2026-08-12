@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7465993",
+  "paper_id": "doi:10.3390/polym12081751",
+  "pmcid": "PMC7465993",
+  "source_record_sha256": "01c3c1a3196502f030d3d31e267102168a615fd66e46f1df335479c82b0a333d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b07d80de651a11cef42885bb59dd33610c68152002fc77b365b7f38ac1f479c2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biofunctional Glycol-Modified Polyethylene Terephthalate and Thermoplastic Polyurethane Implants by Extrusion-Based Additive Manufacturing for Medical 3D Maxillofacial Defect Reconstruction",
+    "authors": "Katschnig M, Wallner J, Janics T, Burgstaller C, Zemann W, Holzer C.",
+    "year": 2020,
+    "journal": "Polymers",
+    "doi": "10.3390/polym12081751",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

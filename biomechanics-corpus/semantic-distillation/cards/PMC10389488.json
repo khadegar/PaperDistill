@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10389488",
+  "paper_id": "doi:10.1097/js9.0000000000000273",
+  "pmcid": "PMC10389488",
+  "source_record_sha256": "e43fdaf770b8f8a8d88497445e89523b433414ab1b9d26ff589dd253ab1208be",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9fe393a3441ec7a7889c25a5808391199c377f07bffb8db839838793eaebf74a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Regional differences in bone mineral density biomechanically induce a higher risk of adjacent vertebral fracture after percutaneous vertebroplasty: a case-comparative study",
+    "authors": "Li J, Xie Y, Sun S, Xue C, Xu W, Xu C, Xi Z.",
+    "year": 2023,
+    "journal": "International Journal of Surgery (London, England)",
+    "doi": "10.1097/js9.0000000000000273",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

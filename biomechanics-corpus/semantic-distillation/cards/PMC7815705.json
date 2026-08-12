@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7815705",
+  "paper_id": "doi:10.1038/s41598-021-81401-6",
+  "pmcid": "PMC7815705",
+  "source_record_sha256": "5e9fc6127e825b464a4977a5f142839decdfaee5f9a57ddef2c656e8a910de5c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "57f70499685ec0047ad4be3f3d66754550317d569510a05a47831fdcae034a38",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A finite element analysis of relationship between fracture, implant and tibial tunnel",
+    "authors": "Wang Y, Qi E, Zhang X, Xue L, Wang L, Tian J.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-81401-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9898605",
+  "paper_id": "doi:10.1016/j.heliyon.2023.e12923",
+  "pmcid": "PMC9898605",
+  "source_record_sha256": "cfcf2514f74086a2f23c9b4183c931cdf927d8aec9d24b72b3b04bbc8e590d56",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a7bb3943122411ebb474f67bd87d5860e27a04b03c0945b7b9770dabb0cb5234",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical analysis of customized cage conforming to the endplate morphology in anterior cervical discectomy fusion: A finite element analysis",
+    "authors": "Sun B, Han Q, Sui F, Zhang A, Liu Y, Xia P, Wang J, Yang X.",
+    "year": 2023,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2023.e12923",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

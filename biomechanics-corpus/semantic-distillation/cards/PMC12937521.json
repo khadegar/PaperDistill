@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12937521",
+  "paper_id": "doi:10.1186/s43019-026-00308-6",
+  "pmcid": "PMC12937521",
+  "source_record_sha256": "7cc916311845252778904112fbeaf453f363452a806bb5c98b2d0c32c5645d55",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ac8e1399896f4cef7100ab1ddf3c25afeebded8bb2142cc7d0434f85082fc3bd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of femoral component design and quadriceps load on patellofemoral kinematics after total knee arthroplasty: an in vitro cadaveric study",
+    "authors": "Maioli V, Diquattro E, Conconi M, Castagnini F, Traina F, Sancisi N, Cristofolini L.",
+    "year": 2026,
+    "journal": "Knee Surgery & Related Research",
+    "doi": "10.1186/s43019-026-00308-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

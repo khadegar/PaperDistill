@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8443973",
+  "paper_id": "doi:10.2176/nmc.oa.2021-0032",
+  "pmcid": "PMC8443973",
+  "source_record_sha256": "80036e0a2b9767feb0c29cee55c212488be6cb236c861310e395136290d1fd89",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "08f3b35fa9fccaa7a8c4ccae1edc8e6fee564077603ccd05a81dfc4bdbaec16a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Ultra-high-molecular-weight Polyethylene (UHMWPE) Wing Method for Strong Cranioplasty",
+    "authors": "Kobayashi K, Yukiue T, Yoshida H, Tsuboi N, Takahashi Y, Makino K, Kimura R, Mizuta R, Sasada S, Ogawa T, Nagayama N, Yasuhara T, Date I.",
+    "year": 2021,
+    "journal": "Neurologia medico-chirurgica",
+    "doi": "10.2176/nmc.oa.2021-0032",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

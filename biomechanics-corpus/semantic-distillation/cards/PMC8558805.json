@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8558805",
+  "paper_id": "doi:10.1177/23312165211052764",
+  "pmcid": "PMC8558805",
+  "source_record_sha256": "adabfd9d5661d3790fd4e47a4652987eaccd4b8ddc0e51b2b01232c6e15c8cfc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8181db78b4dd89218f7e59a1df1ca8776110cf4b9dfdc7a9954265770d2ec0d1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Review of Whole Head Experimental Cochlear Promontory Vibration with Bone Conduction Stimulation and Investigation of Experimental Setup Effects",
+    "authors": "Prodanovic S, Stenfelt S.",
+    "year": 2021,
+    "journal": "Trends in Hearing",
+    "doi": "10.1177/23312165211052764",
+    "publication_type": "research-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

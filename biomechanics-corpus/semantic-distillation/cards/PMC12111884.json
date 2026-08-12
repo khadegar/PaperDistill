@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12111884",
+  "paper_id": "doi:10.3390/jfb16050157",
+  "pmcid": "PMC12111884",
+  "source_record_sha256": "2d41e092b702b7b31c832afb1adfed97df5621dc7baa4c5146872eb26fae5d4b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "455405a86c2f7a6502cd230014ba257166441c83170cb994d2948ede1cea4bfb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Combined Effects of Dual-Scale Modified Surface with Micro- and Nanostructures on the Cellular Biocompatibility, Osteoinduction, and Antibacterial Properties of Titanium Implants",
+    "authors": "Maher S, Ignjatović NL, Lazarević M, Petrović S, Žekić A, Losic D.",
+    "year": 2025,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb16050157",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

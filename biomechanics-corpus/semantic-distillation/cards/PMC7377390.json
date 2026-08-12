@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7377390",
+  "paper_id": "doi:10.1371/journal.pone.0235966",
+  "pmcid": "PMC7377390",
+  "source_record_sha256": "57bd6d86ae1a6978812b3ea094d6158185e6849014c4f49144999068f84ad9e3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5513fd9f5f13a71408a44da0c3558160c404a595b283ab640ce023fd52465951",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A multi-scale modelling framework combining musculoskeletal rigid-body simulations with adaptive finite element analyses, to evaluate the impact of femoral geometry on hip joint contact forces and femoral bone growth",
+    "authors": "Kainz H, Killen BA, Wesseling M, Perez-Boerema F, Pitto L, Garcia Aznar JM, Shefelbine S, Jonkers I.",
+    "year": 2020,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0235966",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,390 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10189796",
+  "paper_id": "doi:10.1021/acsabm.3c00107",
+  "pmcid": "PMC10189796",
+  "source_record_sha256": "1a91ac601ce4a16ccebc333ddae4e88e76c828a45e6ed1cc67df3a966a6cdc58",
+  "reading": {
+    "status": "completed",
+    "packet_sha256": "c74b6862eeb425efb85ee8e5e32dfe3c0fbaba57a19471c7232206526c171552",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S002:C02",
+      "S003:C01",
+      "S004:C01",
+      "S005:C01",
+      "S006:C01",
+      "S007:C01",
+      "S008:C01",
+      "S009:C01",
+      "S010:C01",
+      "S011:C01",
+      "S012:C01",
+      "S013:C01",
+      "S014:C01",
+      "S015:C01",
+      "S016:C01",
+      "S017:C01",
+      "S017:C02",
+      "S018:C01",
+      "S019:C01",
+      "S020:C01",
+      "S020:C02",
+      "S021:C01",
+      "S022:C01",
+      "S023:C01",
+      "S024:C01",
+      "S025:C01",
+      "S026:C01",
+      "S027:C01"
+    ],
+    "omissions": [],
+    "access_level": "full_text_read",
+    "reader_role": "luna_primary",
+    "reader_model": "gpt-5.6-luna",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T14:25:00Z",
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Design and 3D Printing of Personalized Hybrid and Gradient Structures for Critical Size Bone Defects",
+    "authors": "Altunbek M, Afghah SF, Fallah A, Acar AA, Koc B.",
+    "year": 2023,
+    "journal": "ACS Applied Bio Materials",
+    "doi": "10.1021/acsabm.3c00107",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research_mixed_additive_manufacturing_FE_CFD_and_in_vitro_bioprinting",
+    "design_features": [
+      "patient_specific_MR_to_CAD_scaffold_design",
+      "hybrid_PCL_cage_and_PEG_RGD_bioink",
+      "zigzag_zigzag_spiral_and_shifted_architectures",
+      "nonlinear_FE_compression_analysis",
+      "axial_and_radial_CFD_permeability_WSS",
+      "hBMSC_viability_ALP_and_mineralization_in_vitro"
+    ],
+    "research_problem": "Critical-size bone defects need patient-specific structural support and a cell-friendly, nutrient-permeable environment. Conventional allografts, autografts, or polymer cages either lack vascularization/structural support or cannot combine a mechanically strong architecture with controllable cell and bioactive composition.",
+    "exact_gap": "Prior hybrid scaffolds often use simple alternating mesh layers, provide limited radial transport through hydrophobic or solid regions, and do not control cell or active-molecule composition spatially. The study addresses this design gap with an MR-derived porous PCL cage, a PEG-based hBMSC-laden bioink, and a gradient architecture selected from mechanical and transport comparisons.",
+    "objective_or_hypothesis": "Design and print a personalized hybrid scaffold in which a porous PCL cage supplies load-bearing strength and axial/radial transport while a gradient PEG hydrogel supplies viable, osteogenically responsive hBMSCs. Compare zigzag, zigzag/spiral, and zigzag/spiral-shifted cages, then evaluate printed porosity, compression, FE agreement, CFD permeability/WSS, cell viability, ALP activity, and mineralization.",
+    "study_design": "Original mixed computational, additive-manufacturing, and in-vitro tissue-engineering study. Three nominally similar-porosity PCL cage architectures were designed from an MR-derived defect, printed by melt extrusion, characterized by micro-CT, compressed experimentally (at least four repeats for PCL cage tests), modeled with nonlinear elastoplastic FE, and evaluated with quarter-domain steady CFD in axial and radial flow. The selected zigzag/spiral cage was hybrid-printed with PEG-RGD/MMP-crosslinked bioink containing hBMSCs at 1, 2, or 5 x 10^6 cells/mL; viability, ALP, and alizarin-red mineralization were measured in vitro. No animal implantation, patient implantation, fatigue test, or long-term construct function was performed.",
+    "sample_or_model": "An MR image of a patient with a large defect was converted to STL/CAD for path planning. PCL cages used a 250 micrometre nozzle, 80 C melt, approximately 2.9-3.5 bar pressure, and 75-110 mm/min printing speeds; the packet reports 8/5 mm inner/outer diameters in the initial cage method and 13/3 mm inner/outer diameters for the later selected cage, an unresolved geometry-state discrepancy. Compression cages were hollow cylinders tested to 35% deformation at 5 mm/min with at least four repeats. FE used elastoplastic PCL parameters from prior work, friction coefficient 0.3, a 5.2 mm scaffold height, 0.52 mm displacement, and 73.9 mm^2 area. CFD used 0.001 m/s inlet velocity, zero outlet gauge pressure, 1000 kg/m^3 fluid density, 0.0037 Pa.s viscosity, no-slip scaffold walls, and quarter models. hBMSCs were passages P4-P6 in PEG 6.5% w/v with 200 micromolar RGD and MMP-sensitive peptide crosslinker; three cell densities and MM/OM controls were used.",
+    "comparators": [
+      "Zigzag versus zigzag/spiral versus zigzag/spiral-shifted PCL cages at similar nominal porosity",
+      "Experimental compression and micro-CT porosity versus FE/theoretical values",
+      "Axial versus radial permeability and wall shear stress for each cage architecture",
+      "PEG-hBMSC cultures at 1, 2, and 5 x 10^6 cells/mL under mesenchymal basal medium versus osteogenic medium",
+      "Cell viability on days 1, 3, and 7 and ALP activity on days 7, 14, and 21",
+      "Monolayer versus three-layer gradient PEG constructs for day-21 mineralization"
+    ],
+    "method_spine": [
+      "Convert the MR-derived defect to CAD/STL, generate concentric cage contours and alternating zigzag/spiral paths, and plan PEG mesh paths inside the cage (S002:C01-S004:C01).",
+      "Print and micro-CT characterize PCL cages, retain nominal and measured porosity, then compare compression/energy absorption and elastoplastic FE predictions (S005:C01-S007:C01; S017:C01-S017:C02).",
+      "Simulate axial and radial transport with CFD, reporting permeability and WSS rather than using porosity alone as a biological proxy (S008:C01; S018:C01).",
+      "Prepare PEG-VS/RGD/MMP bioink with graded hBMSC densities and print it layer-by-layer inside the selected cage (S009:C01-S010:C01; S019:C01).",
+      "Measure viability, ALP activity with MM/OM controls, and alizarin-red mineralization across density and layer configurations (S012:C01-S014:C01; S020:C01-S020:C02).",
+      "Select zigzag/spiral as a compromise between radial transport and mechanical strength, then bound the proposal as an in-vitro personalized scaffold rather than an implanted bone replacement (S019:C01; S021:C01)."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Micro-CT and gravimetric porosity checks verify the printed cage architecture against the nominal designs, although the paper reports geometry dimensions inconsistently across methods sections (S006:C01; S017:C01).",
+        "Nonlinear FE simulations use elastoplastic PCL and are compared with compression curves; CFD compares flow response across architectures but no mesh-convergence or code-verification details are reported (S007:C01-S008:C01; S017:C01-S017:C02)."
+      ],
+      "calibration": [
+        "PCL constitutive parameters were taken from prior work and used to reproduce the printed cage response; they were not independently calibrated to every specimen in this study (S007:C01; S017:C01).",
+        "CFD fluid density/viscosity and 0.001 m/s inlet velocity represent cell-culture or in-vivo-inspired assumptions, not subject-specific perfusion calibration (S008:C01).",
+        "Biological readouts use MM/OM controls and cell-density/time comparisons, but no calibration links ALP or mineralization to in-vivo bone formation."
+      ],
+      "validation": [
+        "Compression experiments with at least four repeats and close FE/theoretical trends provide a mechanical validation layer for cage-level effective stiffness, not local filament failure or implant fatigue (S007:C01; S017:C01-S017:C02).",
+        "Micro-CT porosity and morphology provide as-printed structural checks; viability, ALP, and alizarin-red assays validate in-vitro cell compatibility/differentiation under the stated culture conditions only (S006:C01; S012:C01-S014:C01; S020:C01-S020:C02).",
+        "No animal, human, interface, vascular, or long-term functional validation is present."
+      ],
+      "sensitivity": [
+        "Architecture, axial/radial flow direction, cell density, medium, culture time, and mono- versus multilayer configuration are varied qualitatively or experimentally (S017:C01-S018:C01; S020:C01-S020:C02).",
+        "No systematic sensitivity or uncertainty study is reported for PCL material parameters, filament diameter, dimensional discrepancies, scaffold scale, inlet velocity, permeability exponent, cell viability variance, or degradation."
+      ],
+      "application_prediction": [
+        "The selected zigzag/spiral cage is a design-level prediction that it can balance compression and radial/axial nutrient transport; it is not evidence of load-bearing function in a critical-size defect in vivo (S019:C01; S021:C01).",
+        "Cell viability, ALP, and mineralization predict an osteogenic potential of the PEG-hBMSC construct under in-vitro medium; they do not predict vascularized bone bridging, fixation, remodeling, or clinical healing."
+      ]
+    },
+    "primary_outcomes": [
+      "The three printed cages had similar measured porosities but different mechanical responses. Reported experimental compressive stiffness values were approximately 32.88 +/- 1.82 MPa for zigzag, 20.65 +/- 0.82 MPa for zigzag/spiral, and 15.39 +/- 0.66 MPa for zigzag/spiral-shifted; the table also reports corresponding energy absorption of 225.19 +/- 6.37, 176.8 +/- 10.71, and 144.5 +/- 8.07 kJ/m^3 (S017:C01).",
+      "Measured total porosity was 66.12 +/- 6.82% for zigzag, 69.04 +/- 7.82% for zigzag/spiral, and 66.26 +/- 5.05% for zigzag/spiral-shifted; the close values support a pattern comparison but also show substantial spread (S017:C01).",
+      "FE predicted effective compression trends consistent with experiment; zigzag was about 50% stiffer than the two spiral designs and zigzag/spiral was about 30% stiffer than the shifted design at comparable porosity. Junctions approached the PCL yield region in all patterns, so effective stiffness agreement is not a fatigue or local-failure validation (S017:C01-S017:C02).",
+      "CFD reported architecture-dependent transport: zigzag had the highest axial permeability (15.66 in the paper's tabulated scaled m^2 units) but the lowest radial permeability (3.08), while zigzag/spiral and shifted designs were approximately 11.80 and 11.76 radially. Average WSS values were below the cited 15 mPa osteogenic range for all designs; the exponent of the permeability scale is not legible in the packet extraction and should be checked before numerical reuse (S018:C01).",
+      "Zigzag/spiral was selected because zigzag's low radial permeability could restrict media diffusion despite its highest stiffness and axial permeability. The hybrid construct used eight PCL layers and four PEG-bioink layers with no demonstrated implantation or long-term load history (S019:C01).",
+      "hBMSCs remained approximately 90% viable in the PEG filaments on day 1 and remained viable through days 3 and 7 in live/dead imaging. ALP depended on cell density, osteogenic medium, and time; at least three replicates were used per time point, but detailed group n, variance, and effect sizes are not reported in the packet (S012:C01; S013:C01; S020:C01).",
+      "Day-21 alizarin-red staining increased with initial cell density and produced a controllable mineralization gradient in multilayer constructs. This is an in-vitro mineralization proxy, not measured bone tissue, vascularization, or critical-size defect healing (S014:C01; S020:C02)."
+    ],
+    "highest_evidence_level_reached": "In-vitro hybrid scaffold demonstration with cage-level compression/FE agreement, CFD transport prediction, printed porosity characterization, and hBMSC viability/osteogenic-marker assays. No animal implantation, patient outcome, interface fixation, degradation, vascularization, or fatigue evidence is reached."
+  },
+  "argument_map": {
+    "central_claim": "A patient-specific PCL cage combined with a gradient PEG-hBMSC bioink can be printed as a hybrid construct whose architecture trades compression strength against axial/radial transport and whose cell density controls in-vitro mineralization, but the result remains a nominal-to-printed, cage-level and culture-level demonstration rather than a validated implant for critical-size bone healing.",
+    "data": [
+      "MR-to-CAD path planning and three cage geometries define the personalized architecture and the mechanical/transport comparator (S002:C01-S004:C01; S016:C01).",
+      "Micro-CT, compression testing, and elastoplastic FE establish printed porosity and effective cage mechanics, while CFD resolves directional permeability and WSS (S006:C01-S008:C01; S017:C01-S018:C01).",
+      "PEG-RGD/MMP bioink with three hBMSC densities shows viability, ALP response, and density-dependent mineralization in monolayer and multilayer constructs (S010:C01; S012:C01-S014:C01; S020:C01-S020:C02)."
+    ],
+    "warrant": "A cage architecture that preserves load-bearing continuity while permitting radial and axial transport can provide a plausible physical niche for cell-laden hydrogel; changing cell density can tune in-vitro mineral deposition, but neither mechanism directly establishes in-vivo bone bridging.",
+    "backing": [
+      "The zigzag pattern's higher junction support explains its greater compressive response, while its blocked radial path explains the transport trade-off (S017:C01-S018:C01).",
+      "Experimental compression and micro-CT porosity are compared with FE/theoretical values at similar nominal porosity, reducing one confounder for architecture comparison (S017:C01).",
+      "MM/OM controls, time points, live/dead imaging, ALP, and alizarin-red staining provide multiple in-vitro evidence states rather than relying on a single cell image (S012:C01-S014:C01; S020:C01-S020:C02)."
+    ],
+    "qualifier": "The conclusions apply to the reported PCL/PEG materials, printed geometry, in-vitro fluid and culture conditions, and cage-level outcomes. The packet contains conflicting diameter descriptions and does not establish as-built mechanical behavior after hydrogel loading, degradation, implantation, or cyclic use.",
+    "rebuttals_or_boundaries": [
+      "The mechanically strongest zigzag cage has the lowest radial permeability, so selecting it by strength alone would undermine the stated transport objective (S018:C01; S019:C01).",
+      "FE/experiment agreement is for effective compression, not local filament defects, long-term fatigue, degradation, or the hybrid cage after PEG filling (S017:C01-S017:C02).",
+      "WSS and permeability are transport proxies; values below an osteogenic range do not demonstrate perfused vascularized tissue or in-vivo bone formation (S018:C01).",
+      "hBMSC viability, ALP, and mineralization in MM/OM culture do not prove critical-size defect healing, integration to host bone, or clinical function (S020:C01-S021:C01)."
+    ],
+    "argument_coherence": "high_for_in-vitro_architecture_trade-off_moderate_for_cage_FE_agreement_low_for_implantable_bone-healing_translation"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Printed PCL cage porosity/morphology, cage compression response, energy absorption, live/dead viability images, ALP activity, and alizarin-red staining are measured under stated test/culture conditions (S006:C01; S007:C01; S012:C01-S014:C01; S017:C01; S020:C01-S020:C02).",
+      "Cell densities, passages P4-P6, culture days, media, repeat counts where reported, nozzle/printing parameters, and nominal dimensions are measured or specified states; the conflicting 8/5 mm versus 13/3 mm geometry descriptions remain unresolved (S004:C01; S005:C01; S017:C01)."
+    ],
+    "predicted": [
+      "FE effective stiffness, reaction forces, junction stresses, CFD pressure/permeability/WSS fields, and transport interpretations are model predictions under idealized material and boundary assumptions (S007:C01-S008:C01; S017:C01-S018:C01).",
+      "The claim that the selected cage is suitable for personalized implantable critical-size defect repair is an application prediction, not an implanted outcome (S019:C01; S021:C01)."
+    ],
+    "inferred": [
+      "The authors infer that radial and axial permeability can improve nutrient/oxygen delivery and that pore geometry can guide gradient mineralization; these are mechanism-level interpretations of CFD and in-vitro results (S008:C01; S016:C01; S018:C01).",
+      "The authors infer osteogenic potential from ALP and alizarin-red responses, but the data do not establish mature bone, vascularization, or integration in a defect (S020:C01-S020:C02).",
+      "The apparent architecture ranking is inferred at similar porosity, yet process, diameter, junction, and specimen-scale differences may contribute."
+    ],
+    "recommended": [
+      "Resolve CAD-versus-printed dimensions and report specimen-level as-built geometry, hydrogel-filled mechanical properties, degradation, and repeatability before load-bearing claims.",
+      "Add mesh convergence and uncertainty/sensitivity analyses for PCL constitutive parameters, filament defects, scaffold dimensions, CFD inlet conditions, and WSS/permeability scale units.",
+      "Use perfusion, vascularization, host-bone interface, animal critical-size defect, and longitudinal imaging endpoints to test whether the in-vitro transport/mineralization proxies translate.",
+      "Run multidirectional and cyclic mechanical tests, including fatigue and post-degradation states, before implantable or clinical-use language."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Compression stiffness and energy absorption of an empty PCL cage do not equal load-bearing strength of the hydrogel-filled, degrading hybrid implant in a patient.",
+      "CFD permeability and WSS are fluid-transport proxies; they do not establish nutrient delivery, vascularization, osteogenesis, or infection control in vivo.",
+      "Cell viability, ALP, and alizarin-red mineralization are in-vitro cell-state proxies; they do not substitute for mature bone volume, fixation, remodeling, or clinical healing.",
+      "MR-derived CAD and micro-CT porosity do not guarantee the full as-built, patient-specific geometry, process defect state, or implant fit."
+    ],
+    "overclaim_risks": [
+      "The abstract and conclusion describe a promising personalized implantable construct, although only in-vitro cage and cell assays were performed and no defect was implanted (S001:C01; S021:C01).",
+      "FE agreement and WSS values can be read as validated mechanical/biological performance despite absent mesh convergence, uncertain permeability exponent, and no hybrid/degradation/fatigue validation (S007:C01-S008:C01; S018:C01).",
+      "A day-21 mineralization gradient may be mistaken for bone formation or healing; it remains a culture-dependent stain endpoint (S020:C01-S020:C02).",
+      "Conflicting dimensions between early cage methods and later selected-cage printing leave a nominal-to-as-built traceability gap (S004:C01; S005:C01; S017:C01)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Define the critical-size defect problem, then identify the architecture, transport, and cell-composition gaps in prior hybrid scaffolds.",
+      "execution": "The introduction contrasts graft limitations with PCL's structural role and PEG's cell-friendly role, then motivates directional diffusion and spatially controlled bioink composition before stating the personalized hybrid objective (S002:C01-S002:C02).",
+      "locator": "S002:C02",
+      "effectiveness": "high",
+      "transferable_principle": "For a mixed scaffold study, state the mechanical, transport, and biological gaps separately before proposing a coupled construct.",
+      "failure_mode": "Calling a construct implantable before separating in-vitro mechanism evidence from in-vivo healing evidence overstates translation."
+    },
+    {
+      "section": "methods",
+      "move": "Trace nominal CAD, printing process, as-built characterization, numerical assumptions, and cell-state preparation as distinct layers.",
+      "execution": "The methods describe MR-to-path planning, PCL printing, micro-CT, compression/FE, CFD fluid conditions, PEG crosslinking, hBMSC passage/density, and assay timing; later sections report a second set of cage dimensions that should be reconciled (S004:C01-S010:C01; S017:C01).",
+      "locator": "S006:C01",
+      "effectiveness": "moderate_to_high",
+      "transferable_principle": "Keep design intent, process state, measured geometry, model parameters, and biological exposure state separate so nominal-to-as-built drift is auditable.",
+      "failure_mode": "Using CAD dimensions or prior-work constitutive data as if they describe the final hybrid construct hides process and filling effects."
+    },
+    {
+      "section": "results",
+      "move": "Select an architecture by an explicit strength-versus-directional-transport trade-off, not by one favorable metric.",
+      "execution": "The paper reports zigzag's highest compression/axial permeability but lowest radial permeability, compares WSS/permeability for all directions, and selects zigzag/spiral as the compromise (S017:C01-S018:C01; S019:C01).",
+      "locator": "S018:C01",
+      "effectiveness": "high",
+      "transferable_principle": "When objectives conflict, report the rejected option's advantage and the selected option's reason rather than claiming global superiority.",
+      "failure_mode": "A single stiffness ranking can obscure transport bottlenecks that control cell survival."
+    },
+    {
+      "section": "results",
+      "move": "Separate cage mechanics and transport predictions from cell-state assays and retain n, time, medium, and density.",
+      "execution": "Compression/FE and CFD outcomes are presented before viability, ALP, and alizarin-red results; the culture sections keep MM/OM controls, 1/2/5 x 10^6 cells/mL, days 1-21, and at-least-three replicate language (S017:C01-S018:C01; S020:C01-S020:C02).",
+      "locator": "S020:C01",
+      "effectiveness": "high",
+      "transferable_principle": "A hybrid scaffold Results section should preserve endpoint domains and conditions instead of treating all favorable readouts as one biological success.",
+      "failure_mode": "Combining WSS, viability, ALP, and mineralization into a single osteogenesis claim erases distinct evidence states."
+    },
+    {
+      "section": "discussion",
+      "move": "Bound in-vitro personalization claims with missing implant, degradation, vascular, and host-bone tests.",
+      "execution": "The conclusion acknowledges future study of long-duration differentiation, while the reported work ends at printed constructs and culture assays without animal or clinical implantation (S019:C01; S021:C01).",
+      "locator": "S021:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "End a scaffold paper by naming the next test that distinguishes a promising in-vitro niche from a functioning implant.",
+      "failure_mode": "Calling mineralization or viability proof of critical-size defect healing converts cell proxies to tissue outcomes."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The authors state that long-duration effects of cage permeability and architecture on MSC differentiation need further study and that the construct is a promising approach rather than a completed clinical implant (S019:C01; S021:C01).",
+      "The paper does not report animal implantation, degradation, fatigue, multidirectional loading, vascularization, host-bone integration, or clinical testing."
+    ],
+    "reader_identified": [
+      "S003:C01, S011:C01, and S015:C01 are non-reference chunks containing only section-number text; they were read but add no substantive methods/results evidence.",
+      "The packet reports inconsistent cage dimensions (8/5 mm in early design/printing methods versus 13/3 mm in the selected later cage), so nominal-to-as-built traceability is incomplete.",
+      "PCL constitutive parameters came from prior work, CFD has no reported mesh convergence or uncertainty, and the permeability exponent is corrupted in the packet extraction; numerical values should not be reused without source verification.",
+      "Compression repeats are cage-level and mostly empty-PCL tests; there is no mechanical characterization of PEG-filled, degraded, cyclic, or patient-loaded hybrid constructs.",
+      "At-least-three biological replicates and qualitative imaging are reported, but group-level n, variance, exact effect sizes, and multiple-comparison handling are incomplete in the packet.",
+      "No in-vivo bone bridging, vascularization, inflammatory response, host-interface fixation, or long-term cell fate is measured."
+    ],
+    "likely_bias_direction": [
+      "Selecting zigzag/spiral by a qualitative strength/transport compromise may favor the authors' design without a formal multi-objective or uncertainty analysis.",
+      "Prior-work PCL parameters and idealized CFD walls may smooth process defects and overstate predictive agreement.",
+      "Short in-vitro viability, ALP, and mineralization windows favor early osteogenic signals and cannot expose degradation or long-term function.",
+      "MR-derived personalization and nominal porosity may underrepresent manufacturing variability and patient-specific load/anatomy."
+    ],
+    "scope_boundary": "The study supports a personalized hybrid PCL/PEG-hBMSC scaffold design and in-vitro architecture/cell-response hypothesis. It does not demonstrate an implanted critical-size defect repair, vascularized bone, durable load transfer, degradation-safe fatigue life, osseointegration, or clinical outcome."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC10189796-01",
+      "capability": "Describe a hybrid scaffold as a chain from patient-derived CAD through print state, as-built porosity, cage mechanics, directional transport, and cell-state endpoint, preserving each state transition.",
+      "manuscript_use": "Methods architecture, Results organization, nominal-to-as-built audit, and translational boundary.",
+      "applicable_domains": [
+        "personalized_scaffold",
+        "additive_manufacturing",
+        "bone_tissue_engineering",
+        "hybrid_bioprinting"
+      ],
+      "applicable_study_designs": [
+        "mixed_numerical_experimental",
+        "in_vitro_scaffold",
+        "patient_specific_design"
+      ],
+      "supporting_locators": [
+        "S004:C01",
+        "S006:C01",
+        "S017:C01",
+        "S019:C01"
+      ],
+      "counterexample_or_boundary": "Conflicting dimensions and absent hybrid/degradation/implant testing mean a printed cage cannot be treated as the same state as the CAD design or a clinical graft.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10189796-02",
+      "capability": "Resolve a multi-objective architecture choice by reporting the rejected design's mechanical or transport advantage and the condition that makes the selected compromise preferable.",
+      "manuscript_use": "Design rationale, comparative Results, and Discussion trade-off paragraph.",
+      "applicable_domains": [
+        "porous_scaffold",
+        "mass_transport",
+        "finite_element_modeling",
+        "bioprinting"
+      ],
+      "applicable_study_designs": [
+        "architecture_comparison",
+        "FE_CFD",
+        "scaffold_optimization"
+      ],
+      "supporting_locators": [
+        "S017:C01",
+        "S018:C01",
+        "S019:C01"
+      ],
+      "counterexample_or_boundary": "Zigzag is strongest and most axially permeable but has the lowest radial permeability; selecting a global winner would misstate the objective.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10189796-03",
+      "capability": "Keep transport, cell viability, differentiation markers, mineralization, and tissue/clinical outcomes in separate endpoint lanes with explicit proxy bridges.",
+      "manuscript_use": "Results synthesis, evidence audit, biological interpretation, and conclusion proportionality.",
+      "applicable_domains": [
+        "mechanobiology",
+        "bone_tissue_engineering",
+        "cell-laden_hydrogel",
+        "mass_transport"
+      ],
+      "applicable_study_designs": [
+        "in_vitro_cell_assay",
+        "bioprinting",
+        "scaffold_validation"
+      ],
+      "supporting_locators": [
+        "S008:C01",
+        "S012:C01",
+        "S013:C01",
+        "S014:C01",
+        "S020:C01",
+        "S020:C02"
+      ],
+      "counterexample_or_boundary": "WSS below a cited osteogenic range and day-21 alizarin-red staining do not demonstrate vascularized bone bridging, fixation, or clinical healing.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10189796-04",
+      "capability": "State numerical validation at the level actually tested—effective cage compression—and stop before extrapolating FE/CFD agreement to local defects, cyclic durability, or host-bone performance.",
+      "manuscript_use": "FE/CFD validation wording, uncertainty paragraph, and design-go/no-go criteria.",
+      "applicable_domains": [
+        "finite_element_modeling",
+        "additive_manufacturing",
+        "scaffold_mechanics",
+        "bioprinting"
+      ],
+      "applicable_study_designs": [
+        "FE_validation",
+        "CFD",
+        "mixed_numerical_experimental"
+      ],
+      "supporting_locators": [
+        "S007:C01",
+        "S008:C01",
+        "S017:C01",
+        "S017:C02"
+      ],
+      "counterexample_or_boundary": "Effective compression agreement does not validate filament-level stress, hydrogel-filled behavior, degradation, fatigue, or implantation.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_in-vitro_hybrid_scaffold_design",
+    "methods_transparency": "moderate_with_dimension_and_numerical-gaps",
+    "validation_credibility": "moderate_for_cage_compression_low_for_CFD_and_implant_translation",
+    "outcome_uncertainty_reporting": "low_to_moderate",
+    "comparator_fairness": "moderate_for_similar-porosity_architecture_comparison_low_for_clinical_transfer",
+    "conclusion_proportionality": "moderate_to_low",
+    "critical_weaknesses": [
+      "No animal or clinical implantation, host-bone interface, vascularization, degradation, fatigue, or long-term functional evidence.",
+      "Conflicting reported cage dimensions and incomplete as-built/hydrogel-filled mechanical traceability.",
+      "FE/CFD verification and uncertainty reporting are limited; permeability scale units are not legible in the packet extraction.",
+      "Cell assays show early in-vitro viability and osteogenic proxies but incomplete group-level uncertainty and no tissue-level endpoint."
+    ],
+    "overall_credibility": "moderate_for_printed_hybrid_scaffold_feasibility_and_in-vitro_mechanism_low_for_implantable_bone_healing"
+  },
+  "summary_zh": "这篇原始研究把 MR 个体化缺损建模、PCL 多孔笼、PEG-RGD/MMP 细胞负载水凝胶、非线性 FE、轴向/径向 CFD 和 hBMSC 体外检测串成一条混合支架流程。三种近似孔隙率架构中，zigzag 压缩最强且轴向通透性最高，但径向通透性最低；作者因此选择 zigzag/spiral 作为强度—营养输运折中。打印笼的实测压缩刚度约为 32.88±1.82、20.65±0.82、15.39±0.66 MPa，孔隙率约 66–69%，FE 趋势与实验一致；CFD、WSS、细胞存活、ALP 和第21天茜素红矿化提供的是模型或体外代理端点。文中早期 8/5 mm 与后期 13/3 mm 的尺寸描述不一致，且没有混合填充后力学、降解、疲劳、动物植入、血管化、宿主界面或临床证据，不能把细胞矿化或可打印性写成关键尺寸骨缺损修复。",
+  "reader_notes": [
+    "Primary Luna reader reviewed all 30 non-reference packet chunks in exact order: S001:C01; S002:C01-S002:C02; S003:C01; S004:C01; S005:C01; S006:C01; S007:C01; S008:C01; S009:C01; S010:C01; S011:C01; S012:C01; S013:C01; S014:C01; S015:C01; S016:C01; S017:C01-S017:C02; S018:C01; S019:C01; S020:C01-S020:C02; S021:C01; S022:C01; S023:C01; S024:C01; S025:C01; S026:C01; S027:C01.",
+    "S003:C01, S011:C01, and S015:C01 contain only section-number text (2., 2.8., and 3.) but are declared packet chunks; they were read and retained in the locator set rather than omitted.",
+    "The article is original mixed FE/CFD, additive-manufacturing, and in-vitro bioprinting research. Effective cage compression is the strongest numerical validation; no animal, host-interface, fatigue, degradation, or clinical validation is present.",
+    "The card preserves the architecture trade-off, cell-density/time/medium conditions, at-least-three biological replicate statement, uncertainty gaps, conflicting dimensions, and the proxy boundary from WSS/ALP/mineralization to tissue healing."
+  ],
+  "selection": {
+    "selection_reason": "manifest_all",
+    "primary_stratum": "additive_manufacturing",
+    "reading_order": 61
+  },
+  "source": {
+    "record_path": "records/PMC10189796.json.gz",
+    "source_record": "records/PMC10189796.json.gz",
+    "source_record_sha256": "1a91ac601ce4a16ccebc333ddae4e88e76c828a45e6ed1cc67df3a966a6cdc58",
+    "source_hash": "1a91ac601ce4a16ccebc333ddae4e88e76c828a45e6ed1cc67df3a966a6cdc58"
+  }
+}

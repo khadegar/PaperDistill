@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8434612",
+  "paper_id": "doi:10.3390/ma14174912",
+  "pmcid": "PMC8434612",
+  "source_record_sha256": "bd26f8717f89836470d08a415feeab7311449b4ea7c318463e20cc154e008056",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d885c932b6d25a7b4a2107404c8b590f7ce9b04cb3c7b844f269af7780b42879",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Different Approaches for Manufacturing Ti-6Al-4V Alloy with Triply Periodic Minimal Surface Sheet-Based Structures by Electron Beam Melting",
+    "authors": "Khrapov D, Kozadayeva M, Manabaev K, Panin A, Sjöström W, Koptyug A, Mishurova T, Evsevleev S, Meinel D, Bruno G, Cheneler D, Surmenev R, Surmeneva M.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14174912",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

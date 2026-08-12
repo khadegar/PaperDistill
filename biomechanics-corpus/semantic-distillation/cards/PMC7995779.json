@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7995779",
+  "paper_id": "doi:10.1186/s13018-021-02360-2",
+  "pmcid": "PMC7995779",
+  "source_record_sha256": "711ec76e1337675801375d6c06ec5cc90782e3e935b160d315dec972c095bdab",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ce0efe5320bc42e977134b29b9b944c497c8f3ab4b083cfbec0c13a3bdbbb7a0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of denosumab on pedicle screw fixation: a prospective 2-year longitudinal study using finite element analysis",
+    "authors": "Tani S, Ishikawa K, Kudo Y, Tsuchiya K, Matsuoka A, Maruyama H, Emori H, Yamamura R, Hayakawa C, Sekimizu M, Oshita Y, Ozawa T, Shirahata T, Nagai T, Toyone T, Inagaki K.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-021-02360-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

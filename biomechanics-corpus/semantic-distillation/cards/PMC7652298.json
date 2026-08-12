@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7652298",
+  "paper_id": "doi:10.1371/journal.pone.0242005",
+  "pmcid": "PMC7652298",
+  "source_record_sha256": "5892aca0c6962badbe1957bcc62e2aba4d873fb254b74603d86f968f1bbd4e9a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a6116f53acb117559b8fbdfdab7b050d3817fa68199443fce587ef992f8ae724",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Replicating dynamic humerus motion using an industrial robot",
+    "authors": "Aliaj K, Feeney GM, Sundaralingam B, Hermans T, Foreman KB, Bachus KN, Henninger HB.",
+    "year": 2020,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0242005",
+    "publication_type": "research-article; Research Support, U.S. Gov't, Non-P.H.S.; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

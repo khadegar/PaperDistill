@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9143386",
+  "paper_id": "doi:10.3390/ma15103447",
+  "pmcid": "PMC9143386",
+  "source_record_sha256": "f73022b6c40cdc95082ea967d47ac34be080e232868ac654d409f908f721055d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5e893455112afc65f20de404ebb58996e70020a3f245aa3acb2d2353275caeda",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Experimental Validation and Evaluation of the Bending Properties of Additively Manufactured Metallic Cellular Scaffold Structures for Bone Tissue Engineering",
+    "authors": "Al-Barqawi MO, Church B, Thevamaran M, Thoma DJ, Rahman A.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15103447",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

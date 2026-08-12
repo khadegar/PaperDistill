@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11133928",
+  "paper_id": "doi:10.1016/j.heliyon.2024.e31480",
+  "pmcid": "PMC11133928",
+  "source_record_sha256": "1c25af1da89a8de97be629b1448f54de84f2b91ef272919af5ce81c9603e9474",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "65a84a8926d38599ab3d6b2daf25adb96155b0800fe6e37c6fa6589b98bf9959",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical effect of changed femoral neck ante-version angles on the stability of an intertrochanteric fracture fixed with PFNA: A finite element analysis ☆",
+    "authors": "Li SJ, Huang HJ, Li CT, Hu GJ, Yu F, Liu YB.",
+    "year": 2024,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2024.e31480",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

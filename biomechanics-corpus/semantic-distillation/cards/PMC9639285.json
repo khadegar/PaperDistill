@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9639285",
+  "paper_id": "doi:10.1186/s41205-022-00160-w",
+  "pmcid": "PMC9639285",
+  "source_record_sha256": "ecd07ca4bca55cf210d857c3bd7ae1cc7790cd2d5d702dfeac72164aeaa49594",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ab071a64c70437716821312689db5f0522e240abcd5bdbd1ba55c9f0a0f3ee6b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Morphometric analysis of patient-specific 3D-printed acetabular cups: a comparative study of commercially available implants from 6 manufacturers",
+    "authors": "Hothi H, Henckel J, Bergiers S, Di Laura A, Schlueter-Brust K, Hart A.",
+    "year": 2022,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-022-00160-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

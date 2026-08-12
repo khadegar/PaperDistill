@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8836906",
+  "paper_id": "doi:10.3390/ijms23031841",
+  "pmcid": "PMC8836906",
+  "source_record_sha256": "46bdbb3fc1d15bbfa36ffd76d772372fa5fef8078e9665328e3110b55973665f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f32d00f5862bee0bbceb41878fd74dbb208b0f8fc38201aa804ad83a7d73bcf6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printable Composite Biomaterials Based on GelMA and Hydroxyapatite Powders Doped with Cerium Ions for Bone Tissue Regeneration",
+    "authors": "Leu Alexa R, Cucuruz A, Ghițulică CD, Voicu G, Stamat Balahura LR, Dinescu S, Vlasceanu GM, Stavarache C, Ianchis R, Iovu H, Costache M.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms23031841",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

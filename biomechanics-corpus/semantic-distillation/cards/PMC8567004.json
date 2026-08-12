@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8567004",
+  "paper_id": "doi:10.1016/j.isci.2021.103182",
+  "pmcid": "PMC8567004",
+  "source_record_sha256": "d58d82e1d1d0d547e99acc96d37806bd22f86fdbb71b5fddad96d35ebff5ae87",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "98a8554b9d6cffbd72932f40ba459d22c29b46d2d56f41dfa52be1046092d62f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modeling tooth enamel in FEA comparisons of skulls: Comparing common simplifications with biologically realistic models",
+    "authors": "Herbst EC, Lautenschlager S, Bastiaans D, Miedema F, Scheyer TM.",
+    "year": 2021,
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2021.103182",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

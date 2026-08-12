@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9495566",
+  "paper_id": "doi:10.3390/bioengineering9090464",
+  "pmcid": "PMC9495566",
+  "source_record_sha256": "7f5b4e8e99e8ac2ec72fd39b5d6356030305f79579b5c4f7b6a5981d9470e126",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4dde4a3a1c565b56d037733088e9793727ed4f45800c334e563925eac363e16c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of a Locking Autocompression Screw Model in Pauwels Type-3 Femoral Neck Fracture: In Vitro Analysis",
+    "authors": "Giordano V, Freitas A, Pires RE, Battaglion LR, Lobo MO, Belangero WD.",
+    "year": 2022,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering9090464",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

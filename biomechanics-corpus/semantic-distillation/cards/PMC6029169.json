@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6029169",
+  "paper_id": "doi:10.1186/s41038-018-0121-4",
+  "pmcid": "PMC6029169",
+  "source_record_sha256": "6f01a52bd02c4fa963611e916f358edc5f3832a3360886394aff0f142aa2b241",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c4067e3f8dec7227bc3e91c784b30ce1d0c56622c39100d99e4bd32968127e56",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Review of additive manufactured tissue engineering scaffolds: relationship between geometry and performance",
+    "authors": "Gleadall A, Visscher D, Yang J, Thomas D, Segal J.",
+    "year": 2018,
+    "journal": "Burns & Trauma",
+    "doi": "10.1186/s41038-018-0121-4",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

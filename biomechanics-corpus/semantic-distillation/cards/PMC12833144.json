@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12833144",
+  "paper_id": "doi:10.1177/20417314251413982",
+  "pmcid": "PMC12833144",
+  "source_record_sha256": "0e1edaf509619abcb99112d1596d89a2e8489c89a7774f4d0b0b99933e5997ef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "46ae5a45b69494ff5ff72bcdee97a885f058182d35e4d1b92c6888c679be1297",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomaterials-based engineering of the bone microenvironment for osteoporosis therapy",
+    "authors": "Puthiyoth Dayanandan A, Prakash N, Arai Y, Kim BJ, Lee SH.",
+    "year": 2026,
+    "journal": "Journal of Tissue Engineering",
+    "doi": "10.1177/20417314251413982",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

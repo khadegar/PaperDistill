@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10311449",
+  "paper_id": "doi:10.3389/fbioe.2023.1221314",
+  "pmcid": "PMC10311449",
+  "source_record_sha256": "569015ade5087d2289c3d5648670a32347bea49373cadc8b671c931859263bd6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ea07e3f86d8d0dd0991359acf3cc62456c296f6a0654b58cce03c960f968c2e3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A tissue engineered 3D printed calcium alkali phosphate bioceramic bone graft enables vascularization and regeneration of critical-size discontinuity bony defects in vivo",
+    "authors": "Knabe C, Stiller M, Kampschulte M, Wilbig J, Peleska B, Günster J, Gildenhaar R, Berger G, Rack A, Linow U, Heiland M, Rendenbach C, Koerdt S, Steffen C, Houshmand A, Xiang-Tischhauser L, Adel-Khattab D.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1221314",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

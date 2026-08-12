@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9756496",
+  "paper_id": "doi:10.1186/s12891-022-06053-7",
+  "pmcid": "PMC9756496",
+  "source_record_sha256": "17123c2fdfc8234cd3da8ebd49a9a8f080c787db625c7d3f70e92bcd41b27caf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0770b482272b5c37a2cb0681263386447889965cb7cc3af9cffa0e25c4d81801",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional printed customized uncemented unipolar prosthesis combined with ligament reconstruction for tumorous defect of the distal femur in children",
+    "authors": "Li Z, Lu M, Zhang Y, You Q, Wang Y, Li L, Ye Q, Wang Y, Luo Y, Min L, Zhou Y, Tu C.",
+    "year": 2022,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-022-06053-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

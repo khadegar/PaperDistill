@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11942433",
+  "paper_id": "doi:10.3390/gels11030173",
+  "pmcid": "PMC11942433",
+  "source_record_sha256": "093f106a0af2b9eada58fdc451e6a4a89d1be52e98a479f2bce168d4edcceea9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ce5c90e15ae0c1f0c7d07edae508257926d5f8c3fd1182515fbfdf8dc384b390",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porcine Bone Extracellular Matrix Hydrogel as a Promising Graft for Bone Regeneration",
+    "authors": "Hayam R, Hamias S, Skitel Moshe M, Davidov T, Yen FC, Baruch L, Machluf M.",
+    "year": 2025,
+    "journal": "Gels",
+    "doi": "10.3390/gels11030173",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

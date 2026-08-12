@@ -1,0 +1,350 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5577999",
+  "paper_id": "doi:10.3390/ijms18081607",
+  "pmcid": "PMC5577999",
+  "source_record_sha256": "7fc3265d8f19c11aee78ee63f2aea0f17b46b1241e08bbd538d041b8bad89a2c",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T11:50:35Z",
+    "packet_sha256": "8139b24b9a50981ccf08704abee383837b70934c31795134773a25f99cadf110",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S002:C02",
+      "S002:C03",
+      "S003:C01",
+      "S003:C02",
+      "S004:C01",
+      "S004:C02",
+      "S004:C03",
+      "S004:C04",
+      "S005:C01",
+      "S005:C02",
+      "S006:C01",
+      "S007:C01",
+      "S007:C02",
+      "S007:C03",
+      "S007:C04",
+      "S008:C01",
+      "S008:C02",
+      "S008:C03",
+      "S008:C04",
+      "S009:C01",
+      "S010:C01",
+      "S010:C02",
+      "S010:C03",
+      "S010:C04",
+      "S011:C01",
+      "S011:C02",
+      "S012:C01",
+      "S012:C02",
+      "S012:C03",
+      "S012:C04",
+      "S013:C01",
+      "S014:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Design for Additive Bio-Manufacturing: From Patient-Specific Medical Devices to Rationally Designed Meta-Biomaterials",
+    "authors": "Zadpoor AA.",
+    "year": 2017,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms18081607",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "narrative_design_framework_review",
+    "design_features": [
+      "design_for_additive_manufacturing",
+      "image_based_patient_specific_design",
+      "statistical_shape_models",
+      "parametric_and_nonparametric_design",
+      "meta_biomaterials",
+      "multiphysics_rational_design",
+      "topology_optimization",
+      "bio_inspired_hierarchies_and_gradients",
+      "hybrid_manufacturing",
+      "no_systematic_review_method"
+    ],
+    "research_problem": "AM creates geometry and batch freedoms that conventional design rules do not exploit, while biomedical devices require personalization and coupled mechanical, transport, biological, manufacturing, and regulatory performance.",
+    "exact_gap": "The field needed a coherent DfAM framework connecting imaging/anatomy, parametric design, meta-biomaterial topology-property relations, realistic loads, topology optimization, manufacturing artifacts, bio-inspired design, and translation constraints (S001:C01-S002:C03).",
+    "objective_or_hypothesis": "Narratively review the major DfAM routes relevant to medical devices and biomaterials and identify underdeveloped links, especially patient-specific loads, AM-process feedback, multi-property rational design, and automation (S001:C01-S013:C01).",
+    "study_design": "Broad narrative/position review organized by design approach; no reproducible search, eligibility criteria, screening, risk-of-bias assessment, evidence grading, or meta-analysis is reported.",
+    "sample_or_model": "Cited examples spanning imaging, SSMs, personalized devices, AM technologies, TPMS/meta-biomaterials, mechanics, fatigue, transport, topology optimization, and bio-inspired materials; no new experiment or patient data.",
+    "comparators": [
+      "Conventional design-for-manufacturing versus DfAM",
+      "Image-based, parametric, non-parametric, rational, topology-optimized, and bio-inspired design routes",
+      "Analytical versus computational topology-property models",
+      "Additive-only versus hybrid additive/subtractive/formative manufacturing",
+      "No systematic comparative efficacy synthesis"
+    ],
+    "method_spine": [
+      "Map clinical/function requirements to image/anatomy inputs.",
+      "Choose parametric, non-parametric, statistical-shape, rational, topology, or bio-inspired design representation.",
+      "Write target properties and trade-offs as an objective/constraint contract.",
+      "Estimate service loads and couple them to microarchitecture/material models.",
+      "Feed AM surface, thermal, residual-stress, and geometric artifacts back into design.",
+      "Validate CAD, as-built, mechanical/transport/fatigue, biological, and clinical levels separately."
+    ],
+    "validation_roles": {
+      "verification": [
+        "The review provides a conceptual taxonomy and cited design examples, but no systematic method verifies completeness or balances positive/negative evidence."
+      ],
+      "calibration": [],
+      "validation": [
+        "All numerical property values and patient-specific/meta-biomaterial examples come from cited work, not validation performed by this review (S003:C01-S011:C02).",
+        "The review's major contribution is a design protocol and research agenda rather than an effect estimate or validated device."
+      ],
+      "sensitivity": [
+        "The narrative explicitly identifies image resolution, anatomy representation, load accuracy, nonlinear/multiphysics behavior, process artifacts, materials, tolerances, cost, and biocompatibility as sensitivity/translation dimensions (S004:C01-S012:C04).",
+        "No formal evidence-level sensitivity or subgroup analysis is performed."
+      ],
+      "application_prediction": [
+        "Patient-specific implants, topology-designed microarchitectures, multi-material bio-inspired interfaces, and hybrid manufacturing are design opportunities whose clinical benefit remains application-specific."
+      ]
+    },
+    "primary_outcomes": [
+      "The review decomposes patient-specific design into imaging/segmentation, missing-anatomy estimation by contralateral or statistical shape models, and parametric/non-parametric device fitting (S003:C01-S005:C02).",
+      "Meta-biomaterial design is framed as a coupled stiffness-strength-fatigue-permeability-diffusivity-surface-area problem, with TPMS examples illustrating but not universally proving simultaneous property matching (S007:C01-S007:C04).",
+      "Rational design should use analytical relations for simple linear behavior, computational models for nonlinear/multiphysics response, realistic musculoskeletal loads, and AM process models for roughness, thermal history, residual stress, and irregularity (S008:C01-S008:C04).",
+      "Topology optimization requires explicit objectives/constraints plus AM overhang/support and hybrid post-processing considerations; analogy to bone adaptation is a design heuristic rather than evidence of biological adaptation (S010:C01-S010:C04).",
+      "Major translation constraints include manual design cost, imaging resolution/radiation, limited materials, AM accuracy, implant biocompatibility, and the need for demonstrable clinical benefit (S012:C01-S012:C04)."
+    ],
+    "highest_evidence_level_reached": "Narrative design synthesis and research agenda drawing on heterogeneous cited examples; no systematic evidence assessment or original validation."
+  },
+  "argument_map": {
+    "central_claim": "Biomedical DfAM should be written as a closed design-evidence loop from clinical need and anatomy through objectives, process-aware geometry, as-built properties, multiphysics/biology, and clinical value, rather than as an assumption that geometric complexity or personalization automatically improves outcomes.",
+    "data": [
+      "Cited examples and conceptual analysis across patient-specific design, meta-biomaterials, rational modeling, topology optimization, bio-inspiration, and hybrid manufacturing (S003:C01-S012:C04)."
+    ],
+    "warrant": "AM enables previously inaccessible design spaces, but every extra degree of freedom introduces imaging, modeling, manufacturing, metrology, validation, cost, and regulatory requirements.",
+    "backing": [
+      "The review explicitly notes process irregularities, realistic-load needs, manual design expense, image limitations, material scarcity, accuracy, and strict implant biocompatibility (S008:C02-S008:C04; S012:C02-S012:C04)."
+    ],
+    "qualifier": "Conceptual DfAM framework based on selected literature as of 2017.",
+    "rebuttals_or_boundaries": [
+      "Complexity is not cost-free once supports, qualification, inspection, post-processing, failure risk, and design labor are counted.",
+      "Patient-specific geometry does not automatically include patient-specific material, loads, contact, pathology, biology, or surgical tolerance.",
+      "High surface area, permeability, low modulus, and fatigue strength may trade off and must be measured in the same as-built design.",
+      "Cited exemplar performance cannot be generalized across materials, unit cells, processes, scales, or implants.",
+      "Narrative selection lacks systematic completeness/quality evaluation.",
+      "The review predates substantial later evidence and should be used as a framework, not a current effectiveness survey."
+    ],
+    "argument_coherence": "high_as_design_framework_moderate_as_field_evidence_review_low_for_current_comparative_effectiveness"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "The review itself produces no new geometry, mechanical, transport, fatigue, cell, animal, or clinical measurement."
+    ],
+    "predicted": [],
+    "inferred": [
+      "Complexity-for-free, perfect patient matching, unprecedented property combinations, cost justification, and superior performance are design-level generalizations supported by selected examples rather than universal findings (S001:C01-S002:C02; S007:C03; S012:C01-S012:C03)."
+    ],
+    "recommended": [
+      "Couple patient-specific anatomy/load models, topology-property models, AM process simulation, as-built metrology, multiphysics/fatigue testing, biology, clinical endpoints, automation, and cost evidence (S008:C02-S008:C04; S010:C01-S012:C04)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Image-conforming CAD is not surgical fit or clinical benefit.",
+      "Designed topology-property relations are not as-built properties.",
+      "Low modulus/high permeability are not bone ingrowth or long-term fixation.",
+      "Surface area is not successful biofunctionalization or infection prevention.",
+      "Manufacturability by AM is not qualification, reproducibility, or cost-effectiveness."
+    ],
+    "overclaim_risks": [
+      "Complexity-for-free and perfect-match language understates process/design/qualification costs and tolerances (S001:C01-S002:C02).",
+      "A cited TPMS example is described as mimicking bone to unprecedented multiphysics detail; this remains study-specific and not a clinical integration result (S007:C03).",
+      "Clinical-cost arguments are illustrative rather than a formal economic evaluation (S012:C02-S012:C03).",
+      "Animal and clinical cues belong to cited examples, not this review's design."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "review_framework",
+      "move": "Organize DfAM by decision stage rather than manufacturing process alone",
+      "execution": "The paper moves from patient geometry through parametric design, meta-properties, computational design, topology, bio-inspiration, and implementation (S003:C01-S012:C04).",
+      "locator": "S003:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Structure interdisciplinary implant papers as need/anatomy to design variables to process constraints to as-built function to biology to clinical value.",
+      "failure_mode": "A taxonomy without evidence labels can make cited concepts look equally mature."
+    },
+    {
+      "section": "methods_or_design_rationale",
+      "move": "Decompose patient specificity",
+      "execution": "Imaging, segmentation, missing anatomy, SSM fitting, and parametric/non-parametric design are treated separately (S004:C01-S005:C02).",
+      "locator": "S004:C03",
+      "effectiveness": "high",
+      "transferable_principle": "State whether patient specificity covers geometry, material, loads, contact, pathology, biology, surgery, and outcomes; never use the label as a single binary property.",
+      "failure_mode": "A database or mirrored shape can be patient-matched geometrically while every functional input remains generic."
+    },
+    {
+      "section": "design_results",
+      "move": "Write meta-biomaterial design as a multiphysics Pareto problem",
+      "execution": "Stiffness, strength, fatigue, porosity, permeability, diffusivity, and surface function are explicitly linked and shown to conflict (S007:C02-S007:C04).",
+      "locator": "S007:C02",
+      "effectiveness": "high",
+      "transferable_principle": "Define every mechanical, transport, fatigue, and biological target with units, comparator, architecture, process state, and trade-off; report Pareto sets rather than a universal optimum.",
+      "failure_mode": "Matching separate literature ranges does not prove one as-built implant achieves them simultaneously."
+    },
+    {
+      "section": "discussion",
+      "move": "Close the process-model feedback loop",
+      "execution": "The review calls for roughness, thermal history, residual stress, and geometric irregularity from AM process models to feed rational design (S008:C03-S008:C04).",
+      "locator": "S008:C04",
+      "effectiveness": "high",
+      "transferable_principle": "Use CAD-to-process-to-as-built-to-updated-model validation, and propagate manufacturing variability into predicted performance.",
+      "failure_mode": "Ideal CAD optimization is fragile when defects and residual stress are omitted."
+    },
+    {
+      "section": "discussion",
+      "move": "Treat implementation cost and constraints as evidence axes",
+      "execution": "Manual design cost, imaging dose/resolution, materials, accuracy, biocompatibility, hybrid finishing, and clinical benefit are discussed separately (S012:C01-S012:C04).",
+      "locator": "S012:C03",
+      "effectiveness": "high",
+      "transferable_principle": "Report manufacturing cost, design labor, lead time, inspection, post-processing, regulatory/material limits, and demonstrated clinical value independently.",
+      "failure_mode": "Low print cost or high clinical burden alone does not prove cost-effectiveness."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Image resolution/dose/cost, scarce parametric/shape models, manual design expense, limited AM materials/accuracy, strict implant biocompatibility, and immature multi-material/hybrid approaches (S005:C01-S005:C02; S008:C03-S008:C04; S012:C01-S012:C04)."
+    ],
+    "reader_identified": [
+      "No systematic search, inclusion, evidence-quality assessment, or quantitative synthesis.",
+      "Selected laboratory examples may overrepresent successful high-performance designs and underrepresent failures/negative clinical results.",
+      "No explicit maturity/evidence grading across design routes.",
+      "Several broad claims about cost, perfect matching, and unprecedented properties require application-specific evidence.",
+      "The 2017 evidence landscape should be supplemented with current primary studies for contemporary conclusions."
+    ],
+    "likely_bias_direction": [
+      "Conceptual enthusiasm likely inflates readiness and universality of AM benefits.",
+      "Examples from the authors' research environment may favor certain meta-biomaterial routes.",
+      "Manufacturing possibility may be conflated with qualification and clinical advantage."
+    ],
+    "scope_boundary": "Use the review as a DfAM ontology and argument blueprint; verify technical values in original papers and use current systematic/primary evidence for effectiveness, safety, and clinical claims."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC5577999-01",
+      "capability": "Use a full biomedical DfAM argument chain from clinical need and anatomy through design contract, process constraints, as-built properties, multiphysics/biology, and clinical boundary.",
+      "manuscript_use": "Whole-paper argument spine and workflow figure.",
+      "applicable_domains": [
+        "additive_manufacturing",
+        "bone_implant",
+        "topology_optimization",
+        "porous_scaffold"
+      ],
+      "applicable_study_designs": [
+        "design_study",
+        "narrative_review"
+      ],
+      "supporting_locators": [
+        "S004:C01",
+        "S004:C02",
+        "S005:C01",
+        "S007:C02",
+        "S008:C02",
+        "S008:C03",
+        "S008:C04",
+        "S012:C03",
+        "S012:C04"
+      ],
+      "counterexample_or_boundary": "Every arrow requires direct evidence or an explicit future-work label.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC5577999-02",
+      "capability": "Decompose patient specificity into geometry, material, load, contact, pathology, biology, surgical tolerance, and outcome personalization.",
+      "manuscript_use": "Title/abstract claim audit and Methods data provenance.",
+      "applicable_domains": [
+        "patient_specific_implant",
+        "biomechanics",
+        "additive_manufacturing"
+      ],
+      "applicable_study_designs": [
+        "design_study",
+        "finite_element",
+        "clinical_device"
+      ],
+      "supporting_locators": [
+        "S003:C01",
+        "S004:C01",
+        "S004:C02",
+        "S004:C03",
+        "S005:C01",
+        "S005:C02",
+        "S008:C02"
+      ],
+      "counterexample_or_boundary": "Image-conforming geometry alone is only one dimension of patient specificity.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC5577999-03",
+      "capability": "Close the CAD-process-as-built-updated-model loop and propagate surface, thermal, residual-stress, and geometry defects into performance claims.",
+      "manuscript_use": "AM Methods, validation Results, and uncertainty Discussion.",
+      "applicable_domains": [
+        "additive_manufacturing",
+        "topology_optimization",
+        "porous_scaffold"
+      ],
+      "applicable_study_designs": [
+        "computational_design",
+        "manufacturing_validation"
+      ],
+      "supporting_locators": [
+        "S008:C01",
+        "S008:C02",
+        "S008:C03",
+        "S008:C04",
+        "S010:C01",
+        "S010:C02"
+      ],
+      "counterexample_or_boundary": "Ideal CAD property predictions are not as-built device evidence.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_conceptual_framework",
+    "methods_transparency": "low_as_review_methodology",
+    "validation_credibility": "not_applicable_for_original_data_and_heterogeneous_for_cited_examples",
+    "outcome_uncertainty_reporting": "low_to_moderate",
+    "comparator_fairness": "not_assessable",
+    "conclusion_proportionality": "moderate",
+    "critical_weaknesses": [
+      "Narrative selection without evidence grading.",
+      "Broad AM/personalization/property claims from selected examples.",
+      "Framework is valuable but evidence currency is limited by publication year."
+    ],
+    "overall_credibility": "high_as_DfAM_framework_moderate_for_field_characterization_low_for_effectiveness_or_clinical_claims"
+  },
+  "summary_zh": "这是一篇DfAM叙述性框架综述，没有新实验。它把患者特异设计拆成影像/分割、缺损解剖估计、参数化与非参数化设计；把meta-biomaterial写成刚度—强度—疲劳—渗透—扩散—表面积的多物理权衡；并明确理想CAD必须接收AM粗糙度、热史、残余应力和几何缺陷的反馈。最有价值的能力是建立‘临床需求→几何/载荷→目标与约束→工艺限制→as-built→力学/传质/生物→临床价值’闭环。边界同样重要：complexity-for-free和perfect match忽略设计、支撑、后处理、计量和资格认证；患者特异几何也不等于材料、载荷、病理和结果都个体化。该文适合作为Skill的设计本体，具体效果仍需回到原始和较新的证据。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference section from imaging and SSMs through meta-biomaterials, topology optimization, process feedback, implementation constraints, and conclusion.",
+    "Animal and clinical cues describe cited applications, not this review's design.",
+    "The paper is used as a framework source, not as evidence of device efficacy."
+  ],
+  "selection": {
+    "selection_reason": "balanced_stratum",
+    "primary_stratum": "topology_optimization",
+    "stratum_rank": 5,
+    "reading_order": 45
+  },
+  "source": {
+    "record_path": "records/PMC5577999.json.gz",
+    "source_record": "records/PMC5577999.json.gz",
+    "source_record_sha256": "7fc3265d8f19c11aee78ee63f2aea0f17b46b1241e08bbd538d041b8bad89a2c",
+    "source_hash": "7fc3265d8f19c11aee78ee63f2aea0f17b46b1241e08bbd538d041b8bad89a2c"
+  }
+}

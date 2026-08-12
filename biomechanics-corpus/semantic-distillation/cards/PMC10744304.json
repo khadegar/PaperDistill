@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10744304",
+  "paper_id": "doi:10.3390/jfb14120563",
+  "pmcid": "PMC10744304",
+  "source_record_sha256": "04e46a0a6347fde3fd6d75d0ed38731c46f4c46d3784be0bc509445e5ab7b97d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8365a6c76eff5496d0c1b9cf2ab31886ccbe5d32e2648d6e72039fe3c7c7d7f7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Model-Based Design to Enhance Neotissue Formation in Additively Manufactured Calcium-Phosphate-Based Scaffolds",
+    "authors": "Liang B, Sadeghian Dehkord E, Van Hede D, Barzegari M, Verlée B, Pirson J, Nolens G, Lambert F, Geris L.",
+    "year": 2023,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb14120563",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

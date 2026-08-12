@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5599039",
+  "paper_id": "doi:10.1371/journal.pone.0184835",
+  "pmcid": "PMC5599039",
+  "source_record_sha256": "4ede50531f5c8c95d438113799dfcc5a899031baa8cc2b698007caff00e0247d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c40eac185cae8234ccf97abf0026a7c6d208eb41d6337169778be10d58664324",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impaired bone formation in ovariectomized mice reduces implant integration as indicated by longitudinal in vivo micro-computed tomography",
+    "authors": "Li Z, Kuhn G, Schirmer M, Müller R, Ruffoni D.",
+    "year": 2017,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0184835",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

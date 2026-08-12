@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7747643",
+  "paper_id": "doi:10.1038/s41598-020-78416-w",
+  "pmcid": "PMC7747643",
+  "source_record_sha256": "799abc67f88a88d3da1f1645cdc23590ea5b6ae5053671fcfde671d02445d64d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4b9ce239243da615febda279d1f35cbc96aac8b64096ee520dd49a160e31bee9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A biomimetic engineered bone platform for advanced testing of prosthetic implants",
+    "authors": "Sladkova-Faure M, Pujari-Palmer M, Öhman-Mägi C, López A, Wang H, Engqvist H, de Peppo GM.",
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-78416-w",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12022952",
+  "paper_id": "doi:10.1021/acsami.4c22032",
+  "pmcid": "PMC12022952",
+  "source_record_sha256": "f8202a8f35acafb6356eec9dba5a21c7e1e9502b8d23d42d0475b7bea1706085",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "edbc8ff8737c97742d3436678bebd9888742a91d3d4ff3affcd5345de27132ff",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Engineered 3D-Printable Nanohydroxyapatite Biocomposites with Cold Plasma-Tailored Surface Features to Boost Osseointegration",
+    "authors": "Chan RSM, Lee SJ, Wang F, Zhou T, Kishan R, Shum HC, Yang W, Su YX, Tsoi JKH, Diwan AD, Prusty BG, Cho K.",
+    "year": 2025,
+    "journal": "ACS Applied Materials & Interfaces",
+    "doi": "10.1021/acsami.4c22032",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

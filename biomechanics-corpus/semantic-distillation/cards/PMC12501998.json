@@ -1,0 +1,321 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12501998",
+  "paper_id": "doi:10.1115/1.4065405",
+  "pmcid": "PMC12501998",
+  "source_record_sha256": "ad4279b91039bf85bf24c9933dc6306934438ed4a986a23d847f55617e512c24",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T10:38:16Z",
+    "packet_sha256": "296ae09d8e32872f8b9f81dd78282e8c456553c19d55d19e6ad0fb0117c6b8ea",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S002:C02",
+      "S002:C03",
+      "S003:C01",
+      "S003:C02",
+      "S003:C03",
+      "S004:C01",
+      "S004:C02",
+      "S005:C01",
+      "S005:C02",
+      "S006:C01",
+      "S006:C02",
+      "S007:C01",
+      "S008:C01",
+      "S008:C02",
+      "S008:C03",
+      "S008:C04",
+      "S008:C05",
+      "S008:C06",
+      "S008:C07",
+      "S008:C08",
+      "S008:C09",
+      "S008:C10",
+      "S009:C01",
+      "S009:C02",
+      "S010:C01",
+      "S010:C02",
+      "S010:C03",
+      "S011:C01",
+      "S011:C02",
+      "S011:C03",
+      "S012:C01",
+      "S012:C02",
+      "S012:C03",
+      "S013:C01",
+      "S014:C01",
+      "S015:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Implant Strength Contributes to the Osseointegration Strength of Porous Metallic Materials",
+    "authors": "Mathey E, Pelletier MH, Walsh WR, Gall K, Carpenter D.",
+    "year": 2024,
+    "journal": "Journal of Biomechanical Engineering",
+    "doi": "10.1115/1.4065405",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Research Support, U.S. Gov't, Non-P.H.S.; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "multimaterial_nonlinear_FE",
+      "ovine_pushout_data",
+      "porous_gyroid",
+      "calibration_and_holdout_comparison",
+      "plastic_failure_analysis"
+    ],
+    "research_problem": "Porous implants are often optimized for low stiffness and load sharing, but high porosity also lowers strength and may cause implant/bone plastic collapse before a mechanically strong osseointegrated interface develops.",
+    "exact_gap": "Elastic or empty-lattice analyses do not explain why very porous gyroid implants can share load yet show lower push-out strength; a multimaterial failure-capable model linked to in-vivo push-out data was needed.",
+    "objective_or_hypothesis": "Calibrate a bone–implant push-out FE model on the solid group, test whether it predicts 50–90% porosity trends, and use component plasticity/load sharing to explain how porosity changes assembly strength.",
+    "study_design": "Nonlinear multimaterial FE study reusing 12-week ovine bicortical push-out experiments (n=8/group): mesh convergence, staged constitutive-model development, two-parameter calibration on the 0% group, comparison with porous groups, and local plasticity/load-sharing analysis.",
+    "sample_or_model": "6-mm Ti gyroid implants at 0, 50, 60, 70, 80, and 90% porosity; idealized fully filled homogeneous isotropic ingrown bone, cortical bone block, rigid indenter, tied bone–implant interface, and prior ovine push-out curves.",
+    "comparators": [
+      "Six porosity levels",
+      "Elastic-only versus sequential implant/outer-bone/ingrown-bone plasticity",
+      "FE predictions versus experimental group means/curves",
+      "Low versus high global force load sharing"
+    ],
+    "method_spine": [
+      "Replicate push-out geometry and verify mesh convergence for the 70% model.",
+      "Add nonlinear plastic behavior component by component to identify necessary failure physics.",
+      "Fit ingrown-bone ash density and frame-compliance correction to the solid experimental group.",
+      "Apply fixed calibration to 50–90% groups and compare stiffness/0.5-mm force trends.",
+      "Interrogate component forces, stresses, and plastic zones across load levels."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Mesh refinement changed stiffness <3% and 0.5-mm force <2.5% for the 70% model, then convergence was assumed for other porosities (S003:C02-S003:C03)."
+      ],
+      "calibration": [
+        "Ingrown-bone ash density and test-frame compliance were fitted to maximum force and stiffness of the 0% experimental group (S006:C01-S006:C02)."
+      ],
+      "validation": [
+        "The 50–90% experimental groups were not used for parameter fitting and provide a conditional porosity holdout with high trend correlations, but they come from the same study/timepoint and the model systematically overpredicts values (S008:C03-S008:C05; S010:C01-S010:C03)."
+      ],
+      "sensitivity": [
+        "Mesh and constitutive plasticity inclusion are examined; bone fill, tie/contact, ash density, geometry imperfection, and other parameter uncertainties are not systematically varied."
+      ],
+      "application_prediction": [
+        "The reported 60–70% favorable range applies only to this gyroid, size, material, 12-week ovine ingrowth approximation, and push-out loading (S014:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "Plasticity in ingrown bone and implant is required to reproduce yield/post-yield trends; elastic-only models miss failure behavior (S008:C01-S008:C02; S009:C01-S009:C02).",
+      "Porous-group FE stiffness and 0.5-mm force trends correlate strongly with experimental means (r2 0.98 and 0.97), while predictions remain systematically high (S008:C03-S008:C05).",
+      "Higher porosity increases bone load share, but at 80–90% the implant plastically collapses and drives high local bone stress/plasticity at lower global force (S008:C06-S008:C10).",
+      "50–70% designs have similar load-sharing fractions over much of the load range, showing that lower stiffness alone is not a sufficient optimization objective (S011:C01-S011:C03)."
+    ],
+    "highest_evidence_level_reached": "Mechanistically interpretable FE prediction with within-study experimental holdout across porosity at one ovine time point; no independent device/clinical validation."
+  },
+  "argument_map": {
+    "central_claim": "Porous implant design must jointly consider stiffness, strength, and load-dependent plasticity because excessive porosity can improve low-load sharing yet reduce construct strength through implant collapse and secondary bone overloading.",
+    "data": [
+      "Staged material models show that component plasticity changes global response (S008:C01-S008:C02).",
+      "Calibrated models reproduce porous-group trends but overpredict magnitudes (S008:C03-S008:C05).",
+      "Load-share curves and plastic-zone maps connect high porosity to implant and bone yield (S008:C06-S008:C10)."
+    ],
+    "warrant": "A design is mechanically favorable only if it transfers useful load to bone without entering a low-strength regime that creates damaging local stresses before global failure.",
+    "backing": [
+      "Experimental push-out trends provide a conditional check on the modeled porosity ranking (S008:C03-S008:C05)."
+    ],
+    "qualifier": "For the current gyroid, geometry, early ovine ingrowth, and push-out load case.",
+    "rebuttals_or_boundaries": [
+      "The model assumes complete homogeneous bone fill and perfect bonding (S010:C02).",
+      "The 0% group supplies two fitted quantities, so it is calibration rather than validation (S006:C01-S006:C02).",
+      "Porous comparisons are same-study holdouts, not an external dataset.",
+      "Long-term remodeling, fatigue, imperfect as-built geometry, and biological ingrowth are outside the model (S014:C01)."
+    ],
+    "argument_coherence": "high_for_mechanical_mechanism_moderate_for_optimal_range"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Prior ovine push-out force–displacement curves and printed-solid titanium tensile data are experimental inputs/comparators (S003:C01; S005:C01; S008:C03)."
+    ],
+    "predicted": [
+      "FE stiffness, 0.5-mm force, load sharing, component stress, and plastic strain for all assemblies are predictions (S007:C01-S008:C10)."
+    ],
+    "inferred": [
+      "Implant collapse is inferred as the mechanism for low high-porosity assembly strength from convergent model maps and experimental trends (S008:C08-S010:C01).",
+      "A 60–70% range is inferred as favorable for this setup, not a universal biological optimum (S010:C01; S014:C01).",
+      "Low bone stress in the 50% model is suggested to be inadequate for growth without a remodeling measurement (S012:C02)."
+    ],
+    "recommended": [
+      "Optimize stiffness and strength together and test porosity effects on long-term bone regeneration/mineralization (S012:C01-S013:C01)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Push-out strength measures fixation at 12 weeks, not long-term osseointegration or clinical survival.",
+      "Modeled bone stress/load share is a mechanobiological proxy, not measured remodeling.",
+      "Trend correlation does not establish unbiased absolute prediction."
+    ],
+    "overclaim_risks": [
+      "The abstract calls the model validated without distinguishing solid-group calibration from porous same-study holdout (S001:C01).",
+      "'Optimal porosity 60–70%' can be misread as universal despite explicit current-structure/loading limits (S001:C01; S014:C01).",
+      "Perfect fill/tie create a best-case model that systematically overpredicts force (S008:C04-S010:C03)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Disclose calibration targets and holdout groups",
+      "execution": "The exact solid-group quantities used to fit bone density and frame compliance are stated before fixed parameters are applied to porous groups (S006:C01-S006:C02).",
+      "locator": "S006:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Name every fitted parameter, target dataset, and held-out comparison; do not call calibration data validation.",
+      "failure_mode": "A fully external validation set and uncertainty propagation are absent."
+    },
+    {
+      "section": "results",
+      "move": "Report both agreement and systematic bias",
+      "execution": "High porosity-trend correlations are presented alongside consistent absolute overprediction and experimental variability (S008:C03-S008:C05).",
+      "locator": "S008:C04",
+      "effectiveness": "high",
+      "transferable_principle": "A validation paragraph should report direction/magnitude of bias, not only correlation or visual overlap.",
+      "failure_mode": "Few porosity levels make r2 unstable and do not quantify prediction error intervals."
+    },
+    {
+      "section": "discussion",
+      "move": "Replace single-point stiffness reasoning with a load-dependent failure mechanism",
+      "execution": "The paper shows how load sharing changes with global force and how implant strength reverses the apparent benefit at high porosity (S011:C01-S012:C02).",
+      "locator": "S011:C02",
+      "effectiveness": "high",
+      "transferable_principle": "For nonlinear implants, discuss load sharing as a trajectory across load and failure, linking global metrics to local component states.",
+      "failure_mode": "Biological consequences remain inferred from mechanical fields."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Ideal geometry, homogeneous full bone fill, perfect interface bonding, and equal component heights contribute to overprediction (S010:C02-S010:C03).",
+      "Animal/surgical variation and a single 12-week time point limit long-term inference; results apply to the current gyroid (S014:C01)."
+    ],
+    "reader_identified": [
+      "Convergence is demonstrated for one porosity and assumed for others.",
+      "No material/contact/bone-fill probabilistic sensitivity or as-built CT geometry.",
+      "Same-study porous groups are useful holdouts but not independent external validation.",
+      "Tie contact precludes interfacial debond/slip, central to push-out failure.",
+      "Correlation across few group means can appear strong despite systematic bias."
+    ],
+    "likely_bias_direction": [
+      "Perfect fill/tie and ideal geometry bias strength predictions upward.",
+      "Calibration on the solid group may favor trends sharing the same experimental system.",
+      "Calling a local range optimal biases scope toward universality."
+    ],
+    "scope_boundary": "The model supports a mechanical explanation and porosity trend for a 6-mm gyroid in a 12-week ovine push-out setup; it does not define a universal lattice optimum or validate long-term biological/clinical osseointegration."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC12501998-01",
+      "capability": "Distinguish numerical verification, parameter calibration, same-study holdout comparison, and independent validation in FE writing.",
+      "manuscript_use": "Methods, validation Results, abstract, and limitations.",
+      "applicable_domains": [
+        "biomechanics",
+        "bone_implant",
+        "porous_scaffold"
+      ],
+      "applicable_study_designs": [
+        "finite_element_analysis"
+      ],
+      "supporting_locators": [
+        "S003:C02",
+        "S003:C03",
+        "S006:C01",
+        "S006:C02",
+        "S008:C03",
+        "S008:C04"
+      ],
+      "counterexample_or_boundary": "High r2 on group means does not erase calibration overlap, systematic bias, or missing external validation.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12501998-02",
+      "capability": "Write porous-implant optimization as stiffness–strength–plasticity–load-sharing trade-offs across load, not as modulus matching alone.",
+      "manuscript_use": "Design rationale, Results, and mechanism Discussion.",
+      "applicable_domains": [
+        "porous_scaffold",
+        "topology_optimization",
+        "bone_implant"
+      ],
+      "applicable_study_designs": [
+        "computational_design",
+        "mechanical_experiment"
+      ],
+      "supporting_locators": [
+        "S008:C06",
+        "S008:C07",
+        "S008:C08",
+        "S008:C10",
+        "S011:C02",
+        "S012:C01"
+      ],
+      "counterexample_or_boundary": "Mechanical fields require a separate biological link before claiming remodeling or long-term osseointegration.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12501998-03",
+      "capability": "Constrain every reported optimum by architecture, dimensions, material state, load case, species, and time point.",
+      "manuscript_use": "Abstract, conclusion, and generalizability statement.",
+      "applicable_domains": [
+        "topology_optimization",
+        "porous_scaffold",
+        "biomechanics"
+      ],
+      "applicable_study_designs": [
+        "optimization",
+        "finite_element_analysis"
+      ],
+      "supporting_locators": [
+        "S001:C01",
+        "S013:C01",
+        "S014:C01"
+      ],
+      "counterexample_or_boundary": "Use 'favorable within the tested design space' unless external architectures and conditions support universality.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high",
+    "methods_transparency": "high",
+    "validation_credibility": "moderate_to_high_for_trend_low_for_absolute_external_prediction",
+    "outcome_uncertainty_reporting": "moderate",
+    "comparator_fairness": "high_within_geometry_series",
+    "conclusion_proportionality": "moderate_to_high",
+    "critical_weaknesses": [
+      "Ideal full-fill tied interface.",
+      "Limited uncertainty/sensitivity and one-timepoint same-study holdout.",
+      "Scope-sensitive optimum language."
+    ],
+    "overall_credibility": "high_for_mechanical_trend_and_mechanism_moderate_for_prediction_low_for_universal_biological_optimum"
+  },
+  "summary_zh": "本文提供了非常可迁移的 FE 写作范式：网格收敛是 verification；用 0% 实心组拟合骨密度和机架顺应性是 calibration；50–90% 组是同一实验中的按孔隙率留出比较；模型仍系统性高估绝对值。力学结论也从“降低刚度”升级为刚度–强度–塑性–载荷分担随载荷演化的联合问题。60–70% 只能写成当前 gyroid、尺寸、12 周羊模型和 push-out 工况内的有利区间。",
+  "reader_notes": [
+    "已阅读全文全部非参考文献章节。",
+    "实验数据来自既往羊模型；本文的新增核心是 FE 与机制解释。"
+  ],
+  "selection": {
+    "selection_reason": "explicit_include",
+    "primary_stratum": "biomechanics_fe_bone",
+    "stratum_rank": 3,
+    "reading_order": 8
+  },
+  "source": {
+    "record_path": "records/PMC12501998.json.gz",
+    "source_record": "records/PMC12501998.json.gz",
+    "source_record_sha256": "ad4279b91039bf85bf24c9933dc6306934438ed4a986a23d847f55617e512c24",
+    "source_hash": "ad4279b91039bf85bf24c9933dc6306934438ed4a986a23d847f55617e512c24"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8990266",
+  "paper_id": "doi:10.3389/fbioe.2022.856398",
+  "pmcid": "PMC8990266",
+  "source_record_sha256": "1d101f6f3074c031b245bc2e7fb6daf9e7bd11f11e1fb118deb2fdaf2b64e5dc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "125d005ee1eeeb016a53503427a7b31608e72def887262fd3b5cf783f3ed32ca",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biodegradable Inks in Indirect Three-Dimensional Bioprinting for Tissue Vascularization",
+    "authors": "Ze Y, Li Y, Huang L, Shi Y, Li P, Gong P, Lin J, Yao Y.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.856398",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7590021",
+  "paper_id": "doi:10.3390/ijms21207541",
+  "pmcid": "PMC7590021",
+  "source_record_sha256": "443756dc4356a574b8aa6269862a5b4fccb3234143aed1432a82ce63f4486d70",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d827068272e0cd8f5a97d0bf7d48df7bb4c0cbe1541c3ddc65c5bf9fefb98a58",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surface-Modified Poly( l -lactide- co -glycolide) Scaffolds for the Treatment of Osteochondral Critical Size Defects—In Vivo Studies on Rabbits",
+    "authors": "Krok-Borkowicz M, Reczyńska K, Rumian Ł, Menaszek E, Orzelski M, Malisz P, Silmanowicz P, Dobrzyński P, Pamuła E.",
+    "year": 2020,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms21207541",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

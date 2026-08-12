@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12649701",
+  "paper_id": "doi:10.3390/bioengineering12111226",
+  "pmcid": "PMC12649701",
+  "source_record_sha256": "5e113f36c64c34ffb5c1f8ee40d4e880b3152022358b2d3d8c7507bff63a8335",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "80703a882c830676d69c7357163497e4703af97151073853ada16975f650de81",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Personalized Design of 3D-Printed Osteochondral Scaffold for Osteoarthritis Patients with Different Bone Conditions and Mechanical Evaluation",
+    "authors": "Zhou J, Liu L, Zhi P, Dong Y, Liu Z, Fan Y.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12111226",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

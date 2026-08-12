@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10860460",
+  "paper_id": "doi:10.1002/cre2.812",
+  "pmcid": "PMC10860460",
+  "source_record_sha256": "96cb826e71346a0807a6dfd5ee1144b71b761ab2fe40ab5869539199e10da8da",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1198e2602aa21541d877c55957113ee1e2b59bfb064be4a49ca97ea549857887",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Assessing the osseointegration potential of a strontium releasing nanostructured titanium oxide surface: A biomechanical study in the rabbit tibia plateau model",
+    "authors": "Isler SC, Bellon B, Foss M, Pippenger B, Stavropoulos A, Andersen OZ.",
+    "year": 2023,
+    "journal": "Clinical and Experimental Dental Research",
+    "doi": "10.1002/cre2.812",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

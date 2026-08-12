@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11343952",
+  "paper_id": "doi:10.1186/s40658-024-00676-6",
+  "pmcid": "PMC11343952",
+  "source_record_sha256": "c44401fb79b7edfdca4660cc722754428379e3bc83d81ba2f41908bc8a658a92",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2e668e2e70f3607b38316c5029d2a779463f0c4145eeff4401468afe5bb7da6f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "From SPECT/CT towards absolute quantification? - the case of unilateral condylar hyperplasia of the mandible",
+    "authors": "De Schepper S, Gnanasegaran G, De Vos W, Van de Casteele E, Dickson JC, Van den Wyngaert T.",
+    "year": 2024,
+    "journal": "EJNMMI Physics",
+    "doi": "10.1186/s40658-024-00676-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12295475",
+  "paper_id": "doi:10.3390/jcm14144956",
+  "pmcid": "PMC12295475",
+  "source_record_sha256": "8020bc2309182d01f3681a2781e9ac7209194a6cfc6ca582cc443ce849d208dc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "580065a75c6aee0b8ebad03d4729830b82d92966d1f9ce457739796e9adfab30",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluating the Effects of Perioperative Ketorolac Use on Uncemented Total Hip Arthroplasty Outcomes",
+    "authors": "Mittal MM, Edwards D, Chen AF, Mounasamy V, Sambandam SN.",
+    "year": 2025,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm14144956",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

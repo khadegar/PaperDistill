@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10609712",
+  "paper_id": "doi:10.2106/jbjs.23.00221",
+  "pmcid": "PMC10609712",
+  "source_record_sha256": "1d644533c3e2a73ae3ae8025595f5bdcb1fe4283b98d288621b09f9a5b250ea0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "edd7cec6fa836687120ef71d007a0c0a1775da10dc3c12114096bbdae23b3d70",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Continued Stabilization of a Cementless 3D-Printed Total Knee Arthroplasty",
+    "authors": "van der Lelij TJN, Marang-van de Mheen PJ, Kaptein BL, Toksvig-Larsen S, Nelissen RGHH.",
+    "year": 2023,
+    "journal": "The Journal of Bone and Joint Surgery. American Volume",
+    "doi": "10.2106/jbjs.23.00221",
+    "publication_type": "research-article; Randomized Controlled Trial; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

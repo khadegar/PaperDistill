@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9962522",
+  "paper_id": "doi:10.3390/jfb14020113",
+  "pmcid": "PMC9962522",
+  "source_record_sha256": "fd353cd7df5fe584b38b0406db29b5ec008c570a102e0abe696bff7ec0d4661c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dd399990d8b8b29b908363d9e5315e852d1765010686024958fdb8a01b47289b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Interbody Implants on the Biomechanical Behavior of Lateral Lumbar Interbody Fusion: A Finite Element Study",
+    "authors": "Shen H, Zhu J, Huang C, Xiang D, Liu W.",
+    "year": 2023,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb14020113",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

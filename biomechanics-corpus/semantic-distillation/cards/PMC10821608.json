@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10821608",
+  "paper_id": "doi:10.1186/s12891-024-07204-8",
+  "pmcid": "PMC10821608",
+  "source_record_sha256": "fd373409ddfe48f64de0bec33917219e50d66c84f245a310bfe668173e33ac12",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8a6a97c4bd5ce67182b13c02a424d10768c37e31ee2d12ef900d4211303dc383",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of different oblique lumbar interbody fusion constructs: a finite element analysis",
+    "authors": "Xu Z, Zheng Q, Zhang L, Chen R, Li Z, Xu W.",
+    "year": 2024,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-024-07204-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

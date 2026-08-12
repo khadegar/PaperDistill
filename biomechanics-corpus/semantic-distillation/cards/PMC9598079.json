@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9598079",
+  "paper_id": "doi:10.3390/bioengineering9100504",
+  "pmcid": "PMC9598079",
+  "source_record_sha256": "c1dd0a57b865cdf115d0848da23088eeaf7971a287329f32d7c95b25198ba231",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "16249f6af2744334c4ac6775b9688fb690d6e60a5e24a0dd0e7b3e4a848e7e1c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical Characterisation and Numerical Modelling of TPMS-Based Gyroid and Diamond Ti6Al4V Scaffolds for Bone Implants: An Integrated Approach for Translational Consideration",
+    "authors": "Naghavi SA, Tamaddon M, Marghoub A, Wang K, Babamiri BB, Hazeli K, Xu W, Lu X, Sun C, Wang L, Moazen M, Wang L, Li D, Liu C.",
+    "year": 2022,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering9100504",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

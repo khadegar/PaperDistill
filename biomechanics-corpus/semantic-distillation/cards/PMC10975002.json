@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10975002",
+  "paper_id": "doi:10.3390/polym16060731",
+  "pmcid": "PMC10975002",
+  "source_record_sha256": "0ec7f8401c57729a9b2dd7bb8a2ce6696c90bea25156f0cd8ae8386528d98c41",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fcc884bfca7bb02d8da16e53267bfd3ce0dacaaa3849dc196653da58e5157532",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of Hydroxyapatite/Polycaprolactone Composite Biomaterials for Laser Powder Bed Fusion: Evaluation of Powder Characteristics, Mechanical Properties and Biocompatibility",
+    "authors": "Yao H, Zhu W, Zhu X, Yi X, Yao J, Yuan X, Chen F, Han X.",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16060731",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

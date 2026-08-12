@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9523139",
+  "paper_id": "doi:10.3389/fbioe.2022.1007535",
+  "pmcid": "PMC9523139",
+  "source_record_sha256": "79cfea2b8c187ff3332a6f4b1b3ae46159dc794d99b7c396c63284dde6cb5f1b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "12b3caeb81d93e175ef8f1eeb26cf76f596d19a56d25e4884a6c8b42e4a09a80",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed Sr 2 ZnSi 2 O 7 scaffold facilitates vascularized bone regeneration through macrophage immunomodulation",
+    "authors": "Pan H, Deng L, Huang L, Zhang Q, Yu J, Huang Y, Chen L, Chang J.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1007535",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

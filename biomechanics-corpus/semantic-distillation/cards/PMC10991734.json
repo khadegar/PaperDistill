@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10991734",
+  "paper_id": "doi:10.3389/fbioe.2024.1360208",
+  "pmcid": "PMC10991734",
+  "source_record_sha256": "58786ab808221500e84fca4bd4c397947b060fceea3ca68ad05f23b533ea7f82",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5aaeba01f445b056571160f597a914c2fb66db0553b64049607a4d62ae35c6d2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reliable in vitro method for the evaluation of the primary stability and load transfer of transfemoral prostheses for osseointegrated implantation",
+    "authors": "Galteri G, Palanca M, Alesi D, Zaffagnini S, Morellato K, Gruppioni E, Cristofolini L.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1360208",
+    "publication_type": "methods-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

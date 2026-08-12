@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11971467",
+  "paper_id": "doi:10.1038/s41598-025-96027-1",
+  "pmcid": "PMC11971467",
+  "source_record_sha256": "2f3aa8e71ea6c7c4242beb5f13fcf9e5a6de68a3bdf34ae1ae794e23ca73af58",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "95fa98841e455744374144c222b5f562dd6e5b4483aaf6260e89f0a5c16d0465",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "PCL scaffold with well-defined hierarchical pores effectively controls cell migration and alignment of human mesenchymal stem cells",
+    "authors": "Lee SH, Lee J, Kang NU, Cho YS, Heo SC, Park Y, Cho YS.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-96027-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

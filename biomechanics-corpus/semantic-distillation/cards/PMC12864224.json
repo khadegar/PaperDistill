@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12864224",
+  "paper_id": "doi:10.1007/s10856-026-07005-6",
+  "pmcid": "PMC12864224",
+  "source_record_sha256": "32a47c744e460a46be46fd43cee2fc138887bf88ff3810e5b0c8b6544d15d1a1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "961ed183a1b2d93ffae11127db1c4468b74f4529aafd2640463af64016966557",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhancing bone repair ability of 3D-printed PLLA scaffolds via N-methyl-2-pyrrolidone etching",
+    "authors": "Yuanzheng W, Qilin J, Xin H, Shaohong W, Jinlong L, Jian C, Zhongxing L.",
+    "year": 2026,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-026-07005-6",
+    "publication_type": "brief-report; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

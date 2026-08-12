@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9339749",
+  "paper_id": "doi:10.34172/joddd.2022.009",
+  "pmcid": "PMC9339749",
+  "source_record_sha256": "cd2554bc622ad6c982a73dce90e4a6eef252a34bfb53cf79ff0f0f48af51634a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "edaf32a6ae936fd0b65f6626dbfb36087cc7fe0e8504047b70559985d58f2619",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A 3-D finite element analysis of the effect of dental implant thread angle on stress distribution in the surrounding bone",
+    "authors": "Sadr K, Vahid Pakdel SM.",
+    "year": 2022,
+    "journal": "Journal of Dental Research, Dental Clinics, Dental Prospects",
+    "doi": "10.34172/joddd.2022.009",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10478492",
+  "paper_id": "doi:10.1186/s12903-023-03318-y",
+  "pmcid": "PMC10478492",
+  "source_record_sha256": "37d01dc9eec8b1701ffecca59f410278c4e1774977d423888ddab3df06e45302",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "17d9d6e2f1474dfd0a02f45ceb4fb9b9b785be8638c2dcd9bea856d0bf18f9de",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative analysis of anchorage strength and histomorphometric changes after implantation of miniscrews in adults and adolescents: an experimental study in Beagles",
+    "authors": "Zhao Y, Jia T, Wang Z.",
+    "year": 2023,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-023-03318-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

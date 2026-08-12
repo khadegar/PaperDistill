@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12838315",
+  "paper_id": "doi:10.3390/bioengineering13010066",
+  "pmcid": "PMC12838315",
+  "source_record_sha256": "c83d0c4dbabd744322f29c102c39d9947d60b1a7bdf74e2b541619b620e4955d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "64f606f8b1e0c08cf0902b85d602dbe5852ceb5ea35b273a8d565f5a5427c014",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Polyethylene Stresses in Lumbar Total Joint Replacement Under Elevated Loading: Insights from an Anatomic Finite Element Model",
+    "authors": "Rundell SA, Spece H, Yarbrough RV, Kurtz SM.",
+    "year": 2026,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering13010066",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

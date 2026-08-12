@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9324218",
+  "paper_id": "doi:10.1002/bit.28100",
+  "pmcid": "PMC9324218",
+  "source_record_sha256": "5f126a5e089aca2a86a05bba61af49300a00a000137517326352c0c60b5abf6c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "97416314b10e26b7adb739751b6e86f101700f0c18ba47c87d643140c094839e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design, fabrication, and characterization of a multimodal reconfigurable bioreactor for bone tissue engineering",
+    "authors": "Montorsi M, Genchi GG, De Pasquale D, De Simoni G, Sinibaldi E, Ciofani G.",
+    "year": 2022,
+    "journal": "Biotechnology and Bioengineering",
+    "doi": "10.1002/bit.28100",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

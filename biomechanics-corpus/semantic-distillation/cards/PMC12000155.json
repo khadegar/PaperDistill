@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12000155",
+  "paper_id": "doi:10.1007/s00256-024-04820-2",
+  "pmcid": "PMC12000155",
+  "source_record_sha256": "3647e43cddd1bde58c5b8ff3761206f6b1bd3f88a02fe2a46f7edb518bbbd2bf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7da0f7c79d0802b3f89ffd4b43da487b48e69485464ad30b95148d1b13bc7db4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reducing Metal Artifacts in Clinical Photon Counting Detector Computed Tomography—A Phantom Study of an Exemplary Total Hip Arthroplasty",
+    "authors": "Marcus RP, Feuerriegel GC, Marth AA, Goller SS, Nanz D, Anhaus J, Sutter R.",
+    "year": 2024,
+    "journal": "Skeletal Radiology",
+    "doi": "10.1007/s00256-024-04820-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

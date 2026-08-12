@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10470051",
+  "paper_id": "doi:10.3389/fendo.2023.1162415",
+  "pmcid": "PMC10470051",
+  "source_record_sha256": "baf2a988ec48a8088fef0d5b9c8115362ac52dda152e5a105e24c1914109e9b1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0a10f539a113de8b92a9e14999799d79249316ae072e956f34165e9c48af531c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Anti-osteoporosis mechanism of resistance exercise in ovariectomized rats based on transcriptome analysis: a pilot study",
+    "authors": "Wang Q, Weng H, Xu Y, Ye H, Liang Y, Wang L, Zhang Y, Gao Y, Wang J, Xu Y, Sun Z, Xu G.",
+    "year": 2023,
+    "journal": "Frontiers in Endocrinology",
+    "doi": "10.3389/fendo.2023.1162415",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

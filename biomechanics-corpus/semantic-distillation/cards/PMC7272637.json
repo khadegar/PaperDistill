@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7272637",
+  "paper_id": "doi:10.1038/s41598-020-66289-y",
+  "pmcid": "PMC7272637",
+  "source_record_sha256": "79eefcffa2fd4e2e9258aeae9e54571e699fa898d96e9704c9b0eb5b632a84ab",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a5dc111e6e65dfbd28b80a5705ce70094b15a7daa6a2769959977c5a61aa804b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of a novel biodegradable porous iron-based implant for bone replacement",
+    "authors": "Wegener B, Sichler A, Milz S, Sprecher C, Pieper K, Hermanns W, Jansson V, Nies B, Kieback B, Müller PE, Wegener V, Quadbeck P.",
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-66289-y",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

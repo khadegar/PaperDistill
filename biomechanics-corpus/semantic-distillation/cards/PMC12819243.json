@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12819243",
+  "paper_id": "doi:10.3389/frobt.2025.1708564",
+  "pmcid": "PMC12819243",
+  "source_record_sha256": "4d66bf9cadba8db7f4cecdf24bad06ed3cd8de5cf94e6d9e02a3877c0fd59f1e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6db7c0f022a8b30d21cd7bd9a90012a65cfdd24724fe18dd4428a054ef97c5e3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modeling the biomechanical features affecting the metabolic rate of walking with a powered ankle-foot prosthesis",
+    "authors": "Schneider M, Colvin ZA, Grabowski AM, Welker CG.",
+    "year": 2026,
+    "journal": "Frontiers in Robotics and AI",
+    "doi": "10.3389/frobt.2025.1708564",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

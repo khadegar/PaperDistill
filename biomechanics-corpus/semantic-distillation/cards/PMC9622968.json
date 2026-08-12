@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9622968",
+  "paper_id": "doi:10.1186/s40729-022-00446-y",
+  "pmcid": "PMC9622968",
+  "source_record_sha256": "2985b6b591978f99cbb7ed64fb7364ded1b171f0b56182d401e4224cb62f28ea",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9ef114e779a585b20c3e5c49398153b0b96df6383a6a8eeeb3d70fdc189ce8e7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The allogeneic shell technique for alveolar ridge augmentation: a multicenter case series and experiences of more than 300 cases",
+    "authors": "Kämmerer PW, Tunkel J, Götz W, Würdinger R, Kloss F, Pabst A.",
+    "year": 2022,
+    "journal": "International Journal of Implant Dentistry",
+    "doi": "10.1186/s40729-022-00446-y",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Multicenter Study; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

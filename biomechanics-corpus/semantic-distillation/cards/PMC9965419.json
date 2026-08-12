@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9965419",
+  "paper_id": "doi:10.3390/s23042304",
+  "pmcid": "PMC9965419",
+  "source_record_sha256": "4c8d1af36d14f7482e3287dd94abda1f41b847eb969c3d52b6a9871e1bc2399f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d8297fc7525916ca8d6df88ee63fc23bdfc4bdda500b1bbe8b1bde9eeb9d9f6f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Using an Instrumented Hammer to Predict the Rupture of Bone Samples Subject to an Osteotomy",
+    "authors": "Bas Dit Nugues M, Rosi G, Hériveaux Y, Haïat G.",
+    "year": 2023,
+    "journal": "Sensors (Basel, Switzerland)",
+    "doi": "10.3390/s23042304",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold"
+    ]
+  },
+  "status": "blank"
+}

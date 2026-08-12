@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7113695",
+  "paper_id": "doi:10.1002/jcp.29323",
+  "pmcid": "PMC7113695",
+  "source_record_sha256": "cb8f7a82f9292ccc611a55151ba89beffd36f490f18b2b8639327109e4ccd061",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2c59af16d18314f9b6ad9bfb6d009d8a71792c3f69bd35d45bc57e41b7513eff",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "IL‐17 alters the mesenchymal stem cell niche towards osteogenesis in cooperation with osteocytes",
+    "authors": "Liao C, Zhang C, Jin L, Yang Y, Yang Y.",
+    "year": 2019,
+    "journal": "Journal of Cellular Physiology",
+    "doi": "10.1002/jcp.29323",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

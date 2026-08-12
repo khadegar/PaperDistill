@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7490093",
+  "paper_id": "doi:10.2147/ijn.s268372",
+  "pmcid": "PMC7490093",
+  "source_record_sha256": "37a4a8d2da3aaba3740b63ad087d2b8403e0201663c0f5e24ba4627d01ad0ba7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bf5c28561c3218aa3d2573480781eb78447fdd0aa3cc854b792de25e82cfb6de",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Electrochemical Deposition of Nanostructured Hydroxyapatite Coating on Titanium with Enhanced Early Stage Osteogenic Activity and Osseointegration",
+    "authors": "Lu M, Chen H, Yuan B, Zhou Y, Min L, Xiao Z, Zhu X, Tu C, Zhang X.",
+    "year": 2020,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s268372",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

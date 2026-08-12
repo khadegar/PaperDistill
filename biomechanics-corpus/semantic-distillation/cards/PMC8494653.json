@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8494653",
+  "paper_id": "doi:10.1007/s00264-021-04992-9",
+  "pmcid": "PMC8494653",
+  "source_record_sha256": "3b7ee60c87bf2f726b43918afb4085ead219ab8d83f6ba0d14ad1842899d8bb8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6ab9cc6da19d1ce092958c81b6bd5c1d09cba8bd01fffe01afda724bafefa337",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three dimension printing talar prostheses for total replacement in talar necrosis and collapse",
+    "authors": "Mu MD, Yang QD, Chen W, Tao X, Zhang CK, Zhang X, Xie MM, Tang KL.",
+    "year": 2021,
+    "journal": "International Orthopaedics",
+    "doi": "10.1007/s00264-021-04992-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

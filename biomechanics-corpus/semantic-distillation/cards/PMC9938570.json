@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9938570",
+  "paper_id": "doi:10.1186/s13018-023-03612-z",
+  "pmcid": "PMC9938570",
+  "source_record_sha256": "c0c3da8a4454835d0fcd22c3c141366bc51c565e17819c378877f2a6d121975b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "78830c7de985602a23ee2add1e676a8e713f06ed370197f087d655348f3402cb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and performance analysis of 3D-printed stiffness gradient femoral scaffold",
+    "authors": "Liu L, Liu C, Deng C, Wang X, Liu X, Luo M, Wang S, Liu J.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-03612-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

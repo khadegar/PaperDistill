@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10486066",
+  "paper_id": "doi:10.1186/s12967-023-04441-8",
+  "pmcid": "PMC10486066",
+  "source_record_sha256": "94b411f5bea275d1dff0578feebde8e4471aa440a2de16e27242becea6617697",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d5a0da7a489037e24bf1e431cc12f32626c8f4f89ccf9bce5414bcb31f23f7d3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Sildenafil, a phosphodiesterase-5 inhibitor, stimulates angiogenesis and bone regeneration in an atrophic non-union model in mice",
+    "authors": "Menger MM, Bauer D, Bleimehl M, Scheuer C, Braun BJ, Herath SC, Rollmann MF, Menger MD, Laschke MW, Histing T.",
+    "year": 2023,
+    "journal": "Journal of Translational Medicine",
+    "doi": "10.1186/s12967-023-04441-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

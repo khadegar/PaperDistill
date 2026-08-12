@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8501631",
+  "paper_id": "doi:10.1186/s12893-021-01352-7",
+  "pmcid": "PMC8501631",
+  "source_record_sha256": "ee6c11dba7ae805ba11c5910a17661cfb30f2d41489e6525bcbca0f4ffd1dd9e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4e8a4d818c1c4f40f17ee5bfd8841ffdfb8671e7fc296d6454c16a0c812836d1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous tantalum implant for treatment of early-stage osteonecrosis of the femoral head: a minimum 5-year follow-up study",
+    "authors": "Zhang Y, Chen W, Yang Z, Sun JN, Hu ZH, Hua ZJ, Chen XY, Feng S.",
+    "year": 2021,
+    "journal": "BMC Surgery",
+    "doi": "10.1186/s12893-021-01352-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

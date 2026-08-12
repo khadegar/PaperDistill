@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8534331",
+  "paper_id": "doi:10.3390/dj9100109",
+  "pmcid": "PMC8534331",
+  "source_record_sha256": "b0042abcb28819702b9634140675122926fc902943e64a29233fbf4df8f8a535",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f05c884791f89cecd1d0a6f80ad7f47ad9c35dc9bb0485706ce0f33625d9576a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigation of Patient-Specific Maxillofacial Implant Prototype Development by Metal Fused Filament Fabrication (MF 3 ) of Ti-6Al-4V",
+    "authors": "Shaikh MQ, Nath SD, Akilan AA, Khanjar S, Balla VK, Grant GT, Atre SV.",
+    "year": 2021,
+    "journal": "Dentistry Journal",
+    "doi": "10.3390/dj9100109",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

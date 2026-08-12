@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12221139",
+  "paper_id": "doi:10.4317/medoral.27065",
+  "pmcid": "PMC12221139",
+  "source_record_sha256": "aa957300078d026126d4c8b49db25dace29109bee56a77bfe4d21e028e5f2006",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "719aeecebbfbcc1f7de539dd9138a0a1ff5d557059e3751dd78d3edf2b48d6bc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of shape and thickness variations in patient-specific implants for t-shaped genioplasty",
+    "authors": "Akkoyun EF, Pergel T.",
+    "year": 2025,
+    "journal": "Medicina Oral, Patología Oral y Cirugía Bucal",
+    "doi": "10.4317/medoral.27065",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

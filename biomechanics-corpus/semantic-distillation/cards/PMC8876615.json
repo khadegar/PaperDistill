@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8876615",
+  "paper_id": "doi:10.3390/ma15041352",
+  "pmcid": "PMC8876615",
+  "source_record_sha256": "df6a03f4eb2d0c147c3bad01bfff9322521f2dfa37658116e6c847afd7db7b08",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dfe52e575346c4dbf97e43ec3e5cefc8277528ae9ec27df02ca47c91beefc9b7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Thermal Properties of a Prototype Insulation with a Gyroid Structure—Optimization of the Structure of a Cellular Composite Made Using SLS Printing Technology",
+    "authors": "Anwajler B.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15041352",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

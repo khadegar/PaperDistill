@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10374151",
+  "paper_id": "doi:10.1371/journal.pone.0288776",
+  "pmcid": "PMC10374151",
+  "source_record_sha256": "7e1fc9c16137e71e64d42d876e62fc74d670e96458144463e31b7025dfefb39a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "855905ba5e5a351678db8054129d046e31d7adc7621347200bc40646456a43e6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The application of an isotropic crushable foam model to predict the femoral fracture risk",
+    "authors": "Soltanihafshejani N, Peroni F, Toniutti S, Bitter T, Tanck E, Eggermont F, Verdonschot N, Janssen D.",
+    "year": 2023,
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0288776",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

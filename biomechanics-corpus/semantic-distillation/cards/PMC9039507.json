@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9039507",
+  "paper_id": "doi:10.1093/rb/rbab077",
+  "pmcid": "PMC9039507",
+  "source_record_sha256": "00c125a733ad47cf92d66a090d1a6c4774ae4b96829581de4bfa4c6fc56120c5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2a2dc565cebdb7cedee9988729586f46526c61b63f7cfc1d160b71c12a097a0d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Integrating pore architectures to evaluate vascularization efficacy in silicate-based bioceramic scaffolds",
+    "authors": "Wu F, Yang J, Ke X, Ye S, Bao Z, Yang X, Zhong C, Shen M, Xu S, Zhang L, Gou Z, Yang G.",
+    "year": 2021,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbab077",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10353441",
+  "paper_id": "doi:10.3389/fbioe.2023.1168504",
+  "pmcid": "PMC10353441",
+  "source_record_sha256": "803b4f622a9dc3171a8c9ccb0fff9b152c3733c9dbcc3a113c507040b289d90c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fdaac569d0af6756398f0be89d61db0d7dd87f19c44c6839a3e6633f30427da6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent advances on 3D-printed PCL-based composite scaffolds for bone tissue engineering",
+    "authors": "Gharibshahian M, Salehi M, Beheshtizadeh N, Kamalabadi-Farahani M, Atashi A, Nourbakhsh MS, Alizadeh M.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1168504",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

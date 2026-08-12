@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10098091",
+  "paper_id": "doi:10.3389/fvets.2023.1165689",
+  "pmcid": "PMC10098091",
+  "source_record_sha256": "047da82040269030f044a06c11e52f9f02caed9b0aece8bc121b890d2ef2fdc0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cfcadff41d484fac587c6437f13f88a73697e1983f1b34b9894c82c075b3f04e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed plates based on generative design biomechanically outperform manual digital fitting and conventional systems printed in photopolymers in bridging mandibular bone defects of critical size in dogs",
+    "authors": "Baumgartner D, Schramel JP, Kau S, Unger E, Oberoi G, Peham C, Eberspächer-Schweda M.",
+    "year": 2023,
+    "journal": "Frontiers in Veterinary Science",
+    "doi": "10.3389/fvets.2023.1165689",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

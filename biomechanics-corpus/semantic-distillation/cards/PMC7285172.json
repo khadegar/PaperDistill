@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7285172",
+  "paper_id": "doi:10.3390/polym12051201",
+  "pmcid": "PMC7285172",
+  "source_record_sha256": "fa1b2e88edbe7f12e1cfe8d0f1d1884b3f645677fbb04a529b1a9ce0c5adec71",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "509b18703be054069e1299ffbd5730e17ebbe2645495acb6ab89d19afaeaadcd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Doxycycline and Zinc Loaded Silica-Nanofibrous Polymers as Biomaterials for Bone Regeneration",
+    "authors": "Toledano M, Toledano-Osorio M, Osorio R, Carrasco-Carmona Á, Gutiérrez-Pérez JL, Gutiérrez-Corrales A, Serrera-Figallo MA, Lynch CD, Torres-Lagares D.",
+    "year": 2020,
+    "journal": "Polymers",
+    "doi": "10.3390/polym12051201",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

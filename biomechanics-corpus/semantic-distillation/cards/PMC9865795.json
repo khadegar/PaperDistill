@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9865795",
+  "paper_id": "doi:10.3390/jfb14010040",
+  "pmcid": "PMC9865795",
+  "source_record_sha256": "399ed3f7074ee6d15893cf440765a85a530da1722530552046eaec4984d2f262",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "478c476234fe84e20f52ff101672da0461d800ec6c3934492f1e33a6a9c1ec53",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive Manufacturing of Polyhydroxyalkanoate-Based Blends Using Fused Deposition Modelling for the Development of Biomedical Devices",
+    "authors": "Gregory DA, Fricker ATR, Mitrev P, Ray M, Asare E, Sim D, Larpnimitchai S, Zhang Z, Ma J, Tetali SSV, Roy I.",
+    "year": 2023,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb14010040",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7437017",
+  "paper_id": "doi:10.1186/s12938-020-00806-y",
+  "pmcid": "PMC7437017",
+  "source_record_sha256": "bf815b4ee360e1ce71c0da85b3a6ab15dde991b8e281933ec750bc743a71f3b2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8e5445cf5896479153e2e25d27944d19245c998d8c45866d82a64c780eb5f332",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative analysis of the biomechanical behavior of two different design metaphyseal-fitting short stems using digital image correlation",
+    "authors": "Tatani I, Megas P, Panagopoulos A, Diamantakos I, Nanopoulos P, Pantelakis S.",
+    "year": 2020,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-020-00806-y",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

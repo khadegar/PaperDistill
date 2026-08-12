@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11338467",
+  "paper_id": "doi:10.1093/rb/rbae066",
+  "pmcid": "PMC11338467",
+  "source_record_sha256": "e5f8201496e89a3b77a12ad5de42f80c698cb8d2f9c4750755a12e2909e8d373",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "854d27c56b4074644031b4922e958bdd83a51e36d4716d1386949103802d5c69",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing materials and 3D printed surgical devices in oral and maxillofacial surgery: design, workflow and effectiveness",
+    "authors": "Wang X, Mu M, Yan J, Han B, Ye R, Guo G.",
+    "year": 2024,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbae066",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

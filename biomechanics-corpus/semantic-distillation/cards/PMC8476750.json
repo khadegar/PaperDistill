@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8476750",
+  "paper_id": "doi:10.3389/fbioe.2021.736489",
+  "pmcid": "PMC8476750",
+  "source_record_sha256": "3dba9092f0df0242b908593142772926969a1c69a99736291107af9cf3b2857b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "73537d3494c0a3b388ef0341fc8838f7ff31a462171e2dd75b2345068c965d7d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous Geometry Guided Micro-mechanical Environment Within Scaffolds for Cell Mechanobiology Study in Bone Tissue Engineering",
+    "authors": "Zhao F, Xiong Y, Ito K, van Rietbergen B, Hofmann S.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.736489",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

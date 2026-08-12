@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8138062",
+  "paper_id": "doi:10.3389/fcell.2021.665813",
+  "pmcid": "PMC8138062",
+  "source_record_sha256": "5cd4f4c73473a692ca25812974b1786e9e0d3a6238ff79641de6161df5d9beeb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b838f0fff28435392edfc28c664a85e548809f7a333a45c194979e0418bf6b97",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent Trends in the Development of Bone Regenerative Biomaterials",
+    "authors": "Tang G, Liu Z, Liu Y, Yu J, Wang X, Tan Z, Ye X.",
+    "year": 2021,
+    "journal": "Frontiers in Cell and Developmental Biology",
+    "doi": "10.3389/fcell.2021.665813",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

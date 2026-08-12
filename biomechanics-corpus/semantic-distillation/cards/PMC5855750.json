@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5855750",
+  "paper_id": "doi:10.3390/ijms19020528",
+  "pmcid": "PMC5855750",
+  "source_record_sha256": "a9d9d3de23b17d2289f24a0f9fc7330e4af7dc858a0c5415dc4d807ca4866b89",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9cae76833dec20e1bbe0e0a497d41a48c0a054f66746f9d67b6a3e8eb49b94fa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Nano-Pore Size of Alumina Affects Osteoblastic Response",
+    "authors": "Mussano F, Genova T, Serra FG, Carossa M, Munaron L, Carossa S.",
+    "year": 2018,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms19020528",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

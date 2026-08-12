@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11344846",
+  "paper_id": "doi:10.1038/s41405-024-00220-9",
+  "pmcid": "PMC11344846",
+  "source_record_sha256": "860457ea36f77b78e3d65e380663e71f64a5fed1f882335d4bbcf0db128298b1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "839d3e17d24498162f5c977e7479ce53277eb1facb936b1cb47dd6292e1b59fe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Does strontium coated titanium implants enhance the osseointegration in animal models under osteoporotic condition? A systematic review and meta-analysis",
+    "authors": "Sayed O, Abdalla MM, Elsayed A, El-Mahallawy Y, Al-Mahalawy H.",
+    "year": 2024,
+    "journal": "BDJ Open",
+    "doi": "10.1038/s41405-024-00220-9",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

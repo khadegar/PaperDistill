@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7076403",
+  "paper_id": "doi:10.3390/pharmaceutics12020166",
+  "pmcid": "PMC7076403",
+  "source_record_sha256": "38d17c74fd0d249754547da55ef086de558a8b37558543ae476837fa04f877f6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "50486041760c7b3ed141ab7dc8f7d1c23e63363535cd377f860497ffc708a779",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A 3D Bioprinted Pseudo-Bone Drug Delivery Scaffold for Bone Tissue Engineering",
+    "authors": "Kondiah PJ, Kondiah PPD, Choonara YE, Marimuthu T, Pillay V.",
+    "year": 2020,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics12020166",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

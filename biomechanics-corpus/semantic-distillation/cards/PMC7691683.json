@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7691683",
+  "paper_id": "doi:10.1016/j.bioactmat.2020.11.007",
+  "pmcid": "PMC7691683",
+  "source_record_sha256": "cdb0427424d3465c02e52aa956d054dfbab779200d8715221e43494dd3cd0509",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5c77a636e60e3258eb83c76a491d712ba30d1ad417de4e205337bc9e539bc0e2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biodegradable Zn–Sr alloy for bone regeneration in rat femoral condyle defect model: In vitro and in vivo studies",
+    "authors": "Jia B, Yang H, Zhang Z, Qu X, Jia X, Wu Q, Han Y, Zheng Y, Dai K.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2020.11.007",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

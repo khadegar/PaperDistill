@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7817588",
+  "paper_id": "doi:10.1007/s10856-020-06480-9",
+  "pmcid": "PMC7817588",
+  "source_record_sha256": "1548588894480df3ff4bf70563268b9a0c88b1a21f74231d90c3e21d48820666",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "49f1a1b44db66b28c045300d0c25da949692a2f15624d2bcdb8e0bd3057afbe7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Characterization and cytocompatibility of 3D porous biomimetic scaffold derived from rabbit nucleus pulposus tissue in vitro",
+    "authors": "Zhang Y, Tan W, Wu M, Sun J, Cao W, Zhou CS, Wu Y.",
+    "year": 2021,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-020-06480-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7560298",
+  "paper_id": "doi:10.3390/ma13184123",
+  "pmcid": "PMC7560298",
+  "source_record_sha256": "8a398c652e72da76c341db391fde676f665c4b26f878759b43e6881299c11b05",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "968a570c777cc6ae38b82c3b8ab260079eafd5cd959eb264acacfe382a46a2c2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Physical–Mechanical Characteristics and Microstructure of Ti6Al7Nb Lattice Structures Manufactured by Selective Laser Melting",
+    "authors": "Cosma C, Drstvensek I, Berce P, Prunean S, Legutko S, Popa C, Balc N.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13184123",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

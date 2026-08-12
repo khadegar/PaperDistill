@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8957850",
+  "paper_id": "doi:10.3389/fbioe.2022.818610",
+  "pmcid": "PMC8957850",
+  "source_record_sha256": "d0dce0c0797a13550b7a7f1406e801b8a61cbc2e0284bc3858d44cd87b487315",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "95ebdb0a2e1cd8cc61235e184b21b6268196591c0f78cde0313e71090ab01c0d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Study of Biomechanics and Clinical Anatomy on a Novel Plate Designed for Posterolateral Tibial Plateau Fractures via Anterolateral Approach",
+    "authors": "Ren W, Zhang W, Jiang S, Peng J, She C, Li L, Mao Y, Zhou H, Xu W.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.818610",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

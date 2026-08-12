@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10054258",
+  "paper_id": "doi:10.3390/ma16062228",
+  "pmcid": "PMC10054258",
+  "source_record_sha256": "2707ca2e3bf6bb1d92c59edfb5ba96350d49aedc2c658a2f115695eb5a289e2c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5e91858246997c5775b6b6bb0f02ab4a2833e02c337413f4baa57d9ac1d32383",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Barbed Dental Ti6Al4V Alloy Screw: Design and Bench Testing",
+    "authors": "Lovera-Prado K, Vanaclocha V, Atienza CM, Vanaclocha A, Jordá-Gómez P, Saiz-Sapena N, Vanaclocha L.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16062228",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

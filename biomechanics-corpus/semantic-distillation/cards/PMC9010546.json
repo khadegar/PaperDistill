@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9010546",
+  "paper_id": "doi:10.3389/fbioe.2022.845342",
+  "pmcid": "PMC9010546",
+  "source_record_sha256": "d7325ce9e32e3dc7c1cb808d94663b8234e2796d45592a4e9edeab76d25a4a40",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e0fd7a18eedc99d02ba7d406dde71887621b2bbe073ce1fb7f62442a7182b99f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed Hydrogels in Orthopedics: Developments, Limitations, and Perspectives",
+    "authors": "Liu Z, Xin W, Ji J, Xu J, Zheng L, Qu X, Yue B.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.845342",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

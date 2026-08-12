@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10070441",
+  "paper_id": "doi:10.1038/s41598-023-32487-7",
+  "pmcid": "PMC10070441",
+  "source_record_sha256": "4a6e6f7b27e20cfb2ec05c2fe9295d44440335a8234329824fc038dee3dbf30e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6ef9d97a87dc43ebde14dbb4a286b004652e24410669a68513224b028454e619",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Repair of critical-sized bone defects in rabbit femurs using graphitic carbon nitride (g-C 3 N 4 ) and graphene oxide (GO) nanomaterials",
+    "authors": "Sadek AA, Abd-Elkareem M, Abdelhamid HN, Moustafa S, Hussein K.",
+    "year": 2023,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-023-32487-7",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

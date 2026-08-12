@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12963236",
+  "paper_id": "doi:10.3389/fbioe.2025.1719810",
+  "pmcid": "PMC12963236",
+  "source_record_sha256": "af2dc0b9353be6ad2245d4e2f975e7e8f4dec7363c889e3c7ecaed37b7553f5a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "90d7983de5b37597ef47a83356d93da2470c70f67f661e620e4626afa4538f85",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed hip prostheses with regenerative integration: a state-of-the-art comprehensive review",
+    "authors": "Giraldo Gallego S, Rodríguez Cheu LE.",
+    "year": 2026,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1719810",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

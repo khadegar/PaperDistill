@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9130674",
+  "paper_id": "doi:10.1302/2046-3758.115.bjr-2021-0537.r1",
+  "pmcid": "PMC9130674",
+  "source_record_sha256": "a3518cd2447fe4431387d791f5148dd762e84be42f90d13bda5831938b528b8a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "99d6294bf0884dd0984cf5f370bcc8070034c76766f854c3a33d800e8db58653",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical effect of anatomical tibial component design on load distribution of medial proximal tibial bone in total knee arthroplasty",
+    "authors": "Cho BW, Kang KT, Kwon HM, Lee WS, Yang IH, Nam JH, Koh YG, Park KK.",
+    "year": 2022,
+    "journal": "Bone & Joint Research",
+    "doi": "10.1302/2046-3758.115.bjr-2021-0537.r1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

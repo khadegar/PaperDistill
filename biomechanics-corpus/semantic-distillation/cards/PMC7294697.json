@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7294697",
+  "paper_id": "doi:10.18063/ijb.v5i1.148",
+  "pmcid": "PMC7294697",
+  "source_record_sha256": "01ebd753c786c952968261bcb55b68f6629526425f129cf69124a0d57521612c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "143a3b079f95fc9be0f38af53af36b56423bb02c61b2fcb8677cbb4791e5a6b1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive manufacturing of bone scaffolds",
+    "authors": "Yang Y, Wang G, Liang H, Gao C, Peng S, Shen L, Shuai C.",
+    "year": 2019,
+    "journal": "International Journal of Bioprinting",
+    "doi": "10.18063/ijb.v5i1.148",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

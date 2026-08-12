@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9135298",
+  "paper_id": "doi:10.1371/journal.pone.0268977",
+  "pmcid": "PMC9135298",
+  "source_record_sha256": "dc14db4ee7d9bb659556ad823594d34470346e067a1a854518e6112a93999ecc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a36e423bb19cc123eab578ea05ce3d5745a939cf376ddfaf2e77f1848c32b292",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A preliminary, observational study using whole-blood RNA sequencing reveals differential expression of inflammatory and bone markers post-implantation of percutaneous osseointegrated prostheses",
+    "authors": "Miller A, Jeyapalina S, Agarwal J, Mansel M, Beck JP.",
+    "year": 2022,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0268977",
+    "publication_type": "research-article; Research Support, U.S. Gov't, Non-P.H.S.; Journal Article; Observational Study",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

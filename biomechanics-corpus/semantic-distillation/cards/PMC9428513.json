@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9428513",
+  "paper_id": "doi:10.3389/fbioe.2022.896719",
+  "pmcid": "PMC9428513",
+  "source_record_sha256": "4a6671c68771400e531cf2f1098e2660cf6499e0a791d83cc31fa6ebe4bc72cb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8d4920d1ea6409257f33e50a13fce87d6c374c858ee3906312035bae63b6f710",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent advances in melt electro writing for tissue engineering for 3D printing of microporous scaffolds for tissue engineering",
+    "authors": "Loewner S, Heene S, Baroth T, Heymann H, Cholewa F, Blume H, Blume C.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.896719",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

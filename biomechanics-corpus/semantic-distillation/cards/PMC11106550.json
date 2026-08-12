@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11106550",
+  "paper_id": "doi:10.1002/jeo2.12027",
+  "pmcid": "PMC11106550",
+  "source_record_sha256": "b8c94d4b2587e318dad66889715d8d33eb29412847ba11a556b6ce97c30937b9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3a13612a751a33b8cd11439936466a2c23e4094323c5570fc6ca29129f1608b4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Pulsed lavage is associated with better quality of bone–cement–implant interface in knee arthroplasties (TKA/UKA) compared to syringe lavage in vitro; however, clinical data are missing: A systematic review",
+    "authors": "Di Maria F, Das S, Abermann E, Hoser C, Fink C.",
+    "year": 2024,
+    "journal": "Journal of Experimental Orthopaedics",
+    "doi": "10.1002/jeo2.12027",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

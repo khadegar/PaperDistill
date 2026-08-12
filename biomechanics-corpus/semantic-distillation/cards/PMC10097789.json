@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10097789",
+  "paper_id": "doi:10.1007/s10237-022-01678-y",
+  "pmcid": "PMC10097789",
+  "source_record_sha256": "ca95598fa3bfbc3b30c8e8aed0bc8339b0b5fad76772b8c5e658cb62da9a5a93",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ec8b88a05141e200b9acceca6184faf7d869341c6309ceb788f9e09877dfa9c6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The impact of the parameters of the constitutive model on the distribution of strain in the femoral head",
+    "authors": "Wronski S, Wit A, Tarasiuk J, Lipinski P.",
+    "year": 2022,
+    "journal": "Biomechanics and Modeling in Mechanobiology",
+    "doi": "10.1007/s10237-022-01678-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

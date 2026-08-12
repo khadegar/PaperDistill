@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9394013",
+  "paper_id": "doi:10.1186/s13036-022-00301-z",
+  "pmcid": "PMC9394013",
+  "source_record_sha256": "eae89680fd7bae3e26f84dcdfa9b82e41da977b6d19d9d01ca92fabb5417db56",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "455ca3ebae4bfed7e40043ca9d82b29839b2f8f29f3adcd16b2fb387c0693a13",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A tailored bioactive 3D porous poly(lactic-acid)-exosome scaffold with osteo-immunomodulatory and osteogenic differentiation properties",
+    "authors": "Zhang Y, Huo M, Wang Y, Xiao L, Wu J, Ma Y, Zhang D, Lang X, Wang X.",
+    "year": 2022,
+    "journal": "Journal of Biological Engineering",
+    "doi": "10.1186/s13036-022-00301-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

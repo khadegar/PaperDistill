@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9743582",
+  "paper_id": "doi:10.1186/s12891-022-06049-3",
+  "pmcid": "PMC9743582",
+  "source_record_sha256": "d7dc733d901cc95839012d6a2bf040927385d400a0286fc0cbec1989305d1e93",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "89bf4c493646f51599ec49ac78c957c1aef9bef908333d5175afebf2f3081299",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stepwise reduction of bone mineral density increases the risk of cage subsidence in oblique lumbar interbody fusion patients biomechanically: an in-silico study",
+    "authors": "Yang ZQ, Cai P, Li JC, Wang XD, Xie TH, Pu XX, Lin R, Zeng JC, Song YM.",
+    "year": 2022,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-022-06049-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

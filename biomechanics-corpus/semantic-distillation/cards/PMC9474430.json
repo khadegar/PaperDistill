@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9474430",
+  "paper_id": "doi:10.1007/s10856-022-06685-0",
+  "pmcid": "PMC9474430",
+  "source_record_sha256": "8fe6584d619b5225c4d2f0035923652460cb9244de05b6c6d7640f66dabd81d7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "57cf917fbba4bfeb5f3957f9a72dd8be13aa1caddf6c1fd69793f10468defcfb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Repair of critical diaphyseal defects of lower limbs by 3D printed porous Ti6Al4V scaffolds without additional bone grafting: a prospective clinical study",
+    "authors": "Liu B, Hou G, Yang Z, Li X, Zheng Y, Wen P, Liu Z, Zhou F, Tian Y.",
+    "year": 2022,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-022-06685-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

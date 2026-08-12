@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11543819",
+  "paper_id": "doi:10.1038/s41598-024-78702-x",
+  "pmcid": "PMC11543819",
+  "source_record_sha256": "87461cb8046da30eea47b28e4777183087c18edc01c017817d387235e2a31b18",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2a4689b40b27b95cfff7c063b4d0ded33c59b0c3386a09edbfec15bd364d99d6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhancing fixation stability in proximal humerus fractures: screw orientation optimization in PHILOS plates through finite element analysis and biomechanical testing",
+    "authors": "Liu J, Zhang Z, Li P, Piao C.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-78702-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

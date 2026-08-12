@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10965652",
+  "paper_id": "doi:10.1007/s00402-024-05227-3",
+  "pmcid": "PMC10965652",
+  "source_record_sha256": "3d642af7e5e865918ff8e21a89c2d4dc9c43b84a787cd141308fd6d9d0e12a09",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "65fb3d59c818a93b531111a3642e9875614d676ae76b4dcbb76bffc7d1485b89",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hip-spine relationship: clinical evidence and biomechanical issues",
+    "authors": "Di Martino A, Geraci G, Brunello M, D'Agostino C, Davico G, Curreli C, Traina F, Faldini C.",
+    "year": 2024,
+    "journal": "Archives of Orthopaedic and Trauma Surgery",
+    "doi": "10.1007/s00402-024-05227-3",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

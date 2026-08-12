@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8588077",
+  "paper_id": "doi:10.3390/polym13213825",
+  "pmcid": "PMC8588077",
+  "source_record_sha256": "109a894fe47c3f151a79a992923701ea8f1452b9c85fe0bf574d141e667f529c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "96f10ad05156d2f4d887bec8f5a6717b2248af99f33be8b59f78e0b0fa791cf1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multifunctional 3D-Printed Magnetic Polycaprolactone/Hydroxyapatite Scaffolds for Bone Tissue Engineering",
+    "authors": "Petretta M, Gambardella A, Desando G, Cavallo C, Bartolotti I, Shelyakova T, Goranov V, Brucale M, Dediu VA, Fini M, Grigolo B.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13213825",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

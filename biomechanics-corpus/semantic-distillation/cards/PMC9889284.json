@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9889284",
+  "paper_id": "doi:10.2106/jbjs.st.21.00068",
+  "pmcid": "PMC9889284",
+  "source_record_sha256": "9a2a814de0f725e3ef0c1c85396923ebdec03836d2ff50520e1a27962705ea89",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7b67ec1aa8d32439f69552f459e0334ab61c220c8eb98ad85bb3997760d6c7f4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Revision Amputation with Press-Fit Osseointegration for Transfemoral Amputees",
+    "authors": "Hoellwarth JS, Reif TJ, Rozbruch SR.",
+    "year": 2022,
+    "journal": "JBJS Essential Surgical Techniques",
+    "doi": "10.2106/jbjs.st.21.00068",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

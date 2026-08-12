@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8913743",
+  "paper_id": "doi:10.1038/s41598-022-08004-7",
+  "pmcid": "PMC8913743",
+  "source_record_sha256": "53602e91388c858bf8a13dfe86907cf6df2a07f801451b8aa2610d5abad59580",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0a60449753ff825c8ce21b81543e6ac20522c6a124feb26ab474e9828eeb78c9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A perturbation approach for ultrafast calculation of RF field enhancements near medical implants in MRI",
+    "authors": "Stijnman PRS, Steensma BR, van den Berg CAT, Raaijmakers AJE.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-08004-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

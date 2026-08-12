@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9542643",
+  "paper_id": "doi:10.3389/fbioe.2022.957263",
+  "pmcid": "PMC9542643",
+  "source_record_sha256": "e4e6b22d08b37b3d1c4188dcb48c51f242ee901f709f4a193e084155b8bec207",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f366a61cf232bad16195704fa7f5837a6363b002172340e5a759a21768360a25",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Sulfated carboxymethyl cellulose and carboxymethyl κ-carrageenan immobilization on 3D-printed poly-ε-caprolactone scaffolds differentially promote pre-osteoblast proliferation and osteogenic activity",
+    "authors": "Abbasi-Ravasjani S, Seddiqi H, Moghaddaszadeh A, Ghiasvand ME, Jin J, Oliaei E, Bacabac RG, Klein-Nulend J.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.957263",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

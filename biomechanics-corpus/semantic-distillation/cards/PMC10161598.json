@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10161598",
+  "paper_id": "doi:10.1016/j.heliyon.2023.e15312",
+  "pmcid": "PMC10161598",
+  "source_record_sha256": "01685ebf1e3bbdac38a49611ee5822269450baa7f796a067bb96a0b0053c0515",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c83d85f1632a9485f1e2338b3a4f5ded4cb768d064124f21e2171bcf27b7522e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of abutment stability in morse taper implant connections in different times: A retrospective clinical study compared with an in vitro analysis",
+    "authors": "Gehrke SA, Cortellari GC, De Aza PN, Cavalcanti de Lima JH, Prados Frutos JC.",
+    "year": 2023,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2023.e15312",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

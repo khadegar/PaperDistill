@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11853415",
+  "paper_id": "doi:10.3390/biomimetics10020119",
+  "pmcid": "PMC11853415",
+  "source_record_sha256": "b93195a6797d7205348918efab53e301244cdda1a703726c47e7e7a8440c3e39",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8bf54be5ee86c11b0e4693d0f359582da581b51b590fdc1b42ad6d951bd573d6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Bioinspired Multi-Level Numerical Model of the Tibiofemoral Joint for Biomechanical and Biomimetic Applications",
+    "authors": "Wei Y, Chen Y, Jia S, Yan L, Bi L.",
+    "year": 2025,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics10020119",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

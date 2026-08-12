@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5737106",
+  "paper_id": "doi:10.1002/advs.201700401",
+  "pmcid": "PMC5737106",
+  "source_record_sha256": "569bc0fae8c2965456dd236ed201104bc1776d8b8c87af57702c52d946fa2e46",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1b50b6f99b7c11a9e3af1620ff829644def446ab5c32ad45015bbbe7533a65f9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing of Lotus Root‐Like Biomimetic Materials for Cell Delivery and Tissue Regeneration",
+    "authors": "Feng C, Zhang W, Deng C, Li G, Chang J, Zhang Z, Jiang X, Wu C.",
+    "year": 2017,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.201700401",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

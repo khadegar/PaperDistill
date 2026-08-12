@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12616600",
+  "paper_id": "doi:10.1002/adhm.202501938",
+  "pmcid": "PMC12616600",
+  "source_record_sha256": "96a84670d82fdf30558edb0dd199f887c8de1653d70289c8ee98d2e44235eb50",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f9d8f52b19f34f3849c5614e176e266e428ed495d5f3a765572a457aab39069a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D‐Printed Multidimensional Bionic Mg‐MC/PLGA Composite for Tailored Repair of Segmental Long Bone Defects",
+    "authors": "Liu S, Zhou S, Zou T, Hou G, Xiao Q, Li L, Yang J, Chen W, Zhang Y, Lv H.",
+    "year": 2025,
+    "journal": "Advanced Healthcare Materials",
+    "doi": "10.1002/adhm.202501938",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

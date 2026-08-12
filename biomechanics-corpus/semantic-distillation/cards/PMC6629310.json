@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6629310",
+  "paper_id": "doi:10.1097/cm9.0000000000000030",
+  "pmcid": "PMC6629310",
+  "source_record_sha256": "fcc0995fc6d958fccc47b371e7443919d188327882d5e857f45eee35ca977391",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "200173a7da5d7700b55a689a92d9fe6d9cf107629a1d2026c9a66becfd724181",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of a novel porous tantalum implant in rabbit anterior lumbar spine fusion model: in vitro and in vivo experiments",
+    "authors": "Lu M, Xu S, Lei ZX, Lu D, Cao W, Huttula M, Hou CH, Du SH, Chen W, Dai SW, Li HM, Jin DD.",
+    "year": 2019,
+    "journal": "Chinese Medical Journal",
+    "doi": "10.1097/cm9.0000000000000030",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

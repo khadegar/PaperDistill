@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8670169",
+  "paper_id": "doi:10.3389/fbioe.2021.674738",
+  "pmcid": "PMC8670169",
+  "source_record_sha256": "5912597d0e5665b0e2a9a7962a203cd9dc7e4a324bacd320758f782535d08659",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9395f03208241a2aac637b136c8cff580e537a51f9bdada69f6e2a779d6500d9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Electrospinning and Additive Manufacturing: Adding Three-Dimensionality to Electrospun Scaffolds for Tissue Engineering",
+    "authors": "Smith JA, Mele E.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.674738",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

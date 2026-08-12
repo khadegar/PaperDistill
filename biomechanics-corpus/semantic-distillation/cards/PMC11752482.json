@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11752482",
+  "paper_id": "doi:10.5312/wjo.v16.i1.98871",
+  "pmcid": "PMC11752482",
+  "source_record_sha256": "5725494fc5e86a9d151b5b179f7e3420dc5eba9a89da9b5a31184bf9db7898cd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ebbb210f9110dcba15d8ce511f5cff054252848205859dbcd6c7c09a63f7656e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Integrating finite element analysis in total hip arthroplasty for childhood hip disorders: Enhancing precision and outcomes",
+    "authors": "Ammarullah MI.",
+    "year": 2025,
+    "journal": "World Journal of Orthopedics",
+    "doi": "10.5312/wjo.v16.i1.98871",
+    "publication_type": "Editorial",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "editorial",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

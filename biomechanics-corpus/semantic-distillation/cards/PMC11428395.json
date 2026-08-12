@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11428395",
+  "paper_id": "doi:10.3390/bioengineering11090938",
+  "pmcid": "PMC11428395",
+  "source_record_sha256": "c1fa460956701a6dd2e229126544d30318f6be73ecef8b97058726d0539f1f07",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e7a3f6d3829f3c42d438e4de7a625d4516aa8f0f5c06ea95c9db0a19a1a4d2bc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient-Reported Outcome Measures and Biomechanical Variables That May Be Related to Knee Functions Following Total Knee Arthroplasty",
+    "authors": "Seymour H, Chen F, Zheng NN.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11090938",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

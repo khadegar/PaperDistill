@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10121484",
+  "paper_id": "doi:10.7759/cureus.36550",
+  "pmcid": "PMC10121484",
+  "source_record_sha256": "fa3a7f5c4c59d8759284202925479b105a36850e3d4415da0daf59ec9b947ddf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "49766a1e4f837c5eede9d9eb3019fc0601b6b764636bac829d2c4356d3aec6b9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation and Comparison of Stress in Divergent and Convergent Collar Designs of Implants With Different Bone Densities: A Finite Element Study",
+    "authors": "Panmei G, Kumar A, Basak S, Anal SS, Nongthombam R, Mall BB.",
+    "year": 2023,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.36550",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

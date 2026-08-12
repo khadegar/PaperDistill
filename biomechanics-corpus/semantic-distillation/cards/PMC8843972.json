@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8843972",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.11.002",
+  "pmcid": "PMC8843972",
+  "source_record_sha256": "ef232c79287ea5ffb10d62818793aff5509332f6b29069303422a1eaca4a8a7d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "aa6fffa9838d4e1420026764dba4294470534519adecb525945da03cfdbde218",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Oxygen generating scaffolds regenerate critical size bone defects",
+    "authors": "Suvarnapathaki S, Wu X, Zhang T, Nguyen MA, Goulopoulos AA, Wu B, Camci-Unal G.",
+    "year": 2022,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.11.002",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

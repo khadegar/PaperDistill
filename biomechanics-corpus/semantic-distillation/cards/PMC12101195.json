@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12101195",
+  "paper_id": "doi:10.3390/cmtr18020028",
+  "pmcid": "PMC12101195",
+  "source_record_sha256": "31de9de1253fd3e173d543b1f2f99a6df53926b532015e8512585df18a477be0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0b9939ef0e40a80ef727f72d5607493facc5142ca820512647f71c558d7c7032",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A 3D Printed Hydroxyapatite Implant for Temporal Hollowing Reconstruction: A Patient-Specific Approach",
+    "authors": "Seifert LB, Aigner A, Abazi S, Beyer M, Zubizarreta-Oteiza J, Sharma N, Thieringer FM.",
+    "year": 2025,
+    "journal": "Craniomaxillofacial Trauma & Reconstruction",
+    "doi": "10.3390/cmtr18020028",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

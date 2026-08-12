@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8156199",
+  "paper_id": "doi:10.3390/pharmaceutics13050724",
+  "pmcid": "PMC8156199",
+  "source_record_sha256": "6d92be8d1c2917d834f544da5984b7c4ced639268aa76a95386e45c5fa5f04ed",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "97b3d1f8b562c3c8f91b1ca0712148a62f60822086dcc623f3a7072bf2e07265",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osseointegration Improvement of Co-Cr-Mo Alloy Produced by Additive Manufacturing",
+    "authors": "Iatecola A, Longhitano GA, Antunes LHM, Jardini AL, Miguel EC, Béreš M, Lambert CS, Andrade TN, Buchaim RL, Buchaim DV, Pomini KT, Dias JA, Spressão DRMS, Felix M, Cardoso GBC, da Cunha MR.",
+    "year": 2021,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics13050724",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9287214",
+  "paper_id": "doi:10.1007/s10856-022-06678-z",
+  "pmcid": "PMC9287214",
+  "source_record_sha256": "23c494315c4357a274463e6976ac014a3eaba3d58163f81d848bfc3faca5616b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f0526ce8a5c688615e66e90fc65d340c018a48faee272fb75174e6c9d1c7d4bb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biological evaluation of acellular bovine bone matrix treated with NaOH",
+    "authors": "Li P, Feng M, Hu X, Zhang C, Zhu J, Xu G, Li L, Zhao Y.",
+    "year": 2022,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-022-06678-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

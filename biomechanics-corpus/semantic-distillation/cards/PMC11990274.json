@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11990274",
+  "paper_id": "doi:10.3390/ma18071625",
+  "pmcid": "PMC11990274",
+  "source_record_sha256": "af4298236c08dcd10685b57bb963c60e92634d10710cc7c643fc599b1a44a747",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fd26aa68e34c6eea1e699ba4dd97718e32caa4b95f19016bc45df977c496ed33",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of Implant Stability Quotient (ISQ) and Bone Stresses for Implant Inclinations of 0°, 15°, and 20°",
+    "authors": "Ceddia M, Romasco T, Marchioli G, Comuzzi L, Cipollina A, Piattelli A, Lamberti L, Di Pietro N, Trentadue B.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18071625",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

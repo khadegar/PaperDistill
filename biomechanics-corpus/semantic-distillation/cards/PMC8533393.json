@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8533393",
+  "paper_id": "doi:10.3390/bioengineering8100136",
+  "pmcid": "PMC8533393",
+  "source_record_sha256": "053e47948f90be66707b11bea4ce892a5d6c52940aa6f8307729ca6494646add",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "de61878a629275c5ac0925d0b8d859199901d63ac9aac90b0fde0d9b133f4af2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Novel Screw Drive for Allogenic Headless Position Screws for Use in Osteosynthesis—A Finite-Element Analysis",
+    "authors": "Lifka S, Baumgartner W.",
+    "year": 2021,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering8100136",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

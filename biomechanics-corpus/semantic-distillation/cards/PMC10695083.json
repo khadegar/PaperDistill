@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10695083",
+  "paper_id": "doi:10.7759/cureus.48242",
+  "pmcid": "PMC10695083",
+  "source_record_sha256": "015b63a26375f44c6c4cdd35eb1b6e0758750dcdd254144a7b6b03c506dd69bb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c9bfadf3b6578aa285f9840f668120fc50319f5de8da631b6ca27116a03e6431",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Utility of 3D Printing for Surgical Planning and Patient-Specific Implant Design in Maxillofacial Surgery: A Narrative Review",
+    "authors": "Singh TS, Bhola N, Reche A.",
+    "year": 2023,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.48242",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

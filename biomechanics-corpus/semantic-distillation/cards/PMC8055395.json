@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8055395",
+  "paper_id": "doi:10.1155/2021/8872514",
+  "pmcid": "PMC8055395",
+  "source_record_sha256": "1ac157bc0ef69e39e4914201f898302f7e5daa6182c86e18b2067af26644a019",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f69d23208e38f330f513b79035f7226ae2009141f42862ab9e46df260fa0f068",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Finite Element Study on the Treatment of Thoracolumbar Fracture with a New Spinal Fixation System",
+    "authors": "Guo H, Li J, Gao Y, Nie S, Quan C, Li J, Zhang W.",
+    "year": 2021,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2021/8872514",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

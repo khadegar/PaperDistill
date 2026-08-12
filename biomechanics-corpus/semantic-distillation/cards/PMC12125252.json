@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12125252",
+  "paper_id": "doi:10.1038/s41598-025-03377-x",
+  "pmcid": "PMC12125252",
+  "source_record_sha256": "0d18f08ba1e5928cb80cf3dc3b11f6601c1753e41d512219eb2eda25209f0a26",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e3db5d43f103bc3c79f651345f17de20a293c5095b2548bc0dd767171dfb3442",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of pedicle screw fixation biomechanics and adjacent segment degeneration in varied bone conditions",
+    "authors": "Zhang L, Yu Z, Zhang X, Zhan H, Wang K, Zhao Y, Lin M, Vrionis F, Wang H.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-03377-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

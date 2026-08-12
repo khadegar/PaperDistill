@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12182697",
+  "paper_id": "doi:10.1186/s13036-025-00528-6",
+  "pmcid": "PMC12182697",
+  "source_record_sha256": "a1b413a47f135ebb609197f42c7bd90a85ff321e52c8b4dace40eb55e1ecd79d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dc4bcf3b4a944caa6b726262c30e18847c4780cca08ad5e98d06b98962ba809d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed magnesium/strontium-co-doped calcium silicate scaffolds promote angiogenesis and bone regeneration through synergistic bioactive ion stimulation",
+    "authors": "Ho CC, Hsu TT, Chiu YC, Lin YH, Xie PC, Wang CY.",
+    "year": 2025,
+    "journal": "Journal of Biological Engineering",
+    "doi": "10.1186/s13036-025-00528-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

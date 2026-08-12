@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9794772",
+  "paper_id": "doi:10.3389/fbioe.2022.1096054",
+  "pmcid": "PMC9794772",
+  "source_record_sha256": "33ab79290ce153a15debcf8207ed178baf8ac2d11e6a70084feced773ed0f20a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6e2a3c6d89f9c248a677b48a791a9ae2da857731f991178166174497d7e71a71",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Engineered cell culture microenvironments for mechanobiology studies of brain neural cells",
+    "authors": "Castillo Ransanz L, Van Altena PFJ, Heine VM, Accardo A.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1096054",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

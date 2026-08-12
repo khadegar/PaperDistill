@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11222561",
+  "paper_id": "doi:10.3389/fbioe.2024.1305837",
+  "pmcid": "PMC11222561",
+  "source_record_sha256": "c4066c7630b262b17f2f6531daa14c39e887a1859e0c3a8c98b480eeaf337d02",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "68c0f00939d0d691d7a0543f9fc55bd29ca3e081368f64efb3016b0339097bf3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Numerical evaluation of spinal reconstruction using a 3D printed vertebral body replacement implant: effects of material anisotropy",
+    "authors": "Kang J, Wu Y, Qiao J.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1305837",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

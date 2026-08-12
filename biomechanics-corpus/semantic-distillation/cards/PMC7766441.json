@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7766441",
+  "paper_id": "doi:10.3390/polym12123045",
+  "pmcid": "PMC7766441",
+  "source_record_sha256": "61ad3ac8ab71fba1f191ae1f13a14d442e7cde5bcd78298c45ae7b6674fe0e05",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "40a5424a490c05065283a92d19d7b0c1bd3cbc0d7ce5fb193cdb7524ac536086",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Potential of Polyethylene Terephthalate Glycol as Biomaterial for Bone Tissue Engineering",
+    "authors": "Hassan MH, Omar AM, Daskalakis E, Hou Y, Huang B, Strashnov I, Grieve BD, Bártolo P.",
+    "year": 2020,
+    "journal": "Polymers",
+    "doi": "10.3390/polym12123045",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10830467",
+  "paper_id": "doi:10.1038/s41598-024-52566-7",
+  "pmcid": "PMC10830467",
+  "source_record_sha256": "ab8c9a95db48673db996acc3bb671e8b115200bb30b4202880700142d236ae7a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0d6b947db0f694e4aac36520d3b6017f4730a25659c545dd80b0f70834d927bb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mitigation of BMP-induced inflammation in craniofacial bone regeneration and improvement of bone parameters by dietary hesperidin",
+    "authors": "Miguez PA, de Paiva Gonçalves V, Musskopf ML, Rivera-Concepcion A, McGaughey S, Yu C, Lee DJ, Tuin SA, Ali A.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-52566-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

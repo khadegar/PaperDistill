@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10743144",
+  "paper_id": "doi:10.3390/gels9120984",
+  "pmcid": "PMC10743144",
+  "source_record_sha256": "b9c99cf205fa6a9f1ffe78cceb42158485f9608b72d50f6a3f0842bb88a4518f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "558ab208d577e009994f062cc605de0d681e9486603529e5dccb8bbbc206252d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Thermoresponsive Alginate-Graft-pNIPAM/Methyl Cellulose 3D-Printed Scaffolds Promote Osteogenesis In Vitro",
+    "authors": "Gialouri A, Saravanou SF, Loukelis K, Chatzinikolaidou M, Pasparakis G, Bouropoulos N.",
+    "year": 2023,
+    "journal": "Gels",
+    "doi": "10.3390/gels9120984",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

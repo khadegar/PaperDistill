@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10747776",
+  "paper_id": "doi:10.3390/polym15244631",
+  "pmcid": "PMC10747776",
+  "source_record_sha256": "a3dcb6226580d5b7866204bd40c26fcc1826f2b9a6fb90e1eb8ab57d062283a1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "04817c8b2215aeb11f308a767e60cec326debf44c5006325f39e5a3c9947cbbf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "New Poly(lactic acid)–Hydrogel Core–Shell Scaffolds Highly Support MSCs’ Viability, Proliferation and Osteogenic Differentiation",
+    "authors": "Pasini C, Pandini S, Re F, Ferroni M, Borsani E, Russo D, Sartore L.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15244631",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11193902",
+  "paper_id": "doi:10.1186/s13018-024-04842-5",
+  "pmcid": "PMC11193902",
+  "source_record_sha256": "6ed49b83201aa76fc550afa2e21aa754463cef8b8f3958d4ab2d795066607304",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f19689b00eb4830b45b7d439af9400a70c43bcecbc3a0e5279184ee3156e442a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Torsional stability of fixation methods in basicervical femoral neck fractures: a biomechanical study",
+    "authors": "Mahaisavariya C, Jitprapaikulsarn S, Mahaisavariya B, Chantarapanich N.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-04842-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

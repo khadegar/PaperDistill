@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10204234",
+  "paper_id": "doi:10.1186/s12891-023-06411-z",
+  "pmcid": "PMC10204234",
+  "source_record_sha256": "491847afbd5c94e3ee415b67ab2f3c144ca9dfc8bab1efec13cefa47e4444c84",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b3aa34b22fe0fd8627a29cb9f3c569b740e951a0f21938498b5db2fdc587adc4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of the hybrid pedicle screw—cortical bone trajectory technique in transforaminal lumbar interbody fusion to adjacent segment degeneration—finite element analysis",
+    "authors": "Zhang R, Kahaer A, Niu H, Wang J, Jumahan A, Qiu Y, Rexiti P, Guo H.",
+    "year": 2023,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-023-06411-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

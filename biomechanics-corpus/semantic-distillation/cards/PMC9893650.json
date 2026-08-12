@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9893650",
+  "paper_id": "doi:10.1186/s12891-023-06205-3",
+  "pmcid": "PMC9893650",
+  "source_record_sha256": "a47ba650d1674b30ed0d6cb5ca474783135e17cb67cd13207437a5f4dc806aef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "57bb56e517cca474ec00684fab34932affc5f057910f5d71904508d8937a241d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bionic reconstruction of tension trabeculae in short-stem hip arthroplasty: a finite element analysis",
+    "authors": "Ding Z, Wang J, Wang Y, Zhang X, Huan Y, Zhang D.",
+    "year": 2023,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-023-06205-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

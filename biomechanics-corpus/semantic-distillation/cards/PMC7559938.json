@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7559938",
+  "paper_id": "doi:10.3390/ma13183970",
+  "pmcid": "PMC7559938",
+  "source_record_sha256": "9f4c009678472b1ad317ef4688bbf9607ab973bba5bcc36b723b8ade6db4022a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4b9213ef2dc5365aeb09d9e98c4b3e78f383f3bbdca1f8c36ff640f0a0163cde",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Flexural Strength of 3D-Printing Resin Materials for Provisional Fixed Dental Prostheses",
+    "authors": "Park SM, Park JM, Kim SK, Heo SJ, Koak JY.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13183970",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

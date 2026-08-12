@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10652181",
+  "paper_id": "doi:10.1002/jbm4.10804",
+  "pmcid": "PMC10652181",
+  "source_record_sha256": "518cca12aebeb088d019cbd2c4f6518fbac23adb40fc03f365fb59a22058e6ff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d71a7a47bd5b3e3a5d491fab9cd05f6cb1a08651cd7778c669f9c8bb19901dff",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Stimulation of Muscle Constructs Influences Phenotype of Bone Constructs by Modulating Myokine Secretion",
+    "authors": "Suresh Kumar H, Barnett EN, Fowlkes JL, Kalaitzoglou E, Annamalai RT.",
+    "year": 2023,
+    "journal": "JBMR Plus",
+    "doi": "10.1002/jbm4.10804",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

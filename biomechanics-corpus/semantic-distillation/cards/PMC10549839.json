@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10549839",
+  "paper_id": "doi:10.1111/os.13865",
+  "pmcid": "PMC10549839",
+  "source_record_sha256": "712d6203ede0c6c03df4b56a977411a65391feb83e83227fa07687c83d987725",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f95d3ca19eca2f8186128e1364ed66eb779ba43f4c6005c49f1a99d8675df60d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Effect of the Hip Flexion Angle in Osteonecrosis of the Femoral Head Based on China‐Japan Friendship Hospital Classification ‐ A Finite Element Study",
+    "authors": "Wen MT, Liang XZ, Luo D, Li JC, Yan BZ, Lu BW, Guo YB, Xu B, Li G.",
+    "year": 2023,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13865",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

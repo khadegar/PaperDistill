@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8022016",
+  "paper_id": "doi:10.1302/2058-5241.6.200092",
+  "pmcid": "PMC8022016",
+  "source_record_sha256": "41455a637ca80679ae4b6874cb0d72477a64260e8b6600509dd5a1f9cdb9a911",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "032334d860e179882274a3ba3c7a623487ffb265afd7d232e8c21e3da8d16e5f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of three-dimensional (3D) printing on quantitative and qualitative outcomes in paediatric orthopaedic osteotomies: a systematic review",
+    "authors": "Raza M, Murphy D, Gelfer Y.",
+    "year": 2021,
+    "journal": "EFORT Open Reviews",
+    "doi": "10.1302/2058-5241.6.200092",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

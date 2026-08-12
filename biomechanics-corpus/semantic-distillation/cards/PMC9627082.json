@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9627082",
+  "paper_id": "doi:10.1111/os.13272",
+  "pmcid": "PMC9627082",
+  "source_record_sha256": "eb10571fe175fc3b2f9542108a02b7097b260859b31b0d519d09942e89f97c36",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9ea18bdd3f24015376a27bffcdba0548df65c805bcbcd44957c0cf5776ad2b27",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Hip Joint Center on Multi‐body Dynamics and Contact Mechanics of Hip Arthroplasty for Crowe IV Dysplasia",
+    "authors": "Gao Y, Chai W, An Z, Chen X, Dong Z, Zhang Z, Jin Z.",
+    "year": 2022,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13272",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12373567",
+  "paper_id": "doi:10.1186/s40729-025-00643-5",
+  "pmcid": "PMC12373567",
+  "source_record_sha256": "2d6ae94dae9093ed77fa98542b20b4f9b89fbf49a44e0c6f464652b17c2d2929",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4d5c5f3afde7f1c54fb0ba1ec45bf70bbba07906eb9438d256c226adfb77b77c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison between CAD/CAM titanium mesh vs. conventional titanium mesh in bone regeneration: a systematic review and meta-analysis",
+    "authors": "Ragucci GM, Augè AF, Parra AT, Elnayef B, Hernández-Alfaro F.",
+    "year": 2025,
+    "journal": "International Journal of Implant Dentistry",
+    "doi": "10.1186/s40729-025-00643-5",
+    "publication_type": "Meta-Analysis; Comparative Study; Systematic Review; review-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

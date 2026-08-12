@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10860281",
+  "paper_id": "doi:10.1186/s12891-024-07221-7",
+  "pmcid": "PMC10860281",
+  "source_record_sha256": "5242483d6f7d6cda673810248748589591a3919319dfe51d026139a75abe2398",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8a1c017a5e7f05d792652a556f816904d3a989f8c08db2edb90ffc77a5c926c1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element biomechanical analysis of 3D printed intervertebral fusion cage in osteoporotic population",
+    "authors": "Wu J, Miao J, Chen G, Xu H, Wen W, Xu H, Liu L.",
+    "year": 2024,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-024-07221-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10782778",
+  "paper_id": "doi:10.1186/s12903-023-03834-x",
+  "pmcid": "PMC10782778",
+  "source_record_sha256": "854a0a5eb701e4fb39ba3925c8c8eb2e18b8020c8ba305e5e69a3db889f17482",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "deb4ebd630498841af1863234b0da0be0856173754ac14fbab8236f99991d348",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tissue-engineered bone construct promotes early osseointegration of implants with low primary stability in oversized osteotomy",
+    "authors": "Xu L, Jacobs R, Cao Y, Sun X, Qin X.",
+    "year": 2024,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-023-03834-x",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

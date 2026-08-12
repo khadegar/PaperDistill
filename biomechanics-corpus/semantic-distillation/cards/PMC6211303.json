@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6211303",
+  "paper_id": "doi:10.2147/mder.s180482",
+  "pmcid": "PMC6211303",
+  "source_record_sha256": "12af91b032363dc537858cd6413be1d890224a66cbbd32f475057e41f3fed5ec",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "03aa6eee494d2507449f3e025ca8823538cbfc7398ae66c805c91fd6fe3ca097",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous titanium-coated polyetheretherketone implants exhibit an improved bone–implant interface: an in vitro and in vivo biochemical, biomechanical, and histological study",
+    "authors": "Cheng BC, Koduri S, Wing CA, Woolery N, Cook DJ, Spiro RC.",
+    "year": 2018,
+    "journal": "Medical Devices (Auckland, N.Z.)",
+    "doi": "10.2147/mder.s180482",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

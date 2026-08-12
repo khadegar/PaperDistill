@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9600853",
+  "paper_id": "doi:10.3390/diagnostics12102296",
+  "pmcid": "PMC9600853",
+  "source_record_sha256": "5d9ffd9edd0e82339fbde99943fe005dbca5e11c5aeb3faf42cae5787a3dba7f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c0287ceab4b92e2e99fbebeb4d13250de6bd3bd5c1e6f3cead8a921247010f97",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Efficacy of Trabecular Titanium Cages to Induce Reparative Bone Activity after Lumbar Arthrodesis Studied through the 18f-Naf PET/CT Scan: Observational Clinical In-Vivo Study",
+    "authors": "Cofano F, Armocida D, Ruffini L, Scarlattei M, Baldari G, Di Perna G, Pilloni G, Zenga F, Ballante E, Garbossa D, Tartara F.",
+    "year": 2022,
+    "journal": "Diagnostics",
+    "doi": "10.3390/diagnostics12102296",
+    "publication_type": "methods-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

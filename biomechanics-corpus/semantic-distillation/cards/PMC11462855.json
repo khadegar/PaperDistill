@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11462855",
+  "paper_id": "doi:10.3389/fbioe.2024.1385365",
+  "pmcid": "PMC11462855",
+  "source_record_sha256": "c5e631a26257e094302776052fc1cee462e856b4c43f37872d60179a4942fe1a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dec593ef458118d7b8fd444d4c6248aa9bc6e729ea66d4ff061e3765f0d2238d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Unleashing innovation: 3D-printed biomaterials in bone tissue engineering for repairing femur and tibial defects in animal models – a systematic review and meta-analysis",
+    "authors": "Sagar N, Chakravarti B, Maurya SS, Nigam A, Malakar P, Kashyap R.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1385365",
+    "publication_type": "Systematic Review; systematic-review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

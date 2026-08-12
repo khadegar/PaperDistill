@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10656885",
+  "paper_id": "doi:10.1186/s41205-023-00197-5",
+  "pmcid": "PMC10656885",
+  "source_record_sha256": "f5302b70c9949c763253726ec8dcf4e1039cf1fecb81a89c1d63fd154ec93604",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4b791da15ba10334178b065427ff65752de28043b3a42e914a0c0715d0bb8d02",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Characterization of mechanical stiffness using additive manufacturing and finite element analysis: potential tool for bone health assessment",
+    "authors": "Marupudi S, Cao Q, Samala R, Petrick N.",
+    "year": 2023,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-023-00197-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

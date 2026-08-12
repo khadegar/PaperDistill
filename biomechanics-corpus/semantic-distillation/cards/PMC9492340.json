@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9492340",
+  "paper_id": "doi:10.1155/2022/6072927",
+  "pmcid": "PMC9492340",
+  "source_record_sha256": "d5d075b87b420ec7049de112744f7eddd1290126f775d0c18b259f346d642a1b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "456db6fea134e74d8982d74ab404cbcd6321b061a9738bf7fa8468709df0bb51",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis and Comparative Study of 4 Kinds of Internal Fixation Systems for Anterior Cervical Discectomy and Fusion in Children",
+    "authors": "Li Z, Zhou J, Qu X, Zhang S, Ren X, Wang X, Li K, Li Z, Gao S, Li X.",
+    "year": 2022,
+    "journal": "Computational and Mathematical Methods in Medicine",
+    "doi": "10.1155/2022/6072927",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12533334",
+  "paper_id": "doi:10.1002/advs.202508740",
+  "pmcid": "PMC12533334",
+  "source_record_sha256": "920d2b7476de13f7823421d97e6ddb00d1d20b186ebece627ae96724faa3fefa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "196529725abb1e7a6beef3773c2d447fa427eef482839f8f698733a7b44a4004",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biocompatible Mesoporous Materials for Bone Therapy",
+    "authors": "Yu B, Wu Y, Hong Y, Wang P, Liu X, Deng Y, Su J.",
+    "year": 2025,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202508740",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

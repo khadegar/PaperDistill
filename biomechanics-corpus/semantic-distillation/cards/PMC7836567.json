@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7836567",
+  "paper_id": "doi:10.1186/s40824-021-00204-y",
+  "pmcid": "PMC7836567",
+  "source_record_sha256": "f5422b7b6edb39b1900f5ddad3e81c349b2712c72b86dbbe4fd9da041e6fd494",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1ffa3c513952ef1a83084fbb893a070b48683275a5a54c052aa191a9884c049e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing PCL/nHA bone scaffolds: exploring the influence of material synthesis techniques",
+    "authors": "Zimmerling A, Yazdanpanah Z, Cooper DML, Johnston JD, Chen X.",
+    "year": 2021,
+    "journal": "Biomaterials Research",
+    "doi": "10.1186/s40824-021-00204-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

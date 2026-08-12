@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9786899",
+  "paper_id": "doi:10.1002/bab.2245",
+  "pmcid": "PMC9786899",
+  "source_record_sha256": "3bc8f6a806b45a44af92c589ae06bfdb653eb528281bfd09dc77fb978403fa72",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8712e1eb992c98c1fe9d7bca17da9890cd88de67cea85430e408e4c6e027704c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D‐printed scaffold composites for the stimuli‐induced local delivery of bioactive adjuncts",
+    "authors": "Bandiera A, Catanzano O, Bertoncin P, Bergonzi C, Bettini R, Elviri L.",
+    "year": 2021,
+    "journal": "Biotechnology and Applied Biochemistry",
+    "doi": "10.1002/bab.2245",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

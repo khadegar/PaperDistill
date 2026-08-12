@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10177883",
+  "paper_id": "doi:10.3390/healthcare11091301",
+  "pmcid": "PMC10177883",
+  "source_record_sha256": "eed52de49fcf8da1e55f0f31faa3dbeb1ae0986e1b7145109f83f28d45975066",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f381d303725b4cf37dccf18ef9820d2f4c7f47922e78201c28c677ba9d0edb10",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Full-Arch Guided Restoration and Bone Regeneration: A Complete Digital Workflow Case Report",
+    "authors": "Todaro C, Cerri M, Rodriguez Y Baena R, Lupi SM.",
+    "year": 2023,
+    "journal": "Healthcare",
+    "doi": "10.3390/healthcare11091301",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

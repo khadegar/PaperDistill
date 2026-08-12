@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8020252",
+  "paper_id": "doi:10.1177/0300060520942112",
+  "pmcid": "PMC8020252",
+  "source_record_sha256": "743ec07836ecc79a923bf92f7e3e43fb8820ca54668ac999c6a30b34ccbdd2b1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e052921801873187e44f24310f7035cd29c73ab27fa65c1e68aca29aa52b9492",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Transcranial direct current stimulation in patients after decompressive craniectomy: a finite element model to investigate factors affecting the cortical electric field",
+    "authors": "Sun W, Sun W, Dong X, Yu G, Shuai L, Yuan Y, Ma C.",
+    "year": 2021,
+    "journal": "The Journal of International Medical Research",
+    "doi": "10.1177/0300060520942112",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

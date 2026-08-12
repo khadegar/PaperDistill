@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10052982",
+  "paper_id": "doi:10.3390/ijms24066008",
+  "pmcid": "PMC10052982",
+  "source_record_sha256": "439d4c7eee11de73f62159a66eceb8e05ce04efb4ea292fa0a63f17d35488187",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "04ee90a6cd37f2d57f32fa0f735d6573900807abd6f6f759c43c00b07741296d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "CHIR99021-Treated Osteocytes with Wnt Activation in 3D-Printed Module Form an Osteogenic Microenvironment for Enhanced Osteogenesis and Vasculogenesis",
+    "authors": "Luo Y, Liu Y, Wang B, Tu X.",
+    "year": 2023,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms24066008",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

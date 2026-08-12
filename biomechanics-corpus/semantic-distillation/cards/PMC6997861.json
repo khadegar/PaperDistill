@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6997861",
+  "paper_id": "doi:10.1016/j.sjbs.2019.12.005",
+  "pmcid": "PMC6997861",
+  "source_record_sha256": "4dd03e9eda79cf1a6f6bf291fa4d1b12b7847b6f4d64f81c2ec5988c6059955d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2a972d15c86cad8ab95132911cd5d5962fc036ba1fb93b29bfeaaa309d7e85f8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The construction of the scoliosis 3D finite element model and the biomechanical analysis of PVCR orthopaedy",
+    "authors": "Chen X, Cai H, Zhang G, Zheng F, Wu C, Lin H.",
+    "year": 2019,
+    "journal": "Saudi Journal of Biological Sciences",
+    "doi": "10.1016/j.sjbs.2019.12.005",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

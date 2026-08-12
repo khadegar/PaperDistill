@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10504695",
+  "paper_id": "doi:10.1186/s13018-023-04185-7",
+  "pmcid": "PMC10504695",
+  "source_record_sha256": "c4df6ba71b46a64d3c8fb629bcc48fbe95b684974fb5456fafb5934601e2a197",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bcf9f8ad74cb1ac5e4be788a56f565209deafc0683632c475b5db16df247bf84",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Experimental study of a 3D-printing technique combined with biphasic calcium phosphates to treat osteonecrosis of the femoral head in a canine model",
+    "authors": "Chen Z, Feng F, Su X, Xu Y, Zhang Y, Tan H.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-04185-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

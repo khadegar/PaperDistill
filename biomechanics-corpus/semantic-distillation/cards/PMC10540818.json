@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10540818",
+  "paper_id": "doi:10.1002/jsp2.1268",
+  "pmcid": "PMC10540818",
+  "source_record_sha256": "dcd4aaa9708d2ad91fa387af77d4c32a2fa75bb866c1d31e8aa6ef1cd761a72b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ba68118dcb0dee530568f81e61de5efdb05e17d4259430ebd53ca1edfa4e5794",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Novel 3D printed lattice structure titanium cages evaluated in an ovine model of interbody fusion",
+    "authors": "Johnson JW, Gadomski B, Labus K, Stewart H, Nelson B, Seim H, Regan D, von Stade D, Kelly C, Horne P, Gall K, Easley J.",
+    "year": 2023,
+    "journal": "JOR Spine",
+    "doi": "10.1002/jsp2.1268",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

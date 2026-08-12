@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3223135",
+  "paper_id": "doi:10.1186/1749-799x-6-56",
+  "pmcid": "PMC3223135",
+  "source_record_sha256": "4ca12c3ece9c65c70ff3014e35a6cdd97248463adda3f4bd2ecddee412a9d739",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d088e489de05b46e0e8d23137bad0d8eb837c2a654abb73c9f7ab341f24e8ddd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osseointegration of porous titanium implants with and without electrochemically deposited DCPD coating in an ovine model",
+    "authors": "Chen D, Bertollo N, Lau A, Taki N, Nishino T, Mishima H, Kawamura H, Walsh WR.",
+    "year": 2011,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/1749-799x-6-56",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

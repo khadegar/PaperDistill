@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11696423",
+  "paper_id": "doi:10.1021/acsomega.4c09131",
+  "pmcid": "PMC11696423",
+  "source_record_sha256": "4ff8833e45d181636a0e0a4c7a3f0293a4c36ee22a0bef4e3f6f74a0927cc353",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "de10b9600cd79f00ae91a426cc32692126648492684a8ada2cc0a1a6c453609c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Molding Quality and Biological Evaluation of a Two-Stage Titanium Alloy Dental Implant Based on Combined 3D Printing and Subtracting Manufacturing",
+    "authors": "Wei H, Huang S, Liu Y, Li D.",
+    "year": 2024,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.4c09131",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

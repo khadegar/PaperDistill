@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10613193",
+  "paper_id": "doi:10.1186/s40634-023-00677-x",
+  "pmcid": "PMC10613193",
+  "source_record_sha256": "bc6550cbec394ecd2053102d7df410c11a781fd5449bad9a9c19652d5d11823b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9261b8f465ac5a52237d03ab36fe7f590ba5f2ffe40034d640eb5d2d49d3cb36",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Increased ACL direct insertion coverage provided more positive biomechanical effects on graft and bone tunnel during knee flexion: a simulation study",
+    "authors": "Xiao Y, Liang Z, Shen S, Liu F, Hu H, Chen B.",
+    "year": 2023,
+    "journal": "Journal of Experimental Orthopaedics",
+    "doi": "10.1186/s40634-023-00677-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

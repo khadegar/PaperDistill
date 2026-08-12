@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9465989",
+  "paper_id": "doi:10.12336/biomatertransl.2022.02.001",
+  "pmcid": "PMC9465989",
+  "source_record_sha256": "8fc75d1914faf47ec38998605006e1bf2526f663a411bafea58182ce5039b3e0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "36268cdcc4987010718e489da0523d2d6b906e62a65c2ce9e56981925ba3b1a4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive manufactured polyether-ether-ketone implants for orthopaedic applications: a narrative review",
+    "authors": "Sun C, Kang J, Yang C, Zheng J, Su Y, Dong E, Liu Y, Yao S, Shi C, Pang H, He J, Wang L, Liu C, Peng J, Liu L, Jiang Y, Li D.",
+    "year": 2022,
+    "journal": "Biomaterials Translational",
+    "doi": "10.12336/biomatertransl.2022.02.001",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

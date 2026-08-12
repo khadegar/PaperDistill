@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12859348",
+  "paper_id": "doi:10.6026/973206300213775",
+  "pmcid": "PMC12859348",
+  "source_record_sha256": "2b21c1e3cbb3ce68d15729e03ffaee5610c1286a7d596ffba7cfcdda8a613404",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7bdeea58fd3953277e8654aff928ee3e0716860a10d42420d18f5561a3b36613",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of implant tilt and trans-mucosal abutment angulation as influencing stress pattern: An FEA study",
+    "authors": "Verma A, Gupta RK, Bhargava A, Dua B, Sharma A, Verma T.",
+    "year": 2025,
+    "journal": "Bioinformation",
+    "doi": "10.6026/973206300213775",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

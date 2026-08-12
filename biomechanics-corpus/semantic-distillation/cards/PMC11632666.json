@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11632666",
+  "paper_id": "doi:10.1021/acsbiomaterials.4c01865",
+  "pmcid": "PMC11632666",
+  "source_record_sha256": "646d216add1095ca4b825c5afcb4514fa379e227ff284ef043f0fcfee4888590",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "aa4fcd0947f2d3b83acc859a24392877edbdf762504657547c9c1395904a2e16",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical and Physical Characterization of a Biphasic 3D Printed Silk-Infilled Scaffold for Osteochondral Tissue Engineering",
+    "authors": "Braxton T, Lim K, Alcala-Orozco C, Joukhdar H, Rnjak-Kovacina J, Iqbal N, Woodfield T, Wood D, Brockett C, Yang XB.",
+    "year": 2024,
+    "journal": "ACS Biomaterials Science & Engineering",
+    "doi": "10.1021/acsbiomaterials.4c01865",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

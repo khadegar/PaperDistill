@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13269511",
+  "paper_id": "doi:10.1007/s11517-026-03572-6",
+  "pmcid": "PMC13269511",
+  "source_record_sha256": "cfe16726509a115229ed22e38d17d52bef46bf1570e311cc8e6d0389a45598c0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "02fd3455c417fa9eab758b96c2f0980672b562188a6a11780aeb10a8002aa8e4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of cell culture parameters on oxygen diffusion and cell distribution in 3D-porous scaffolds for bone tissue engineering: finite element modeling and experimental verification",
+    "authors": "Saatchi A, Seddiqi H, Amoabediny G, Helder MN, Zandieh-Doulabi B, Klein-Nulend J.",
+    "year": 2026,
+    "journal": "Medical & Biological Engineering & Computing",
+    "doi": "10.1007/s11517-026-03572-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

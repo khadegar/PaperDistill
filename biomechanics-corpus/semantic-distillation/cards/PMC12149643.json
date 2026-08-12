@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12149643",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101885",
+  "pmcid": "PMC12149643",
+  "source_record_sha256": "47702e0cac5520204e6c8988c7c92bcca852ad951a08a5791544fdc3f3381b90",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bd109e9085fe67032f21f866a89d95787723b838a2f1214caf24fe9a83d9bc27",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Magnetically bioprinted anisotropic hydrogels promote BMSC osteogenic differentiation for bone defect repair",
+    "authors": "Xu R, Zhang H, Luo Y, Pan S, Zhang C, Wu X, Zhang G, Su C, Xia D.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101885",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11795821",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101502",
+  "pmcid": "PMC11795821",
+  "source_record_sha256": "038430fa3c9713e3e45e13e8fc4e109f85cf93d75e7f23653e75d3767ce7e47c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "36360656553963b5c547e35ad5887f06c399afb09f82e13ef0cdb68d6fa0a78a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "DNA-based hydrogels for bone regeneration: A promising tool for bone organoids",
+    "authors": "Wu X, Hu Y, Sheng S, Yang H, Li Z, Han Q, Zhang Q, Su J.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101502",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

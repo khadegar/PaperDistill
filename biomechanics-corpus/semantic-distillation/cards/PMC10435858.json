@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10435858",
+  "paper_id": "doi:10.3389/fbioe.2023.1226745",
+  "pmcid": "PMC10435858",
+  "source_record_sha256": "bde6f2e7413135f5084616539b6f0650a1dff3fcbe5805b7446d5620a437821b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b0723f6adad7980904b42fb99a81c02f98f0a7f7bf217188e44818629ecd6cef",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Antibacterial performance of a porous Cu-bearing titanium alloy by laser additive manufacturing",
+    "authors": "Xu J, Lu Y, Pan X, Zhan D, Wang Q, Zhang N.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1226745",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

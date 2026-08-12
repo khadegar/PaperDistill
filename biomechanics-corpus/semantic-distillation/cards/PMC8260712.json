@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8260712",
+  "paper_id": "doi:10.1038/s41598-021-93367-6",
+  "pmcid": "PMC8260712",
+  "source_record_sha256": "f65f6bcff57ac5e4eb28326f38ebbb38227c9e793e0021f0ed437a6b9950db8c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5eb8c9de79d9a8c0245b7db5b957189e20546d69dc76a8ca851f170485d30ce5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioengineered 3D nanocomposite based on gold nanoparticles and gelatin nanofibers for bone regeneration: in vitro and in vivo study",
+    "authors": "Samadian H, Khastar H, Ehterami A, Salehi M.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-93367-6",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

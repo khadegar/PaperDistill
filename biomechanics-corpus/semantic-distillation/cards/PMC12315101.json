@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12315101",
+  "paper_id": "doi:10.1039/d5ra03550c",
+  "pmcid": "PMC12315101",
+  "source_record_sha256": "a26066f3ec19461f61504992185470745caed2399a7a702b443b6ba85d741cc5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "46d8bde1ba38ba4115ea5ae98819d6af57531407829ce2b751cc3aa5f9c8df1c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous titania-coated zirconia: preparation and osteogenic performance evaluation",
+    "authors": "Tang S, Wang Y, Ma P, Fan Z.",
+    "year": 2025,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d5ra03550c",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

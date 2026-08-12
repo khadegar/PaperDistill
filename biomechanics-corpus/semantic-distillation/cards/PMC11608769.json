@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11608769",
+  "paper_id": "doi:10.1111/os.14255",
+  "pmcid": "PMC11608769",
+  "source_record_sha256": "879571c2fb6b3d9bd855a8a7c1c02ea81227f7a5be4539d0c248f8b5bf47fa48",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cca8993c9465c1c867b1eebd310b5e011978265d02875491579c57188cad5ab4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Progress in the Application of Porous Tantalum Metal in Hip Joint Surgery",
+    "authors": "Ma K, Ma Z, Cheng L, Zhao D.",
+    "year": 2024,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.14255",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

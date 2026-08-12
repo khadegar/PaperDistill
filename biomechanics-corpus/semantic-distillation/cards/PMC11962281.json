@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11962281",
+  "paper_id": "doi:10.1111/os.14353",
+  "pmcid": "PMC11962281",
+  "source_record_sha256": "c9fa278829c4c10f1065a49f8543f0ff09ab7231594423eab70a5863f7854759",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2898663d2bcaa4dfec606f48ce042e031f2f0dcc4c95cd44345c8c9696f73a32",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Treatment of Femoral Neck Fractures in Adults With Improved Biplane Double‐Supported Screw Fixation and Femoral Neck System: Complications and Surgical Techniques",
+    "authors": "Zhang X, Feng X, Ouyang L, Shu S, Zhuang L, Gui W, Zhang S, Yao Z, Wang G, Liao H, Hu J.",
+    "year": 2025,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.14353",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

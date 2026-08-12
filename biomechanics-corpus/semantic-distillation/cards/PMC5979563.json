@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5979563",
+  "paper_id": "doi:10.3390/ijms19041127",
+  "pmcid": "PMC5979563",
+  "source_record_sha256": "7ac3b36aeb53b3103733f28034409505e88fc4c0339e10c4566dc4bebe8b863b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8bf82c593d3bdecd6bebb776961d1af61d38f9029fda960bc7605327b0e379a7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro and In Vivo Osteogenic Activity of Titanium Implants Coated by Pulsed Laser Deposition with a Thin Film of Fluoridated Hydroxyapatite",
+    "authors": "Chen L, Komasa S, Hashimoto Y, Hontsu S, Okazaki J.",
+    "year": 2018,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms19041127",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

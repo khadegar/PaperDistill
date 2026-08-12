@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10764155",
+  "paper_id": "doi:10.3389/fbioe.2023.1304147",
+  "pmcid": "PMC10764155",
+  "source_record_sha256": "807fc20136a43dca18b1e1a73320e5b23a580f17ad1032686db0ffcd4b14182a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "367e4145d9abd9432bbdad2b932443c2a25a38aa1be6fc19c7a24dd4e0349066",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical properties, and in vitro biocompatibility assessment of biomimetic dual layered keratin/ hydroxyapatite scaffolds",
+    "authors": "Feroz S, Muhammad N, Ullah R, Nishan U, Cathro P, Dias G.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1304147",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

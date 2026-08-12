@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11238619",
+  "paper_id": "doi:10.1021/acsnano.4c02104",
+  "pmcid": "PMC11238619",
+  "source_record_sha256": "e190d2490097abdf62d5fe633855dd21616ca58e39bcdd2bf35aa9328193a722",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6c4bcf164dab6413c266d1385178e81e217f1c2c5f8f901761101fffd2f0c3a4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Developing and Investigating a Nanovibration Intervention for the Prevention/Reversal of Bone Loss Following Spinal Cord Injury",
+    "authors": "Williams JA, Campsie P, Gibson R, Johnson-Love O, Werner A, Sprott M, Meechan R, Huesa C, Windmill JFC, Purcell M, Coupaud S, Dalby MJ, Childs P, Riddell JS, Reid S.",
+    "year": 2024,
+    "journal": "ACS Nano",
+    "doi": "10.1021/acsnano.4c02104",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12027682",
+  "paper_id": "doi:10.3390/jcm14082619",
+  "pmcid": "PMC12027682",
+  "source_record_sha256": "0df784c63effc29bd88ece0cf6278ef4f51bff997487f58c3af447a9813250d0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4829ff9bb6d482db8d40a33072afd4050b1d05be954a8edb168809ef391c0657",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of All-Suture Anchors and Metal Anchors in Arthroscopic Rotator Cuff Repair: Short-Term Clinical Outcomes and Anchor Pullout Risk",
+    "authors": "Keçeci T, Polat Y, Şahin AA, Alparslan M, Sipahioğlu S, Çıraklı A.",
+    "year": 2025,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm14082619",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

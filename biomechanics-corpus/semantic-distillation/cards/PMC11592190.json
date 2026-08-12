@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11592190",
+  "paper_id": "doi:10.3390/biomimetics9110673",
+  "pmcid": "PMC11592190",
+  "source_record_sha256": "81608b8d8da42dd4b7d61f1b001e88d7b7de23692a432fcadf52f6bf67ffac44",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "18347fa6dcc52b01589f47d809b8334204631f69e378f2c220d3fc2a9fd8201c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Murine Model of Non-Wear-Particle-Induced Aseptic Loosening",
+    "authors": "Suhardi V, Oktarina A, Niu Y, Sosa B, Retzky J, Greenblatt M, Ivashkiv L, Bostrom M, Yang X.",
+    "year": 2024,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics9110673",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

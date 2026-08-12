@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9468357",
+  "paper_id": "doi:10.1038/s41598-022-19641-3",
+  "pmcid": "PMC9468357",
+  "source_record_sha256": "32e4ec0ec5e9141787ff63c516f56c92477d0390a164facc7ffcdc265f8fd99d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0b5a1b5c64d674884d89c42215a0733201b71e0b34d5a4da4d5b796921c157ae",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reduction of the occlusion effect induced by earplugs using quasi perfect broadband absorption",
+    "authors": "Carillo K, Sgard F, Dazel O, Doutres O.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-19641-3",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

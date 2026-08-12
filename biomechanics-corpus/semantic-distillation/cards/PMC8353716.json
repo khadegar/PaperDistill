@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8353716",
+  "paper_id": "doi:10.17691/stm2021.13.2.06",
+  "pmcid": "PMC8353716",
+  "source_record_sha256": "2f5f82216c9feab229b18f169381552609c8875cdc3549ae2d07618ca367d0d8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "11a741a8f509a1bfe7d83f18620cf5311d77d30e0eaaa7099a9ad390307fa9b3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biocompatibility and Osseointegration of Calcium Phosphate-Coated and Non-Coated Titanium Implants with Various Porosities",
+    "authors": "Korytkin AA, Orlinskaya NY, Novikova YS, Gerasimov SA, Davydenko DV, Kulakova KV, Tverdokhlebov SI, Bolbasov EN.",
+    "year": 2021,
+    "journal": "Modern Technologies in Medicine",
+    "doi": "10.17691/stm2021.13.2.06",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

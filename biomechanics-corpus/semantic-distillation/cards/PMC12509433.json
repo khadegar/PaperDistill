@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12509433",
+  "paper_id": "doi:10.1097/pxr.0000000000000448",
+  "pmcid": "PMC12509433",
+  "source_record_sha256": "402f373574cc89851e89e38b29e7a1ff229db51f5a8c0b17c94997223fa494a8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "25e69f2256acef1f9d5725381e2650ea0d9d2da95a596e264478a6749180ef52",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The biomechanical effect of different spring extension assist mechanisms in mechanical 4-bar polycentric prosthetic knees for unilateral above/through-knee amputees",
+    "authors": "Toderita D, Favier CD, Milandri GS, Vardakastani V, Henson DP, Bull AM.",
+    "year": 2025,
+    "journal": "Prosthetics and Orthotics International",
+    "doi": "10.1097/pxr.0000000000000448",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

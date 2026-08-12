@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9491622",
+  "paper_id": "doi:10.7759/cureus.29271",
+  "pmcid": "PMC9491622",
+  "source_record_sha256": "34a880ae1d0006f83d65ec0b2a641e0d08e8157076b4f03e881fd59dc4072115",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c587241ace9ee4740df53789bb4be7f1c8b633356b731605ba44f755767fed3a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of Medical Imaging and 3D Printing Technology in Teaching the Handling of Novel Medicine in Periodontal Surgery",
+    "authors": "Tomohisa O, Kamio T, Maeda Y, Tsubosaki K, Kato T, Iwata H.",
+    "year": 2022,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.29271",
+    "publication_type": "other; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

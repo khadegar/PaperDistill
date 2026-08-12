@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10954237",
+  "paper_id": "doi:10.1590/1984-3143-ar2023-0039",
+  "pmcid": "PMC10954237",
+  "source_record_sha256": "8dcbe5abf6562fb6177629ffc2f451111af6758fe5b6fed16bf4f4d4ac37857a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9320c092e249bb2364444a8043898284579714a892ca335b771145c8a6eba6e5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D culture applied to reproduction in females: possibilities and perspectives",
+    "authors": "Ferronato GA, Vit FF, da Silveira JC.",
+    "year": 2024,
+    "journal": "Animal Reproduction",
+    "doi": "10.1590/1984-3143-ar2023-0039",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

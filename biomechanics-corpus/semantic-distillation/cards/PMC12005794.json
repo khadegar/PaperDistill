@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12005794",
+  "paper_id": "doi:10.1002/advs.202417346",
+  "pmcid": "PMC12005794",
+  "source_record_sha256": "e6be9e5c7ac1c2d921b3a48324ed0c37b21fdaeb7e75065ac0444a6f02a98098",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a5f3dc6014a6cf75d007ea85ea0f64185c5bf96e7fe92067d650f706b76966f6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "“Antenna Effect”‐Enhanced AuNPs@rGO Photothermal Coating Promotes 3D Printing of Osteogenic Active Scaffolds to Repair Bone Defects after Malignant Tumor Surgery",
+    "authors": "Xu X, Wang H, Mei X, Zeng D, Yu Z, Liu S, Li R, Qin Y.",
+    "year": 2025,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202417346",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

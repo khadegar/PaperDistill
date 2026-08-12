@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11451155",
+  "paper_id": "doi:10.1186/s13018-024-05088-x",
+  "pmcid": "PMC11451155",
+  "source_record_sha256": "c338ba0228e228d981e55eb94b53c94853ce5934777c60376216747962f82e1d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f9639f3d5a1111f0019b477816728638415a7b98b5405a405218ee3620a385c1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A novel 3D printed model for educating medical students on limb fractures: a randomized controlled preliminary study",
+    "authors": "Zhang Y, Wang H, Yi J, Zhang H, Dong C, Wang G, Zhu Z, Liu W, Luo W.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-05088-x",
+    "publication_type": "research-article; Randomized Controlled Trial; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

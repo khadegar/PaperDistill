@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12210070",
+  "paper_id": "doi:10.3171/case25159",
+  "pmcid": "PMC12210070",
+  "source_record_sha256": "d6c78dc0b60317730a89a4d0809f56bd49633a0551298e0bdbbf048cb027aea7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4960168504b727c4ad061e9245b8e11d9423acd5f41db03452504bff4e5779f5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Minimally invasive fixation and management of sacral fibrous dysplasia with impending pathological fracture: illustrative case",
+    "authors": "Kress DJ, Garcia R, Haselhuhn JJ, Zhou Y, Murugan P, Sembrano JN.",
+    "year": 2025,
+    "journal": "Journal of Neurosurgery: Case Lessons",
+    "doi": "10.3171/case25159",
+    "publication_type": "Journal Article; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

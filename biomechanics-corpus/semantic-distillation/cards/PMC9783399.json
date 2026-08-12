@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9783399",
+  "paper_id": "doi:10.1186/s12903-022-02673-6",
+  "pmcid": "PMC9783399",
+  "source_record_sha256": "93d498d6403663ebf80bbc0aa76973347fd88d7c31a6e81839ba0e0e393e42e4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fc7d794239974ed0daede582ad5f707d0b4e1e534ea635aa3379def34ec01bc6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Early osseointegration of micro-arc oxidation coated titanium alloy implants containing Ag: a histomorphometric study",
+    "authors": "Ding M, Shi J, Wang W, Li D, Tian L.",
+    "year": 2022,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-022-02673-6",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

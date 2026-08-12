@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10819679",
+  "paper_id": "doi:10.3390/mi15010083",
+  "pmcid": "PMC10819679",
+  "source_record_sha256": "4b0d8ce532956f068b8b0db55c5c1c8bb794f5c279d68cd8bdd8d44bf6aaf648",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2c2d8041cbe85f6550620c3818044d870514a5366d3c7da38b7ae732c4335730",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Nanoporous 3D-Printed Scaffold for Local Antibiotic Delivery",
+    "authors": "Ahangar P, Li J, Nkindi LS, Mohammadrezaee Z, Cooke ME, Martineau PA, Weber MH, Saade E, Nateghi N, Rosenzweig DH.",
+    "year": 2023,
+    "journal": "Micromachines",
+    "doi": "10.3390/mi15010083",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

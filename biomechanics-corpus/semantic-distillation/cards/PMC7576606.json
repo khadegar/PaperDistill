@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7576606",
+  "paper_id": "doi:10.1038/s41598-020-74548-1",
+  "pmcid": "PMC7576606",
+  "source_record_sha256": "42b59daf14ad097fdc033f85fc899a5afc14d8e0c25a110ba505d457505b44a2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "74dae1b51762367cc3cef3c4af3a7c35aa0a03e1194f40816a09a61892d49396",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical analysis of costochondral graft fracture in temporomandibular joint replacement",
+    "authors": "Mao Y, Chen X, Yu S, Xu W, Qin H, Zhen J, Qiu Y, Zhang S, Yang C.",
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-74548-1",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

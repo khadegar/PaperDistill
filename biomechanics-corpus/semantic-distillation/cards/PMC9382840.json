@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9382840",
+  "paper_id": "doi:10.1186/s12891-022-05746-3",
+  "pmcid": "PMC9382840",
+  "source_record_sha256": "f7bca6b796df9db0814eaa4f26d047b8c194f5ade865f847f7baf7df26f4bb29",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e5ff6659716cd76a0b5ecb86a15d5aa376bd2f4b81de38cbf9f0089ed5c6bc1c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of intraosseous distal radioulnar joint prosthesis",
+    "authors": "Gholamian F, Ashrafi M, Moradi A.",
+    "year": 2022,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-022-05746-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

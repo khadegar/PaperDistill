@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9529975",
+  "paper_id": "doi:10.1016/j.jcot.2022.102015",
+  "pmcid": "PMC9529975",
+  "source_record_sha256": "923600565df69636231c9cbb37a50478def7b454be045cb4379994e9793324a2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8219d1d26b11d4ffc2a4d80b4212657fff67b3dbaba73b0da59732ea1ccaf3ca",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "What is the most fixable intramedullary implant for basicervical fracture and transcervical shear fracture? – A finite element study",
+    "authors": "Komatsu M, Iwami T, Kijima H, Kawano T, Miyakoshi N.",
+    "year": 2022,
+    "journal": "Journal of Clinical Orthopaedics and Trauma",
+    "doi": "10.1016/j.jcot.2022.102015",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

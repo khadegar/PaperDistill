@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12292679",
+  "paper_id": "doi:10.3390/biomimetics10070477",
+  "pmcid": "PMC12292679",
+  "source_record_sha256": "77550f697ea6c8f7142a1b051f8aac4da0271265bf94db04c70abca4be4c7350",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a0a08f8d26ff381da295dd6f590b4be45e2996ed85b2798fd6282f1c66cfd055",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Global Research Trends in Biomimetic Lattice Structures for Energy Absorption and Deformation: A Bibliometric Analysis (2020–2025)",
+    "authors": "Narayan S, Menacer B, Kaisan MU, Samuel J, Al-Lehaibi M, Mahroogi FO, Tuninetti V.",
+    "year": 2025,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics10070477",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

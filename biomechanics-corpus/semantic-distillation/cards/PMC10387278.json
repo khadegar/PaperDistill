@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10387278",
+  "paper_id": "doi:10.2147/ijn.s409033",
+  "pmcid": "PMC10387278",
+  "source_record_sha256": "eceeaa22f33369acba9abca0f4ddd57250475d0c8eaceaf3ae06c48fffa96b4f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "534800fcbb56f36953f4d725544e30eaa633f786565b7c0d93219bdee727e108",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Nanoscale Morphologies on the Surface of 3D-Printed Titanium Implants for Improved Osseointegration: A Systematic Review of the Literature",
+    "authors": "Yang S, Jiang W, Ma X, Wang Z, Sah RL, Wang J, Sun Y.",
+    "year": 2023,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s409033",
+    "publication_type": "Systematic Review; review-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

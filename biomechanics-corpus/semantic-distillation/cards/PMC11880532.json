@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11880532",
+  "paper_id": "doi:10.1038/s41467-025-57609-9",
+  "pmcid": "PMC11880532",
+  "source_record_sha256": "6ea864cef32504d5f527acf98967ff6c437f7e79bd7e443a4a121930c9cdd77c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a3e76abcac4b978892380032adcda2de32d7023e81544179fb2497a058e709be",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A metamaterial scaffold beyond modulus limits: enhanced osteogenesis and angiogenesis of critical bone defects",
+    "authors": "Qin Y, Jing Z, Zou D, Wang Y, Yang H, Chen K, Li W, Wen P, Zheng Y.",
+    "year": 2025,
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-025-57609-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

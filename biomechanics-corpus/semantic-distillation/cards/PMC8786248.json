@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8786248",
+  "paper_id": "doi:10.1080/23320885.2022.2029453",
+  "pmcid": "PMC8786248",
+  "source_record_sha256": "db0fc5d1fb11235023b03930a65c102567c10b41c9a2acf35baadb9591be81b2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c2c6c0cdec4d05941f7d45a76e5b92234ede896bf4bdd439591e99c8e208a262",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Metacarpal reconstruction with a medial femoral condyle flap based on a 3D-printed model: a case report",
+    "authors": "Schmidt M, Holzbauer M, Froschauer SM.",
+    "year": 2022,
+    "journal": "Case Reports in Plastic Surgery & Hand Surgery",
+    "doi": "10.1080/23320885.2022.2029453",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

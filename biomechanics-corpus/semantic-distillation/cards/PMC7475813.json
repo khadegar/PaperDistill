@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7475813",
+  "paper_id": "doi:10.3390/ma13163522",
+  "pmcid": "PMC7475813",
+  "source_record_sha256": "7df029a9a463d4f827737e1fad2845038fe6d20717c4228a2d2bf11f817e8a6f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1697a1c049222607cf391e459afeaa5359cb64f2fa1f3b8437c27118230f6274",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication of 3D Printing Scaffold with Porcine Skin Decellularized Bio-Ink for Soft Tissue Engineering",
+    "authors": "Lee SJ, Lee JH, Park J, Kim WD, Park SA.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13163522",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

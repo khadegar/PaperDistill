@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10709695",
+  "paper_id": "doi:10.1515/iss-2021-0045",
+  "pmcid": "PMC10709695",
+  "source_record_sha256": "861ee4d63f0e412f850459efc92beb1945a106a5498327de99fbb4eb04a47992",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "644f81aa5f5aaaded3e8ee251a0e4254801784c95b748a604e8b1c70131783db",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Virtual planning for mandible resection and reconstruction",
+    "authors": "Probst FA, Liokatis P, Mast G, Ehrenfeld M.",
+    "year": 2023,
+    "journal": "Innovative Surgical Sciences",
+    "doi": "10.1515/iss-2021-0045",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9965482",
+  "paper_id": "doi:10.3390/pharmaceutics15020507",
+  "pmcid": "PMC9965482",
+  "source_record_sha256": "d70d60ba4dcdaa8844e8a9aab1d29551ec8b8fc7747e95a1515992b246345c74",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "224cb298417ead57272f9585d063aecdf871ce29fb714635ba759900160ef0bc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hybrid Manufacturing of Oral Solid Dosage Forms via Overprinting of Injection-Molded Tablet Substrates",
+    "authors": "Xu H, Ebrahimi F, Gong K, Cao Z, Fuenmayor E, Major I.",
+    "year": 2023,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics15020507",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

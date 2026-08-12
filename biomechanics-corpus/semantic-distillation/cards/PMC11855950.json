@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11855950",
+  "paper_id": "doi:10.3390/jcm14041043",
+  "pmcid": "PMC11855950",
+  "source_record_sha256": "d5d71fa182149529afbc3f838b348a63292064be0e7def1377fb2413e5178009",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "58ba0b1f6eb076007d51b4747a2c082d62c288bdf90febc329bc9a8f31ca668b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Effects of Biomechanical Loading on the Tibial Insert After Primary Total Knee Arthroplasty: A Systematic Review",
+    "authors": "Diconi AF, Roman MD, Cristian AN, Boicean AG, Mohor CI, Ion NCI, Bocea BA, Teodoru CA, Oprinca GC, Fleaca SR.",
+    "year": 2025,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm14041043",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

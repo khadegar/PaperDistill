@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12060093",
+  "paper_id": "doi:10.1016/j.onano.2024.100223",
+  "pmcid": "PMC12060093",
+  "source_record_sha256": "12a873e3e0157629331f72bb0662c1b8250517723d6c91597faaaa74d07c93f5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b3555329678d9ade64c343e8e89db8dc7473111eefc7a2aa8f911b00ecef83b2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioprinting 3D lattice-structured lumens using polyethylene glycol diacrylate (PEGDA) combined with self-assembling peptide nanofibers as hybrid bioinks for anchorage dependent cells",
+    "authors": "Irukuvarjula V, Fouladgar F, Powell R, Carney E, Habibi N.",
+    "year": 2024,
+    "journal": "OpenNano",
+    "doi": "10.1016/j.onano.2024.100223",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

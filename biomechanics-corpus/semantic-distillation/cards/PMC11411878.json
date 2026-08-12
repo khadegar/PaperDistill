@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11411878",
+  "paper_id": "doi:10.52312/jdrs.2024.1756",
+  "pmcid": "PMC11411878",
+  "source_record_sha256": "924b80834ad9eb00373aa64e417d78117464879bed4faa4f12d1f8a44447e385",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c601096f4b4f7b10e1e00a02e2f1409c5429d279ca39c9c25e7961b6c17145ab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Efficacy of 3D printing-assisted treatment for acetabular fractures",
+    "authors": "Si C, Bai B, Cong W, Zhang L, Guan R.",
+    "year": 2024,
+    "journal": "Joint Diseases and Related Surgery",
+    "doi": "10.52312/jdrs.2024.1756",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

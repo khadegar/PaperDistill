@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8919543",
+  "paper_id": "doi:10.1186/s40824-022-00256-8",
+  "pmcid": "PMC8919543",
+  "source_record_sha256": "f53cda2109c7678e328ffcc253fd8a190fda5cf5f847836deea4af18172087e8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1fb6abb143443c611e20729cff7943c589a8a01ce3c2d840b7dbff7a0accbc49",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluating the validity of lightweight talar replacement designs: rational models and topologically optimized models",
+    "authors": "Kang Y, Kim S, Kim J, Lee JW, Park JC.",
+    "year": 2022,
+    "journal": "Biomaterials Research",
+    "doi": "10.1186/s40824-022-00256-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

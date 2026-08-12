@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12837435",
+  "paper_id": "doi:10.3390/bioengineering13010101",
+  "pmcid": "PMC12837435",
+  "source_record_sha256": "9d7311eed8a054b5e5defb0bf1fce2fb31022c85e831828cea6d9e3587b63850",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c19077166ad6e8356f331fe558681a021d0d38b09c631e5855730eb775213f96",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biologic Augmentation for Meniscus Repair: A Narrative Review",
+    "authors": "Lee TL, Rodeo S.",
+    "year": 2026,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering13010101",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7916147",
+  "paper_id": "doi:10.3390/ma14040830",
+  "pmcid": "PMC7916147",
+  "source_record_sha256": "9955c47c0c50f734bff924334e4a259827ffa18db1bea23d984852ec5568b60f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "20bc02cd68662c1b3818fd27885142b6d9b6c1e88e47b4f721d3f1132496a5ff",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Plotting of Silica/Collagen Xerogel Granules in an Alginate Matrix for Tissue-Engineered Bone Implants",
+    "authors": "Rößler S, Brückner A, Kruppke I, Wiesmann HP, Hanke T, Kruppke B.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14040830",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

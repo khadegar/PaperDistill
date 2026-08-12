@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7074176",
+  "paper_id": "doi:10.3390/jcm9020478",
+  "pmcid": "PMC7074176",
+  "source_record_sha256": "68ade8094a3d7a63db1a783dfb40b1e7eeafe31da7ac3d8bc0e9f779767dbba0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "93e7c268b011bb782ad165dc618a1a86ee45b99a14cc2b0c60f769959c781251",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteo-Compatibility of 3D Titanium Porous Coating Applied by Direct Energy Deposition (DED) for a Cementless Total Knee Arthroplasty Implant: In Vitro and In Vivo Study",
+    "authors": "Ryu DJ, Ban HY, Jung EY, Sonn CH, Hong DH, Ahmad S, Gweon B, Lim D, Wang JH.",
+    "year": 2020,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm9020478",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8033174",
+  "paper_id": "doi:10.3389/fbioe.2021.641130",
+  "pmcid": "PMC8033174",
+  "source_record_sha256": "2d4a52965cd003bf5f9500fb456bac541b0a6c2e9a2b8420aebffb0a25138fc6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f0ccdd0b7dce87efa5887c2c76f34b2528e847bc04c69a30bd9ac60fd8fedcec",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Metal Material, Properties and Design Methods of Porous Biomedical Scaffolds for Additive Manufacturing: A Review",
+    "authors": "Lv Y, Wang B, Liu G, Tang Y, Lu E, Xie K, Lan C, Liu J, Qin Z, Wang L.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.641130",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

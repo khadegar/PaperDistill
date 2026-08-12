@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3590211",
+  "paper_id": "doi:10.1371/journal.pone.0057564",
+  "pmcid": "PMC3590211",
+  "source_record_sha256": "49f7add51859f9f7ac4035cdde4af7016e53e5b83bbc6c2c43621ad86b1bd2e9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3d11aac45917cb76beea01101f34faf00840c7715e7d07470892ece561946707",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro and In Vivo Evaluation of Zinc-Modified Ca–Si-Based Ceramic Coating for Bone Implants",
+    "authors": "Yu J, Li K, Zheng X, He D, Ye X, Wang M.",
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0057564",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

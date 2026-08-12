@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12273797",
+  "paper_id": "doi:10.1126/sciadv.adv8804",
+  "pmcid": "PMC12273797",
+  "source_record_sha256": "b00fb89299fff0e6f310f3977e8bfc262cdc18cfd32794c88f9528d7eb7065de",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6c0ce036fe46da230b3861e9b8c39203c867e3fa1c987395ee626631164ad931",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Architecture mechanics mediated osteogenic progression in bone regeneration of artificial scaffolds",
+    "authors": "Long SY, Fu YJ, Zhang ZM, Tang R, Yu P, Yang W.",
+    "year": 2025,
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.adv8804",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

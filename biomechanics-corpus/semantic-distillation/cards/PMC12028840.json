@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12028840",
+  "paper_id": "doi:10.3390/ma18081864",
+  "pmcid": "PMC12028840",
+  "source_record_sha256": "dd480939831076efa1ce3169f492a0614d391a9849dc24a336180d80595a00b9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "269a0af8c8686e7df6884f502eb78c53583556d15c5736958043b57e244efd34",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preparation and Post-Processing of Three-Dimensional Printed Porous Titanium Alloys",
+    "authors": "Li T, Xu M, Yao J, Deng L, Wang B.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18081864",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

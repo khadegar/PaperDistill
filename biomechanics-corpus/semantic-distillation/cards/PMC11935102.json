@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11935102",
+  "paper_id": "doi:10.1002/smsc.202400414",
+  "pmcid": "PMC11935102",
+  "source_record_sha256": "a68426ece1e3c32450e4a16f21ea02d43e1f31b5c8ebc98a9e5e1e65d1a989b9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "86e7c03ca9940050a06849463d9181d6019026445285e414f1c8ec549de07869",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent Advances in the Design and Structural/Functional Regulations of Biomolecule‐Reinforced Graphene Materials for Bone Tissue Engineering Applications",
+    "authors": "Li D, Zhao J, Wang Y, Wang J, Sun Z, Wei F, Wei G, Sun Z.",
+    "year": 2024,
+    "journal": "Small Science",
+    "doi": "10.1002/smsc.202400414",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

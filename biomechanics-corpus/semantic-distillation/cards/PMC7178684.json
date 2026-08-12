@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7178684",
+  "paper_id": "doi:10.3390/ma13071688",
+  "pmcid": "PMC7178684",
+  "source_record_sha256": "5b3bf98bb29ef192936006bd00eac910c8ddc690f9708baafdc20474cb0a4f7e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "769d59407bd7f4f366789d1a9f73fa2f1ec9e30e6e1d3184151f8cfaa59d7beb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing of Hierarchical Scaffolds Based on Mesoporous Bioactive Glasses (MBGs)—Fundamentals and Applications †",
+    "authors": "Baino F, Fiume E.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13071688",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

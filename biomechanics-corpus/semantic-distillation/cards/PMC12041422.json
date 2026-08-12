@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12041422",
+  "paper_id": "doi:10.1093/rb/rbaf024",
+  "pmcid": "PMC12041422",
+  "source_record_sha256": "76f780a8fee57e967609c4431678702e9cd5efd310de641403734e9a872add55",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ed34cb28f5678e17cdffffe2a71d16f0b02abaf502801d5ba3f9098ce8c35657",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomaterials-based approaches to mandibular tissue engineering: where we were, where we are, where we are going",
+    "authors": "Kennedy MM, Mikos AG.",
+    "year": 2025,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbaf024",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

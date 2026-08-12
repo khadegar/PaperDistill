@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8534804",
+  "paper_id": "doi:10.3390/dj9100114",
+  "pmcid": "PMC8534804",
+  "source_record_sha256": "1641f7784265be8ff7ad0ec9edbba79d09d9ae6aded3b82bf8fbbaa79e2ebd94",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6d70cf0a0c68b2e47a80c6ac96b2ec18286470e3194c570a967b8ca745e47c07",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of Bone Augmentation of Facial Bone Defect around Osseointegrated Implant: A Three Dimensional Finite Element Analysis",
+    "authors": "Hudieb M, AlKhader M, Mortaja S, Abusamak M, Wakabayashi N, Kasugai S.",
+    "year": 2021,
+    "journal": "Dentistry Journal",
+    "doi": "10.3390/dj9100114",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

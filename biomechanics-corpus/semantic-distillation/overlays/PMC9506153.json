@@ -1,0 +1,256 @@
+{
+  "study": {
+    "article_kind": "original_research_FE_comparison_with_LPBF_geometry_validation",
+    "design_features": [
+      "customized_anatomic_root_analog_dental_implant",
+      "CBCT_to_STL_patient_anatomy",
+      "four_implant_designs_and_four_bone_density_models",
+      "porous_600_micrometre_macrostructure",
+      "isotropic_homogeneous_linear_elastic_FE",
+      "LPBF_print_and_microCT_fit_validation"
+    ],
+    "research_problem": "Conventional screw-type dental implants are not tailored to an individual extraction socket, and stress transmitted through the bone-implant interface depends on implant geometry and bone quality. A root-analog implant may improve anatomical fit, but porous regions can also concentrate stress when the solid core is removed.",
+    "exact_gap": "Stress behavior of customized root-analog implants across Lekholm-Zarb bone densities and different porous-core configurations was poorly characterized. The study compares three customized RAI designs with a stock screw implant under matched FE loads, then checks the printed geometry and socket fit of one design.",
+    "objective_or_hypothesis": "Use FEA to map von Mises stress in cortical bone, cancellous bone, and the implant for four bone-density types and four implant designs, and test whether porous RAI designs produce a more favorable stress pattern than a conventional screw implant without exceeding reported bone or titanium ultimate-strength limits.",
+    "study_design": "Original computational implant-biomechanics study. A mandibular right second premolar from CBCT was converted to CAD; designs A (solid RAI), B (600 micrometre porous surface with a 2 mm solid core), C (porous surface without the core), and D (5 x 13 mm stock screw implant) were modeled in type I-IV rectangular bone boundaries. Isotropic homogeneous linear-elastic FE models applied 200 N vertical plus 40 N buccolingual horizontal force with fixed outer boundaries. Design B was laser powder-bed fused, tapped into a type-I polyurethane Sawbone socket, and micro-CT compared CAD-to-printed fit. The print check validates geometry/fit only, not FE stresses, osseointegration, or clinical outcomes.",
+    "sample_or_model": "One CBCT-derived right second premolar had original dimensions 7.3 mm buccolingual, 5.0 mm mesiodistal, and 14.7 mm root length; the modeled remaining root was 6.93 x 4.48 mm and 12.25 mm long. Design B used a 2 mm-deep, 600 micrometre pore macrostructure below the coronal 4 mm with a 2 mm solid core; design C removed that core. The bone block was 23.31 mm high, 10.5 mm buccolingual, and 5 mm mesiodistal from the shoulder. Type I was cortical only; type II had 2 mm cortical plus normal cancellous bone; type III had 1 mm cortical plus normal cancellous bone; type IV had 1 mm cortical plus low-density cancellous bone. All FE materials were isotropic, homogeneous, linear elastic and assumed fully osseointegrated with all porous spaces filled by bone.",
+    "comparators": [
+      "Design A solid root-analog, B porous surface with solid core, C porous surface without core, and D conventional stock screw implant",
+      "Lekholm-Zarb type I, II, III, and IV bone-density boundary models",
+      "Cortical-bone, cancellous-bone, and implant von Mises stress",
+      "FE CAD design versus LPBF-printed design B geometry and socket fit",
+      "Predicted stress versus reported ultimate tolerance of approximately 100 MPa cortical bone, 8 MPa cancellous bone, and 900 MPa titanium"
+    ],
+    "method_spine": [
+      "Generate a CBCT premolar CAD model and define solid, porous-core, porous-no-core, and stock screw designs (S003:C01-S004:C01).",
+      "Construct rectangular type I-IV bone boundaries with cortical/cancellous thickness and density states, then assign isotropic material properties and full osseointegration (S005:C01-S006:C01).",
+      "Apply simultaneous 200 N vertical and 40 N horizontal abutment loads with fixed mesial/distal boundaries and compute cortical, cancellous, and implant von Mises stresses for all 16 combinations (S006:C01; S008:C01).",
+      "Compare design-specific stress patterns with reported ultimate stress limits and identify the porous-core trade-off (S009:C01-S011:C01).",
+      "LPBF-print design B, machine/tap a type-I polyurethane socket, micro-CT scan the assembly, and quantify discrepancy/RMSE across 344,016 surface elements (S007:C01; S012:C01).",
+      "Interpret stress and geometry results within explicit FEA, contact, anisotropy, loading, fit, and biological limitations (S013:C01-S013:C02; S014:C01)."
+    ],
+    "validation_roles": {
+      "verification": [
+        "The FE analysis is a comparative 16-case setup with stated loads, constraints, material assumptions, and stress outputs; no mesh-convergence, contact-convergence, or code-verification result is reported (S006:C01; S008:C01).",
+        "Micro-CT and RMS element distributions verify CAD-to-LPBF geometric fidelity and socket fit for design B, not the stress solution (S007:C01; S012:C01)."
+      ],
+      "calibration": [
+        "Bone and implant material properties and ultimate stress tolerances are taken from prior literature; no patient-specific density calibration or printed-material mechanical calibration is performed (S006:C01; S009:C01-S011:C01).",
+        "The 200/40 N load pair and full osseointegration assumption are prescribed boundary conditions, not calibrated to this patient's mastication or measured interface contact."
+      ],
+      "validation": [
+        "The only physical validation is LPBF geometry/fit of design B in a type-I polyurethane block, with mean RMS approximately 0.09 mm and most elements within 0.10 mm; no experimental stress, strain, fracture, or interface-micromotion validation is present (S007:C01; S012:C01).",
+        "The paper's stress ranking is therefore a model comparison and its clinical interpretation remains prospective (S013:C02)."
+      ],
+      "sensitivity": [
+        "The explicit computational comparison spans four bone-density categories and four implant configurations, exposing the effect of a solid core and low-density cancellous bone (S005:C01; S008:C01-S011:C01).",
+        "No sensitivity is reported for anisotropy, partial bone contact, friction, implant orientation, masticatory force histories, material uncertainty, pore size, or manufacturing defects."
+      ],
+      "application_prediction": [
+        "Lower modeled stress for RAI designs, especially design B in type-IV cancellous bone, predicts a potentially favorable mechanical pattern; it does not demonstrate osseointegration, reduced bone loss, or clinical success (S009:C01-S014:C01).",
+        "Porosity may increase surface area and mechanical interlocking in future use, but the paper does not measure tissue ingrowth or interface strength (S013:C01-S013:C02)."
+      ]
+    },
+    "primary_outcomes": [
+      "Sixteen FE combinations (four bone models x four designs) were analyzed. Cortical-bone stress was highest at the implant shoulder for types II-IV; design A generally had the lowest cortical stress and design C the highest, while all were below the cited approximately 100 MPa cortical ultimate tolerance (S008:C01-S009:C01).",
+      "Cancellous-bone stresses were below the cited 8 MPa ultimate strength except design C in type III bone. Design B had the lowest cancellous stress in type-IV bone, whereas design D exceeded designs A and C in the reported comparison (S010:C01).",
+      "Implant stresses were lowest for design A and highest for design C across bone types, with all below the cited approximately 900 MPa titanium ultimate tolerance (S011:C01).",
+      "The design-B LPBF implant was placed in a type-I polyurethane foam socket. Micro-CT showed a 0.05-0.10 mm vertical discrepancy; across 344,016 elements, mean RMS was 0.09 mm, with 236,817 elements at 0-0.10 mm, 93,362 at 0.10-0.20 mm, 11,323 at 0.20-0.30 mm, 2,423 at 0.30-0.40 mm, and 91 at 0.40-0.50 mm (S007:C01; S012:C01).",
+      "The paper interprets the no-core porous design C as stress-concentrating at strut edges and considers A/B safer than C/D under the stated stress thresholds, while noting that an equivalent stress near 1.6 MPa has been associated in prior canine work with preventing crestal bone loss; that latter result is external evidence, not this study's endpoint (S013:C01).",
+      "The study reports no numeric stress uncertainty, independent specimens for the FE comparison, fatigue cycles, measured bone contact, or biological/clinical response."
+    ],
+    "highest_evidence_level_reached": "Comparative FE stress prediction for one CBCT-derived premolar across four idealized bone-density models and four implant designs, with one-design LPBF geometry/fit verification in a type-I polyurethane block. No stress/strain experiment, partial-contact model, biological ingrowth, fatigue, or clinical validation is reached."
+  },
+  "argument_map": {
+    "central_claim": "A customized root-analog implant with a porous surface and retained solid core can show a more favorable modeled stress pattern than a stock screw implant across simplified bone-density states, whereas removing the core concentrates stress; the claim is a bounded FE design hypothesis, not evidence of clinical osseointegration or outcome improvement.",
+    "data": [
+      "CBCT-derived anatomy and four CAD implant designs provide a controlled geometry comparison (S003:C01-S004:C01).",
+      "Sixteen FE cases vary bone density and implant design under matched 200 N/40 N loading, with cortical, cancellous, and implant stress comparisons (S005:C01-S011:C01).",
+      "One LPBF-printed design B is checked for CAD-to-socket geometry, with exact RMS counts and discrepancy ranges, but no stress measurement (S007:C01; S012:C01)."
+    ],
+    "warrant": "Retaining a solid core can distribute load away from sharp internal strut edges, while a porous surface may increase nominal contact area and future ingrowth opportunity; stress safety in a simplified FE model still requires biological and interface evidence.",
+    "backing": [
+      "Design A has the lowest modeled stress and design C the highest across several bone types, consistent with the core-removal mechanism (S009:C01-S011:C01).",
+      "Design B is selected for the physical print because its geometry is more complex yet printable and its fit error is concentrated away from the outer contact surface (S012:C01-S013:C01).",
+      "The discussion explicitly acknowledges that full contact, isotropy, fixed boundaries, and static loads differ from living oral tissues and parafunctional loading (S013:C02)."
+    ],
+    "qualifier": "Stress values and safety comparisons apply to one CBCT anatomy, idealized homogeneous isotropic bone, full osseointegration, fixed outer boundaries, simultaneous 200 N/40 N loads, and the cited ultimate-strength thresholds. The printed fit check does not validate stress or tissue response.",
+    "rebuttals_or_boundaries": [
+      "FE cannot predict bone response or ingrowth, and the laboratory validation cannot simulate porous bone formation (S013:C02).",
+      "Actual bone-to-implant contact may be 50-60% rather than the modeled full tie, and masticatory force magnitude/direction/duration vary across patients and parafunctions (S013:C02).",
+      "The stock implant is similar but not identical in size to the premolar root, and design C's high stress is sensitive to the no-core strut geometry (S013:C01-S013:C02).",
+      "Macro-porosity is not micro-roughness; L-PBF roughness can be 4-14 micrometres and surfaces above 2 micrometres may carry peri-implantitis trade-offs (S013:C01)."
+    ],
+    "argument_coherence": "high_for_within-model_design_and_bone-density_comparison_moderate_for_print_fit_low_for_clinical_translation"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "CBCT/micro-CT dimensions, printed design-B geometry discrepancy, RMS distribution over 344,016 elements, and Sawbone socket placement are measured physical/manufacturing outcomes (S003:C01; S007:C01; S012:C01).",
+      "The paper reports no measured implant stress, bone strain, bone contact fraction, osseointegration, fatigue, or clinical outcome."
+    ],
+    "predicted": [
+      "All cortical, cancellous, and implant von Mises stresses for 16 design-density combinations are FE predictions under full osseointegration and isotropic linear-elastic material assumptions (S006:C01; S008:C01-S011:C01).",
+      "Statements that porous RAI may reduce stress, improve mechanical interlocking, or support long-term clinical outcomes are application predictions or external-literature extrapolations (S013:C01-S013:C02; S014:C01)."
+    ],
+    "inferred": [
+      "The solid core in design B is inferred to reduce the strut-edge concentration seen in coreless design C, while preserving some macro-porous surface area (S013:C01).",
+      "A 0.05-0.10 mm fit discrepancy and mean RMS 0.09 mm are inferred to indicate acceptable manufacturing fit according to a cited threshold, but they do not establish contact mechanics during mastication (S012:C01-S013:C01).",
+      "Lower stress is inferred to be mechanically safer relative to cited ultimate limits, but fatigue, biological response, and bone-remodeling endpoints remain untested."
+    ],
+    "recommended": [
+      "Validate FE stress and strain with instrumented or digital-image-correlation tests, partial-contact/friction models, patient-specific material density, and realistic mastication histories.",
+      "Quantify as-built pore/strut geometry, micro-roughness, residual stress, surface chemistry, and fatigue under relevant dental loading for multiple printed implants.",
+      "Measure bone-to-implant contact, tissue ingrowth, micromotion, peri-implant inflammation, and long-term function in appropriate preclinical and clinical studies.",
+      "Compare the stock control with identical outer dimensions and perform sensitivity to anisotropy, contact fraction, implant orientation, and parafunctional loading."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Von Mises stress below an ultimate-strength threshold is a static model proxy; it does not establish fatigue life, fracture probability, or clinical survival.",
+      "A CAD-to-print RMS fit error and tapped Sawbone placement validate geometry/fit, not osseointegration, bone quality response, or load transfer in vivo.",
+      "Macro-porosity and predicted contact area may enable ingrowth, but no cells, bone, histology, or interface mechanics were measured.",
+      "Modeled full osseointegration is a boundary assumption, not evidence that the implant achieved 100% bone contact."
+    ],
+    "overclaim_risks": [
+      "The abstract's favorable stress statement and conclusion may be read as clinical safety even though only FE and geometry-fit validation were performed (S001:C01; S014:C01).",
+      "All FE materials are isotropic, homogeneous, linear elastic and fully osseointegrated; these assumptions can hide local anisotropy, contact gaps, stress peaks, and biological remodeling (S006:C01; S013:C02).",
+      "Using external 1.6 MPa crestal-bone and 100/8/900 MPa thresholds as if they were validated patient-specific limits risks false precision (S009:C01-S013:C01).",
+      "A single printed design B and one Sawbone type-I block do not establish manufacturing variability, fatigue durability, or performance in types II-IV bone."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Frame customization and stress transfer as coupled design problems, then state the density/design comparison and validation boundary.",
+      "execution": "The introduction contrasts stock screw implants with root-analog customization, explains bone-density and interface-stress drivers, and identifies sparse RAI evidence before stating the FEA objective (S002:C01).",
+      "locator": "S002:C01",
+      "effectiveness": "high",
+      "transferable_principle": "End an implant introduction with the exact anatomy, design variants, comparator, loading, and endpoint rather than a generic promise of personalization.",
+      "failure_mode": "Presenting anatomic fit as clinical superiority before evaluating bone quality, interface contact, and failure endpoints conflates geometry with outcome."
+    },
+    {
+      "section": "methods",
+      "move": "Make each material/geometry/contact state explicit before interpreting FE stress.",
+      "execution": "The methods separately define CBCT-to-CAD dimensions, solid-core versus coreless porosity, type I-IV cortical/cancellous boundaries, full osseointegration, isotropic linear elasticity, fixed boundaries, and 200/40 N loads (S003:C01-S006:C01).",
+      "locator": "S006:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For an implant FE study, state nominal design, tissue state, contact state, material law, load history, and boundary conditions as separate evidence fields.",
+      "failure_mode": "A fully tied and fully osseointegrated porous model can be mistaken for an as-implanted or partially integrated interface."
+    },
+    {
+      "section": "results",
+      "move": "Report design-by-bone-density stress patterns before declaring a preferred porous design.",
+      "execution": "Results separate cortical, cancellous, and implant stresses across all 16 combinations, preserving the type-III design-C exception and type-IV design-B cancellous advantage (S008:C01-S011:C01).",
+      "locator": "S010:C01",
+      "effectiveness": "high",
+      "transferable_principle": "When a design's ranking changes with tissue state, report the interaction rather than one whole-study winner.",
+      "failure_mode": "Averaging bone types can hide the coreless design's cancellous-bone exceedance and the type-IV benefit of design B."
+    },
+    {
+      "section": "validation",
+      "move": "Label printed geometry/fit as a limited validation layer and state what remains unvalidated.",
+      "execution": "The paper reports design-B LPBF fabrication, tapped Sawbone placement, micro-CT discrepancy, and RMS element counts, then acknowledges that this cannot reproduce bone ingrowth or tissue response (S007:C01; S012:C01; S013:C02).",
+      "locator": "S012:C01",
+      "effectiveness": "high_for_scope_bounding",
+      "transferable_principle": "Name the physical quantity tested by a validation experiment and stop the validation claim at that quantity.",
+      "failure_mode": "Calling a geometry RMS check model validation can make a stress prediction appear experimentally confirmed."
+    },
+    {
+      "section": "discussion",
+      "move": "Place porous-surface potential beside full-contact, anisotropy, loading, roughness, and biological limitations.",
+      "execution": "The discussion states that porosity may increase interlocking but preserves the FEA limitations, 50-60% real contact possibility, isotropic simplification, variable mastication, non-identical stock control, and micro-roughness/peri-implantitis boundary (S013:C01-S013:C02).",
+      "locator": "S013:C02",
+      "effectiveness": "high",
+      "transferable_principle": "A design implication should be accompanied by the interface, material, loading, and biological assumptions that could reverse it.",
+      "failure_mode": "Macro-porosity can be written as proven osseointegration if surface roughness and actual bone contact are not separated."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "FE cannot predict living-tissue response, and the laboratory print validation cannot simulate bone ingrowth in pores (S013:C02).",
+      "Masticatory force magnitude, direction, and duration vary, particularly with parafunction; the model uses one simultaneous 200 N/40 N load pair (S013:C02).",
+      "Full tight contact was assumed even though histology can show 50-60% bone-to-implant contact, and bone was simplified as isotropic/homogeneous (S013:C02).",
+      "The stock implant is similar but not identical to the premolar-root dimensions, and micro-roughness is not represented by FEA (S013:C01-S013:C02)."
+    ],
+    "reader_identified": [
+      "One CBCT anatomy and one printed design B provide no anatomical, manufacturing, or patient-level replicate variability.",
+      "No FE mesh convergence, contact sensitivity, material calibration, or uncertainty interval is reported, despite very small reported fit errors and stress-threshold comparisons.",
+      "The physical model is type-I polyurethane only, so the geometry/fit check does not test types II-IV cancellous states or mechanical stress transfer.",
+      "The model assumes all porous spaces are filled with bone and does not resolve staged ingrowth, immature tissue, frictional micromotion, degradation, fatigue, or peri-implant inflammation.",
+      "The four design stress rankings depend on the chosen 600 micrometre porous depth, solid-core thickness, stock-implant size, and fixed boundaries; no pore-size or geometry sensitivity is given."
+    ],
+    "likely_bias_direction": [
+      "Full osseointegration and tied contact likely smooth or increase load transfer relative to an early implant state, while fixed boundaries may concentrate stress at the model block edges.",
+      "Isotropic homogeneous bone and one static load pair may understate patient-specific anisotropy, parafunctional peaks, and orientation effects.",
+      "Using a type-I Sawbone for geometry validation may favor apparent fit and does not represent weaker type-IV cancellous bone.",
+      "The stock control's non-identical geometry and the selected design B for printing may bias comparisons toward design-specific rather than matched-volume effects."
+    ],
+    "scope_boundary": "The study supports comparative static FE hypotheses about four RAI/stock geometries under four simplified bone-density states, plus design-B LPBF fit accuracy in a type-I polyurethane socket. It does not establish stress measurement, fatigue durability, partial-contact mechanics, bone ingrowth, peri-implant health, or clinical superiority."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC9506153-01",
+      "capability": "Treat anatomy, porous-core geometry, bone-density state, interface contact, and loading as separate FE state variables before comparing stress.",
+      "manuscript_use": "Implant FE methods, design matrix, interaction Results, and model audit.",
+      "applicable_domains": ["dental_implant", "bone_implant", "finite_element_modeling", "personalized_implant"],
+      "applicable_study_designs": ["FE_comparison", "patient_specific_design", "implant_biomechanics"],
+      "supporting_locators": ["S003:C01", "S005:C01", "S006:C01", "S008:C01"],
+      "counterexample_or_boundary": "Full osseointegration and isotropic homogeneous materials do not represent early or heterogeneous living-tissue contact; rankings remain model-specific.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9506153-02",
+      "capability": "Use design-by-tissue-state interaction tables and preserve exceptions rather than reporting one global porous-implant winner.",
+      "manuscript_use": "Results matrix, comparator fairness, and design selection rationale.",
+      "applicable_domains": ["dental_implant", "bone_quality", "porous_implant", "FE_analysis"],
+      "applicable_study_designs": ["factorial_FE", "implant_design", "bone_density_sensitivity"],
+      "supporting_locators": ["S009:C01", "S010:C01", "S011:C01"],
+      "counterexample_or_boundary": "Design C is the highest-stress case and exceeds the cited cancellous limit in type III, while design B is lowest in type-IV cancellous bone; a single average would conceal this interaction.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9506153-03",
+      "capability": "Limit manufacturing validation claims to the physical quantity tested—CAD-to-print geometry and fit—before discussing stress, fixation, or osseointegration.",
+      "manuscript_use": "Validation section, nominal-to-as-built audit, and translational boundary.",
+      "applicable_domains": ["additive_manufacturing", "dental_implant", "metrology", "bone_interface"],
+      "applicable_study_designs": ["LPBF_validation", "FE_with_print_check", "implant_manufacturing"],
+      "supporting_locators": ["S007:C01", "S012:C01", "S013:C02"],
+      "counterexample_or_boundary": "A 0.09 mm RMS geometry result in a type-I polyurethane block does not validate implant stress or tissue ingrowth in type-II-IV living bone.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9506153-04",
+      "capability": "Bridge macro-porosity to a future biological hypothesis while explicitly separating micro-roughness, contact fraction, stress, and clinical endpoints.",
+      "manuscript_use": "Discussion, mechanistic interpretation, and recommendation language.",
+      "applicable_domains": ["dental_implant", "osseointegration", "surface_engineering", "bone_biomechanics"],
+      "applicable_study_designs": ["FE_application", "implant_design", "preclinical_validation"],
+      "supporting_locators": ["S013:C01", "S013:C02", "S014:C01"],
+      "counterexample_or_boundary": "The study measures neither bone contact nor micro-roughness response; porosity and static stress cannot be written as proven osseointegration or reduced peri-implantitis.",
+      "confidence": "moderate",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_comparative_static_FE_design_question",
+    "methods_transparency": "moderate",
+    "validation_credibility": "moderate_for_geometry_fit_low_for_stress_biological_and_clinical_endpoints",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "moderate_for_within-model_design-density_matrix_low_for_stock-implant_and_living-bone_transfer",
+    "conclusion_proportionality": "moderate_to_low",
+    "critical_weaknesses": [
+      "A single CBCT anatomy, idealized isotropic full-contact models, and one static load pair limit generalizability.",
+      "LPBF validation measures geometry/fit only in type-I polyurethane and does not validate stress, contact, fatigue, or ingrowth.",
+      "No mesh/contact/material sensitivity, numerical uncertainty, fatigue, or biological endpoint is reported.",
+      "External ultimate-stress and crestal-bone thresholds are used as proxies rather than patient-specific validated limits."
+    ],
+    "overall_credibility": "moderate_for_within-model_stress_comparison_low_for_fatigue_osteointegration_and_clinical_superiority"
+  },
+  "summary_zh": "这是一项基于单个 CBCT 下颌第二前磨牙的原始 FE 设计比较研究。四种设计为实心根形植入物 A、带 600 μm 多孔表面且保留 2 mm 实心核心的 B、无核心多孔 C，以及尺寸相近但不完全相同的库存螺纹植入物 D；四种骨状态为 Lekholm–Zarb I–IV。模型假设均质各向同性线弹性骨、完全骨整合，施加 200 N 垂直+40 N 颊舌向载荷。16 组 FE 结果显示设计 C 在若干骨状态应力最高，设计 B 在 IV 型松质骨应力最低，模型应力与文献给出的约 100 MPa 皮质骨、8 MPa 松质骨和 900 MPa 钛极限比较。B 通过 L-PBF 打印并在 I 型聚氨酯 Sawbone 中微 CT 检查，平均 RMS 约 0.09 mm、344016 个元素给出完整分布；这只验证几何/贴合，不验证应力或骨长入。实际接触比例、咀嚼载荷、各向异性、微粗糙、疲劳、微动、组织和临床端点均未测量，静态应力安全不能直接写成临床优势。",
+  "reader_notes": [
+    "Primary Luna reader reviewed all 15 non-reference packet chunks in exact order: S001:C01; S002:C01; S003:C01; S004:C01; S005:C01; S006:C01; S007:C01; S008:C01; S009:C01; S010:C01; S011:C01; S012:C01; S013:C01-S013:C02; S014:C01.",
+    "Full-text adjudication classifies the article as original FE design comparison with one-design LPBF geometry/fit validation. It is not a biological, fatigue, or clinical validation study despite the abstract's prospective language.",
+    "The card retains all four designs, bone-density states, loads, material/contact assumptions, stress-limit units, geometry RMSE counts, and the design-C/type-III exception; no stress value is invented where the packet reports only relative ranking.",
+    "The validation firewall is explicit: a 0.09 mm CAD-to-print RMS in a type-I polyurethane socket validates manufacturing geometry/fit only, while stress, bone response, osseointegration, fatigue, and clinical outcomes remain predicted or unmeasured."
+  ]
+}

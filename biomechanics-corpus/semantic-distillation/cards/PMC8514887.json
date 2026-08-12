@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8514887",
+  "paper_id": "doi:10.1155/2021/6073757",
+  "pmcid": "PMC8514887",
+  "source_record_sha256": "6e1ff530cb87ed1222c4967d71d9f30c08429fd597b3a6d69188ed35dc601399",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "95756e6cb484e031318e0908648932cdcde922b18a0c35d22ccd136a3580df12",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Medical Imaging Diagnosis of Anterior Cruciate Ligament Injury Based on Intelligent Finite-Element Algorithm",
+    "authors": "Wang M.",
+    "year": 2021,
+    "journal": "Journal of Healthcare Engineering",
+    "doi": "10.1155/2021/6073757",
+    "publication_type": "Retracted Publication; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

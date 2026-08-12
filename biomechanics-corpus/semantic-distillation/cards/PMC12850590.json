@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12850590",
+  "paper_id": "doi:10.1002/ksa.70168",
+  "pmcid": "PMC12850590",
+  "source_record_sha256": "57363d6f294dc558a7ab43605a3186e6bac502d0abc2b899ed71e4df7022546e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "da7e19d03d02f281a56420fbee08e8f77e5d0de5a95bce629f9f036cb4a9db03",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Precision medicine in orthopaedics: A review of current technologies and future directions",
+    "authors": "Sadoghi P, Koutp A, Herbst E, Milano G, Musahl V, Hirschmann MT.",
+    "year": 2025,
+    "journal": "Knee Surgery, Sports Traumatology, Arthroscopy",
+    "doi": "10.1002/ksa.70168",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

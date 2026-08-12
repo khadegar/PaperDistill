@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10669447",
+  "paper_id": "doi:10.3390/biomimetics8070546",
+  "pmcid": "PMC10669447",
+  "source_record_sha256": "1c15b3933e1424d6a1d197af896ec6e073285f6afc14133fe128c17472b867bf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5fa12f6842f12a948c8eca0a6c4a8f4a16c70a94c7718255e3c85725fb038960",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of Bioactive Scaffolds for Orthopedic Applications by Designing Additively Manufactured Titanium Porous Structures: A Critical Review",
+    "authors": "Kiselevskiy MV, Anisimova NY, Kapustin AV, Ryzhkin AA, Kuznetsova DN, Polyakova VV, Enikeev NA.",
+    "year": 2023,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics8070546",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

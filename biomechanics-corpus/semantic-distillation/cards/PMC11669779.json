@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11669779",
+  "paper_id": "doi:10.1002/smmd.20240056",
+  "pmcid": "PMC11669779",
+  "source_record_sha256": "1b4457e438d55abbc3613b4350a58426c325db0426f72b308b96596361c12830",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e4a92451e821087e6458e1e45c3b3c6d0a294ca3d4c47d8b751ee74181eacd6b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Microfluidic 3D printing hydrogels based on fish liver decellularized extracellular matrix for liver regeneration",
+    "authors": "Ren H, Huang D, Qiu M, Xue L, Zhu S, Gan J, Chen C, Chen D, Wang J.",
+    "year": 2024,
+    "journal": "Smart Medicine",
+    "doi": "10.1002/smmd.20240056",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

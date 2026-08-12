@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10856259",
+  "paper_id": "doi:10.3390/jcm13030790",
+  "pmcid": "PMC10856259",
+  "source_record_sha256": "8793ad32c1501acb0f98521e5c9b4ebce07c4014963a54cdc6e943a914d9eae0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1fb4b8ec65203f451c82de864906dfb2494e8f2bd261d541af35590928bc2c36",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Trochlear Paradox in Native Knees and Its Potential Impact on Total Knee Arthroplasty: An MRI-Based Correlation Study Investigating the Effect of Varying Posterior Femoral Condyle Angles on the Patellofemoral Joint",
+    "authors": "Röttinger T, Lisitano L, Abelmann-Brockmann J, Rau K, Koenemann N, Fenwick A, Mayr E, Röttinger H.",
+    "year": 2024,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm13030790",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11878550",
+  "paper_id": "doi:10.1093/jbmrpl/ziaf006",
+  "pmcid": "PMC11878550",
+  "source_record_sha256": "925e1de3f84f2d272ca3ca6cd13d5533413a9e68e165c0ac034a6be8640cd1be",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "69d4831a87862bcadcc9111771626298ad7cbfd1cf1ffd104ef7dd856d23b231",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Spatial histomorphometry reveals that local peripheral nerves modulate but are not required for skeletal adaptation to applied load in mice",
+    "authors": "Beeve AT, Hassan MG, Li A, Migotsky N, Silva MJ, Scheller EL.",
+    "year": 2025,
+    "journal": "JBMR Plus",
+    "doi": "10.1093/jbmrpl/ziaf006",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

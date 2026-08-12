@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8852200",
+  "paper_id": "doi:10.18063/ijb.v8i1.437",
+  "pmcid": "PMC8852200",
+  "source_record_sha256": "5ae3f79d4eea6eec50fce1ac870c5b8d06614c002a288878db0d2d6476b9a1dd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a649ae2aec247c8b3b54a40a2dd097427f443a440f3d505bda276c1251deeb9c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design Criteria for Patient-specific Mandibular Continuity Defect Reconstructed Implant with Lightweight Structure using Weighted Topology Optimization and Validated with Biomechanical Fatigue Testing",
+    "authors": "Lin CL, Wang YT, Chang CM, Wu CH, Tsai WH.",
+    "year": 2021,
+    "journal": "International Journal of Bioprinting",
+    "doi": "10.18063/ijb.v8i1.437",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

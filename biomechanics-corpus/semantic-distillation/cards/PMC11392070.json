@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11392070",
+  "paper_id": "doi:10.1097/js9.0000000000001698",
+  "pmcid": "PMC11392070",
+  "source_record_sha256": "4189f2a0ad0746d0dfbbf8bc73ee1536cf60b95b427bc7ec0cb27b5d88286555",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "32c7fad67e1c5809b82feeb7980203dbee3256a7357eb336a24d41f22c229e52",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A commentary on ‘An anti-infection and biodegradable TFRD-loaded porous scaffold promotes bone regeneration in segmental bone defects - experimental studies’",
+    "authors": "Li Y, Ye X, Wu L.",
+    "year": 2024,
+    "journal": "International Journal of Surgery (London, England)",
+    "doi": "10.1097/js9.0000000000001698",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "editorial",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

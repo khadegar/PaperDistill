@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11751691",
+  "paper_id": "doi:10.1093/rb/rbae136",
+  "pmcid": "PMC11751691",
+  "source_record_sha256": "b0f3e27ec6657b93d954db5e4efb5d703110ad00bde64150d63cf9224942d1f7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "96a7969778056dba16b8ca89539b7d6fbc5e2665710a82b3f8e5503a1fd4f680",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Viscoelastic hydrogel combined with dynamic compression promotes osteogenic differentiation of bone marrow mesenchymal stem cells and bone repair in rats",
+    "authors": "Yang C, Cai W, Xiang P, Liu Y, Xu H, Zhang W, Han F, Luo Z, Liang T.",
+    "year": 2024,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbae136",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

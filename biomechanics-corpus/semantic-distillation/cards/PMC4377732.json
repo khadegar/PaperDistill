@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4377732",
+  "paper_id": "doi:10.7150/thno.11372",
+  "pmcid": "PMC4377732",
+  "source_record_sha256": "d2f180e3d727c875d6846fd2a43131cce0e1109e4bb3b9f449a98c6f3284783b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "006cec0020524b343096442b60db4f88009a6b8227332e5b531dd63dba47d608",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Porous Calcium-Alginate Scaffolds Cell Culture System Improved Human Osteoblast Cell Clusters for Cell Therapy",
+    "authors": "Chen CY, Ke CJ, Yen KC, Hsieh HC, Sun JS, Lin FH.",
+    "year": 2015,
+    "journal": "Theranostics",
+    "doi": "10.7150/thno.11372",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

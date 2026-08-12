@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12618315",
+  "paper_id": "doi:10.1007/s00068-025-03007-1",
+  "pmcid": "PMC12618315",
+  "source_record_sha256": "08e88462e523ab1aea30c9dc1049f9e0da649cbb04cb76955d89cb9465c0f1f8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5b3d7da40b1e119406c6a94332b7a9427e1cda3c1cd2168d2abd76393786005f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Simulated gastrocnemius traction alters interfragmentary motion in Hoffa fracture fixation",
+    "authors": "Hollensteiner M, Stallinger M, Hofmann C, Mühling M, Greinwald M, Sandriesser S, Baumeister D, Augat P.",
+    "year": 2025,
+    "journal": "European Journal of Trauma and Emergency Surgery",
+    "doi": "10.1007/s00068-025-03007-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

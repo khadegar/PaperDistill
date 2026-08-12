@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10906799",
+  "paper_id": "doi:10.4103/jisp.jisp_585_22",
+  "pmcid": "PMC10906799",
+  "source_record_sha256": "f0d07d4beeeef18b4556c9516240edab903fd25f38349cae7dbf6a4834282780",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "02c650df493349ec95a70e09a38b2a49649d0a31190009cc5bd361f4be5e9ab8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation and comparison of three-dimensional finite element analysis of stress distribution in immediately placed and loaded conventional and customized three-dimensional printed dental implants",
+    "authors": "Saini P, Grover V, Sood S, Jain A, Kalra P.",
+    "year": 2023,
+    "journal": "Journal of Indian Society of Periodontology",
+    "doi": "10.4103/jisp.jisp_585_22",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

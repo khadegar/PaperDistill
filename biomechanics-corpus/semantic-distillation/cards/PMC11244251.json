@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11244251",
+  "paper_id": "doi:10.3390/polym16131932",
+  "pmcid": "PMC11244251",
+  "source_record_sha256": "90ce8d6e4f327f47244e20d4beacbd9ee65ff723bdf0a57ce93c12f6c7f6d934",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "10d3c6d1b83b711a67b0586453542b2c250a150f9d2c512abfa0e17f94696a7d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Bioprinted Gelatin Methacryloyl-Strontium-Doped Hydroxyapatite Composite Hydrogels Scaffolds for Bone Tissue Regeneration",
+    "authors": "Codrea CI, Baykara D, Mitran RA, Koyuncu ACÇ, Gunduz O, Ficai A.",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16131932",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

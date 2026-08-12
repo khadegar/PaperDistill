@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12383784",
+  "paper_id": "doi:10.3390/bioengineering12080863",
+  "pmcid": "PMC12383784",
+  "source_record_sha256": "dbeedd2a298c39161cc826a4f6f42b540145066d28b57a94cf5382ef79373b2c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8573e2063de12282ec05f1a930a3c4b2f50687d0bc34d3f076fab35f72b1eb77",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Correlation Analysis of Suture Anchor Pull-Out Strength with Cortical Bone Thickness and Cancellous Bone Density on a Finite Element Model",
+    "authors": "Kim JH, Hyeok JJ, Woo JH, Kim SM.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12080863",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

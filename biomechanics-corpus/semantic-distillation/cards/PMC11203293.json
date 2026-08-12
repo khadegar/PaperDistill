@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11203293",
+  "paper_id": "doi:10.3390/gels10060387",
+  "pmcid": "PMC11203293",
+  "source_record_sha256": "7efffa2dbb6b10ba0afd564032f92f43d0057cc1b4f72f0a7038370a7091215f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8e8a19f8d0eee6f04c1989c065b401afbf75de559e2492f13eab55312bc77297",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bacterial Cellulose: A Sustainable Source for Hydrogels and 3D-Printed Scaffolds for Tissue Engineering",
+    "authors": "Utoiu E, Manoiu VS, Oprita EI, Craciunescu O.",
+    "year": 2024,
+    "journal": "Gels",
+    "doi": "10.3390/gels10060387",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9486279",
+  "paper_id": "doi:10.1177/20417314221113746",
+  "pmcid": "PMC9486279",
+  "source_record_sha256": "d020777877fc1f6f9213bf8bcc08eeac02c2a1665c65d9653477ad04a451cb27",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "299618fd07faa4add178a4ef79e6a657a603dd12d4ef1f18329c76713f743a8d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of bone formation mediated by bone morphogenetic protein delivered by nanoclay gels with clinical techniques (autograft and InductOs ® ) in an ovine bone model",
+    "authors": "Black C, Gibbs D, McEwan J, Kanczler J, Fernández MP, Tozzi G, Dawson J, Oreffo R.",
+    "year": 2022,
+    "journal": "Journal of Tissue Engineering",
+    "doi": "10.1177/20417314221113746",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

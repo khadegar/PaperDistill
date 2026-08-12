@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9143308",
+  "paper_id": "doi:10.3390/polym14102117",
+  "pmcid": "PMC9143308",
+  "source_record_sha256": "d4f2f458f80a11d0f4f96612b125d0bf2c260959515c6c4ae8146fc9a123ce9e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0df1a3630e85d357b84b9699fab2f965b4e186c93a0cd8503da3ab1ba5401b40",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Critical Review of Additive Manufacturing Techniques and Associated Biomaterials Used in Bone Tissue Engineering",
+    "authors": "Wu Y, Lu Y, Zhao M, Bosiakov S, Li L.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14102117",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

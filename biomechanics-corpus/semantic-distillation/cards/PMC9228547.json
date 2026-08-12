@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9228547",
+  "paper_id": "doi:10.3390/ma15124342",
+  "pmcid": "PMC9228547",
+  "source_record_sha256": "5a1fb447739de97a09f05bb3c2e7715bd3d09bddfaa69067bc40ef043210ce66",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "90f8ba9230798d4048ff482c4536f6ac3b4764b2dad21050f4f9c7f03e6193b9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and Finite Element Analysis of Patient-Specific Total Temporomandibular Joint Implants",
+    "authors": "Ingawale SM, Goswami T.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15124342",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

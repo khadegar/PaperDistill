@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6712410",
+  "paper_id": "doi:10.1111/os.12468",
+  "pmcid": "PMC6712410",
+  "source_record_sha256": "76c9399da6ac888be5d13f82d764a1c7000260d7844360511f6ee13de088ed20",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4ffc65b6324f3a144f3deeed2fbcb4eb7b0fc24e3f42661ce2b306af10ad8404",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical Applications of 3‐Dimensional Printing Technology in Hip Joint",
+    "authors": "Xia RZ, Zhai ZJ, Chang YY, Li HW.",
+    "year": 2019,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.12468",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

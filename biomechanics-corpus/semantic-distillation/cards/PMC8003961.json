@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8003961",
+  "paper_id": "doi:10.3390/molecules26061753",
+  "pmcid": "PMC8003961",
+  "source_record_sha256": "d18fc0d6faf765bf1ece1a01d6f0db629ff7568de875bd55537e7c81573ab3f2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "25f753610e1a862a2697e5e0c31c37f51a638c85f1aff5622223a179cc353add",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3-Carboxylic Acid and Formyl-Derived Coumarins as Photoinitiators in Photo-Oxidation or Photo-Reduction Processes for Photopolymerization upon Visible Light: Photocomposite Synthesis and 3D Printing Applications",
+    "authors": "Rahal M, Graff B, Toufaily J, Hamieh T, Noirbent G, Gigmes D, Dumur F, Lalevée J.",
+    "year": 2021,
+    "journal": "Molecules",
+    "doi": "10.3390/molecules26061753",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11021383",
+  "paper_id": "doi:10.1186/s40729-024-00536-z",
+  "pmcid": "PMC11021383",
+  "source_record_sha256": "c7ee60d7c3f356f9d3695164e2ab8e90ff836bc431c9c95b4dc36451deefb3c0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7e500b44ede7ce27c476ba8dcf681eac446241e70d5115ef6c0c2581553a7c99",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Pre-implantation teriparatide administration improves initial implant stability and accelerates the osseointegration process in osteoporotic rats",
+    "authors": "Cui B, Bai T, Wu Q, Hu Y, Liu Y.",
+    "year": 2024,
+    "journal": "International Journal of Implant Dentistry",
+    "doi": "10.1186/s40729-024-00536-z",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

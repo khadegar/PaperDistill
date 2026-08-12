@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10396769",
+  "paper_id": "doi:10.3389/fbioe.2023.1171040",
+  "pmcid": "PMC10396769",
+  "source_record_sha256": "4a434a7ff8c873507b8b103c0a7ebf3e232a48e41c884ca6ac4c3faa738b6d5d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6a53d3d59519636c9e0558972c5edce1e3a5afdc17e65b9d429fb7b615b58be7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical upside of PAO mainstream fixations: co-simulation based on early postoperative gait characteristics of DDH patients",
+    "authors": "Yang P, Liu Q, Lin T, Aikebaier A, Jiang L, Sun W, Zhang Q, Bai X, Sun W.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1171040",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

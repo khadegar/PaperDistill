@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9738435",
+  "paper_id": "doi:10.3390/ma15238289",
+  "pmcid": "PMC9738435",
+  "source_record_sha256": "057dbeabf95e58a831eb20108eef9c7f4ef05cf499f43b1133506a91eb0adf84",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a4a6645d5c1e2eb32e4198dcdca383d273eeba0da622e99e9cc0944e8deca605",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surface Modification of 3D-Printed PCL/BG Composite Scaffolds via Mussel-Inspired Polydopamine and Effective Antibacterial Coatings for Biomedical Applications",
+    "authors": "Ilyas K, Akhtar MA, Ammar EB, Boccaccini AR.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15238289",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

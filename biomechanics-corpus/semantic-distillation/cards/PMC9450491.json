@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9450491",
+  "paper_id": "doi:10.1039/d2ra03854d",
+  "pmcid": "PMC9450491",
+  "source_record_sha256": "c092f9f4c8732d3b71ec530d37542cae00f87667857111da7e3a7195804dab08",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5aac44d337a5723d7963aa9c746576a68211f149b9c2cb6c24440bdbdf60f94d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Improvement of mechanical and antibacterial properties of porous nHA scaffolds by fluorinated graphene oxide",
+    "authors": "Xu Z, Li Y, Xu D, Li L, Xu Y, Chen L, Liu Y, Sun J.",
+    "year": 2022,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d2ra03854d",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9700010",
+  "paper_id": "doi:10.1016/j.jot.2022.11.001",
+  "pmcid": "PMC9700010",
+  "source_record_sha256": "12044665f82df713b1855712d385b5ba7d7d571de14b114f68afcc2926d128b8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3e25e55911646e10ccf43d8fc3a560cd731dcc2b5ecb8c3825f9d3c98dc868b7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Capability of auxetic femoral stems to reduce stress shielding after total hip arthroplasty",
+    "authors": "Liu B, Wang H, Zhang M, Li J, Zhang N, Luan Y, Fang C, Cheng CK.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2022.11.001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

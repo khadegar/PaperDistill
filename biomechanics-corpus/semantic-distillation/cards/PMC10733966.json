@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10733966",
+  "paper_id": "doi:10.3389/fbioe.2023.1301454",
+  "pmcid": "PMC10733966",
+  "source_record_sha256": "7b74a0d60a5a3a9ed9557ecb2983bdac78a16db6064d08c43279902a76a38289",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e952c27f615ee5e3d6ae275b6c9d2b0b313c4e060925d357ae92205527a4b588",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reducing the prosthesis modulus by inclusion of an open space lattice improves osteogenic response in a sheep model of extraarticular defect",
+    "authors": "Sanaei R, Pagel CN, Ayodele BA, Lozanovski B, Beths T, Leary M, Shidid D, Kastrati E, Elambasseril J, Bühner U, Williamson T, Ryan S, Brandt M.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1301454",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10092161",
+  "paper_id": "doi:10.1002/jbm.b.35176",
+  "pmcid": "PMC10092161",
+  "source_record_sha256": "32b6b67feb1df6dad2c596542ff9f9c840c3783da01dc23ab65f88c86d0e697a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "13089910ddc2edb1deeb788f93a5b9d0bbd299a2d1bbd8011f73da9de32c4062",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Subsidence of a partially porous titanium lumbar cage produced by electron beam melting technology",
+    "authors": "Distefano F, Epasto G, Guglielmino E, Amata A, Mineo R.",
+    "year": 2022,
+    "journal": "Journal of Biomedical Materials Research. Part B, Applied Biomaterials",
+    "doi": "10.1002/jbm.b.35176",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12367250",
+  "paper_id": "doi:10.34133/cbsystems.0381",
+  "pmcid": "PMC12367250",
+  "source_record_sha256": "8e62d6be2504e0e48dc7d023401f3e31c100b1ab84c4523162c4b33329665b7e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "daee0dc1c96cbb8143e67e632e79a63663db53bfef4f16e43c11b787904ab8bb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "BioCompNet: A Deep Learning Workflow Enabling Automated Body Composition Analysis toward Precision Management of Cardiometabolic Disorders",
+    "authors": "Wei J, Chen H, Yao L, Hou X, Zhang R, Shi L, Sun J, Hu C, Wei X, Jia W.",
+    "year": 2025,
+    "journal": "Cyborg and Bionic Systems",
+    "doi": "10.34133/cbsystems.0381",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

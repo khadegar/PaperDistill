@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7971014",
+  "paper_id": "doi:10.1038/s41598-021-85424-x",
+  "pmcid": "PMC7971014",
+  "source_record_sha256": "2f2487780bf3f917face32649110b27952f3fcc2721a2ac9c9f976d82a4b81b5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "564b677d89c39aa6e9cc3e06501852699fe1b1d7ee4a5de522c0cce45aec2b8b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "No difference for changes in BMD between two different cementless hip stem designs 2 years after THA",
+    "authors": "Dyreborg K, Solgaard S, Skettrup M, Petersen MM.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-85424-x",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Randomized Controlled Trial; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

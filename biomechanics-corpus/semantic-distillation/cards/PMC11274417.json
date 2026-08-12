@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11274417",
+  "paper_id": "doi:10.3390/biomimetics9070423",
+  "pmcid": "PMC11274417",
+  "source_record_sha256": "e9f34488a0e4ab3b4b6a2f13c5d82c6d178422a8a212b23c3dd3112096a1fe1d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bbd1e82018019503ee4b4eab98b35b5023598befd930d158e67f8b29ccb845c8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing and Surface Engineering of Ti6Al4V Scaffolds for Enhanced Osseointegration in an In Vitro Study",
+    "authors": "Ma C, de Barros NR, Zheng T, Gomez A, Doyle M, Zhu J, Nanda HS, Li X, Khademhosseini A, Li B.",
+    "year": 2024,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics9070423",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

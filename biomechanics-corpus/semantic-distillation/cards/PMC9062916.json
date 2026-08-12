@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9062916",
+  "paper_id": "doi:10.25259/sni_1239_2021",
+  "pmcid": "PMC9062916",
+  "source_record_sha256": "50d70e12bc5681f74ef5846a4200cb47482857bdeff66e8fbde9f4fee2ce526e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e3e6dc92273b391410a21a0f4d0bd3bb1703bd41c07a1aff0d9392b4d4e4f277",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Customized alloplastic cranioplasty of large bone defects by 3D-printed prefabricated mold template after posttraumatic decompressive craniectomy: A technical note",
+    "authors": "Splavski B, Lakicevic G, Kovacevic M, Godec D.",
+    "year": 2022,
+    "journal": "Surgical Neurology International",
+    "doi": "10.25259/sni_1239_2021",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

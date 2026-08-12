@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10632765",
+  "paper_id": "doi:10.1039/d3ra05814j",
+  "pmcid": "PMC10632765",
+  "source_record_sha256": "e74b2e77d2a76c784b48d360bcf240e757c6ba0de8f74c07c06cd16b21337315",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9e2e5702e956778869a9809c29cb14473cf1db77bfe6d9155088333e3954118b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cell response and bone ingrowth to 3D printed Ti6Al4V scaffolds with Mg-incorporating sol–gel Ta 2 O 5 coating †",
+    "authors": "Zhang B, Feng J, Chen S, Liao R, Zhang C, Luo X, Yang Z, Xiao D, He K, Duan K.",
+    "year": 2023,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d3ra05814j",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

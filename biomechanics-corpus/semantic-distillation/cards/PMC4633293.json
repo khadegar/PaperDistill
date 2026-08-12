@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4633293",
+  "paper_id": "doi:10.1371/journal.pone.0141802",
+  "pmcid": "PMC4633293",
+  "source_record_sha256": "842d1cca8e8cedf840ec8d99b1949337873aefd2f6dbb5b121ee9552ca68aee8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fdf34057fc94c0eb408164d2e33c8ce2e35a3c283bc64033f4d7e9d5b4451ff0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Differentiation and Distribution of Marrow Stem Cells in Flex-Flow Environments Demonstrate Support of the Valvular Phenotype",
+    "authors": "Rath S, Salinas M, Villegas AG, Ramaswamy S.",
+    "year": 2015,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0141802",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

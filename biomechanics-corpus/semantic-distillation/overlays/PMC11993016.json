@@ -1,0 +1,259 @@
+{
+  "study": {
+    "article_kind": "original mixed computational–in-vitro mechanical study with FE bone-growth/remodeling prediction",
+    "design_features": [
+      "small_diameter_two_piece_dental_implant",
+      "five_solid_and_regionally_porous_designs",
+      "Ti6Al4V_laser_sintered_specimens",
+      "three_dimensional_FE_with_bone_growth_stages",
+      "mechanostat_based_remodeling_prediction",
+      "ISO_14801_dynamic_mechanical_testing",
+      "synthetic_Sawbone_stability_testing"
+    ],
+    "research_problem": "Narrow dental implants can be mechanically vulnerable, while a stiff solid implant may concentrate load and contribute to marginal bone loss. The design challenge is to improve bone strain/ingrowth without sacrificing strength and initial stability in a 3.5 mm two-piece implant.",
+    "exact_gap": "Prior work had considered porous Ti6Al4V implants or narrow implants separately; the authors state that biomechanical performance of small-diameter implants combining regional porosity had not been compared with both FE bone-remodeling analysis and mechanical testing.",
+    "objective_or_hypothesis": "Compare full-solid, upper-porous, lower-porous, lower-porous-upper-half, and lower-porous-lower-half 3.5 mm-diameter designs, using 3D FE simulations and in-vitro testing to identify a structure that balances stress tolerance, implant stability, and healthy marginal-bone strain under vertical and oblique loading.",
+    "study_design": "Five 13 mm-long, 3.5 mm-diameter two-piece implant geometries were modeled in ANSYS with a 2 mm cortical layer and cancellous bone, friction coefficient 0.1, a ≤0.4 mm converged mesh, 150 N vertical or 150 N plus 20 N lateral oblique force, and six bone-growth/remodeling stages. The three primary designs (full solid, upper porous, lower porous) were laser-sintered from Ti6Al4V, tested under ISO 14801 dynamic loading and load–deformation, and inserted into Type-2 Sawbone blocks for Periotest stability measurements. FE stress/strain outputs and healthy/diseased bone fractions were compared with the physical behavior; no animal or patient study was performed.",
+    "sample_or_model": "The virtual model uses SolidWorks/ANSYS geometries, titanium-alloy implant and abutment, cortical/cancellous bone, and fibrous tissue with homogeneous isotropic linear-elastic properties (Ti6Al4V 96,000 MPa, ν=0.36; cortical 10,700 MPa; cancellous 910 MPa; friction coefficient 0.1). Synthetic Type-2 bone had trabecular density 0.4 g/cm³ and modulus 759 MPa with a 2 mm cortical layer of 16.7 GPa. The Results figure reports N=11 for load–deformation/PTV summaries, but design allocation and exact specimen counts are not fully specified; S005 states at least three specimens per primary design met ISO 14801 without failure.",
+    "comparators": [
+      "Full-solid, upper-porous, and lower-porous primary implants in mechanical testing, stability testing, and immediate FE stress analysis (S003:C01; S005:C01; S007:C01; S009:C01).",
+      "Lower-porous upper-half and lower-half variants in the FE bone-growth/remodeling simulations (S003:C01; S012:C01).",
+      "Vertical 150 N loading versus oblique loading with an additional 20 N lateral buccal-to-lingual force (S004:C01; S011:C01–S012:C01).",
+      "Stage 0–4 bone growth versus the post-surgery remodeling state, with healthy bone defined as bone-gain plus adapted strain and diseased bone as over-yield plus bone-loss strain (S004:C01; S012:C01).",
+      "Physical load tolerance and Periotest values across designs, including the upper-porous permanent-deformation threshold above 350 N (S009:C01–S010:C01)."
+    ],
+    "method_spine": [
+      "Design five regional-porosity implant bodies and two-piece assemblies modeled on a commercial 3.5 mm × 13 mm implant (S003:C01).",
+      "Build a converged three-dimensional FE model with cortical/cancellous bone, abutment/cap, frictional contacts, mesial/distal constraints, and vertical or oblique loads (S004:C01).",
+      "Simulate stages 0–4 of early bone filling and a post-surgery mechanostat remodeling state; classify ROI elements as healthy or diseased by strain categories (S004:C01).",
+      "Laser-sinter the three primary designs, conduct ISO 14801 loading/failure evaluation, and record load–deformation behavior (S005:C01; S009:C01).",
+      "Insert implants into Type-2 Sawbone blocks and measure mobility with Periotest; compare physical strength/stability with FE stress, strain, and marginal-bone fractions using medians/IQRs and Wilcoxon rank-sum tests (S006:C01–S008:C01)."
+    ],
+    "validation_roles": {
+      "verification": [
+        "A mesh size ≤0.4 mm was selected from convergence tests for the FE model (S004:C01).",
+        "Mechanical testing followed ISO 14801 procedures and at least three specimens per primary design reportedly passed without failure before subsequent experiments (S005:C01)."
+      ],
+      "calibration": [
+        "Material properties and bone-density inputs are assigned from literature or commercial Sawbone specifications; the FE model is not fitted to measured force, strain, or remodeling data (S004:C01; S006:C01).",
+        "The mechanostat/minimum-effective-strain categories are imported from prior theories and a previous algorithm, not calibrated against this study's histology or longitudinal bone measurements (S004:C01; S013:C01)."
+      ],
+      "validation": [
+        "Physical load–deformation/failure behavior and Periotest stability provide in-vitro mechanical checks for the three primary laser-sintered designs, including observed upper-porous deformation above 350 N (S005:C01; S007:C01; S009:C01–S010:C01).",
+        "The packet does not report a direct quantitative comparison between FE stress/strain fields and measured surface strains, nor any biological, animal, or clinical validation of the remodeling predictions (S004:C01; S013:C01–S013:C02)."
+      ],
+      "sensitivity": [
+        "Porosity location/amount, loading orientation, and six bone-growth/remodeling states form a design and state sweep; the reduced-porosity subtypes test whether the bone benefit persists when porous volume is shortened (S003:C01; S011:C01–S012:C01).",
+        "No formal uncertainty, parameter, fatigue-life, friction, sliding, anisotropy, or geometry sensitivity analysis is reported beyond the mesh convergence check."
+      ],
+      "application_prediction": [
+        "FE healthy/diseased bone fractions and stress maps predict how each idealized design may redistribute load or support marginal bone under the specified static loads and remodeling rule (S011:C01–S012:C01).",
+        "Statements that lower porosity is clinically desirable, upper porosity is unsuitable, or a design improves bone integration are bounded by the synthetic-bone tests and model proxies; no in-vivo osseointegration or patient outcome was measured (S013:C01–S013:C02)."
+      ]
+    },
+    "primary_outcomes": [
+      "Mechanical load–deformation tolerance ranked full solid highest, lower porous next, and upper porous lowest; all three PTV groups showed excellent stability, but full solid and upper porous were more stable than lower porous, which had the least stability (S009:C01).",
+      "Upper-porous implants showed permanent deformation above 350 N and a crooked internal screw after cap removal, localizing the failure to a stress-concentrating solid–porous geometric discontinuity (S009:C01–S010:C01).",
+      "Under vertical 150 N FE loading, cortical-bone maximum stress was highest for upper porous at 131.38 MPa; implant maximum stress was 872.13 MPa for upper porous versus 97.81 MPa full solid and 122.54 MPa lower porous. Oblique loading increased magnitude and shifted stress opposite the applied force; upper porous reached 1315.2 MPa in the implant body (S011:C01).",
+      "The lower-porous implant produced a more uniform cancellous-bone stress pattern than full solid or upper porous while retaining similar cortical/cancellous stress magnitudes to full solid (S011:C01; S013:C01).",
+      "At the first three threads under vertical Stage 0, healthy-bone fractions were 69.5% full solid, 78.2% upper porous, and 74.3% lower porous; under oblique loading they were 57.3%, 65.7%, and 59.0%, respectively (S012:C01).",
+      "After simulated post-surgery remodeling, first-three-thread healthy fractions fell to 45.5% full solid, 64.0% upper porous, and 56.9% lower porous under vertical load, and to 48.6%, 61.2%, and 51.3% under oblique load; the reduced-porosity upper-half/lower-half variants were generally lower still (S012:C01).",
+      "The model therefore predicts the strongest marginal-bone proxy for upper porous but the physical deformation and >1300 MPa stress concentration make it unsuitable under the tested small-diameter loading; lower porous offers a compromise of near-full-solid strength and higher marginal healthy-bone fraction, while reducing porous volume attenuates the regeneration proxy (S013:C01–S013:C02)."
+    ],
+    "highest_evidence_level_reached": "In-vitro mechanical/stability evidence combined with FE stress and mechanostat-based bone-remodeling predictions; no biological, animal, or clinical validation of bone ingrowth or long-term survival."
+  },
+  "argument_map": {
+    "central_claim": "For the tested 3.5 mm two-piece Ti6Al4V designs, lower regional porosity preserves mechanical tolerance close to full solid while improving the modeled marginal-bone strain distribution, whereas upper porosity gives the best healthy-bone proxy but fails by junctional stress/deformation above 350 N; decreasing porous volume weakens the bone-regeneration proxy.",
+    "data": [
+      "Five idealized regional-porosity geometries and vertical/oblique FE load cases with six bone-growth/remodeling states (S003:C01–S004:C01).",
+      "Laser-sintered full-solid, upper-porous, and lower-porous implants tested for load tolerance and Periotest stability, with upper-porous permanent deformation above 350 N (S005:C01–S010:C01).",
+      "FE implant/bone stress maps and healthy/diseased fractions at the marginal first three threads, including Stage 0 and post-remodeling comparisons (S011:C01–S012:C01)."
+    ],
+    "warrant": "The combined physical and FE results support a conditional mechanical–bone-strain trade-off among these configurations; healthy/diseased fractions remain mechanostat proxies and do not demonstrate histologic ingrowth, durable fixation, or clinical prevention of marginal bone loss.",
+    "backing": [
+      "The upper-porous failure mode is observed in both FE stress concentration and physical permanent deformation/crooked screw, providing convergent evidence for a junctional weakness (S010:C01; S011:C01; S013:C01).",
+      "Lower porous has similar reported stress tolerance to full solid, a more uniform cancellous stress map, and higher first-three-thread healthy fractions than full solid across the stated model states (S009:C01; S011:C01; S012:C01)."
+    ],
+    "qualifier": "Evidence applies to idealized 3.5 mm × 13 mm Ti6Al4V designs, Type-2 Sawbone blocks, ISO-style static/dynamic loading and 150 N/20 N FE loads, homogeneous isotropic material assumptions, and the specified mechanostat categories.",
+    "rebuttals_or_boundaries": [
+      "Lower porous was least stable by PTV despite near-full-solid load tolerance, so strength and initial stability do not identify one universally best design (S009:C01).",
+      "Upper porous has the best marginal healthy-bone fraction but reaches 872.13 MPa vertical and 1315.2 MPa oblique implant stress and deforms above 350 N; biological and mechanical criteria conflict (S011:C01; S013:C01).",
+      "The FE bone model uses simplified homogeneous/isotropic bone and static vertical/oblique forces; chewing, sliding, friction evolution, anisotropy, and complex anatomy are omitted (S013:C02).",
+      "Only three primary designs were physically tested, specimen allocation is unclear, and no animal or patient endpoint validates the remodeling fractions (S005:C01; S009:C01)."
+    ],
+    "argument_coherence": "moderate_to_high for the in-vitro mechanical trade-off and conditional FE comparison; moderate for bone-ingrowth and clinical implications"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Laser-sintered Ti6Al4V full-solid, upper-porous, and lower-porous assemblies were subjected to ISO 14801-style loading; load–deformation tolerance and an upper-porous permanent-deformation/crooked-screw failure were observed (S005:C01; S009:C01–S010:C01).",
+      "Periotest mobility values were measured after insertion into Type-2 Sawbone blocks; all three designs were described as stable, with lower porous least stable (S006:C01; S007:C01; S009:C01).",
+      "Synthetic-bone density and elastic moduli are commercial specimen inputs, not human bone measurements (S006:C01)."
+    ],
+    "predicted": [
+      "FE implant, cortical-bone, and cancellous-bone stress distributions under 150 N vertical and 150 N + 20 N oblique loads (S011:C01).",
+      "Healthy/diseased bone volume fractions for five designs across Stages 0–4 and the post-surgery remodeling state (S012:C01).",
+      "Design-level claims that lower porous balances mechanical strength and marginal-bone strain, and that reduced porous volume weakens the regeneration proxy (S012:C01–S013:C02)."
+    ],
+    "inferred": [
+      "The upper-porous junction is inferred to be the causal weakness because its sharp solid–porous discontinuity coincides with the FE stress maximum and observed crooked-screw deformation (S010:C01; S011:C01).",
+      "Higher healthy-bone fractions near the first three threads are inferred to indicate more favorable bone ongrowth/ingrowth, but they are mechanostat classifications rather than measured tissue (S004:C01; S012:C01).",
+      "Lower porous is inferred to be more clinically desirable than upper porous because it retains tolerance and improves the model's marginal-bone proxy; this remains conditional on the simplified loading and synthetic-bone setup (S013:C01)."
+    ],
+    "recommended": [
+      "Repeat testing with clearly reported specimen allocation, as-built porosity and surface metrology, fatigue cycles, and direct FE-to-experiment strain comparisons.",
+      "Use anatomical, heterogeneous, anisotropic, viscoelastic bone models and dynamic chewing with sliding/friction to test whether the trade-off persists (S013:C02).",
+      "Validate bone-ingrowth/remodeling predictions with histology, imaging, animal time courses, and patient-relevant marginal-bone outcomes before clinical selection.",
+      "Test hybrid connection geometries or materials that reduce upper-porous junction stress without losing the porous region's modeled bone benefit (S013:C01–S013:C02)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Load–deformation tolerance and Periotest values indicate in-vitro mechanical behavior and initial mobility, not long-term fatigue survival or osseointegration.",
+      "FE stress concentration identifies a candidate failure location, not observed clinical fracture, screw loosening, or peri-implantitis.",
+      "Healthy/diseased strain fractions are model-defined mechanostat proxies, not bone volume, histologic ingrowth, bone–implant contact, or marginal bone loss measured in vivo.",
+      "Synthetic Sawbone does not reproduce living bone remodeling, vascularity, anisotropy, viscoelasticity, or biologic interface formation.",
+      "Static vertical/oblique loads do not establish behavior under cyclic mastication, sliding, wear, corrosion, or years of function."
+    ],
+    "overclaim_risks": [
+      "The Conclusion states that porous structure significantly enhances post-implantation bone ongrowth/ingrowth although no living tissue was measured and the fractions come from FE strain categories (S013:C02).",
+      "Calling lower porous clinically desirable extrapolates from a synthetic-bone stability/mechanical compromise and a simplified model to patient outcomes (S009:C01; S013:C01).",
+      "The upper-porous unsuitability claim is strong for the tested >350 N deformation/junction geometry but should not be generalized to redesigned connections or other diameters/materials.",
+      "The reduction in porous proportion is interpreted as adverse bone regeneration although the result is sensitive to the assumed mechanostat rule, bone geometry, loads, and stage definitions (S012:C01–S013:C02)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Use the stress-shielding versus fixation trade-off to define the small-diameter porous-design gap and comparator set.",
+      "execution": "The Introduction connects marginal bone loss and modulus mismatch to prior isoelastic implants, then states the unstudied combination of narrow diameter and regional porosity and the FE-plus-mechanical objective (S002:C01).",
+      "locator": "S002:C01",
+      "effectiveness": "high",
+      "transferable_principle": "End an implant-design introduction with the exact diameter, porosity factors, loading/validation plan, and primary mechanical and tissue-proxy endpoints.",
+      "failure_mode": "Do not infer that modulus matching alone solves fixation or bone loss; the RM isoelastic example shows the adverse consequences of poor ingrowth and micromotion."
+    },
+    {
+      "section": "methods",
+      "move": "Align the virtual and physical setups before interpreting design differences.",
+      "execution": "The methods specify geometry, material/contact assumptions, vertical/oblique forces, remodeling stages, laser-sintered specimens, ISO loading, Sawbone composition, Periotest, and rank-sum statistics (S003:C01–S008:C01).",
+      "locator": "S004:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For mixed FE–experimental implant work, state which designs are physically fabricated, which are virtual-only, what each test measures, and where model inputs differ from living bone.",
+      "failure_mode": "A converged FE mesh and ISO protocol cannot compensate for synthetic-bone and homogeneous-material assumptions when claiming biological performance."
+    },
+    {
+      "section": "results",
+      "move": "Report physical strength/stability first, then FE stress, then remodeling fractions so failure and trade-offs remain visible.",
+      "execution": "Results begin with load–deformation/PTV and the upper-porous failure, then give immediate stress fields and finally healthy/diseased fractions across stages and loads (S009:C01–S012:C01).",
+      "locator": "S009:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Separate measured mechanical behavior from model-level tissue predictions and retain conflicting metrics such as lower-porous stability versus strength.",
+      "failure_mode": "Selecting the design with the highest healthy-bone proxy while omitting its >350 N deformation would hide the central trade-off."
+    },
+    {
+      "section": "discussion",
+      "move": "Use the observed junction failure to explain the FE stress map, then reconcile upper-porous bone benefit with mechanical unsuitability and lower-porous compromise.",
+      "execution": "The Discussion links upper-porous discontinuity to deformation, compares lower porous with full solid, and reports the decline in healthy fractions during post-surgery remodeling before stating simplified-model and static-load limitations (S013:C01–S013:C02).",
+      "locator": "S013:C01",
+      "effectiveness": "high",
+      "transferable_principle": "A mixed-study Discussion should let convergent physical and FE failure evidence constrain biological interpretation, then state what experiment would test the proxy bridge.",
+      "failure_mode": "Do not treat a mechanostat fraction as equivalent to histologic ingrowth or a static load as clinical mastication."
+    },
+    {
+      "section": "conclusion",
+      "move": "Close with the conditional design trade-off and list dynamic/biological work before clinical translation.",
+      "execution": "The Conclusion retains upper-porous bone integration versus reduced stress resistance and lower-porosity loss of regeneration, then proposes advanced materials, hybrid structures, biological models, and dynamic loads (S013:C02).",
+      "locator": "S013:C02",
+      "effectiveness": "moderate",
+      "transferable_principle": "A conclusion should state the tested mechanical compromise, preserve the evidence state of bone predictions, and place in-vivo and dynamic validation in future work.",
+      "failure_mode": "Phrases such as significantly enhances bone ongrowth/ingrowth require qualification when the endpoint is a simulated strain category."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The bone geometry and material model are simplified and do not capture inhomogeneity, anisotropy, viscoelasticity, or the full complexity of remodeling (S013:C01–S013:C02).",
+      "Only static vertical and oblique occlusal forces were applied; chewing, sliding, and friction should be incorporated in future work (S013:C02).",
+      "Future studies should use more sophisticated geometry/material models, biological models, dynamic loading, and advanced or hybrid materials (S013:C01–S013:C02)."
+    ],
+    "reader_identified": [
+      "Synthetic Sawbone and short-term in-vitro testing cannot validate living bone ingrowth, remodeling, peri-implantitis, or long-term fixation.",
+      "The exact sample allocation is unclear: the figure reports N=11, while the methods only state at least three specimens per primary design passed ISO loading.",
+      "Only full-solid, upper-porous, and lower-porous designs were physically fabricated/tested; the two reduced-porosity variants are FE-only.",
+      "No direct quantitative FE-to-measured strain or stress validation, uncertainty propagation, fatigue-life result, or as-built porosity/metrology is reported.",
+      "The 0.1 friction coefficient, homogeneous isotropic linear elasticity, fixed mesial/distal constraints, and static 150 N/20 N loads may strongly shape the ranking."
+    ],
+    "likely_bias_direction": [
+      "Mechanostat thresholds and homogeneous FE inputs likely make healthy/diseased fractions appear more precise and transferable than living bone behavior allows.",
+      "The synthetic block and static loading may understate biologic variability, interface slip, chewing fatigue, wear, and corrosion.",
+      "The preferred lower-porous compromise may be biased by not measuring biological ingrowth or by not isolating porosity from connection geometry and stability.",
+      "Upper-porous failure is likely specific to the sharp junction and 3.5 mm geometry; generalizing it to all upper-porous designs would bias against redesigned interfaces."
+    ],
+    "scope_boundary": "The evidence supports conditional comparison of five regional-porosity designs for a 3.5 mm two-piece Ti6Al4V implant under the stated FE loads and synthetic-bone mechanical tests. It does not demonstrate in-vivo bone ingrowth, marginal-bone preservation, fatigue life, corrosion/wear resistance, long-term fixation, peri-implantitis prevention, or patient benefit."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC11993016-01",
+      "capability": "Separate measured mechanical/stability outcomes from FE mechanostat predictions, and state the proxy-to-bone bridge explicitly before making a design recommendation.",
+      "manuscript_use": "Mixed FE–experimental Results, Discussion, and Conclusion audit.",
+      "applicable_domains": ["dental_implant", "finite_element_biomechanics", "osseointegration", "bone_remodeling"],
+      "applicable_study_designs": ["mixed_numerical_experimental", "in_vitro_FE"],
+      "supporting_locators": ["S009:C01", "S011:C01", "S012:C01", "S013:C01"],
+      "counterexample_or_boundary": "A direct histologic or imaging endpoint could strengthen the bridge; simulated healthy-bone fractions alone cannot establish ingrowth or clinical preservation.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC11993016-02",
+      "capability": "Use convergent failure evidence—FE stress concentration plus observed permanent deformation/crooked screw—to constrain a biological design claim, while retaining discordant stability metrics.",
+      "manuscript_use": "Failure-mode Results, design-selection Discussion, and comparator audit.",
+      "applicable_domains": ["implant_design", "dental_implant", "finite_element_biomechanics"],
+      "applicable_study_designs": ["in_vitro_mechanics", "FE_failure_analysis"],
+      "supporting_locators": ["S009:C01", "S010:C01", "S011:C01", "S013:C01"],
+      "counterexample_or_boundary": "The junction mechanism is specific to the tested geometry until reproduced across redesigned interfaces, diameters, materials, and loading histories.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC11993016-03",
+      "capability": "Report a complete porosity-by-location and loading-orientation matrix, preserving adverse remodeling changes and the fact that lower stability can coexist with near-full-solid strength.",
+      "manuscript_use": "Design-comparison tables and mechanobiology synthesis.",
+      "applicable_domains": ["porous_scaffold", "dental_implant", "bone_remodeling"],
+      "applicable_study_designs": ["parametric_FE", "mixed_mechanical_modeling"],
+      "supporting_locators": ["S009:C01", "S011:C01", "S012:C01", "S013:C01"],
+      "counterexample_or_boundary": "When specimen allocation or physical testing is incomplete, do not imply that the virtual reduced-porosity variants received the same validation as the three primary designs.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC11993016-04",
+      "capability": "Treat ISO compliance and mesh convergence as bounded verification/physical checks, not as validation of long-term mastication, living remodeling, fatigue, or clinical outcomes.",
+      "manuscript_use": "Methods validation ledger and translational boundary.",
+      "applicable_domains": ["dental_implant", "finite_element_biomechanics", "mechanical_testing"],
+      "applicable_study_designs": ["in_vitro_validation", "FE_modeling"],
+      "supporting_locators": ["S004:C01", "S005:C01", "S007:C01", "S013:C02"],
+      "counterexample_or_boundary": "Living-tissue imaging, histology, longitudinal mechanics, or patient data would be needed to move beyond the in-vitro/model rung.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_to_high",
+    "methods_transparency": "moderate",
+    "validation_credibility": "moderate for in-vitro mechanical behavior; low_to_moderate for direct FE and remodeling validation",
+    "outcome_uncertainty_reporting": "moderate for PTV/strain summaries but low for model uncertainty and fatigue",
+    "comparator_fairness": "moderate for the three primary designs; lower for virtual-only reduced-porosity variants and biological extrapolation",
+    "conclusion_proportionality": "moderate",
+    "critical_weaknesses": [
+      "Synthetic Sawbone and no in-vivo or clinical tissue endpoint.",
+      "Simplified homogeneous/isotropic bone and static loading omit anatomy, chewing, sliding, and biologic variability.",
+      "Unclear specimen allocation (N=11 figure versus at least three per design) and only three primary designs physically tested.",
+      "No direct quantitative FE-to-experiment field validation, as-built porosity metrology, or complete fatigue outcome.",
+      "Mechanostat healthy/diseased fractions are proxies that are used to support bone-ingrowth language."
+    ],
+    "overall_credibility": "moderate for the reported in-vitro mechanical trade-off and conditional FE stress patterns; low_to_moderate for remodeling, osseointegration, and clinical claims"
+  },
+  "summary_zh": "这是一项将有限元、体外机械试验和骨生长/重塑预测结合的原创小直径牙种植体研究。作者比较 3.5 mm 直径、13 mm 长的全实心、上部多孔、下部多孔以及下部多孔上下半段变体；三种主要设计用激光烧结 Ti6Al4V 制备，按 ISO 14801 进行加载/失效评价，并在 Type-2 Sawbone 中用 Periotest 测稳定性。FE 模型使用 ≤0.4 mm 网格、150 N 垂直和额外 20 N 斜向载荷，模拟 Stage 0–4 骨生长及术后 mechanostat 重塑。上部多孔的边界应力最高（垂直 872.13 MPa、斜向 1315.2 MPa），超过 350 N 出现永久变形和内螺钉弯曲；但其前三螺纹健康骨比例最高。下部多孔强度接近全实心、应力更均匀、边缘健康骨比例高于全实心，却具有较低的 Periotest 稳定性；减少多孔体积后，重塑模型中的健康骨比例下降。最稳妥的结论是存在机械强度、初始稳定性和 mechanostat 骨代理终点之间的条件性权衡，不能把合成骨和 FE 健康比例当作活体骨长入、边缘骨丢失或临床获益。",
+  "reader_notes": [
+    "Primary Luna reader read every non-reference locator in order: S001:C01 through S013:C01, S013:C02, S014:C01, S015:C01, and S016:C01; all 17 packet headings were read and omissions are none.",
+    "Full-text classification confirms mixed computational and in-vitro mechanical research; animal/clinical/biological cue labels do not represent completed study arms.",
+    "Physical ISO/Sawbone outcomes, FE stress fields, and mechanostat healthy/diseased fractions were kept in separate evidence states; the N=11 versus at-least-three-per-design allocation ambiguity was retained.",
+    "Self-review retained the upper-porous failure, lower-porous lower stability, post-remodeling declines, synthetic-bone and static-load limitations, and the absent in-vivo bone-ingrowth endpoint."
+  ]
+}

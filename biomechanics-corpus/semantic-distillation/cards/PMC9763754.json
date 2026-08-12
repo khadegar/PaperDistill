@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9763754",
+  "paper_id": "doi:10.1016/j.heliyon.2022.e11868",
+  "pmcid": "PMC9763754",
+  "source_record_sha256": "9b09d4cf1f25bfbdd6f96ec0a8cbd56965015a670786387a66865f6fecbf2f57",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e5cfec9695dee4030b0715f14ba31e502aa0f32f4a4ca6156942f9938d756ba7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing technique applied in vaginoplasty: A case report",
+    "authors": "Yin GW, Han T, Liang JH, Yi JP, Wang JJ, Gao ZW, Ren JC, Fu Q, Li Y, Jin LL, Fei R, Cao TS, Zhu XM.",
+    "year": 2022,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2022.e11868",
+    "publication_type": "Retracted Publication; Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

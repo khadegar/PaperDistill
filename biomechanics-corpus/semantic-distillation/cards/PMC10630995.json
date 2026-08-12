@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10630995",
+  "paper_id": "doi:10.1186/s12903-023-03596-6",
+  "pmcid": "PMC10630995",
+  "source_record_sha256": "11c1c15017bf1a3a2f5b85b68035c813fc867407b1992735f028ec5d6488eca6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c40be8680bbdd183ddf46d00d23936581cb382f4404924dfd0abbb02f9a8862f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of a modified osteotomy and positioning integrative template system (MOPITS) based on a truncatable reconstruction model in the precise mandibular reconstruction with fibula free flap: a pilot clinical study",
+    "authors": "Sun Q, Zhu Z, Meng F, Zhao R, Li X, Long X, Li Y, Dong H, Zhang T.",
+    "year": 2023,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-023-03596-6",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7867904",
+  "paper_id": "doi:10.21037/atm-20-2451",
+  "pmcid": "PMC7867904",
+  "source_record_sha256": "94b7b5361c82f325ddf8ad02a853bb2e57363c8975a303cf1fc8be8f3cd4c910",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9f0eb54bc8af971eb253fe9b6decca5fe97be9c92aaab045b41bfd768caf57bb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A graphical guide for constructing a finite element model of the cervical spine with digital orthopedic software",
+    "authors": "Wu W, Han Z, Hu B, Du C, Xing Z, Zhang C, Gao J, Shan B, Chen C.",
+    "year": 2021,
+    "journal": "Annals of Translational Medicine",
+    "doi": "10.21037/atm-20-2451",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10298045",
+  "paper_id": "doi:10.3390/gels9060502",
+  "pmcid": "PMC10298045",
+  "source_record_sha256": "ea067b0a501e50512210931c3695a76994ab4ea2434352bc53de87ff4dfe1565",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6a5e1558c3225809e5717b1004e52a26799759e5faff286088e314b7de7d6e59",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cryopreservation of 3D Bioprinted Scaffolds with Temperature-Controlled-Cryoprinting",
+    "authors": "Warburton L, Rubinsky B.",
+    "year": 2023,
+    "journal": "Gels",
+    "doi": "10.3390/gels9060502",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

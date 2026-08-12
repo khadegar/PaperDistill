@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7179011",
+  "paper_id": "doi:10.3390/ma13071783",
+  "pmcid": "PMC7179011",
+  "source_record_sha256": "4a77b826fdc8c7afe354de8ad9892c4bbc542a3b3e3145ead7510631d61d7cef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e768b5f97d1378a211b7d9a1a4c4d0a162c0a397283e3eeedade4415e71fd540",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of the Primary Stability of Porous Tantalum and Titanium Acetabular Revision Constructs",
+    "authors": "Beckmann NA, Bitsch RG, Schonhoff M, Siebenrock KA, Schwarze M, Jaeger S.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13071783",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

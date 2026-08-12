@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8420054",
+  "paper_id": "doi:10.1186/s12891-021-04638-2",
+  "pmcid": "PMC8420054",
+  "source_record_sha256": "738269f07d170c8be38ad39b5627228e5b46f84a2639332b3603ffad45d5d242",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "72bd109bdb5c1f557c7d60c06fc742d239cf7ee1df83268ca0f73325ef918af3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modified F configuration in the treatment of Pauwels type III femoral neck fracture: a finite element analysis",
+    "authors": "Lin S, Shang J, Xing B, Wu B, Peng R, Wang G, Lu HD.",
+    "year": 2021,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-021-04638-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

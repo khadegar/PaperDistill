@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11594998",
+  "paper_id": "doi:10.3390/jcm13226894",
+  "pmcid": "PMC11594998",
+  "source_record_sha256": "d820ab1a6c6cb0e5a6231134115a97e16c4f03f12b7c20d8eedfa652b70bb1ef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "34781675c284d99e3895f7a5feb09d3aac151ca8f3c0df5fed5aa530635e35c5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Influence of Kinematic Alignment on Patellofemoral Joint Biomechanics in Total Knee Arthroplasty",
+    "authors": "Simon JM, Bauer L, Thorwächter C, Woiczinski M, Simon F, Müller PE, Holzapfel BM, Niethammer TR.",
+    "year": 2024,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm13226894",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

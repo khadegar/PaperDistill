@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7462274",
+  "paper_id": "doi:10.1371/journal.pone.0238471",
+  "pmcid": "PMC7462274",
+  "source_record_sha256": "97c1e66c0cb9b2e6d0791560bc1f5d65f380a6959b997bca0224cd53f3838cee",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "058e8442eb45deb6b1576a5ab80a8ad046ee865db01b72cc1d7763b22afaf1d1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Relationship between the morphological, mechanical and permeability properties of porous bone scaffolds and the underlying microstructure",
+    "authors": "Lu Y, Cheng L, Yang Z, Li J, Zhu H.",
+    "year": 2020,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0238471.r006",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

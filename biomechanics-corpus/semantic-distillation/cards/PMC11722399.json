@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11722399",
+  "paper_id": "doi:10.3390/ma18010170",
+  "pmcid": "PMC11722399",
+  "source_record_sha256": "67d7abba4da987ddad22a497852d7edaa109a57f603871ed3ca75d1511dd5e82",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1bf58a4d9b0d3627c39f537690ed2059ccb17036922eaef1c397eb79ef7fae9d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimising β-Ti21S Alloy Lattice Structures for Enhanced Femoral Implants: A Study on Mechanical and Biological Performance",
+    "authors": "Emanuelli L, Babaei M, De Biasi R, du Plessis A, Trivisonno A, Agostinacchio F, Motta A, Benedetti M, Pellizzari M.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18010170",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

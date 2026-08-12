@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7568164",
+  "paper_id": "doi:10.1155/2020/2976067",
+  "pmcid": "PMC7568164",
+  "source_record_sha256": "547f453b63a5a85402152d72f857c4a19696e4127a9a9d63149326694a062164",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2753aaeae0d9a6f08eb7d639ee2ee09aea19a9dc36189d35de849c7e59de9ee0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Method and Von Mises Investigation on Bone Response to Dynamic Stress with a Novel Conical Dental Implant Connection",
+    "authors": "Fiorillo L, Cicciù M, D'Amico C, Mauceri R, Oteri G, Cervino G.",
+    "year": 2020,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2020/2976067",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

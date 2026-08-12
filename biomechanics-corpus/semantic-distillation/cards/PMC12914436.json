@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12914436",
+  "paper_id": "doi:10.1016/j.mbplus.2026.100191",
+  "pmcid": "PMC12914436",
+  "source_record_sha256": "36bf3076abac8373b732b2c8722e8e62103372a52453b770f0cdab2e5a792d22",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4df978da9674e42f0b0fec46fedf4e0b7d4763c94893414b6155121a5bd37923",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Human gingival fibroblast-mediated remodeling of three-dimensional fibrin hydrogels",
+    "authors": "Ceylan M, Laine ML, Zandieh Doulabi B, Korfage HJAM, Dijkstra RJB, de Vries TJ, Schoenmaker T.",
+    "year": 2026,
+    "journal": "Matrix Biology Plus",
+    "doi": "10.1016/j.mbplus.2026.100191",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

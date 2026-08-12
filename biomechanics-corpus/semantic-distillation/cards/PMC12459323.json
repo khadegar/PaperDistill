@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12459323",
+  "paper_id": "doi:10.1002/ksa.12572",
+  "pmcid": "PMC12459323",
+  "source_record_sha256": "fa431150f260867510a6f0618e7df9d0f7ad0d4cf2e92f47c99b6a81b14ce0a5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "00032ee58ba2e2d675b52e1f78d8106b75389b3b2683b819d449785d4e29c553",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A flat posterior cruciate ligament reconstruction restores native knee kinematics, comparable to a double‐bundle reconstruction—A biomechanical robotic investigation",
+    "authors": "Deichsel A, Gellhaus F, Peez C, Raschke MJ, Martinovic M, Herbst E, Herbort M, Fink C, Kittl C.",
+    "year": 2024,
+    "journal": "Knee Surgery, Sports Traumatology, Arthroscopy",
+    "doi": "10.1002/ksa.12572",
+    "publication_type": "other; Comparative Study; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

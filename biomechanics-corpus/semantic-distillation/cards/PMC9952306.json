@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9952306",
+  "paper_id": "doi:10.3390/bioengineering10020204",
+  "pmcid": "PMC9952306",
+  "source_record_sha256": "2eb1128ac598ec330d69f044af75924627c66d0024154130d910ed735363c694",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "56f584244a5a051f1807de85be9b5cf93023e7f4f268dc97bcad5424a929e286",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Review of 3D Polymeric Scaffolds for Bone Tissue Engineering: Principles, Fabrication Techniques, Immunomodulatory Roles, and Challenges",
+    "authors": "Abdelaziz AG, Nageh H, Abdo SM, Abdalla MS, Amer AA, Abdal-Hay A, Barhoum A.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10020204",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

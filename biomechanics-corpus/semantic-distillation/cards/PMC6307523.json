@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6307523",
+  "paper_id": "doi:10.3892/etm.2018.6947",
+  "pmcid": "PMC6307523",
+  "source_record_sha256": "47ae0ec1265f13bbb10104c4287507cca6db37b40d1789a18d682ce89888cdf6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "78c4957649eee0f5a6e69dc4c57234a7371ead42d9d3bfc2bddaa2cdfa7f67ca",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed poly(ε-caprolactone) scaffolds function with simvastatin-loaded poly(lactic-co-glycolic acid) microspheres to repair load-bearing segmental bone defects",
+    "authors": "Zhang ZZ, Zhang HZ, Zhang ZY.",
+    "year": 2018,
+    "journal": "Experimental and Therapeutic Medicine",
+    "doi": "10.3892/etm.2018.6947",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

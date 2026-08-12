@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12415403",
+  "paper_id": "doi:10.3389/fbioe.2025.1631457",
+  "pmcid": "PMC12415403",
+  "source_record_sha256": "b727687bc67bb8ff73b12b7ed788dd572581cb6a6e4470cae1bcaa9a0915c36d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c6dd4f6b97e640ea7cf3758eee34541b379614762d488239440b9a1e6b66438e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A biomechanical investigation of three fixation methods for unilateral denis type II sacral fractures using finite element analysis",
+    "authors": "Zhao P, Li R, Chen J, Wang Y, Guan J, Wu M.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1631457",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

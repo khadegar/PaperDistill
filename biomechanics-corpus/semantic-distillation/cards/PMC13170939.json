@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13170939",
+  "paper_id": "doi:10.4317/jced.63890",
+  "pmcid": "PMC13170939",
+  "source_record_sha256": "d27f8a4c95b7ce45e60de9ea38fb91369e357d56751334dab26c42759c3d0af6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "44d94ed4572bc500ea6efb881f50a394639ba430d5292ba5b95be0af0fc94845",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Wide-thread implant macrogeometry and immediate implant placement: A systematic review of primary stability, marginal bone loss, and survival outcomes",
+    "authors": "Hernández RJ.",
+    "year": 2026,
+    "journal": "Journal of Clinical and Experimental Dentistry",
+    "doi": "10.4317/jced.63890",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

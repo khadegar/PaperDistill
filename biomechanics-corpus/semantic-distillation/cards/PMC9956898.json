@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9956898",
+  "paper_id": "doi:10.3390/gels9020088",
+  "pmcid": "PMC9956898",
+  "source_record_sha256": "7d973be2506c7577bb1294ed9131559590be5f5fc25540078a2193d4f87d8753",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5a61d29d77ca46ebbe30f27451d014935f6cbc5ead596faf6c38b09be66f9666",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of Hydrogels as Three-Dimensional Bioprinting Ink for Tissue Engineering",
+    "authors": "Xie M, Su J, Zhou S, Li J, Zhang K.",
+    "year": 2023,
+    "journal": "Gels",
+    "doi": "10.3390/gels9020088",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

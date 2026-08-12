@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13194325",
+  "paper_id": "doi:10.1007/s11548-025-03560-5",
+  "pmcid": "PMC13194325",
+  "source_record_sha256": "58b5cbccea498227fcbfe584645d8cd7e820f79713694667c8843e1c063c6b34",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "be67df9461d899b5b655c5d53f365976e4c69f2bf714dd60413ec8c9fd2095fe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Quantifying the anatomical variability of the proximal femur",
+    "authors": "Ramesh A, Henckel J, Hart A, Di Laura A.",
+    "year": 2025,
+    "journal": "International Journal of Computer Assisted Radiology and Surgery",
+    "doi": "10.1007/s11548-025-03560-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

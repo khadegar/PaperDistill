@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7094202",
+  "paper_id": "doi:10.1155/2020/8797493",
+  "pmcid": "PMC7094202",
+  "source_record_sha256": "e9872e66e65c4bc8f25e75701a504f2193b3ab78a7d1ed8ff761a5be8adf6fad",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ed7f7b82f3ca80503574caae9ed5000f69a1b63850f0a2ac89eaad04c1993bf9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis of Various Reconstructive Methods for the Mandibular Body and Ramus Defect Using a Free Vascularized Fibula Flap",
+    "authors": "Li X, Jiang C, Gao H, Wang C, Wang C, Ji P.",
+    "year": 2020,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2020/8797493",
+    "publication_type": "research-article; Journal Article; Case Reports",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

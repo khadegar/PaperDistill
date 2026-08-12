@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11060782",
+  "paper_id": "doi:10.17161/kjm.vol17.21522",
+  "pmcid": "PMC11060782",
+  "source_record_sha256": "824a53c221496ca3d5bb5480d922166f09ac2d30af872ce99a635e3259968afe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "877c45a6a4e201791c1c071c975b779238b0eb955be42772d4a21a904c134c14",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Comparison of Impaction Techniques and Cross-Sectional Femoral Stem Shapes for Cementless Total Hip Arthroplasty",
+    "authors": "Richardson VR, Chong ACM, Brown AN.",
+    "year": 2024,
+    "journal": "Kansas Journal of Medicine",
+    "doi": "10.17161/kjm.vol17.21522",
+    "publication_type": "brief-report; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13023743",
+  "paper_id": "doi:10.3390/bioengineering13030297",
+  "pmcid": "PMC13023743",
+  "source_record_sha256": "89eb1fbfb1c5609761f6421dae9b8453658dcf4385fa276d1c939ac934e08ec2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5eba8b2b56efcb67ced7fed78bf09e1c9978ec12074181a7fbfad7bc74bc5c15",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Predictive Bioengineering Model of Dental Implant Instability in Systemic Bone Disorders: A Periotest-Based Analysis",
+    "authors": "Sachelarie L, Feier R, Ștefănescu CL, Grigorian M, Murineanu RM, Agripina Z, Hurjui LL.",
+    "year": 2026,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering13030297",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

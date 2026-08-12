@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7065349",
+  "paper_id": "doi:10.1186/s13018-020-01593-x",
+  "pmcid": "PMC7065349",
+  "source_record_sha256": "f1f187082ec4654f61711438ec9ed5ebb49ede8da8fc38e12084ef1ec560715c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "373142021c2b932834d49a61ef7072dc3091a2c2c0603b00fc4fa6b003724e5c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed titanium implant-coated polydopamine for repairing femoral condyle defects in rabbits",
+    "authors": "Zhong W, Li J, Hu C, Quan Z, Jiang D, Huang G, Wang Z.",
+    "year": 2020,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-020-01593-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

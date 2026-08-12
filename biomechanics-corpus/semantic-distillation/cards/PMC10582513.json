@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10582513",
+  "paper_id": "doi:10.1016/j.isci.2023.108076",
+  "pmcid": "PMC10582513",
+  "source_record_sha256": "9e564590c6e5e2875c568a6f374f599817f85ac5a61f8c44090342323356313c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8f6efbd5c51a09609b631a8add9f0eaa6f4dc4337fb6ee987ea91e866345b305",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed scaffold harboring copper ions combined with near-infrared irradiation for local therapy of cancer",
+    "authors": "Wei H, Chen D, Han B, Li P, Jia H, Zhu L, Yang H, Lan D, Wei W, Chen H, Luo Y, Zhao Y.",
+    "year": 2023,
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2023.108076",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

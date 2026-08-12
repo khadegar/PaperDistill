@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13148873",
+  "paper_id": "doi:10.1302/2046-3758.155.bjr-2025-0055.r2",
+  "pmcid": "PMC13148873",
+  "source_record_sha256": "75d9aca869674b4a888fb49beada259901330786864987f0b6cde3cfb6532dd1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4d1ac013b24247a121b4f967b67ffa8c3648dbe88429bbc0263ab76726f13846",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patellar thickness can critically impact knee joint biomechanics after total knee arthroplasty",
+    "authors": "Guo N, Maas A, Grupp TM, Schütz P, Windhagen H, Taylor WR, Hosseini Nasab SH.",
+    "year": 2026,
+    "journal": "Bone & Joint Research",
+    "doi": "10.1302/2046-3758.155.bjr-2025-0055.r2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

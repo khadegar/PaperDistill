@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11908032",
+  "paper_id": "doi:10.1186/s13018-025-05659-6",
+  "pmcid": "PMC11908032",
+  "source_record_sha256": "1b299023bf33ff4a0ca03b65d86273c6092c3129a9ec41e15a927ef9c0786214",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f8d5bbbe8653f100382396fe56820bfa094774542cfc85b05dded854686c1faf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Research on the biomechanical characteristics of the tibiofemoral joint before and after kinematic alignment unicompartmental knee arthroplasty",
+    "authors": "Li C, Chen M, Wang X, Yan S, Zhang K, Zeng JZ.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-05659-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

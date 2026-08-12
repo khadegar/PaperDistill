@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9174528",
+  "paper_id": "doi:10.3389/fbioe.2022.873453",
+  "pmcid": "PMC9174528",
+  "source_record_sha256": "628e5ed12bf385da3c201f8ad6842280fcaf2f58a2a98db26cd7e534df3aa988",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "11a9ec8cc2e79c5089a797c635603efc40bc62025dce488dd5b8b6241b29e4c9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "4D Printing Applications in the Development of Smart Cardiovascular Implants",
+    "authors": "Kabirian F, Mela P, Heying R.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.873453",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12347427",
+  "paper_id": "doi:10.3390/jcm14155307",
+  "pmcid": "PMC12347427",
+  "source_record_sha256": "c0fdca22c46ef3ad8807400b376b2de64d458978522f0264095519c304c82706",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9078b3cc4251ed14f794400b54a34e753087bf230d0cba9f9ce719c6144e5623",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Predicting Proximal Femoral Remodeling After Short-Stem Hip Arthroplasty: A Biomechanical Modeling Approach",
+    "authors": "Heřt J, Havránek M, Daniel M, Sosna A.",
+    "year": 2025,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm14155307",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10838324",
+  "paper_id": "doi:10.1038/s41598-024-53260-4",
+  "pmcid": "PMC10838324",
+  "source_record_sha256": "0f238448fcca6dd8f4cfed155d5907193e019874c3504ff18e3393b19733c13e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0b8f97906c6445116c40e4bc8347c54779f01f241cc94d0cc8c7213cfbd373a9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Morphological and biomechanical characterization of long bones and peri-implant bone repair in type 2 diabetic rats treated with resveratrol",
+    "authors": "Wajima CS, Pitol-Palin L, de Souza Batista FR, Dos Santos PH, Matsushita DH, Okamoto R.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-53260-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

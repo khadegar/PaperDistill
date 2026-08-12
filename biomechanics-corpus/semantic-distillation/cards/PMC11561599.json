@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11561599",
+  "paper_id": "doi:10.1021/acsomega.4c05264",
+  "pmcid": "PMC11561599",
+  "source_record_sha256": "d381c4e012a898d75fd7631bb5ee05f73f0a8fb5a1a001d8041dd4f9afa65e2f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d8cf20f6c701474db51dd86dbccd272ae9a6e0a8d406a4d0a11cadeddf0c30be",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of Functionalized Poly(ε-caprolactone)/Hydroxyapatite Scaffolds via Electrospinning 3D for Enhanced Bone Regeneration",
+    "authors": "Lima MJDS, de Melo EF, Alves KGB, de Sá FB, Alves Júnior S.",
+    "year": 2024,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.4c05264",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

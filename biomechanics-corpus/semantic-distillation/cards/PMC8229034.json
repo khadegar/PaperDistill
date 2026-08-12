@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8229034",
+  "paper_id": "doi:10.3390/polym13121910",
+  "pmcid": "PMC8229034",
+  "source_record_sha256": "b6cb7bfce52eedcbc465c0149c4dc43d66873b9a23f38960078edab7b232566f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6702e17631f49a00b2314244a0fdafd78aafd049b21bb48f053bae8ec793cb95",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Total Meniscus Reconstruction Using a Polymeric Hybrid-Scaffold: Combined with 3D-Printed Biomimetic Framework and Micro-Particle",
+    "authors": "Jeong HJ, Lee SW, Hong MW, Kim YY, Seo KD, Cho YS, Lee SJ.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13121910",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

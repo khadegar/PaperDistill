@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7725991",
+  "paper_id": "doi:10.1038/s41598-020-78409-9",
+  "pmcid": "PMC7725991",
+  "source_record_sha256": "c0fc5943b8647406eb4e187421c45124b390fc89d71b88a4316b7e70d260a5fb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "699540826b050244fbbed93a2dd9f485c4eaa2cbbed98c83ce3cb56e073212a3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Radiographic and clinical assessment of unidirectional porous hydroxyapatite to treat benign bone tumors",
+    "authors": "Kunisada T, Hasei J, Fujiwara T, Nakata E, Yokoo S, Demiya K, Ozaki T.",
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-78409-9",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

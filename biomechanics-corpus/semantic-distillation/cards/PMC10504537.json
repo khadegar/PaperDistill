@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10504537",
+  "paper_id": "doi:10.1016/j.isci.2023.107761",
+  "pmcid": "PMC10504537",
+  "source_record_sha256": "5a9844de0fbecc92d695cbdd1ecc8a5f5263d20de01adb69d469694a0ee49775",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b5cab87ccc2a234db74feddc46310e95174124316b77531f5d09c53b1d412cfe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The selective norepinephrine reuptake inhibitor reboxetine promotes late-stage fracture healing in mice",
+    "authors": "Donat A, Jiang S, Xie W, Knapstein PR, Albertsen LC, Kokot JL, Sevecke J, Augustin R, Jahn D, Yorgan TA, Frosch KH, Tsitsilonis S, Baranowsky A, Keller J.",
+    "year": 2023,
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2023.107761",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

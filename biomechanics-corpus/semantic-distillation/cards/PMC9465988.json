@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9465988",
+  "paper_id": "doi:10.12336/biomatertransl.2022.02.006",
+  "pmcid": "PMC9465988",
+  "source_record_sha256": "93c40445d0baf004e276c5c229cea3a73371101fafb7d90af0f13cb5e1ea4c85",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8b28c572117f42638b1c4e41859f5d2a10bc9917fe6fa32bec8ff294f200681a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "On the mechanical aspect of additive manufactured polyether-ether-ketone scaffold for repair of large bone defects",
+    "authors": "Naghavi SA, Sun C, Hejazi M, Tamaddon M, Zheng J, Wang L, Zhang C, Varma SN, Li D, Moazen M, Wang L, Liu C.",
+    "year": 2022,
+    "journal": "Biomaterials Translational",
+    "doi": "10.12336/biomatertransl.2022.02.006",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

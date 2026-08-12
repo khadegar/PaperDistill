@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12278576",
+  "paper_id": "doi:10.1186/s41205-025-00284-9",
+  "pmcid": "PMC12278576",
+  "source_record_sha256": "c8f58cdb7422d92fb3e4bf332a7fa555e84633ffacd226f4f67c4d47c0ab5c98",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e4784562c56457a319bd0466fcabb4abbab694030a03342b1485eb2b6cc95b89",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Segmentation and finite element analysis in orthopaedic trauma",
+    "authors": "Wang KY, Farid AR, Comtesse S, von Keudell AG.",
+    "year": 2025,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-025-00284-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

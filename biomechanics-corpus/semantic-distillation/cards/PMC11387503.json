@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11387503",
+  "paper_id": "doi:10.1038/s41598-024-70602-4",
+  "pmcid": "PMC11387503",
+  "source_record_sha256": "02079fc5f98142c9d6b6cbc5b8e3ffbbcf6ccce8ff1cd284c3c6f1176c612c1b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8f2c18ac695df2ffc6651cb6eadbe1e0d089183ddee0286c895b407208ea9d7e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient-specific finite element analysis of four different fixation methods for transversely unstable radial head fractures",
+    "authors": "Yang L, Zhang X, Zhong Z, Li J, Xiong Z.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-70602-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

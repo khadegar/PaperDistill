@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10432151",
+  "paper_id": "doi:10.1016/j.bioactmat.2023.07.004",
+  "pmcid": "PMC10432151",
+  "source_record_sha256": "5099039e93af83bb6901133eec42b7ef37cfe093a764a24a0c506a6c93090527",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "25021c474366102e33f57a4f004dc6f077a24a457e35284c04396a51026b2040",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed tri-element-doped hydroxyapatite/ polycaprolactone composite scaffolds with antibacterial potential for osteosarcoma therapy and bone regeneration",
+    "authors": "Huang H, Qiang L, Fan M, Liu Y, Yang A, Chang D, Li J, Sun T, Wang Y, Guo R, Zhuang H, Li X, Guo T, Wang J, Tan H, Zheng P, Weng J.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2023.07.004",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

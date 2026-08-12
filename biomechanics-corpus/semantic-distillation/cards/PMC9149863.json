@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9149863",
+  "paper_id": "doi:10.3390/jfb13020047",
+  "pmcid": "PMC9149863",
+  "source_record_sha256": "366d962b01d3c5ec680d9b66b80457cfddb55562589586ee4287afb92970ef84",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fa49279800ecc02ba5a02374ce553d8fc0c90990e3c329cca7ac217a35ebb066",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing of Calcium Phosphate/Calcium Sulfate with Alginate/Cellulose-Based Scaffolds for Bone Regeneration: Multilayer Fabrication and Characterization",
+    "authors": "Wattanaanek N, Suttapreyasri S, Samruajbenjakun B.",
+    "year": 2022,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb13020047",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

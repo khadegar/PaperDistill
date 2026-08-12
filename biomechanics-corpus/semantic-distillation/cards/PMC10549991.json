@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10549991",
+  "paper_id": "doi:10.3389/fbioe.2023.1249867",
+  "pmcid": "PMC10549991",
+  "source_record_sha256": "7a5ddd6c8a539f18d0ba0be75cbd482173818c86c2c92f66bbbe8e58ea89790d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "89251be6a9dbf8cd953de2e537ff03c9ca2c894caa3e99cb47c45a97380b4568",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Simulating the mechanical stimulation of cells on a porous hydrogel scaffold using an FSI model to predict cell differentiation",
+    "authors": "Azizi P, Drobek C, Budday S, Seitz H.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1249867",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

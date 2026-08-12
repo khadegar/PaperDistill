@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10829417",
+  "paper_id": "doi:10.1002/cre2.841",
+  "pmcid": "PMC10829417",
+  "source_record_sha256": "6b2d390395131a451f6020a4f0b2e97788501fdd17f1b578b7e422f4c093cf69",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c899d720a922082a688a9bdf0798ed5ee971740315f88c1ed49c6e072a01723c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Anatomical three‐dimensional model with peri‐implant defect for in vitro assessment of dental implant decontamination",
+    "authors": "Khan SN, Koldsland OC, Tiainen H, Hjortsjö C.",
+    "year": 2024,
+    "journal": "Clinical and Experimental Dental Research",
+    "doi": "10.1002/cre2.841",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

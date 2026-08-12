@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12320810",
+  "paper_id": "doi:10.1080/17435889.2025.2513852",
+  "pmcid": "PMC12320810",
+  "source_record_sha256": "833e44c98233c4e3e3e6c80f2a5fbaea3bf56483ad327c8b56766e8bc84dbdc9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "48a3e8afd9e324634af24b058c9f1b85c0b361fd1b9fd883399f9956f197edfa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bgh/GelMA/CMCS hydrogel with bone MSC-EVs for lunate defect repair",
+    "authors": "Li M, Hu H, Liu L, Tian M, Li X.",
+    "year": 2025,
+    "journal": "Nanomedicine",
+    "doi": "10.1080/17435889.2025.2513852",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

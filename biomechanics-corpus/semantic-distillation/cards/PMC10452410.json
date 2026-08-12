@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10452410",
+  "paper_id": "doi:10.3390/biomimetics8040376",
+  "pmcid": "PMC10452410",
+  "source_record_sha256": "1ee7805fc3629fa9af97ec98b08d4c05b8571fc72e0ac3fe4c8fc09989cb4259",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "582f16d6f58ea4e0ecd3e7532f4d2c2769ca4594203edd20c67a124f0a2859a3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Effects of a Biomimetic Hybrid Meso- and Nano-Scale Surface Topography on Blood and Protein Recruitment in a Computational Fluid Dynamics Implant Model",
+    "authors": "Kitajima H, Hirota M, Osawa K, Iwai T, Mitsudo K, Saruta J, Ogawa T.",
+    "year": 2023,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics8040376",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

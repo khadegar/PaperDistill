@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10215074",
+  "paper_id": "doi:10.3390/bioengineering10050543",
+  "pmcid": "PMC10215074",
+  "source_record_sha256": "d5fd586b23abdf7b5113361d10bbad0f491b9b782333d0f5f49931727c3ae4c8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "115461999f294994d62e5ca0926a6d4dc4fce538471a8816d82d7d3e71b927e6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Pre-Planning the Surgical Target for Optimal Implant Positioning in Robotic-Assisted Total Knee Arthroplasty",
+    "authors": "Tzanetis P, Fluit R, de Souza K, Robertson S, Koopman B, Verdonschot N.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10050543",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7321598",
+  "paper_id": "doi:10.3390/ma13112589",
+  "pmcid": "PMC7321598",
+  "source_record_sha256": "cd0d663bd83e0da2244a55c3e0db1d2eac4652c0a84663ef00c76fa90d4e5226",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b24bf370bf05ed906d9fdfb517e96793908ac314da29c369abe573994c3526b4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additively Manufactured Continuous Cell-Size Gradient Porous Scaffolds: Pore Characteristics, Mechanical Properties and Biological Responses In Vitro",
+    "authors": "Liu F, Ran Q, Zhao M, Zhang T, Zhang DZ, Su Z.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13112589",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

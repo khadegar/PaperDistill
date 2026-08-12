@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10884926",
+  "paper_id": "doi:10.1016/j.heliyon.2024.e26660",
+  "pmcid": "PMC10884926",
+  "source_record_sha256": "c6f4a9865e538cf6fa2290d0f7b2bc7bd33006fa58ad880b6deb1a2b6c1fa0b2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e37ae7f672f32a635ad001c7e366e08341e5f20c9ce346770953e978409276e0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Unilateral external fixator and its biomechanical effects in treating different types of femoral fracture: A finite element study with experimental validated model",
+    "authors": "Abd Aziz AU, Ammarullah MI, Ng BW, Gan HS, Abdul Kadir MR, Ramlee MH.",
+    "year": 2024,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2024.e26660",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

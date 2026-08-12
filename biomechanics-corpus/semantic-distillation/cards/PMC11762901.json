@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11762901",
+  "paper_id": "doi:10.1186/s13018-025-05500-0",
+  "pmcid": "PMC11762901",
+  "source_record_sha256": "45c414bb5fa6969c9ef9e3d2d9e2ff83f3765dfb699ad11e1d29d4be93ebc418",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c6bd13cf5b29b2b0fe5916c0d59ec86d5b74830991622f013e50adcbb78756d7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Exploring the optimal reconstruction strategy for Enneking III defects in pelvis bone tumors: a finite element analysis",
+    "authors": "Zhu J, Hu J, Zhu K, Ma X, Huang Z, Zhang C.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-05500-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "topology_or_structural_optimization",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

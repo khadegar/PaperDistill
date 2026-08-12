@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11820550",
+  "paper_id": "doi:10.3390/ma18030622",
+  "pmcid": "PMC11820550",
+  "source_record_sha256": "fd0587c18aa1991597bdc4161f5e7ab5e7121a528c9cacb4729e71a2be6e41a2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2fe0490283d8119eae394c7f3d4dbeb3a9632757e522d4104a889f4d25335abf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "New Subperiosteal Dental Implant Design with Finite Element Analysis and Mechanical Validation: A Design Validation Study",
+    "authors": "Vanaclocha V, Atienza C, Vanaclocha A, Peñuelas A, Gómez-Herrero J, Pérez-Carrió F, Diego-Leyda JA, Sáiz-Sapena N, Vanaclocha L.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18030622",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

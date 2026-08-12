@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10162669",
+  "paper_id": "doi:10.1126/sciadv.adg7397",
+  "pmcid": "PMC10162669",
+  "source_record_sha256": "a5063bb8ae335fad69c161b9b63242967eb2fc350d1b21bc7e20640a4fb314e9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "341903ae05eb49188c75942bcc0aeabe622fecd097a4892f5229e25d401586e0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A smart coating with integrated physical antimicrobial and strain-mapping functionalities for orthopedic implants",
+    "authors": "Zhang Y, Cui J, Chen KY, Kuo SH, Sharma J, Bhatta R, Liu Z, Ellis-Mohr A, An F, Li J, Chen Q, Foss KD, Wang H, Li Y, McCoy AM, Lau GW, Cao Q.",
+    "year": 2023,
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.adg7397",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

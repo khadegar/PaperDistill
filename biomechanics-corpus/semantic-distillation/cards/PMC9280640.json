@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9280640",
+  "paper_id": "doi:10.3389/fbioe.2022.893992",
+  "pmcid": "PMC9280640",
+  "source_record_sha256": "3a7aaf559a64704697be890ff0f1b596c31de7fd8d5dfd1233820db8fcc3a7ce",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "63cce011fc8172d6c21d2a0711438b9321a579c121fe1d8e19704da656d54b92",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Emerging Use of ASC/Scaffold Composites for the Regeneration of Osteochondral Defects",
+    "authors": "Rahman G, Frazier TP, Gimble JM, Mohiuddin OA.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.893992",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

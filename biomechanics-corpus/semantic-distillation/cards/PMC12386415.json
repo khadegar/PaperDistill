@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12386415",
+  "paper_id": "doi:10.3390/jcm14165643",
+  "pmcid": "PMC12386415",
+  "source_record_sha256": "9367665aade1aec336a8de1b4867d1430f89e0b2ef6782010aa7ac470f0fcf2b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b9bc49e0a37c924f18cadfca95a3b14f2585137feb747468877ac410fc1a3588",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Risk Factors for Rod Fracture at ≥L4-5 Levels Following Long-Segment Fusion for Adult Spinal Deformity: Results from Segment-Based Analysis",
+    "authors": "Park SJ, Park JS, Lee CS, Kang DH.",
+    "year": 2025,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm14165643",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

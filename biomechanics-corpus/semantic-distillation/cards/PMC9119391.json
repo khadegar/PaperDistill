@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9119391",
+  "paper_id": "doi:10.3389/fbioe.2022.849831",
+  "pmcid": "PMC9119391",
+  "source_record_sha256": "7f78fa7eef95f8863efd9f423c77005fe273d82392f42b428808392fd340d20a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "892a961ecacc35e21c5da62ec76c9318df563494b444567d79b934b672cbbcab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hydrogels for Tissue Engineering: Addressing Key Design Needs Toward Clinical Translation",
+    "authors": "Xu F, Dawson C, Lamb M, Mueller E, Stefanek E, Akbari M, Hoare T.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.849831",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13169556",
+  "paper_id": "doi:10.1186/s41205-026-00325-x",
+  "pmcid": "PMC13169556",
+  "source_record_sha256": "a02906c13c4bd204b15c25405d4d985509e29984570d143e1a35c9c5e3d3d8c9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "77ab067558dc40853b58db919029c553698f3c0d9bd4753b6a796b7bbb509c4e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical implementation of an EU MDR-compliant point-of-care manufacturing framework for patient-specific 3D-printed PEEK implants in craniomaxillofacial reconstruction",
+    "authors": "Sharma N, Oteiza JZ, Seiler D, Abazi S, Seifert LB, Roethlisberger M, Guzman R, Thieringer FM.",
+    "year": 2026,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-026-00325-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

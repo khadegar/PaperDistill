@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12560907",
+  "paper_id": "doi:10.3390/ani15202968",
+  "pmcid": "PMC12560907",
+  "source_record_sha256": "4231976c6711f9f5f35d45d2810e60ed4f7e87e4bccd4d42c7e5ae4d6d063949",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ff1067f1cab8a7e5062d56302843329cd3b04593b9d658f233cb6f7515fdb2c1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of Novel Biomaterials to Enhance Bone Regeneration in a Canine Non-Union Olecranon Fracture",
+    "authors": "Noh T, Jeon Y, Oh SH, Lee S, Roh Y.",
+    "year": 2025,
+    "journal": "Animals : an Open Access Journal from MDPI",
+    "doi": "10.3390/ani15202968",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

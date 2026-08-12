@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10780383",
+  "paper_id": "doi:10.3390/polym16010066",
+  "pmcid": "PMC10780383",
+  "source_record_sha256": "a86faf53b141b2bedf752ddb8141fe649daefe2d3520d0e7f67746517ec57196",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6e68c2c8ed364b1181b60c6d331aacfca6dc92e3e08a3a70ff0c8358caf0a421",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Poly-ε-Caprolactone 3D-Printed Porous Scaffold in a Femoral Condyle Defect Model Induces Early Osteo-Regeneration",
+    "authors": "De Mori A, Karali A, Daskalakis E, Hing R, Da Silva Bartolo PJ, Cooper G, Blunn G.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16010066",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

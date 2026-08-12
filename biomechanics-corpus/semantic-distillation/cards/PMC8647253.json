@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8647253",
+  "paper_id": "doi:10.1177/15593258211060950",
+  "pmcid": "PMC8647253",
+  "source_record_sha256": "449d3dd61d8e7f4bd354fb501e6dd66acabd3166f4c9d4a25172040614220868",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "115b4234da4d1aafe0c5cb3812fd5056573eb2b1ee0beab8e53394f0a012e342",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Rhinoplasty Pre-Surgery Models by Using Low-Dose Computed Tomography, Magnetic Resonance Imaging, and 3D Printing",
+    "authors": "Baldi D, Basso L, Nele G, Federico G, Antonucci GW, Salvatore M, Cavaliere C.",
+    "year": 2021,
+    "journal": "Dose-Response",
+    "doi": "10.1177/15593258211060950",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

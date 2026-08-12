@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11125049",
+  "paper_id": "doi:10.3390/polym16101303",
+  "pmcid": "PMC11125049",
+  "source_record_sha256": "9381b82548363b729117daef8ef4762b298af12c270fb55f4ea8d3d105a04e56",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5c140199f942c367af76d76f2f699b058a0e683416e81aa532427fa98d71e74f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Empowering Rehabilitation: Design and Structural Analysis of a Low-Cost 3D-Printed Smart Orthosis",
+    "authors": "Popișter F, Dragomir M, Ciudin P, Goia HȘ.",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16101303",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

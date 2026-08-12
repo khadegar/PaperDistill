@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11216820",
+  "paper_id": "doi:10.1111/os.14097",
+  "pmcid": "PMC11216820",
+  "source_record_sha256": "c424d8b4edd504821e4343d5cb30c1778c7ff4c1a6ec6e525480075fcef51d72",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ba13261459702aa36a51e04eb5a30f8fdc981e8480695d0aa7b8ee77e9926df7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D‐printed Personalized Porous Acetabular Component to Reconstruct Extensive Acetabular Bone Defects in Primary Hip Arthroplasty",
+    "authors": "Li Z, Luo Y, Lu M, Wang Y, Gong T, Hu X, He X, Zhou Y, Min L, Tu C.",
+    "year": 2024,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.14097",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

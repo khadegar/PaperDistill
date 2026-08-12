@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8584198",
+  "paper_id": "doi:10.3390/ijms222111600",
+  "pmcid": "PMC8584198",
+  "source_record_sha256": "69b8b820b3a8057ed7682c773a21cfc8323540f91d38cd38551a0709a2885a30",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d3de2540f4f37f1a43239eff5fc97f7304b37b546722205443e9641af88f1e99",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Suture Fiber Reinforcement of a 3D Printed Gelatin Scaffold for Its Potential Application in Soft Tissue Engineering",
+    "authors": "Choi DJ, Choi K, Park SJ, Kim YJ, Chung S, Kim CH.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms222111600",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

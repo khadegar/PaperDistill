@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12304003",
+  "paper_id": "doi:10.3389/fmed.2025.1560909",
+  "pmcid": "PMC12304003",
+  "source_record_sha256": "4e32614dba897ed2849f1ecb3decf6f2c7a91e78e8f31622fa272610461a23b3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "48c91d0bc95a2f20ced399a39796755e08a23a9dc6d418d0c0086f62d87c17d0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional printing in modern orthopedic trauma surgery: a comprehensive analysis of technical evolution and clinical translation",
+    "authors": "Long T, Tan L, Liu X.",
+    "year": 2025,
+    "journal": "Frontiers in Medicine",
+    "doi": "10.3389/fmed.2025.1560909",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

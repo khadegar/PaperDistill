@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9103878",
+  "paper_id": "doi:10.3390/ma15093295",
+  "pmcid": "PMC9103878",
+  "source_record_sha256": "fc651e9a7b239a5a7e778f16870844eafd54c2dad5d91c6f3fc6cb73d9ca399f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c78e5bce9cca0b024f5c7ef77559caf2a2ba9f7dd7522fe1c6228434d3c32d60",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Evaluation of Bone Atrophy and Implant Length in Four Implants Supporting Mandibular Full-Arch-Fixed Dentures",
+    "authors": "Huang HL, Tsai HL, Wu YL, Hsu JT, Wu AY.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15093295",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

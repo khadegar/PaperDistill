@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10222179",
+  "paper_id": "doi:10.3390/polym15102404",
+  "pmcid": "PMC10222179",
+  "source_record_sha256": "7819698dc422f2d0d7ee96a733c8e9b13ee2b442fa00fc93b0de98561647af5d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "232e81a68d1b198e78d4585ad6f10985d30c4a6db4f5aa6057f9e4aebf654301",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Poly(3-hydroxybutyrate) (PHB) and Polycaprolactone (PCL) Based Blends for Tissue Engineering and Bone Medical Applications Processed by FDM 3D Printing",
+    "authors": "Krobot Š, Melčová V, Menčík P, Kontárová S, Rampichová M, Hedvičáková V, Mojžišová E, Baco A, Přikryl R.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15102404",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

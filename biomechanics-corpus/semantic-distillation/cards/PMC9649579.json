@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9649579",
+  "paper_id": "doi:10.3389/fbioe.2022.1019172",
+  "pmcid": "PMC9649579",
+  "source_record_sha256": "37405c92e3c309fceb93b04ea9ce31dea89baafc539b2afa069123899b75f210",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "795ef016368c6f9d7cb8b3c5faa80fd252020938f783a7dceb485bed84e6f807",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical comparison of the undercut thread design versus conventional buttress thread for the lag screw of the dynamic hip screw system",
+    "authors": "Liu F, Feng X, Zheng J, Leung F, Chen B.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1019172",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

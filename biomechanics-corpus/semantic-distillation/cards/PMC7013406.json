@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7013406",
+  "paper_id": "doi:10.3390/ma13020473",
+  "pmcid": "PMC7013406",
+  "source_record_sha256": "ea5f1e9af60ebf000fc927bf2749531530f49fff3802e920814b14d18fd10171",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c27baf9d42d37fc1cf717b03ce69916e38b587a7a64fbfe6873c200a698b5ec4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Degradation and Biocompatibility of AZ31 Magnesium Alloy Implants In Vitro and In Vivo: A Micro-Computed Tomography Study in Rats",
+    "authors": "Kawamura N, Nakao Y, Ishikawa R, Tsuchida D, Iijima M.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13020473",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

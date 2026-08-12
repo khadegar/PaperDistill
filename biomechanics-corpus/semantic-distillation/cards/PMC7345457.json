@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7345457",
+  "paper_id": "doi:10.3390/ma13122813",
+  "pmcid": "PMC7345457",
+  "source_record_sha256": "aa9b7c57e287c11685990ff88b20a139fc65645a360c01e5f3c7ffa68046b9ac",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5f06155ff96a16835761ac399cda0ae38c3261e9b4a5d921a450cf5d6ad7f527",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Selective Laser Melting of Ti-6Al-4V: The Impact of Post-processing on the Tensile, Fatigue and Biological Properties for Medical Implant Applications",
+    "authors": "Jamshidi P, Aristizabal M, Kong W, Villapun V, Cox SC, Grover LM, Attallah MM.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13122813",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

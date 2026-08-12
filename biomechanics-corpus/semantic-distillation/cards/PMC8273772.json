@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8273772",
+  "paper_id": "doi:10.3340/jkns.2020.0272",
+  "pmcid": "PMC8273772",
+  "source_record_sha256": "3fe08cd869e2856c871a71dc25aa2cb9738b40e46333d87611fa2db2b6aaea5f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "12e8de62571d70130198db97c63699e191a2c731163bfd36d3ecddf4a86bf641",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Implications of 3-Dimensional Printed Spinal Implants on the Outcomes in Spine Surgery",
+    "authors": "Fiani B, Newhouse A, Cathel A, Sarhadi K, Soula M.",
+    "year": 2021,
+    "journal": "Journal of Korean Neurosurgical Society",
+    "doi": "10.3340/jkns.2020.0272",
+    "publication_type": "review-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

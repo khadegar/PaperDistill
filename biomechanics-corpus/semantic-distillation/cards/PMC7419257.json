@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7419257",
+  "paper_id": "doi:10.1016/j.bioactmat.2020.07.015",
+  "pmcid": "PMC7419257",
+  "source_record_sha256": "cb3a22f4409dc58b54ab585bb8d1d812118e710161aa9f8f289949b944190df1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0bcd9a661c1085a223a900b1d1443f06b7ff19f0ee6e6a525de926aa7df09308",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preservation of alveolar ridge height through mechanical memory: A novel dental implant design",
+    "authors": "Yin S, Zhang W, Tang Y, Yang G, Wu X, Lin S, Liu X, Cao H, Jiang X.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2020.07.015",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

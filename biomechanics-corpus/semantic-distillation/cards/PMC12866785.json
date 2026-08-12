@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12866785",
+  "paper_id": "doi:10.1002/advs.202512723",
+  "pmcid": "PMC12866785",
+  "source_record_sha256": "b30c5244d7ed9f3326b0a84da4643bad4b48d3dc6df3b66eaf7a61c50c81c961",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8ca47f83dbd659fa03412c762c69e1eafed5325191c95c59cd8a1420f68c4af5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Injectable and In Situ Hydration‐Reinforced Hybrid Bone Cements for Accelerated Bone Regeneration",
+    "authors": "Chen X, Ma Y, Zhao L, Che L, Song D, Wu Z, Liu C, Yuan Y.",
+    "year": 2025,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202512723",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

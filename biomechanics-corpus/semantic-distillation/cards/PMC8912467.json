@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8912467",
+  "paper_id": "doi:10.3390/polym14050857",
+  "pmcid": "PMC8912467",
+  "source_record_sha256": "f937a3ccaa8c9f3af22cbc203f3421621437630d8e04b1a4fd96b21c27376522",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "447812eb6a9d401068d41561e9168b825b54c1329d415725eedfdbd7844587b0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed Scaffold Based on Type I Collagen/PLGA_TGF-β1 Nanoparticles Mimicking the Growth Factor Footprint of Human Bone Tissue",
+    "authors": "Banche-Niclot F, Licini C, Montalbano G, Fiorilli S, Mattioli-Belmonte M, Vitale-Brovarone C.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14050857",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

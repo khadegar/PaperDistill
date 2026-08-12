@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9694341",
+  "paper_id": "doi:10.3390/md20110670",
+  "pmcid": "PMC9694341",
+  "source_record_sha256": "a765673635a703dbe94fad8700536f7aa7cf2733bb4bd7ed3fbb572f7e26164b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "25837e8755505605553a356c911e19ab5771249381eb5eb9eda3f34e644ccfce",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of Biocomposite Alginate-Cuttlebone-Gelatin 3D Printing Inks Designed for Scaffolds with Bone Regeneration Potential",
+    "authors": "Curti F, Serafim A, Olaret E, Dinescu S, Samoila I, Vasile BS, Iovu H, Lungu A, Stancu IC, Marinescu R.",
+    "year": 2022,
+    "journal": "Marine Drugs",
+    "doi": "10.3390/md20110670",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

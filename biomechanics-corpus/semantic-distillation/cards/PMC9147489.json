@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9147489",
+  "paper_id": "doi:10.3390/nano12101619",
+  "pmcid": "PMC9147489",
+  "source_record_sha256": "8796db198e87f449a9302d433f41410a16bdcd244d222ae38929d697b092b4bd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "09fa4d76b7c1f0bbf4762551da9620c7c655ccd1def098a78ab5e79188876afc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Polarization of Femtosecond Laser for Titanium Alloy Nanopatterning Influences Osteoblastic Differentiation",
+    "authors": "Maalouf M, Abou Khalil A, Di Maio Y, Papa S, Sedao X, Dalix E, Peyroche S, Guignandon A, Dumas V.",
+    "year": 2022,
+    "journal": "Nanomaterials",
+    "doi": "10.3390/nano12101619",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

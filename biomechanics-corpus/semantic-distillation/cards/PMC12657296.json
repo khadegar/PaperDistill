@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12657296",
+  "paper_id": "doi:10.1016/j.xrrt.2025.100591",
+  "pmcid": "PMC12657296",
+  "source_record_sha256": "c813207d4c19b7e2437b8c27114fc0ab0b2772204f120cca8d8dba8edce397bd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "df0da42fa31daf4279f66fe3e93b0c185ba8659ce5c72b8459c1987d3a30c20c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A comparison between a patient-specific bone regenerative implant and the osteochondral allograft procedure in a Hill-Sachs lesion, a cadaveric study",
+    "authors": "Gałek-Aldridge MS, Willemsen K, Nelissen SH, van der Wal BCH, Malda J, van den Bekerom MPJ, van Noort A.",
+    "year": 2025,
+    "journal": "JSES Reviews, Reports, and Techniques",
+    "doi": "10.1016/j.xrrt.2025.100591",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

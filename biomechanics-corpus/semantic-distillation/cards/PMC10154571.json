@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10154571",
+  "paper_id": "doi:10.3389/fbioe.2023.1152577",
+  "pmcid": "PMC10154571",
+  "source_record_sha256": "134c66008f2e0534c0d2eab4dba9737b96a2198d3d45894842842fd4025f3993",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "60ae80a0ff9ec63945afdf7507709068ef32195a24c41ccdad8b32397585fd59",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hemocompatibility of cellulose phosphate aerogel membranes with potential use in bone tissue engineering",
+    "authors": "Schimper CB, Pachschwöll P, Maitz MF, Werner C, Rosenau T, Liebner F.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1152577",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

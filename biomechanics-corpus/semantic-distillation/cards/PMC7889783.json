@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7889783",
+  "paper_id": "doi:10.1186/s40658-021-00360-z",
+  "pmcid": "PMC7889783",
+  "source_record_sha256": "39a69bee340a4d1bcabb2b5396c21cf308e5f1608bed6a8368a5b0e586190143",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e2d51f8bf39788e4038ae6b45926f5b8b5012c6e49ddecbb20e94c54d166e594",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Quantitative imaging of bone remodeling in patients with a unicompartmental joint unloading knee implant (ATLAS Knee System)—effect of metal artifacts on a SPECT-CT-based quantification",
+    "authors": "Grosser OS, Klutzny M, Wissel H, Kupitz D, Finger M, Schenke S, Wuestemann J, Lohmann CH, Hoeschen C, Pech M, Staerke C, Kreissl MC.",
+    "year": 2021,
+    "journal": "EJNMMI Physics",
+    "doi": "10.1186/s40658-021-00360-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

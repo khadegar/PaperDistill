@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7588630",
+  "paper_id": "doi:10.1016/j.sdentj.2019.10.005",
+  "pmcid": "PMC7588630",
+  "source_record_sha256": "3e15352352142e7c266ad2dfd81489fac1dcf6a1819379305cf2facf31b632f5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c4b9a3875d1ffe84683f624262fc1b407c04407aa758680903a6c2191d4087a1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element modeling of the periodontal ligament under a realistic kinetic loading of the jaw system",
+    "authors": "Karimi A, Razaghi R, Biglari H, Rahmati SM, Sandbothe A, Hasani M.",
+    "year": 2020,
+    "journal": "The Saudi Dental Journal",
+    "doi": "10.1016/j.sdentj.2019.10.005",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

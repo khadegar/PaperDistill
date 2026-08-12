@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10229770",
+  "paper_id": "doi:10.3389/fcell.2023.1208239",
+  "pmcid": "PMC10229770",
+  "source_record_sha256": "e2e925578803b20a9205155a8bf0c7fc446160139b8c57eb0ffc75a286525d12",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "acf4f92604aeb094573efc43dc015e521165cb743265bb89f1de3eb73aba6ace",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Overexpression of fibroblast growth factor receptor 2 in bone marrow mesenchymal stem cells enhances osteogenesis and promotes critical cranial bone defect regeneration",
+    "authors": "Zhou Y, Zhu P, Shen S, Wang Y, Li B, Guo B, Li H.",
+    "year": 2023,
+    "journal": "Frontiers in Cell and Developmental Biology",
+    "doi": "10.3389/fcell.2023.1208239",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

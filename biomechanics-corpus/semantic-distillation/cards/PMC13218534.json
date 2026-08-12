@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13218534",
+  "paper_id": "doi:10.1371/journal.pone.0349708",
+  "pmcid": "PMC13218534",
+  "source_record_sha256": "87f479d340a74015e3c9de837cc7c154cf18109488bab9a780abd047d25b6de1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "450d23b6a5ae4dcbc61ea41e9ab3b449a9db89865122f459df9f4ffba995bc46",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tissue scaffold architecture affects implant degradation and bone tissue regeneration: A novel in silico mechanobiological model analysing cell behavior, mechanical stress and degradation kinematics",
+    "authors": "Alshammari A, Alabdah F, Li L, Cooper G.",
+    "year": 2026,
+    "journal": "PLOS One",
+    "doi": "10.1371/journal.pone.0349708",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

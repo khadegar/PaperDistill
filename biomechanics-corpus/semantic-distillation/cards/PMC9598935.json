@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9598935",
+  "paper_id": "doi:10.3390/bioengineering9100483",
+  "pmcid": "PMC9598935",
+  "source_record_sha256": "86e6eb6e296c8bbedcf78dc078d15faac0f9b424b06ecee064e26fe0d22542de",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8af38024657fc673f8ad97e1eab3d3f23a7e262cebbd23a2d5aeec1e57ce0892",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of a New Non-Engaging Abutment System for Three-Unit Implant-Supported Fixed Dental Prostheses",
+    "authors": "Byun SH, Seo JH, Cho RY, Yi SM, Kim LK, Han HS, On SW, Kim WH, An HW, Yang BE.",
+    "year": 2022,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering9100483",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

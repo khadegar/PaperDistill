@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8170092",
+  "paper_id": "doi:10.3389/fbioe.2021.661837",
+  "pmcid": "PMC8170092",
+  "source_record_sha256": "104376c9b71844827fe68fbd9a54f54fc205eba207341120daf134eb044cf1c9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c4677aa610c24557aadd256ba3bdebeaef1b16902f71511adf7b1245135dc364",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Maintaining Bone Health in the Lumbar Spine: Routine Activities Alone Are Not Enough",
+    "authors": "Favier CD, McGregor AH, Phillips ATM.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.661837",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

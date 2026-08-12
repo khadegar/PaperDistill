@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10672244",
+  "paper_id": "doi:10.3390/jfb14110543",
+  "pmcid": "PMC10672244",
+  "source_record_sha256": "18c686487aab914d4cbff5349e77a4f2637851533297e0dd7b7649ffd4b402ab",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "536c6b10bf798e0f2b5ec76a1d6b36fa3276cce3e554f969cd28ac7ae975d28f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent Progress of In Vitro 3D Culture of Male Germ Stem Cells",
+    "authors": "Wu J, Kang K, Liu S, Ma Y, Yu M, Zhao X.",
+    "year": 2023,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb14110543",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11274170",
+  "paper_id": "doi:10.3390/bioengineering11070719",
+  "pmcid": "PMC11274170",
+  "source_record_sha256": "dfb802dc5c0df69c85ca2d7a3cb8319faebbe52b9d45e249c51a24b28ff7ef00",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cfdb554944c62f0207cb5f1e62d11307a7cad17cd4a7058d6beb76ccd3c17fa2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensionally Printed Agarose Micromold Supports Scaffold-Free Mouse Ex Vivo Follicle Growth, Ovulation, and Luteinization",
+    "authors": "Zaniker EJ, Hashim PH, Gauthier S, Ankrum JA, Campo H, Duncan FE.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11070719",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

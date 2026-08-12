@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10013736",
+  "paper_id": "doi:10.1039/d2ra07464h",
+  "pmcid": "PMC10013736",
+  "source_record_sha256": "31ada279c772abc954757a2d9200e55e70049e7d492034c277afa310637b9c0f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8817c123508529ed43ec0dba2d77502fd9038279cb1bf4a5e19c5f3b2371a313",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biocompatible polymers with tunable mechanical properties and conductive functionality on two-photon 3D printing †",
+    "authors": "Men L, Wang K, Hu N, Wang F, Deng Y, Zhang W, Yin R.",
+    "year": 2023,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d2ra07464h",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

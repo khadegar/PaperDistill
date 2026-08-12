@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11638290",
+  "paper_id": "doi:10.1007/s00701-024-06393-4",
+  "pmcid": "PMC11638290",
+  "source_record_sha256": "67ac5e2774df0b9f0faf94dc90f76ff851295a964e18360b75ca04d62a50b3af",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "85b9e221ee1478e8a4d111e3c0430750374af0d10dbee5c35168656c48c7375a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Single-step 3D printing aided cranio-orbital reconstruction with patient specific polyetheretherketone implants after resection of benign spheno-orbital tumors",
+    "authors": "Rezai A, Pöppe JP, Gaggl A, Griessenauer CJ, Schwartz C, Krainz H, Ueberschaer M, Mercea PA, Enzinger S.",
+    "year": 2024,
+    "journal": "Acta Neurochirurgica",
+    "doi": "10.1007/s00701-024-06393-4",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

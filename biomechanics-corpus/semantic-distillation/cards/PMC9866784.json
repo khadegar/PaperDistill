@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9866784",
+  "paper_id": "doi:10.3390/polym15020269",
+  "pmcid": "PMC9866784",
+  "source_record_sha256": "e09ab3e31ae518278e1389bdcc4fa3a63419e759b1c8af23a126adeb581fa40c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d7fc9ecd0fd8b7db1de6e5155b027d6f1440f8e3dc05843ce11a989bee57a9e1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Facile Surface Treatment of 3D-Printed PLA Filter for Enhanced Graphene Oxide Doping and Effective Removal of Cationic Dyes",
+    "authors": "Park SS, Lee YS, Lee SW, Repo E, Kim TH, Park Y, Hwang Y.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15020269",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

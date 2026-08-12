@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8381388",
+  "paper_id": "doi:10.1302/1863-2548.15.210095",
+  "pmcid": "PMC8381388",
+  "source_record_sha256": "62e2eecbcc4bfc74fd94c8f670fde8e0e4ec9a4b7a38837552233b5eef6bb961",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "221a9eb6c1ee1ead95b694bea6ad638e95875f221aeccc684a2f7bbb5e3d563a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biology and technology in the surgical treatment of malignant bone tumours in children and adolescents, with a special note on the very young",
+    "authors": "van der Heijden L, Farfalli GL, Balacó I, Alves C, Salom M, Lamo-Espinosa JM, San-Julián M, van de Sande MAJ.",
+    "year": 2021,
+    "journal": "Journal of Children's Orthopaedics",
+    "doi": "10.1302/1863-2548.15.210095",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

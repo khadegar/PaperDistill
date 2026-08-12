@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13043221",
+  "paper_id": "doi:10.1016/j.dental.2025.09.013",
+  "pmcid": "PMC13043221",
+  "source_record_sha256": "1da73cf3ebdc7262fcdc0bb13f70a6f6cdb0adb314fda11cccd252b36beed72b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "edae7356342246b2f50b4485173adcdbb57b31c112129502a46eeac6576ee3ef",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of fused deposition modeling parameters on the mechanical and thermal properties of 3D-printed PEEK dental endosseous implants",
+    "authors": "Sonaye SY, Elhattab K, Duncan LR, Dharmavarapu SR, Nayak VV, Noshahri EN, Sherigar NC, Owusu-Danquah JS, Witek L, Bottino MC, Sikder P.",
+    "year": 2025,
+    "journal": "Dental materials : official publication of the Academy of Dental Materials",
+    "doi": "10.1016/j.dental.2025.09.013",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

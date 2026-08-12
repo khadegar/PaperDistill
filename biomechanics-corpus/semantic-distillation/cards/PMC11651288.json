@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11651288",
+  "paper_id": "doi:10.1039/d4ra05889e",
+  "pmcid": "PMC11651288",
+  "source_record_sha256": "41313009db4618db16e749b66d266c12c624ff0d37b60cd9ec808159c40d3a5c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4cfb8680cf4f4f76e3b4f358803f8f969910e5cddcbc839227e514985e1b98b5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Functionalization of 3D printed poly(lactic acid)/graphene oxide/β-tricalcium phosphate (PLA/GO/TCP) scaffolds for bone tissue regeneration application",
+    "authors": "Sánchez-Cepeda A, Pazos MC, Leonardo PA, Ingrid SC, Correa-Araujo LS, María de Lourdes CG, Vera-Graziano R.",
+    "year": 2024,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d4ra05889e",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

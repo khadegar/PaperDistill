@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9554004",
+  "paper_id": "doi:10.3389/fbioe.2022.998254",
+  "pmcid": "PMC9554004",
+  "source_record_sha256": "6f785181ccc8bd04a81a56f0341c54e27ac8eb926c1f603f83d1085cc1861218",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6c62f9d6ffbab72763c6b4c78b340165c4ee659de58db312ac41c2bbad72400d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of degradation behavior and osseointegration of 3D powder-printed calcium magnesium phosphate cement scaffolds with alkaline or acid post-treatment",
+    "authors": "Kowalewicz K, Waselau AC, Feichtner F, Schmitt AM, Brückner M, Vorndran E, Meyer-Lindenberg A.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.998254",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13219562",
+  "paper_id": "doi:10.1186/s10195-026-00919-5",
+  "pmcid": "PMC13219562",
+  "source_record_sha256": "d10bf1804100f0b670403fd5535efbc722b44761ccbc22d4b178e6576b448a36",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "474223043eef9e9f5d5a90e3a49d405f02dea2c0a6aa37984ac328dfa145169f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "From bench to bedside: a novel suture-augmented prosthesis for greater trochanteric fixation in osteoporotic hip arthroplasty",
+    "authors": "Yang M, Yang J, Wang X, Wu Z, Bian S, Sheng R, Liao F, Qin K, Zhang C, Yuan H, Ding X, Xie C, Ma G, Chang J.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedics and Traumatology : Official Journal of the Italian Society of Orthopaedics and Traumatology",
+    "doi": "10.1186/s10195-026-00919-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

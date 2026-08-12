@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10291817",
+  "paper_id": "doi:10.1186/s13018-023-03905-3",
+  "pmcid": "PMC10291817",
+  "source_record_sha256": "cf01874ea8400a3285641d84bcb9773cc45c0a8d17828b2d3196cd09252deb25",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "58e496f557cff28a837b07515fa9b98bd9c9db195bbf8e614029ab35199e7981",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical properties of different anterior and posterior techniques for atlantoaxial fixation: a finite element analysis",
+    "authors": "Li J, Cao S, Guo D, Lu T, Zang Q.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-03905-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12805757",
+  "paper_id": "doi:10.1186/s13005-025-00556-z",
+  "pmcid": "PMC12805757",
+  "source_record_sha256": "6ade3ef328d7f1a1c23b9d182ef50f007356578fa73d166ce5a26881b27b7220",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5ed30cd894638c18eae9ae4accc47de61a7d061dc2f027e71a7195d5c814e1a4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Zirconia vs. titanium dental implants in maxillofacial trauma: a preliminary comparative biomechanical analysis in the maxilla using the finite element method",
+    "authors": "Krennmair S, Postl L, Staudigl C, Malek M, Otto S, Hof M.",
+    "year": 2025,
+    "journal": "Head & Face Medicine",
+    "doi": "10.1186/s13005-025-00556-z",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

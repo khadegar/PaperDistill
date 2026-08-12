@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13123499",
+  "paper_id": "doi:10.1016/j.jot.2026.101091",
+  "pmcid": "PMC13123499",
+  "source_record_sha256": "6935b2680011249dd1ab5f5febe7647b812bd5dc78c2d96a7aedb539edc3a8b9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b6a931769110131e952dbc4d60329def0036561d2ff81d9b5e97ec787471c1ba",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Metallic topological structures in bone repair implants: Design, properties, and biological interactions",
+    "authors": "Wang Y, Ma Y, Tong S, Wang Y, Jiang W, Tian B, Zhang Z, Yang K, Yang S.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2026.101091",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

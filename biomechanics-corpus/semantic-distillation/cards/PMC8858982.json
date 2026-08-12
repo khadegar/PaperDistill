@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8858982",
+  "paper_id": "doi:10.3389/fbioe.2021.798393",
+  "pmcid": "PMC8858982",
+  "source_record_sha256": "63d1b9a33d26fb631fece50af55b8bba566a410a5dd9fa1abe49b82bf791eef2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8b494d0b6fc63399dc96ac81a898b042f34d2b1be5d65922c47b38ca73173951",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent Advances in Vertical Alveolar Bone Augmentation Using Additive Manufacturing Technologies",
+    "authors": "Vaquette C, Mitchell J, Ivanovski S.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.798393",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

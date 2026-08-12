@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11429239",
+  "paper_id": "doi:10.3390/bioengineering11090898",
+  "pmcid": "PMC11429239",
+  "source_record_sha256": "1516b9c01e59b9123b0c43ada8681192dfee56badf78b860c0bbf67dd3d4edff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "44086c8acb40ab7e8b0ad924916f48ed23e47a717e52af6adb731d7eeb824641",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparing the Immune Response to PEEK as an Implant Material with and without P-15 Peptide as Bone Graft Material in a Rabbit Long Bone Model",
+    "authors": "Cheng BC, Swink IR, Cheng CT, Corcoran OG, Wang VZ, McClain EJ, Vyas PS, Owen I, Xu C, Altman DT, Yu AK.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11090898",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

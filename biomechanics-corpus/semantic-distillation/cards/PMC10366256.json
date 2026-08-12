@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10366256",
+  "paper_id": "doi:10.1007/s10237-023-01728-z",
+  "pmcid": "PMC10366256",
+  "source_record_sha256": "eb3fb768ff054de0dee6ac0fb776ee3f461ac1c5e65c9b9ba6e50fde7948d794",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "80515f0b0c76d669b87f578f526253f2a32da0e99b9b725f8dc15c2dec39fd7d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Extended mechanical loads for the analysis of acetabular cages",
+    "authors": "Dóczi MO, Sződy R, Zwierczyk PT.",
+    "year": 2023,
+    "journal": "Biomechanics and Modeling in Mechanobiology",
+    "doi": "10.1007/s10237-023-01728-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

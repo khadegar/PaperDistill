@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6396545",
+  "paper_id": "doi:10.1186/s12893-019-0491-y",
+  "pmcid": "PMC6396545",
+  "source_record_sha256": "bc83304f08d17e99132c53340588734e984ebda4bf50269be179f47ad29f0d57",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d2cf1154cb5d248431cf580e90532e372b99318dbba28764aaba42f99454e65c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A three-dimensional printed porous implant combined with bone grafting following curettage of a subchondral giant cell tumour of the proximal tibia: a case report",
+    "authors": "Lu M, Wang J, Tang F, Min L, Zhou Y, Zhang W, Tu C.",
+    "year": 2019,
+    "journal": "BMC Surgery",
+    "doi": "10.1186/s12893-019-0491-y",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

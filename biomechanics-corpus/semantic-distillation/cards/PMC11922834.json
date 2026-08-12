@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11922834",
+  "paper_id": "doi:10.3389/fbioe.2025.1441026",
+  "pmcid": "PMC11922834",
+  "source_record_sha256": "0ffadf81074057711644988dfcca082bae300404993b82dd243cde6f5e09bf62",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "be20101d5662eea5500b353549b4d6748e2c70ebd804aa53b06e09fd0644e9c8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluating femoral head collapse risk post-fixation removal: a finite element analysis",
+    "authors": "Li X, Zhou X, Yang J, Böker KO, Schilling AF, Lehmann W.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1441026",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

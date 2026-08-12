@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9668581",
+  "paper_id": "doi:10.18063/ijb.v8i4.613",
+  "pmcid": "PMC9668581",
+  "source_record_sha256": "96b624da8b1c70c6c3082e6d0a9fcc916395250be6ad7ace5859a9b4b4581511",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e0d8797afc888f3616ee55bb543b96aefb6819a7ef442b0eaa4aa3ce5de65982",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preparation and Characterization of 3D Printed Porous 45S5 Bioglass Bioceramic for Bone Tissue Engineering Application",
+    "authors": "Dong Z, Gong J, Zhang H, Ni Y, Cheng L, Song Q, Tang L, Xing F, Liu M, Zhou C.",
+    "year": 2022,
+    "journal": "International Journal of Bioprinting",
+    "doi": "10.18063/ijb.v8i4.613",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

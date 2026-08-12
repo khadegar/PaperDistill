@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9774638",
+  "paper_id": "doi:10.3390/antibiotics11121719",
+  "pmcid": "PMC9774638",
+  "source_record_sha256": "9bad9a6d37e97eca1b3ef1be0dbfa8f007cdb1f64df9c669564442d01c612bed",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "463b11c6e863bb6fe62d794fa7efd450f8a12e7ae6bf99a4a1b44e1e71ec1ce9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Antibacterial Coatings for Titanium Implants: Recent Trends and Future Perspectives",
+    "authors": "Akshaya S, Rowlo PK, Dukle A, Nathanael AJ.",
+    "year": 2022,
+    "journal": "Antibiotics",
+    "doi": "10.3390/antibiotics11121719",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

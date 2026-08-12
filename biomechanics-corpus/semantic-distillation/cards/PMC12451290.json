@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12451290",
+  "paper_id": "doi:10.1016/j.jot.2025.08.008",
+  "pmcid": "PMC12451290",
+  "source_record_sha256": "6308a34268eca36ac47b5015189a9e34a640efaf4b4b9e722c1d2c8f7367977b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a9cd7f1ea700c02835a3e9b7d74e33c8447f21ea7e018b217b9c5417b754ebf6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D bioprinting bone/cartilage organoids: construction, applications, and challenges",
+    "authors": "Gao D, Li R, Pan J, Li C, Zhang W, Qin L, Lai Y.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2025.08.008",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

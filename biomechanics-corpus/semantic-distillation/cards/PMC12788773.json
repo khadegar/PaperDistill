@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12788773",
+  "paper_id": "doi:10.52312/jdrs.2026.2455",
+  "pmcid": "PMC12788773",
+  "source_record_sha256": "a6893c49c3b306fbb52cc1180687f8be79d48a3189219bf229d2837601d0c580",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "25bce58401d1465aab6cf4425e389867cd4e09e41d35573e4d590fb1ed4f95e2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In case effects of proximal fibular osteotomy and total knee arthroplasty on load distribution in the human knee: A comparative finite element study",
+    "authors": "Ari B, Canlidinç M, Yaşar N, Gedik MA.",
+    "year": 2025,
+    "journal": "Joint Diseases and Related Surgery",
+    "doi": "10.52312/jdrs.2026.2455",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

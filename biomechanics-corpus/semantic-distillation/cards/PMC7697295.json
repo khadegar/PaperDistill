@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7697295",
+  "paper_id": "doi:10.3390/ma13225083",
+  "pmcid": "PMC7697295",
+  "source_record_sha256": "abbbf73ac021b4c72cad5d79cf2953fb6ca3b9a4479ffac1dc7801373de6f28b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e4ec28af65db1a011beb8bedd244e671642d44cc02a00f7f6bdb8e91d716b797",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advances in Biodegradable 3D Printed Scaffolds with Carbon-Based Nanomaterials for Bone Regeneration",
+    "authors": "Armentia SL, Real JCD, Paz E, Dunne N.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13225083",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9959288",
+  "paper_id": "doi:10.3390/medicina59020249",
+  "pmcid": "PMC9959288",
+  "source_record_sha256": "6c26472863f29b9a0c79d914bb4e178a21884f5e3dc056745d3fa4f6446b1471",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e4eaba5481662035bb5a63874d5c8071481cea6b15a17f83601629ff67260047",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Possibilities of Personalized 3D Printed Implants—A Case Series Study",
+    "authors": "Safali S, Berk T, Makelov B, Acar MA, Gueorguiev B, Pape HC.",
+    "year": 2023,
+    "journal": "Medicina",
+    "doi": "10.3390/medicina59020249",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10853759",
+  "paper_id": "doi:10.1002/advs.202306428",
+  "pmcid": "PMC10853759",
+  "source_record_sha256": "6d46a0f25127a9d1fa2c41c74e2b6f55c33660d6995ae32f618595089f165af0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c369325a129bc43091d9c9e646913c6093842ec796d4a39d0a1d1257a887e3c0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three Birds, One Stone: An Osteo‐Microenvironment Stage‐Regulative Scaffold for Bone Defect Repair through Modulating Early Osteo‐Immunomodulation, Middle Neovascularization, and Later Osteogenesis",
+    "authors": "Yuan Y, Yuan Y, Xu Y, Mao Y, Liu H, Ou M, Lin Z, Zhao R, Long H, Cheng L, Sun B, Zhao S, Zeng M, Lu B, Lu H, Zhu Y, Chen C.",
+    "year": 2023,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202306428",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

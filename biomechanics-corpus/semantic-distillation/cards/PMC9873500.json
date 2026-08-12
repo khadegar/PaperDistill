@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9873500",
+  "paper_id": "doi:10.1016/j.artd.2022.101089",
+  "pmcid": "PMC9873500",
+  "source_record_sha256": "0df0474535b48f316b28fe696504542bfb65c772a06273f43a522971fab356e5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "22145deccd4c33447ba6927626016cf812497f09725e2121fa1c833f15a23fab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Custom Device to Couple Proximal and Distal Femoral Stems: A Case Report and Literature Review",
+    "authors": "Corces A, Heifner J, Zavurov G.",
+    "year": 2023,
+    "journal": "Arthroplasty Today",
+    "doi": "10.1016/j.artd.2022.101089",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

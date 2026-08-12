@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10550753",
+  "paper_id": "doi:10.1016/j.tcr.2023.100937",
+  "pmcid": "PMC10550753",
+  "source_record_sha256": "f2a572193ceca538b8f1599a1863b4973f096bbf8aedcc8a7cac473321f43fdf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cd2cf933f95bced97014fd48e452074a7b7c3d6d330bb99304ccfa62f8e3d00d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Management of tibial nonunion and osteoarthritis using a 3D-printed titanium cone: A case report",
+    "authors": "Vaziri AS, Moradkhani G, Karimpour M, Tahmasebi MN, Esfandiary S, Vosoughi F, Hosseini SR.",
+    "year": 2023,
+    "journal": "Trauma Case Reports",
+    "doi": "10.1016/j.tcr.2023.100937",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

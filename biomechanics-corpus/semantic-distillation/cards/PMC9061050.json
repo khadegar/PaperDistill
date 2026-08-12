@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9061050",
+  "paper_id": "doi:10.1155/2022/2801229",
+  "pmcid": "PMC9061050",
+  "source_record_sha256": "2491fa805b4a69f7d3d7f36824732567cb4a29187ea55c810c74be025ad75f64",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9a8192efaf8732702fe37ceb47ca17543d6073867550ae6b913e83b9cd591de2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Pore Size of Porous-Structured Titanium Implants on Tendon Ingrowth",
+    "authors": "Guo Y, Liu F, Bian X, Lu K, Huang P, Ye X, Tang C, Li X, Wang H, Tang K.",
+    "year": 2022,
+    "journal": "Applied Bionics and Biomechanics",
+    "doi": "10.1155/2022/2801229",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

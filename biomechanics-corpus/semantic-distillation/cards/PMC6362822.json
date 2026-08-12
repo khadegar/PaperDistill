@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6362822",
+  "paper_id": "doi:10.1093/rb/rby024",
+  "pmcid": "PMC6362822",
+  "source_record_sha256": "e2a36039b3abdffabf072cf9ffda40d8c06288d1be2100ed6394999ad9487bfb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "86a0a0b4fd70e9601a34ac01582daed98b8efa26e23cdc3662a454ff036c3fc9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed bioactive scaffolds from nanosilicates and PEOT/PBT for bone tissue engineering",
+    "authors": "Carrow JK, Di Luca A, Dolatshahi-Pirouz A, Moroni L, Gaharwar AK.",
+    "year": 2018,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rby024",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

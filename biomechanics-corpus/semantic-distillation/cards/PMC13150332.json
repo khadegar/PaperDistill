@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13150332",
+  "paper_id": "doi:10.1530/eor-2026-0069",
+  "pmcid": "PMC13150332",
+  "source_record_sha256": "a7c1920c3ddecc47004c9d324ebff8fd94cc2a447f9e2cd196d9df124b235056",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4a601c421d4ffa7375f475bad28536985e03aac8ce02f261f9574ca21c031749",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "‘THA for DDH: replacement principles and techniques – femoral side’",
+    "authors": "Konstantinidis K, Grammatikopoulos D, Kenanidis E, Maslaris A, Dantas P, Tsiridis E.",
+    "year": 2026,
+    "journal": "EFORT Open Reviews",
+    "doi": "10.1530/eor-2026-0069",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

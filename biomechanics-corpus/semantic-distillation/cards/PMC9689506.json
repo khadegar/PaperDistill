@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9689506",
+  "paper_id": "doi:10.3390/gels8110748",
+  "pmcid": "PMC9689506",
+  "source_record_sha256": "484d6d7fee6afec69f62ae4cb46ab45a81942e292477a97055300afc956ccbe8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6de07bf776a1e468e70c9ea4a9a639992e76d67d472ea4ac91046bc283501b96",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Natural Materials for 3D Printing and Their Applications",
+    "authors": "Su C, Chen Y, Tian S, Lu C, Lv Q.",
+    "year": 2022,
+    "journal": "Gels",
+    "doi": "10.3390/gels8110748",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

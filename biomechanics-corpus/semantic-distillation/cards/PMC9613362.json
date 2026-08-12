@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9613362",
+  "paper_id": "doi:10.2185/jrm.2022-032",
+  "pmcid": "PMC9613362",
+  "source_record_sha256": "156071c0d435c1513a5fa25e2d271840412f5055a894c33fb00fd244d361bfd2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "182bbcf4d0034a96bafdffdf5878a2129449f80101371eff504c03a3cea8b28c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Iatrogenic distal femur fracture following medial femoral supracondylar bone graft harvest: a case report and finite element analysis",
+    "authors": "Sakamoto S, Hattori Y, Doi K, Yamagata H, Nishida N, Sakai T.",
+    "year": 2022,
+    "journal": "Journal of Rural Medicine : JRM",
+    "doi": "10.2185/jrm.2022-032",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

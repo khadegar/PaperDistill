@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4561899",
+  "paper_id": "doi:10.1038/srep13775",
+  "pmcid": "PMC4561899",
+  "source_record_sha256": "bcd90d18ce8dcb21237252e6005f9e0bf047070488b160486e008dfaa90d77e7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e1d074cb7271014d47a506a14b2d3c95f80217246cb2fb1f23ac50bd198fdcc4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bacterial inhibition potential of 3D rapid-prototyped magnesium-based porous composite scaffolds–an in vitro efficacy study",
+    "authors": "Ma R, Lai YX, Li L, Tan HL, Wang JL, Li Y, Tang TT, Qin L.",
+    "year": 2015,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep13775",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

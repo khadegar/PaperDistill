@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12295332",
+  "paper_id": "doi:10.3390/jfb16070237",
+  "pmcid": "PMC12295332",
+  "source_record_sha256": "88ac53c07cb2f99dc8e4f5fc3b66854f8546c4b35168ee7db3c5ab71a7ce96c6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d0fcdda57e93310c1fb684b1fcd1d1479b04bbe1093976d142ba6bea4cd3bd64",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Morphometric, Biomechanical and Macromolecular Performances of β-TCP Macro/Micro-Porous Lattice Scaffolds Fabricated via Lithography-Based Ceramic Manufacturing for Jawbone Engineering",
+    "authors": "Mangano C, Riberti N, Orilisi G, Tecco S, Furlani M, Giommi C, Mengucci P, Giorgini E, Giuliani A.",
+    "year": 2025,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb16070237",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

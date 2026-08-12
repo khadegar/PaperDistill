@@ -1,0 +1,222 @@
+{
+  "study": {
+    "article_kind": "computational_method_agreement_and_efficiency_study",
+    "design_features": [
+      "topology_based_microstructure_generation",
+      "global_vs_localized_FE",
+      "static_condensation_local_loads",
+      "SIMP_density_design",
+      "three_proximal_femur_ROIs",
+      "three_ROI_sizes",
+      "three_weighted_load_cases",
+      "two_dimensional_synthetic_femur",
+      "no_high_resolution_ground_truth"
+    ],
+    "research_problem": "Topology optimization can generate mechanically plausible trabecular microstructure below routine CT resolution, but repeated global FE makes it computationally expensive.",
+    "exact_gap": "A localized ROI formulation using condensed local loads had not been quantitatively compared with the conventional global-model formulation for computational cost and output agreement (S001:C01-S003:C01).",
+    "objective_or_hypothesis": "Hold the reconstruction objective and inputs constant, compare global and localized topology optimization in three proximal-femur regions/sizes, and quantify time, memory, trabecular alignment, and morphometric agreement (S002:C04-S006:C03).",
+    "study_design": "Two-dimensional numerical method comparison on one 600 micrometer synthetic proximal-femur input refined to 50 micrometer elements; global-model output serves as control and localized-model output as experimental method (S003:C01-S006:C03).",
+    "sample_or_model": "Femoral head, neck, and intertrochanteric ROIs of 4.8, 9.6, and 14.4 mm square, under weighted one-legged stance, abduction, and adduction loads; no paired micro-CT truth or living patient outcome.",
+    "comparators": [
+      "Conventional global FE reconstruction versus localized ROI FE reconstruction",
+      "Three anatomic ROIs",
+      "Three ROI sizes",
+      "Time and memory versus alignment and BV/TV, Tb.Th, Tb.Sp, and Tb.N agreement",
+      "No actual high-resolution specimen or patient microstructure comparator"
+    ],
+    "method_spine": [
+      "Construct a low-resolution global bone model and refine the ROI to a microstructural element scale.",
+      "Define compliance minimization plus a pixel-wise density-deviation constraint.",
+      "For the localized method, obtain cut-boundary displacements/forces from the low-resolution global model by static condensation.",
+      "Run the same SIMP/MMA reconstruction in global and localized forms.",
+      "Benchmark computational resources and output agreement by anatomy and ROI size.",
+      "Keep method agreement separate from specimen-specific truth."
+    ],
+    "validation_roles": {
+      "verification": [
+        "The localized implementation is checked against the conventional implementation using the same objective, density constraint, loads, ROIs, and morphometric outputs (S003:C01-S007:C04).",
+        "A 50 micrometer element size is justified by an external convergence report rather than a study-specific mesh test (S006:C01)."
+      ],
+      "calibration": [
+        "SIMP exponent, density-deviation tolerance, BMD-modulus relationship, load weights, and default filter/scaling parameters are assigned from literature; no specimen-specific calibration is performed (S004:C01-S006:C03; S008:C04-S008:C05)."
+      ],
+      "validation": [
+        "This is proof-of-concept agreement with a conventional computational method, not direct validation against actual 50 micrometer trabecular anatomy (S008:C03-S008:C05).",
+        "Prior validation of the conventional method cannot replace independent specimen-level validation of the localized method."
+      ],
+      "sensitivity": [
+        "Three regions, three ROI sizes, and three weighted loads reveal boundary and sparse-trabecula sensitivity (S006:C01-S007:C04).",
+        "Filter radius, objective scaling, load uncertainty, density relation, starting point, local optima, 3D behavior, and nonmechanical bone biology are not tested (S008:C04-S008:C05)."
+      ],
+      "application_prediction": [
+        "Improved patient bone-strength evaluation and clinical radiology use remain prospective applications until 3D, specimen-specific high-resolution and population validation is completed (S008:C01-S009:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "Localized reconstruction reduced reported memory from 56.2 GB to 0.3-2.3 GB and total time by at least 88.2%, with a maximum localized time of 2.7 h versus a minimum global time of 13.2 h on the stated workstation (S007:C01-S007:C02).",
+      "Primary trabecular alignment differed by at most about 2.1 degrees and BV/TV by less than 0.28% relative to the conventional output (S007:C02-S007:C04).",
+      "Tb.Th, Tb.Sp, and Tb.N differences were below 6.9% for head/intertrochanteric ROIs but reached 17.8% in the sparse femoral neck, especially at small ROI size (S007:C03-S007:C04).",
+      "Localized cut boundaries produced node-associated microstructure and branch differences because local loads were inherited at low-resolution boundary spacing; the localized method sometimes required more iterations despite lower per-iteration cost (S007:C02-S008:C04)."
+    ],
+    "highest_evidence_level_reached": "Two-dimensional proof-of-concept numerical agreement and efficiency benchmark against a conventional solver; no true high-resolution, 3D, specimen, population, or clinical validation."
+  },
+  "argument_map": {
+    "central_claim": "Localization can reproduce the conventional algorithm's main numerical output at far lower cost, but agreement with another generated solution is not evidence that either solution recovers the patient's actual trabecular microstructure.",
+    "data": [
+      "Same-input global/local runs across nine ROI configurations, with hardware, time, memory, alignment, and morphometric comparisons (S006:C01-S007:C04)."
+    ],
+    "warrant": "Controlled method comparison establishes implementation consistency and computational value; anatomical truth requires an independent high-resolution reference and uncertainty analysis.",
+    "backing": [
+      "The authors explicitly classify the work as the first proof-of-concept validation level and acknowledge 2D synthetic bone, boundary artifacts, default parameters, and missing biological stimuli (S008:C03-S008:C05)."
+    ],
+    "qualifier": "Agreement with a conventional numerical method for one 2D synthetic femur and specified loads.",
+    "rebuttals_or_boundaries": [
+      "No registered micro-CT or histological microstructure serves as ground truth.",
+      "Topology optimization generates one mechanically plausible microstructure; low-resolution density and assumed loads may admit multiple solutions.",
+      "Generic loading and material-density relations are not patient-specific.",
+      "Cut-boundary discretization creates local artifacts and sparse ROIs magnify single-strut differences.",
+      "Default filter/scaling choices and optimization local minima are not tested.",
+      "The abstract's morphometric-error phrasing should be reconciled with the 17.8% maximum reported in Results."
+    ],
+    "argument_coherence": "high_for_efficiency_and_method_agreement_low_for_anatomical_recovery_or_clinical_prediction"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Wall-clock time, reported memory, iteration count, and metrics computed from two sets of generated microstructures on one workstation (S006:C03-S007:C04)."
+    ],
+    "predicted": [
+      "Both global and localized trabecular distributions, alignments, and morphometrics are topology-optimization outputs conditioned on the model and assumed loads."
+    ],
+    "inferred": [
+      "High predictive performance for actual bone, clinical applicability, reduced misdiagnosis, and improved patient-strength evaluation are inferred without a direct high-resolution or clinical target (S008:C01-S009:C01)."
+    ],
+    "recommended": [
+      "Validate registered 3D reconstructions against specimen-specific micro-CT across a population, report uncertainty/solution non-uniqueness, and test filter, load, density, boundary, and ROI-size sensitivity."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Agreement with the global algorithm is method agreement, not anatomical accuracy.",
+      "A 50 micrometer computational mesh is not a 50 micrometer image measurement.",
+      "Morphometric similarity to another generated structure does not prove patient-specific trabecular recovery.",
+      "Runtime reduction does not establish diagnostic accuracy or clinical utility.",
+      "Mechanically optimized microarchitecture is not the same as biologically formed bone."
+    ],
+    "overclaim_risks": [
+      "The paper repeatedly calls generated microstructure image-resolution enhancement and prediction of actual bone despite no direct truth image (S001:C01-S002:C04; S008:C01-S009:C01).",
+      "Clinical applicability is inferred from speed and agreement rather than diagnostic validation.",
+      "Calling topology optimization the only successful method is broader than this benchmark supports.",
+      "Automatic animal and clinical cues are false for this study."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Use a controlled method comparator",
+      "execution": "Global and localized methods share ROI, objective, density constraint, loads, optimizer, and outputs; only model extent/load transfer differ (S003:C01-S006:C03).",
+      "locator": "S003:C01",
+      "effectiveness": "high",
+      "transferable_principle": "When validating an accelerated method, hold objective, inputs, tolerances, outputs, software, and hardware constant and isolate the changed computation.",
+      "failure_mode": "A reference algorithm tests agreement, not truth, unless independently validated for the exact specimens."
+    },
+    {
+      "section": "results",
+      "move": "Pair efficiency with anatomy-stratified error",
+      "execution": "Time/memory gains are reported alongside alignment and four morphometric indices for every region and size (S007:C01-S007:C04).",
+      "locator": "S007:C04",
+      "effectiveness": "high",
+      "transferable_principle": "Report speed, peak memory, iterations, and accuracy metrics by difficult subgroup/scale; do not hide worst-case error behind an average.",
+      "failure_mode": "Benchmark definitions must state whether preprocessing/global load estimation and peak versus summed memory are included."
+    },
+    {
+      "section": "discussion",
+      "move": "Localize boundary artifacts and failure regimes",
+      "execution": "The authors identify cut-boundary load-resolution artifacts and the sparse femoral neck/small ROI as the largest-error regime (S007:C03-S008:C04).",
+      "locator": "S008:C04",
+      "effectiveness": "high",
+      "transferable_principle": "Map error spatially and explain the numerical mechanism; define minimum ROI/buffer requirements rather than claiming uniform accuracy.",
+      "failure_mode": "Invoking Saint-Venant's principle does not quantify a safe boundary distance."
+    },
+    {
+      "section": "discussion",
+      "move": "Name the validation rung honestly",
+      "execution": "The study calls itself proof-of-concept and distinguishes future case, population, and specimen-specific validation (S008:C03-S008:C05).",
+      "locator": "S008:C03",
+      "effectiveness": "high",
+      "transferable_principle": "Separate code/method agreement, proof-of-concept pattern plausibility, specimen accuracy, population robustness, and clinical utility as successive validation rungs.",
+      "failure_mode": "Prior validation of a parent method does not make a new approximation specimen-accurate by transitivity."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Only 2D reconstruction, synthetic proximal femur, mechanically driven bone, cut-boundary errors, and default optimization parameters; 3D and bone-based validation are needed (S008:C03-S008:C05)."
+    ],
+    "reader_identified": [
+      "No actual high-resolution paired ground truth or specimen-specific anatomy.",
+      "One synthetic femur and generic loads/material relationships limit patient specificity.",
+      "No formal uncertainty, repeat starts, local-optimum, filter, objective-weight, load, or density-model sensitivity.",
+      "Efficiency accounting and peak-versus-summed memory should be defined more rigorously.",
+      "An abstract/result mismatch exists between the favorable morphometric error phrasing and a 17.8% worst-case Results value.",
+      "No diagnostic endpoint, fracture-risk prediction, or clinical workflow evaluation."
+    ],
+    "likely_bias_direction": [
+      "Using the conventional generated output as truth inflates apparent reconstruction accuracy.",
+      "Emphasis on main trabecular alignment discounts sparse-region branch errors.",
+      "Clinical language overstates a proof-of-concept computational benchmark."
+    ],
+    "scope_boundary": "The study establishes computational efficiency and output agreement of a localized 2D topology solver relative to a conventional solver; it does not establish recovery of actual patient trabeculae, diagnostic accuracy, bone-strength prediction, or clinical utility."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC9687309-01",
+      "capability": "Separate accelerated-method agreement from independent ground-truth validation and clinical utility.",
+      "manuscript_use": "Computational validation Methods, Results labels, and conclusion audit.",
+      "applicable_domains": ["topology_optimization", "biomechanics", "medical_imaging"],
+      "applicable_study_designs": ["computational_method", "model_validation"],
+      "supporting_locators": ["S003:C01", "S006:C01", "S007:C02", "S008:C03", "S008:C04", "S008:C05"],
+      "counterexample_or_boundary": "Similarity to a conventional prediction is not similarity to actual high-resolution bone.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9687309-02",
+      "capability": "Benchmark computational efficiency together with worst-case region/scale error, boundary artifacts, hardware, iterations, and memory definition.",
+      "manuscript_use": "Algorithm Results table and robustness Discussion.",
+      "applicable_domains": ["topology_optimization", "biomechanics", "medical_imaging"],
+      "applicable_study_designs": ["computational_benchmark"],
+      "supporting_locators": ["S006:C01", "S006:C02", "S006:C03", "S007:C01", "S007:C02", "S007:C03", "S007:C04"],
+      "counterexample_or_boundary": "Average alignment can look excellent while a sparse small ROI has 17.8% morphometric error.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9687309-03",
+      "capability": "Treat topology-generated super-resolution as plausible microstructure generation until registered specimen-level truth demonstrates anatomical recovery.",
+      "manuscript_use": "Title/abstract terminology, evidence boundary, and translation plan.",
+      "applicable_domains": ["topology_optimization", "medical_imaging", "mechanobiology"],
+      "applicable_study_designs": ["computational_reconstruction"],
+      "supporting_locators": ["S002:C02", "S002:C03", "S004:C01", "S004:C02", "S004:C03", "S008:C03", "S008:C05", "S009:C01"],
+      "counterexample_or_boundary": "A mechanically plausible 50 micrometer field generated from 600 micrometer density is not a directly observed patient microstructure.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_method_agreement_and_efficiency",
+    "methods_transparency": "high",
+    "validation_credibility": "high_for_relative_method_agreement_low_for_anatomical_truth_or_clinical_use",
+    "outcome_uncertainty_reporting": "moderate",
+    "comparator_fairness": "high_for_implementation_comparison",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "No direct high-resolution ground truth.",
+      "One 2D synthetic femur with default parameters and generic loads.",
+      "Clinical/anatomical prediction claims exceed method-agreement evidence."
+    ],
+    "overall_credibility": "high_for_efficiency_and_global_local_agreement_low_for_true_microstructure_or_clinical_prediction"
+  },
+  "summary_zh": "该研究把同一拓扑重建问题分别放在完整近端股骨和局部ROI中求解，局部载荷由低分辨率全局模型静力凝聚获得。局部法在同一工作站上显著降低时间和内存，主小梁方向和BV/TV与全局法很接近；但小而稀疏的股骨颈ROI中Tb.Th、Tb.Sp或Tb.N差异最高达17.8%，切边也出现节点状伪影。最关键的证据边界是：比较器仍是另一套生成的数值微结构，没有配准micro-CT真值，因此它验证的是局部法与传统法的一致性，不是患者真实小梁的恢复精度。Skill将把‘方法一致性—标本真值—人群稳健性—诊断/临床效用’设为四级门槛，并要求效率结果同时报告最差解剖区、尺度和边界误差。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference section, equations, loads, all ROI/size results, boundary artifact discussion, and stated validation ladder.",
+    "Animal and clinical cues are incorrect for this computational study.",
+    "The article is a strong efficiency/method-agreement example and a decisive counterexample to transitive validation."
+  ]
+}

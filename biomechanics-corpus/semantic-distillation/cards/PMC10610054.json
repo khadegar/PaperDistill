@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10610054",
+  "paper_id": "doi:10.3390/polym15204089",
+  "pmcid": "PMC10610054",
+  "source_record_sha256": "7e98523dd469694514f5faac24bf12cd02343f3badb83149c6cb123c43eb3cf6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fec1b86bfeeff92a14a3b8c806861a875292a1494de283b735ba51b523e7adae",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "UV-Cured Bio-Based Acrylated Soybean Oil Scaffold Reinforced with Bioactive Glasses",
+    "authors": "Bergoglio M, Najmi Z, Cochis A, Miola M, Vernè E, Sangermano M.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15204089",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

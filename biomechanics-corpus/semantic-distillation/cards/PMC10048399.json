@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10048399",
+  "paper_id": "doi:10.3390/gels9030195",
+  "pmcid": "PMC10048399",
+  "source_record_sha256": "e5e149bd7ecc9c389d22eaeb9e6477fa20341c988452c8dfed01dad712ef3162",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "47d9cd8fcc1ffe33e585f5a9efe26265b2e6985081b65a4491625417f13150c1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent Advances in Decellularized Matrix-Derived Materials for Bioink and 3D Bioprinting",
+    "authors": "Liu H, Gong Y, Zhang K, Ke S, Wang Y, Wang J, Wang H.",
+    "year": 2023,
+    "journal": "Gels",
+    "doi": "10.3390/gels9030195",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

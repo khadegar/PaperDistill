@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8661475",
+  "paper_id": "doi:10.3389/fbioe.2021.797389",
+  "pmcid": "PMC8661475",
+  "source_record_sha256": "060d4ee424d4373aec3a8176dc6ba4a80bbace4637d9823c3a551c8b01ed0b26",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6964e530530f4c4759d814382df96d0055bfe260b2ac3fe628ca895167587ed8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Femoral Tunnel Drilling Angle at 45° Coronal and 45° Sagittal Provided the Lowest Peak Stress and Strain on the Bone Tunnels and Anterior Cruciate Ligament Graft",
+    "authors": "Cheng R, Wang H, Jiang Z, Dimitriou D, Cheng CK, Tsai TY.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.797389",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

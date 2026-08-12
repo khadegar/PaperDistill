@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12387675",
+  "paper_id": "doi:10.3390/medicina61081330",
+  "pmcid": "PMC12387675",
+  "source_record_sha256": "91490cb5270d09c93cf9ed2bb454fdfab0fb247f7997d357ca75c327e5782618",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "de393ff9d50fdf2c1a957d4d16a4a5d2e71f9f27687a2284e2e6aa110543c848",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Emerging Technologies in the Treatment of Orbital Floor Fractures: A Systematic Review",
+    "authors": "Helgers L, Prikule I, Salms G, Bagante I.",
+    "year": 2025,
+    "journal": "Medicina",
+    "doi": "10.3390/medicina61081330",
+    "publication_type": "Systematic Review; review-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

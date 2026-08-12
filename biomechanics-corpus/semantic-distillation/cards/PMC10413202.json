@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10413202",
+  "paper_id": "doi:10.1016/j.mtbio.2023.100737",
+  "pmcid": "PMC10413202",
+  "source_record_sha256": "f9aa661497b54355409daa21d0e01098b5c6b07fa9f5182f08d4a5e905fa1e4d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "91a0c556da08414613f7e3b8e8d5bc702035a6da38ef5fe64630a6bf1241df4d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bisphosphonate-incorporated coatings for orthopedic implants functionalization",
+    "authors": "Zhang J, Bai H, Bai M, Wang X, Li Z, Xue H, Wang J, Cui Y, Wang H, Wang Y, Zhou R, Zhu X, Xu M, Zhao X, Liu H.",
+    "year": 2023,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2023.100737",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

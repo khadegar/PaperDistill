@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6418865",
+  "paper_id": "doi:10.3390/polym9090450",
+  "pmcid": "PMC6418865",
+  "source_record_sha256": "4187b972130e06f117a6f7fbb79411ce41cfbf121f4528e2940660a4ddccd96b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8544e5329ae8bb223427bd7915f561f8684143fcf5edf74445476cd6ec52f7a1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteogenesis of Adipose-Derived and Bone Marrow Stem Cells with Polycaprolactone/Tricalcium Phosphate and Three-Dimensional Printing Technology in a Dog Model of Maxillary Bone Defects",
+    "authors": "Lee JW, Chu SG, Kim HT, Choi KY, Oh EJ, Shim JH, Yun WS, Huh JB, Moon SH, Kang SS, Chung HY.",
+    "year": 2017,
+    "journal": "Polymers",
+    "doi": "10.3390/polym9090450",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

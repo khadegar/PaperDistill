@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6525872",
+  "paper_id": "doi:10.1155/2019/8363128",
+  "pmcid": "PMC6525872",
+  "source_record_sha256": "aa6bfb1c40fd3008c2162b9f6e5240cb436168bf1162ff898e23e5e04e8cb003",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0750132e25890705b783dd85d78e251afe415e6288194f1c08b31bf707f95dad",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "High Tibial Osteotomy: Review of Techniques and Biomechanics",
+    "authors": "Liu X, Chen Z, Gao Y, Zhang J, Jin Z.",
+    "year": 2019,
+    "journal": "Journal of Healthcare Engineering",
+    "doi": "10.1155/2019/8363128",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

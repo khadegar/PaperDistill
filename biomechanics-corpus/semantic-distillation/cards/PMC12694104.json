@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12694104",
+  "paper_id": "doi:10.3390/polym17233101",
+  "pmcid": "PMC12694104",
+  "source_record_sha256": "8231dcba26be347bb279f0c25866ed5bffcef80fc975879446add4985db0b788",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0b854d0c178a2130cdb3b045f9543c6df76a9dcd8a310ee17ee233f6723eb3f5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and Fabrication of Low-Temperature 3D-Printed Bioactive Polyurethane/MnO 2 Scaffolds for Bone Repair",
+    "authors": "Li L, Guo A, Nie Y, Xu Z, Deng J, Zhang Y, Yao Z, Zhang W, Lai Y, Zhang Y.",
+    "year": 2025,
+    "journal": "Polymers",
+    "doi": "10.3390/polym17233101",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

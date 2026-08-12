@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13059470",
+  "paper_id": "doi:10.1186/s13018-026-06772-w",
+  "pmcid": "PMC13059470",
+  "source_record_sha256": "d4000790967fd7d2c202ffd7bd0a87c3de066af334a9802eb13ff47b30beb964",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2063e96680b04c28b53278907bd10a4a7a41cb528b1d88bd889e11cd70c1ee95",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Shaping the future of spinal implants: advancing bioactive composites with 3D printing for next-generation surgical care",
+    "authors": "Kumar N, Rangaswamy N, Hui SJ, Lee LYJ, Jeyachandran P, Wang N, Fuh JYH, Kumar AS, Hallinan JTPD, Vellayappan BA.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-026-06772-w",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

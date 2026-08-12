@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8576375",
+  "paper_id": "doi:10.3389/fbioe.2021.757220",
+  "pmcid": "PMC8576375",
+  "source_record_sha256": "1967daf8ffe4067e892e772ebbd2b464d4225fab4f9daf07236cff04f45a8bb8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0bea4edc4789d3da4ae0428b42c371ea5f1a9c58f88e82c566f1903198d85dda",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of a Bone-Mimetic 3D Printed Ti6Al4V Scaffold to Enhance Osteoblast-Derived Extracellular Vesicles’ Therapeutic Efficacy for Bone Regeneration",
+    "authors": "Man K, Brunet MY, Louth S, Robinson TE, Fernandez-Rhodes M, Williams S, Federici AS, Davies OG, Hoey DA, Cox SC.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.757220",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8085535",
+  "paper_id": "doi:10.3389/fbioe.2021.648356",
+  "pmcid": "PMC8085535",
+  "source_record_sha256": "160dba3e3f9dfe7510fc629b670bd1b18a4b929810d72ddb6c0b1e147c6e7d42",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7d6df68b5621374906d9208abe287c5b0bc3bf2698c67939dddb5d9863803694",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Total Knee Replacement: Subject-Specific Modeling, Finite Element Analysis, and Evaluation of Dynamic Activities",
+    "authors": "Loi I, Stanev D, Moustakas K.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.648356",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

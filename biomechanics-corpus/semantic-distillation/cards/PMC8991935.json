@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8991935",
+  "paper_id": "doi:10.1016/j.jhsg.2020.12.001",
+  "pmcid": "PMC8991935",
+  "source_record_sha256": "1e10df575c4328ed5adae9a9415470d9411fcefc43fd005627735b9102598c9a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "237dce6a4c128b49721fb3ee716406e738778c07641466808f879e7d97a58b11",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Prediction of Stress Distribution Applied to the Triangular Fibrocartilage Complex: A Finite Element Analysis",
+    "authors": "Yamazaki T, Matsuura Y, Nimura A, Horiuchi S, Suzuki T, Ohtori S.",
+    "year": 2021,
+    "journal": "Journal of Hand Surgery Global Online",
+    "doi": "10.1016/j.jhsg.2020.12.001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

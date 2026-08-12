@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11017177",
+  "paper_id": "doi:10.4081/ejtm.2024.12170",
+  "pmcid": "PMC11017177",
+  "source_record_sha256": "eae4abb1450578462ca9f41c7e1ff551954d86399295658e843e56367efba990",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a9a0eab3572aadcee27e1e7c42bf41050a81b8bfa8b8988e9d68d565edc30df9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stress distribution pattern in all-on-four maxillary restorations supported by porous tantalum and solid titanium implants using three-dimensional finite element analysis",
+    "authors": "Masoomi F, Mahboub F.",
+    "year": 2024,
+    "journal": "European Journal of Translational Myology",
+    "doi": "10.4081/ejtm.2024.12170",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

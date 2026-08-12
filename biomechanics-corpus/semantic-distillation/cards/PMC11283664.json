@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11283664",
+  "paper_id": "doi:10.1177/20417314241263689",
+  "pmcid": "PMC11283664",
+  "source_record_sha256": "03d2f95b03e80255f4bd01c96fd1027661673d130c2f55a29041e7ca2e7ccd55",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c8311b42825ae9d3e84b0b43128dd157a9fbb388323d102970853bc886200283",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Novel 3D printed TPMS scaffolds: microstructure, characteristics and applications in bone regeneration",
+    "authors": "Ma J, Li Y, Mi Y, Gong Q, Zhang P, Meng B, Wang J, Wang J, Fan Y.",
+    "year": 2024,
+    "journal": "Journal of Tissue Engineering",
+    "doi": "10.1177/20417314241263689",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

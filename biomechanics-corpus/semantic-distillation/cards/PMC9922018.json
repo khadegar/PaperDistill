@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9922018",
+  "paper_id": "doi:10.3390/polym15030716",
+  "pmcid": "PMC9922018",
+  "source_record_sha256": "dda5de01e5b0f7260e841208bc2cf7d4dfa8f9f2ce8bd3e18530babf508a1e3c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b0d089a6417e660986a74e4fd8991e8853afc2e38c396c2693ad40fec1b37ab2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Process Parameters on the Characteristics of Additively Manufactured Parts Made from Advanced Biopolymers",
+    "authors": "Pepelnjak T, Stojšić J, Sevšek L, Movrin D, Milutinović M.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15030716",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

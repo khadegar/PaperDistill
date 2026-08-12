@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10920256",
+  "paper_id": "doi:10.3389/fbioe.2024.1353677",
+  "pmcid": "PMC10920256",
+  "source_record_sha256": "9a14adf8ca6744a484176c702456c9c2202dcbfa035df882c94cb3d3fef1aae1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "42f1ad1dccffcebd5dede230379da37a4a920273e52d4658e003a1dd9d1f79c1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of a new intramedullary nail compared with proximal femoral nail antirotation and InterTAN for the management of femoral intertrochanteric fractures",
+    "authors": "Wang C, Duan N, Li Z, Ma T, Zhang K, Wang Q, Huang Q.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1353677",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

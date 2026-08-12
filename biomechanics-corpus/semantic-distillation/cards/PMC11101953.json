@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11101953",
+  "paper_id": "doi:10.1016/j.mtbio.2024.101078",
+  "pmcid": "PMC11101953",
+  "source_record_sha256": "97e6c6230d89510551bd6cbf60217cedd95cfc344888c22a3ea023889ae422d2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6bb968950ad572f5ab8916fb508040b36754edc002f59ab05e180e6ac4a204b2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A sponge-like nanofiber melatonin-loaded scaffold accelerates vascularized bone regeneration via improving mitochondrial energy metabolism",
+    "authors": "Lv N, Hou M, Deng L, Hua X, Zhou X, Liu H, Zhu X, Xu Y, Qian Z, Li Q, Liu M, He F.",
+    "year": 2024,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2024.101078",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

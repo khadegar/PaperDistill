@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4658533",
+  "paper_id": "doi:10.1038/srep17134",
+  "pmcid": "PMC4658533",
+  "source_record_sha256": "ed527a6d76ec417784fe7c798ea58fafed37f2468d90ca39750a4f7041d690aa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bc30831fd44714b93dbf242cbb0eb3ba8e323f07b7122c2e01fdc0d448a480a9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of low-level mechanical vibration on osteogenesis and osseointegration of porous titanium implants in the repair of long bone defects",
+    "authors": "Jing D, Tong S, Zhai M, Li X, Cai J, Wu Y, Shen G, Zhang X, Xu Q, Guo Z, Luo E.",
+    "year": 2015,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep17134",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

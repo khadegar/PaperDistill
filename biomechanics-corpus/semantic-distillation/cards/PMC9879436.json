@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9879436",
+  "paper_id": "doi:10.1371/journal.pone.0279478",
+  "pmcid": "PMC9879436",
+  "source_record_sha256": "c432166f9d6f625926535bb27c57590f18ab0741d7c09927c852ecd2a4ded029",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6e0299e78ab098714b4589efd40754ee47a6cee6e5f2dfd5a8bbcfd1d5b9823e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stair-climbing wheelchair proven to maintain user’s body stability based on AnyBody musculoskeletal model and finite element analysis",
+    "authors": "Zhu Y, Li H, Lyu S, Shan X, Jan YK, Ma F.",
+    "year": 2023,
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0279478",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

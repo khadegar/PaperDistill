@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12007331",
+  "paper_id": "doi:10.1186/s12951-025-03375-1",
+  "pmcid": "PMC12007331",
+  "source_record_sha256": "7d273c364c5701b89f324c77b970f33547537cfeb7ddee32efe491338b8d6c63",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9ca6a42d5ec8f8deef1179110c6f0ae6e9849791761ef4969e7eabd1e0e0ff2d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "NIR-programmable 3D-printed shape-memory scaffold with dual-thermal responsiveness for precision bone regeneration and bone tumor management",
+    "authors": "Wang H, Zhang J, Li Z, Liu J, Chang H, Jia S, Di Z, Liu H, Wang J, Gao D, Wang C, Li G, Zhao X.",
+    "year": 2025,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-025-03375-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

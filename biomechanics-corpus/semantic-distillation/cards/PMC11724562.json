@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11724562",
+  "paper_id": "doi:10.1186/s13018-024-05417-0",
+  "pmcid": "PMC11724562",
+  "source_record_sha256": "4a520be444aa6e377f858777bc1e50e6ab73b1e152cfa1c01ff67ff5d203db82",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3e53e1d713d18922bc5d7ae6d0f47dc56237c42b37f237e767dc0bc94b60a86b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient-specific spine digital twins: a computational characterization of the idiopathic scoliosis",
+    "authors": "Landinez D, Rodríguez CF, Cifuentes De la Portilla C.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-05417-0",
+    "publication_type": "research-article; Validation Study; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

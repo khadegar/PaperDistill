@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10043162",
+  "paper_id": "doi:10.1186/s40634-023-00597-w",
+  "pmcid": "PMC10043162",
+  "source_record_sha256": "cb7edde7c60093859f94c8c2e5087f18a66a7e6da3136b035924dbe9309ecdc1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "19aeb4c76b6c174c156c667e79353f036ba1ebc2dd1c7c261ce68d212cc7b81c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of medial closing and lateral opening wedge osteotomies of the distal femur in relation to hinge fractures",
+    "authors": "Meisterhans M, Flury A, Zindel C, Zimmermann SM, Vlachopoulos L, Vlachopoulos L, Snedeker JG, Fucentese SF.",
+    "year": 2023,
+    "journal": "Journal of Experimental Orthopaedics",
+    "doi": "10.1186/s40634-023-00597-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

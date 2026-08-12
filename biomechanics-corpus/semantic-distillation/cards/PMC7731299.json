@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7731299",
+  "paper_id": "doi:10.3390/ma13235526",
+  "pmcid": "PMC7731299",
+  "source_record_sha256": "2fa2a6e06036fbefdfefc121e7dd71f796f79826704530cee3fe60ee2776e352",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c44b32df995463f1921b2b3a28eab310b2dfd7466c4372ed508c726c9d46d653",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Strontium-Modified Scaffolds Based on Mesoporous Bioactive Glasses/Polyvinyl Alcohol Composites for Bone Regeneration",
+    "authors": "Jiménez-Holguín J, López-Hidalgo A, Sánchez-Salcedo S, Peña J, Vallet-Regí M, Salinas AJ.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13235526",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

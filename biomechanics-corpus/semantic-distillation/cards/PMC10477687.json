@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10477687",
+  "paper_id": "doi:10.1016/j.mtbio.2023.100771",
+  "pmcid": "PMC10477687",
+  "source_record_sha256": "13c98f225dba67487946e01fd2d5971d41e338abaf6c1146c756bd96c09afff1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a483790b660ad99f5420a9a93e2cd8811d1f1af73b5fc576ccbe110ce2fbcf06",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Elucidating osseointegration in vivo in 3D printed scaffolds eliciting different foreign body responses",
+    "authors": "Qiu D, Cao C, Prasopthum A, Sun Z, Zhang S, Yang H, Xu Z, Tao J, Ai F, Yang J.",
+    "year": 2023,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2023.100771",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

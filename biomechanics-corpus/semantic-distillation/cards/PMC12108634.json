@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12108634",
+  "paper_id": "doi:10.3390/biology14050476",
+  "pmcid": "PMC12108634",
+  "source_record_sha256": "3d8548bef2f698b0f15a8cde46d35785b941a7c333e255c06d8276f3efe2ee18",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "eb32de7e091b8d424af27911bf853c283a1eadfff6c186ec2e999178e4d95ccd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Vitamin D3-Coated Surfaces and Their Role in Bone Repair and Peri-Implant Biomechanics",
+    "authors": "Pitol-Palin L, Sousa IC, de Araújo JCR, de Souza Batista FR, Inoue BKN, Botacin PR, de Vasconcellos LMR, Lisboa-Filho PN, Okamoto R.",
+    "year": 2025,
+    "journal": "Biology",
+    "doi": "10.3390/biology14050476",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

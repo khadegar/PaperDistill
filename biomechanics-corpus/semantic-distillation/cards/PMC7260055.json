@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7260055",
+  "paper_id": "doi:10.1038/s41563-019-0567-1",
+  "pmcid": "PMC7260055",
+  "source_record_sha256": "8582566b6541e69fdec58681c1fab3e8eacf9ec6c5fa012bdcdd9cfa4994f6d6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "84add41d275b71846370f11bdbef2ce46612a4ada32e00100438ef955f8c0105",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Syndecan-4 tunes cell mechanics by activating the kindlin-integrin-RhoA pathway",
+    "authors": "Chronopoulos A, Thorpe SD, Cortes E, Lachowski D, Rice AJ, Mykuliak VV, Róg T, Lee DA, Hytönen VP, Del Río Hernández AE.",
+    "year": 2020,
+    "journal": "Nature materials",
+    "doi": "10.1038/s41563-019-0567-1",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

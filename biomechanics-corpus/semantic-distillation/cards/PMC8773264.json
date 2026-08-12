@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8773264",
+  "paper_id": "doi:10.3390/bioengineering9010016",
+  "pmcid": "PMC8773264",
+  "source_record_sha256": "c5bb215bbafc6a5f87555b6f76f7bc65896c759c0541eddc441c6a7b14889622",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "53a049073372470bee6a6bd25e1b49b05534d96ec3d6621f07e90fb69152fcdb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigation into Cervical Spine Biomechanics Following Single, Multilevel and Hybrid Disc Replacement Surgery with Dynamic Cervical Implant and Fusion: A Finite Element Study",
+    "authors": "Mumtaz M, Zafarparandeh I, Erbulut DU.",
+    "year": 2022,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering9010016",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

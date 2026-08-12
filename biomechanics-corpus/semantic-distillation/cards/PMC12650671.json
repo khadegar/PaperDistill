@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12650671",
+  "paper_id": "doi:10.3390/bioengineering12111212",
+  "pmcid": "PMC12650671",
+  "source_record_sha256": "659d2cc2075a20499a7ab1c015c498e5349a9ddf7d8b31177cdb472889b28e48",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "335dd2af2bea2aaf51670d23cfb132c7ad32ab496d523c66d633a3bb59c7dd10",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Using Two X-Ray Images to Create a Parameterized Scoliotic Spine Model and Analyze Disk Stress Adjacent to Spinal Fixation—A Finite Element Analysis",
+    "authors": "Wang TH, Chou PH, Chen CS.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12111212",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

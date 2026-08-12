@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8010633",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.03.013",
+  "pmcid": "PMC8010633",
+  "source_record_sha256": "a755210b73c3121b622f4a090486627d0f66cc65820d13331eb6aad683aed6e3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9439aa6ee87f8585a4827e0b7c822fe99b766277d6af48fd566b56a8082923fb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed silk-gelatin hydrogel scaffold with different porous structure and cell seeding strategy for cartilage regeneration",
+    "authors": "Li Q, Xu S, Feng Q, Dai Q, Yao L, Zhang Y, Gao H, Dong H, Chen D, Cao X.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.03.013",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

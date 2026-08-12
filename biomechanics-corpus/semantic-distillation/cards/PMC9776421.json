@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9776421",
+  "paper_id": "doi:10.3390/cells11243967",
+  "pmcid": "PMC9776421",
+  "source_record_sha256": "ccc43fe8a14e4bd069a8624015489e0538bf36398d808433928ab8716fb6213e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "66cfa7c36df31669f55748317ab32556841cc0f989683d45f8d413401036700e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Synergistic Effect of Static Magnetic Fields and 3D-Printed Iron-Oxide-Nanoparticle-Containing Calcium Silicate/Poly-ε-Caprolactone Scaffolds for Bone Tissue Engineering",
+    "authors": "Kao CY, Lin TL, Lin YH, Lee AK, Ng SY, Huang TH, Hsu TT.",
+    "year": 2022,
+    "journal": "Cells",
+    "doi": "10.3390/cells11243967",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

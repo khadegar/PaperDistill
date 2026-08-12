@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9658747",
+  "paper_id": "doi:10.3390/ma15217417",
+  "pmcid": "PMC9658747",
+  "source_record_sha256": "a15b4537658122301dbae5e024f22c1cceb91968ccb5afc522d61dcb17bc3037",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d60a96d38900201142f762ca514fcc6bf846fbb7ffb2667d2b9229b48d81f963",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Modeling for Virtual Design to Miniaturize Medical Implants Manufactured of Nanostructured Titanium with Enhanced Mechanical Performance",
+    "authors": "Kazarinov N, Stotskiy A, Polyakov A, Valiev RZ, Enikeev N.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15217417",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

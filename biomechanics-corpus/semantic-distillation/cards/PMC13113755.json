@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13113755",
+  "paper_id": "doi:10.3390/bioengineering13040375",
+  "pmcid": "PMC13113755",
+  "source_record_sha256": "68c8b43a4118ce46b4fdbabc6d806fee30b952001678f5020b218870d7eaa493",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ab5fac0bf1f5c222435d00dc7a05cdc0383fe5bc260e5b36bd083cc87243250a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of a Novel Flexible Cage System for C5–C6 Fixation: A Finite Element Study Against Conventional ACDF Implants",
+    "authors": "Woo S, Koo WM, Park K, Hwang JM, Kang S.",
+    "year": 2026,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering13040375",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

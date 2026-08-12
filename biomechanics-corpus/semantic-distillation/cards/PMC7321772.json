@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7321772",
+  "paper_id": "doi:10.1016/j.bioactmat.2020.05.003",
+  "pmcid": "PMC7321772",
+  "source_record_sha256": "30b28a6ee9b353aa01389316c82c9cf7a4b1127d09cbcff1f390877d89cf15db",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a1ba6a18b7fe030dec871486c5b5ce464e4e5cbc32ad0000a3056caaab2773ce",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An all-silk-derived functional nanosphere matrix for sequential biomolecule delivery and in situ osteochondral regeneration",
+    "authors": "Zhang W, Ling C, Zhang A, Liu H, Jiang Y, Li X, Sheng R, Yao Q, Chen J.",
+    "year": 2020,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2020.05.003",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

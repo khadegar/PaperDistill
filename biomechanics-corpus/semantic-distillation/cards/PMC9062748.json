@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9062748",
+  "paper_id": "doi:10.1016/j.bioactmat.2022.04.012",
+  "pmcid": "PMC9062748",
+  "source_record_sha256": "8c266b675c53f1d60759bcfc6d7b2387ac8fa782f26cad4f435a5d08a9e8250c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "74497218d9941da3e4740e042ecb5381198267961c9671a99b2d5e53de98233e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Open-porous magnesium-based scaffolds withstand in vitro corrosion under cyclic loading: A mechanistic study",
+    "authors": "Bonithon R, Lupton C, Roldo M, Dunlop JN, Blunn GW, Witte F, Tozzi G.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2022.04.012",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11278485",
+  "paper_id": "doi:10.3390/jfb15070199",
+  "pmcid": "PMC11278485",
+  "source_record_sha256": "6a7a58ac81fcda23a8dffc7bc0c07db2f70973c52ca7160ed3689cb8073eccc6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "308e6253dc03d71f0fa38a5e67bf599be5abeb51bbcc0870802fd8c8d938eef7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Influence of Cement Thickness within the Cap on Stress Distribution for Dental Implants",
+    "authors": "Ceddia M, Romasco T, Comuzzi L, Cipollina A, Piattelli A, Dipalma G, Inchingolo AM, Inchingolo F, Di Pietro N, Trentadue B.",
+    "year": 2024,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb15070199",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

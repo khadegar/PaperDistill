@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12804753",
+  "paper_id": "doi:10.1038/s41598-025-31736-1",
+  "pmcid": "PMC12804753",
+  "source_record_sha256": "0214e19a940aca48e2449860c32f93e1fef5b2854b0fe1bcba063cbd1013055a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "51cdf25676a0aa43517a6b90aa5e42cb5c101e5c73955dd8104901111bea98d7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous tantalum cage loaded with CGF promotes interbody fusion in a rat XLIF model",
+    "authors": "Wu H, Wang W, Li S, Song J, Yang S, Yang Q, Li L, Zhen R, Wu H, Zhang W.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-31736-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

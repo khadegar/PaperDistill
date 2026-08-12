@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8208580",
+  "paper_id": "doi:10.1371/journal.pcbi.1009043",
+  "pmcid": "PMC8208580",
+  "source_record_sha256": "861b99595ee85632ed6166df1860fedef393d2db235d2418de3115a1c396b80e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8f820f80a7cec92a72daa064a2da2b5a5c3a342010703fdac43abef3a952af95",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional topology optimization model to simulate the external shapes of bone",
+    "authors": "Sakashita M, Yamasaki S, Yaji K, Kawamoto A, Kondo S.",
+    "year": 2021,
+    "journal": "PLoS Computational Biology",
+    "doi": "10.1371/journal.pcbi.1009043",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

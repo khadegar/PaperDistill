@@ -1,0 +1,462 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12317956",
+  "paper_id": "doi:10.1186/s40729-025-00639-1",
+  "pmcid": "PMC12317956",
+  "source_record_sha256": "b21d43e7412371930ae179227ce3eea7a4c7858f9ef743319b8be411c80b8a00",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T10:49:39Z",
+    "packet_sha256": "42d2fb225a7c8529623715072a5e2c90e0930563972d922f0c796ff7bce6e04b",
+    "section_locators_read": [
+      "S001:C01",
+      "S001:C02",
+      "S002:C01",
+      "S002:C02",
+      "S002:C03",
+      "S003:C01",
+      "S003:C02",
+      "S004:C01",
+      "S004:C02",
+      "S004:C03",
+      "S004:C04",
+      "S005:C01",
+      "S005:C02",
+      "S005:C03",
+      "S006:C01",
+      "S006:C02",
+      "S007:C01",
+      "S008:C01",
+      "S008:C02",
+      "S009:C01",
+      "S009:C02",
+      "S009:C03",
+      "S010:C01",
+      "S010:C02",
+      "S010:C03",
+      "S011:C01",
+      "S012:C01",
+      "S012:C02",
+      "S013:C01",
+      "S013:C02",
+      "S014:C01",
+      "S014:C02",
+      "S015:C01",
+      "S016:C01",
+      "S017:C01",
+      "S018:C01",
+      "S019:C01",
+      "S020:C01",
+      "S020:C02",
+      "S020:C03",
+      "S020:C04",
+      "S020:C05",
+      "S020:C06",
+      "S021:C01",
+      "S021:C02",
+      "S022:C01",
+      "S022:C02",
+      "S022:C03",
+      "S023:C01",
+      "S023:C02",
+      "S024:C01",
+      "S024:C02",
+      "S024:C03",
+      "S025:C01",
+      "S025:C02",
+      "S025:C03",
+      "S026:C01",
+      "S026:C02",
+      "S026:C03",
+      "S027:C01",
+      "S027:C02",
+      "S027:C03",
+      "S027:C04",
+      "S028:C01",
+      "S028:C02",
+      "S029:C01",
+      "S029:C02",
+      "S029:C03",
+      "S030:C01",
+      "S031:C01",
+      "S031:C02",
+      "S031:C03",
+      "S031:C04",
+      "S032:C01",
+      "S033:C01",
+      "S034:C01",
+      "S035:C01",
+      "S035:C02",
+      "S036:C01",
+      "S036:C02",
+      "S036:C03",
+      "S037:C01",
+      "S037:C02",
+      "S037:C03",
+      "S037:C04",
+      "S038:C01",
+      "S039:C01",
+      "S039:C02",
+      "S040:C01",
+      "S040:C02",
+      "S041:C01",
+      "S041:C02",
+      "S041:C03",
+      "S042:C01",
+      "S042:C02",
+      "S043:C01",
+      "S043:C02",
+      "S044:C01",
+      "S044:C02",
+      "S045:C01",
+      "S046:C01",
+      "S046:C02",
+      "S047:C01",
+      "S048:C01",
+      "S048:C02",
+      "S048:C03",
+      "S049:C01",
+      "S050:C01",
+      "S051:C01",
+      "S051:C02",
+      "S051:C03",
+      "S051:C04",
+      "S051:C05",
+      "S052:C01",
+      "S052:C02",
+      "S053:C01",
+      "S054:C01",
+      "S055:C01",
+      "S056:C01",
+      "S057:C01",
+      "S058:C01",
+      "S059:C01",
+      "S060:C01",
+      "S061:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "The 3D theory of osseointegration: material, topography, and time as interdependent determinants of bone–implant integration",
+    "authors": "Ogawa T, Hirota M, Shibata R, Matsuura T, Komatsu K, Saruta J, Att W.",
+    "year": 2025,
+    "journal": "International Journal of Implant Dentistry",
+    "doi": "10.1186/s40729-025-00639-1",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "narrative_critical_review",
+    "design_features": [
+      "conceptual_framework",
+      "material_comparison",
+      "multiscale_surface_topography",
+      "biological_aging",
+      "uv_photofunctionalization",
+      "evidence_narrative"
+    ],
+    "research_problem": "Implant osseointegration is commonly reduced to material and roughness even though mechanical anchorage, bone contact/quality, cellular kinetics, and storage-dependent surface chemistry can diverge.",
+    "exact_gap": "The literature lacked an integrated conceptual account of material composition, multiscale topography, and elapsed time/surface physicochemistry, and routinely omitted sample age and multidimensional topography from comparisons.",
+    "objective_or_hypothesis": "Propose a three-dimensional theory in which material, topography, and time-dependent physicochemistry jointly govern osseointegration, and use selected preclinical/cellular literature to argue that surface aging is reversible and topography remains under-engineered.",
+    "study_design": "Unstructured narrative/critical review and theory paper emphasizing in-vitro and preclinical animal evidence; no reproducible search, selection, risk-of-bias, evidence-certainty, or quantitative synthesis method is reported.",
+    "sample_or_model": "Selected published studies spanning cpTi, Ti-6Al-4V, CoCr, zirconia, roughness scales, cell cultures, PMMA interface tests, CFD, rodent/rabbit/dog/pig models, and secondary clinical summaries.",
+    "comparators": [
+      "cpTi versus Ti-6Al-4V, CoCr, and zirconia",
+      "Machined/smooth versus micro-, supra-micro-, meso-, nano-, and hybrid topographies",
+      "Fresh versus aged titanium",
+      "Untreated versus HEPES/saline/gamma/UV-conditioned surfaces",
+      "BIC/bone volume versus push-in/removal torque/interface mechanics versus cell outcomes"
+    ],
+    "method_spine": [
+      "Compare material effects while attempting to control topography.",
+      "Separate quantitative roughness height from multidimensional morphology and scale.",
+      "Distinguish mechanical interlocking, BIC, bone volume, matrix quality, adhesion, and cell kinetics.",
+      "Add surface age, carbon, wettability, and charge as dynamic covariates.",
+      "Frame UV photofunctionalization as a restoration strategy and identify engineering/clinical implementation gaps."
+    ],
+    "validation_roles": {
+      "verification": [
+        "The review contains no systematic-review verification process; individual cited studies include material characterization, biomechanical tests, histology, cell assays, CFD, and surface measurements."
+      ],
+      "calibration": [
+        "Suggested targets such as near-zero contact angle and roughly 15% carbon are descriptive values from selected studies, not externally calibrated universal acceptance criteria (S051:C02)."
+      ],
+      "validation": [
+        "The three-dimensional theory itself is not prospectively validated; it is a conceptual synthesis of heterogeneous evidence (S051:C04-S052:C02)."
+      ],
+      "sensitivity": [
+        "No literature-selection, study-quality, model, threshold, or alternative-causal-model sensitivity analysis is reported."
+      ],
+      "application_prediction": [
+        "Claims about preventing failures, standardizing shelf life, bioactive reclassification, clinical consistency, and the next generation of intelligent surfaces remain partly translational predictions (S039:C01-S039:C02; S050:C01-S052:C02)."
+      ]
+    },
+    "primary_outcomes": [
+      "Selected animal studies often showed stronger anchorage for cpTi than Ti-6Al-4V despite similar morphometry, illustrating endpoint discordance and residual surface confounding (S005:C01-S007:C01).",
+      "Sa alone omits scale, area, density, shape, and spatial arrangement; Sdr explained about 60% of PMMA interfacial shear variation versus about 12% for Sa in one mechanically isolated study (S020:C01-S021:C02).",
+      "Microrough surfaces can increase early/final anchorage and BIC but may not increase total bone volume; speed, contact pattern, amount, matrix quality, and interface strength are distinct outcomes (S022:C01-S026:C03).",
+      "Roughness was associated with greater retention/differentiation but lower recruitment/proliferation in selected cell studies, motivating an explicit biological trade-off rather than a one-directional roughness claim (S027:C01-S030:C01).",
+      "Fresh-to-aged titanium studies reported increasing carbon/hydrophobicity and lower cell and rat bone-interface outcomes, while UV studies reported restored surface chemistry and improved preclinical endpoints across several models (S033:C01-S049:C01)."
+    ],
+    "highest_evidence_level_reached": "Narrative synthesis dominated by in-vitro and preclinical animal evidence, with secondary mention of systematic/clinical reviews; no review-level effect estimate or certainty assessment."
+  },
+  "argument_map": {
+    "central_claim": "Material, topographic morphology, and time-dependent surface state form a useful causal map for implant-interface research, but the theory and strong claims for universal UV-mediated 'superosseointegration' require systematic, independent, device-specific, and clinical validation.",
+    "data": [
+      "Material comparisons reveal that BIC, bone volume, cellular response, and mechanical anchorage can disagree (S005:C01-S012:C02).",
+      "Multiscale topography evidence shows that height-only metrics do not identify morphology or mechanical/biological function (S020:C01-S030:C01).",
+      "Fresh/aged/UV studies link carbon, wettability, cell recruitment, BIC, and interface strength over time (S033:C01-S049:C01)."
+    ],
+    "warrant": "A multidimensional model is warranted when nominally identical implants have unmeasured surface-state differences and when distinct interface outcomes respond through different mechanisms.",
+    "backing": [
+      "The review explicitly argues that the three dimensions are neither always independent nor automatically synergistic and should be independently optimized and jointly mapped (S051:C03-S051:C04)."
+    ],
+    "qualifier": "A hypothesis-generating framework assembled from selected heterogeneous evidence rather than a validated predictive law.",
+    "rebuttals_or_boundaries": [
+      "The review provides no search strategy or risk-of-bias method, so evidence selection and numerical generalization are not auditable.",
+      "Many examples are from different materials, geometries, species, sites, time points, and tests; quoted ratios are not pooled effects.",
+      "BIC, bone volume, push-in/removal torque, matrix hardness, cell markers, wettability, and clinical survival are non-interchangeable endpoints.",
+      "The review itself excludes clinical, long-term, and purely engineering evidence and acknowledges scalability/stability/cost gaps (S051:C04).",
+      "Surface charge changes and parts of the proposed carbon-charge cascade remain explicitly hypothetical (S035:C02-S036:C02)."
+    ],
+    "argument_coherence": "high_as_framework_moderate_as_evidence_synthesis"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "This review generated no dataset (S056:C01); all empirical values are measurements reported by cited studies.",
+      "Cited measurements include surface composition/wettability, cell outcomes, BIC/bone volume, interface tests, matrix mechanics, CFD outputs, and selected clinical-review findings."
+    ],
+    "predicted": [
+      "CFD models predict blood/plasma/fibrinogen dynamics for prescribed contact angles/topographies; they do not directly measure in-vivo osseointegration (S037:C02-S037:C03)."
+    ],
+    "inferred": [
+      "Material-topography-time interdependence and '3D theory' are integrative inferences (S002:C02-S002:C03; S051:C01-S052:C02).",
+      "The carbon-pellicle cascade and electrostatic polarity reversal are partly mechanistic hypotheses (S035:C01-S036:C03).",
+      "Near-perfect preclinical BIC is inferred to redefine titanium as bioactive and improve clinical outcomes (S046:C01-S050:C01)."
+    ],
+    "recommended": [
+      "Record surface age/carbon/wettability; characterize topography beyond Sa; distinguish acceleration from final enhancement; engineer graded multiscale surfaces; validate dimensional interactions and clinical feasibility (S040:C01-S040:C02; S051:C03-S051:C04)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Wettability and carbon content describe surface state but do not themselves establish tissue integration.",
+      "Cell attachment/ALP/mineralization are early biological proxies, not clinical fixation.",
+      "BIC is a spatial contact fraction and does not alone represent bone volume, matrix quality, interfacial adhesion, fatigue tolerance, or survival.",
+      "Push-in/removal torque combine geometry, contact distribution, bone properties, and interlocking; they do not isolate one surface mechanism.",
+      "Animal improvement under diabetes/osteoporosis/immediate loading is not proof of patient-level benefit in those conditions."
+    ],
+    "overclaim_risks": [
+      "A plateaued 8% failure rate and universal 45-65% BIC are presented as broad premises without systematic population/context qualification (S001:C01-S003:C01).",
+      "Words such as 'fully reversing,' 'unmatched,' 'transformative,' 'near-perfect,' and 'proven' exceed a narrative preclinical synthesis (S001:C01; S031:C02; S043:C01; S046:C02; S052:C01).",
+      "Reclassification of UV-treated titanium as bioactive and the term 'superosseointegration' are conceptual proposals, not consensus classifications (S050:C01).",
+      "The claim that physicochemical management has reached its highest optimization level is not tested against long-term clinical effectiveness, durability, scale, or cost (S051:C01-S051:C04).",
+      "Cross-study numerical ratios may look like comparable effect sizes even though models and endpoints differ."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Introduce a missing dynamic variable into a familiar two-factor model",
+      "execution": "The paper reframes the conventional material-plus-topography account by adding time-dependent physicochemistry (S002:C01-S002:C03).",
+      "locator": "S002:C02",
+      "effectiveness": "high",
+      "transferable_principle": "A conceptual paper earns a new dimension by showing what residual observations it explains, how it changes measurement, and which predictions distinguish it from the old model.",
+      "failure_mode": "A memorable axis diagram is not validation; state whether relationships are empirical, hypothesized, or untested interactions."
+    },
+    {
+      "section": "results_synthesis",
+      "move": "Decompose osseointegration into non-equivalent endpoints",
+      "execution": "Material/topography examples contrast BIC, bone volume, formation speed, matrix hardness, interface adhesion, and removal/push-in strength (S005:C01-S005:C03; S022:C01-S026:C03).",
+      "locator": "S025:C02",
+      "effectiveness": "high",
+      "transferable_principle": "Write implant integration as an outcome vector—contact, amount, spatial pattern, rate, quality, adhesion, anchorage, and durability—instead of a single scalar success label.",
+      "failure_mode": "Do not infer a stronger interface from higher BIC alone or more total bone from faster contact osteogenesis."
+    },
+    {
+      "section": "methods_reporting",
+      "move": "Replace scalar roughness with a multiscale surface fingerprint",
+      "execution": "The review explains why Sa varies with instrumentation and omits Sdr, density, curvature, slope, volume, scale, and spatial morphology (S020:C02-S020:C06).",
+      "locator": "S020:C04",
+      "effectiveness": "high",
+      "transferable_principle": "For every surface comparison, report nominal process, as-measured multiscale morphology, measurement window/resolution, surface state, and functional metric; match the descriptor to the proposed mechanism.",
+      "failure_mode": "Equal Sa does not mean equal topography, and different Sa may reflect scale or measurement protocol rather than biological dose."
+    },
+    {
+      "section": "discussion",
+      "move": "Turn an overlooked covariate into a reproducibility requirement",
+      "execution": "Surface age, carbon, and wettability are identified as potential confounders that should be documented for both control and test specimens (S040:C01-S040:C02).",
+      "locator": "S040:C02",
+      "effectiveness": "high",
+      "transferable_principle": "Report material state at the moment of testing—not only nominal composition and manufacturing—including storage duration, atmosphere, sterilization/cleaning, wettability, and contamination.",
+      "failure_mode": "Do not attribute group differences to topography when sample age and physicochemistry differ."
+    },
+    {
+      "section": "discussion",
+      "move": "State interactions as hypotheses requiring factorial verification",
+      "execution": "The review ultimately says the three dimensions are not always synergistic and calls for independent optimization and systematic interaction mapping (S051:C03-S051:C04).",
+      "locator": "S051:C04",
+      "effectiveness": "high",
+      "transferable_principle": "A multi-axis framework should specify main effects, interactions, moderators, and a factorial validation plan; reserve 'synergy' for a tested interaction.",
+      "failure_mode": "Conceptual interdependence is not an empirical interaction effect."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Clinical/patient/surgical factors, long-term outcomes, and purely engineering studies were outside scope; implementation requires feasibility, scalability, stability, cost, and interdisciplinary validation (S051:C04)."
+    ],
+    "reader_identified": [
+      "No search databases, dates, query, inclusion/exclusion process, study-quality appraisal, evidence table, or certainty grading.",
+      "Strong emphasis on UV and selected studies creates possible confirmation/availability bias even without declared competing interests.",
+      "Secondary-study counts and individual-study values are interwoven without a consistent evidence-unit label.",
+      "The framework underrepresents infection, immune response, corrosion/wear debris, device geometry/loading, host anatomy, and surgical technique despite clinical claims.",
+      "Suggested surface thresholds and cross-material generalization lack independent external validation in the review.",
+      "Some mechanistic statements move from correlation to causation, especially carbon-charge-hydrophilicity and BIC-to-fatigue/clinical stability bridges."
+    ],
+    "likely_bias_direction": [
+      "Narrative selection and superlative framing likely overestimate consistency and maturity of UV effects.",
+      "Animal and cell evidence likely overestimates clinical generalizability and long-term device benefit.",
+      "Comparing nominally similar surfaces across studies without raw surface/age data can produce residual confounding in either direction."
+    ],
+    "scope_boundary": "Use the 3D theory as a manuscript-planning and hypothesis-generation scaffold. Do not treat it as a validated predictive model, a systematic comparative effectiveness review, or proof that UV photofunctionalization universally improves long-term clinical outcomes."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC12317956-01",
+      "capability": "Represent bone-implant integration as a vector of contact, bone amount/pattern, formation rate, matrix quality, interface adhesion, anchorage, and durability, and prevent one endpoint from standing in for the others.",
+      "manuscript_use": "Outcome specification, Results organization, and Discussion interpretation.",
+      "applicable_domains": [
+        "bone_implant",
+        "biomechanics",
+        "osseointegration",
+        "porous_scaffold"
+      ],
+      "applicable_study_designs": [
+        "in_vitro",
+        "animal_study",
+        "clinical_study",
+        "review"
+      ],
+      "supporting_locators": [
+        "S005:C01",
+        "S022:C01",
+        "S023:C01",
+        "S025:C02",
+        "S026:C03"
+      ],
+      "counterexample_or_boundary": "Higher BIC may coexist with unchanged bone volume or anchorage; a mechanical test combines several interface determinants.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12317956-02",
+      "capability": "Write surface characterization as a multiscale fingerprint plus measurement context, rather than reducing morphology to Sa/Ra.",
+      "manuscript_use": "Methods, surface-comparison tables, and comparator-fairness audit.",
+      "applicable_domains": [
+        "bone_implant",
+        "additive_manufacturing",
+        "porous_scaffold",
+        "biomaterials"
+      ],
+      "applicable_study_designs": [
+        "materials_characterization",
+        "animal_study"
+      ],
+      "supporting_locators": [
+        "S015:C01",
+        "S020:C02",
+        "S020:C03",
+        "S020:C04",
+        "S021:C01"
+      ],
+      "counterexample_or_boundary": "Metric choice must follow the proposed mechanism; a longer list of metrics without resolution/window and functional linkage is not better characterization.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12317956-03",
+      "capability": "Treat storage time, cleaning/sterilization, contamination, wettability, and surface charge as material-state variables that can confound nominally matched implant comparisons.",
+      "manuscript_use": "Methods reproducibility checklist, limitations, and evidence extraction.",
+      "applicable_domains": [
+        "bone_implant",
+        "biomaterials",
+        "additive_manufacturing"
+      ],
+      "applicable_study_designs": [
+        "in_vitro",
+        "animal_study",
+        "materials_characterization"
+      ],
+      "supporting_locators": [
+        "S033:C01",
+        "S034:C01",
+        "S037:C01",
+        "S040:C01",
+        "S040:C02"
+      ],
+      "counterexample_or_boundary": "Surface age effects are condition- and treatment-specific; do not impose one universal contact-angle/carbon threshold without validation.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12317956-04",
+      "capability": "Use a multidimensional conceptual framework only after labeling each arrow as measured, predicted, inferred, moderated, or untested, and design factorial tests for claimed interactions.",
+      "manuscript_use": "Conceptual figure, hypothesis, and future-work design.",
+      "applicable_domains": [
+        "all_domains"
+      ],
+      "applicable_study_designs": [
+        "conceptual_review",
+        "multifactor_experiment"
+      ],
+      "supporting_locators": [
+        "S002:C02",
+        "S036:C02",
+        "S037:C03",
+        "S051:C03",
+        "S051:C04"
+      ],
+      "counterexample_or_boundary": "A causal-looking diagram and recurring co-variation do not demonstrate synergy or a validated predictive theory.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_for_conceptual_goal",
+    "methods_transparency": "low",
+    "validation_credibility": "low_for_theory_moderate_for_selected_preclinical_examples",
+    "outcome_uncertainty_reporting": "low_to_moderate",
+    "comparator_fairness": "variable_and_often_confounded_across_cited_studies",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "No reproducible review method or certainty appraisal.",
+      "Heavy preclinical evidence with strong clinical and universal language.",
+      "Non-equivalent endpoints and heterogeneous studies are numerically juxtaposed."
+    ],
+    "overall_credibility": "high_as_a_useful_taxonomy_moderate_for_selected_domain_lessons_low_for_universal_effect_or_maturity_claims"
+  },
+  "summary_zh": "这篇长综述最有价值的不是接受其‘3D 理论’为定论，而是吸收两种写作能力。第一，把骨整合拆成接触率、骨量与空间模式、形成速度、骨基质质量、界面黏附、锚固强度和耐久性，避免 BIC 一项替代全部结局。第二，把材料测试时的表面状态纳入 Methods：加工后经过多久、怎样储存/灭菌/清洗、碳污染、润湿性和电荷状态，都可能让名义相同的表面对比失真。材料—形貌—时间是很好的因果地图，但每条箭头仍须标注实测、预测或推断；UV 的‘超骨整合’叙事主要来自精选的细胞与动物研究，不能直接升级为长期临床普适结论。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section, including the full 22,000-word narrative.",
+    "The experimental-mechanical and animal/clinical cues describe cited evidence, not this review's own design.",
+    "No dataset, systematic search, or formal evidence appraisal was generated by the article."
+  ],
+  "selection": {
+    "selection_reason": "balanced_stratum",
+    "primary_stratum": "bone_implants_fixation",
+    "stratum_rank": 4,
+    "reading_order": 14
+  },
+  "source": {
+    "record_path": "records/PMC12317956.json.gz",
+    "source_record": "records/PMC12317956.json.gz",
+    "source_record_sha256": "b21d43e7412371930ae179227ce3eea7a4c7858f9ef743319b8be411c80b8a00",
+    "source_hash": "b21d43e7412371930ae179227ce3eea7a4c7858f9ef743319b8be411c80b8a00"
+  }
+}

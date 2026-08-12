@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10955129",
+  "paper_id": "doi:10.3389/fbioe.2024.1340482",
+  "pmcid": "PMC10955129",
+  "source_record_sha256": "35a4b887f0f2563966fc34a7484ed03794ea5ba6b9974f638bdb89c84fc52638",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2ce13a156e27e4d2e5b5c7f12eccab9abfec0289fb7cb8ee6e953e4c627d25e0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tension band high-strength suture combined with absorbable cannulated screws for treating transverse patellar fractures: finite element analysis and clinical study",
+    "authors": "Xiang F, Xiao Y, Li D, Ma W, Chen Y, Yang Y.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1340482",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

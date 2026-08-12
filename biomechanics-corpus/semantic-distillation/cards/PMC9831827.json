@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9831827",
+  "paper_id": "doi:10.1016/j.jds.2022.06.020",
+  "pmcid": "PMC9831827",
+  "source_record_sha256": "203a903a86992b82fc68af6a88f1e8b1c8acb6ef8db7db4f60826f12e2386b7e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5704023b25f42dd4e0299e42fa6474c3dc5fb5d2c3e6d984fc9bdc12898d36cd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone regeneration of mouse critical-sized calvarial defects with human mesenchymal stem cell sheets co-expressing BMP2 and VEGF",
+    "authors": "Guo T, Yuan X, Li X, Liu Y, Zhou J.",
+    "year": 2022,
+    "journal": "Journal of Dental Sciences",
+    "doi": "10.1016/j.jds.2022.06.020",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

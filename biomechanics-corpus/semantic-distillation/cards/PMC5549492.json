@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5549492",
+  "paper_id": "doi:10.1155/2017/5093063",
+  "pmcid": "PMC5549492",
+  "source_record_sha256": "e95a85df92581446d10a3a78eafd9070542fc815309d013171724009675eb12b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4ecbd5f1ec8f8b2afc066dcc510ddd602e8b867cbd86b9a733616822a8717ce3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Intrinsic Osteoinductivity of Porous Titanium Scaffold for Bone Tissue Engineering",
+    "authors": "Tamaddon M, Samizadeh S, Wang L, Blunn G, Liu C.",
+    "year": 2017,
+    "journal": "International Journal of Biomaterials",
+    "doi": "10.1155/2017/5093063",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

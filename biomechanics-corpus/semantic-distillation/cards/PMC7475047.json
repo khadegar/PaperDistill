@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7475047",
+  "paper_id": "doi:10.1016/j.artd.2020.07.019",
+  "pmcid": "PMC7475047",
+  "source_record_sha256": "8502b74b1ed32d7cb78bcb6815112e6661bf3ae7cc98cd2093a027f857053625",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9ba7b8daffbc3a199ce4ac6c73d9f25a59f4584300cdfa07fe98a9a668fc7b4f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multiacquisition Variable-Resonance Image Combination Magnetic Resonance Imaging Used to Study Detailed Bone Apposition and Fixation of an Additively Manufactured Cementless Acetabular Shell",
+    "authors": "Alamanda VK, Demartino I, Potter HG, Koff MF, Lin B, Muskat A, Westrich GH.",
+    "year": 2020,
+    "journal": "Arthroplasty Today",
+    "doi": "10.1016/j.artd.2020.07.019",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8825401",
+  "paper_id": "doi:10.1007/s00068-020-01516-9",
+  "pmcid": "PMC8825401",
+  "source_record_sha256": "dc61b13787ef76215794b10af1436be3d5be4f0b5379ca7b7acffd65021b8237",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9012daa3d3440e22d68f409e9a01a8d8f84606b4b50fbf9539ff26581a34849f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of scaffold granule size use in Masquelet technique on periosteal reaction: a study in rat femur critical size bone defect model",
+    "authors": "Leiblein M, Winkenbach A, Koch E, Schaible A, Büchner H, Marzi I, Henrich D, Nau C.",
+    "year": 2020,
+    "journal": "European Journal of Trauma and Emergency Surgery",
+    "doi": "10.1007/s00068-020-01516-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

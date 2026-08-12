@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9227156",
+  "paper_id": "doi:10.3390/polym14122382",
+  "pmcid": "PMC9227156",
+  "source_record_sha256": "4df0dd506e5c62347b312b50b090a334ec71b800540f52bb62dc40d1d6ed4a42",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9cef3edc979843d7b40a808aec329b49308d101947bfe38b2cf4a8069ca94858",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigating Potential Effects of Ultra-Short Laser-Textured Porous Poly-ε-Caprolactone Scaffolds on Bacterial Adhesion and Bone Cell Metabolism",
+    "authors": "Filipov E, Angelova L, Vig S, Fernandes MH, Moreau G, Lasgorceix M, Buchvarov I, Daskalova A.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14122382",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

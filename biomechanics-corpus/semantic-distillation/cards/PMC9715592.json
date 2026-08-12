@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9715592",
+  "paper_id": "doi:10.3389/fbioe.2022.973788",
+  "pmcid": "PMC9715592",
+  "source_record_sha256": "58ee177df4927b6a9827c2d1f99ce9e3cacdb3ba7ee15f29f1c2c920228de2a7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "875d25483e6a422f54bff04c41db58240ee1211bb1826e76b068f1c2c46132d0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The role of computational models in mechanobiology of growing bone",
+    "authors": "Comellas E, Shefelbine SJ.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.973788",
+    "publication_type": "brief-report; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

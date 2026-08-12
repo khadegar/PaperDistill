@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8615027",
+  "paper_id": "doi:10.3390/bioengineering8110178",
+  "pmcid": "PMC8615027",
+  "source_record_sha256": "45616111c1c517d939ea68222afda7c20988faac00dc99eb6d20c132ddf657c6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "29532f6afbb6b2fd12130babb860597c146cae10c739f60e0f4d69e78fc6b953",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioprinting Scaffolds for Vascular Tissues and Tissue Vascularization",
+    "authors": "Hauser PV, Chang HM, Nishikawa M, Kimura H, Yanagawa N, Hamon M.",
+    "year": 2021,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering8110178",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

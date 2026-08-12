@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8964989",
+  "paper_id": "doi:10.1016/j.bioactmat.2022.01.008",
+  "pmcid": "PMC8964989",
+  "source_record_sha256": "3f52760b731246c3bf9b5f5612406faa08f69e540f382016ea3eb82ebdfb1595",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8e0bb5e24a97b2ed54d7b960c983dd536823138b1a7014f297947306e850afa9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Small extracellular vesicles with nanomorphology memory promote osteogenesis",
+    "authors": "Ma L, Ke W, Liao Z, Feng X, Lei J, Wang K, Wang B, Li G, Luo R, Shi Y, Zhang W, Song Y, Sheng W, Yang C.",
+    "year": 2022,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2022.01.008",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

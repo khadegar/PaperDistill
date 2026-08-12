@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9934480",
+  "paper_id": "doi:10.1016/j.bbiosy.2021.100026",
+  "pmcid": "PMC9934480",
+  "source_record_sha256": "1211f6a1e428856be51e22e2dae5d7fb7696cc350d63db1e62b9e716bd3774a8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "40bcb2e272c4683890f048815da6b8d0204cbbe81526111bd355bdfec91b05a1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A review of strategies for development of tissue engineered meniscal implants",
+    "authors": "Klarmann GJ, Gaston J, Ho VB.",
+    "year": 2021,
+    "journal": "Biomaterials and Biosystems",
+    "doi": "10.1016/j.bbiosy.2021.100026",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

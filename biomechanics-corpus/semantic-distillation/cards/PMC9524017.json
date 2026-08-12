@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9524017",
+  "paper_id": "doi:10.1186/s13018-022-03329-5",
+  "pmcid": "PMC9524017",
+  "source_record_sha256": "3c828751fe2750af4446c577af4768f10c056c074402d387b15f46d98480c53f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fb31f8ae0d71f1af6e8e773de9b71526c562231298ba0e87c612a82b05b78ec9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient-specific three-dimensional evaluation of interface micromotion in two different short stem designs in cementless total hip arthroplasty: a finite element analysis",
+    "authors": "Kanaizumi A, Suzuki D, Nagoya S, Teramoto A, Yamashita T.",
+    "year": 2022,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-022-03329-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

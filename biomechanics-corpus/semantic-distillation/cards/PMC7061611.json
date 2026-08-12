@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7061611",
+  "paper_id": "doi:10.1016/j.jpra.2019.05.002",
+  "pmcid": "PMC7061611",
+  "source_record_sha256": "68c2184642adb00a7d5177372083cfc989e243e1baa6d12e04a01559d22817ce",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "caaa2d3b506d1c5b66a8b0e5157632c4b73b142a350b65fe03b54589be563a8e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and manufacturing of a patient-specific nasal implant for congenital arhinia: Case report",
+    "authors": "Borghi A, Ruggiero F, Tenhagen M, Schievano S, Ponniah A, Dunaway D, O'Hara J, Ong J, Britto JA.",
+    "year": 2019,
+    "journal": "JPRAS Open",
+    "doi": "10.1016/j.jpra.2019.05.002",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

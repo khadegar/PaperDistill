@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9577351",
+  "paper_id": "doi:10.1016/j.sdentj.2022.08.006",
+  "pmcid": "PMC9577351",
+  "source_record_sha256": "8725b0e37c591f965b3c8025058274d62049d2bac14781ae022878c2b8062c1e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f5c9ed5a87cfd52ea87993c50d7067ed24bb87ba2bd85947fd7df7355531fc30",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stress analysis and factor of safety in three dental implant systems by finite element analysis",
+    "authors": "Menacho-Mendoza E, Cedamanos-Cuenca R, Díaz-Suyo A.",
+    "year": 2022,
+    "journal": "The Saudi Dental Journal",
+    "doi": "10.1016/j.sdentj.2022.08.006",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10959703",
+  "paper_id": "doi:10.1016/j.mtbio.2024.101023",
+  "pmcid": "PMC10959703",
+  "source_record_sha256": "973d51e122b5756d92e82c1b27c653e37a44dd82a063f733027d9a6c791de05d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2788a5552af2c88d30cd5e29d8cd07d5edda4fab6607e970ad6effd90fcd472b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stepwise degradable PGA-SF core-shell electrospinning scaffold with superior tenacity in wetting regime for promoting bone regeneration",
+    "authors": "Zhang Y, Jian Y, Jiang X, Li X, Wu X, Zhong J, Jia X, Li Q, Wang X, Zhao K, Yao Y.",
+    "year": 2024,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2024.101023",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

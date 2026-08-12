@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9283132",
+  "paper_id": "doi:10.1007/s10237-022-01594-1",
+  "pmcid": "PMC9283132",
+  "source_record_sha256": "3756b4da9c40c4fae2c0ad612907f64ee9bf21cc494d1a5e0f62d2bdfe175a65",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a75114cde57280ac5cf72b5762f0154c20b2dd4dc59a2aa8eac0aeae2b28e31a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Generation of hemipelvis surface geometry based on statistical shape modelling and contralateral mirroring",
+    "authors": "Krishna P, Robinson DL, Bucknill A, Lee PVS.",
+    "year": 2022,
+    "journal": "Biomechanics and Modeling in Mechanobiology",
+    "doi": "10.1007/s10237-022-01594-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

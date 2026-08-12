@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12383523",
+  "paper_id": "doi:10.3390/bioengineering12080844",
+  "pmcid": "PMC12383523",
+  "source_record_sha256": "eae1e16723c69ff4f7eca9047155b0305920e25318e5cd34e64f42eb3b17fc98",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "43fe5361529849cc1be7776d047126e4e33032927026f863861ff5cdbc5b6a6c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Immunomodulatory and Regenerative Functions of MSC-Derived Exosomes in Bone Repair",
+    "authors": "Arun M, Rajasingh S, Madasamy P, Rajasingh J.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12080844",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

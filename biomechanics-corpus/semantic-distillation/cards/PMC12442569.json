@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12442569",
+  "paper_id": "doi:10.1097/shk.0000000000002615",
+  "pmcid": "PMC12442569",
+  "source_record_sha256": "4216d8aefb99d48d016bb23e26727c960c78cd2b8f12c51aa093bfa8cd3f674a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7c263961b2eaf9d690d476701afa05b2d6fe48dfddd709b9ed190741ed7c250a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "PHYSIOLOGICAL FRACTURE HEALING IS UNAFFECTED BY NEUTROPHIL-DERIVED IL-6 OR IL-6R SIGNALING IN MICE",
+    "authors": "Fischer V, Küppers O, Steppe L, Krüger BT, Hidalgo J, Haffner-Luntzer M, Ignatius A.",
+    "year": 2025,
+    "journal": "Shock (Augusta, Ga.)",
+    "doi": "10.1097/shk.0000000000002615",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10995341",
+  "paper_id": "doi:10.3389/fbioe.2024.1360669",
+  "pmcid": "PMC10995341",
+  "source_record_sha256": "c14784985ff34bc4f30fd5c38a704dcfd8846db7a67d2702e3016680a1d80d41",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1026c874649c7ecfbd760bf297d2292b98e3d4af5313cc556a99a3a01819a7b0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Active osseointegration in an ex vivo porcine bone model",
+    "authors": "Hall TAG, Theodoridis K, Kohli N, Cegla F, van Arkel RJ.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1360669",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

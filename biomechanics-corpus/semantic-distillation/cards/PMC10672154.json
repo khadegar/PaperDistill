@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10672154",
+  "paper_id": "doi:10.3390/life13112141",
+  "pmcid": "PMC10672154",
+  "source_record_sha256": "8e40cb889d54066d8e626c138c4e6f51b4d0f106ab871eb7e092abd27f591db9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d1561bfd463090376bd9bd222a0240e58076dd6abd2273022d3c6288baec82f6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Comprehensive Mechanical Characterization of Subject-Specific 3D Printed Scaffolds Mimicking Trabecular Bone Architecture Biomechanics",
+    "authors": "Rojas-Rojas L, Tozzi G, Guillén-Girón T.",
+    "year": 2023,
+    "journal": "Life",
+    "doi": "10.3390/life13112141",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10920147",
+  "paper_id": "doi:10.1016/j.heliyon.2024.e25832",
+  "pmcid": "PMC10920147",
+  "source_record_sha256": "16ca4179adbacf35de8549dcb88ad67ac874bddc382b3fafdfd387a0e74f6d2f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5cf466b4499b4e395ac88db3b56391a056ae0c74fa77713b9b78e1d4d79f279d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication and properties of hydroxyapatite/chitosan composite scaffolds loaded with periostin for bone regeneration",
+    "authors": "Wang H, Sun R, Huang S, Wu H, Zhang D.",
+    "year": 2024,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2024.e25832",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

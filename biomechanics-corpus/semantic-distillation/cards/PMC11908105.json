@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11908105",
+  "paper_id": "doi:10.1186/s12891-025-08498-y",
+  "pmcid": "PMC11908105",
+  "source_record_sha256": "f3e068faf4aae64f35e060595945d075d63f4d90d1f96694d4b205450ba13814",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c547e8afee21e8b812bf623cf159938ad4dba9cc2553b10baacff19a1da16cf8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A magnesium calcium phosphate-based cement as a bone adhesive: characterization and biomechanical evaluation",
+    "authors": "Heilig P, Ritzmann S, Heilig M, Jordan MC, Meffert RH, Gbureck U, Hoelscher-Doht S.",
+    "year": 2025,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-025-08498-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

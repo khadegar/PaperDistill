@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11935154",
+  "paper_id": "doi:10.1002/smsc.202300357",
+  "pmcid": "PMC11935154",
+  "source_record_sha256": "e3c56ab72df860d40f68594e8118961c7325d70f3a2e4f22f54808aeb7a12680",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9225161ebb79c26f46816540f6222cc8539dc7a7924cc47c5ac4cc503e3a4f59",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioinspired Bone Seed 3D‐Printed Scaffold via Trapping Black Phosphorus Nanosheet for Bone Regeneration",
+    "authors": "Cai Z, Chen Z, Tang Y, Cheng L, Qiu M, Wang N, Jiang W, Li Z, Pereira CL, Zhang Y, Sarmento B, Cui W.",
+    "year": 2024,
+    "journal": "Small Science",
+    "doi": "10.1002/smsc.202300357",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

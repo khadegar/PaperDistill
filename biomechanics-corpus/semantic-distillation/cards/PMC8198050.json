@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8198050",
+  "paper_id": "doi:10.3390/ma14113001",
+  "pmcid": "PMC8198050",
+  "source_record_sha256": "fd08e8426c56c91aa145f07850b33402c67a98cc139f6605992e41295c8a9b2c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c968958701c0dfb9c4626ef91314c7de73e991710d32f6e4ca777f14577ce04e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Method for the Evaluation of Early Osseointegration of Implant Materials Ex Vivo: Human Bone Organ Model",
+    "authors": "Zankovic S, Seidenstuecker M, Prall WC, Loos J, Maderer F, Oberle M, Latorre SH, Schilling P, Riedel B, Bernstein A.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14113001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

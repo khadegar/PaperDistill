@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10376773",
+  "paper_id": "doi:10.3390/bioengineering10070759",
+  "pmcid": "PMC10376773",
+  "source_record_sha256": "7ef1436f44f71268b19770ea269e93f9a4e30c3e3f61b40a368afd91c3fb6544",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a83d6369342728881196eab98ef1a2f869e61fa96e5dc4f786afc934dd390349",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Scaffolds for Bone Tissue Engineering",
+    "authors": "Chinnasami H, Dey MK, Devireddy R.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10070759",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

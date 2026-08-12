@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7827332",
+  "paper_id": "doi:10.3390/jcm10020253",
+  "pmcid": "PMC7827332",
+  "source_record_sha256": "5c27ee22ae65b5efd40fd9f9a4aec482012649f1ac42562f8adfe2206de89f76",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "81cadccfddcc9358af94d186829593fbb8fd39864b1aa1cf8f5c91a4abd1c1e3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advances in Osteoporotic Bone Tissue Engineering",
+    "authors": "Codrea CI, Croitoru AM, Baciu CC, Melinescu A, Ficai D, Fruth V, Ficai A.",
+    "year": 2021,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm10020253",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

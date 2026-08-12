@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10020729",
+  "paper_id": "doi:10.5371/hp.2023.35.1.54",
+  "pmcid": "PMC10020729",
+  "source_record_sha256": "b4b64028075129b3fe78e2ea8ecd19aa3d2f1a1578c5f6036e28461ab09eca39",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4227624b0bc2112ca47d1312d009d2ce633e1f86ba650e586dffdc5643f04b74",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Total Hip Arthroplasty with Cemented Dual Mobility Cup into a Fully Porous Multihole Cup with Variable Angle Locking Screws for Acetabular Fractures in the Frail Elderly",
+    "authors": "van den Broek M, Govaers K.",
+    "year": 2023,
+    "journal": "Hip & Pelvis",
+    "doi": "10.5371/hp.2023.35.1.54",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

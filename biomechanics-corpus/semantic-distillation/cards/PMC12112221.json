@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12112221",
+  "paper_id": "doi:10.3390/jfb16050176",
+  "pmcid": "PMC12112221",
+  "source_record_sha256": "bae1028f4dfd6089996e9920f2ecaaacc78c20985e783f4c5809c1b0c3e5ce91",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b4810993fc56e29c7ffddf85f08bc67adcdb291ab34a755db4de93dae5df62b3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Animal Experimental Study on Delayed Implantation in a Severely Atrophic Alveolar Ridge Reconstructed Using a 3D-Printed Bioactive Glass Scaffold: A Pilot Study",
+    "authors": "Deng L, Ai L, Li R, Xu W, Zheng L, Wang C, Huang H.",
+    "year": 2025,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb16050176",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

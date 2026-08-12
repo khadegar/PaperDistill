@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11861085",
+  "paper_id": "doi:10.3389/fbioe.2025.1503582",
+  "pmcid": "PMC11861085",
+  "source_record_sha256": "b00c2b2b8e7a97660ed1a6f520f33a8f4e9a54eab66b3e34048dfdcfbcbb06b1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "35a7513cf514cd15b92fda565c00a363211650d1c397f4bc8ab44d007a39a2ae",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design of novel graded bone scaffolds based on triply periodic minimal surfaces with multi-functional pores",
+    "authors": "Lai R, Jiang J, Huo Y, Wang H, Bosiakov S, Lyu Y, Li L.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1503582",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

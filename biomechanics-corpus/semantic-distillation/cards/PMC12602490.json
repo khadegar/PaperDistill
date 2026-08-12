@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12602490",
+  "paper_id": "doi:10.3389/fbioe.2025.1691524",
+  "pmcid": "PMC12602490",
+  "source_record_sha256": "8934ac46e218e4d398ef41d59dc48c98ca149a0f1f1a4ba189ae3a0ec5c8174b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0abd092447ef156a465c0962a5d2b0665b3f127eaf4b150f2df0e7a979db484e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of four internal fixation systems for two-segment anterior cervical corpectomy and fusion: a finite element analysis",
+    "authors": "Yuan W, Pei L, Wang H, Liu Y, Kang R, Zhu Y.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1691524",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

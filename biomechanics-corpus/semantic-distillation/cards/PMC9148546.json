@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9148546",
+  "paper_id": "doi:10.7759/cureus.24591",
+  "pmcid": "PMC9148546",
+  "source_record_sha256": "bb4e99c205eea398cfaeaa1299f2309f0c9c85ec32e9b373fbb44099441903bc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "69804603289bd8b087f6da2279f62a5dd6a13265d9902061913aa67dc0837c57",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Evaluation of Stress Distribution in Equicrestal and Sub-crestally Placed, Platform-Switched Morse Taper Dental Implants in D3 Bone: Finite Element Analysis",
+    "authors": "Ellendula Y, Chandra Sekar A, Nalla S, Basany RB, Sailasri K, Thandu A.",
+    "year": 2022,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.24591",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

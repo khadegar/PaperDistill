@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12890569",
+  "paper_id": "doi:10.1002/jor.70159",
+  "pmcid": "PMC12890569",
+  "source_record_sha256": "79adc90c38401bc95a51704b37a97c466b7cc7cbe67b1063f3c9976a494138e5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f84e5d9ccf546ba2d2e5af7cdf49f6ad5f2f40788d35567609a827a9294c5804",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of the Dynamic Cut‐Out Failure Modes of Common Proximal Femoral Fixation Devices Using a Mesh‐Free Computational Method",
+    "authors": "Boles EU, Kulper S, Whiffin K, Oentaryo MJ, Schneider K, Leung F, Fang CX.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Research",
+    "doi": "10.1002/jor.70159",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

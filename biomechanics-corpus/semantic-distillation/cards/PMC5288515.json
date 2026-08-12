@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5288515",
+  "paper_id": "doi:10.1155/2017/7372496",
+  "pmcid": "PMC5288515",
+  "source_record_sha256": "37b0832f340284ed64f0f71bd41a82c73f4ca4c487a54aad9b3686836e6bb60a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "387918f31deda5ddc022de8806cf83e0f4e5e19914e3f5db66409b7298f5c593",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Novel Computer-Aided Approach for Parametric Investigation of Custom Design of Fracture Fixation Plates",
+    "authors": "Chen X, He K, Chen Z.",
+    "year": 2017,
+    "journal": "Computational and Mathematical Methods in Medicine",
+    "doi": "10.1155/2017/7372496",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

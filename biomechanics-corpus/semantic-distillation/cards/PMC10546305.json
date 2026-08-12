@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10546305",
+  "paper_id": "doi:10.3389/fsurg.2023.1237075",
+  "pmcid": "PMC10546305",
+  "source_record_sha256": "ea511478a6d7f784f692e617486624e745318b7fdbc00cbcfa3d6667ee69538d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fff8d9890cff4a70adf6147e2295f3743fe210279ea2a04fdb29befe5cb5423b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Artificial intelligence planning and 3D printing augmented modules in the treatment of a complicated hip joint revision: a case report",
+    "authors": "Liu Y, Zhang Z, Wang W, Yu C, Liu C, Huang Z, Xu K, Zhang H.",
+    "year": 2023,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2023.1237075",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

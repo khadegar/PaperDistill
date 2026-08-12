@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10817782",
+  "paper_id": "doi:10.12336/biomatertransl.2023.03.005",
+  "pmcid": "PMC10817782",
+  "source_record_sha256": "c7622f5de3ccb594466ed80f797909e4a2afac5582c7bbaa9ee075bbf3a6488e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9e476f8dbb5fe4d2249fe66e4e300a2e75f112c74a195f85bd3dfd4c5d084064",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Research progress and clinical translation of three-dimensional printed porous tantalum in orthopaedics",
+    "authors": "Ying J, Yu H, Cheng L, Li J, Wu B, Song L, Yi P, Wang H, Liu L, Zhao D.",
+    "year": 2023,
+    "journal": "Biomaterials Translational",
+    "doi": "10.12336/biomatertransl.2023.03.005",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

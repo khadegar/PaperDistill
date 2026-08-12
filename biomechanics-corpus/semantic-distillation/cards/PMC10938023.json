@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10938023",
+  "paper_id": "doi:10.5397/cise.2023.00493",
+  "pmcid": "PMC10938023",
+  "source_record_sha256": "b3fbcdff5bd4d2cc093d3daa5c2b149df81cf01fde1abfbb48db600bdeebb12c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dbf1e2fe83bcecb11b59458be10d423df8b233a1b6009cb9a8818defd7005a57",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Ten technical aspects of baseplate fixation in reverse total shoulder arthroplasty for patients without glenoid bone loss: a systematic review",
+    "authors": "Spek RWA, Hoogervorst LA, Brink RC, Schoones JW, van Deurzen DFP, van den Bekerom MPJ.",
+    "year": 2023,
+    "journal": "Clinics in Shoulder and Elbow",
+    "doi": "10.5397/cise.2023.00493",
+    "publication_type": "research-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

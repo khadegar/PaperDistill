@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10761775",
+  "paper_id": "doi:10.1016/j.mtbio.2023.100886",
+  "pmcid": "PMC10761775",
+  "source_record_sha256": "1ef1c16c94fab696f853aeeb723abec1cf3b696f57c5958d17280d813df820a6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "00d9ebfa284f01e63809efa66fc988f71ef76e39ece846af80114adc9289d091",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of graphene and graphene oxide induced reactive oxygen species on polycaprolactone scaffolds for bone cancer applications",
+    "authors": "Hou Y, Wang W, Bartolo P.",
+    "year": 2024,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2023.100886",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

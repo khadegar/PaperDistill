@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11085737",
+  "paper_id": "doi:10.3390/polym16091243",
+  "pmcid": "PMC11085737",
+  "source_record_sha256": "32252e6cfbc77d909df80d80aaf19177310d0b212fc791d756d6745449910215",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dd4473f4dccf0f60ef9f418a5507a899049bfda2acd803638069ede7e21797ea",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced Bone Healing in Critical-Sized Rabbit Femoral Defects: Impact of Helical and Alternate Scaffold Architectures",
+    "authors": "Alonso-Fernández I, Haugen HJ, Nogueira LP, López-Álvarez M, González P, López-Peña M, González-Cantalapiedra A, Muñoz-Guzón F.",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16091243",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

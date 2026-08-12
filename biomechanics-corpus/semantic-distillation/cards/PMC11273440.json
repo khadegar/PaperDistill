@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11273440",
+  "paper_id": "doi:10.3390/bioengineering11070705",
+  "pmcid": "PMC11273440",
+  "source_record_sha256": "d1def9ab8cb9dbcc7e587f8a3a97a4684f357562d7927132f34ccfc33f0f3663",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5eb74092186e576912e1ed1414107649abf20508b846cf2a26e0585ea82e45d6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Emerging Biomedical and Clinical Applications of 3D-Printed Poly(Lactic Acid)-Based Devices and Delivery Systems",
+    "authors": "Barcena AJR, Ravi P, Kundu S, Tappa K.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11070705",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

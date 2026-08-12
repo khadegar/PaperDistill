@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9294404",
+  "paper_id": "doi:10.3389/fbioe.2022.939371",
+  "pmcid": "PMC9294404",
+  "source_record_sha256": "9a968b1922de2540220793bca1cc28788a727ce1eb40a36f1d55f06774757299",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d2ea1f67f6c9c40c7581ee061ad776f71af43b7d9276032a3c53fe2ae48a81fa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Comparison Between Porous Ti6Al4V Block and Tumor Prosthesis UHMWPE Block for the Treatment of Distal Femur Bone Defects",
+    "authors": "Zhang J, Liu Y, Han Q, Zhang A, Chen H, Ma M, Li Y, Chen B, Wang J.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.939371",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10078475",
+  "paper_id": "doi:10.1002/app.53593",
+  "pmcid": "PMC10078475",
+  "source_record_sha256": "810ce7a9f2bdcbdc8bffe47cb27672614bc99f22fc3bfa705e9a82510fc3f692",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5bd07aab5ac924d85f9039f6090614d8f6428397accb4f0fce3fb92bc46a336b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Extrusion 3D printing of a multiphase collagen‐based material: An optimized strategy to obtain biomimetic scaffolds with high shape fidelity",
+    "authors": "Montalbano G, Calore AR, Vitale-Brovarone C.",
+    "year": 2023,
+    "journal": "Journal of Applied Polymer Science",
+    "doi": "10.1002/app.53593",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

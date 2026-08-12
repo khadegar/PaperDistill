@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8314600",
+  "paper_id": "doi:10.1186/s13018-021-02618-9",
+  "pmcid": "PMC8314600",
+  "source_record_sha256": "e69f1111a669dfa26a59b363b8cd1a3b6c0d101c7ff60a4bd9e176b5ec4977a4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "88bf473d2bf593c0ced1ea748463557c274275b4dc7ae9ba6c5f53cff06d2bbc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modified pedicle screw-rod versus anterior subcutaneous internal pelvic fixation for unstable anterior pelvic ring fracture: a retrospective study and finite element analysis",
+    "authors": "Pan ZH, Chen FC, Huang JM, Sun CY, Ding SL.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-021-02618-9",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9945756",
+  "paper_id": "doi:10.1016/j.mtbio.2023.100569",
+  "pmcid": "PMC9945756",
+  "source_record_sha256": "f2a13a8539b690260eafff0b83146d2acf05bfa91a3f0812d87747dec862e40a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "80d798a9ecf63f04a58bbbe13e3008fdc2896b2fb6f979ff40cc1a97974b620d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Human urine-derived stem cell exosomes delivered via injectable GelMA templated hydrogel accelerate bone regeneration",
+    "authors": "Lu W, Zeng M, Liu W, Ma T, Fan X, Li H, Wang Y, Wang H, Hu Y, Xie J.",
+    "year": 2023,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2023.100569",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

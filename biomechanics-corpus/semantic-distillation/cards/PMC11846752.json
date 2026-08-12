@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11846752",
+  "paper_id": "doi:10.1007/s10237-024-01903-w",
+  "pmcid": "PMC11846752",
+  "source_record_sha256": "ad0702ca4f4824f4bc414ffe71f2ea4102c07d94f8451c99123ddb392ebff847",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "66694333507af4214d3f061ec85fb8085937cf0361c56315be32ba5f8be0f0a0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A non-intrusive reduced-order model for finite element analysis of implant positioning in total hip replacements",
+    "authors": "Reiber M, Bensel F, Zheng Z, Nackenhorst U.",
+    "year": 2024,
+    "journal": "Biomechanics and Modeling in Mechanobiology",
+    "doi": "10.1007/s10237-024-01903-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

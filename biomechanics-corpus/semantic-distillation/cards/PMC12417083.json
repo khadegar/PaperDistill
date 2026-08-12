@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12417083",
+  "paper_id": "doi:10.1093/rb/rbaf080",
+  "pmcid": "PMC12417083",
+  "source_record_sha256": "f0ea564a4d2287d495d6c4dbd9cd689acc458b7059b9b184f793eb58ce26e88e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bb5cd351e78045d21bf171c194de657e03ee2d8f2306b082edc569333dcf359f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional-printed strontium-incorporated β-TCP bioceramic triply periodic minimal surface scaffolds with enhanced angiogenic and osteogenic properties",
+    "authors": "Shan Y, Bai Y, Zhao L, Zhou Q, Yang S, Wang G, Lei Y, Lu Y, Wu Y, Wei Y, Peng J, He R, Wen N, Gu B.",
+    "year": 2025,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbaf080",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

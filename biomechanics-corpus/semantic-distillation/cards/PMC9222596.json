@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9222596",
+  "paper_id": "doi:10.3390/gels8060360",
+  "pmcid": "PMC9222596",
+  "source_record_sha256": "8e51957075c19ab0fe1620510a86df19997d03d3c133e4ec401525bea44a0ade",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6da7536ce2b0f76e221e147fca97993e0ef816ae994c3cbe2328ef8a01f2a814",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Poloxamer-Based Scaffolds for Tissue Engineering Applications: A Review",
+    "authors": "Cui N, Dai CY, Mao X, Lv X, Gu Y, Lee ES, Jiang HB, Sun Y.",
+    "year": 2022,
+    "journal": "Gels",
+    "doi": "10.3390/gels8060360",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

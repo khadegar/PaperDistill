@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12467573",
+  "paper_id": "doi:10.3390/biomimetics10090634",
+  "pmcid": "PMC12467573",
+  "source_record_sha256": "ca1ed0a406308dcdc1eafaa3ca99afa4379704715399e3b0516e6018f818c266",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dfecbd8983381d280989c77de60dea86e6ed24b4fd23ce9e686d79ffeaa2d080",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Novel Clinical Applications of 3D-Printed Highly Porous Titanium for Off-the-Shelf Cementless Joint Replacement Prostheses",
+    "authors": "Tigani D, Lamattina L, Puteo N, Donadono C, Banci L, Colombo M, Pizzo A, Assenza A.",
+    "year": 2025,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics10090634",
+    "publication_type": "other; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12692921",
+  "paper_id": "doi:10.3390/ma18235421",
+  "pmcid": "PMC12692921",
+  "source_record_sha256": "d85140e729cb12b156f7443a4ed4a34598eb39fda2820309666e8ec4126da7aa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1fa31102bc233ef0ee8c6a36755c7dae34f54d1116124ff1b4c176ea12113633",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advances in Titanium-Based Biomaterial for Human Bone Scaffolds: Narrative Review on Design, Fabrication, Surface Engineering, Implantation, and Biological Evaluation",
+    "authors": "Fita SW, Bonek M, Woźniak A, Sławski S.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18235421",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

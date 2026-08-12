@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13233421",
+  "paper_id": "doi:10.3389/fbioe.2026.1799341",
+  "pmcid": "PMC13233421",
+  "source_record_sha256": "d39b5a845ff6787a846cdc67b16fedc36016889a2cc844f91e16cdff49603b05",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "90daec1d04dc787ba981b36a47027bdeaef2cb57dcc11f859619a26cdba85eec",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical risk factors for tibial plateau fracture following Oxford unicompartmental knee arthroplasty: a finite element analysis under gait loading",
+    "authors": "Ji J, Xue L, Hou Y, Li Z, Tu Y, Xue H, Wen T, Yang T, Ma T.",
+    "year": 2026,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2026.1799341",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9457366",
+  "paper_id": "doi:10.3390/ma15175866",
+  "pmcid": "PMC9457366",
+  "source_record_sha256": "3c3705b2558e9d17fdcaeae8f0be9d0779494cb8bc2279d55f241342696f22ef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dab9f05b0cd83fc05c796b8b943577862442ef89cbe6d423b6cdc585da1ee161",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of Marginal Bone Loss Progression on Stress Distribution in Different Implant–Abutment Connections and Abutment Materials: A 3D Finite Element Analysis Study",
+    "authors": "Lin CP, Shyu YT, Wu YL, Tsai MH, Chen HS, Wu AY.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15175866",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

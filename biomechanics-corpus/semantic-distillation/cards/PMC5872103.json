@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5872103",
+  "paper_id": "doi:10.3390/jfb9010017",
+  "pmcid": "PMC5872103",
+  "source_record_sha256": "a528ff370481379fc76a1f80820c0b7f6875652ffea74b056998d0affe8de9c3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ea264f35bf9cebe871b0f15a6c49502dad8b03d16fc4418db5981ff43f9e59b2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Novel Biomaterials Used in Medical 3D Printing Techniques",
+    "authors": "Tappa K, Jammalamadaka U.",
+    "year": 2018,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb9010017",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

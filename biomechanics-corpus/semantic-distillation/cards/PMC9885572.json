@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9885572",
+  "paper_id": "doi:10.1186/s13018-023-03556-4",
+  "pmcid": "PMC9885572",
+  "source_record_sha256": "e5cc980d5582f00e8830b1421cd96577a4ebac92abb6cf2d94ca172182833e95",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4f5a196f97e50b2ee3e3618c15e7c2efe13e44a0bd11addd03a52f6a9fc08876",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical performance of porous biomimetic intervertebral body fusion devices: an in vitro biomechanical study",
+    "authors": "Tsuang FY, Li MJ, Chu PH, Tsou NT, Sun JS.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-03556-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

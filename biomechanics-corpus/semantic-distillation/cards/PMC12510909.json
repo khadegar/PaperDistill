@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12510909",
+  "paper_id": "doi:10.1002/cnm.70103",
+  "pmcid": "PMC12510909",
+  "source_record_sha256": "96cf7a8a69b549d4d486146bdc2ba4dde3062d086c88371692f790be086cf40b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7ccc06ba927cb769d81f2ba80a16d4079ab8a1793a869fbafbd3a39c58112055",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical Stimulation in the Residual Femur During Gait in Transfemoral Prosthesis Users Provides a Potential Reason for Bone Mineral Density Loss",
+    "authors": "Zavaleta-Ruiz JL, Fatone S, Major MJ, Pankaj P.",
+    "year": 2025,
+    "journal": "International Journal for Numerical Methods in Biomedical Engineering",
+    "doi": "10.1002/cnm.70103",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

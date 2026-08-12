@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11786794",
+  "paper_id": "doi:10.1016/j.jot.2024.10.010",
+  "pmcid": "PMC11786794",
+  "source_record_sha256": "0fc42fa629c27b622416595475577b6856b6f5ca6d6d0b3b2bba17ebe3bc0f79",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8e5cdd384c580b12ffba276c92371462ea9af4a13a478cd63712216b2406827f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of biological performance of 3D printed trabecular porous tantalum spine fusion cage in large animal models",
+    "authors": "Zhang Y, Yang J, Wan W, Zhao Q, Di M, Zhang D, Liu G, Chen C, Sun X, Zhang W, Bian H, Liu Y, Tian Y, Xue L, Dou Y, Wang Z, Li Q, Yang Q.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2024.10.010",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

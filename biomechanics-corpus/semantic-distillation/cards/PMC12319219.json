@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12319219",
+  "paper_id": "doi:10.34172/bi.30835",
+  "pmcid": "PMC12319219",
+  "source_record_sha256": "d2402c17dd7fa97ea8857f809918c245ea227ee886712595836f4e8ad60ca175",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f33f19089643875e78f58ce6ea763667fe29882ff771f0cd67c8a648053bba4a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhancing bone tissue engineering with polyacrylonitrile electrospun scaffolds and graphene quantum dots: A comprehensive approach to regenerative medicine",
+    "authors": "Sehat-Kashani S, Naddaf H, Hoveizi E.",
+    "year": 2025,
+    "journal": "BioImpacts : BI",
+    "doi": "10.34172/bi.30835",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

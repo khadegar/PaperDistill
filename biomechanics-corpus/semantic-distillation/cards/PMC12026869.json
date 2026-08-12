@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12026869",
+  "paper_id": "doi:10.3390/ijms26083598",
+  "pmcid": "PMC12026869",
+  "source_record_sha256": "3adb5987da9812e3828f0c0bab112eee6e3edafba54efa6e91a2dab3d214bfc3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fcff73bb954ae5ee66ab93544fcd9b08e479cf987d2580b27661d32e7d854b96",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Transcriptomic Profile of Human Osteoblast-like Cells Grown on Trabecular Titanium",
+    "authors": "Castoldi G, Mauri M, D'Aliberti D, Spinelli S, Testa L, Gaverina F, Rubinacci A, Villa I, Bellelli G, Zerbini G, Piazza R, Zatti G.",
+    "year": 2025,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms26083598",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

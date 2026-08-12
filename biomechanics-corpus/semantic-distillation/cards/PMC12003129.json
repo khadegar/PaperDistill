@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12003129",
+  "paper_id": "doi:10.3389/fphys.2025.1539342",
+  "pmcid": "PMC12003129",
+  "source_record_sha256": "877c14fef7debba980d60e3a1aba4e2ccf3761c4a7188c57b98e460fe6d77f4d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "160759c35eb019e9e96aafb0343078a96d5b3aac63950263531164f4071c7bba",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Different effects of abnormal mechanical stress on temporomandibular joint cartilage, subchondral bone, and discs",
+    "authors": "Xiao M, Ni S.",
+    "year": 2025,
+    "journal": "Frontiers in Physiology",
+    "doi": "10.3389/fphys.2025.1539342",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

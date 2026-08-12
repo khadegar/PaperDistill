@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10743419",
+  "paper_id": "doi:10.3390/jfb14120557",
+  "pmcid": "PMC10743419",
+  "source_record_sha256": "62203c8e2355774d86996f37273328a114aa86ba51442a847d91a0f03857d433",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2714939fb28c4602928caf0f4954da3e80a504b3b963ac54f0f1523ae146d0af",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis of Axial Gradient Porous Dental Implants: A Finite Element Analysis",
+    "authors": "Zhang C, Wang Y.",
+    "year": 2023,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb14120557",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

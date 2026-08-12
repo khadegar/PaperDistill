@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10925493",
+  "paper_id": "doi:10.1111/os.13994",
+  "pmcid": "PMC10925493",
+  "source_record_sha256": "0c979b67cad929b6f6afa0a1df32bcc7eafc333ee94b120b4f63646ad3134d47",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ecd15adbfb5ed4dce08604d85d766dfc3f51370b57f75170f270af3c039072f8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Comparison of Anterior Cervical Corpectomy Decompression and Fusion, Anterior Cervical Discectomy and Fusion, and Anterior Controllable Antedisplacement and Fusion in the Surgical Treatment of Multilevel Cervical Spondylotic Myelopathy: A Finite Element Analysis",
+    "authors": "Kong Q, Li F, Yan C, Sun J, Sun P, Ou-Yang J, Zhong S, Wang Y, Shi J.",
+    "year": 2024,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13994",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

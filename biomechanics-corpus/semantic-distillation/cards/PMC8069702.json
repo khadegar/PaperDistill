@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8069702",
+  "paper_id": "doi:10.3390/polym13081232",
+  "pmcid": "PMC8069702",
+  "source_record_sha256": "11e5e5453db25b3ee80ad4f35193c4c3351dcb88349f1699f2889c81b78ac05a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "45a323f821efae0d7f871264a767083eb3878fa4d6d3103f830053fa3ec5805d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "PHB/CHIT Scaffold as a Promising Biopolymer in the Treatment of Osteochondral Defects—An Experimental Animal Study",
+    "authors": "Petrovova E, Tomco M, Holovska K, Danko J, Kresakova L, Vdoviakova K, Simaiova V, Kolvek F, Hornakova P, Toth T, Zivcak J, Gal P, Sedmera D, Luptakova L, Medvecky L.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13081232",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

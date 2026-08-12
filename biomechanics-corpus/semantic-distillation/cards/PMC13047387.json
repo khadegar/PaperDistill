@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13047387",
+  "paper_id": "doi:10.4055/cios25232",
+  "pmcid": "PMC13047387",
+  "source_record_sha256": "0a8dc46469433930a85e81c5493799e286a774e769d72b5319bce098c81f4b76",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "69a8b645f131eb4cbc40fb8939dcaee1e2e1c4d489db64edb28a3ae2f4aecadd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Can the Finite Element Method Be Applied to Patient-Specific Implant Evaluation?",
+    "authors": "Lee S, Park H, Kang HG, Kim JH, Jung ID, Park JW.",
+    "year": 2026,
+    "journal": "Clinics in Orthopedic Surgery",
+    "doi": "10.4055/cios25232",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

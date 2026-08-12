@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7867679",
+  "paper_id": "doi:10.34172/joddd.2020.047",
+  "pmcid": "PMC7867679",
+  "source_record_sha256": "7bda4d2725da413984e2953cfbb99a76ab26c8f4ccf4181fd900d37ff937b072",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "406762d201fff1b13901ef9134b4038a9b61e5169cb7fcad824aa79a26501341",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Number of dental abutments influencing the biomechanical behavior of tooth‒implant-supported fixed partial dentures: A finite element analysis",
+    "authors": "de Oliveira JC, Sordi MB, da Cruz ACC, Zanetti RV, Betiol EAG, Vieira SR, Zanetti AL.",
+    "year": 2020,
+    "journal": "Journal of Dental Research, Dental Clinics, Dental Prospects",
+    "doi": "10.34172/joddd.2020.047",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

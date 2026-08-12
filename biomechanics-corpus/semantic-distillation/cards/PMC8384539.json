@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8384539",
+  "paper_id": "doi:10.1155/2021/6419774",
+  "pmcid": "PMC8384539",
+  "source_record_sha256": "695e23e4c95ca58377e5aa6e532e8e7d0d045a76e36d0c5290cf9812297b0c04",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "12a30278951add4a9c335e10e402798c27d1a339ce18ab78670d89c3822b1cd6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Stress in Obturator Prostheses: A Systematic Review of Finite Element Studies",
+    "authors": "Mousa MA, Abdullah JY, Jamayet NB, Alam MK, Husein A.",
+    "year": 2021,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2021/6419774",
+    "publication_type": "Systematic Review; review-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

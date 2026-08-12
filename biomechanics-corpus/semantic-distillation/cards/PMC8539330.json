@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8539330",
+  "paper_id": "doi:10.3390/ma14206027",
+  "pmcid": "PMC8539330",
+  "source_record_sha256": "48f649a789063cfa57a7017372aecc4e7f799a3b0120527ee61b9f7435f42f97",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "308c6a830690d4e2c46230ab9d0fe112bc1c1be656548325b85da5e897f294f2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Degradation Product Thickness on the Elastic Stiffness of Porous Absorbable Scaffolds Made from an Bioabsorbable Zn–Mg Alloy",
+    "authors": "Bühring J, Voshage M, Schleifenbaum JH, Jahr H, Schröder KU.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14206027",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

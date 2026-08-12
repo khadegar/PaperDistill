@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8724118",
+  "paper_id": "doi:10.1007/s11517-021-02465-0",
+  "pmcid": "PMC8724118",
+  "source_record_sha256": "2c85653a7feda577938819e5d424f12b0cba6b71fb048a74865511876f83f38b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7edd9e326535253e58b6ff5483045456e7e222dcd3cbff675914684b2db9cad4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Determination of anisotropic elastic parameters from morphological parameters of cancellous bone for osteoporotic lumbar spine",
+    "authors": "Oefner C, Riemer E, Funke K, Werner M, Heyde CE, Schoenfelder S.",
+    "year": 2021,
+    "journal": "Medical & Biological Engineering & Computing",
+    "doi": "10.1007/s11517-021-02465-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

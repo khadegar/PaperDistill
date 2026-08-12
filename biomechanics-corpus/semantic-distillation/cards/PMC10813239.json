@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10813239",
+  "paper_id": "doi:10.3390/bioengineering11010068",
+  "pmcid": "PMC10813239",
+  "source_record_sha256": "31ae23e9f7b22fdd4f267e6e12398cc4dcd34b60fa522a9cdd34a3f4d07d31bb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fe47b28577c1950f704d6ede0dc3c8da03fc5488074c39d0779b9365dfb6da31",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Perfusable Tissue Bioprinted into a 3D-Printed Tailored Bioreactor System",
+    "authors": "Gensler M, Malkmus C, Ockermann P, Möllmann M, Hahn L, Salehi S, Luxenhofer R, Boccaccini AR, Hansmann J.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11010068",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

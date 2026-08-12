@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12333476",
+  "paper_id": "doi:10.1002/adhm.202404768",
+  "pmcid": "PMC12333476",
+  "source_record_sha256": "2c2efb325098eba304ac1795d85582b33c964284822fbec1ef9ad5a5b291a347",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "18f1441bb67199ded961ebe37788a5e7fa5d8d39144cf2c75db119fb8764f23b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "TPMS‐Gyroid Scaffold‐Mediated Up‐Regulation of ITGB1 for Enhanced Cell Adhesion and Immune‐Modulatory Osteogenesis",
+    "authors": "Wang J, Huang Z, Han Z, Luan J, Li Z, Guo X, Yang D, Cui Y, Han J, Xu D.",
+    "year": 2025,
+    "journal": "Advanced Healthcare Materials",
+    "doi": "10.1002/adhm.202404768",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

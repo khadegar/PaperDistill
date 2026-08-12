@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11592037",
+  "paper_id": "doi:10.3390/biomimetics9110651",
+  "pmcid": "PMC11592037",
+  "source_record_sha256": "d14035bc1fb7bf08b82479e6bbd380c9daf5993a4de64bca5ff410c8e334f09e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "38c4c297585d8f5004bf99b1b3c446120f6f8e2b1044f1fc23e69b379efb2815",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced Mechanical Properties and Degradation Control of Poly(Lactic) Acid/Hydroxyapatite/Reduced Graphene Oxide Composites for Advanced Bone Tissue Engineering Application",
+    "authors": "Omigbodun FT, Oladapo BI.",
+    "year": 2024,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics9110651",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

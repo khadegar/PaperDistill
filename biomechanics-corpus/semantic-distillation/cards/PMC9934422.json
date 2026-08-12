@@ -1,0 +1,313 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9934422",
+  "paper_id": "doi:10.1016/j.bbiosy.2021.100013",
+  "pmcid": "PMC9934422",
+  "source_record_sha256": "5041e5fa1a0b13309432d25009fd78115cf3e13698ae8203ec05f005ab4842cb",
+  "reading": {
+    "status": "completed",
+    "packet_sha256": "e63d10e8f869f55c2f21734a41cfcae386e0b61c2d4ea22927c8fd11e307c68f",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S003:C01",
+      "S004:C01",
+      "S004:C02",
+      "S005:C01",
+      "S006:C01",
+      "S007:C01",
+      "S007:C02",
+      "S008:C01",
+      "S008:C02",
+      "S009:C01",
+      "S010:C01",
+      "S011:C01",
+      "S012:C01"
+    ],
+    "omissions": [],
+    "access_level": "full_text_read",
+    "reader_role": "luna_primary",
+    "reader_model": "gpt-5.6-luna",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T15:30:00Z",
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Current interpretations on the in vivo response of bone to additively manufactured metallic porous scaffolds: A review",
+    "authors": "Deering J, Grandfield K.",
+    "year": 2021,
+    "journal": "Biomaterials and Biosystems",
+    "doi": "10.1016/j.bbiosy.2021.100013",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "narrative_review_with_quantitative_evidence_map",
+    "design_features": [
+      "cross-study_in_vivo_histology_and_histomorphometry_review",
+      "additive_manufacturing_process_and_architecture_synthesis",
+      "preclinical_animal_model_comparison",
+      "porous_metal_osseointegration_and_osteoconduction_review"
+    ],
+    "research_problem": "Additively manufactured metallic lattices offer controllable porosity and stiffness, but the in-vivo bone response depends on manufacturing, lattice topology, pore geometry, material state, animal model, and implantation time. The field lacks a consistent biological interpretation of bone maturation, interior ingrowth, and fixation across these conditions.",
+    "exact_gap": "Prior reviews emphasized materials, processing, mechanical properties, or surface modification; this review instead maps in-vivo histological and histomorphometric responses. It finds no systematic, condition-matched evidence that identifies an optimum pore architecture, pore size, porosity, or unit cell for osseointegration in a critical-sized defect.",
+    "objective_or_hypothesis": "Survey in-vivo studies of additively manufactured metallic porous implants, classify fabrication and lattice architectures, and synthesize histological, histomorphometric, and mechanical-proxy trends while exposing animal-model and measurement heterogeneity.",
+    "study_design": "Narrative review with quantitative table extraction from cited preclinical in-vivo studies; the authors synthesize published histology/histomorphometry and do not perform a new animal experiment or pooled meta-analysis.",
+    "sample_or_model": "Reviewed studies used murine, leporine, canine, caprine, ovine, porcine, and other preclinical models with titanium, Ti-6Al-4V, tantalum, iron-manganese, and related porous implants produced mainly by powder-bed AM. The review reports study-level ranges rather than one pooled sample.",
+    "comparators": [
+      "Reticulated, stochastic, TPMS, functionally graded, micromachined, and other lattice architectures",
+      "Pore sizes from roughly 50 to >1000 micrometres, varied strut thickness, and porosity from 30% to 83.5%",
+      "Commercially pure titanium/Ti-6Al-4V versus tantalum or iron-manganese and solid controls",
+      "Outer versus inner lattice regions and different histomorphometric segmentation schemes",
+      "Different animal species, anatomical sites, implantation times, and critical-sized defects"
+    ],
+    "method_spine": [
+      "Summarize SLM, EBM, SLS, DMLS, and directed-energy deposition limitations and the materials represented in in-vivo studies.",
+      "Classify reticulated, stochastic, TPMS, functionally graded, and other architectures and relate strut/unit-cell changes to nominal pore size, porosity, transport, and mechanical response.",
+      "Contrast species, defect size, implantation time, woven-to-lamellar maturation, fibrosis, and bone penetration.",
+      "Define BV/TV, BA, BIC, pull-out, push-out, and removal torque, while highlighting inconsistent inner/outer segmentation.",
+      "Synthesize conditional pore/porosity trends and state that the apparent 600 micrometre/75% guideline is largely leporine and not an established clinical optimum."
+    ],
+    "validation_roles": {
+      "verification": [
+        "The review does not verify an original process, specimen, or model; manufacturing percentages and histomorphometric values are reported from cited studies (S003:C01; S008:C01-S008:C02)."
+      ],
+      "calibration": [
+        "No cross-study calibration of pore measurement, histology segmentation, animal defect size, or mechanical test is provided; review tables retain each study's conditions (S006:C01; S008:C01)."
+      ],
+      "validation": [
+        "Published in-vivo histology/histomorphometry provides secondary evidence about osseointegration, but species, anatomy, processing, and timing prevent direct validation of one universal lattice rule (S006:C01; S009:C01)."
+      ],
+      "sensitivity": [
+        "Qualitative sensitivity to pore size, porosity, strut size, topology, location, species, and time is discussed; no formal pooled sensitivity analysis or standardized dose-response model is performed (S005:C01; S009:C01)."
+      ],
+      "application_prediction": [
+        "The review suggests 300-600 micrometre pores, 50-70% porosity, and approximately 600 micrometre pores/75% porosity as conditional design directions, but these are application recommendations derived mainly from heterogeneous animal evidence (S007:C02; S010:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "Among reviewed in-vivo porous implants, approximately 98% used powder-bed processes (78% SLM, 12% EBM, 5% SLS, 3% DMLS) and most materials were Ti-6Al-4V (53%) or commercially pure titanium (44%); the remaining 3% included tantalum or iron-manganese (S003:C01).",
+      "Reviewed pore sizes span 50-1200 micrometres, strut thickness 120-800 micrometres, and porosity 30-83.5%; the review states that processing and topology are difficult to isolate (S005:C01).",
+      "Fibrous tissue can enter lattices at high porosity and ~600 micrometre pores, and exterior fibrosis can reduce BIC even when interior trabecular bone is healthy; woven bone generally precedes lamellar bone, with maturation delayed in high-porosity leporine implants (S007:C01-S007:C02).",
+      "Histomorphometry is commonly reported as BV/TV, BA, BIC, pull-out, push-out, or removal torque, but inner/outer region segmentation is inconsistent and larger-mammal interiors can show substantially less bone penetration than exteriors (S008:C01).",
+      "The review observes favorable but conflicting pore-size trends: many studies cluster around 300-600 micrometres, while canine data favor different sizes for penetration depth, bone area, or trabecular thickness; unit-cell architecture effects are also contradictory (S009:C01).",
+      "The review concludes that 50-70% porosity often shows reasonable osseointegration, 400-600 micrometre reticulated lattices at 60-70% porosity are most commonly studied, and an approximate 600 micrometre/75% combination is associated with early fibrovascular tissue and maturation largely from leporine data (S010:C01)."
+    ],
+    "highest_evidence_level_reached": "Heterogeneous secondary synthesis of preclinical in-vivo histology and histomorphometry; no standardized cross-species comparison, pooled effect estimate, original experiment, or clinical validation of an optimum lattice is reached."
+  },
+  "argument_map": {
+    "central_claim": "In-vivo response to additively manufactured metallic lattices is conditional on topology, pore/strut geometry, porosity, material/process state, species, site, and time; current evidence supports design ranges and measurement practices, not a universal optimum.",
+    "data": [
+      "Fabrication and material frequencies show that the evidence base is dominated by SLM titanium lattices, not by a balanced comparison of materials or processes (S003:C01).",
+      "Histological observations link fibrosis, strain, woven-to-lamellar maturation, porosity, and animal model to the quality and location of bone apposition (S007:C01-S007:C02).",
+      "Tables of BV/TV, BA, BIC, pull-out, and push-out values show strong dependence on pore size, porosity, species, time, and region segmentation, with contradictory architecture trends (S008:C01-S008:C02; S009:C01)."
+    ],
+    "warrant": "A lattice recommendation is defensible only when geometry, material/process state, animal/site, time, histomorphometric region, and fixation proxy are matched; a study-count direction or one pore-size range cannot substitute for that comparability.",
+    "backing": [
+      "The review explicitly states that direct quantitative comparison between species is unsuitable and that systematic in-vivo design studies are scarce (S006:C01; S008:C01).",
+      "Conflicting canine, leporine, and unit-cell findings show that bone quantity and quality can favor different designs (S009:C01)."
+    ],
+    "qualifier": "Evidence map for preclinical osseointegration and osteoconduction; the proposed pore/porosity ranges are conditional heuristics, not clinical efficacy thresholds.",
+    "rebuttals_or_boundaries": [
+      "The packet gives no reproducible search strategy, inclusion criteria, risk-of-bias assessment, or study-level denominator, so selection and publication bias are not auditable.",
+      "Histological maturity and BIC/BA/BV/TV are proxies whose relationship to load-bearing fixation, fatigue, revision, and patient function varies by model and interface.",
+      "Most reviewed implants are as-fabricated laboratory specimens; surface powder, anisotropy, heat treatment, and sterilization effects are not uniformly reported.",
+      "A 600 micrometre/75% design direction is dominated by leporine observations and cannot be generalized across species or human implant dimensions."
+    ],
+    "argument_coherence": "high_for_heterogeneity_audit_moderate_for_conditional_design_ranges_low_for_universal_optimum"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "The review reports measurements made in cited studies: pore/strut/porosity values, fabrication proportions, histology, BV/TV, BA, BIC, pull-out/push-out/removal-torque proxies, and time-specific maturation findings (S003:C01; S007:C01-S009:C01).",
+      "The review itself makes no new biological or mechanical measurements and the table values retain the original species, implant, region, and endpoint conditions."
+    ],
+    "predicted": [
+      "Mechanics and transport discussions predict how porosity, strut frequency, unit-cell size, and curvature may alter stiffness, buckling, microfluidics, and strain; these are model or design interpretations rather than measured clinical outcomes (S004:C01-S005:C01).",
+      "A proposed strain threshold below 5% for intramembranous ossification is attributed to fracture-healing literature and is not a validated universal lattice threshold (S007:C01)."
+    ],
+    "inferred": [
+      "Pore size is inferred to influence mechanical anchorage while porosity is inferred to correlate more with maturation, but the variables are confounded by unit-cell, processing, species, and implantation-time differences (S009:C01-S010:C01).",
+      "Interior bone penetration and lamellar maturity are interpreted as indicators of long-term integration, yet the bridge to human load-bearing durability is not directly tested (S007:C01; S008:C01).",
+      "A 600 micrometre pore and 75% porosity combination is inferred to balance fibrovascular entry and maturation, mainly from leporine data (S007:C02; S010:C01)."
+    ],
+    "recommended": [
+      "Use a standardized, condition-matched matrix for pore size, strut/unit-cell design, porosity, material/process state, animal/site, region segmentation, implantation time, and fixation proxy.",
+      "Report both inner and outer lattice outcomes, bone quality/maturity, and mechanical fixation rather than a single bulk BIC or BA value (S008:C01).",
+      "Run cross-species and larger-implant studies with as-built geometry, surface state, fatigue, transport, and patient-relevant interface endpoints before clinical optimization (S005:C01; S006:C01; S010:C01)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "BIC, BA, BV/TV, pull-out, push-out, and removal torque quantify local anchorage or bone amount; they do not by themselves establish functional fixation, fatigue durability, revision, or patient outcome (S008:C01).",
+      "Woven-to-lamellar histology and osteocyte density indicate maturation state but are not equivalent to mechanical quality under human loading (S007:C01-S007:C02).",
+      "Animal pore-size/porosity trends and critical-sized defects are preclinical proxies; species-specific bone structure and scaling limit clinical extrapolation (S006:C01; S010:C01)."
+    ],
+    "overclaim_risks": [
+      "The review's common 400-600 micrometre/60-70% values can be misread as an established optimum, although the review states that no optimum architecture is identified (S005:C01; S010:C01).",
+      "A strain threshold or lamellar-bone trend can be compressed into a universal mechanobiological rule without accounting for species, site, time, and material state (S007:C01-S007:C02).",
+      "Higher BIC or pull-out in one model does not establish superior clinical osseointegration, subsidence resistance, or long-term implant survival."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Frame the review around biological response rather than manufacturing novelty",
+      "execution": "The introduction distinguishes earlier materials/mechanics reviews from this review's focus on in-vivo bone structure and quantitative histomorphometry (S002:C01).",
+      "locator": "S002:C01",
+      "effectiveness": "high",
+      "transferable_principle": "State the evidence layer a review adds and do not let a technology label stand in for a biological endpoint.",
+      "failure_mode": "Calling an AM process clinically superior because it permits complex geometry bypasses the need for as-built and in-vivo evidence."
+    },
+    {
+      "section": "methods",
+      "move": "Separate process, topology, and animal-model sources of variation",
+      "execution": "Fabrication methods, reticulated/stochastic/graded/TPMS structures, unit-cell modulation, and species/defect-size choices are described as distinct determinants before histology is compared (S003:C01-S006:C01).",
+      "locator": "S006:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Make a comparator matrix before synthesizing a geometry effect when processing and biology vary together.",
+      "failure_mode": "Attributing a cross-study trend to pore size alone hides process, material, species, site, and time confounding."
+    },
+    {
+      "section": "results",
+      "move": "Pair histology time course with region-specific quantitative endpoints",
+      "execution": "The review links woven/lamellar maturation and fibrosis to BIC, BA, BV/TV, and pull/push-out measures while warning that inner/outer segmentation is inconsistent (S007:C01-S008:C01).",
+      "locator": "S008:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Report tissue quality, location, time, and mechanical proxy together instead of treating one histomorphometric percentage as total integration.",
+      "failure_mode": "Bulk BIC or BA can conceal an exterior shell of bone and poor interior penetration in a large implant."
+    },
+    {
+      "section": "conclusion",
+      "move": "Give conditional ranges and retain the missing optimum",
+      "execution": "The conclusion identifies common reticulated 400-600 micrometre/60-70% designs and a leporine-derived 600 micrometre/75% direction, then explicitly states that no topology is proven best and calls for systematic surface/architecture work (S010:C01).",
+      "locator": "S010:C01",
+      "effectiveness": "high",
+      "transferable_principle": "When evidence supports a design neighborhood but not an optimum, report the neighborhood, its provenance, and the discriminating experiment still needed.",
+      "failure_mode": "Turning a common parameter range into a clinical prescription erases uncertainty and model dependence."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The review emphasizes substantial inter-study variability, unsuitable direct cross-species quantitative comparison, inconsistent histomorphometric segmentation, and a lack of systematic evaluation of lattice designs (S006:C01; S008:C01; S010:C01).",
+      "Anisotropy and many surface-modification effects are outside the biological synthesis or underrepresented in-vivo evidence (S003:C01; S010:C01).",
+      "The 600 micrometre/75% balance is acknowledged to derive largely from leporine histology (S007:C02)."
+    ],
+    "reader_identified": [
+      "No database search string, screening flow, inclusion criteria, study-level risk-of-bias assessment, or denominator for included experiments is present in the packet.",
+      "Tables combine species, sites, materials, pore measurement conventions, implantation times, and region segmentation without a standardized uncertainty or meta-analytic model.",
+      "As-built geometry, surface powder, heat treatment, sterilization, fatigue, and interface loading are not consistently available across reviewed studies.",
+      "The review cannot determine whether commonly studied reticulated titanium reflects efficacy or simply equipment and publication availability."
+    ],
+    "likely_bias_direction": [
+      "A citation-based review may overrepresent accessible titanium/SLM studies and underrepresent null, failed, or unpublished architectures.",
+      "Small-animal, short-term, exterior-biased sampling may overestimate interior osseointegration and maturation relative to human implants.",
+      "Reporting pore-size or porosity trends without full process and species context may overstate independent geometry effects."
+    ],
+    "scope_boundary": "This review supports a preclinical evidence map for porous metallic implant histology and histomorphometry. It does not establish a universal pore architecture, human osseointegration threshold, subsidence/fatigue benefit, or clinical survival advantage."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC9934422-01",
+      "capability": "For an in-vivo lattice review, build a comparator matrix across process, material state, topology, pore/strut geometry, porosity, species/site, implantation time, tissue region, and fixation proxy before stating a design trend.",
+      "manuscript_use": "Review Methods, evidence table, Results synthesis, and audit.",
+      "applicable_domains": [
+        "additive_manufacturing",
+        "porous_implants",
+        "osseointegration"
+      ],
+      "applicable_study_designs": [
+        "narrative_review",
+        "preclinical_histomorphometry"
+      ],
+      "supporting_locators": [
+        "S003:C01",
+        "S005:C01",
+        "S006:C01",
+        "S008:C01"
+      ],
+      "counterexample_or_boundary": "A pore-size trend that changes with canine geometry or leporine timing is not a geometry-only effect and cannot define a universal optimum.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9934422-02",
+      "capability": "Pair woven-to-lamellar histology and inner/outer spatial sampling with BIC/BA/BV/TV and pull/push-out proxies, explicitly separating bone quality from fixation and clinical function.",
+      "manuscript_use": "Histology Results, endpoint-vector tables, and translational Discussion.",
+      "applicable_domains": [
+        "bone_regeneration",
+        "implant_biomechanics",
+        "porous_scaffold"
+      ],
+      "applicable_study_designs": [
+        "animal_implant",
+        "histomorphometry"
+      ],
+      "supporting_locators": [
+        "S007:C01",
+        "S007:C02",
+        "S008:C01"
+      ],
+      "counterexample_or_boundary": "High exterior BIC or mature lamellae may coexist with poor interior penetration and does not establish human load-bearing durability.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9934422-03",
+      "capability": "Present a parameter neighborhood with provenance and uncertainty when the literature has common ranges but no controlled optimum.",
+      "manuscript_use": "Design recommendations, review conclusion, and future-study agenda.",
+      "applicable_domains": [
+        "porous_implants",
+        "additive_manufacturing",
+        "bone_integration"
+      ],
+      "applicable_study_designs": [
+        "evidence_synthesis",
+        "preclinical_design_review"
+      ],
+      "supporting_locators": [
+        "S005:C01",
+        "S009:C01",
+        "S010:C01"
+      ],
+      "counterexample_or_boundary": "The 600 micrometre/75% suggestion is largely leporine and cannot be presented as a clinical prescription or universal mechanobiological threshold.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_preclinical_evidence_mapping",
+    "methods_transparency": "low_to_moderate",
+    "validation_credibility": "moderate_for_heterogeneity_audit_low_for_cross_species_or_clinical_prediction",
+    "outcome_uncertainty_reporting": "moderate",
+    "comparator_fairness": "low_to_moderate_across_unmatched_studies",
+    "conclusion_proportionality": "moderate",
+    "critical_weaknesses": [
+      "No reproducible search, screening, or risk-of-bias protocol is reported.",
+      "Heterogeneous species, sites, material states, segmentation, and endpoint definitions prevent quantitative pooling.",
+      "No clinical, fatigue, or direct interface-durability validation of the proposed geometry ranges."
+    ],
+    "overall_credibility": "moderate_for_a_preclinical_histomorphometry_framework_low_for_universal_lattice_optimization_or_clinical_translation"
+  },
+  "summary_zh": "这是一篇基于体内组织学/组织形态计量的叙述性综述，不是新动物实验。综述显示文献主要使用SLM制备的钛/ Ti-6Al-4V晶格，孔径约50–1200 μm、孔隙率30–83.5%，但物种、部位、时间、加工状态和内外区域分割差异很大。纤维包裹、编织骨到板层骨成熟、内外骨渗入梯度与BIC/BA/BV/TV/拉出/推出等代理终点必须分开解释；300–600 μm以及约600 μm/75%更多是条件性、以兔模型为主的设计邻域，不能当作临床最优或沉降/疲劳收益。",
+  "reader_notes": [
+    "Primary Luna reader read every non-reference packet chunk in heading order: S001:C01 through S012:C01, including S004:C02, S007:C02, S008:C02, contribution, and conflict chunks.",
+    "Full text supports a narrative review with quantitative evidence tables; the metadata design cues are navigation only and do not imply original in-vivo experiments.",
+    "All values in the overlay are review-reported measurements from cited studies, with species/site/time and proxy boundaries retained.",
+    "No references chunk was present and no substantive non-reference locator was omitted."
+  ],
+  "selection": {
+    "selection_reason": "manifest_all",
+    "primary_stratum": "additive_manufacturing",
+    "reading_order": 64
+  },
+  "source": {
+    "record_path": "records/PMC9934422.json.gz",
+    "source_record": "records/PMC9934422.json.gz",
+    "source_record_sha256": "5041e5fa1a0b13309432d25009fd78115cf3e13698ae8203ec05f005ab4842cb",
+    "source_hash": "5041e5fa1a0b13309432d25009fd78115cf3e13698ae8203ec05f005ab4842cb"
+  }
+}

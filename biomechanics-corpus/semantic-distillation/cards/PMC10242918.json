@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10242918",
+  "paper_id": "doi:10.1186/s12896-023-00783-9",
+  "pmcid": "PMC10242918",
+  "source_record_sha256": "c3bf6663088e69dec682fb21d371e18655ca94e03aba4b277eab8f755535f7d9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "849cdec8c17181a28fec922243585d66bf9818ab54ecb4bedb378332ec5372ac",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced bone regeneration by low-intensity pulsed ultrasound and lipid microbubbles on PLGA/TCP 3D-printed scaffolds",
+    "authors": "Jin L, Shan J, Hao Y, Wang Y, Liu L.",
+    "year": 2023,
+    "journal": "BMC Biotechnology",
+    "doi": "10.1186/s12896-023-00783-9",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

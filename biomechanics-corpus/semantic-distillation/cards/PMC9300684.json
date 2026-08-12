@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9300684",
+  "paper_id": "doi:10.1038/s41598-022-15602-y",
+  "pmcid": "PMC9300684",
+  "source_record_sha256": "439d8f24343033aa643a2c09236f69cc40994e515fc3196381dcc875dbf95482",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "25eea42e53e20fded88d0f5f471565b3554a84926962490c0803d0ff03003367",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced osteogenic differentiation of stem cells by 3D printed PCL scaffolds coated with collagen and hydroxyapatite",
+    "authors": "Ebrahimi Z, Irani S, Ardeshirylajimi A, Seyedjafari E.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-15602-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

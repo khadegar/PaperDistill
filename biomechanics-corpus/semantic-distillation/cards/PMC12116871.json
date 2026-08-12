@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12116871",
+  "paper_id": "doi:10.3349/ymj.2024.0283",
+  "pmcid": "PMC12116871",
+  "source_record_sha256": "5bfcb1346a34c9bda5f7d6f7f9ca161cf8410f7e6db8f9d501d98ffc8dd9e327",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5334692ca610ac091dc3075148f5b7ff643f90cd9e55036b437331b3230f45e8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Patellar Implant Shape on Patellofemoral Contact Pressure Using Finite Element Analysis",
+    "authors": "Cho HS, Hong HT, Kwon HM, Koh YG, Hwang SM, Park KK, Kang KT.",
+    "year": 2025,
+    "journal": "Yonsei Medical Journal",
+    "doi": "10.3349/ymj.2024.0283",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

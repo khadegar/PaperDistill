@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11591492",
+  "paper_id": "doi:10.3390/ani14223296",
+  "pmcid": "PMC11591492",
+  "source_record_sha256": "4404c6af3b2cbb108ff9c9c379bf68cf2127c8a8ec9e3cc406ce6de716edf8de",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7d669cbf251babfe630f81d38a9a0ea05f422e520e301d3913971b14d27f70d5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Evaluation of a Novel Ceramic Implant for Canine Cranial Cruciate Ligament Rupture Treatment: A Finite Element Analysis Approach",
+    "authors": "Lang ML, Lüpke M, Götz M, Volk HA, Klasen J, Harms O.",
+    "year": 2024,
+    "journal": "Animals : an Open Access Journal from MDPI",
+    "doi": "10.3390/ani14223296",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

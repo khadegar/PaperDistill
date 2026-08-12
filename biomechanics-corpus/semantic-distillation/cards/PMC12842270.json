@@ -1,0 +1,338 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12842270",
+  "paper_id": "doi:10.3390/jcm15020613",
+  "pmcid": "PMC12842270",
+  "source_record_sha256": "ea3db986f8eb5732f096520c37b541eaf13ef4a6f26abf380b6124e7b1c7d22a",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T10:58:18Z",
+    "packet_sha256": "193bc1d2a9543d1fa5945fb591edba46a881da8a5b673dbb421e6ab4db0fba8d",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S002:C02",
+      "S003:C01",
+      "S004:C01",
+      "S004:C02",
+      "S005:C01",
+      "S006:C01",
+      "S007:C01",
+      "S008:C01",
+      "S009:C01",
+      "S009:C02",
+      "S009:C03",
+      "S009:C04",
+      "S009:C05",
+      "S010:C01",
+      "S011:C01",
+      "S011:C02",
+      "S011:C03",
+      "S011:C04",
+      "S011:C05",
+      "S011:C06",
+      "S012:C01",
+      "S013:C01",
+      "S013:C02",
+      "S013:C03",
+      "S014:C01",
+      "S015:C01",
+      "S015:C02",
+      "S015:C03",
+      "S016:C01",
+      "S016:C02",
+      "S017:C01",
+      "S018:C01",
+      "S019:C01",
+      "S019:C02",
+      "S020:C01",
+      "S021:C01",
+      "S022:C01",
+      "S023:C01",
+      "S024:C01",
+      "S025:C01",
+      "S026:C01",
+      "S027:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Laser-Based Photobiomodulation in Postoperative Tissue Healing in Oral and Maxillofacial Surgery: Systematic Review of RCTs",
+    "authors": "Niedzielska I, Dawiec G, Wiench R, Pihut M, Skaba D, Arnabat-Dominguez J.",
+    "year": 2026,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm15020613",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review_of_randomized_trials",
+    "design_features": [
+      "prospero_registered",
+      "prisma",
+      "qualitative_synthesis",
+      "risk_of_bias_2",
+      "grade",
+      "photobiomodulation",
+      "oral_maxillofacial_surgery"
+    ],
+    "research_problem": "Photobiomodulation is used after oral/maxillofacial surgery, but highly variable wavelengths, doses, schedules, surgical contexts, and endpoints make efficacy and protocol selection uncertain.",
+    "exact_gap": "Randomized evidence had not been synthesized with laser parameters, early soft-tissue outcomes, bone remodeling, implant stability, chronic lesion healing, safety, and certainty separated by outcome/context.",
+    "objective_or_hypothesis": "Systematically identify randomized postoperative PBMT trials and determine where early or bone-related benefits recur, where effects are null, and which protocol/clinical modifiers prevent generalization.",
+    "study_design": "PROSPERO-registered PRISMA 2020 systematic review of 12 RCT reports from four databases through 20 August 2025; dual/multiple-reviewer screening/extraction, RoB 2 and GRADE, and qualitative synthesis without meta-analysis because of heterogeneity.",
+    "sample_or_model": "Twelve small randomized or split-mouth trials across periodontal defects, extraction sockets, implant placement, third molars, distraction osteogenesis, and periapical lesions, with heterogeneous patient-, implant-, and lesion-level units.",
+    "comparators": [
+      "PBMT versus sham, no treatment, or standard care",
+      "PBMT versus/with platelet-rich fibrin or grafting in selected trials",
+      "Early versus later outcomes",
+      "Soft tissue/pain/inflammation versus bone density/fill/histology versus ISQ/implant success"
+    ],
+    "method_spine": [
+      "Define a PICO and register the review.",
+      "Capture full device/dose/delivery/session details and co-interventions.",
+      "Evaluate each RCT with RoB 2 and outcomes with GRADE.",
+      "Preserve positive, null, transient, and context-specific findings rather than pool incompatible endpoints.",
+      "Translate heterogeneity into reporting/research requirements while keeping practice recommendations provisional."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Registration, PRISMA counts, independent screening/extraction, reviewer agreement, RoB 2, and GRADE provide process checks (S004:C01-S010:C01)."
+      ],
+      "calibration": [
+        "No review-level device calibration or dose-response calibration was performed; reported wavelengths/energies are extracted protocol values, not a calibrated optimal regimen."
+      ],
+      "validation": [
+        "Randomization in source trials increases internal validity for their specific contrasts, but the review validates neither a universal PBMT protocol nor long-term implant benefit."
+      ],
+      "sensitivity": [
+        "No quantitative meta-analysis, leave-one-out analysis, alternative GRADE judgment, or subgroup/meta-regression sensitivity was possible/reported; context patterns are narrative."
+      ],
+      "application_prediction": [
+        "Suggested wavelength/energy ranges, compromised-patient targeting, reimbursement, home-use devices, and broad institutional protocols go beyond directly synthesized comparative evidence (S019:C01-S019:C02)."
+      ]
+    },
+    "primary_outcomes": [
+      "Twelve RCTs were qualitatively included from 93 database records; trials varied markedly in surgery, wavelength (roughly red to near-infrared), dose, sessions, delivery, and outcomes (S010:C01-S014:C01).",
+      "Several trials reported early soft-tissue/inflammatory or transient bone-healing advantages, but many benefits disappeared at later time points or occurred only in combination/context-specific arms (S013:C01-S013:C02).",
+      "Three well-controlled implant studies found no PBMT effect on ISQ, one showed only a temporary week-five difference without improved success/biochemical outcomes, and a chronic periapical-lesion trial showed no additional 12-month benefit (S013:C01-S015:C02).",
+      "The authors grade early soft-tissue/pain/safety evidence high and bone/ISQ evidence moderate, while acknowledging small samples, inconsistency, protocol/context heterogeneity, short follow-up, and incomplete modifiers (S009:C02-S009:C05; S017:C01).",
+      "No pooled effect was estimated, so the review supports a pattern map rather than a common treatment effect or dose-response curve (S018:C01)."
+    ],
+    "highest_evidence_level_reached": "Qualitative synthesis of 12 small heterogeneous RCTs; outcome-specific certainty is claimed high-to-moderate but no pooled estimates or standardized protocol evidence are available."
+  },
+  "argument_map": {
+    "central_claim": "PBMT may assist early recovery in selected oral/maxillofacial settings, while durable bone/implant effects are inconsistent; a universal dose or routine long-term osseointegration claim is not supported by the heterogeneous small trials.",
+    "data": [
+      "Trial-by-trial table retains sample, comparator, time, outcome, and important null findings (S011:C01-S013:C03).",
+      "Laser parameter table exposes protocol incompatibility (S011:C04-S014:C01).",
+      "RoB/GRADE and explicit evidence/review limitations qualify the synthesis (S009:C01-S009:C05; S017:C01-S018:C01)."
+    ],
+    "warrant": "A recurrent early signal across some randomized contexts can justify adjunctive consideration, but clinical adoption and dosing require comparable interventions, patient-important effects, and durable outcomes.",
+    "backing": [
+      "The review correctly notes that ISQ increased over time in both PBMT and control groups and that transient radiographic/clinical differences may not translate to implant success (S015:C01)."
+    ],
+    "qualifier": "Context-dependent, short-term adjunctive evidence; not a stand-alone therapy.",
+    "rebuttals_or_boundaries": [
+      "Surgery types, tissue depth, baseline bone, co-interventions, dose delivery, endpoint scales, and follow-up differ too much for one effect estimate.",
+      "Several key conclusions rest on one small trial in a specific indication.",
+      "Soft-tissue healing is outside the focused osteogenesis PICO yet becomes the strongest conclusion.",
+      "No formal pooled adverse-event rate, dose-response, subgroup effect, or publication-bias analysis is presented.",
+      "Split-mouth, multiple-implant, and participant-level clustering may affect source-study precision but is not discussed in detail."
+    ],
+    "argument_coherence": "moderate_to_high_for_context_map_moderate_to_low_for_certainty_and_practice_dosing"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "The review directly measures search/selection counts and extracts source-trial design, parameters, outcomes, and reported adverse events; it collects but does not generate clinical measurements (S004:C01-S014:C01)."
+    ],
+    "predicted": [],
+    "inferred": [
+      "Consistency of early healing is inferred across different soft-tissue scales/procedures without a common effect estimate (S015:C01-S016:C02).",
+      "Greater responsiveness in compromised bone biology and particular wavelength/energy windows is inferred rather than tested in the review population (S009:C03-S009:C05; S019:C01).",
+      "Lack of reported serious events is interpreted as high-certainty safety without a pooled safety denominator/ascertainment analysis."
+    ],
+    "recommended": [
+      "Standardize device calibration and full TIDieR-style dose reporting; run larger indication-specific multicenter RCTs with dose-response, baseline bone, modifiers, longer follow-up, comparable endpoints, and registries (S019:C01-S019:C02)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Early soft-tissue healing, edema, and pain do not establish osteogenesis.",
+      "Radiographic density/fill and histology are bone-related outcomes but do not necessarily establish mechanical integrity or long-term success.",
+      "ISQ is a stability surrogate influenced by primary mechanics and remodeling; a transient difference is not implant survival.",
+      "No additional lesion-volume benefit at 12 months is an important null, not evidence that other dosing would necessarily work.",
+      "RCT status does not automatically make all outcome certainty high when trials are small, heterogeneous, and incompletely reported."
+    ],
+    "overclaim_risks": [
+      "'Reliably' and 'consistently' improving early healing may overstate qualitative, heterogeneous small-trial evidence (S001:C01; S009:C02; S020:C01).",
+      "The GRADE ratings may be optimistic given no meta-analysis, small samples, inconsistent measures, and uncertain publication bias (S009:C02-S009:C05).",
+      "Specific 630-660/808-870-nm and energy recommendations are not derived from a comparative dose-response synthesis (S019:C01).",
+      "Recommending use in diabetes/smoking/osteoporosis conflicts with the stated absence of subgroup evidence (S009:C03-S009:C04; S019:C01).",
+      "Home-use devices and reimbursement proposals are speculative implementation extensions (S019:C02).",
+      "Automated FE/animal cues are false; this is a secondary clinical evidence synthesis."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Extract the intervention as a reproducible parameter vector",
+      "execution": "Device, wavelength, power, spot, fluence, energy, time, points, route, mode, sessions, and co-interventions are predefined extraction fields (S008:C01).",
+      "locator": "S008:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For energy-based or manufacturing interventions, define the complete delivered-dose vector and calibration context; a modality name is not a reproducible intervention.",
+      "failure_mode": "Nominal wavelength or energy density alone cannot establish biological dose at depth."
+    },
+    {
+      "section": "results",
+      "move": "Place transient benefits and null endpoints in the same trial sentence",
+      "execution": "The synthesis reports early improvements that vanish by six months and temporary ISQ signals without improved success, alongside fully null trials (S013:C01-S013:C02).",
+      "locator": "S013:C02",
+      "effectiveness": "high",
+      "transferable_principle": "A review sentence should include direction, time window, endpoint, comparator, null later endpoint, and clinical relevance when these alter interpretation.",
+      "failure_mode": "Do not compress a transient or combined-arm finding into generic efficacy."
+    },
+    {
+      "section": "discussion",
+      "move": "Turn heterogeneity into indication-specific hypotheses",
+      "execution": "The review separates soft tissue, grafted sockets/distraction, high-primary-stability implants, and chronic lesions rather than treating PBMT as uniform (S016:C01-S016:C02).",
+      "locator": "S016:C02",
+      "effectiveness": "high",
+      "transferable_principle": "When pooling is inappropriate, map effect modifiers and define the smallest clinically coherent strata for future trials instead of proposing one universal optimum.",
+      "failure_mode": "Narrative patterns are hypotheses unless supported by direct subgroup interactions."
+    },
+    {
+      "section": "discussion",
+      "move": "Keep evidence-derived recommendations separate from expert extrapolation",
+      "execution": "The practice section mixes reviewed evidence with provisional dose ranges, policy, reimbursement, calibration, and home-use proposals (S019:C01-S019:C02).",
+      "locator": "S019:C01",
+      "effectiveness": "low_as_evidence_boundary",
+      "transferable_principle": "Tag every recommendation as directly trial-supported, consensus/practice-based, mechanistically inferred, or future research; do not let detailed numbers imply stronger evidence.",
+      "failure_mode": "Precision of a proposed protocol is not certainty of effect."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Clinical/protocol heterogeneity, small samples, short follow-up, inconsistent outcome measures, incomplete patient characteristics, few high-quality RCTs, English-only search, excluded grey literature, publication/reporting bias, and inability to meta-analyze (S017:C01-S018:C01)."
+    ],
+    "reader_identified": [
+      "Scope drift from osteogenesis PICO to strongest conclusions about soft tissue/pain.",
+      "GRADE judgments and 'publication bias undetected' are insufficiently substantiated for small heterogeneous outcome sets.",
+      "No quantitative effect, minimal clinically important difference, absolute adverse-event denominator, or dose-response synthesis.",
+      "Potential clustering/unit-of-analysis issues in split-mouth and multi-implant trials are not integrated into certainty.",
+      "Recommendations for compromised patients, device ranges, policy, and home use exceed direct subgroup/comparative evidence."
+    ],
+    "likely_bias_direction": [
+      "Publication/language selection and qualitative emphasis may overestimate early positive effects.",
+      "Optimistic GRADE/safety language may overstate certainty.",
+      "Heterogeneity can mask benefit in a narrow subgroup or create apparent consistency across non-equivalent outcomes."
+    ],
+    "scope_boundary": "The review maps short-term, indication-specific randomized signals and important nulls. It does not establish a universal PBMT protocol, durable osseointegration benefit, optimal dose, or effectiveness in systemically compromised patients."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC12842270-01",
+      "capability": "Represent an energy-based intervention with the complete delivered-dose and calibration vector, then compare only clinically coherent protocols and tissue depths.",
+      "manuscript_use": "Systematic-review extraction, Methods, and reproducibility audit.",
+      "applicable_domains": [
+        "all_domains"
+      ],
+      "applicable_study_designs": [
+        "trial",
+        "systematic_review",
+        "energy_based_intervention"
+      ],
+      "supporting_locators": [
+        "S008:C01",
+        "S011:C04",
+        "S011:C05",
+        "S011:C06",
+        "S016:C01"
+      ],
+      "counterexample_or_boundary": "Equal wavelength or J/cm2 does not imply equal delivered tissue dose when spot, power, mode, distance, sessions, and depth differ.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12842270-02",
+      "capability": "In evidence synthesis, preserve endpoint, comparator, time window, null follow-up, and clinical relevance in the same compact claim.",
+      "manuscript_use": "Results synthesis, abstract, and Discussion.",
+      "applicable_domains": [
+        "all_domains"
+      ],
+      "applicable_study_designs": [
+        "systematic_review",
+        "clinical_trial"
+      ],
+      "supporting_locators": [
+        "S013:C01",
+        "S013:C02",
+        "S015:C01",
+        "S015:C02"
+      ],
+      "counterexample_or_boundary": "An early or isolated statistical difference is not durable efficacy or patient-important benefit.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12842270-03",
+      "capability": "Separate evidence-derived practice guidance from mechanistic, consensus, policy, and future-research extrapolations, even when the latter include precise numeric protocols.",
+      "manuscript_use": "Guideline-like Discussion and conclusion audit.",
+      "applicable_domains": [
+        "all_domains"
+      ],
+      "applicable_study_designs": [
+        "systematic_review",
+        "guideline"
+      ],
+      "supporting_locators": [
+        "S009:C03",
+        "S016:C02",
+        "S019:C01",
+        "S019:C02",
+        "S020:C01"
+      ],
+      "counterexample_or_boundary": "Detailed recommended numbers do not become evidence-based without direct comparative dose-response support.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate",
+    "methods_transparency": "high",
+    "validation_credibility": "moderate",
+    "outcome_uncertainty_reporting": "moderate",
+    "comparator_fairness": "variable_across_trials",
+    "conclusion_proportionality": "moderate_in_conclusion_low_in_practice_specificity",
+    "critical_weaknesses": [
+      "No quantitative synthesis or dose-response.",
+      "Highly heterogeneous small RCTs and possible scope drift.",
+      "Optimistic certainty and detailed practice extrapolation."
+    ],
+    "overall_credibility": "high_for_protocol_and_gap_mapping_moderate_for_early_context_signal_low_for_universal_dose_or_long_term_effect"
+  },
+  "summary_zh": "这篇系统综述能教会 Skill 两件事。第一，能量干预必须按完整剂量向量写：波长、功率、光斑、能量/点、通量、时间、距离、接触方式、照射点、疗程和校准，不能只写‘用了激光’。第二，综述句要把短期阳性、后续阴性和临床意义放在一起；多项植体稳定性 RCT 为阴性，个别周次 ISQ 优势也没有转化为植体成功。该综述的具体剂量范围、合并症患者使用和居家设备建议超过直接的剂量—反应/亚组证据，应明确标为专家推演，而不是用精确数字制造确定性。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section.",
+    "No finite-element or animal experiment was performed by this review.",
+    "The qualitative RCT map is useful, but the high-to-moderate GRADE and safety claims merit independent checking before reuse."
+  ],
+  "selection": {
+    "selection_reason": "explicit_include",
+    "primary_stratum": "bone_regeneration_biomaterials",
+    "stratum_rank": 3,
+    "reading_order": 18
+  },
+  "source": {
+    "record_path": "records/PMC12842270.json.gz",
+    "source_record": "records/PMC12842270.json.gz",
+    "source_record_sha256": "ea3db986f8eb5732f096520c37b541eaf13ef4a6f26abf380b6124e7b1c7d22a",
+    "source_hash": "ea3db986f8eb5732f096520c37b541eaf13ef4a6f26abf380b6124e7b1c7d22a"
+  }
+}

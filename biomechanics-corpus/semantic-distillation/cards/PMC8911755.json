@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8911755",
+  "paper_id": "doi:10.3390/ma15051749",
+  "pmcid": "PMC8911755",
+  "source_record_sha256": "bf04e00b9f921ce9b1373200cc3f2015b7384019ca4c2af0756810954675d96c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "50cef63ccd7ccc8bf236a4e9d9eecd3c3b1e9dd25a3b27e77afb65db96d08be1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surface Modification of Biomedical Ti and Ti Alloys: A Review on Current Advances",
+    "authors": "Xu J, Zhang J, Shi Y, Tang J, Huang D, Yan M, Dargusch MS.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15051749",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

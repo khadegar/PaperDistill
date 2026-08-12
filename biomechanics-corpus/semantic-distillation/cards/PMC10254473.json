@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10254473",
+  "paper_id": "doi:10.3390/ma16114146",
+  "pmcid": "PMC10254473",
+  "source_record_sha256": "f19b6cfc2264ea9ea324f4b978e3abd1ee1d529ee95d3625f82cf7bdad3341a2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5605034a31998649f4466e9490407bd951578aa9c6ff1885d238f9e76a172417",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reliable Methods for Classification, Characterization, and Design of Cellular Structures for Patient-Specific Implants",
+    "authors": "Nemes-Károly I, Szebényi G.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16114146",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

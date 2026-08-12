@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8567488",
+  "paper_id": "doi:10.1002/jbm4.10535",
+  "pmcid": "PMC8567488",
+  "source_record_sha256": "ef43779eab34e3ba9e3c82f2ffb2c9dd762b25b3bbe486d608096e3bd9220542",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d75289d0c1b30c7bf362da9e6536d12a228df20a007d3d2afea43ad3587470bc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "RNA ‐ seq Analysis of Peri‐Implant Tissue Shows Differences in Immune, Notch, Wnt, and Angiogenesis Pathways in Aged Versus Young Mice",
+    "authors": "Turajane K, Ji G, Chinenov Y, Chao M, Ayturk U, Suhardi VJ, Greenblatt MB, Ivashkiv LB, Bostrom MP, Yang X.",
+    "year": 2021,
+    "journal": "JBMR Plus",
+    "doi": "10.1002/jbm4.10535",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

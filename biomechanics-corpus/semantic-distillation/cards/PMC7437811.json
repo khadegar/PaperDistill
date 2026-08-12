@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7437811",
+  "paper_id": "doi:10.1371/journal.pone.0237042",
+  "pmcid": "PMC7437811",
+  "source_record_sha256": "ece586d96fd8c13706b881245538754cba0e0efc91619e97ffa9386fbda94fca",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0b4d3f9479111afe42a1bb765804fc1f510840a10608d911b37219db637e3bcb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Differing trabecular bone architecture in dinosaurs and mammals contribute to stiffness and limits on bone strain",
+    "authors": "Aguirre TG, Ingrole A, Fuller L, Seek TW, Fiorillo AR, Sertich JJW, Donahue SW.",
+    "year": 2020,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0237042.r004",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Research Support, U.S. Gov't, Non-P.H.S.; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

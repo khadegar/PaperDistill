@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10261154",
+  "paper_id": "doi:10.18063/ijb.735",
+  "pmcid": "PMC10261154",
+  "source_record_sha256": "a5139e8d808204ddf0aa134a154cfdfed5fbe8ac63c0d22264f96e2e188870cb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c3a81a687db058522cac3a6663bce411ed7127bf3893d5233945a4feb69bc505",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and biomechanical analysis of patientspecific porous tantalum prostheses for knee joint revision surgery",
+    "authors": "Mao S, Liu Y, Wang F, He P, Wu X, Ma X, Luo Y.",
+    "year": 2023,
+    "journal": "International Journal of Bioprinting",
+    "doi": "10.18063/ijb.735",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

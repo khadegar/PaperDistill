@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11979865",
+  "paper_id": "doi:10.7759/cureus.80326",
+  "pmcid": "PMC11979865",
+  "source_record_sha256": "2168649a6f1a3254d775236d6c332fe9739ed8d7f2e255d332e0c4aa84ee4dca",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8743840eba5105bdce405fa90a80a9318fb19271f63b550d4601cda68cd79141",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical and Radiographic Assessment of Milled Versus 3D-Printed Patient-Specific Subperiosteal Implants for Atrophic Mandibular Ridges: A Randomized Clinical Trial",
+    "authors": "Darwish SA, El-Mohandes WA, Abd Rabbo BE.",
+    "year": 2025,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.80326",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

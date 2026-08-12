@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6591284",
+  "paper_id": "doi:10.1038/s41598-019-44872-2",
+  "pmcid": "PMC6591284",
+  "source_record_sha256": "03846f152fe4aed475fa36768761c585a58167105b4f38f0a0bf4a65047ba241",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d929ae796b2e1e595f679b94c994e68752708165d590312db812cb4c7520a658",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimization of Bone Scaffold Porosity Distributions",
+    "authors": "Poh PSP, Valainis D, Bhattacharya K, van Griensven M, Dondl P.",
+    "year": 2019,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-019-44872-2",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

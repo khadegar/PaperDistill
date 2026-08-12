@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6957163",
+  "paper_id": "doi:10.1371/journal.pone.0227563",
+  "pmcid": "PMC6957163",
+  "source_record_sha256": "4436db68a03d0c33c1574e1fd30bec50d4b8c6c2ddf861d75c1724443c03e9a4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9f869dac78645c8c915fdcfe872804608142e180938af25fdbe52d645c63f148",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Vascularization and biocompatibility of poly(ε-caprolactone) fiber mats for rotator cuff tear repair",
+    "authors": "Gniesmer S, Brehm R, Hoffmann A, de Cassan D, Menzel H, Hoheisel AL, Glasmacher B, Willbold E, Reifenrath J, Ludwig N, Zimmerer R, Tavassol F, Gellrich NC, Kampmann A.",
+    "year": 2020,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0227563.r006",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8991775",
+  "paper_id": "doi:10.1016/j.jhsg.2021.05.013",
+  "pmcid": "PMC8991775",
+  "source_record_sha256": "6442ca6c8aadf4db59dd3d91bb886193bff0b1219c444aff072d119a4761e9cb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "47c50db8d0461d1902ee96dc26924ec02f8f1abefee3784bb38fd7521a932b2c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Long-term Evaluation Using Finite Element Analysis of Bone Atrophy Changes after Locking Plate Fixation of Forearm Diaphyseal Fracture",
+    "authors": "Hirashima T, Matsuura Y, Suzuki T, Akasaka T, Kanazuka A, Ohtori S.",
+    "year": 2021,
+    "journal": "Journal of Hand Surgery Global Online",
+    "doi": "10.1016/j.jhsg.2021.05.013",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9800332",
+  "paper_id": "doi:10.1016/j.heliyon.2022.e12314",
+  "pmcid": "PMC9800332",
+  "source_record_sha256": "3aed870b01baed2ecc94241196c60b419f505205415abd5ca0caad8660434152",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "db1030109e58f16c6bfe2f65f3a3a7a65b24cb27b158018059756a1de8f1e88c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Assessing biocompatibility & mechanical testing of 3D-printed PEEK versus milled PEEK",
+    "authors": "Limaye N, Veschini L, Coward T.",
+    "year": 2022,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2022.e12314",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

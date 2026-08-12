@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8178073",
+  "paper_id": "doi:10.1016/j.reth.2021.05.001",
+  "pmcid": "PMC8178073",
+  "source_record_sha256": "3f62d56bba8a569c7588ea3cc282b9c4e336fd53cabeb5143950678bf66a06c3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4295ba3ac559d50013a81f2e5772a1c733d1f9ac7b617c981e898603b4c1d25e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three dimensional printed nanostructure biomaterials for bone tissue engineering",
+    "authors": "Marew T, Birhanu G.",
+    "year": 2021,
+    "journal": "Regenerative Therapy",
+    "doi": "10.1016/j.reth.2021.05.001",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

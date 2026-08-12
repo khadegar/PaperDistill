@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12653762",
+  "paper_id": "doi:10.3390/jfb16110411",
+  "pmcid": "PMC12653762",
+  "source_record_sha256": "520fa6b364092d7bc627bdc597f1c4fa8ddc5902029faefdd2f43b0b3a45ed87",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1b1a884f710b112261bc05988c5b63c440391f312ff988861ab6a1c773f9da51",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dental Implantology in Acromegaly: Pathophysiological Challenges, Biomaterial Interactions, and Future Directions—A Narrative Review",
+    "authors": "Wiśniewska B, Spychała S, Piekarski K, Golusińska-Kardach E, Stelmachowska-Banaś M, Wyganowska M.",
+    "year": 2025,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb16110411",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

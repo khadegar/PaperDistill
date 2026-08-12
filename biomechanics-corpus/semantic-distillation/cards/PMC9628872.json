@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9628872",
+  "paper_id": "doi:10.4014/jmb.2111.11003",
+  "pmcid": "PMC9628872",
+  "source_record_sha256": "7a23721b3055c7fb6587ea015744087105a60c78752ac76576a07bf723eb3cf0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "79e9f18ed8de54ec9aa74c3a1394ccea80f3e9ebf6624e8f69de6db0f0184594",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Bioprinted GelMA/PEGDA Hybrid Scaffold for Establishing an In Vitro Model of Melanoma",
+    "authors": "Duan J, Cao Y, Shen Z, Cheng Y, Ma Z, Wang L, Zhang Y, An Y, Sang S.",
+    "year": 2022,
+    "journal": "Journal of Microbiology and Biotechnology",
+    "doi": "10.4014/jmb.2111.11003",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

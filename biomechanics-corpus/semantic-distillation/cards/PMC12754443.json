@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12754443",
+  "paper_id": "doi:10.5312/wjo.v16.i12.112406",
+  "pmcid": "PMC12754443",
+  "source_record_sha256": "33e16e71d07988a3e31d97a34aad0bbf638216c1b72502a3ce4e3e090b5b31b5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "33b92eec5c2163efaa845be126570f67cc4ede8d7e14383d27607d447424cef2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhancing long-term fixation in thoracolumbar injuries: From screw design to bone quality optimization",
+    "authors": "Ergin M, Aktaş SA.",
+    "year": 2025,
+    "journal": "World Journal of Orthopedics",
+    "doi": "10.5312/wjo.v16.i12.112406",
+    "publication_type": "Editorial",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "editorial",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

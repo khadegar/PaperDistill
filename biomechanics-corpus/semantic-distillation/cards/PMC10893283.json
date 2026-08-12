@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10893283",
+  "paper_id": "doi:10.3390/polym16040472",
+  "pmcid": "PMC10893283",
+  "source_record_sha256": "e1841ad15e79912c803a7a2e0e0b01bbdd3000743e5a4defe431be0815d8b414",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "86192e4738fbdec3111102bd6115a09b45fe514e62a962d40f8610a681aa15aa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of Biocompatible Digital Light Processing Resins for Additive Manufacturing Using Visible Light-Induced RAFT Polymerization",
+    "authors": "Sarabia-Vallejos MA, De la Fuente SR, Tapia P, Cohn-Inostroza NA, Estrada M, Ortiz-Puerta D, Rodríguez-Hernández J, González-Henríquez CM.",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16040472",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

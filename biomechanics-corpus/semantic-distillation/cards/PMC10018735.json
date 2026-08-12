@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10018735",
+  "paper_id": "doi:10.1021/acs.jctc.2c01032",
+  "pmcid": "PMC10018735",
+  "source_record_sha256": "a0c0d198593f0fe77ecb41a179115cf01fa16eb39e156a4ba4e42b8c13a77160",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a43606831d521f4ed14405fe951239f91dc543cce26556b96f50ea4fd399007b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimal Bond Constraint Topology for Molecular Dynamics Simulations of Cholesterol",
+    "authors": "Fábián B, Thallmair S, Hummer G.",
+    "year": 2023,
+    "journal": "Journal of Chemical Theory and Computation",
+    "doi": "10.1021/acs.jctc.2c01032",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

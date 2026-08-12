@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11654353",
+  "paper_id": "doi:10.1111/ocr.12779",
+  "pmcid": "PMC11654353",
+  "source_record_sha256": "6f06f76ae5383e0f800e52a6e390524fec772ba0cbc3d4f40aed1fbb6e84c112",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3f56823486958851aeeaefe544dbcde240698a1cbff1296b1829fdb9aeccf4c6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of attachment configuration and trim line design on the force system of orthodontic aligners: A finite element study on the upper central incisor",
+    "authors": "Elshazly TM, Bourauel C, Aldesoki M, Salvatori D, Alhotan A, Keilig L, Ghoneima A.",
+    "year": 2024,
+    "journal": "Orthodontics & Craniofacial Research",
+    "doi": "10.1111/ocr.12779",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

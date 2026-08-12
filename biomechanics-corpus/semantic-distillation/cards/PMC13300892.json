@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13300892",
+  "paper_id": "doi:10.3390/jfmk11020241",
+  "pmcid": "PMC13300892",
+  "source_record_sha256": "65393399c0034ee955ebc7b35c2799ac80882d2812dd40b74f7d67bf355f4b3e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "365c1502f09bbb3b7af8f0eb4baa400cb3edd030739c912aee4055b42917317a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Lateral Femoral Neck and Peritrochanteric Fractures: Anatomical Classifications and Pre-Operative Reduction Techniques—A Narrative Review",
+    "authors": "Capece G, Giudice G, Giliberti R, Di Cosmo P, Pizzi G, Lepore L, Sagliocco RJ, Cuozzo F, Di Gialleonardo E, Gison M.",
+    "year": 2026,
+    "journal": "Journal of Functional Morphology and Kinesiology",
+    "doi": "10.3390/jfmk11020241",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

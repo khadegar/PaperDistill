@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8754672",
+  "paper_id": "doi:10.1155/2022/9505667",
+  "pmcid": "PMC8754672",
+  "source_record_sha256": "ba7034534456a12aab991961df71fc4032cd750e038b98d5eaaea7a545f95863",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "388e3e3092e4ceb84c69457319cae2773dee33d23dc6264c5e4f41512c806a45",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical Outcome and Biomechanical Analysis of Dynamic Hip Screw Combined with Derotation Screw in Treating Displaced Femoral Neck Fractures Based on Different Reduction Qualities in Young Patients (≤65 Years of Age)",
+    "authors": "Zhu J, Li Y, Zhang Y, Cheng X.",
+    "year": 2022,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2022/9505667",
+    "publication_type": "Clinical Trial; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

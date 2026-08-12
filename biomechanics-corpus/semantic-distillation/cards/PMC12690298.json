@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12690298",
+  "paper_id": "doi:10.3389/fbioe.2025.1673061",
+  "pmcid": "PMC12690298",
+  "source_record_sha256": "b6c4bcd5a50f24e9dfed15df8521e8c15c5e38b9aa681f10ad0fd20fcb1ce4ac",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e01a4b542ad724f1ceae9310ce9aa0ae59b72e848c3570dc6d1c5db1c118ac51",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Simulation and validation of spinal construct testing based on ASTM F1717",
+    "authors": "Jeong BC, Sim O, Lee C.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1673061",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

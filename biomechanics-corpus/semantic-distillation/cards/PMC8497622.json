@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8497622",
+  "paper_id": "doi:10.1038/s41598-021-99494-4",
+  "pmcid": "PMC8497622",
+  "source_record_sha256": "450b482d32e9c21570dbc9e428f25497f6d956bc6d585ba596a1905261f27b7c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b64bdda9416d3dd65556750c39bf3e81e920e3f1afa87b33b1a73f5f1ca79cbc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhancement of the bone-implant interface by applying a plasma-sprayed titanium coating on nanohydroxyapatite/polyamide66 implants in a rabbit model",
+    "authors": "Zhong W, Li J, Hu C, Quan Z, Jiang D.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-99494-4",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

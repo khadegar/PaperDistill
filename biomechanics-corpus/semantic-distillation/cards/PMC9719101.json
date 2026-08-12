@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9719101",
+  "paper_id": "doi:10.1016/j.mtbio.2022.100500",
+  "pmcid": "PMC9719101",
+  "source_record_sha256": "0295698459db84c9a3a4c366c177c605e7122b0ae2b2a472e95b0e743bdb1244",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cb2e60584fb6926877f1809eef01c64291d6b310e61890bce7920d3ce5b79e76",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioactive graphene oxide-functionalized self-expandable hydrophilic and osteogenic nanocomposite for orthopaedic applications",
+    "authors": "Tan QC, Jiang XS, Chen L, Huang JF, Zhou QX, Wang J, Zhao Y, Zhang B, Sun YN, Wei M, Zhao X, Yang Z, Lei W, Tang YF, Wu ZX.",
+    "year": 2022,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2022.100500",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

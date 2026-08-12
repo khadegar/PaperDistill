@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9680447",
+  "paper_id": "doi:10.3390/jfb13040241",
+  "pmcid": "PMC9680447",
+  "source_record_sha256": "170e74bf8883e900a75bb80dacbb48d16853dbdc9b5b93471e78d37760cb77a3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ce5e5601f299ef129100b5b7ff622e081d13c5da45012b0ef38f5a5025f322f6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hydrothermal Synthesis of Fluorapatite Coatings over Titanium Implants for Enhanced Osseointegration—An In Vivo Study in the Rabbit",
+    "authors": "Santiago E, Martin V, Colaço B, Fernandes MH, Santos C, Gomes PS.",
+    "year": 2022,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb13040241",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

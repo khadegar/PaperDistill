@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9125721",
+  "paper_id": "doi:10.1016/j.cjtee.2021.11.003",
+  "pmcid": "PMC9125721",
+  "source_record_sha256": "92a1a3d2844e2f88c0aef70a4ab259afc090ac0d7581974de7dff37c70135724",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2d6f1a28806c91024a1b1a88334b4e44e746c608437a3a7f8641fc54f70001cf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multi-functional osteoclasts in matrix-based tissue engineering bone",
+    "authors": "Chen YQ, Hu WH, Dong ZC, Dong SW.",
+    "year": 2021,
+    "journal": "Chinese Journal of Traumatology",
+    "doi": "10.1016/j.cjtee.2021.11.003",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10603942",
+  "paper_id": "doi:10.3390/bioengineering10101168",
+  "pmcid": "PMC10603942",
+  "source_record_sha256": "b90ea8e19dafd5fa2588e3489e8a1ca8a85c1ec196b353d27ffe1ce48f481109",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c46a6a885c7a1250641ed9fcbc52250e63451a3518bc8114deba4432881c5714",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The 3D Printing and Evaluation of Surgical Guides with an Incorporated Irrigation Channel for Dental Implant Placement",
+    "authors": "Tuce RA, Neagu M, Pupazan V, Neagu A, Arjoca S.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10101168",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

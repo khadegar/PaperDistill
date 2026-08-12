@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12714778",
+  "paper_id": "doi:10.1038/s41598-025-27623-4",
+  "pmcid": "PMC12714778",
+  "source_record_sha256": "5b15f4f1bb5184fe1788a6a5fef644803ae4e3e0ac4abaa11f7ed339fc147c01",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d3db68a12ea53b1ba0dcf9ecc878bea0ad19fd98cdbc9e1b9879198ea7b75647",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical analysis of femoral component malalignment in medial unicompartmental knee arthroplasty",
+    "authors": "Wang F, Zhao J, He W, He H, Wang Q.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-27623-4",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

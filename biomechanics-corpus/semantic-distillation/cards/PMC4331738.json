@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4331738",
+  "paper_id": "doi:10.1186/1748-7161-10-s2-s2",
+  "pmcid": "PMC4331738",
+  "source_record_sha256": "b3f77980e1cc1940cbbb946f9d052e5335a9a21bfa490d68d21f42c3bdfdcb26",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9184828ecfc4db25a7207af99db884232280c3e8d8aec9a4f2a6d86db02b2871",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Scoliosis corrective force estimation from the implanted rod deformation using 3D-FEM analysis",
+    "authors": "Abe Y, Ito M, Abumi K, Sudo H, Salmingo R, Tadano S.",
+    "year": 2015,
+    "journal": "Scoliosis",
+    "doi": "10.1186/1748-7161-10-s2-s2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

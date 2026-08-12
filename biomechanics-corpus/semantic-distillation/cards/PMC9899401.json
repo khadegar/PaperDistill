@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9899401",
+  "paper_id": "doi:10.1186/s40824-023-00349-y",
+  "pmcid": "PMC9899401",
+  "source_record_sha256": "9f94b520f6662d0b788f57bc98f2eed4ae6409b2acede63f99eaea9cee8a29ec",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0e51005a9a8fd0e88595c73f775bd8bb26bb1ede4e46a3ab24c018eee2332419",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hierarchical porous ECM scaffolds incorporating GDF-5 fabricated by cryogenic 3D printing to promote articular cartilage regeneration",
+    "authors": "Wu J, Fu L, Yan Z, Yang Y, Yin H, Li P, Yuan X, Ding Z, Kang T, Tian Z, Liao Z, Tian G, Ning C, Li Y, Sui X, Chen M, Liu S, Guo Q.",
+    "year": 2023,
+    "journal": "Biomaterials Research",
+    "doi": "10.1186/s40824-023-00349-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

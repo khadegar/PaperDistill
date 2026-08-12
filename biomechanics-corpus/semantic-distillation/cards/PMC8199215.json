@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8199215",
+  "paper_id": "doi:10.3390/polym13111797",
+  "pmcid": "PMC8199215",
+  "source_record_sha256": "020037bfe129c63fe130ee92f096122da3267648de16242b50bd9440fe9bb35e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a933bebaa5dec1506826eaf31e8e77c3ef8fa745abe1a825ec7c38125eecd4e9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Zn-Containing Membranes for Guided Bone Regeneration in Dentistry",
+    "authors": "Toledano M, Vallecillo-Rivas M, Osorio MT, Muñoz-Soto E, Toledano-Osorio M, Vallecillo C, Toledano R, Lynch CD, Serrera-Figallo MA, Osorio R.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13111797",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

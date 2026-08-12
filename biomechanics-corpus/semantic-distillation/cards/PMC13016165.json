@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13016165",
+  "paper_id": "doi:10.1302/2046-3758.153.bjr-2024-0425.r3",
+  "pmcid": "PMC13016165",
+  "source_record_sha256": "f06000b0051b3f8cf92a7b279e225b6646fb0219c4419545c1e51eb0b1287320",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8d6af7ad9decc5d3d4070b10843d92ed514faf7bcd3112f4fb00eb494e4f1986",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical properties of a new 3D-printed customized anatomical total wrist prosthesis",
+    "authors": "Xiao Y, Tan X, Liu J, Yan J, Yang Y, Xiang F.",
+    "year": 2026,
+    "journal": "Bone & Joint Research",
+    "doi": "10.1302/2046-3758.153.bjr-2024-0425.r3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

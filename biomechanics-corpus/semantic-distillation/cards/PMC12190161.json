@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12190161",
+  "paper_id": "doi:10.3390/bioengineering12060599",
+  "pmcid": "PMC12190161",
+  "source_record_sha256": "4bec433f7b4adc50e540d037c1955b861444c769e8cd9efa6351cbe8b6a97019",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d9c348d611899cb372c4f968ed9053664cf58ea43896a885eff84f8eed0efc7a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Injectable and Assembled Calcium Sulfate/Magnesium Silicate 3D Scaffold Promotes Bone Repair by In Situ Osteoinduction",
+    "authors": "Zhu W, Zhao T, Wang H, Liu G, Bian Y, Wang Q, Xia W, Cai S, Weng X.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12060599",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10381742",
+  "paper_id": "doi:10.3390/jfb14070343",
+  "pmcid": "PMC10381742",
+  "source_record_sha256": "72d293066ae1afddd0166b273f8b0e08dde6deaab4735152c2576271b72d335e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4f74d7d5bd1f23d3492c3941fcde6f8ef1d1c422ae62218493aafdf012ab7d5a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication and Evaluation of Porous dECM/PCL Scaffolds for Bone Tissue Engineering",
+    "authors": "Wang W, Zhou X, Yin Z, Yu X.",
+    "year": 2023,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb14070343",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

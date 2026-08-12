@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10844382",
+  "paper_id": "doi:10.3389/fbioe.2024.1352882",
+  "pmcid": "PMC10844382",
+  "source_record_sha256": "7d0faad11080d5558eb423e2266067175354393fde087694115511c1b38df3a3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ae5804c020ed8a8929faad8f2f1e2b274384649782cadefe4157ca10a66cc785",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Partial femoral head replacement: a new innovative hip-preserving approach for treating osteonecrosis of the femoral head and its finite element analysis",
+    "authors": "Yang Y, Cheng X, Chen W, Li G, Wang Y, Sun W, An W, Zhang Q, Zhang Y.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1352882",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

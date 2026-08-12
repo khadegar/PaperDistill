@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12838791",
+  "paper_id": "doi:10.3390/biomedicines14010227",
+  "pmcid": "PMC12838791",
+  "source_record_sha256": "2c4869c0ea266b57f5580fe258f81f8c5abf0d1fb1fddbb520663b99edc69a5e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ee9cd2b8d75feb7ab25f62147f87ee1af4a46db69b18d394a800d6d9d2c41071",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced Bone Formation in Segmental Defect Healing Using 3D Printed Scaffolds Containing Bone Marrow Stromal Cells and Small Molecules Targeting Chondrogenesis and Osteogenesis",
+    "authors": "Rundle CH, Pourteymoor S, Lai E, Kesavan C, Mohan S.",
+    "year": 2026,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines14010227",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11468533",
+  "paper_id": "doi:10.1002/adhm.202002089",
+  "pmcid": "PMC11468533",
+  "source_record_sha256": "6c966185d703cc3acf95f04515addb5371291a3f7bd70babc2a4158e668774cc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "213d94b1a7cd62c8cda1e6d85e9d21bb007bd34da48e893dcc2963339061ec89",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimetic Tympanic Membrane Replacement Made by Melt Electrowriting",
+    "authors": "von Witzleben M, Stoppe T, Ahlfeld T, Bernhardt A, Polk ML, Bornitz M, Neudert M, Gelinsky M.",
+    "year": 2021,
+    "journal": "Advanced Healthcare Materials",
+    "doi": "10.1002/adhm.202002089",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

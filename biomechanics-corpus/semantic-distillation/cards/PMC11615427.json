@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11615427",
+  "paper_id": "doi:10.1002/jor.25972",
+  "pmcid": "PMC11615427",
+  "source_record_sha256": "4cbbed6bdc1b514a6e1d670f8f4ad2706123da574d8c58a6c7c00fef91ce09fd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3e4317e76eb56235d7bd104a237a67857514150b65a1957ecad9d0aafdbb0200",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A hybrid repair strategy for full‐thickness cartilage defects: Long‐term experimental study in eight horses",
+    "authors": "Fugazzola MC, De Ruijter M, Veraa S, Plomp S, van Buul W, Hermsen G, van Weeren R.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Research",
+    "doi": "10.1002/jor.25972",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

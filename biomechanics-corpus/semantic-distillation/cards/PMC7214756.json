@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7214756",
+  "paper_id": "doi:10.3389/fbioe.2020.00404",
+  "pmcid": "PMC7214756",
+  "source_record_sha256": "928ba978b9e5d0f9cb3c63e2e3cd35afda706173b4ccd3ef211f6b40db49e8ad",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a10dfdc5b3ca208cef239383f1b8450b92ec10beee53ef7a558edaba856b0c96",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Age-Related Regeneration of Osteochondral and Tibial Defects by a Fibrin-Based Construct in vivo",
+    "authors": "Feng X, Xu P, Shen T, Zhang Y, Ye J, Gao C.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.00404",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11832546",
+  "paper_id": "doi:10.3389/fbioe.2025.1541746",
+  "pmcid": "PMC11832546",
+  "source_record_sha256": "7995db118a6a68c08d9def2921bf9e7ab7c3b8e44dbd95ff88c14624251d9c6e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c7c366e93efb3ad98cd9dc7b44e36d1c887c288ccb430955b091668d5c32b50b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application and progress of 3D printed biomaterials in osteoporosis",
+    "authors": "Wang C, Liu A, Zhao Z, Ying T, Deng S, Jian Z, Zhang X, Yi C, Li D.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1541746",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

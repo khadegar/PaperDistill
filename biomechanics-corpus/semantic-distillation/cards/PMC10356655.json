@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10356655",
+  "paper_id": "doi:10.1007/s00167-022-07251-5",
+  "pmcid": "PMC10356655",
+  "source_record_sha256": "1e29dbaeb68430e7e14fd18eea9daf5a97fe3f8bb4e4a5a20a6160c8f0d2c64f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "01dcf8a0cb0ac0c91d914da7314e10891d7aa804da2dbdb5aaf66e14835995c9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mismatch between trochlear coronal alignment of arthritic knees and currently available prosthesis: a morphological analysis of 4116 knees and 45 implant designs",
+    "authors": "Rosa SB, Hazratwala K, Wilkinson MPR.",
+    "year": 2022,
+    "journal": "Knee Surgery, Sports Traumatology, Arthroscopy",
+    "doi": "10.1007/s00167-022-07251-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

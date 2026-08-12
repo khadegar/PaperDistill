@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6470419",
+  "paper_id": "doi:10.1155/2019/4307461",
+  "pmcid": "PMC6470419",
+  "source_record_sha256": "c1c2cc455297b6dbc6452e6307d828591bbe55c2ef2c3f67674633319a6e6533",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6cfc1ffc87301e87a5b9134c3bb1a22fd9e6223e4700207e3b2d1312f29be9b1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Combustion Synthesis Porous Nitinol for Biomedical Applications",
+    "authors": "Aihara H, Zider J, Fanton G, Duerig T.",
+    "year": 2019,
+    "journal": "International Journal of Biomaterials",
+    "doi": "10.1155/2019/4307461",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

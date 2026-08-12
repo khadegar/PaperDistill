@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12920755",
+  "paper_id": "doi:10.1007/s00402-026-06195-6",
+  "pmcid": "PMC12920755",
+  "source_record_sha256": "7199b5828274ed35282f83e504d9e9ce69a4bfd15da01253e63d411dc42ee3d7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2ed301ecacd6659ee8532c6d55fc99c4a4a2b1a8390b6fc2309d84301f79dddc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical analysis of surgical alignment and design in total knee arthroplasty",
+    "authors": "Innocenti B, Bori E.",
+    "year": 2026,
+    "journal": "Archives of Orthopaedic and Trauma Surgery",
+    "doi": "10.1007/s00402-026-06195-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12655275",
+  "paper_id": "doi:10.3390/pathogens14111072",
+  "pmcid": "PMC12655275",
+  "source_record_sha256": "68f44f171f826a052564161d09c53e0ce7cd69a7246bed430283c63fda117d72",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4106855afbbc451d1979f5583f249ccd5f2b2e1c082c642084b0c399b6e15114",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Antibacterial Electrophoretically Loaded Titania Nanotubes on Titanium Alloy Implants Enhance Osseointegration",
+    "authors": "Fischer J, Hall DJ, Moran MM, Markovics A, Pennekamp PH, Hamilton JL, Wimmer MA.",
+    "year": 2025,
+    "journal": "Pathogens",
+    "doi": "10.3390/pathogens14111072",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

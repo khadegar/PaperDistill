@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8126666",
+  "paper_id": "doi:10.3389/fbioe.2021.638494",
+  "pmcid": "PMC8126666",
+  "source_record_sha256": "abdc907cc60d051397d85b5670c07e67bbf0283a3d35e90ff4aa617023e94c75",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c33e311c3d3f794214adbd9c9401abc30a462f605087d0e9cb1d5c45f22926d5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cathelicidin LL37 Promotes Osteogenic Differentiation in vitro and Bone Regeneration in vivo",
+    "authors": "Li L, Peng Y, Yuan Q, Sun J, Zhuang A, Bi X.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.638494",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

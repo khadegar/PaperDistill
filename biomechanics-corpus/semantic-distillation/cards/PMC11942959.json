@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11942959",
+  "paper_id": "doi:10.3390/jcm14061928",
+  "pmcid": "PMC11942959",
+  "source_record_sha256": "bcfbf8394d9ff66f94835a576f60896101cb67a8d0759b20796770093a02ae42",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bcdd0d9801d4a810512fff28bba9db03cbb45df232a366af6c8c7714e604e2b6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Maxillary Bone Fracture Due to a Miniscrew-Assisted Rapid Maxillary Expansion: A Case Report",
+    "authors": "Hanai U, Muramatsu H, Akamatsu T.",
+    "year": 2025,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm14061928",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

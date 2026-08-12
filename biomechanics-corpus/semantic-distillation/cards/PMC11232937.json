@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11232937",
+  "paper_id": "doi:10.1097/brs.0000000000005034",
+  "pmcid": "PMC11232937",
+  "source_record_sha256": "05aa7097b93d43ee1d652124c4baebec24957f8d0fa42816c9736c654996e6ff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "000c1b0138259dfc343200626b0e147e5081ecde3f59d822a992319267bddd13",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Effect of Different Posterior Fixation Techniques on Stability and Adjacent Segment Degeneration in Treating Thoracolumbar Burst Fracture With Osteoporosis",
+    "authors": "Zhang G, Li J, Zhang L, Song J, Shao J, Lv C, Bai T, Du Y, Xi Y.",
+    "year": 2024,
+    "journal": "Spine",
+    "doi": "10.1097/brs.0000000000005034",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

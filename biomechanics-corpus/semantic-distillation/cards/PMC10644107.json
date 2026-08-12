@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10644107",
+  "paper_id": "doi:10.3389/fbioe.2023.1283811",
+  "pmcid": "PMC10644107",
+  "source_record_sha256": "695cb1dc690db2117f94e80553084047d4922040764b8b47417a25f3c6a84a96",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8491fdf638288138ca0a5cab9a564024d34b98911c24e33486ece364c96502fb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of hydroxyapatite-coated porous titanium scaffolds functionalized by exosomes on the regeneration and repair of irregular bone",
+    "authors": "Shao H, Zhang Q, Sun M, Wu M, Sun X, Wang Q, Tong S.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1283811",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

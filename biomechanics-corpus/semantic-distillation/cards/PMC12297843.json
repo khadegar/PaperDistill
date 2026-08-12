@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12297843",
+  "paper_id": "doi:10.1186/s41205-025-00293-8",
+  "pmcid": "PMC12297843",
+  "source_record_sha256": "d654ea0f7ddba3fb8b30f4017c7fdc8eff498f5b43c6fd4c0802cbf6ba47aaf7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6a7d57186620879a5ed125a9e8492856276612a819200e89d485c8f2ab3c9653",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Custom 3D-printed porous titanium augments for Paprosky type III acetabular defects: a case series combining biomechanical rationale with early clinical outcomes",
+    "authors": "Shi T, Zhang W, Fang X.",
+    "year": 2025,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-025-00293-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7225309",
+  "paper_id": "doi:10.3389/fbioe.2020.00385",
+  "pmcid": "PMC7225309",
+  "source_record_sha256": "47d7297503d923bb1faca968698b6f9296055d2c61a7a64cdacc5dc06c35bafe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "80101b571cff8d06683063fa4832cea59b93a61bc29baa807c7d78458989d4b1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additively Manufactured Patient-Specific Anthropomorphic Thorax Phantom With Realistic Radiation Attenuation Properties",
+    "authors": "Hatamikia S, Oberoi G, Unger E, Kronreif G, Kettenbach J, Buschmann M, Figl M, Knäusl B, Moscato F, Birkfellner W.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.00385",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

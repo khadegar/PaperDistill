@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12080301",
+  "paper_id": "doi:10.1002/mabi.202400464",
+  "pmcid": "PMC12080301",
+  "source_record_sha256": "5603453503a32015ac787e9eee6d0444f54bdf2ba89bc659c6f237d910ba6d2a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a871b3f691652328fefbd60c8ef398be8518f910df8bce92d0f9a7cffeed4e34",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigating How All‐Trans Retinoic Acid Polycaprolactone (atRA‐PCL) Microparticles Alter the Material Properties of 3D Printed Fibrin Constructs",
+    "authors": "Hangad MV, Forigua A, Scheck K, Willerth SM, Elvira KS.",
+    "year": 2025,
+    "journal": "Macromolecular Bioscience",
+    "doi": "10.1002/mabi.202400464",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

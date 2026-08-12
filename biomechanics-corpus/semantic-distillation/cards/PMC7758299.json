@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7758299",
+  "paper_id": "doi:10.5051/jpis.1905680284",
+  "pmcid": "PMC7758299",
+  "source_record_sha256": "70a1adefd776dbe20249f7a7471f36ebe34e00de57a67c4a50e7021c5d51686d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2dcf6d391c9eb7656a6e20ba3b0fbb4b607e241a179798f46e0ecf61ddd97b36",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Chitosan/hydroxyapatite composite coatings on porous Ti6Al4V titanium implants: in vitro and in vivo studies",
+    "authors": "Zhang T, Zhang X, Mao M, Li J, Wei T, Sun H.",
+    "year": 2020,
+    "journal": "Journal of Periodontal & Implant Science",
+    "doi": "10.5051/jpis.1905680284",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

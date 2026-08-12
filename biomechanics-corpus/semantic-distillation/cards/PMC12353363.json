@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12353363",
+  "paper_id": "doi:10.1002/smll.202502033",
+  "pmcid": "PMC12353363",
+  "source_record_sha256": "2ae3668db0b9faf087fcd162f7751b07f6a2181230352a43603864491da30b55",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8abc7123073ab6039315be77f451342d04f900ffb389e81eaaefbdf47cd1f17d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D‐Printed Microfluidic Platform for Creating Porous Nanofibrous Microspheres to Regulate Cell Response and Enhance Tissue Regeneration",
+    "authors": "Lee D, Tran HQ, Sharma NS, Andrabi SM, Yan Z, Killeen AC, Reinhardt RA, Zhu W, Xie J.",
+    "year": 2025,
+    "journal": "Small (Weinheim an Der Bergstrasse, Germany)",
+    "doi": "10.1002/smll.202502033",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10956317",
+  "paper_id": "doi:10.1186/s13036-024-00416-5",
+  "pmcid": "PMC10956317",
+  "source_record_sha256": "1e5afe840bb97d8d754bd578bae8790e2a49bacee0f3d6170fcba88c0a9c8cd5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "01e35be16fe7b2d461d4bbb5043c18fea059beb07c84ff2e984e3e5ae7d94d31",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed nanohydroxyapatite/methylacrylylated silk fibroin scaffold for repairing rat skull defects",
+    "authors": "Huiwen W, Shuai L, Jia X, Shihao D, Kun W, Runhuai Y, Haisheng Q, Jun L.",
+    "year": 2024,
+    "journal": "Journal of Biological Engineering",
+    "doi": "10.1186/s13036-024-00416-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

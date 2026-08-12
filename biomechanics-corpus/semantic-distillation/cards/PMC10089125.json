@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10089125",
+  "paper_id": "doi:10.3389/fbioe.2023.1112335",
+  "pmcid": "PMC10089125",
+  "source_record_sha256": "d8513fff7323ffb23be86134fdc261ff686e55fb388b2c9a066b58804008da3c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bceb3a8ab53e092d182f3a1393f8d34d32289844d827a2ba9f59c7a7ea826960",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effectiveness of biomechanically stable pergola-like additively manufactured scaffold for extraskeletal vertical bone augmentation",
+    "authors": "Yang W, Wang C, Luo W, Apicella A, Ji P, Wang G, Liu B, Fan Y.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1112335",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

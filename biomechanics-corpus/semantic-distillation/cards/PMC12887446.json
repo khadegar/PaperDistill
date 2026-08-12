@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12887446",
+  "paper_id": "doi:10.1002/cre2.70296",
+  "pmcid": "PMC12887446",
+  "source_record_sha256": "d3e696dd2e166780e6cbbefe6ecda5f258f1396b19a211a9b813a25429a3f857",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "71d4539bf8bdebb305e21bbb9495bea0cdf35d0fcae571740efe372e9fe188e1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Crown to Titanium Base Ratio and Force Angle on the Biomechanical Behavior of Dental Implants With CAD/CAM Zirconia and Lithium Disilicate Crowns: A Finite Element Analysis",
+    "authors": "Abtahi S, Mirzaboland S, Geramy A, Alikhasi M, Siadat H.",
+    "year": 2026,
+    "journal": "Clinical and Experimental Dental Research",
+    "doi": "10.1002/cre2.70296",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

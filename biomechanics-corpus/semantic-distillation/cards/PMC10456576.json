@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10456576",
+  "paper_id": "doi:10.3390/ma16165605",
+  "pmcid": "PMC10456576",
+  "source_record_sha256": "6b03d641b559bf8e9678d8c31aa65e34666ed68c839ec41797bbcecfb06a9c53",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "90c6350b738669f41cdb6a339208754065c372494bfa7656151308fc87985639",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Effects of Different Femoral Component Materials on Bone and Implant Response in Total Knee Arthroplasty: A Finite Element Analysis",
+    "authors": "Galas A, Banci L, Innocenti B.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16165605",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

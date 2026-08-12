@@ -1,0 +1,244 @@
+{
+  "study": {
+    "article_kind": "laboratory_immersion_mechanics_microCT_and_as_built_model_study",
+    "design_features": [
+      "PLA_FFF",
+      "solid_scale_and_print_orientation_controls",
+      "functionally_graded_TPMS",
+      "diamond_and_IWP_morphology",
+      "37_and_45_degree_saline_immersion",
+      "four_time_points_to_14_days",
+      "compression_testing",
+      "microCT_morphometry",
+      "nominal_vs_as_built_FE_comparison",
+      "no_biological_or_animal_study"
+    ],
+    "research_problem": "The mechanical support provided by biodegradable FFF scaffolds evolves with fluid exposure, temperature, architecture, size, orientation, and manufacturing defects, yet early changes in functionally graded TPMS structures are difficult to predict.",
+    "exact_gap": "Reliable models do not yet separate how short-term fluid exposure, temperature, sample scale, layer orientation, heterogeneous TPMS architecture, moisture, and FFF defects alter effective mechanics and morphology (S002:C01-S002:C05).",
+    "objective_or_hypothesis": "Measure compression changes in solid PLA controls and two functionally graded TPMS scaffolds after 3, 7, 11, and 14 days in 0.9% NaCl at 37 or 45 degrees C, and use micro-CT/morphometry plus one as-built reconstruction to inspect geometry and defects (S001:C01-S002:C05).",
+    "study_design": "Five specimens per mechanical condition/time point were tested; solid cylinders of different dimensions, prisms in two orientations, and DDM/DP-IWP-M graded scaffolds were FFF printed, immersed, compression tested, and selected scaffold states were micro-CT scanned and morphometrically analyzed (S003:C01-S012:C04; S017:C01-S019:C02).",
+    "sample_or_model": "Commercial PLA printed with a 0.2 mm nozzle and 0.1 mm layers; 5 x 5 x 15 mm graded TPMS specimens transitioning from a high-porosity Diamond region through a gradient to lower-porosity Diamond or I-WP morphology (S003:C01-S006:C01).",
+    "comparators": [
+      "Unexposed versus 3/7/11/14-day saline immersion",
+      "37 versus 45 degrees C",
+      "Three solid-cylinder sizes",
+      "Two prism print orientations",
+      "DDM versus DP-IWP-M graded architectures",
+      "Nominal CAD versus micro-CT-derived as-built DP-IWP-M model",
+      "No hydrolysis chemistry, dynamic-flow, enzymatic, cell, animal, or bone-tissue comparator"
+    ],
+    "method_spine": [
+      "Use solid controls to characterize scale, orientation, fluid, and temperature effects.",
+      "Design two graded TPMS architectures with common outer dimensions.",
+      "Print under fixed FFF settings and perform lubricated uniaxial compression.",
+      "Expose independent specimens to saline/time/temperature conditions and report effective modulus/strength with variability.",
+      "Use micro-CT to distinguish nominal architecture, manufacturing voids/excess material, wall thickness, volume, and specific surface changes.",
+      "Reconstruct one as-built geometry for FE comparison while keeping immersion response, degradation chemistry, and simulation evidence distinct."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Compression strength calculated by peak stress and instantaneous-modulus inflection differed by less than 1%, providing an internal calculation cross-check (S005:C02; S016:C01).",
+        "Micro-CT acquisition/reconstruction parameters and local segmentation are reported, but threshold/reconstruction sensitivity and repeatability are not (S007:C01-S008:C02; S012:C01-S012:C04)."
+      ],
+      "calibration": [
+        "The 45-degree condition accelerates property change but is not calibrated to an equivalent physiological exposure time or degradation law (S006:C01).",
+        "As-built FE uses modulus/strength from solid horizontal prisms and a fixed Poisson ratio, with no inverse calibration to scaffold force-displacement data (S013:C02)."
+      ],
+      "validation": [
+        "Compression replicates validate effective responses of the tested specimens; they do not identify chemical degradation or in-vivo lifetime.",
+        "Micro-CT demonstrates manufacturing defects and morphometric change; the one nominal-versus-as-built FE comparison is qualitative and not independently validated against that specimen's measured response (S012:C01-S013:C03)."
+      ],
+      "sensitivity": [
+        "Temperature, time, solid size, print orientation, and two architecture gradients are varied experimentally (S003:C01-S012:C04).",
+        "No flow, pH, medium renewal, enzyme, mechanical cycling, sterilization, load-while-immersed, material batch, segmentation threshold, or longer-term sensitivity is reported."
+      ],
+      "application_prediction": [
+        "Matching scaffold degradation to bone formation and predicting clinical structural integrity remain application goals; the experiment covers two weeks of saline/temperature exposure without tissue formation (S002:C01; S013:C04-S014:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "Solid effective compression properties changed nonlinearly: early modulus dropped, later values sometimes rose at 37 degrees C, while 45 degrees C caused larger persistent modulus and strength losses; size and measurement scatter influenced the pattern (S009:C01-S009:C06).",
+      "Vertical versus horizontal prism printing changed modulus by about 4.9% and strength by about 10.8%, with greater variability in the vertical orientation; the authors characterize orientation effects as small for these solid specimens (S010:C01-S010:C03).",
+      "At 37 degrees C, lattice modulus changed at most about 4% by day 14, whereas 45 degrees C reduced modulus about 15.6% for DDM and 10% for DP-IWP-M; strength loss at 45 degrees C reached about 12.6% and 17.1%, respectively (S011:C01-S011:C03; S018:C01-S018:C02).",
+      "Micro-CT found interlayer voids, intralayer filling defects, excess polymer, and overhang/support limitations in unexposed prints; later scans showed more/larger defects at locations aligned with pre-existing manufacturing defects (S012:C01-S012:C02; S019:C01-S019:C02).",
+      "Morphometry showed declining material volume/wall thickness and increasing specific surface area after immersion, consistent with surface erosion but reported without replicate uncertainty for each micro-CT state (S012:C03-S012:C04).",
+      "A single as-built DP-IWP-M FE reconstruction shifted stress distributions relative to CAD; the conclusion that the real sample had greater safety margin is simulation-derived rather than measured (S013:C02-S013:C03)."
+    ],
+    "highest_evidence_level_reached": "Replicated short-term ex-vivo immersion/compression evidence plus selected micro-CT/as-built computational analysis; no chemical degradation confirmation, long-term dynamic environment, biology, animal, or clinical validation."
+  },
+  "argument_map": {
+    "central_claim": "Short-term saline exposure changes effective PLA specimen/scaffold mechanics through a mixture of temperature, moisture uptake/void filling, surface/material loss, architecture, and manufacturing defects; the data support immersion-response and as-built-geometry claims, not a complete biodegradation mechanism or bone-regeneration lifetime model.",
+    "data": [
+      "Five-specimen compression series across size, orientation, time, temperature, and two graded TPMS architectures (S003:C01-S011:C03; S017:C01-S018:C02).",
+      "Micro-CT morphology/defect observations and one nominal-versus-as-built FE reconstruction (S007:C01-S008:C02; S012:C01-S013:C03; S019:C01-S019:C02)."
+    ],
+    "warrant": "Mechanical and morphometric change after controlled immersion is relevant to early scaffold stability, but attributing it to degradation requires chemical/mass evidence and clinically meaningful prediction requires longer, coupled biological-mechanical validation.",
+    "backing": [
+      "The authors explicitly acknowledge moisture-saturated effective properties, two-week scope, inability to isolate material change, and need to test dried exposed samples (S013:C01-S013:C05)."
+    ],
+    "qualifier": "Early saline-immersion response of one PLA/process/architecture family.",
+    "rebuttals_or_boundaries": [
+      "0.9% NaCl at fixed temperature lacks cells, enzymes, pH evolution, fluid flow, medium renewal, and mechanical loading during exposure.",
+      "Moisture uptake, liquid-filled FFF voids, plasticization, drying state, temperature, hydrolysis, and measurement geometry are not experimentally separated (S009:C02-S009:C06; S013:C01-S013:C05).",
+      "No mass loss, molecular weight, crystallinity, chemical bonds, degradation-product release, water uptake, or pH is measured.",
+      "The 45-degree condition has no time-temperature equivalence to 37-degree in-vivo degradation.",
+      "Small non-ASTM solid samples yield effective structural responses rather than intrinsic PLA material constants (S009:C06).",
+      "Micro-CT morphometry appears based on selected samples/states without replicate uncertainty or segmentation sensitivity.",
+      "Two TPMS gradients do not establish general architecture rules, and no bone-like biological function was tested."
+    ],
+    "argument_coherence": "high_for_immersion_response_moderate_for_surface_erosion_low_for_biodegradation_and_application_prediction"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Compression force-displacement/effective modulus/strength, specimen variability, micro-CT grayscale geometry, material volume, specific surface area, wall thickness, and observed manufacturing/immersion-associated defects (S005:C01-S012:C04; S016:C01-S019:C02)."
+    ],
+    "predicted": [
+      "Nominal and as-built linear-elastic FE stress fields under 1% compression are predictions based on one control geometry (S013:C02-S013:C03)."
+    ],
+    "inferred": [
+      "Early modulus increases are attributed to moisture saturation and liquid filling interfilament spaces without direct water-uptake measurements (S009:C02-S009:C03; S013:C01).",
+      "Rising specific surface and lower volume/thickness are interpreted as surface erosion; chemical chain degradation remains unmeasured (S012:C03-S012:C04).",
+      "Manufacturing defects are inferred to seed enlargement during exposure based on spatial correspondence (S012:C02).",
+      "The as-built model is inferred to have a larger safety margin from simulated stress-distribution tails (S013:C03)."
+    ],
+    "recommended": [
+      "Measure wet/dry mass and water uptake, molecular weight/chemistry/crystallinity/products/pH, dynamic flow and cyclic load, longer physiological exposure, replicate micro-CT with threshold uncertainty, paired specimen FE validation, and cell/animal bone-replacement behavior."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Saline immersion is an environmental exposure, not proof of biological degradation.",
+      "Effective modulus of a moisture-filled printed specimen is not intrinsic polymer modulus.",
+      "Morphometric thinning/increased surface supports erosion-like geometry but not a quantified hydrolysis mechanism.",
+      "Elevated-temperature change is not a calibrated prediction of physiological lifetime.",
+      "TPMS mechanics under compression do not demonstrate tissue ingrowth or implant-tissue stability."
+    ],
+    "overclaim_risks": [
+      "Repeated use of 'degradation' can imply polymer-chain breakdown when the study mainly observes short-term immersion response and morphology (S001:C01-S001:C02; S014:C01).",
+      "The conclusion says the real structure resisted compression better than the model, although this comes from FE comparison rather than paired experimental validation (S014:C01).",
+      "Calling the graded regions cortical/trabecular mimics refers to porosity architecture, not tissue-equivalent mechanics or biology (S004:C03-S004:C04).",
+      "The automatic animal cue is false."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Use a control hierarchy to separate material, process, architecture, and environment",
+      "execution": "Solid size controls, orientation controls, two graded TPMS architectures, two temperatures, and four time points precede the coupled scaffold interpretation (S003:C01-S006:C01).",
+      "locator": "S006:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For degradation-mechanics studies, design a control ladder of intrinsic material, printed solid, architecture, orientation, environment, time, and coupled load so each source of change has a comparator.",
+      "failure_mode": "Controls that remain moisture- and chemistry-confounded cannot identify a degradation mechanism."
+    },
+    {
+      "section": "results",
+      "move": "Report nonmonotonic response and variability rather than forcing a decay curve",
+      "execution": "The paper reports early decreases, later increases/fluctuations, CV ranges, size effects, and possible moisture/measurement explanations (S009:C01-S009:C06).",
+      "locator": "S009:C03",
+      "effectiveness": "high",
+      "transferable_principle": "When wet polymer mechanics are nonmonotonic, show every time point, uncertainty, hydration state, and competing mechanism; do not fit a degradation rate prematurely.",
+      "failure_mode": "Mechanistic explanations remain hypotheses without water uptake and chemical measurements."
+    },
+    {
+      "section": "results",
+      "move": "Track nominal-to-as-built-to-aged geometry",
+      "execution": "Micro-CT identifies initial FFF voids/excess material and later enlargement, while morphometry quantifies volume, surface area, and thickness (S012:C01-S012:C04; S019:C01-S019:C02).",
+      "locator": "S012:C02",
+      "effectiveness": "high",
+      "transferable_principle": "For AM scaffold aging, preserve CAD, as-built, and aged states and link defects spatially through registered longitudinal or matched imaging.",
+      "failure_mode": "Selected cross-sectional observations without replicate/registration uncertainty can overstate defect evolution."
+    },
+    {
+      "section": "discussion",
+      "move": "Rename the claim at the level actually measured",
+      "execution": "The authors acknowledge moisture-saturated testing, two-week duration, and inability to precisely isolate material-property change (S013:C04-S013:C05).",
+      "locator": "S013:C05",
+      "effectiveness": "high_as_boundary",
+      "transferable_principle": "Use 'immersion-conditioned effective response' unless mass/chemistry/molecular evidence establishes degradation; reserve lifetime prediction for calibrated long-term models.",
+      "failure_mode": "A broad 'biodegradation' label conceals hydration, temperature, and void-filling effects."
+    },
+    {
+      "section": "discussion",
+      "move": "Use as-built FE as model updating, not automatic validation",
+      "execution": "One micro-CT reconstruction changes the stress distribution relative to CAD and motivates safety factors/refinement (S013:C02-S013:C03).",
+      "locator": "S013:C03",
+      "effectiveness": "moderate",
+      "transferable_principle": "Compare CAD and as-built FE, then validate both against paired mechanical data before claiming which better predicts response or safety margin.",
+      "failure_mode": "Two unvalidated simulations cannot validate each other."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Only two weeks of exposure, moisture-saturated testing, no precise separation of material-property degradation, small non-ASTM specimen geometry, and need for dried-after-exposure testing (S009:C06; S013:C04-S013:C05)."
+    ],
+    "reader_identified": [
+      "No direct chemical/molecular/mass-loss/water-uptake/degradation-product measurement.",
+      "45-degree acceleration is not calibrated to physiological time and may alter mechanisms.",
+      "Exposure lacks flow, cells, enzymes, pH control/reporting, medium renewal, and concurrent mechanical load.",
+      "Only five mechanical specimens per condition; many conditions/time points and no formal longitudinal/factorial statistical model are reported.",
+      "Micro-CT/morphometry replication, registration, segmentation-threshold uncertainty, and blinding are unclear.",
+      "Only two graded architectures and no ungraded TPMS control isolate the gradient effect.",
+      "As-built FE comparison uses one sample and no paired experimental validation.",
+      "No sterilization, cytocompatibility, tissue ingrowth, animal, or clinical study."
+    ],
+    "likely_bias_direction": [
+      "Calling all immersion-induced change degradation overstates mechanistic certainty.",
+      "Selected morphometric samples may overstate general erosion trends.",
+      "Simulation-derived safety-margin language may overstate as-built mechanical benefit."
+    ],
+    "scope_boundary": "The study characterizes two-week saline/temperature-conditioned effective mechanics and selected morphology of one FFF PLA/graded-TPMS system; it does not quantify biodegradation kinetics, physiological lifetime, bone replacement, or biological performance."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC11728786-01",
+      "capability": "Use a material-process-architecture-environment control ladder and name short-term results as immersion-conditioned effective response until degradation chemistry is demonstrated.",
+      "manuscript_use": "Degradation-study Methods, Results terminology, and conclusion audit.",
+      "applicable_domains": ["porous_scaffold", "additive_manufacturing", "biomaterials"],
+      "applicable_study_designs": ["immersion_study", "experimental_mechanical"],
+      "supporting_locators": ["S003:C01", "S005:C01", "S006:C01", "S009:C01", "S009:C02", "S009:C03", "S013:C05"],
+      "counterexample_or_boundary": "Saline, temperature, moisture, and void filling can change mechanics without proving chain scission or biological degradation.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC11728786-02",
+      "capability": "Track CAD, as-built, and aged scaffold states with micro-CT morphometry and spatially linked defect evolution, including segmentation/replicate uncertainty.",
+      "manuscript_use": "AM metrology Results and degradation Discussion.",
+      "applicable_domains": ["additive_manufacturing", "porous_scaffold"],
+      "applicable_study_designs": ["microCT_metrology", "immersion_study"],
+      "supporting_locators": ["S007:C01", "S008:C01", "S008:C02", "S012:C01", "S012:C02", "S012:C03", "S012:C04", "S019:C01", "S019:C02"],
+      "counterexample_or_boundary": "Cross-sectional selected scans do not prove longitudinal defect growth without registration and replication.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC11728786-03",
+      "capability": "Treat as-built FE as a model-updating candidate and require paired experiment before declaring improved prediction or safety margin.",
+      "manuscript_use": "Computational-experimental validation and Discussion.",
+      "applicable_domains": ["biomechanics", "additive_manufacturing", "porous_scaffold"],
+      "applicable_study_designs": ["finite_element", "experimental_mechanical"],
+      "supporting_locators": ["S013:C02", "S013:C03", "S014:C01"],
+      "counterexample_or_boundary": "A CAD FE and micro-CT FE comparison without paired mechanical validation does not establish which model is accurate.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_short_term_immersion_response",
+    "methods_transparency": "high",
+    "validation_credibility": "moderate_for_effective_mechanics_low_for_degradation_mechanism_or_lifetime",
+    "outcome_uncertainty_reporting": "moderate_to_high_for_mechanics_low_for_morphometry",
+    "comparator_fairness": "moderate_to_high",
+    "conclusion_proportionality": "moderate",
+    "critical_weaknesses": [
+      "No chemical or mass evidence of degradation and strong moisture confounding.",
+      "Short uncalibrated accelerated exposure and unclear micro-CT replication.",
+      "Unvalidated single-sample as-built FE safety interpretation."
+    ],
+    "overall_credibility": "high_for_measured_short_term_specimen_response_moderate_for_surface_erosion_low_for_biodegradation_lifetime_or_biological_application"
+  },
+  "summary_zh": "该研究用实体尺寸/打印方向对照和两种梯度 TPMS 支架，比较 PLA 在 37/45℃、0.9% NaCl 中 3–14 天后的压缩响应，并用 micro-CT 观察制造缺陷、材料体积、比表面积和壁厚。直接证据是‘浸泡后有效力学与形貌变化’：37℃支架模量约变化不超过 4%，45℃下降约 10–16%，强度下降约 13–17%；micro-CT 也看到原有层间/填充缺陷附近的缺陷增多。真正的降解机制仍未被确认，因为没有质量损失、吸水量、分子量、化学键、结晶度、降解产物或 pH 数据，且水分塑化、孔隙液体填充、温度和链断裂混在一起。一个 as-built micro-CT FE 与 CAD FE 的比较只能用于模型更新，未与该样本实验配对就不能声称更准确或安全裕度更大。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section, including all controls, time-temperature tables, micro-CT/morphometry, as-built FE comparison, and appendices.",
+    "The automatic animal cue is incorrect; no biological experiment was performed.",
+    "The paper is a strong example of nonmonotonic wet-state reporting and CAD-as-built-aging tracking, with an important terminology boundary around degradation."
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9456604",
+  "paper_id": "doi:10.3390/ma15175896",
+  "pmcid": "PMC9456604",
+  "source_record_sha256": "03484f672693eb878942580416f2d5b477c34023a9317b7bf527046f67cb9be3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1b20eee409b83fe074af96a3459f05075c82dc575e0cb51ca10d91221a83bbfb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimization of Structural and Processing Parameters for Selective Laser Melting of Porous 316L Bone Scaffolds",
+    "authors": "Xu S, Zhang S, Ren G, Pan Y, Li J.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15175896",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

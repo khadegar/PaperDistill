@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8990132",
+  "paper_id": "doi:10.3389/fbioe.2022.811942",
+  "pmcid": "PMC8990132",
+  "source_record_sha256": "9591ae9ff7603500d1b524f915407f9ae54b3d9a818228cdeadb46487b0b9bf8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "996425e55b1f19aa88e00461d2048b88316e04ad08552826f9e3876549507262",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimization and Validation of a Custom-Designed Perfusion Bioreactor for Bone Tissue Engineering: Flow Assessment and Optimal Culture Environmental Conditions",
+    "authors": "Yamada S, Yassin MA, Schwarz T, Mustafa K, Hansmann J.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.811942",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

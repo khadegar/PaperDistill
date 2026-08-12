@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8125587",
+  "paper_id": "doi:10.3390/ma14092421",
+  "pmcid": "PMC8125587",
+  "source_record_sha256": "013b9c2c6012798b55c2615bf03c6ea6f7dc389f3364300cea811c9fd864ae68",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "aaef3e17abdd05cf68efed72e17324004fc2dfe41fcc211d5d928faf98f15382",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of Implant–Abutment Connection Type and Inter-Implant Distance on Inter-Implant Bone Stress and Microgap: Three-Dimensional Finite Element Analysis",
+    "authors": "Matsuoka T, Nakano T, Yamaguchi S, Ono S, Watanabe S, Sato T, Yatani H.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14092421",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

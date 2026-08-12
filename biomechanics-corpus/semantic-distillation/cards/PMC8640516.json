@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8640516",
+  "paper_id": "doi:10.1016/j.mtbio.2021.100173",
+  "pmcid": "PMC8640516",
+  "source_record_sha256": "56c75d859a7214fc3dece95631ab11026a2e892f6ae5d64262438baf50242e5d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e6524d90b8617da21196a69759a30a8305f60e7131aaf589dc51f1db67dd47c0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Layer-specific stem cell differentiation in tri-layered tissue engineering biomaterials: Towards development of a single-stage cell-based approach for osteochondral defect repair",
+    "authors": "Levingstone TJ, Moran C, Almeida HV, Kelly DJ, O'Brien FJ.",
+    "year": 2021,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2021.100173",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

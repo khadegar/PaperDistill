@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7579379",
+  "paper_id": "doi:10.3390/ma13194457",
+  "pmcid": "PMC7579379",
+  "source_record_sha256": "29486ca1939c7a6ed09b5f3d695e94c4548119f2c8bd23bf6bd0428e3b692c4e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fcdd03e1a8b209038ed3188b604e00e61df12065521ebcd8df93b3719f137a5c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Processing of Polyester-Urethane Filament and Characterization of FFF 3D Printed Elastic Porous Structures with Potential in Cancellous Bone Tissue Engineering",
+    "authors": "Haryńska A, Carayon I, Kosmela P, Brillowska-Dąbrowska A, Łapiński M, Kucińska-Lipka J, Janik H.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13194457",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

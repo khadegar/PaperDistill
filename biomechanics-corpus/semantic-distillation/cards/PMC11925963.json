@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11925963",
+  "paper_id": "doi:10.1007/s00068-025-02802-0",
+  "pmcid": "PMC11925963",
+  "source_record_sha256": "9d0f86644532c532ab9150ec4d190a0b690db79184b68b70ee068c566df80ef9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "303600a751ab8fd2771621d1c63101a169a45ad96b6df601d3b75843d14bad76",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of fracture morphology on the biomechanical stability of osteosynthetic fixation",
+    "authors": "Hollensteiner M, Mühling M, Blum P, Sandriesser S, Baumeister D, Greinwald M, Fürmetz J, Augat P.",
+    "year": 2025,
+    "journal": "European Journal of Trauma and Emergency Surgery",
+    "doi": "10.1007/s00068-025-02802-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

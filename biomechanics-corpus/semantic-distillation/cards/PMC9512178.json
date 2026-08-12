@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9512178",
+  "paper_id": "doi:10.1371/journal.pone.0275297",
+  "pmcid": "PMC9512178",
+  "source_record_sha256": "d519b15f9b3fadb7d3d7c37baf7ef7acebc104956f43fbee73f2d6382b0815f3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1fffdc9e65efe6531263e8f3595787717f5b29582b77b7c30eebb6dca34cf6a2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The clinical performance of ultra-low-dose shoulder CT scans: The assessment on image and physical 3D printing models",
+    "authors": "Lei M, Zhang M, Luo N, Ye J, Lin F, Chen Y, Chen J, Xiao M.",
+    "year": 2022,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0275297.r006",
+    "publication_type": "research-article; Randomized Controlled Trial; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

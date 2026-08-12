@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9804777",
+  "paper_id": "doi:10.1002/term.3345",
+  "pmcid": "PMC9804777",
+  "source_record_sha256": "a8856af086ae36c8fabf8233059e1be28a94e3559a418090babfeae15117cda7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d0751ffe7ea534992581fdd01d353a2423853c5ed75d27fc63bf95c26e9139d5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of resolvin D1 on bone regeneration in a rat calvarial defect model",
+    "authors": "Jiang X, Liu J, Li S, Qiu Y, Wang X, He X, Pedersen TØ, Mustafa K, Xue Y, Mustafa M, Kantarci A, Xing Z.",
+    "year": 2022,
+    "journal": "Journal of Tissue Engineering and Regenerative Medicine",
+    "doi": "10.1002/term.3345",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

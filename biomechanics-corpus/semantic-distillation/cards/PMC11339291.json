@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11339291",
+  "paper_id": "doi:10.1038/s41598-024-70346-1",
+  "pmcid": "PMC11339291",
+  "source_record_sha256": "e6de55fdc49f49d8109c0e2652b4bb1cc67e0c8cff6e4e9f5a550445b770e334",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9e161b7db70b5bc431c59dd8220990844a267c4ecb699f052bf1889c77484bbf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of Gamma 3 nail with anti-rotation screw fixation for unstable femoral neck fractures: a biomechanical study",
+    "authors": "Liu D, Huang Q, Wang C, Ren C, Xu Y, He C, Zhang K, Zhou D, Zhang C, Ma T.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-70346-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

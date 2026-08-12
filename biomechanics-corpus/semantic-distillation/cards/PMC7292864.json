@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7292864",
+  "paper_id": "doi:10.1016/j.bonr.2020.100286",
+  "pmcid": "PMC7292864",
+  "source_record_sha256": "8fe1c5c53302f13f3a360306f26657bfb7f7e4744a4461afe86f3a38d4be275d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f6b86481bd5e3809dc8a20b0b397656f1a607aaa18f290dc402c5c8617dc8e58",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element models for fracture prevention in patients with metastatic bone disease. A literature review",
+    "authors": "Sas A, Tanck E, Sermon A, van Lenthe GH.",
+    "year": 2020,
+    "journal": "Bone Reports",
+    "doi": "10.1016/j.bonr.2020.100286",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

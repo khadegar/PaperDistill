@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12923088",
+  "paper_id": "doi:10.1002/adfm.202506063",
+  "pmcid": "PMC12923088",
+  "source_record_sha256": "e25cca5c582692f5e18bfeb4cb89fc976c5be821992a2d731bce6055fa8a3a64",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7d516f76eca4b0592d88575e22a83bf3321ee5535d0efdd9472c061fcaa6147e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Anionic Citrate-Based 3D-Printed Scaffolds for Tunable and Sustained Orthobiologic Delivery to Enhance Tissue Regeneration",
+    "authors": "Lee SH, Lu R, House A, Li Z, Burton LH, Sikes KJ, Pezzanite LM, Koch DW, Labus KM, Gadomski B, Easley J, Tran RT, Heo SC.",
+    "year": 2025,
+    "journal": "Advanced functional materials",
+    "doi": "10.1002/adfm.202506063",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

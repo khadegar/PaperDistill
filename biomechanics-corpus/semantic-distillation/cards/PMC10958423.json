@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10958423",
+  "paper_id": "doi:10.3389/fbioe.2024.1370837",
+  "pmcid": "PMC10958423",
+  "source_record_sha256": "ce250237974c30b3761f6404a23b77e8a17b5c98c865a345767e1e0f14525a6b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "21ad44c3644fe2f02ba77613451187b55150552452b958f2206df85f8de59510",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Experimental and virtual testing of bone-implant systems equipped with the AO Fracture Monitor with regard to interfragmentary movement",
+    "authors": "Wickert K, Roland M, Andres A, Diebels S, Ganse B, Kerner D, Frenzel F, Tschernig T, Ernst M, Windolf M, Müller M, Pohlemann T, Orth M.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1370837",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7731226",
+  "paper_id": "doi:10.3390/ijms21239270",
+  "pmcid": "PMC7731226",
+  "source_record_sha256": "fb96ad3de9a9aa83a0f654e97874cff8a242647f60f358bb6939432fe69b3b5c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "73715a1be214463fd04a6e75e78ec11b003f49aa8ea303adcf7ff00931d8f52e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Microporosities in 3D-Printed Tricalcium-Phosphate-Based Bone Substitutes Enhance Osteoconduction and Affect Osteoclastic Resorption",
+    "authors": "Ghayor C, Chen TH, Bhattacharya I, Özcan M, Weber FE.",
+    "year": 2020,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms21239270",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

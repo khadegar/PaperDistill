@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7116207",
+  "paper_id": "doi:10.1088/1758-5090/ab69d9",
+  "pmcid": "PMC7116207",
+  "source_record_sha256": "6aafe3529046d2a6979e83daff4b523f629ba1c59555b29f04e4d32bbf8bc4df",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bc0ce6e39e81d8b469f97981a0379a40065ff1cb9b6d799eb21c6504d8d8e521",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Combining multi-scale 3D printing technologies to engineer reinforced hydrogel-ceramic interfaces",
+    "authors": "Diloksumpan P, de Ruijter M, Castilho M, Gbureck U, Vermonden T, van Weeren PR, Malda J, Levato R.",
+    "year": 2020,
+    "journal": "Biofabrication",
+    "doi": "10.1088/1758-5090/ab69d9",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Evaluation Study; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12330107",
+  "paper_id": "doi:10.1186/s12891-025-09006-y",
+  "pmcid": "PMC12330107",
+  "source_record_sha256": "1a6cbb5c2d45b774c1b0dfc049cf54124e710db9a59bb7fcad3c76222fc401ce",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4ef14673ed67c193a6a510646495233a48ae39a10e51cb500b2bf87689c532c3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of bispherical augments in acetabular defect reconstruction and comparative study of different fixation methods",
+    "authors": "Zhang X, Li G, Chen M, Ni Z, Luo Z, Ji X, Shang X.",
+    "year": 2025,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-025-09006-y",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

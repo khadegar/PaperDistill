@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9659274",
+  "paper_id": "doi:10.3390/ma15217811",
+  "pmcid": "PMC9659274",
+  "source_record_sha256": "fd03ecf3e8faba052ed505186cb6b8381fbd0d96a3c6122b6271bdb77e53962e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b03c6e24567b187ea6862f9c5a9ee38aacef7ada352fac1c08516e6441a6e706",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Improved Osseointegration of Selective Laser Melting Titanium Implants with Unique Dual Micro/Nano-Scale Surface Topography",
+    "authors": "Sun X, Lin H, Zhang C, Huang R, Liu Y, Zhang G, Di S.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15217811",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

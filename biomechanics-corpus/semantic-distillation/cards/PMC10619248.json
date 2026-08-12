@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10619248",
+  "paper_id": "doi:10.1186/s13018-023-04307-1",
+  "pmcid": "PMC10619248",
+  "source_record_sha256": "5d2adaa53d1f7510eae6c73cdd12801216f00e16d3ff35ff45229effbccbf6c0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fe6a5a6ff671606319261d4f2326b337b3d1f67f4ca531a72800183de308a39e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis comparison of Type 42A2 fracture fixed with external titanium alloy locking plate and traditional external fixation frame",
+    "authors": "Fang S, Zhang L, Yang Y, Wang Y, Guo J, Mi L.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-04307-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

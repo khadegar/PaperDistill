@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9875495",
+  "paper_id": "doi:10.1186/s12891-023-06171-w",
+  "pmcid": "PMC9875495",
+  "source_record_sha256": "860ff253c1afa1a6c731fcbaa3c57864c5ba9c95c972c9ced8d27fb33b3c0e22",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f72ca5e3b7cc3ba0585bcbb800ad092eb969b2de9e156bd1b36afe6f91d2bb30",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reconstruction of massive bone defects after femoral tumor resection using two new-designed 3D-printed intercalary prostheses: a clinical analytic study with the cooperative utilization of multiple technologies",
+    "authors": "Shao X, Dou M, Yang Q, Li J, Zhang A, Yao Y, Chu Q, Li K, Li Z.",
+    "year": 2023,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-023-06171-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

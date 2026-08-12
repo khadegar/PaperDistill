@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12098263",
+  "paper_id": "doi:10.1093/rb/rbaf029",
+  "pmcid": "PMC12098263",
+  "source_record_sha256": "e6255c3b755ba4ef2c47cb0cdfd786d18a6f8eae0220cfd2bd8d886a41ebaea5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7219ddffae5164068b7538a2466ec409269282d1cacb93b2462375c1331995d6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed Gel/PTH@PAHA scaffolds with both enhanced osteogenesis and mechanical properties for repair of large bone defects",
+    "authors": "Zeng Z, Song P, Gui X, Ake B, Liu T, Liu H, Wang L, Wang L, Song Y, Qu B, Zhou C.",
+    "year": 2025,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbaf029",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

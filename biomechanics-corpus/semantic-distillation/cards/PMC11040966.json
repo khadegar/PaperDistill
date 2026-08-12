@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11040966",
+  "paper_id": "doi:10.1186/s13018-024-04697-w",
+  "pmcid": "PMC11040966",
+  "source_record_sha256": "2f8d3b69a740b8d65ef58acb70ae3f1b985005bb895e1aa20e5a622f72b2d190",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3cb64c486458cf52863a3b5c503d72ac368d392566182cdec115475d2294c6cc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical and clinical outcomes of 3D-printed versus modular hemipelvic prostheses for limb-salvage reconstruction following periacetabular tumor resection: a mid-term retrospective cohort study",
+    "authors": "Hu X, Wen Y, Lu M, Luo Y, Zhou Y, Yang X, Tu C, Min L.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-04697-w",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

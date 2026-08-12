@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12639929",
+  "paper_id": "doi:10.1186/s13018-025-06444-1",
+  "pmcid": "PMC12639929",
+  "source_record_sha256": "58e9feaa8ed395cd87d2e2ff3067b54e7c2d0ee5bdc2308d11835932e27703f4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4cf5fe305a97be31992c773202c53d8f1ae7fc2d5a3ab34daccda308a9177b71",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical study of hybrid-fixed femoral prosthesis in total knee arthroplasty",
+    "authors": "Wang Y, Zhao Y, Yan T, Qu J, Tang H, Jiang J.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-06444-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

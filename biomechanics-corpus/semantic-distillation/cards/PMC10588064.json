@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10588064",
+  "paper_id": "doi:10.1186/s12891-023-06962-1",
+  "pmcid": "PMC10588064",
+  "source_record_sha256": "61ea110ff8d91e13728f968ed4bcc87f5f949a2d63037be710ccb3c33f0f6917",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bc879e25b081fc853ce7d2378802c4ac724470df22338bf61cfe48dcc90f0649",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Using novel porous metal pillars for tibial bone defects in primary total knee arthroplasty",
+    "authors": "Tang Q, Guo S, Deng W, Zhou Y.",
+    "year": 2023,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-023-06962-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

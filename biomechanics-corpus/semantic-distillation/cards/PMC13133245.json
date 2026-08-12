@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13133245",
+  "paper_id": "doi:10.1038/s41598-026-44490-9",
+  "pmcid": "PMC13133245",
+  "source_record_sha256": "2fb5026d9c5aba421d2093d89cc5c22cb024fa58b7880056952755d024238163",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "58ccf112d2be871fbd21cfb9f34c0e3b14653f0d99ea7527ceb1c0acbf166e02",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Calcium-enriched mesoporous silica/PLGA scaffolds enhance bone repair in a rabbit femoral condylar defect model",
+    "authors": "Wu H, Wu J, Tang H, Zhong Q, Zhao G, Xie Q, Xu W, Wa Q.",
+    "year": 2026,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-026-44490-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

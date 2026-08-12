@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12791187",
+  "paper_id": "doi:10.1111/jopr.13930",
+  "pmcid": "PMC12791187",
+  "source_record_sha256": "0a26549a0a09f61725ed97d84ccd380f52420476c483a374e9cb6ad1c84b4090",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "025727a19c43b1ac761620dc491daa460905b48c74e149a3e97100398ecbda28",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of implant placement at crestal and subcrestal levels in aesthetic zone: A finite element analysis",
+    "authors": "Özer T, Acar G.",
+    "year": 2024,
+    "journal": "Journal of Prosthodontics",
+    "doi": "10.1111/jopr.13930",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

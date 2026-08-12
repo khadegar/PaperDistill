@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11873496",
+  "paper_id": "doi:10.1016/j.asmr.2024.100996",
+  "pmcid": "PMC11873496",
+  "source_record_sha256": "74b9e5dcde40e95288c7f3e30d0bddc8fde4655c758b3260b2b605cb98b2cc01",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "37264a21c7ffbc1bce9c26e9010631b831e8df904bd9b091275f6c3d89c6446e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cadaveric Specimens Used in Studies Evaluating Bone Loss in Anterior Shoulder Instability Are Not Representative of the Affected Patient Population: A Systematic Review",
+    "authors": "Karimi A, Singh-Varma A, Reddy RP, Kolevar MP, Lin A.",
+    "year": 2024,
+    "journal": "Arthroscopy, Sports Medicine, and Rehabilitation",
+    "doi": "10.1016/j.asmr.2024.100996",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

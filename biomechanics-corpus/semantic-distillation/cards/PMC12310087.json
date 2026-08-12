@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12310087",
+  "paper_id": "doi:10.1002/ksa.12660",
+  "pmcid": "PMC12310087",
+  "source_record_sha256": "1cc43a2a66920a84c8e25386da6a1c153657f2ccc0eea7f77747cfc2236c6ba5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "24affdfe9c76be7a2f3158fcda4da0333a3d0d2f011a9f09dfbd62a2f467b37a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Beyond the coronal plane in robotic total knee arthroplasty—Part 2: Combined flexion does not affect outcomes",
+    "authors": "Andriollo L, Gregori P, Koutserimpas C, Servien E, Batailler C, Lustig S.",
+    "year": 2025,
+    "journal": "Knee Surgery, Sports Traumatology, Arthroscopy",
+    "doi": "10.1002/ksa.12660",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

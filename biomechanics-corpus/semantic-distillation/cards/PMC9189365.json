@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9189365",
+  "paper_id": "doi:10.3389/fbioe.2022.892385",
+  "pmcid": "PMC9189365",
+  "source_record_sha256": "fb49290bf7853d47491e5d7e3d1f6cc9d2258c25cbe06cf3c6c8e79e30ed6434",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1119c3904a2e02c74930cdf84d98a1140dbdaa810882a0ce7c89ede0d95c5dd1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Improving the Stability of a Hemipelvic Prosthesis Based on Bone Mineral Density Screw Channel and Prosthesis Optimization Design",
+    "authors": "Zhou R, Xue H, Wang J, Wang X, Wang Y, Zhang A, Zhang J, Han Q, Zhao X.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.892385",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "topology_or_structural_optimization",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

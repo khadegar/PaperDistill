@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11422611",
+  "paper_id": "doi:10.1016/j.heliyon.2024.e37707",
+  "pmcid": "PMC11422611",
+  "source_record_sha256": "c61528d92fab4f9f10891bd9abaa18cb60686e1cb35075c70d4c40c9ca2c36ae",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "746e2f653b91b86102c1cbf4f0ae2f8ffa3a98bbc0192c0ba0338d0b6f228194",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Rotator cuff repair with all-suture anchor enhances biomechanical properties and tendon-bone integration in a rabbit model",
+    "authors": "Yu C, Sun L, Gao H, Sheng H, Feng X, Yang X, Li J, Kong Q, Hao Y, Feng S, Chen J.",
+    "year": 2024,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2024.e37707",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

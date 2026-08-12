@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4440247",
+  "paper_id": "doi:10.1186/s12938-015-0038-0",
+  "pmcid": "PMC4440247",
+  "source_record_sha256": "786dfc338d63e2d548b797ee8b9dabf1221008087bc11539072e24d578748143",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6eaac3d2b98af4cacc6edca154b2e98abb4092098a74753e904f175c2321511b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Simulation of the mechanical interlocking capacity of a rough bone implant surface during healing",
+    "authors": "Halldin A, Ander M, Jacobsson M, Hansson S.",
+    "year": 2015,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-015-0038-0",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

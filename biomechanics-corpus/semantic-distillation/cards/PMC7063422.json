@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7063422",
+  "paper_id": "doi:10.1016/j.gendis.2019.04.003",
+  "pmcid": "PMC7063422",
+  "source_record_sha256": "401b05b55a17576c1c8e4ba218a9c6144c427eb33d64dd4607caef5b26638080",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "69723726a3cfdf23053bc77440e00dd86dc920e1b822183cfa61a3510086c5c4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional printed tissue engineered bone for canine mandibular defects",
+    "authors": "Zhang L, Tang J, Sun L, Zheng T, Pu X, Chen Y, Yang K.",
+    "year": 2019,
+    "journal": "Genes & Diseases",
+    "doi": "10.1016/j.gendis.2019.04.003",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

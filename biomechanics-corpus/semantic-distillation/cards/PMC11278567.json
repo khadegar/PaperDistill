@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11278567",
+  "paper_id": "doi:10.3390/ma17143557",
+  "pmcid": "PMC11278567",
+  "source_record_sha256": "764b45bb4886530ded6054da1b06444173ba361051b5ca908b458526569782f9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e8354b503b52d893e055d8546d2e41487249e6f9265bf2e7bfe351a7ff456f66",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigation of the Mechanical Strength of Artificial Metallic Mandibles with Lattice Structure for Mandibular Reconstruction",
+    "authors": "Kawamata S, Kawai T, Yasuge E, Hoshi I, Minamino T, Kurosu S, Yamada H.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17143557",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6416644",
+  "paper_id": "doi:10.3390/ma12040635",
+  "pmcid": "PMC6416644",
+  "source_record_sha256": "29f3bb1014871562ebe495e6bf61c373010b99e827bae6eff484d8ee6f2ec971",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "05cebda12f38909ae6c4fa00bbdd4cbc222a1285f0dd0cb894c74cf756312031",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Non-Auxetic Mechanical Metamaterials",
+    "authors": "de Jonge CP, Kolken HMA, Zadpoor AA.",
+    "year": 2019,
+    "journal": "Materials",
+    "doi": "10.3390/ma12040635",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

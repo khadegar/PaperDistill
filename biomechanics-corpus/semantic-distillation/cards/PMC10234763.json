@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10234763",
+  "paper_id": "doi:10.1093/rb/rbad049",
+  "pmcid": "PMC10234763",
+  "source_record_sha256": "4951f7313ceacf7905aab9a95c9b8a09857dc8dbd1c4d665bb57936a51925629",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0fa38381a5fc0a9d3341083ed898bbcefe7dd47b1efcc1f90887de4034fd8ae5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed GelMA/CaSiO 3 composite hydrogel scaffold for vascularized adipose tissue restoration",
+    "authors": "Zhang J, Zeng Z, Chen Y, Deng L, Zhang Y, Que Y, Jiao Y, Chang J, Dong Z, Yang C.",
+    "year": 2023,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbad049",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

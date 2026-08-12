@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9790048",
+  "paper_id": "doi:10.1002/mco2.194",
+  "pmcid": "PMC9790048",
+  "source_record_sha256": "5db57247963aa6ab1ad9e6bf440f2bc2119de0412fc21621f2aa4d4c01391963",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2f5afa6db038860551f620aeedbc267a2ad877f75604a08ad7eb5b1fbbe3bc7d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D bioprinting and its innovative approach for biomedical applications",
+    "authors": "Tripathi S, Mandal SS, Bauri S, Maiti P.",
+    "year": 2022,
+    "journal": "MedComm",
+    "doi": "10.1002/mco2.194",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

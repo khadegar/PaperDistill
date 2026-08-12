@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12669444",
+  "paper_id": "doi:10.1186/s40729-025-00659-x",
+  "pmcid": "PMC12669444",
+  "source_record_sha256": "c6fa59cd0c23795dd6eca252a07a428800a099f6de73db3743eeed57f408e08a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ec2f55a68bccb68754df9e66f0646094b536b2ee8f7f9c20148bf79eb422a9cc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Silico possibilities to understand peri-implant bone healing- state of the Art",
+    "authors": "Nayak GS, Al-Nawas B.",
+    "year": 2025,
+    "journal": "International Journal of Implant Dentistry",
+    "doi": "10.1186/s40729-025-00659-x",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10725216",
+  "paper_id": "doi:10.3389/fbioe.2023.1268787",
+  "pmcid": "PMC10725216",
+  "source_record_sha256": "abd72f5110067fb406bffc6878fb3a76df864861a957734ee4f5832e1e75156a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dcfb62b4b418db9db3f921da2e0a7c5d441f64abedb22b991d221f6840a92c64",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "On the importance of accurate elasto-plastic material properties in simulating plate osteosynthesis failure",
+    "authors": "Mischler D, Gueorguiev B, Windolf M, Varga P.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1268787",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

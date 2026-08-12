@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3495199",
+  "paper_id": "doi:10.1186/1471-2474-13-208",
+  "pmcid": "PMC3495199",
+  "source_record_sha256": "4a98ea8b7ba5ee4de79534361140d29ffbc04b5d1f34b54bf019d4590e63c5c5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a70478226094a749e80bbf7ac14f54d486765c2ca86bc7b369fc6fb8028b19ec",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Statins locally applied from orthopedic implants on osseous integration",
+    "authors": "Pauly S, Back DA, Kaeppler K, Haas NP, Schmidmaier G, Wildemann B.",
+    "year": 2012,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/1471-2474-13-208",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

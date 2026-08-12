@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7399740",
+  "paper_id": "doi:10.1155/2020/9569530",
+  "pmcid": "PMC7399740",
+  "source_record_sha256": "6046ff8ac27156f44ed995c32183047ecb531062b5b0632f5dec20eab0e7e1b1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "33d8fccf98085675fbfb6b63b51661a425173b7ef8ede13f1040eae584073a9d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of 3D-Printed Orthopedic Cast for the Treatment of Forearm Fractures: Finite Element Analysis and Comparative Clinical Assessment",
+    "authors": "Chen Y, Lin H, Yu Q, Zhang X, Wang D, Shi L, Shi L, Huang W, Zhong S.",
+    "year": 2020,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2020/9569530",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

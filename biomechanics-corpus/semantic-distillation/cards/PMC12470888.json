@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12470888",
+  "paper_id": "doi:10.3390/jfb16090328",
+  "pmcid": "PMC12470888",
+  "source_record_sha256": "2aac9a0208b8cfe5c3a53d709e35e0721650f68323b0b862e40ff9dcc571da8b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "66cb63b5988f037fd3bcc92c3dff271fc92447adb0cef43992e6c7dac631c119",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent Advances in 3D Bioprinting of Porous Scaffolds for Tissue Engineering: A Narrative and Critical Review",
+    "authors": "Picado-Tejero D, Mendoza-Cerezo L, Rodríguez-Rego JM, Carrasco-Amador JP, Marcos-Romero AC.",
+    "year": 2025,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb16090328",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

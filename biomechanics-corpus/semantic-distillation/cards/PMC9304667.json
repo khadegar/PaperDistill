@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9304667",
+  "paper_id": "doi:10.1016/j.artd.2022.06.004",
+  "pmcid": "PMC9304667",
+  "source_record_sha256": "e9ffc287bb82b3ee68877cd15643baffbc3e2bf7a46fe54bfc32d52cac20b174",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2a81bb2a75355e9fbdead4b766f7c1a83263f2541cf1458b9d97bbac037416e5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bonit Coating Leads to Macroscopic Bone Ingrowth at 8 Weeks After Primary Total Hip Arthroplasty",
+    "authors": "Wagner M, Brunner A, Kaufmann G, Dammerer D, Nardelli P, Schwaighofer E.",
+    "year": 2022,
+    "journal": "Arthroplasty Today",
+    "doi": "10.1016/j.artd.2022.06.004",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

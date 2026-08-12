@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10490644",
+  "paper_id": "doi:10.3390/s23177459",
+  "pmcid": "PMC10490644",
+  "source_record_sha256": "179535310b66e41720549fd01adfa0c29d5528beda522da86cd4b2b69b1f12ec",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "35e59ad110a89e0f6143ca940f38345b368f47c403fe446b286435210054bf5e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Validation of a Robotic Testbench for Evaluating Biomechanical Effects of Implant Rotation in Total Knee Arthroplasty on a Cadaveric Specimen",
+    "authors": "Wilhelm N, von Deimling C, Haddadin S, Glowalla C, Burgkart R.",
+    "year": 2023,
+    "journal": "Sensors (Basel, Switzerland)",
+    "doi": "10.3390/s23177459",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

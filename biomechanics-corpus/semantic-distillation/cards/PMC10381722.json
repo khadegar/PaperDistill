@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10381722",
+  "paper_id": "doi:10.3390/ma16144950",
+  "pmcid": "PMC10381722",
+  "source_record_sha256": "20a75da009c311d806996be1cf24e2cc10a18a33c90c16304d06d2ac2bff21ec",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1794996e9f8050c15299614557e051e549bde0ddf4015ca141879c0dbf23f258",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Combined Effects of HA Concentration and Unit Cell Geometry on the Biomechanical Behavior of PCL/HA Scaffold for Tissue Engineering Applications Produced by LPBF",
+    "authors": "Gatto ML, Furlani M, Giuliani A, Cabibbo M, Bloise N, Fassina L, Petruczuk M, Visai L, Mengucci P.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16144950",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

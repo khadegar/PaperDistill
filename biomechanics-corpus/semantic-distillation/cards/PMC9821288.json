@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9821288",
+  "paper_id": "doi:10.3390/ijms24010747",
+  "pmcid": "PMC9821288",
+  "source_record_sha256": "b22b1f60c512e68a91117e034db2a7434c42a27c32397651d4609ed3ad913293",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "39f5832324224000d6cc94f3f1d174ec959a8c89cc23339fb9237dffbe0f245d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Regeneration Guided by a Magnetized Scaffold in an Ovine Defect Model",
+    "authors": "Maglio M, Sartori M, Gambardella A, Shelyakova T, Dediu VA, Santin M, Piñeiro Y, López MB, Rivas J, Tampieri A, Sprio S, Martini L, Gatti A, Russo A, Giavaresi G, Fini M.",
+    "year": 2023,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms24010747",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

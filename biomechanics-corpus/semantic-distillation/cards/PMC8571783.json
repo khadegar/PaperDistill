@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8571783",
+  "paper_id": "doi:10.1016/j.jot.2021.10.002",
+  "pmcid": "PMC8571783",
+  "source_record_sha256": "52bca7f31e495c260ed038bba289811718267db7eba642d1cf68634fcafc4868",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a8a54f5b7962778682684a4854f779c2793728ad147a512c7010cef212a10d59",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "PLGA/β-TCP composite scaffold incorporating cucurbitacin B promotes bone regeneration by inducing angiogenesis",
+    "authors": "Cheng WX, Liu YZ, Meng XB, Zheng ZT, Li LL, Ke LQ, Li L, Huang CS, Zhu GY, Pan HD, Qin L, Wang XL, Zhang P.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2021.10.002",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

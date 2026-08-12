@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10475674",
+  "paper_id": "doi:10.1111/os.13838",
+  "pmcid": "PMC10475674",
+  "source_record_sha256": "fea335a010fc57e26eb038116346f7a6a85b0c1145167263f5c6f1c5461228c9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f46c2a4f5099efa7830e482634cba6e83e87642eaaca102c09b4981b91a28f59",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three‐Dimensional Printed Plate Template Versus Hemipelvis Model in Patient‐Specific Plate Preparation for Posterior Wall Acetabular Fractures",
+    "authors": "Chen J, Zheng Y, Zhou W, Qian S, Chen Y, Cheng Y, Wang G, Cai X, Liu X.",
+    "year": 2023,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13838",
+    "publication_type": "other; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

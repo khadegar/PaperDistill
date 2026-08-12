@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5688740",
+  "paper_id": "doi:10.1186/s12938-017-0422-z",
+  "pmcid": "PMC5688740",
+  "source_record_sha256": "f683923a3bd58efa40333819c5106b9e5ddc352cda930b1e6ec249904e491f1e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2f924223ee58cd685065b837dba28f41573081bd92aff8bd9f114f29d09802aa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A customized fixation plate with novel structure designed by topological optimization for mandibular angle fracture based on finite element analysis",
+    "authors": "Liu YF, Fan YY, Jiang XF, Baur DA.",
+    "year": 2017,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-017-0422-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

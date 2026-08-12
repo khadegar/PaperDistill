@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12781826",
+  "paper_id": "doi:10.1186/s12891-025-09375-4",
+  "pmcid": "PMC12781826",
+  "source_record_sha256": "4984d6deda9c91ecf9f9a6680e39651543bef03786d88c8fdfacbcf291c582d8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e65a0e78cc975308b092e0e3269122d5cdde4159175cd6f77329c4f178987f57",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Study on the effect and mechanism of gold nanocoated magnesium bone scaffolds for bone repair",
+    "authors": "Cheng J, Deng Q, Wu W, Feng X, Pang Q.",
+    "year": 2025,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-025-09375-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

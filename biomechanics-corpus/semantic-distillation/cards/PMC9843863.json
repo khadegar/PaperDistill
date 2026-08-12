@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9843863",
+  "paper_id": "doi:10.1186/s12903-022-02703-3",
+  "pmcid": "PMC9843863",
+  "source_record_sha256": "ca3e0ad55b438bbfc219e844218a202b0535d026f80f6ee203d874607201716b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4d275b9debd1c00071b0a30bb5c9e1335e7c399128e6f13e7c9fbacd8e6a3b6b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of stress in oral mucosa and titanium mesh interface",
+    "authors": "Wang CX, Rong QG, Zhu N, Ma T, Zhang Y, Lin Y.",
+    "year": 2023,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-022-02703-3",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

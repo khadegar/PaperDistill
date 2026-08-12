@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10980557",
+  "paper_id": "doi:10.1093/rb/rbae023",
+  "pmcid": "PMC10980557",
+  "source_record_sha256": "28e857194f43823eb1a45a39bdee515ad3687cd3867d8fc1a06aef016548d335",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5a7493530374c2938d8997539a0113423e573b59f1cfc4b1a103a67d069f48c9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bio-functional hydroxyapatite-coated 3D porous polyetherketoneketone scaffold for enhanced osteogenesis and osteointegration in orthopedic applications",
+    "authors": "Liu H, Liu T, Yin Z, Liu X, Tan Y, Zhao Y, Yu H.",
+    "year": 2024,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbae023",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

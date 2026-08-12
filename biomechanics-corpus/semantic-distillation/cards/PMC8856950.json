@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8856950",
+  "paper_id": "doi:10.1016/j.jot.2021.12.002",
+  "pmcid": "PMC8856950",
+  "source_record_sha256": "388cfc96e49d7fa0a0dbaad935308ff8bbd748bd830c77ad6ef6fd15795d4e15",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d5cc5bb2097ada77b27997a6c4f8e67eeba63251103432c15906d71ba6ad4632",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Favorable osteogenic activity of iron doped in silicocarnotite bioceramic: In vitro and in vivo Studies",
+    "authors": "Zhang J, Deng F, Liu X, Ge Y, Zeng Y, Zhai Z, Ning C, Li H.",
+    "year": 2022,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2021.12.002",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

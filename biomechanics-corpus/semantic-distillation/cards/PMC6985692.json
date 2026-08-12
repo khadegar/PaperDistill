@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6985692",
+  "paper_id": "doi:10.1111/cpr.12725",
+  "pmcid": "PMC6985692",
+  "source_record_sha256": "908ff7c6aafe2b9911b7fc1973297f65fed9ae0898c689276a2fa3ade9d6b154",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "169aa98ddc8ad029173060b8edd7c5d647489aa32b352948a8174a58aecdc2dc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Blockade of adrenergic β‐receptor activation through local delivery of propranolol from a 3D collagen/polyvinyl alcohol/hydroxyapatite scaffold promotes bone repair in vivo",
+    "authors": "Wu H, Song Y, Li J, Lei X, Zhang S, Gao Y, Cheng P, Liu B, Miao S, Bi L, Yang L, Pei G.",
+    "year": 2019,
+    "journal": "Cell Proliferation",
+    "doi": "10.1111/cpr.12725",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

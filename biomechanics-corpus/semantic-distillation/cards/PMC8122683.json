@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8122683",
+  "paper_id": "doi:10.4103/1735-3327.310031",
+  "pmcid": "PMC8122683",
+  "source_record_sha256": "0f67efc5381749416416528a4f4036150ef52bf59460107f8c7d697e0e78df3a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "314bdb120fa3324a2b5312fb04aaea51f1a12ece75a93cb070adbbce58e7df3d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of the effect of framework materials at the bone–implant interface in the all-on-four implant system",
+    "authors": "Kelkar KC, Bhat V, Hegde C.",
+    "year": 2021,
+    "journal": "Dental Research Journal",
+    "doi": "10.4103/1735-3327.310031",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

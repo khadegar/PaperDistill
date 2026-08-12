@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7653691",
+  "paper_id": "doi:10.1186/s12903-020-01310-4",
+  "pmcid": "PMC7653691",
+  "source_record_sha256": "a176acf13efa9a66fc781892f233033008021a8fc44412ee456a7f4b20637639",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "06fd89140429f384a3537800f860c5fdd34f9a4a1c597526c58a94fb99fdcf82",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of PTH and corticotomy on implant movement under mechanical force",
+    "authors": "Kim J, Kim HY, Kim WH, Kim JW, Kim MJ.",
+    "year": 2020,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-020-01310-4",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

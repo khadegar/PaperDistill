@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7591477",
+  "paper_id": "doi:10.1038/s41598-020-75469-9",
+  "pmcid": "PMC7591477",
+  "source_record_sha256": "9e088220a278d8dbb19c5b337138da9098bf60dd32ac28799d85ca304b76fc63",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "98ffcaf6504f5d357acd42116e6867bb96da7e159b85f4057da991df7107737b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical effects of original equipment manufacturer and aftermarket abutment screws in zirconia abutment on dental implant assembly",
+    "authors": "Wu YL, Tsai MH, Chen HS, Chang YT, Lin TT, Wu AY.",
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-75469-9",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

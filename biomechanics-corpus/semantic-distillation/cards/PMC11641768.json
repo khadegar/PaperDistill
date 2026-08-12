@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11641768",
+  "paper_id": "doi:10.3390/ijms252312766",
+  "pmcid": "PMC11641768",
+  "source_record_sha256": "9cc6566dbebf163c8e5b9619874b0fe8ae5590bb1ede2109e17982cec34d27f5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "89e5ebe8d0c95c0b51fdcbe09d8fb51864a208ab2506cf983b6669988e5f7d1d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Future of Bone Repair: Emerging Technologies and Biomaterials in Bone Regeneration",
+    "authors": "Łuczak JW, Palusińska M, Matak D, Pietrzak D, Nakielski P, Lewicki S, Grodzik M, Szymański Ł.",
+    "year": 2024,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms252312766",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

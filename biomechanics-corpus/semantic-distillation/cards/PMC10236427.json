@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10236427",
+  "paper_id": "doi:10.3892/mmr.2023.13017",
+  "pmcid": "PMC10236427",
+  "source_record_sha256": "72140e6dfc0f4cf6c15e4dcf66984a74e09db8e6d180d7e284aa8b0892b59be3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "32c74a8b9d3e002dac0a97095eb0371a764dfbe50f34e67f57f4aaf67934816b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Combination therapy with BMSCs‑exosomes and porous tantalum for the repair of femur supracondylar defects",
+    "authors": "Yang F, Wu M, Chen H, Ma S, Liu J, Li C, Li Y, Yang J, Liu B, Zhao D.",
+    "year": 2023,
+    "journal": "Molecular Medicine Reports",
+    "doi": "10.3892/mmr.2023.13017",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

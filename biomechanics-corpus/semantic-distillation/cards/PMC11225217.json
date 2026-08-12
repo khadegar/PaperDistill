@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11225217",
+  "paper_id": "doi:10.1186/s13018-024-04890-x",
+  "pmcid": "PMC11225217",
+  "source_record_sha256": "08bb7f439c88bfa403fd91aa4a748db2a26585d6af3e2db61b73003ee7bdd69d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "81986efaacc8ea91965a9dd8b574748c0c9e9e352ba204e3ece3c8f83e071b5e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effectiveness of desertliving cistanche in managing hyperlipidemic osteoporosis in ovariectomized rats through the PI3K/AKT signaling pathway",
+    "authors": "Lin JY, Kuang HM, Rong K, Peng L, Kuang JJ, Yan X.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-04890-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

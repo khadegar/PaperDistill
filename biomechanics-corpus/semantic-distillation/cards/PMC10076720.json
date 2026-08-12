@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10076720",
+  "paper_id": "doi:10.3389/fbioe.2023.1041973",
+  "pmcid": "PMC10076720",
+  "source_record_sha256": "e384592dc3160d85ebdae6de30ba4faec9c526b7e8e0461dba5f433a9c907f27",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bf80e5b776922b93a738a53d72d9d7fdf2e8424638b201eb477bc3a2e56f2fc9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent advancement in finite element analysis of spinal interbody cages: A review",
+    "authors": "Wang R, Wu Z.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1041973",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

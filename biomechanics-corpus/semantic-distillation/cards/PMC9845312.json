@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9845312",
+  "paper_id": "doi:10.1038/s41598-023-27712-2",
+  "pmcid": "PMC9845312",
+  "source_record_sha256": "26748ee8e64dbdf724041b2099a7f1822d5d576db4eaff03f8a7b8d73cc808c3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "86e0cc48e75cd597757a124a8785ff59fbd8811f2eb4f9317294ed79e5aca0a0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A preclinical study comparing single- and double-root 3D-printed Ti–6Al–4V implants",
+    "authors": "Chung I, Lee J, Li L, Seol YJ, Lee YM, Koo KT.",
+    "year": 2023,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-023-27712-2",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

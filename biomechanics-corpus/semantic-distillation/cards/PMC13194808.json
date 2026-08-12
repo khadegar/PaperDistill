@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13194808",
+  "paper_id": "doi:10.1186/s40729-026-00683-5",
+  "pmcid": "PMC13194808",
+  "source_record_sha256": "ce85261a85fb56bcd5c7d14e65af7f400a0383c431c716240cbe5a06b2cc5aef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "72e920229ca10130478e52557346d49a9ac51f08cdbd1523b5cde69c9440cb79",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of implant neck design on peri-implant tissue conditions: a narrative review",
+    "authors": "Xie Z, Sammour SR, Ogawa T, Yoda N.",
+    "year": 2026,
+    "journal": "International Journal of Implant Dentistry",
+    "doi": "10.1186/s40729-026-00683-5",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

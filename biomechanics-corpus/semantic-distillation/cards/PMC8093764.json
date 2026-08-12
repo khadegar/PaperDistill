@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8093764",
+  "paper_id": "doi:10.3389/fsurg.2021.626143",
+  "pmcid": "PMC8093764",
+  "source_record_sha256": "f4dbbf74688b2fa96b76e5268af26ca748d65da5794348dc13e6c6c0925717f8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "acad5fc739e952dedefe9e98f07dbfa46d482f3f07cc37ba1331586ba91a540d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing Improved Testicular Prostheses: Using Lattice Infill Structure to Modify Mechanical Properties",
+    "authors": "Skewes J, Chen MY, Forrestal D, Rukin NJ, Woodruff MA.",
+    "year": 2021,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2021.626143",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

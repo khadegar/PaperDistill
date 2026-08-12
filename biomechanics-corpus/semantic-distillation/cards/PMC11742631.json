@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11742631",
+  "paper_id": "doi:10.1016/j.mtbio.2024.101422",
+  "pmcid": "PMC11742631",
+  "source_record_sha256": "88db570858a0485d1eadd3df31a4477fdad382f7e6a9639ed87d268e89dc21a1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d745b74ded89f647d3a94d912a06bd761ce1ae6b1979228259211752e4ebf199",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Functional hydrogel empowering 3D printing titanium alloys",
+    "authors": "Zhang W, Zhang J, Liu H, Liu Y, Sheng X, Zhou S, Pei T, Li C, Wang J.",
+    "year": 2024,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2024.101422",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

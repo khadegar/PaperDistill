@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10751973",
+  "paper_id": "doi:10.1002/jsp2.1307",
+  "pmcid": "PMC10751973",
+  "source_record_sha256": "40b38291bfafa7775d82ab8ce06332ec6a1fb640bfacff6a228274ab102a06be",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a1310e932017f6a148bffb522fb605ab97376b2fe40f91f06240774b7a57ac8d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element modeling to predict the influence of anatomic variation and implant placement on performance of biological intervertebral disc implants",
+    "authors": "Koga M, Kim B, Lintz M, Kirnaz S, Goldberg JL, Hussain I, Medary B, Meyers KN, Maher SA, Härtl R, Bonassar LJ.",
+    "year": 2023,
+    "journal": "JOR Spine",
+    "doi": "10.1002/jsp2.1307",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

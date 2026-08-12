@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9330859",
+  "paper_id": "doi:10.3390/ma15155139",
+  "pmcid": "PMC9330859",
+  "source_record_sha256": "8a0aa6b26fdce1c3212a2dd5cdefbcc9450b189828686651c85c9efea7e4bcad",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0ed880724acbed8b5d5cf0a894f8f7f6039e8ce745d7cecb94d3565abfe4c613",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Powder 3D Printing of Bone Scaffolds with Uniform and Gradient Pore Sizes Using Cuttlebone-Derived Calcium Phosphate and Glass-Ceramic",
+    "authors": "Cestari F, Yang Y, Wilbig J, Günster J, Motta A, Sglavo VM.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15155139",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

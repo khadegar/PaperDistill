@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10908216",
+  "paper_id": "doi:10.1186/s42836-023-00230-2",
+  "pmcid": "PMC10908216",
+  "source_record_sha256": "e5ff464feb201065e0333cb2722ead304e0527b723c3205fabdf2a7f801def21",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "325cc97a563bf8accd7204d9b8539c98281ba7c4b541300f56e66b19358560ff",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Early radiological outcomes of a fully porous bridging collar in lower-limb endoprosthetic reconstructions: a case-matched retrospective series to assess osseointegration",
+    "authors": "Stevenson J, Siddiqi MA, Sheehy V, Kendrick B, Whitwell D, Taylor A, Blunn G, Mohammad HR, Kamath AF, Thoma S.",
+    "year": 2024,
+    "journal": "Arthroplasty",
+    "doi": "10.1186/s42836-023-00230-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

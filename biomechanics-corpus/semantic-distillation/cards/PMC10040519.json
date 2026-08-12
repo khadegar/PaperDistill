@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10040519",
+  "paper_id": "doi:10.1016/j.bioactmat.2023.03.009",
+  "pmcid": "PMC10040519",
+  "source_record_sha256": "9e09cd0dcaed77cd440e0ca9b0953d51cc8f6d63511b4aea3ac4365bbc90e51f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1e4523403d8c72baea8b46dd0eaaab4028b84ac4419e53b1fcad49e9c7534817",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Predicting localised corrosion and mechanical performance of a PEO surface modified rare earth magnesium alloy for implant use through in-silico modelling",
+    "authors": "van Gaalen K, Quinn C, Weiler M, Gremse F, Benn F, McHugh PE, Vaughan TJ, Kopp A.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2023.03.009",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11408190",
+  "paper_id": "doi:10.3389/fbioe.2024.1434435",
+  "pmcid": "PMC11408190",
+  "source_record_sha256": "bcbf050c6f1ff03d5208fb227a5cb407fbc097adc2b2f216c18681c2889da544",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "be5d330d00afaedbe5d79fd37594ac083eb7bb25e6d8930f4ef80e84541d9109",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enabling 3D bioprinting of cell-laden pure collagen scaffolds via tannic acid supporting bath",
+    "authors": "Palladino S, Copes F, Chevallier P, Candiani G, Mantovani D.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1434435",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

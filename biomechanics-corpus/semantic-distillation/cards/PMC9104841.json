@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9104841",
+  "paper_id": "doi:10.3390/ma15093095",
+  "pmcid": "PMC9104841",
+  "source_record_sha256": "a8b1a56d905c92c5ff0809eb2606ebb14ea98d4c0ae03d4c59396970d41d543b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d6a5d8c8915c72cd2ffc1b2c52eb300ccf8709a288793197646eeba75b2fd007",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication and Optimisation of Ti-6Al-4V Lattice-Structured Total Shoulder Implants Using Laser Additive Manufacturing",
+    "authors": "Bittredge O, Hassanin H, El-Sayed MA, Eldessouky HM, Alsaleh NA, Alrasheedi NH, Essa K, Ahmadein M.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15093095",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

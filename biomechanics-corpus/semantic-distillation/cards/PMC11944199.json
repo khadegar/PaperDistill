@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11944199",
+  "paper_id": "doi:10.3390/life15030473",
+  "pmcid": "PMC11944199",
+  "source_record_sha256": "2614213dd4a679e3d6a468cc744a06f431c3a8909bbd4136f47ecbf229065624",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ae0881bc3fb9a502eef26426184bf971377f04e6c3a1d446083db37795464875",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Applications and Effectiveness of 3D Printing in Various Ankle Surgeries: A Narrative Review",
+    "authors": "Park JJ, Choi JY, Lee JM, Seok HG, Park CH.",
+    "year": 2025,
+    "journal": "Life",
+    "doi": "10.3390/life15030473",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

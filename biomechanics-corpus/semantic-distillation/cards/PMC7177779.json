@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7177779",
+  "paper_id": "doi:10.3390/ma13071527",
+  "pmcid": "PMC7177779",
+  "source_record_sha256": "0090b1bde2c1d96cf7392cc5a15047b388cc1d60cdf927e46a63f7e924a7a18c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b9adbed4165e76b664b5f3e4b99db4993dcb4158e302d9e4400680737affced3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Complex Corrosion Properties of AISI 316L Steel Prepared by 3D Printing Technology for Possible Implant Applications",
+    "authors": "Hlinka J, Kraus M, Hajnys J, Pagac M, Petrů J, Brytan Z, Tański T.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13071527",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

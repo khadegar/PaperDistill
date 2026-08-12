@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3418070",
+  "paper_id": "doi:10.2147/ijn.s33083",
+  "pmcid": "PMC3418070",
+  "source_record_sha256": "62b7411bfeecc4b4afaa5bfd034eb78771ca523c9bc4c3bc98bfbc3dafff11fe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b68a3344fc67535c16920b38da99b8e4eb5d08226d052befe5819588a747ae8a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication and characterization of a rapid prototyped tissue engineering scaffold with embedded multicomponent matrix for controlled drug release",
+    "authors": "Chen M, Le DQ, Hein S, Li P, Nygaard JV, Kassem M, Kjems J, Besenbacher F, Bünger C.",
+    "year": 2012,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s33083",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

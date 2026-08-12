@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9854960",
+  "paper_id": "doi:10.3390/bioengineering10010121",
+  "pmcid": "PMC9854960",
+  "source_record_sha256": "8b735dab812eca2a7f225a3376ec65deb484b8c1c432edd2c797a63cd0921e0f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "07338c384b94454dc2c187b6e219b0d37347ed8ff629a28bffde97d3916d0585",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Gene-Expression Analysis of Human Fibroblasts Affected by 3D-Printed Carboxylated Nanocellulose Constructs",
+    "authors": "Rosendahl J, Zarna C, Håkansson J, Chinga-Carrasco G.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10010121",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

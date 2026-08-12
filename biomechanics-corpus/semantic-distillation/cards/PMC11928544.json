@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11928544",
+  "paper_id": "doi:10.1038/s41598-025-93211-1",
+  "pmcid": "PMC11928544",
+  "source_record_sha256": "aded572c0005d31323d5b388e46c6cabac4a51e0bbad5ed3e544f83f34a67433",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f242ec235b866f2c35f06fe79ecbdc3458b5ef759fc5a151cc11f34172695cdb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparing the mechanical energetics of walking among individuals with unilateral transfemoral limb loss using socket and osseointegrated prosthetic interfaces",
+    "authors": "Golyski PR, Potter BK, Forsberg JA, Hendershot BD.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-93211-1",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

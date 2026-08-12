@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10476218",
+  "paper_id": "doi:10.3389/fbioe.2023.1224596",
+  "pmcid": "PMC10476218",
+  "source_record_sha256": "494edd6925c53725a9e7dcb305bf50b91407b9eba0c9b7d96c9555d51f0156cc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1a1239cb2e7b0948a9e8123259b1ce932550a6545a90459ed1d19bbfa22f8a6e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed hybrid scaffolds for bone regeneration using calcium methoxyethoxide as a calcium source",
+    "authors": "Heyraud A, Tallia F, Sory D, Ting HK, Tchorzewska A, Liu J, Pilsworth HL, Lee PD, Hanna JV, Rankin SM, Jones JR.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1224596",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

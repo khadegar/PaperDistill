@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13279694",
+  "paper_id": "doi:10.3389/fbioe.2026.1718639",
+  "pmcid": "PMC13279694",
+  "source_record_sha256": "b6729e047d8d6828e284aa3ff7cf23e90f4635d980206233b11bae5f09e8b815",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "973f25b5dc9e593926a33aac2503fd81ec6e3c7b3194279dc6fe2a3f63853d71",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical finite element methods study of a novel internal fixation system for lumbar spondylolysis",
+    "authors": "Li J, Du C, Wang Y, Du D, Liang J, Shao N, Feng F, Xu W, Xu Y, Cui Y.",
+    "year": 2026,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2026.1718639",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

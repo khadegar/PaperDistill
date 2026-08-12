@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12753266",
+  "paper_id": "doi:10.1016/j.mtbio.2025.102620",
+  "pmcid": "PMC12753266",
+  "source_record_sha256": "8dc548bb8fa0b356a03650727594dc1b9edfdc94e8f25e1afa41a84f928881ed",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bb18bab09192986055a3f37207e3fc439f6ad3e463a6510f6249c7cef2572771",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Piezo1 mediated scaffold-free rapid generation of self-mineralized bone organoids via activating Wnt signaling",
+    "authors": "Zhang L, Zhang Y, Wan Z, Yuan X, Gao Y, Song R, Liu X, Sang J, Song J, Wang Y, Zhao Y, Yuan Z.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.102620",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11834130",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101516",
+  "pmcid": "PMC11834130",
+  "source_record_sha256": "e997c25de41ca55bdbdfa6bdef71f4c580bf50aee76cf06f66e0fbb058d6f020",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2d39a40068cfbaea2c183d51dce587e74ad4ef99e71afcad95b23ed2c247191e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhancing auricular reconstruction: A biomimetic scaffold with 3D-printed multiscale porous structure utilizing chondrogenic activity ink",
+    "authors": "Kong Y, Lu Z, Zhan J, Zhou X, Chen S, Chen Q, Gong H, Zhang X, Mao X, Wang Y, Huang W.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101516",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

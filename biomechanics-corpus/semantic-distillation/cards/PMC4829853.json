@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4829853",
+  "paper_id": "doi:10.1038/srep24134",
+  "pmcid": "PMC4829853",
+  "source_record_sha256": "ad0bffddb94bf63b5079d074c15f8dccacb0f4f526fa07b11172c90e348aef08",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c8da79f81661b528f778eb0dfeff0e90fd73bb9172ffd074f83562f64f96e75a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A novel open-porous magnesium scaffold with controllable microstructures and properties for bone regeneration",
+    "authors": "Cheng MQ, Wahafu T, Jiang GF, Liu W, Qiao YQ, Peng XC, Cheng T, Zhang XL, He G, Liu XY.",
+    "year": 2016,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep24134",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

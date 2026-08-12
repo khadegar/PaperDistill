@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8955974",
+  "paper_id": "doi:10.3390/polym14061153",
+  "pmcid": "PMC8955974",
+  "source_record_sha256": "f286ff37d1d591dc236ef590bc8489a8877b54a74c8bfbd5ade24bca713ec5fb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1826433b75f7f37ad3ad1f160fc6781ce1042e381c3ea026d821aae78040025c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Poly- l -Lactic Acid (PLLA)-Based Biomaterials for Regenerative Medicine: A Review on Processing and Applications",
+    "authors": "Capuana E, Lopresti F, Ceraulo M, La Carrubba V.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14061153",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

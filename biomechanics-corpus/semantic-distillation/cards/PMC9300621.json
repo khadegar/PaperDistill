@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9300621",
+  "paper_id": "doi:10.1038/s41598-022-16662-w",
+  "pmcid": "PMC9300621",
+  "source_record_sha256": "709e6be0c9047a624f2cb13fddc67d146f59a60604f0297774dd61745d7f8d76",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bec0c707ad22d2187c59da08dbe333a9298a551f6179c58cbd00dcdb0752b63b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Thread shape, cortical bone thickness, and magnitude and distribution of stress caused by the loading of orthodontic miniscrews: finite element analysis",
+    "authors": "Sakamaki T, Watanabe K, Iwasa A, Deguchi T, Horiuchi S, Tanaka E.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-16662-w",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

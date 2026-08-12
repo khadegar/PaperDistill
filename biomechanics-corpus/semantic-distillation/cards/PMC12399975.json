@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12399975",
+  "paper_id": "doi:10.3389/fbioe.2025.1604285",
+  "pmcid": "PMC12399975",
+  "source_record_sha256": "55a8eb405e9f3df0588a12dc045be24f0f58c6ac21a028afd95ed5246e158a52",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e44d9ae6430faf96126301d150edc72c29aaee2fdd2da942bd221a4041457529",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A novel three-dimensional evaluation protocol to assess the consistency of critical screw angles between preoperative planning and 3d-printed patient-specific acetabular revision prostheses",
+    "authors": "Luo D, Wu J, Ran Z, Wu W, Wang L, Xie K, Hao Y.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1604285",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

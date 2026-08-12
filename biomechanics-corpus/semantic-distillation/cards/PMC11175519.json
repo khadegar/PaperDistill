@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11175519",
+  "paper_id": "doi:10.1371/journal.pone.0305387",
+  "pmcid": "PMC11175519",
+  "source_record_sha256": "bde2781ce9a8e14fa957bcdee5061a0f1e672bdf3fa60a6ab6de417f05569cdb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5849090c5bee0abe49c96c9d954e95faf2a9e9a0913fea20533d954d2e22b0dd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Strains on the human femur after revision total knee arthroplasty: An in vitro study using digital image correlation",
+    "authors": "Sporer EM, Schilling C, Tait RJ, Giurea A, Grupp TM.",
+    "year": 2024,
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0305387.r006",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

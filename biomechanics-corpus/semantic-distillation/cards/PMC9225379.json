@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9225379",
+  "paper_id": "doi:10.3390/jfb13020075",
+  "pmcid": "PMC9225379",
+  "source_record_sha256": "7c32ce180d2762c9ce6481064e6b3036d2341237c174f83563780cb94eb46c75",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bbf867e4f3ddb7ebce75e81aa0caf7e64bcc7b764ab1dc06d34e4737993af6f2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Plotting of Calcium Phosphate Cement and Melt Electrowriting of Polycaprolactone Microfibers in One Scaffold: A Hybrid Additive Manufacturing Process",
+    "authors": "Kilian D, von Witzleben M, Lanaro M, Wong CS, Vater C, Lode A, Allenby MC, Woodruff MA, Gelinsky M.",
+    "year": 2022,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb13020075",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

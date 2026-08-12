@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7466474",
+  "paper_id": "doi:10.3390/nano10081444",
+  "pmcid": "PMC7466474",
+  "source_record_sha256": "d3d7cb1128bfa6353b893265a73992a56332b7fd8a8074b9530fb24dc6573aed",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f97bac32398ec155de1911a64b3ed823b69f9cea686a74086b8de503faf148d2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comprehensive Appraisal of Graphene–Oxide Ratio in Porous Biopolymer Hybrids Targeting Bone-Tissue Regeneration",
+    "authors": "Vlasceanu GM, Șelaru A, Dinescu S, Balta C, Herman H, Gharbia S, Hermenean A, Ionita M, Costache M.",
+    "year": 2025,
+    "journal": "Nanomaterials",
+    "doi": "10.3390/nano10081444",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

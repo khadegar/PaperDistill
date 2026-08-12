@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7558050",
+  "paper_id": "doi:10.3390/nano10091774",
+  "pmcid": "PMC7558050",
+  "source_record_sha256": "f2c4ba4b43c606bb970b84f5cdfee2fe88d635a409f0190df486aeda91cc0172",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ce0da281ac1198585504c80b874c18178030577e1019862694613aae96752f11",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A New Polycaprolactone-Based Biomembrane Functionalized with BMP-2 and Stem Cells Improves Maxillary Bone Regeneration",
+    "authors": "Stutz C, Strub M, Clauss F, Huck O, Schulz G, Gegout H, Benkirane-Jessel N, Bornert F, Kuchler-Bopp S.",
+    "year": 2020,
+    "journal": "Nanomaterials",
+    "doi": "10.3390/nano10091774",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

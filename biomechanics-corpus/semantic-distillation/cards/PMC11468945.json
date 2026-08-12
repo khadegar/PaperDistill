@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11468945",
+  "paper_id": "doi:10.1002/adhm.202302057",
+  "pmcid": "PMC11468945",
+  "source_record_sha256": "46439311f36f890428992d59b0976042ca51b95738d9377fb7e9458b16c22dc5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b359db2d285aca804b552ea5d94809c38383a516f8d0cb1683b92997ab49fb21",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Integrating Melt Electrowriting and Fused Deposition Modeling to Fabricate Hybrid Scaffolds Supportive of Accelerated Bone Regeneration",
+    "authors": "Eichholz KF, Pitacco P, Burdis R, Chariyev-Prinz F, Barceló X, Tornifoglio B, Paetzold R, Garcia O, Kelly DJ.",
+    "year": 2023,
+    "journal": "Advanced Healthcare Materials",
+    "doi": "10.1002/adhm.202302057",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

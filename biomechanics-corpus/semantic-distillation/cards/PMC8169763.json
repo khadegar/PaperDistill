@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8169763",
+  "paper_id": "doi:10.1038/s41598-021-91147-w",
+  "pmcid": "PMC8169763",
+  "source_record_sha256": "e6bcc595bbb587424649a186de53141f11056e0e6afaa1df8c6bd73de3b177ba",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ee4cdbffba958c26f1b09204d12ef4a689a09d1a0d817f112913147b9e888f07",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone regeneration in ceramic scaffolds with variable concentrations of PDRN and rhBMP-2",
+    "authors": "Lim HK, Kwon YJ, Hong SJ, Choi HG, Chung SM, Yang BE, Lee JH, Byun SH.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-91147-w",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Evaluation Study; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

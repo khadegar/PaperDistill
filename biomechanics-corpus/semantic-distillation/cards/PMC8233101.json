@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8233101",
+  "paper_id": "doi:10.1016/j.artd.2021.04.012",
+  "pmcid": "PMC8233101",
+  "source_record_sha256": "30ebcd241e67e697921b5d79bea7ecd84d5e0ffe3786f6f23f991a5df4686543",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "28618b69a31af3c40c484556ce7b3d136111686300a779f2ff6924fc1cd31db5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Contemporary Classification System of Femoral Bone Loss in Revision Total Hip Arthroplasty",
+    "authors": "Rodgers B, Wernick G, Roman G, Beauchamp CP, Spangehl MJ, Schwartz AJ.",
+    "year": 2021,
+    "journal": "Arthroplasty Today",
+    "doi": "10.1016/j.artd.2021.04.012",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

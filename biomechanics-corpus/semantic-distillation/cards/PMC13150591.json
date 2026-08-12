@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13150591",
+  "paper_id": "doi:10.1021/acsomega.5c10393",
+  "pmcid": "PMC13150591",
+  "source_record_sha256": "e39d348910767689933173203672b54a8e7c9261ee5e88f89e0aa3232bc5f62e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2e6140c239fbacebd795b5c7f448eddd5206db22745148450a1115541972f3e0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Scaffold Material–Architecture Design Rules Linking Mechanics and Early Osteogenesis in PCL/β-TCP Grid, Honeycomb, and Gyroid Lattices",
+    "authors": "Thapa S, Twigg P, Katsikogianni M, Tsaroucha D, Singhal M.",
+    "year": 2026,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.5c10393",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9303616",
+  "paper_id": "doi:10.1002/term.3288",
+  "pmcid": "PMC9303616",
+  "source_record_sha256": "e30e4eb10263118571a016060ac5d975058036a76e5805743887bac77adad1b1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ef1670a36525e61c0a0cb09fed949d97ca75d1ce625ba6de24326347ec1b56bf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Guiding bone formation using semi‐onlay calcium phosphate implants in an ovine calvarial model",
+    "authors": "Billström GH, Lopes VR, Illies C, Gallinetti S, Åberg J, Engqvist H, Aparicio C, Larsson S, Linder LKB, Birgersson U.",
+    "year": 2022,
+    "journal": "Journal of Tissue Engineering and Regenerative Medicine",
+    "doi": "10.1002/term.3288",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

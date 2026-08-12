@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9117745",
+  "paper_id": "doi:10.3389/fbioe.2022.893337",
+  "pmcid": "PMC9117745",
+  "source_record_sha256": "78ef55337edbabcc89994f22e85b7cf17c0231adb28859d1898784216e829198",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c89ccfa265a772640b1b66bb6bbc76cc7beefadc3d1780c618649c53e3cce489",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Comparative Study on the Multiscale Mechanical Responses of Human Femoral Neck Between the Young and the Elderly Using Finite Element Method",
+    "authors": "Cen H, Gong H, Liu H, Jia S, Wu X, Fan Y.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.893337",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

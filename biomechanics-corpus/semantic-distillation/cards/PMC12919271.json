@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12919271",
+  "paper_id": "doi:10.1016/j.jobcr.2026.101419",
+  "pmcid": "PMC12919271",
+  "source_record_sha256": "2716b3eab9513956e99f582ef1d251eddb5c30de076c9514297bced908bfab58",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1f11fd354cc6f10a0fee74c666fe6155269d56e339da7d2c33887bc3bc2155f2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element biomechanical comparison of bone-driven and occlusion-driven fibular flap positioning in lateral segmental mandibular reconstruction",
+    "authors": "Filonenko D, Chepurnyi Y, Kryshchuk M, Osmanov B, Kopchak A.",
+    "year": 2026,
+    "journal": "Journal of Oral Biology and Craniofacial Research",
+    "doi": "10.1016/j.jobcr.2026.101419",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

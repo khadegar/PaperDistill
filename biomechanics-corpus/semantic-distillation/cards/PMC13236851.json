@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13236851",
+  "paper_id": "doi:10.3389/fsurg.2026.1818358",
+  "pmcid": "PMC13236851",
+  "source_record_sha256": "dab616bab1d55d2cbb34c333615eb86e1f58cedff6e669a6e2bf4f0afd0bc61c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "97f4b68ec60fdd9c812c75e598cf0f33a0751c47ebc58d0d53af4bd193dd03de",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In-house 3D printed porous implants: does strontium-coating enhance osseointegration? An in-vivo study in large animals",
+    "authors": "Borgognoni AB, Freund SS, Baas J, Bendtsen MM, Byskov JS, Ranjkesh B, Nyengaard JR, Pauwels R, Almtoft KP, Baad-Hansen T.",
+    "year": 2026,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2026.1818358",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

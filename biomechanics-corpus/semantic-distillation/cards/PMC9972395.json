@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9972395",
+  "paper_id": "doi:10.1016/j.bioactmat.2023.02.012",
+  "pmcid": "PMC9972395",
+  "source_record_sha256": "ccdc5113718dc56fb213cad1ae98e790bb144fb229e43b75786173224a944382",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "53eebf34d0bd8a41df397859b8bee3fe65d1bca8662eb341b780910021652ddc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioceramic scaffolds with triply periodic minimal surface architectures guide early-stage bone regeneration",
+    "authors": "Shen M, Li Y, Lu F, Gou Y, Zhong C, He S, Zhao C, Yang G, Zhang L, Yang X, Gou Z, Xu S.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2023.02.012",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

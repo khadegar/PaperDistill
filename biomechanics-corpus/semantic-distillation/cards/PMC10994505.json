@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10994505",
+  "paper_id": "doi:10.1097/md.0000000000037697",
+  "pmcid": "PMC10994505",
+  "source_record_sha256": "343d94c73df910339de151a5d05e45f98384709fd0bb83d8579fe5321978c4e9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "614a9dd5bd8ae38232540e53e3e9efd31e2a04403816dfac9977b79607f411a4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Efficacy of cementless porous tantalum tibial components versus cemented tibial components in primary total knee arthroplasty: A meta-analysis",
+    "authors": "Li L, Pan C, Zhang X, Liu W, Zhang T, Liu Y, Li J, Ma Y, Jia C, Liu X, Shi C.",
+    "year": 2024,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000037697",
+    "publication_type": "Meta-Analysis; Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

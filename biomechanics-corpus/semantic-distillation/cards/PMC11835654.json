@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11835654",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101533",
+  "pmcid": "PMC11835654",
+  "source_record_sha256": "48631ee8a2898df4636cde5dfd247a8855a5638bfbc32794fdd848c6a7ff5b27",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "504b061ef22af9bb89411321f8c3889c3964cf8fa348d2f6e0838822273db35a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Functional poly(ether-ketone-ketone) composite scaffold with enhanced cell-material interaction, anti-inflammatory and osteogenesis for facilitating osteointegration and bone regeneration",
+    "authors": "Yang Q, Chen A, Zhang X, Wu Z, Zhang C.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101533",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

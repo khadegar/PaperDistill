@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11321481",
+  "paper_id": "doi:10.4103/jips.jips_424_23",
+  "pmcid": "PMC11321481",
+  "source_record_sha256": "211dfcac0e6110d8bd6f9aac940833531ff713c8a4017597cf1b59e6f23c69ca",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6dffa543c3ed3d7bcbb39f10fba2fc756bdf739e164df9b32880050ede9af0d6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of different occlusal materials on peri-implant stress distribution with different osseointegration condition: A finite element analysis",
+    "authors": "Thirumaran D, Leoney A, Fayeez A, Yazhini Shanmya P.",
+    "year": 2024,
+    "journal": "The Journal of the Indian Prosthodontic Society",
+    "doi": "10.4103/jips.jips_424_23",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

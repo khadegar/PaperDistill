@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10562422",
+  "paper_id": "doi:10.1038/s41598-023-44225-0",
+  "pmcid": "PMC10562422",
+  "source_record_sha256": "04286c2931670585d5f9dafddeafd5e52fef9da3b94899bca80236e3ee3d7866",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2ac6d13521c8bb609b63c1615cab911b706ef4a1028e0bbc5b4cdd4590e0caa1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomaterial composed of chitosan, riboflavin, and hydroxyapatite for bone tissue regeneration",
+    "authors": "Gaweł J, Milan J, Żebrowski J, Płoch D, Stefaniuk I, Kus-Liśkiewicz M.",
+    "year": 2023,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-023-44225-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

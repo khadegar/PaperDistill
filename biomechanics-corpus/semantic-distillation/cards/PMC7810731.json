@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7810731",
+  "paper_id": "doi:10.1038/s41598-020-80463-2",
+  "pmcid": "PMC7810731",
+  "source_record_sha256": "ce8f68aae0646baf9fda27af803a2c7f911e3f807f1f9a59ad9fd209d61b2762",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "79019da275ff337e4b3b3994c5bb08889aef3e26bf8afdb4441a7def7f4e335c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multi-energy spectral photon-counting computed tomography (MARS) for detection of arthroplasty implant failure",
+    "authors": "Lau LCM, Lee WYW, Butler APH, Chernoglazov AI, Chung KY, Ho KKW, Griffith J, Butler PH, Yung PSH.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-80463-2",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

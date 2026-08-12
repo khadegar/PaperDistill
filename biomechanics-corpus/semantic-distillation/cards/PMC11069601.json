@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11069601",
+  "paper_id": "doi:10.6026/973206300200248",
+  "pmcid": "PMC11069601",
+  "source_record_sha256": "64bd25ace8d40a5962fc21ba56793e6492ff355c9a920a20e04125fdb4f2aa8f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9be9bb345152a8ebf2f788bd7b598d1ef1fa14642abb20b252995667b478b53c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis (FEA) of stress distribution in platform-switched short dental implants",
+    "authors": "Gosai KN, Tripathi VD, Yadav S, Vyas D, Gopinath PV, Parihar AS, Abraham S.",
+    "year": 2024,
+    "journal": "Bioinformation",
+    "doi": "10.6026/973206300200248",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

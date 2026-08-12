@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8786731",
+  "paper_id": "doi:10.3389/fbioe.2021.750246",
+  "pmcid": "PMC8786731",
+  "source_record_sha256": "704d3ad34102aa85bc7359f5a01cc92981123e55288b09eeedf5ee6696d82916",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b5002f581f8d58e8dd5f8b10e7982460b9eaa513c253e86d1069110d2920a648",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient-Specific Variations in Local Strain Patterns on the Surface of a Trussed Titanium Interbody Cage",
+    "authors": "Loenen ACY, Noailly J, Ito K, Willems PC, Arts JJ, van Rietbergen B.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.750246",
+    "publication_type": "brief-report; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

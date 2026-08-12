@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13117607",
+  "paper_id": "doi:10.3390/jfb17040174",
+  "pmcid": "PMC13117607",
+  "source_record_sha256": "e8b9b8dd7830ab6b4d8576b660579573c515c64e64caf57bcf86f67aff6cf498",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "41e83845720123693f357afe0cc1bb429b1b102edbf3e7305b666d066c51b1ae",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive-Manufactured S53P4@PCL Composite Scaffolds Functionalized with Aptamers and Antibacterial Exosomes for Rapid Bacterial Capture and Killing",
+    "authors": "Zhang C, Lin R, You J, Wang Y, Wang H, Ru Y, Xing S, Wang J, Chen S.",
+    "year": 2026,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb17040174",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

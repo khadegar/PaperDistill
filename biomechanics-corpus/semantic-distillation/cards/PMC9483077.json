@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9483077",
+  "paper_id": "doi:10.1111/os.13285",
+  "pmcid": "PMC9483077",
+  "source_record_sha256": "471d981df28bddd42ec917f58919304abc3bc294bc6d732ae46fc2def2b19d2c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "015b576b97d00e4c02a851c5dae9d6fa91ea78ab19b676aa8a437a4df1d669f5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A New Method to Protect Blood Supply in the Treatment of Femoral Neck Fractures: Bidirectional Compression Porous Tantalum Screws",
+    "authors": "Zhao D, Ma Z, Liu B, Yang L, Qiu X, Tian S, Okoye CS, Lian Z.",
+    "year": 2022,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13285",
+    "publication_type": "other; Randomized Controlled Trial; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

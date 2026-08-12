@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12006471",
+  "paper_id": "doi:10.1038/s41598-025-97090-4",
+  "pmcid": "PMC12006471",
+  "source_record_sha256": "329c90f45bc42d5e3c399cc4edb48d7c36dab6cae8c19f77de186a847ced16e2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5dd21e5e9fc4e232c0e296fa7068d2de0e8daefa108aec340cf4a83f94567551",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis and clinical evaluation of cross locking external fixator configuration for distal third tibia fracture",
+    "authors": "Ng BW, Abdul Wahab AH, Abdul Wahid AM, Abdullah NNAA, Abdul Kadir MR, Ammarullah MI, Ramlee MH.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-97090-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6198759",
+  "paper_id": "doi:10.1089/ten.tea.2018.0014",
+  "pmcid": "PMC6198759",
+  "source_record_sha256": "2be20b24fbe34582343e115af7a3c8c179ef089031a4896551ccdb15ad154232",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d34551bba8ddc6af9fdcfc8b99471e8466f6c871694ec3996279b31867d81b80",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Lattice Microarchitecture for Bone Tissue Engineering from Calcium Phosphate Compared to Titanium",
+    "authors": "Chen TH, Ghayor C, Siegenthaler B, Schuler F, Rüegg J, De Wild M, Weber FE.",
+    "year": 2018,
+    "journal": "Tissue Engineering. Part A",
+    "doi": "10.1089/ten.tea.2018.0014",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

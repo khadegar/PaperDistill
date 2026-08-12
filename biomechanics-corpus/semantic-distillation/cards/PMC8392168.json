@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8392168",
+  "paper_id": "doi:10.3390/cells10081903",
+  "pmcid": "PMC8392168",
+  "source_record_sha256": "0b7d003b3da733b1d1262affb598fc9ba05998f1bfee194f77d58985a4acf4cf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9ef564a2f638ceffb6313c8e35d7b0d181b55d6820730da5559686bc8202d4bf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An In Vitro System to Study the Effect of Subchondral Bone Health on Articular Cartilage Repair in Humans",
+    "authors": "Hopkins T, Wright KT, Kuiper NJ, Roberts S, Jermin P, Gallacher P, Kuiper JH.",
+    "year": 2021,
+    "journal": "Cells",
+    "doi": "10.3390/cells10081903",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

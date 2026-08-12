@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10141664",
+  "paper_id": "doi:10.3390/jpm13040587",
+  "pmcid": "PMC10141664",
+  "source_record_sha256": "52ab506cf7841ffc872b897a1863e649ac056dbb8c39760b9998f3d1171c5524",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a193d0a7eede7c75e7afad02d6c6ed588285293373fe4b7be3256c130b5b4433",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Comparison of Conventional Plate and the C-Nail ® System for the Treatment of Displaced Intra-Articular Calcaneal Fractures: A Finite Element Analysis",
+    "authors": "Pînzaru RM, Pavăl SD, Perțea M, Alexa O, Sîrbu PD, Filip A, Carp AC, Savin L, Forna N, Veliceasa B.",
+    "year": 2023,
+    "journal": "Journal of Personalized Medicine",
+    "doi": "10.3390/jpm13040587",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

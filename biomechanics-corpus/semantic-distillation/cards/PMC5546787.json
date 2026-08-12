@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5546787",
+  "paper_id": "doi:10.2147/ijn.s138615",
+  "pmcid": "PMC5546787",
+  "source_record_sha256": "cff95f249b96729b7b1b86f12f1d98656ef766e9547fe4d6c82a78f9c35b5305",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "12cf5f4d272ba3d276897d7af77a5764f5edc909bff35ed7158665fcaab82344",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The influence of direct laser metal sintering implants on the early stages of osseointegration in diabetic mini-pigs",
+    "authors": "Tan N, Liu X, Cai Y, Zhang S, Jian B, Zhou Y, Xu X, Ren S, Wei H, Song Y.",
+    "year": 2017,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s138615",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

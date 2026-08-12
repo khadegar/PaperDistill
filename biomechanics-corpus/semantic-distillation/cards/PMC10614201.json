@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10614201",
+  "paper_id": "doi:10.1021/acsami.3c12078",
+  "pmcid": "PMC10614201",
+  "source_record_sha256": "41a32490af6cd76cae61adbe77a1736d8bc46548df74d007258da0af30b9f030",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b28df2895b4154251192b5ebca3e576333ed66dd1f52d6ea5c544827095a0c2c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing of Bioactive Gel-like Double Emulsion into a Biocompatible Hierarchical Macroporous Self-Lubricating Scaffold for 3D Cell Culture",
+    "authors": "Shahbazi M, Jäger H, Mohammadi A, Asghartabar Kashi P, Chen J, Ettelaie R.",
+    "year": 2023,
+    "journal": "ACS Applied Materials & Interfaces",
+    "doi": "10.1021/acsami.3c12078",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

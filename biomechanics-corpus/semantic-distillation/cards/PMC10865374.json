@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10865374",
+  "paper_id": "doi:10.3389/fbioe.2024.1352996",
+  "pmcid": "PMC10865374",
+  "source_record_sha256": "5317184292e7dc76a856338e78f159a2f90428dcd615b158400b6beb6010fa39",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a8cbd6c3df63f572e053503f413f754ef5c43341f425268bc30bd9b3b00d139c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical study of anterior transpedicular root screw intervertebral fusion system of lower cervical spine: a finite element analysis",
+    "authors": "Ye S, Ye J, Hou Z, You X, Shen S, Zhang J, Yu L, Gu Y, Wang W, Zhao L.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1352996",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

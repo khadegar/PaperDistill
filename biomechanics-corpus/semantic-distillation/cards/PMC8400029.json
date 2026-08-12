@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8400029",
+  "paper_id": "doi:10.3390/polym13162754",
+  "pmcid": "PMC8400029",
+  "source_record_sha256": "23b35d2bf5bba36983dfa882a622a3c9495f6127b1dbde057812cd3d7e732df7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c4d666b184aba6a02d2a0fe9d1ad87aa1c1346657398cabe72b6b5e9cae54bae",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Application of Polycaprolactone in Three-Dimensional Printing Scaffolds for Bone Tissue Engineering",
+    "authors": "Yang X, Wang Y, Zhou Y, Chen J, Wan Q.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13162754",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

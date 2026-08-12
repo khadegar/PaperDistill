@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7084329",
+  "paper_id": "doi:10.3390/ijms21051863",
+  "pmcid": "PMC7084329",
+  "source_record_sha256": "4b7959ab3b796f15edf97caa0786e08039e40248807571b92695580826b1ca23",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dce1aa4031f73c480e963a92345655e9e47d20e676ccc74bdae731e87a1e6291",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication of Three-Dimensional Composite Scaffold for Simultaneous Alveolar Bone Regeneration in Dental Implant Installation",
+    "authors": "Jeong HJ, Gwak SJ, Seo KD, Lee S, Yun JH, Cho YS, Lee SJ.",
+    "year": 2020,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms21051863",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

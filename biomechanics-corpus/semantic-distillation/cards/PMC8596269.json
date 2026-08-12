@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8596269",
+  "paper_id": "doi:10.17691/stm2020.12.4.04",
+  "pmcid": "PMC8596269",
+  "source_record_sha256": "9743e581672c248bb415fc84c6932e3daca05401749544c36f9a5307d2d8c284",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b41b94553cb0a1716ab69c3961b3c19f8a81a8daa236c865f1376d490a7f68eb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimization of Spondylosynthesis for Certain Thoracolumbar Burst Fractures",
+    "authors": "Likhachev SV, Arsenievich VB, Ostrovskiy VV, Shulga AE, Zaretskov AV, Ivanov DV, Dol AV, Donnik AM, Zaretskov VV.",
+    "year": 2020,
+    "journal": "Modern Technologies in Medicine",
+    "doi": "10.17691/stm2020.12.4.04",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

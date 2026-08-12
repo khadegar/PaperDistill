@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12584103",
+  "paper_id": "doi:10.1302/2046-3758.1411.bjr-2024-0292.r2",
+  "pmcid": "PMC12584103",
+  "source_record_sha256": "8274720258dad4be114b2c90d6b085d24d1aeebcfd9081d87e6c5ee693656529",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a55e52ddea371c0d0075671020f1da75ff3025ae3c02c64f44aff7d88408a3ef",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical comparison between custom-made enhanced triflange and quadri-flange acetabular components for the treatment of Paprosky IIIB acetabular bone defects",
+    "authors": "Li Z, Zhang A, Liu Y, Chen H, Sun Y, Zhao X, Han Q, Wang J.",
+    "year": 2025,
+    "journal": "Bone & Joint Research",
+    "doi": "10.1302/2046-3758.1411.bjr-2024-0292.r2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

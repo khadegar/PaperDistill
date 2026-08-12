@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7372421",
+  "paper_id": "doi:10.3390/ma13133010",
+  "pmcid": "PMC7372421",
+  "source_record_sha256": "9461fa3151a901661085cdce7f60e8f6949c6be7a5fce158b2a971b2bfcd1a61",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1c5d5b021e80193e3ebbf5a5bc7d81bf3fe14503d28ff9d04ae629ea791858db",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Ultra-High Molecular Weight Polyethylene/Titanium-Hybrid Implant for Bone-Defect Replacement",
+    "authors": "Maksimkin AV, Senatov FS, Niaza K, Dayyoub T, Kaloshkin SD.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13133010",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

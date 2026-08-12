@@ -1,0 +1,237 @@
+{
+  "study": {
+    "article_kind": "original_in_vitro_mechanobiology_study",
+    "design_features": [
+      "electrospun_pcl_membrane",
+      "fiber_orientation_by_diameter_factorial",
+      "gingival_keratinocytes",
+      "cell_and_nuclear_morphometry",
+      "time_resolved_proliferation",
+      "differentiation_markers",
+      "krt5_krt14_sirna_perturbation",
+      "two_manufacturing_batches"
+    ],
+    "research_problem": "Oral epithelial repair requires coordinated keratinocyte expansion and differentiation, but the way electrospun fiber orientation and diameter shape gingival-keratinocyte morphology, proliferation, differentiation, and basal-keratin dependence was incompletely defined.",
+    "exact_gap": "Earlier topography studies typically examined limited fiber conditions and rarely linked cell/nuclear morphology, time-resolved proliferation, multi-stage differentiation markers, and KRT5/KRT14 perturbation in gingival keratinocytes (S002:C02-S002:C04).",
+    "objective_or_hypothesis": "Test whether aligned versus random PCL fibers across three nominal diameter ranges produce distinct proliferative and differentiation-associated states and whether KRT5/KRT14 participate in the scaffold-dependent response (S002:C03-S002:C04).",
+    "study_design": "Immortalized human gingival keratinocytes were cultured for 3 or 7 days on commercial aligned or random electrospun PCL mats and planar controls. Batch 1 contained three diameter ranges and supported characterization, morphometry, and ddPCR; batch 2 contained only the two smaller ranges and supported EdU, protein imaging, and siRNA/qPCR experiments (S003:C01-S003:C06).",
+    "sample_or_model": "HPV16 E6/E7-immortalized human gingival keratinocytes at passages 38-49, commercial PCL mats from two production lots, generally three or four biological replicates; SEM cell imaging used one representative experiment per condition (S003:C01; S011:C01; S013:C02-S013:C03).",
+    "comparators": [
+      "Aligned versus random fiber orientation",
+      "Nominal 600-800 nm, 1.2-1.7 micrometre, and 2.0-2.5 micrometre fiber ranges in batch 1",
+      "Only the two smaller diameter ranges in batch 2",
+      "Planar culture/coverslip controls",
+      "Day 3 versus day 7",
+      "KRT5 siRNA, KRT14 siRNA, and non-targeting siRNA within each recoverable surface condition"
+    ],
+    "method_spine": [
+      "Verify nominal fiber orientation and diameter by SEM while documenting proprietary fabrication and batch differences.",
+      "Quantify cell and nuclear morphology at two time points within each batch.",
+      "Measure cell density and EdU incorporation to distinguish accumulation from active S-phase entry.",
+      "Measure basal, early, and terminal differentiation-associated transcripts and proteins.",
+      "Perturb KRT5/KRT14 and examine recoverable RNA and downstream transcripts.",
+      "Separate observed architecture-response associations from unmeasured stiffness, mechanotransduction, viability, stratification, and regenerative function."
+    ],
+    "validation_roles": {
+      "verification": [
+        "SEM independently checked orientation and fiber-diameter ranges, but the example aligned small-fiber mean of 926 plus/minus 366 nm extends beyond the nominal 600-800-nm label and exact electrospinning parameters were proprietary (S003:C01-S003:C05).",
+        "Image-analysis workflows, RNA quality checks, non-targeting siRNA, and consistent acquisition settings support assay execution; ddPCR had no technical replicates because RNA was limited (S004:C01-S005:C02)."
+      ],
+      "calibration": [
+        "No mechanical or exposure calibration was performed. Morphometry pipelines were adapted from another cell type and manually queried, but no independent segmentation accuracy or inter-rater validation is reported (S005:C01)."
+      ],
+      "validation": [
+        "Directional orientation-related morphology trends recur in two commercial batches and gene/protein measurements provide partial orthogonal convergence, which is a robustness check rather than external biological validation (S014:C03-S014:C09; S018:C01-S019:C02).",
+        "The system was not validated in primary-cell, organotypic, barrier-function, animal, implant-interface, or clinical models."
+      ],
+      "sensitivity": [
+        "Orientation, nominal diameter, time, and production batch are varied, but diameter is incomplete in batch 2 and orientation is entangled with fiber packing, thickness, and likely mechanics (S003:C03-S003:C05; S021:C05-S021:C07).",
+        "No stiffness, tensile, porosity, surface chemistry, degradation, seeding-density, calcium, or microbial/environmental sensitivity is tested."
+      ],
+      "application_prediction": [
+        "A layered aligned-plus-random 'scaffold sandwich' for sequential proliferation and differentiation is a proposed design concept; the layered construct, stratification, barrier formation, and mucosal repair were not fabricated or tested (S021:C06-S022:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "Across batches, aligned fibers—especially the 1.2-1.7-micrometre range—produced more elongated cells and nuclei, whereas random fibers and controls produced rounder morphologies; absolute effect sizes differed between batches (S014:C01-S015:C05).",
+      "By day 7, aligned surfaces had higher cell densities and retained approximately 12-13% EdU-positive cells, while random and planar conditions fell below about 4% EdU despite some continued cell accumulation (S016:C01-S016:C03).",
+      "Random, particularly smaller-diameter, fibers showed higher basal and differentiation-associated transcript/protein signals; basal and suprabasal markers were simultaneously elevated and transcript/protein time trends did not always match (S017:C01-S018:C02).",
+      "After KRT5 or KRT14 knockdown, RNA from random-fiber conditions was near/below detection, preventing qPCR; aligned conditions retained RNA and showed context-dependent KRT1/KRT4/IVL/LMNB1/YAP1 transcript changes (S020:C01-S020:C05).",
+      "The two scaffold batches differed in diameter/configuration and absolute biological outcomes, but several orientation-dependent directions recurred (S019:C01-S019:C02; S021:C05)."
+    ],
+    "highest_evidence_level_reached": "Short-term in-vitro association and limited perturbation evidence in one immortalized gingival-keratinocyte system; no direct mechanics, viability after knockdown, organotypic tissue, animal, or regenerative-function validation."
+  },
+  "argument_map": {
+    "central_claim": "Fiber orientation is associated with distinct short-term keratinocyte states—aligned mats with sustained proliferation and elongation, random mats with stronger differentiation-associated markers—and KRT5/KRT14 perturbation responses depend on topography; the data do not establish a complete mechanotransduction pathway, direct viability dependence, epithelial stratification, or mucosal-regeneration efficacy.",
+    "data": [
+      "Two-batch cell/nuclear morphometry, cell density, EdU, ddPCR, marker-protein imaging, RNA yield, and siRNA/qPCR measurements (S014:C01-S020:C05).",
+      "SEM verifies approximate architecture but cell-seeded SEM is qualitative n=1 and contains preparation artifacts (S013:C01-S013:C03)."
+    ],
+    "warrant": "Convergent geometry, proliferation, and marker patterns plus gene perturbation can support a topography-responsive cell-state model, while causal mechanics and tissue function require direct mechanical/exposure measurement, orthogonal viability, pathway localization/rescue, and tissue-level validation.",
+    "backing": [
+      "The authors openly identify inter-batch differences and absence of tensile/stiffness testing, and treat the layered scaffold as future design work (S021:C05-S021:C08)."
+    ],
+    "qualifier": "Within 3- to 7-day culture of HPV-immortalized gingival keratinocytes on two lots of thin commercial PCL mats.",
+    "rebuttals_or_boundaries": [
+      "Batch 1 and batch 2 support different assays, so cross-assay biological chains also cross manufacturing lots and cannot be treated as one fully balanced factorial experiment.",
+      "The largest fiber range is absent from batch 2, preventing complete orientation-by-diameter replication for EdU, protein, and knockdown outcomes (S003:C04).",
+      "Orientation may covary with diameter distribution, cross-linking/packing, thickness, stiffness, elasticity, and transport, none of which is isolated (S003:C03-S003:C05; S021:C07).",
+      "RNA loss after knockdown was not confirmed by live/dead, apoptosis, cell counting, or rescue and therefore does not directly demonstrate viability collapse (S020:C03-S020:C05; S021:C04).",
+      "KRT/YAP/LMNB1 transcripts and morphology do not demonstrate force transmission, YAP nuclear translocation, nuclear integrity, chromatin change, or barrier differentiation."
+    ],
+    "argument_coherence": "moderate"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Fiber diameter/orientation by SEM; cell/nuclear shape descriptors; cell density; EdU fraction; KRT5/KRT14/KRT1/KRT10/KRT4/KRT13/IVL/FLG transcripts; selected protein fluorescence; RNA concentration; and post-siRNA transcript changes (S003:C01-S020:C05)."
+    ],
+    "predicted": [],
+    "inferred": [
+      "Filopodia-like protrusions are interpreted as integrin-rich focal adhesions without direct adhesion-protein localization or force measurement (S013:C03).",
+      "Lower day-7 EdU on random fibers is interpreted as cell-cycle exit and differentiation; EdU directly shows S-phase fraction but not the cause of decline (S016:C03).",
+      "Morphological/nuclear coupling is interpreted as cytoskeletal mechanotransduction and possible chromatin effects without mechanical characterization, traction, LINC, YAP localization, or chromatin assays (S015:C05; S021:C01-S021:C07).",
+      "Near-zero RNA after knockdown is interpreted as extensive cell loss and essentiality for viability without a direct viability assay or rescue (S020:C03-S020:C05).",
+      "Simultaneous basal and suprabasal marker expression is described as a transient differentiation state, but lineage/state resolution is not established (S021:C03).",
+      "Clustered EdU-positive cells are suggested to represent early epithelial self-assembly even though stratification was not quantified (S021:C02)."
+    ],
+    "recommended": [
+      "Use a balanced batch-crossed design with all diameters; quantify mat mechanics, porosity, thickness, and surface state; add primary cells, direct viability/rescue, YAP localization and force/pathway assays, organotypic stratification/barrier tests, and then evaluate the layered construct (S021:C05-S021:C08)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Cell elongation and nuclear shape are mechanosensitive readouts, not direct measurements of mechanical force or pathway activation.",
+      "EdU marks active DNA synthesis during a pulse, not long-term proliferative capacity or differentiation by itself.",
+      "Marker expression and co-expression do not establish a mature, stratified, functional oral epithelium.",
+      "RNA recovery is not a direct live/dead or apoptosis outcome.",
+      "A thin in-vitro electrospun membrane response does not establish peri-implant mucosal integration or regenerative efficacy."
+    ],
+    "overclaim_risks": [
+      "The abstract/conclusion states that random-scaffold cells 'required' KRT5/KRT14 for viability, although viability was not directly assessed (S001:C01; S022:C01).",
+      "'Direct link' and 'programmable determinant' overstate a design with covarying architecture and unmeasured mechanics (S021:C03; S022:C01).",
+      "Calling aligned cultures basal/progenitor-like and random cultures differentiated simplifies simultaneous basal/suprabasal markers and incomplete functional endpoints.",
+      "The layered scaffold is a plausible hypothesis, not an experimentally demonstrated architecture (S021:C06-S022:C01).",
+      "Automated FE, animal, and porous-lattice cues are false; this is a short-term in-vitro electrospun-membrane study."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Disclose batch-to-assay allocation and missing factorial cells",
+      "execution": "The paper states which assays used batch 1 or batch 2 and that the largest diameter was unavailable in batch 2 (S003:C04-S003:C05).",
+      "locator": "S003:C04",
+      "effectiveness": "high",
+      "transferable_principle": "In biomaterial studies spanning manufacturing lots, map every assay to lot, factor level, sample size, and missing condition before integrating results across modalities.",
+      "failure_mode": "Directional replication across batches does not make an incomplete cross-batch factorial balanced."
+    },
+    {
+      "section": "results",
+      "move": "Separate population accumulation from active proliferation",
+      "execution": "Cell density and EdU fraction are reported together, allowing day-7 accumulation to coexist with low S-phase labeling on random fibers (S016:C01-S016:C03).",
+      "locator": "S016:C03",
+      "effectiveness": "high",
+      "transferable_principle": "Pair cumulative cell number with a time-local proliferation assay and state what each measures before inferring cell-cycle exit or differentiation.",
+      "failure_mode": "Low EdU is not by itself proof of differentiation or loss of long-term growth potential."
+    },
+    {
+      "section": "results",
+      "move": "Use orthogonal levels while preserving discordance",
+      "execution": "The paper compares transcript and protein marker patterns and acknowledges that basal-marker time trends differ between modalities (S017:C01-S018:C02).",
+      "locator": "S018:C01",
+      "effectiveness": "moderate_to_high",
+      "transferable_principle": "Build morphology-to-RNA-to-protein-to-perturbation chains, but report temporal or modal disagreement instead of calling every layer confirmatory.",
+      "failure_mode": "More assays do not establish a causal pathway when they use different batches and endpoints."
+    },
+    {
+      "section": "discussion",
+      "move": "Turn batch variation into a bounded robustness analysis",
+      "execution": "Absolute morphology and RNA outcomes differ between lots, while orientation-related directions are compared within batch and carried forward cautiously (S019:C01-S019:C02; S021:C05).",
+      "locator": "S021:C05",
+      "effectiveness": "high",
+      "transferable_principle": "Normalize and interpret within manufacturing batch, report as-built differences, and call repeated direction a robustness signal rather than interchangeability.",
+      "failure_mode": "Do not pool materially different lots without a batch-aware model."
+    },
+    {
+      "section": "discussion",
+      "move": "Convert a complementary response pattern into a testable design hypothesis",
+      "execution": "Aligned-proliferative and random-differentiation signals motivate a proposed layered scaffold, with the actual construct left for future validation (S021:C06).",
+      "locator": "S021:C06",
+      "effectiveness": "high_when_bounded",
+      "transferable_principle": "Write design translation as observation, design rule, proposed architecture, and discriminating validation experiment in separate sentences.",
+      "failure_mode": "A conceptual scaffold assembled from separate conditions is not a demonstrated regenerative device."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Commercial fabrication parameters were proprietary; the two batches differed; the largest diameter was absent in batch 2; cell-seeded SEM was qualitative and affected by preparation artifacts; no tensile/stiffness testing was performed; YAP localization was not examined; viability after RNA loss was not directly measured (S003:C01-S003:C05; S013:C02-S013:C03; S020:C01; S021:C04-S021:C07)."
+    ],
+    "reader_identified": [
+      "A transformed, high-passage cell line and short 3/7-day culture limit physiological and translational inference.",
+      "Different batches and incomplete diameters support different modalities, confounding an integrated causal chain.",
+      "No measured porosity, permeability, mat thickness distribution, surface chemistry, stiffness, elasticity, tensile strength, or degradation.",
+      "Morphometry segmentation was adapted with manual acceptance but lacks reported detection accuracy/inter-rater reliability; different microscopes were used by batch.",
+      "Small n, many pairwise tests, and no clear factorial/repeated-time multiplicity model increase false-positive and interaction-interpretation risk (S011:C01).",
+      "No direct viability/apoptosis or rescue after knockdown, no YAP localization/traction force, no barrier/stratification function, and no primary/organotypic/in-vivo validation.",
+      "Random surfaces increase both basal and differentiation markers, complicating a single linear differentiation-state interpretation."
+    ],
+    "likely_bias_direction": [
+      "Selective integration of cross-batch assays may exaggerate a coherent architecture-to-fate causal pathway.",
+      "RNA loss and morphology proxies likely overstate viability dependence and mechanotransduction certainty.",
+      "Regenerative-language framing overstates a short-term cell-state study."
+    ],
+    "scope_boundary": "The study supports reproducible orientation-associated differences in short-term ihGK morphology, proliferation, and differentiation markers across two lots. It does not establish direct mechanical causation, KRT-dependent viability, mature epithelium, peri-implant integration, or mucosal regeneration."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC12896891-01",
+      "capability": "Write multi-batch biomaterial experiments with an assay-by-batch-by-factor map, reporting missing conditions and interpreting repeated directions separately from pooled effects.",
+      "manuscript_use": "Methods, sample-flow diagram, Results robustness, and limitations.",
+      "applicable_domains": ["mechanobiology", "additive_manufacturing", "porous_scaffold", "biomaterials"],
+      "applicable_study_designs": ["in_vitro", "factorial_materials_study"],
+      "supporting_locators": ["S003:C04", "S003:C05", "S019:C01", "S021:C05"],
+      "counterexample_or_boundary": "Two lots with different as-built structures and assay allocations do not form one balanced factorial dataset.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12896891-02",
+      "capability": "Construct a morphology-to-proliferation-to-marker-to-perturbation evidence chain while tagging every link as measured, correlated, or mechanistically inferred.",
+      "manuscript_use": "Results ordering, mechanobiology Discussion, and claim audit.",
+      "applicable_domains": ["mechanobiology", "bone_regeneration_biomaterial", "porous_scaffold"],
+      "applicable_study_designs": ["in_vitro", "cell_mechanobiology"],
+      "supporting_locators": ["S015:C05", "S016:C03", "S018:C02", "S020:C03", "S021:C03"],
+      "counterexample_or_boundary": "Morphology, EdU, marker expression, and RNA loss do not directly measure force transmission, differentiation completion, or viability.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12896891-03",
+      "capability": "Translate complementary in-vitro responses into a bounded device hypothesis by stating the proposed architecture and the unperformed validation sequence.",
+      "manuscript_use": "Discussion design implications and future-work paragraph.",
+      "applicable_domains": ["mechanobiology", "porous_scaffold", "patient_specific_implant"],
+      "applicable_study_designs": ["in_vitro", "concept_generation"],
+      "supporting_locators": ["S021:C02", "S021:C06", "S021:C07", "S022:C01"],
+      "counterexample_or_boundary": "A proposed aligned/random layered scaffold has not demonstrated stratification, barrier function, integration, or regeneration.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_to_high_for_in_vitro_state_mapping",
+    "methods_transparency": "high_about_batches_moderate_about_manufacturing",
+    "validation_credibility": "moderate_for_directional_in_vitro_robustness_low_for_mechanism_or_translation",
+    "outcome_uncertainty_reporting": "moderate",
+    "comparator_fairness": "moderate_incomplete_factorial",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "Assays are split across structurally different batches and the largest diameter is not replicated.",
+      "Mechanical exposure, direct viability after knockdown, and key mechanotransduction endpoints are unmeasured.",
+      "Immortalized short-term culture and marker proxies do not validate regenerative function."
+    ],
+    "overall_credibility": "moderate_for_topography_associated_in_vitro_cell_states_low_for_causal_mechanotransduction_viability_or_regeneration"
+  },
+  "summary_zh": "这篇论文的价值在于展示一种多层证据链：纤维取向/直径—细胞和细胞核形态—EdU 与细胞密度—分化标志物—KRT5/KRT14 扰动。两批材料中，取向效应方向大体重复：aligned 更倾向持续增殖和伸长，random 更倾向较强的分化相关标志物。但各类实验分属不同批次，第二批缺少最大直径，且材料刚度、孔隙、厚度等未测，因此不能把取向直接当作唯一机械原因。尤其需要降格两类结论：敲低后 RNA 几乎消失并不是直接的细胞活性测量；形态和 YAP1 转录也不是机械转导或核转位证据。所谓 aligned/random 分层支架是一个值得验证的设计假说，而不是已经实现的口腔黏膜再生器械。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section, including the complete batch-resolved Results and Discussion.",
+    "The finite-element, in-vivo-animal, and porous-lattice cues are false for this article.",
+    "The paper's unusually explicit batch disclosure is a strong writing model, while its viability and mechanotransduction wording supplies useful counterexamples."
+  ]
+}

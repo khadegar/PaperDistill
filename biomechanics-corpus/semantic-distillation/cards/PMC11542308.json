@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11542308",
+  "paper_id": "doi:10.1186/s12903-024-05121-9",
+  "pmcid": "PMC11542308",
+  "source_record_sha256": "359626f1112ecbad5b60bc57d44742ee8432494c9898af4727bc0471194dbb75",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8b99039752e4388344e35161851af69b7dc88b70ca25b463d974ae298b45f005",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional finite element analysis of occlusal stress on maxillary first molars with different marginal morphologies restored with occlusal veneers",
+    "authors": "Chen Q, Luo S, Wang Y, Chen Z, Li Y, Meng M, Li Y, Xiao N, Dong Q.",
+    "year": 2024,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-024-05121-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

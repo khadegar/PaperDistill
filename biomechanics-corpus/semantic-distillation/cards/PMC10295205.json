@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10295205",
+  "paper_id": "doi:10.3390/antibiotics12061004",
+  "pmcid": "PMC10295205",
+  "source_record_sha256": "012080e3310b7f3756050b3f26ed7259d5a380a24ce0688c713c268043f7d573",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fefc0dd1ab53b80c63506e051ff093ade2c78bf36c278be1c82c3e32cf0c4318",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication and Characterisation of the Cytotoxic and Antibacterial Properties of Chitosan-Cerium Oxide Porous Scaffolds",
+    "authors": "Yildizbakan L, Iqbal N, Ganguly P, Kumi-Barimah E, Do T, Jones E, Giannoudis PV, Jha A.",
+    "year": 2023,
+    "journal": "Antibiotics",
+    "doi": "10.3390/antibiotics12061004",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

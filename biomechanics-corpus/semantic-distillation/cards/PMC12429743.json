@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12429743",
+  "paper_id": "doi:10.3390/ma18174055",
+  "pmcid": "PMC12429743",
+  "source_record_sha256": "0c4a14b966aafd9cc949b83f678c6fff95c3fd6769e0b7f8646d55bbc15dbed1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c54945d56d27a0f1e1fca4e6491ba21f13cf9b1e60a546cc283c1e4c509d1faf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Curve-Based Infill Pattern Optimization for 3D Printed Polymeric Scaffolds for Trabecular Bone Applications",
+    "authors": "Vega G, Paz R, Monzón M, Donate R, Gleadall A.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18174055",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

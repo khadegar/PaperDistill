@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9481949",
+  "paper_id": "doi:10.1016/j.jare.2021.12.012",
+  "pmcid": "PMC9481949",
+  "source_record_sha256": "46fb4973415f3b5c5f24f69248e93f7a6b60acbdf5e59a27ef9f5bfce70fc336",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0d4e114215de6a4bcbbc67031eba321b52a5b6c7344ee3e1943ae05a2f772ed5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Applying extrusion-based 3D printing technique accelerates fabricating complex biphasic calcium phosphate-based scaffolds for bone tissue regeneration",
+    "authors": "Beheshtizadeh N, Azami M, Abbasi H, Farzin A.",
+    "year": 2021,
+    "journal": "Journal of Advanced Research",
+    "doi": "10.1016/j.jare.2021.12.012",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

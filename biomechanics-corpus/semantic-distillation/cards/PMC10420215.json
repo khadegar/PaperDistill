@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10420215",
+  "paper_id": "doi:10.3390/ma16155248",
+  "pmcid": "PMC10420215",
+  "source_record_sha256": "15ea043619aaf4e28e92394d6ca5ac1fbe8b55bec2662a7b9f5e10ec8d647dff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c47b03c3051b63e470870f0fa96290df17ab0fbe563e64659533e1168df4bf15",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis of Palateless Splinted and Unsplinted Maxillary Implant-Supported Overdentures: A Three-Dimensional Finite Element Analysis",
+    "authors": "Frolo M, Řehounek L, Jíra A, Pošta P, Hauer L.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16155248",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

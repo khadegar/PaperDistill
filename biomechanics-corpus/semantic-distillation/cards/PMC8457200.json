@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8457200",
+  "paper_id": "doi:10.1093/rb/rbab050",
+  "pmcid": "PMC8457200",
+  "source_record_sha256": "2fda10630d45eebc0d481f080377438683c90cfdb97fa77a15fe559c7ed7ed3a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9865f662fccc788e69061f2a54c275cdf1b7c1dcd3ac73a3d8efaa5c8d8a40d0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of macropore size of hydroxyapatite scaffold on the osteogenic differentiation of bone mesenchymal stem cells under perfusion culture",
+    "authors": "Shi F, Xiao D, Zhang C, Zhi W, Liu Y, Weng J.",
+    "year": 2021,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbab050",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

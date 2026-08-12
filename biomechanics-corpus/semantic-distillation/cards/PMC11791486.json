@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11791486",
+  "paper_id": "doi:10.4055/cios24051",
+  "pmcid": "PMC11791486",
+  "source_record_sha256": "f462bddddb00a8a0fd8e7ee930bf020896d63456ebbeccf10335d021b78c4189",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "95cef3bb3a3adf3c9a6e8602e06ff31cec9ef79650c25082cf254de3b381c64b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical Effects of Offset and Length of the Cementless Stem for Initial Fixation to the Femur",
+    "authors": "Shibuta Y, Kaku N, Tanaka K, Hosoyama T.",
+    "year": 2025,
+    "journal": "Clinics in Orthopedic Surgery",
+    "doi": "10.4055/cios24051",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

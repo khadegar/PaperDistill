@@ -1,0 +1,314 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8724551",
+  "paper_id": "doi:10.3389/fbioe.2021.779854",
+  "pmcid": "PMC8724551",
+  "source_record_sha256": "7e559c0317120c67107b2a428ebd341b0cf5dc634dc5a442a6523a4df3bd0b38",
+  "reading": {
+    "status": "completed",
+    "packet_sha256": "7ddaddde56e1a08c0a53306b2d34c3afe409e661e541f59ae1f9f6fecf801220",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S003:C01",
+      "S004:C01",
+      "S005:C01",
+      "S006:C01",
+      "S007:C01",
+      "S008:C01",
+      "S008:C02",
+      "S009:C01",
+      "S010:C01",
+      "S010:C02",
+      "S011:C01"
+    ],
+    "omissions": [],
+    "access_level": "full_text_read",
+    "reader_role": "luna_primary",
+    "reader_model": "gpt-5.6-luna",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T00:00:00Z",
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Analysis of Mechanical Properties and Permeability of Trabecular-Like Porous Scaffold by Additive Manufacturing",
+    "authors": "Chao L, Jiao C, Liang H, Xie D, Shen L, Liu Z.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.779854",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research_laboratory_computational_and_in_vitro",
+    "design_features": [
+      "Voronoi_tessellation_probability_ball_irregular_scaffold",
+      "parametric_porosity_and_aperture_design",
+      "Ti6Al4V_selective_laser_melting",
+      "static_compression_experiment",
+      "finite_element_compression_simulation",
+      "computational_fluid_dynamics_permeability",
+      "MC3T3_E1_cell_adhesion_assay"
+    ],
+    "research_problem": "Trabecular-like bone scaffolds must balance bone-matched stiffness and strength with interconnected pore space for transport and cell attachment, whereas regular lattices have limited morphological control and image-reconstructed structures are difficult to modify.",
+    "exact_gap": "A controllable irregular Voronoi scaffold had not been evaluated on a common porosity/aperture design axis across mechanical response, fluid permeability, and cell-surface attachment, with the trade-off between larger pores and weaker support made explicit.",
+    "objective_or_hypothesis": "Develop a probability-ball/Voronoi design method for Ti6Al4V scaffolds with porosities of 70, 80, and 90% and average apertures of 600-1,000 micrometres, then characterize compression by FE analysis and testing, transport by CFD, and cell attachment in vitro.",
+    "study_design": "Fifteen irregular porous designs (five average apertures x three porosities) were generated from fitted design-parameter relations. Idealized Ti6Al4V structures were analyzed in Abaqus under static compression, printed by SLM and tested in uniaxial compression, modeled as water domains in COMSOL for Darcy permeability and pressure drop, and exposed to MC3T3-E1 osteoblast-like cells for absorbance and confocal adhesion readouts.",
+    "sample_or_model": "Designs used average aperture D=600, 700, 800, 900, or 1,000 micrometres and porosity Phi=70, 80, or 90%; 15 sets of 12-mm-high Ti6Al4V specimens were printed with 130 W laser power, 1,000 mm/s scan speed, and 0.08-mm hatch spacing. FE used Ti6Al4V density 4.41 g/cm3, E=110 GPa, nu=0.33 and 1 mm/min platen motion. CFD used water at 37 C, 1,000 kg/m3 density, viscosity 1.45e-9 MPa s, 1 mm/s inlet velocity, zero outlet pressure, no-slip walls, and rigid scaffold walls. MC3T3-E1 cells were seeded at 5x10^4 cells/cm2 and read at days 1, 3, 5, and 7; replicate counts and dispersion are not reported in the packet.",
+    "comparators": [
+      "D=600-1,000 micrometres at each fixed porosity",
+      "Phi=70, 80, and 90% at each fixed aperture",
+      "Natural-bone elastic/compressive and permeability reference ranges",
+      "Phi=80% scaffolds with D=600, 800, and 1,000 micrometres for confocal cell attachment",
+      "Published Voronoi-surface permeability range used as a contextual comparator"
+    ],
+    "method_spine": [
+      "Fit the relation among average aperture, porosity, irregularity coefficient, point spacing, probability-sphere radius, and aperture coefficient; solve design parameters for each target design.",
+      "Generate irregular Voronoi structures, export STL and volume meshes, and simulate static compression in Abaqus with rigid platens and Ti6Al4V properties.",
+      "Print 15 nominal structures by SLM and measure engineering stress-strain, apparent elastic modulus, and ultimate compressive stress at 1 mm/min.",
+      "Boolean-subtract the scaffold to form a COMSOL fluid domain and compute velocity, pressure drop, and permeability using incompressible Navier-Stokes and Darcy relations.",
+      "Surface-treat and sterilize printed scaffolds, culture MC3T3-E1 cells, quantify absorbance over seven days, and image adherent cells by DAPI/confocal microscopy."
+    ],
+    "validation_roles": {
+      "verification": [
+        "The fitted design equations and parameter-solving sequence verify that target porosity and average aperture can be generated on the nominal Voronoi geometry axis (S003:C01).",
+        "Compression FE and CFD implementations are described with material properties and boundary conditions, but no mesh-convergence or code-verification result is reported (S004:C01; S006:C01)."
+      ],
+      "calibration": [
+        "The porosity/aperture relations and selected irregularity range (0.4-0.5) are design calibration rules rather than calibration to patient loading, a clinical scaffold, or measured as-built geometry (S003:C01).",
+        "Cell readouts are used to identify a favorable D=800 micrometre/Phi=80% condition, not to calibrate a coupled transport-cell model (S010:C02)."
+      ],
+      "validation": [
+        "Printed compression testing supplies an experimental check on the direction and magnitude of static mechanical trends, but the packet does not report a quantitative FE-to-test error or uncertainty analysis (S005:C01; S008:C01-S009:C01).",
+        "Confocal MC3T3-E1 attachment is an in-vitro biological proxy and does not validate bone ingrowth, implant fixation, or clinical stress-shielding reduction (S007:C01; S010:C02; S011:C01)."
+      ],
+      "sensitivity": [
+        "The 15 combinations reveal aperture and porosity sensitivity for elastic modulus, strength, velocity, pressure drop, and permeability; the response is not monotonic for permeability (S008:C01-S009:C01; S010:C01-S010:C02).",
+        "No fatigue, tensile, bending, cyclic-fluid, defect, roughness, or process-parameter sensitivity study is reported (S004:C01; S005:C01)."
+      ],
+      "application_prediction": [
+        "Claims that the design may reduce stress shielding, improve bone ingrowth, or promote nutrient/cell migration are application predictions based on static mechanical, CFD, and cell proxies; no loaded bone-interface or animal study is included (S001:C01; S011:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "The design space comprised 15 irregular Voronoi scaffolds with D=600-1,000 micrometres and Phi=70-90%; porosity was mainly controlled by pore-size coefficient while point spacing and irregularity had smaller porosity effects (S003:C01).",
+      "Static testing gave E=4.0 GPa and ultimate stress=162 MPa at Phi=70%, D=600 micrometres, versus 2.6 GPa and 117 MPa at D=1,000 micrometres; at Phi=80% the corresponding values were 3.31/145 and 2.76/102 GPa/MPa, and at Phi=90% 3.12/129 and 2.67/94 GPa/MPa (S008:C01-S008:C02).",
+      "Increasing D reduced modulus by about 33%, 16%, and 10% and compressive strength by about 27%, 29%, and 27% at Phi=70%, 80%, and 90%, respectively; porosity affected modulus more strongly than compressive strength (S008:C02).",
+      "FE showed maximum Mises stress concentrated at connecting nodes and brittle pore edges; smaller apertures increased edge stress at fixed porosity, whereas porosity had a smaller stress effect (S009:C01).",
+      "CFD predicted non-monotonic permeability and pressure drop with aperture. At Phi=80%, D=800 micrometres gave pressure drop 66 N/m3 and maximum permeability 1.87e-8 m2, compared with the reported natural-bone reference 1.50e-10 m2 and pressure drop 4.153e3 N/m3 (S010:C01).",
+      "At seven days, Phi=80%, D=800 micrometres showed more MC3T3-E1 attachment and pseudopodial spreading than D=600 or 1,000 micrometres; the paper attributes this to local permeability and mixed pore sizes (S010:C02)."
+    ],
+    "highest_evidence_level_reached": "Parametric nominal-design study with static mechanical experiment/FE comparison, unvalidated CFD transport prediction, and short-term in-vitro cell-attachment proxy; no fatigue, orthotopic, animal, fixation, or clinical evidence."
+  },
+  "argument_map": {
+    "central_claim": "A probability-ball/Voronoi irregular scaffold can tune aperture and porosity to produce a trade-off between bone-range static stiffness/strength, fluid transport, and short-term cell attachment, with D=800 micrometres and Phi=80% presented as a balanced condition.",
+    "data": [
+      "Fifteen nominal designs and fitted parameter relations establish the controllable architecture axis (S003:C01).",
+      "Compression data and FE stress maps show that aperture is a stronger mechanical lever than porosity for the tested range (S008:C01-S009:C01).",
+      "CFD and confocal images jointly associate the D=800/Phi=80 condition with the highest modeled permeability and more attached cells, while D=600 and D=1,000 are less favorable (S010:C01-S010:C02)."
+    ],
+    "warrant": "A scaffold architecture should be selected using aligned mechanical and transport endpoints because maximizing pore size or porosity alone can weaken support or fail to maximize permeability; cellular attachment remains a proxy rather than proof of bone integration.",
+    "backing": [
+      "The compression ranges are compared with broad natural-bone modulus and strength ranges (S008:C01; S011:C01).",
+      "The CFD model uses Darcy permeability and a natural-bone flow reference, while the cell experiment provides an orthogonal surface-attachment readout (S006:C01; S010:C01-S010:C02)."
+    ],
+    "qualifier": "The conclusion is supported for the tested nominal Ti6Al4V geometries, static loading, water-flow assumptions, and MC3T3-E1 culture duration.",
+    "rebuttals_or_boundaries": [
+      "The paper says the design can accurately match natural bone, but natural bone is heterogeneous and the reported comparisons do not establish anatomical or interface equivalence (S001:C01; S011:C01).",
+      "The permeability optimum is model-dependent and non-monotonic; larger aperture and porosity are not uniformly better (S010:C01-S010:C02).",
+      "Actual additively manufactured surface area is larger than the design, increasing flow friction; this as-built effect is acknowledged but not quantitatively propagated through the mechanical or CFD validation (S010:C02).",
+      "Cell attachment after seven days does not demonstrate osteogenic differentiation, bone ingrowth, fixation, durability, or stress-shielding prevention."
+    ],
+    "argument_coherence": "moderate_for_multiobjective_nominal_design_low_to_moderate_for_bone_implant_translation"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Printed-specimen stress-strain behavior, apparent elastic modulus, and ultimate compressive stress across porosity/aperture groups (S005:C01; S008:C01-S008:C02).",
+      "MC3T3-E1 absorbance time points and seven-day confocal attachment morphology (S007:C01; S010:C02)."
+    ],
+    "predicted": [
+      "FE stress distribution and nominal compression response (S004:C01; S009:C01).",
+      "CFD velocity, pressure drop, and Darcy permeability for idealized water flow (S006:C01; S010:C01).",
+      "Potential nutrient transport, cell migration, bone ingrowth, and stress-shielding implications (S001:C01; S010:C02)."
+    ],
+    "inferred": [
+      "Aperture is the dominant mechanical design lever and porosity has a smaller effect on compressive strength in the tested range (S008:C02; S009:C01).",
+      "The D=800/Phi=80 architecture is a balanced candidate because its modeled permeability and observed cell attachment are favorable without the weakest tested static strength (S008:C01; S010:C01-S010:C02).",
+      "The modeled transport field promotes future bone growth, although the endpoint remains a fluid/cell proxy (S010:C02)."
+    ],
+    "recommended": [
+      "Report replicate counts, variability, FE-to-test errors, mesh convergence, and full as-built geometric/metrology characterization.",
+      "Add fatigue and multiaxial mechanical tests, physiological or deformable-flow validation, osteogenic/in-vivo bone-ingrowth studies, and loaded interface or animal models before clinical translation."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Elastic modulus and ultimate compressive stress are static scaffold properties, not implant fatigue life or fixation strength.",
+      "CFD permeability and pressure drop are transport proxies, not measured nutrient delivery or tissue perfusion in vivo.",
+      "MC3T3-E1 attachment/pseudopodia are cellular adhesion proxies, not osteogenic differentiation, bone ingrowth, osseointegration, or clinical outcome.",
+      "Comparison with broad natural-bone ranges does not establish patient-specific stress shielding equivalence."
+    ],
+    "overclaim_risks": [
+      "The abstract and conclusion imply the scaffold can accurately match natural bone and address stress shielding/bone ingrowth despite no bone-interface or animal validation (S001:C01; S011:C01).",
+      "The statement that simulation results are verified by biological culture conflates a cell-attachment proxy with validation of mechanical or CFD predictions (S011:C01).",
+      "Calling D=800/Phi=80 a generally optimal design would exceed the single flow condition, short culture period, and unreported uncertainty (S010:C01-S010:C02)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Make the architecture axis explicit before reporting outcomes",
+      "execution": "The paper derives a fitted relation and then fixes five apertures across three porosities, so every mechanical, transport, and cell result can be read on the same design grid (S003:C01).",
+      "locator": "S003:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For a porous or graded scaffold, define the independent geometric variables, their feasible ranges, and the mapping to nominal designs before presenting any endpoint.",
+      "failure_mode": "A single selected geometry hides whether the apparent benefit is caused by aperture, porosity, irregularity, or an uncontrolled as-built change."
+    },
+    {
+      "section": "results",
+      "move": "Report mechanical and transport trade-offs together",
+      "execution": "Compression results show larger apertures lower modulus/strength, while CFD shows a non-monotonic permeability optimum near D=800/Phi=80; the discussion rejects a simple larger-pore-is-better rule (S008:C01-S008:C02; S010:C01).",
+      "locator": "S010:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Present multi-objective scaffold screening as linked response surfaces and identify the constraint that makes a candidate balanced rather than merely maximal on one endpoint.",
+      "failure_mode": "Selecting the maximum permeability or pore size without checking strength can produce a mechanically inadequate scaffold."
+    },
+    {
+      "section": "discussion",
+      "move": "Separate nominal simulation, printed mechanics, and cell proxy roles",
+      "execution": "The study uses FE/CFD for nominal fields, compression for static printed behavior, and MC3T3-E1 imaging for attachment; each supports a different rung of the argument rather than validating all others (S004:C01; S005:C01; S007:C01; S010:C02).",
+      "locator": "S010:C02",
+      "effectiveness": "moderate",
+      "transferable_principle": "Assign each experiment and simulation an explicit verification, calibration, validation, sensitivity, or application-prediction role before synthesizing a translational claim.",
+      "failure_mode": "A cell-adhesion result cannot be used as validation of CFD or as proof of osseointegration, and a nominal FE result cannot be treated as as-built fatigue evidence."
+    }
+  ],
+  "limitations": {
+    "author_reported": [],
+    "reader_identified": [
+      "Replicate counts, standard deviations or confidence intervals, sample-size rationale, and outlier handling are not reported for the printed groups or cell assay.",
+      "FE model verification is incomplete: no mesh-convergence result is shown, the scaffold is assigned homogeneous Ti6Al4V, and static compression omits fatigue, tension, bending, and defect sensitivity.",
+      "CFD is single-phase water flow with rigid scaffold walls, fixed inlet velocity, no pulsatile or deformable scaffold-fluid coupling, and no experimental permeability validation.",
+      "Nominal CAD/ideal mesh and printed as-built geometry are not quantitatively compared; the paper acknowledges extra printed surface area and friction but does not propagate it through the model.",
+      "MC3T3-E1 attachment over seven days is not an osteogenic, vascular, animal, or bone-implant integration endpoint.",
+      "Natural-bone modulus, strength, and permeability references are broad and may not match the anatomical site or loading state of a clinical implant."
+    ],
+    "likely_bias_direction": [
+      "Choosing the D=800/Phi=80 group for favorable permeability and attachment may emphasize a balanced-looking candidate without a prespecified multi-objective criterion or uncertainty.",
+      "Idealized CFD and CAD geometry likely overestimate transport uniformity and may miss AM-induced roughness, partially fused struts, and local stress raisers.",
+      "Short-term 2D cell attachment may overstate the biological significance of a fluid-permeability optimum."
+    ],
+    "scope_boundary": "The work supports controllable nominal Voronoi architecture and tested static/measured in-vitro trends; it does not establish fatigue durability, deformable physiological transport, osseointegration, implant fixation, stress-shielding reduction in bone, or clinical performance."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC8724551-01",
+      "capability": "Represent porous-scaffold screening on one explicit architecture axis and connect each response to the variable that controls it before naming a design candidate.",
+      "manuscript_use": "Methods design-space description and Results response-surface synthesis.",
+      "applicable_domains": [
+        "porous_scaffold",
+        "additive_manufacturing",
+        "bone_implant",
+        "finite_element_modeling"
+      ],
+      "applicable_study_designs": [
+        "parametric_design",
+        "mixed_numerical_experimental"
+      ],
+      "supporting_locators": [
+        "S003:C01",
+        "S008:C01",
+        "S008:C02",
+        "S009:C01",
+        "S010:C01"
+      ],
+      "counterexample_or_boundary": "The relation is nominal and study-specific; as-built defects, fatigue, and anatomical loading can change the apparent best design.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC8724551-02",
+      "capability": "Assign separate evidence roles to FE/CFD predictions, printed static mechanics, and cellular proxies so that a multi-modal scaffold study does not collapse them into one validation claim.",
+      "manuscript_use": "Methods validation ledger, Results integration, and Discussion boundary paragraph.",
+      "applicable_domains": [
+        "finite_element_modeling",
+        "transport_modeling",
+        "bone_regeneration",
+        "biomaterials"
+      ],
+      "applicable_study_designs": [
+        "mixed_numerical_experimental",
+        "in_vitro"
+      ],
+      "supporting_locators": [
+        "S004:C01",
+        "S005:C01",
+        "S006:C01",
+        "S007:C01",
+        "S010:C02"
+      ],
+      "counterexample_or_boundary": "A short cell-attachment assay cannot validate fluid transport or prove bone ingrowth, and the packet reports no quantitative FE-to-test error.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC8724551-03",
+      "capability": "Preserve non-monotonic and adverse results when selecting a scaffold, explicitly showing why an intermediate architecture is balanced and why extreme pore sizes fail one of the required functions.",
+      "manuscript_use": "Results trade-off paragraph, design-selection rationale, and translational limitations.",
+      "applicable_domains": [
+        "porous_scaffold",
+        "transport",
+        "bone_implant"
+      ],
+      "applicable_study_designs": [
+        "design_screening",
+        "multiobjective_optimization"
+      ],
+      "supporting_locators": [
+        "S008:C01",
+        "S008:C02",
+        "S010:C01",
+        "S010:C02"
+      ],
+      "counterexample_or_boundary": "The intermediate D=800/Phi=80 condition is not a universal optimum because physiological flow, fatigue, manufacturing variation, and cell phenotype were not tested.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_to_high_for_nominal_parametric_scaffold_screening",
+    "methods_transparency": "moderate",
+    "validation_credibility": "moderate_for_static_mechanics_low_for_CFD_and_bone_integration",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "moderate_for_within_grid_comparisons_low_to_moderate_for_broad_natural_bone_references",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "No reported replicate variability or quantitative FE-to-experiment agreement.",
+      "Idealized static FE and unvalidated rigid-wall CFD are not as-built or physiological validation.",
+      "Cell attachment is short-term and does not validate osseointegration, fixation, fatigue, or stress shielding."
+    ],
+    "overall_credibility": "moderate_for_nominal_mechanical_and_transport_trends_low_for_clinical_or_bone_integration_claims"
+  },
+  "summary_zh": "该研究把概率球-Voronoi 参数化设计、静态压缩、FE 应力、CFD 渗透和 MC3T3-E1 细胞黏附放在同一组孔隙率/平均孔径轴上。名义设计显示平均孔径是弹性模量和强度的主要杠杆；孔隙率对强度影响较小。渗透率随孔径呈非单调变化，80% 孔隙率、800 微米孔径的模型达到 1.87×10^-8 m2 和 66 N/m3 压降，七天细胞黏附也较好，但这只是理想化 CFD 与短期细胞代理。论文没有给出重复数、FE-实验误差、网格收敛、疲劳、变形流体、动物骨长入或植入界面验证；因此可迁移的能力是“沿显式设计轴写清多目标权衡并分离各验证角色”，而不是把细胞黏附写成应力遮挡或临床整合已被验证。",
+  "reader_notes": [
+    "Primary Codex reader reviewed all 13 non-reference packet chunks in exact heading order: S001:C01 through S011:C01, including both chunks of S008 and S010.",
+    "The selection cue listing in_vivo_animal is not supported by the packet; the reported biological work is MC3T3-E1 in vitro culture with no animal implantation.",
+    "The paper uses a static FE model and a CFD transport model; it does not report fatigue testing, orthotopic fixation, or a quantitative FE-to-compression agreement metric.",
+    "The permeability exponent and units were checked against the packet text: D=800/Phi=80 is reported as 1.87e-8 m2 and natural bone as 1.50e-10 m2."
+  ],
+  "selection": {
+    "selection_reason": "manifest_all",
+    "primary_stratum": "additive_manufacturing",
+    "reading_order": 55
+  },
+  "source": {
+    "record_path": "records/PMC8724551.json.gz",
+    "source_record": "records/PMC8724551.json.gz",
+    "source_record_sha256": "7e559c0317120c67107b2a428ebd341b0cf5dc634dc5a442a6523a4df3bd0b38",
+    "source_hash": "7e559c0317120c67107b2a428ebd341b0cf5dc634dc5a442a6523a4df3bd0b38"
+  }
+}

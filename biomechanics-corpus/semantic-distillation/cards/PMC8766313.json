@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8766313",
+  "paper_id": "doi:10.3389/fsurg.2021.698179",
+  "pmcid": "PMC8766313",
+  "source_record_sha256": "33ab8c1b75e1172677323a65c602b91b7498cf73b98e4b21c6a69e3803452b54",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ed78ba3f407d52159e831cddec6e35cf3f63b5ffe8cd3b4555ae93d32cebdaf3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Novel Three-Dimensional Computational Method to Assess Rod Contour Deformation and to Map Bony Fusion in a Lumbopelvic Reconstruction After En-Bloc Sacrectomy",
+    "authors": "Eltes PE, Turbucz M, Fayad J, Bereczki F, Szőke G, Terebessy T, Lacroix D, Varga PP, Lazary A.",
+    "year": 2022,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2021.698179",
+    "publication_type": "methods-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10761207",
+  "paper_id": "doi:10.1093/rb/rbad111",
+  "pmcid": "PMC10761207",
+  "source_record_sha256": "c6a22b4a7d8e35bcb97d0f91606c70df68da38409de600d2cf2a79bbcd7fbf05",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ff8601d5687472e2bd508083f596ab48281a72c5b0de54dea64a4b16250dce5d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fibrous topology promoted pBMP2-activated matrix on titanium implants boost osseointegration",
+    "authors": "He T, Wang Y, Wang R, Yang H, Hu X, Pu Y, Yang B, Zhang J, Li J, Huang C, Jin R, Nie Y, Zhang X.",
+    "year": 2023,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbad111",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

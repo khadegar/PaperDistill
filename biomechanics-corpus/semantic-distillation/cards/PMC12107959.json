@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12107959",
+  "paper_id": "doi:10.1186/s13018-025-05940-8",
+  "pmcid": "PMC12107959",
+  "source_record_sha256": "8499f2f1b8b4bb46dbc33e68dfef5de4bd8cfcb5eae5a920e5eb10cd3d13dcd0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e66857dfda331de72548d88ac7989c03aa57c2263192c57a069c59da74316f26",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Efficacy and safety of three-dimensional printing technology assisted open reduction and internal fixation versus conventional surgery in the treatment of acetabular fractures: a meta-analysis of randomized controlled trials",
+    "authors": "Liu W, Zhang C, Liu J, Feng P, Yi P, Xiong Z, Wang G.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-05940-8",
+    "publication_type": "Meta-Analysis; Comparative Study; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

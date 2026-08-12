@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10303678",
+  "paper_id": "doi:10.3390/ma16124467",
+  "pmcid": "PMC10303678",
+  "source_record_sha256": "8f28568360a7ab25b6171e73fca2b446eb03d7b05086a0086ec2fa40c2c67a64",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "471f918d95c72e9e7b5692535b0859792940932a8017cd77ac8ed60f809861cd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fracture Toughness and Fatigue Crack Growth Analyses on a Biomedical Ti-27Nb Alloy under Constant Amplitude Loading Using Extended Finite Element Modelling",
+    "authors": "Abdellah MY, Alharthi H.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16124467",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

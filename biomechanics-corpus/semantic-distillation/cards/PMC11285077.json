@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11285077",
+  "paper_id": "doi:10.3762/bjnano.15.77",
+  "pmcid": "PMC11285077",
+  "source_record_sha256": "3012990d7f2261e9f01a3a821b64864bd03f9057e452adcb64902cfdf3457158",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "eaa590f6c033a7279624e4976d437d50898cf65c5e545ad9eefccf584db424a4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Electrospun nanofibers: building blocks for the repair of bone tissue",
+    "authors": "Serim TM, Amasya G, Eren-Böncü T, Şengel-Türk CT, Özdemir AN.",
+    "year": 2024,
+    "journal": "Beilstein Journal of Nanotechnology",
+    "doi": "10.3762/bjnano.15.77",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

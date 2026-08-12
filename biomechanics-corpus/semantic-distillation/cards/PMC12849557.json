@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12849557",
+  "paper_id": "doi:10.1186/s13018-025-06601-6",
+  "pmcid": "PMC12849557",
+  "source_record_sha256": "8b025ebef5c51dc8d7de0bb5acbd38e7e82a5d8558bd7b0d2387e981cc696a69",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "af96ed6b705bad5114dd6af2fd1b7a2218d7a26f5904e20b1b45a0bf4ab45c9d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modeling and simulation of a porous mobility total ankle arthroplasty implant: enhancing bone-in growth and reducing micromotion for improved fixation",
+    "authors": "Hassan M, Aljohany M, Alzahrani AH, Alsirhani H.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-06601-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

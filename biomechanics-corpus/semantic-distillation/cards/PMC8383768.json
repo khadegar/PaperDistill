@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8383768",
+  "paper_id": "doi:10.3892/etm.2021.10551",
+  "pmcid": "PMC8383768",
+  "source_record_sha256": "756345fcc0ef02d80fd601000c0acc9a11d232989ae9ac00932d58c2a0747659",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0f73a4e8ce334e13a748be0d1c65a1a41842295dc69eef09634c3a78278b0fcb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stress analysis of the thoracolumbar junction in the process of backward fall: An experimental study and finite element analysis",
+    "authors": "Sun PD, Zhang XX, Zhang YW, Wang Z, Wu XY, Wu YC, Yu XL, Gan HR, Liu XD, Ai ZZ, He JY, Dong XP, Dong XP.",
+    "year": 2021,
+    "journal": "Experimental and Therapeutic Medicine",
+    "doi": "10.3892/etm.2021.10551",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

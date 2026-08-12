@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8084842",
+  "paper_id": "doi:10.1007/s10856-021-06527-5",
+  "pmcid": "PMC8084842",
+  "source_record_sha256": "205c9fe99f2e56d9ace885dede265c286b84c7e92a894db853ee8a3e3c87f647",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ab453d2ea891a0dd139deb49aa98c4eb6eaee2f807cabc80a2e1c9e26004ef5b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vivo analysis of a proprietary glass-based adhesive for sternal fixation and stabilization using rabbit and sheep models",
+    "authors": "Mehrvar C, Deignan E, Hurtig M, Cohen G, Zalzal P, Safir O, Alhalawani A, Papini M, Towler MR.",
+    "year": 2021,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-021-06527-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

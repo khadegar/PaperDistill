@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12463924",
+  "paper_id": "doi:10.3389/fbioe.2025.1639788",
+  "pmcid": "PMC12463924",
+  "source_record_sha256": "ff2e0dbc8a31f4bf9e25e57e9f0e2d952b70c79f9948d54f1e2fef5750249bd5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a9bcbd75887b4e98e8a56a1c850cd202c378dbb51251648ab5237e5604f7b5c6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical deformations of bone generate interstitial fluid flow at nanoscale velocities around osteocytes",
+    "authors": "Muñoz A, De Paolis A, Cardoso L, Carriero A.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1639788",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

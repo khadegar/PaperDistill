@@ -1,0 +1,226 @@
+{
+  "study": {
+    "article_kind": "original_methods_and_engineering_validation_study",
+    "design_features": [
+      "periodic_cell_structure_classification",
+      "TPMS_Walled_TPMS_SplitP_design",
+      "DMLS_Ti6Al4V_specimen_fabrication",
+      "finite_element_convergence_and_cross_solver_check",
+      "digital_image_correlation_compression_testing"
+    ],
+    "research_problem": "Periodic cellular implants are difficult to name reproducibly and to size for a target stiffness because cell topology, porosity, manufacturing deviation, plate indentation, cell rearrangement, and measurement method all affect the apparent modulus. Crosshead displacement can include the testing machine and contact-chain deformation, producing misleading implant properties.",
+    "exact_gap": "The literature lacks a uniform designation for periodic cell structures and a reliable stiffness-sizing workflow that couples FE prediction, as-built characterization, and fine strain measurement. The authors also seek a method that can support future patient-specific implant design and drug-storage concepts without claiming that those clinical applications were tested here.",
+    "objective_or_hypothesis": "Classify periodic open-cell structures, select a low-direction-dependence Walled TPMS SplitP design, and develop a multi-step FE/DMLS/DIC procedure that corrects manufacturing deviation and measures stiffness accurately enough to tune a cellular specimen toward bone-like modulus.",
+    "study_design": "Original engineering-methods study: literature-informed classification and FE RVE polar diagrams; two Ti6Al4V Walled TPMS SplitP specimen scales (fine 3.4 mm cell/0.4 mm wall and coarse 14 mm cell/2 mm wall) manufactured by DMLS; monotonic compression at 2 mm/min with optical DIC strain; nTopology FE with convergence and Ansys cross-solver checks; mass/microscopy correction for excess powder and wall thickening. Replicate count per specimen type is not reported.",
+    "sample_or_model": "Two 30 x 30 x 30 mm characteristic cellular specimens, one fine and one coarse geometry, produced in medical-grade Ti6Al4V on an EOS M100 DMLS printer. FE models include 1D beam and 3D solid RVE/whole-specimen representations; no animal implantation, patient CT design, clinical cohort, or drug-release experiment is performed.",
+    "comparators": [
+      "Beam, Walled TPMS, other TPMS, and common periodic cell classifications",
+      "Fine 3.4 mm cell/0.4 mm wall versus coarse 14 mm cell/2 mm wall",
+      "Nominal CAD wall/pore geometry versus mass/microscopy-corrected as-built geometry",
+      "nTopology FE versus Ansys FE and DIC optical strain versus crosshead displacement",
+      "Unrounded versus rounded cutouts and TPMS shell versus proposed TPMS/Kelvin hybrid drug-storage design"
+    ],
+    "method_spine": [
+      "Classify open-cell periodic architectures and use FE polar diagrams/convergence to select a low-anisotropy Walled TPMS SplitP structure while acknowledging drug-storage trade-offs.",
+      "Define cell diameter, wall/beam diameter, and porosity as a reproducible structure notation and manufacture fine/coarse Ti6Al4V specimens by DMLS.",
+      "Compress specimens at room temperature with contactless DIC, multiple gauge locations, and iterative loading while documenting cell rotation, slip, plate indentation, and gauge-length effects.",
+      "Measure mass and microstructure, increase modeled wall thickness to represent adhered powder, and compare corrected FE predictions with DIC results.",
+      "Cross-check nTopology with Ansys, test cutout anisotropy, and propose a TPMS-shell/Kelvin-core concept for drug storage and isotropy; no patient-specific validation is conducted."
+    ],
+    "validation_roles": {
+      "verification": [
+        "FE mesh convergence was performed before RVE simulations, and nTopology results were checked against Ansys; beam versus 3D-solid element limitations are explicitly discussed (S003:C01; S006:C02).",
+        "Mass, optical microscopy, and SEM verify manufacturing deviation and excess powder on fine specimens before corrected simulation (S006:C01)."
+      ],
+      "calibration": [
+        "The corrected FE model calibrates wall thickness/porosity to mass and microscopy observations rather than using nominal CAD alone; repeat iterations are used to tune target modulus (S006:C01; S007:C01).",
+        "No patient load-history calibration or in-vivo interface calibration is reported."
+      ],
+      "validation": [
+        "DIC compression measurements provide specimen-level experimental comparison for the corrected FE predictions, while Ansys provides a cross-solver check; replicate number and independent specimen split are not reported (S005:C01; S006:C01-S006:C03).",
+        "The method is not validated against bone-implant osseointegration, drug release, patient-specific anatomy, or clinical revision outcomes."
+      ],
+      "sensitivity": [
+        "Cell size, wall thickness, porosity, gauge length, point distance from compression plates, cutout shape, cell-row count, and element dimensionality are varied qualitatively or by FE simulation (S003:C01; S006:C02-S006:C04).",
+        "No formal uncertainty propagation, fatigue, wet/sterilized material-state, or biological sensitivity analysis is reported."
+      ],
+      "application_prediction": [
+        "Bone-like elastic modulus tuning, patient-specific implant load transfer, and programmed drug storage are proposed applications; they are not measured in a patient, animal, or drug-release test (S001:C01; S002:C03; S007:C01).",
+        "The TPMS/Kelvin hybrid and rounded cutout recommendations are design predictions requiring subsequent validation (S006:C03-S006:C04)."
+      ]
+    },
+    "primary_outcomes": [
+      "The review-informed classification identifies TPMS/Walled TPMS as low-direction-dependence candidates; Walled TPMS SplitP permits wall-thickness and pore-size modulation, while beam cells offer higher porosity for drug storage but create an anisotropy/osseointegration trade-off (S003:C01).",
+      "Fine specimens (3.4 mm cell, 0.4 mm wall) were heavier and stiffer than nominal CAD predictions because semi-molten powder adhered inside pores and effectively thickened walls; corrected simulation correlated much better with DIC measurements (S006:C01).",
+      "Crosshead-derived modulus was reported as much lower, sometimes about an order of magnitude lower, than DIC/FE values because machine/load-chain deformation and plate indentation were included; DIC with gauge length at least two cells and points at least two cells from plates was recommended (S006:C02; S007:C01).",
+      "nTopology and Ansys agreed closely for the corrected fine specimen, whereas coarse-specimen Ansys variance and measurement uncertainty were larger; coarse geometry was closer to CAD and did not require the same correction (S006:C01-S006:C03).",
+      "Cutout simulations showed decreasing modulus and increasing anisotropy with removed material; the authors treated >10% max-min modulus deviation as unacceptable and estimated at least two remaining cell rows for unrounded and one for rounded cutouts to preserve isotropy (S006:C03).",
+      "The conclusion claims first-iteration accuracy of approximately 5-10% with further iterations improving accuracy, but the packet does not report replicate-level confidence intervals or a patient-specific implant demonstration (S007:C01)."
+    ],
+    "highest_evidence_level_reached": "Engineering-method verification and specimen-level FE/DIC validation with manufacturing correction; no bone-interface validation, in-vivo osseointegration, drug-release evidence, patient-specific CT implementation, or clinical outcome is reached."
+  },
+  "argument_map": {
+    "central_claim": "A reproducible cellular-structure notation plus as-built mass/microscopy correction, converged FE, cross-solver comparison, and optical DIC can produce more credible stiffness estimates than crosshead displacement alone for the tested Ti6Al4V specimens.",
+    "data": [
+      "Structure classification and polar diagrams motivate Walled TPMS SplitP as a low-anisotropy compromise, not as a clinically validated implant geometry (S003:C01).",
+      "Fine-specimen excess powder, corrected wall thickness, DIC gauge placement, and nTopology/Ansys comparison explain why nominal FE and crosshead-derived modulus disagree (S006:C01-S006:C02).",
+      "Coarse-specimen uncertainty and cutout anisotropy show that measurement length, contact distance, geometry, and remaining cell rows condition the method (S006:C03-S006:C04)."
+    ],
+    "warrant": "A stiffness-sizing workflow is transferable only if geometry naming, manufacturing state, deformation measurement, FE dimensionality, gauge placement, and correction/calibration are recorded together; the workflow does not establish biological or clinical performance.",
+    "backing": [
+      "The authors identify crosshead displacement and plate indentation as systematic sources of false low modulus in prior cellular-structure studies (S002:C02; S006:C02).",
+      "Corrected fine-specimen simulations align better with DIC, and independent Ansys comparison supports implementation consistency under the reported conditions (S006:C01-S006:C02)."
+    ],
+    "qualifier": "Methodological evidence for small DMLS Ti6Al4V specimens and stated FE/measurement settings; patient-specific and biological claims remain proposals.",
+    "rebuttals_or_boundaries": [
+      "Specimen replicate counts, exact modulus values, uncertainty distributions, and wet/sterilized or cyclic behavior are not reported.",
+      "The selected TPMS SplitP structure is one engineering choice; other topologies and functional gradients may trade anisotropy, porosity, drug volume, and integration differently.",
+      "FE/DIC agreement does not validate bone ingrowth, drug release, stress shielding reduction, implant survival, or revision reduction.",
+      "Patient-specific load transfer is discussed as a future CT-based application without an actual patient geometry, surgery, or clinical validation."
+    ],
+    "argument_coherence": "high_for_measurement_method_moderate_for_stiffness_tuning_low_for_patient_specific_or_biological_translation"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "DMLS process settings, specimen geometry, mass/microscopy/SEM evidence of excess powder, DIC strain/displacement, plate indentation, and compression behavior are measured for the tested specimens (S004:C01; S005:C01; S006:C01-S006:C03).",
+      "The manuscript reports no animal, clinical, drug-release, or direct bone-interface measurement."
+    ],
+    "predicted": [
+      "RVE/whole-specimen FE predicts modulus, anisotropy, cutout behavior, and stress distributions for selected cell geometries; nTopology and Ansys outputs remain model predictions despite cross-solver agreement (S003:C01; S006:C02-S006:C04).",
+      "Proposed patient-specific load transfer, bone-equivalent stiffness, and TPMS/Kelvin drug-storage performance are application predictions (S002:C03; S006:C04; S007:C01)."
+    ],
+    "inferred": [
+      "Correcting wall thickness to as-built mass/microscopy is inferred to improve stiffness sizing reliability; validation is limited to the tested specimens and software comparisons (S006:C01).",
+      "Optical DIC is inferred to be more trustworthy than crosshead displacement for cellular compression because it excludes machine/load-chain deformation, but contact indentation and cell rearrangement remain important boundary effects (S002:C02; S006:C02).",
+      "Lower anisotropy and bone-like modulus are inferred to reduce stress shielding and support osseointegration, without a biological experiment or patient outcome (S001:C01; S003:C01)."
+    ],
+    "recommended": [
+      "Report cell type, cell diameter, wall/beam diameter, porosity, as-built pore/wall distributions, specimen replicates, and uncertainty in every cellular-implant mechanics study (S007:C01).",
+      "Use corrected FE and optical strain measurements under wet, sterilized, cyclic, and clinically relevant loads, followed by interface and biological validation.",
+      "Validate CT-based patient-specific designs and TPMS/Kelvin drug release with anatomical, surgical, osseointegration, and pharmacokinetic endpoints before clinical translation."
+    ],
+    "proxy_to_outcome_bridges": [
+      "DIC/FE stiffness and anisotropy are engineering proxies; they do not establish stress-shielding reduction, bone ingrowth, fixation, or revision prevention.",
+      "A programmed-release cavity or hybrid geometry is a design concept, not measured drug concentration, release kinetics, or therapeutic efficacy (S006:C04).",
+      "Patient-specific CAD/load-transfer proposals do not substitute for CT-derived patient validation, surgery, follow-up, or clinical outcomes (S002:C03; S007:C01)."
+    ],
+    "overclaim_risks": [
+      "The abstract's bone-equivalent 7-20 GPa stiffness and reduced revision/stress shielding language can be read as clinical evidence despite specimen-only mechanics (S001:C01).",
+      "The 5-10% first-iteration accuracy claim lacks replicate counts and uncertainty, especially for the coarse geometry where Ansys and DIC variance were high (S006:C03; S007:C01).",
+      "Walled TPMS SplitP's favorable anisotropy does not prove optimal osseointegration or drug release; beam/TPMS trade-offs remain unresolved (S003:C01)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Separate personalization motivation from tested engineering method",
+      "execution": "The introduction frames patient-specific implants and drug storage as motivations, then identifies measurement-chain errors and stiffness-sizing gaps that the study actually addresses (S002:C01-S002:C03).",
+      "locator": "S002:C02",
+      "effectiveness": "high",
+      "transferable_principle": "State the clinical design problem, then freeze the experimentally tested endpoint before discussing future translation.",
+      "failure_mode": "A patient-specific motivation can be mistaken for patient-specific design validation."
+    },
+    {
+      "section": "methods",
+      "move": "Classify cellular structures with explicit geometry parameters and trade-offs",
+      "execution": "The selection section labels cell type, diameter, wall/beam diameter, porosity, anisotropy, pore-size modulation, and drug-storage conflict before choosing Walled TPMS SplitP (S003:C01).",
+      "locator": "S003:C01",
+      "effectiveness": "high",
+      "transferable_principle": "A cellular structure name is insufficient; record the dimensions and trade-offs that define its mechanical and biological state.",
+      "failure_mode": "Calling a topology 'isotropic' or 'patient-specific' without geometry, porosity, and cutout context hides directional behavior."
+    },
+    {
+      "section": "results",
+      "move": "Use an as-built correction loop before interpreting FE/mechanical agreement",
+      "execution": "Fine specimens are measured for excess powder and wall thickening, corrected FE is compared with DIC, and crosshead displacement is rejected as a biased strain proxy (S006:C01-S006:C02).",
+      "locator": "S006:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Separate nominal design, measured manufacturing deviation, corrected model, and experimental strain before reporting a stiffness result.",
+      "failure_mode": "A nominal CAD simulation can appear to disagree with a test when the test includes machine/plate deformation or as-built thickening."
+    },
+    {
+      "section": "discussion",
+      "move": "Make uncertainty and cutout boundaries part of the design recommendation",
+      "execution": "The coarse-specimen variance, gauge-length/contact constraints, anisotropy threshold, and TPMS/Kelvin hybrid proposal are presented as conditions and next steps rather than as a validated implant design (S006:C03-S006:C04; S007:C01).",
+      "locator": "S006:C03",
+      "effectiveness": "moderate",
+      "transferable_principle": "For customized cellular implants, state the geometric boundary and uncertainty that would invalidate a stiffness or isotropy claim.",
+      "failure_mode": "A hybrid or rounded cutout concept can be promoted to clinical drug delivery or osseointegration without its own validation."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The literature and measurements are described as imprecise/unsystematic, motivating a new workflow (S002:C02; S007:C01).",
+      "Coarse cell structures show greater variance and difficulty maintaining two-cell gauge lengths away from plates; cutout geometry increases anisotropy and uncertainty (S006:C02-S006:C03).",
+      "Hybrid TPMS/Kelvin drug-storage and CT-based personalized interface applications are proposed as future work rather than demonstrated (S006:C04; S007:C01)."
+    ],
+    "reader_identified": [
+      "Replicate number, specimen-level modulus values, confidence intervals, and exact DIC/FE error metrics are not visible in the packet.",
+      "Tests are at room temperature and monotonic compression; wet/sterilized, cyclic/fatigue, defect, and interface conditions are absent.",
+      "The FE/DIC method is validated only at specimen scale and does not model bone, tissue remodeling, drug transport, or surgery.",
+      "Patient-specific design is a stated future application with no CT-derived patient model, anatomical constraints, or clinical follow-up."
+    ],
+    "likely_bias_direction": [
+      "Selecting Walled TPMS SplitP and reporting corrected fine-specimen agreement may favor the proposed workflow while underrepresenting other topologies and loading regimes.",
+      "Short, monotonic, dry testing may overstate stiffness repeatability and understate fatigue, fluid, and biological variability.",
+      "Cross-solver agreement can appear stronger than specimen-independent validation because both models share geometry/material assumptions."
+    ],
+    "scope_boundary": "This paper supports a reproducible engineering workflow for naming, as-built correction, FE checking, and DIC measurement of selected Ti6Al4V periodic cellular specimens. It does not establish patient-specific implant efficacy, osseointegration, drug-release performance, fatigue durability, or reduced revision rates."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC10254473-01",
+      "capability": "Freeze cellular-structure identity as cell type, cell diameter, wall/beam diameter, porosity, material state, and cutout geometry before comparing stiffness or anisotropy.",
+      "manuscript_use": "Cell-design Methods, reproducibility table, and engineering audit.",
+      "applicable_domains": ["cellular_implants", "TPMS", "patient_specific_design"],
+      "applicable_study_designs": ["FE_design", "mechanical_testing", "additive_manufacturing"],
+      "supporting_locators": ["S003:C01", "S004:C01", "S006:C03", "S007:C01"],
+      "counterexample_or_boundary": "A topology label or polar diagram without as-built geometry and cutout boundary cannot establish isotropy or patient-specific mechanics.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10254473-02",
+      "capability": "Use an as-built correction loop—mass/microscopy, corrected FE, optical strain, and cross-solver check—before interpreting a lattice stiffness result.",
+      "manuscript_use": "Manufacturing verification, FE validation, and Methods critique.",
+      "applicable_domains": ["additive_manufacturing", "implant_mechanics", "FE_validation"],
+      "applicable_study_designs": ["DMLS_specimen", "compression_test", "FE_model"],
+      "supporting_locators": ["S005:C01", "S006:C01", "S006:C02"],
+      "counterexample_or_boundary": "Crosshead displacement, nominal CAD, and cross-solver agreement do not replace independent wet/fatigue or bone-interface validation.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10254473-03",
+      "capability": "Keep patient-specific and drug-storage claims in the application-prediction ledger until CT anatomy, release kinetics, tissue integration, and clinical endpoints are independently measured.",
+      "manuscript_use": "Translational Discussion, limitation section, and claim audit.",
+      "applicable_domains": ["patient_specific_implants", "drug_eluting_scaffolds", "porous_biomaterials"],
+      "applicable_study_designs": ["design_method", "preclinical_validation", "clinical_translation"],
+      "supporting_locators": ["S001:C01", "S002:C03", "S006:C04", "S007:C01"],
+      "counterexample_or_boundary": "A bone-like modulus or hybrid cavity is not evidence of osseointegration, local drug exposure, reduced revisions, or patient benefit.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_engineering_method",
+    "methods_transparency": "moderate",
+    "validation_credibility": "moderate_for_specimen_FE_DIC_agreement_low_for_biological_or_patient_specific_claims",
+    "outcome_uncertainty_reporting": "low_to_moderate",
+    "comparator_fairness": "moderate_for_two_geometry_scales_low_for_general_cellular_structures",
+    "conclusion_proportionality": "moderate_for_method_low_for_clinical_translation",
+    "critical_weaknesses": [
+      "Replicate counts and full uncertainty/error metrics are not reported.",
+      "Dry monotonic specimen tests omit cyclic, wet/sterilized, interface, biological, and patient-specific conditions.",
+      "Patient-specific load transfer and drug-storage applications remain unvalidated proposals."
+    ],
+    "overall_credibility": "high_for_the_reported_as_built_correction_and_measurement_workflow_moderate_for_FE_DIC_comparison_low_for_implant_or_clinical_translation"
+  },
+  "summary_zh": "这是一项原创工程方法研究，不是动物/临床研究。文章重新分类周期性细胞结构，选择Walled TPMS SplitP，并用DMLS Ti-6Al-4V细/粗两种试件、收敛FE、nTopology/Ansys交叉检查和DIC光学应变建立刚度测量流程。细胞试件中半熔粉末使实际壁变厚、孔隙变小，质量/显微镜修正后的FE才与DIC更吻合；横梁位移会把机器/压板变形算入并显著低估模量。建议测距至少两格且离压板至少两格。患者特异性载荷传递、药物储存和骨整合只是未来应用，未有CT患者、药代、动物或临床验证。",
+  "reader_notes": [
+    "Primary Luna reader read every non-reference packet chunk in heading order: S001:C01 through S014:C01, including all S002 and S006 continuation chunks and statements.",
+    "Full text supports original engineering-method research; in-vivo animal, clinical, and biological design cues are not supported by experiments in this paper.",
+    "Cellular-structure classification, patient-specific motivation, nominal versus as-built geometry, and FE/DIC validation levels are explicitly separated.",
+    "No references chunk was present and no substantive non-reference locator was omitted."
+  ]
+}

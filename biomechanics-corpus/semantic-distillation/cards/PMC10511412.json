@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10511412",
+  "paper_id": "doi:10.1038/s41598-023-42379-5",
+  "pmcid": "PMC10511412",
+  "source_record_sha256": "e42b91f6fac7fef76a80a1abd17fa5405712a2f4a5449c6f448533b4f7ccf330",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "00528f07c700c3fdec6927ab9e46ab9cefba6330a5fb7e17cc1cebc8c0b220cb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Leptin receptor gene deficiency minimally affects osseointegration in rats",
+    "authors": "Jolic M, Ruscsák K, Emanuelsson L, Norlindh B, Thomsen P, Shah FA, Palmquist A.",
+    "year": 2023,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-023-42379-5",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

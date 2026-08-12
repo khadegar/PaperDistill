@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12686661",
+  "paper_id": "doi:10.1016/j.bioactmat.2025.11.012",
+  "pmcid": "PMC12686661",
+  "source_record_sha256": "7899f3dc7ecd96f989ec35e0ad8fdd1b373233a557be1c4abd368bd5b9b3e731",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "833b6e07f4b19049793d80cadf4e73edbceb5bb1124468601064fb26c2d62db8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Magnesium ion implantation enhances the osseointegration and vascularization of 3D-Printed CoCrMo alloy scaffolds for load-bearing orthopedic applications",
+    "authors": "Dong Z, Gao C, Wang X, Zhang T, Geng X, Chen J, Feng J, Zheng Y, Zhang Y, Han Z, Wang H, Tan J, Zhang X, Li Y, Li Z, Wei C, Cai Q, Tian H.",
+    "year": 2026,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2025.11.012",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

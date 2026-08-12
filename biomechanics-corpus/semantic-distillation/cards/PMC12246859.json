@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12246859",
+  "paper_id": "doi:10.1016/j.jot.2025.06.004",
+  "pmcid": "PMC12246859",
+  "source_record_sha256": "831e13cc6b8446822adfe146c73d7ae1472bb31fd10f461b67079805b1bec50c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7afead1499dac25df7390b3f8152f18896c0707430f282dc4baebff004d43bd3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dumbbell-shaped hydrogel plug for annulus fibrosus repair: From material design to in vivo validation",
+    "authors": "Nie MD, Bao BK, Zhang NZ, Cheng RS, Fu LJ, Cheng CK.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2025.06.004",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10173180",
+  "paper_id": "doi:10.1016/j.bioactmat.2023.04.017",
+  "pmcid": "PMC10173180",
+  "source_record_sha256": "65933bbf400589e77c6c025f1796ab29af0216f73a0bd3d9822c0ee31e755682",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5a117bdfd7a667b139408cb02c193204ea2ecbf25c74e4b2c41f25f413224e87",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A drug-loaded composite coating to improve osteogenic and antibacterial properties of Zn–1Mg porous scaffolds as biodegradable bone implants",
+    "authors": "Zhang Z, Liu A, Fan J, Wang M, Dai J, Jin X, Deng H, Wang X, Liang Y, Li H, Zhao Y, Wen P, Li Y.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2023.04.017",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8766592",
+  "paper_id": "doi:10.1038/s41598-022-04936-2",
+  "pmcid": "PMC8766592",
+  "source_record_sha256": "f00b8963176fadd40cbd180f7346f9b5f8d6f2ffc89f27a67aab03db84dbde03",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f8195fe220ad87c9acc242c763bb916a99c4d9cf6c0d23badb88a1df2596d4e2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of porous tantalum on periprosthetic bone remodeling around metaphyseal filling femoral stem: a multicenter, prospective, randomized controlled study",
+    "authors": "Motomura G, Mashima N, Imai H, Sudo A, Hasegawa M, Yamada H, Morita M, Mitsugi N, Nakanishi R, Nakashima Y.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-04936-2",
+    "publication_type": "research-article; Multicenter Study; Randomized Controlled Trial; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

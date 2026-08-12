@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3085057",
+  "paper_id": "doi:10.1007/s10856-011-4256-0",
+  "pmcid": "PMC3085057",
+  "source_record_sha256": "7fbb57cc152df64f4e0e08337b1f7dfd7b546db5b7883ffb402b509dab892936",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d8b98a2577f6dbf0ec779064b6a5f64deb043e81e25ddaac24dc4340daf438af",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Assessment of bone ingrowth potential of biomimetic hydroxyapatite and brushite coated porous E-beam structures",
+    "authors": "Biemond JE, Eufrásio TS, Hannink G, Verdonschot N, Buma P.",
+    "year": 2011,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-011-4256-0",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

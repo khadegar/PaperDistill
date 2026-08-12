@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8879030",
+  "paper_id": "doi:10.3390/polym14040669",
+  "pmcid": "PMC8879030",
+  "source_record_sha256": "270d98d3555e41cb5a9ac8c328067720f4ab51acc823c4b5bc3d2e846b33724a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3cc163fd155075e35ad92dec190b5c1e7d73e9c21523c5b57b79d4892618f161",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication and Characterization of PCL/HA Filament as a 3D Printing Material Using Thermal Extrusion Technology for Bone Tissue Engineering",
+    "authors": "Wang F, Tankus EB, Santarella F, Rohr N, Sharma N, Märtin S, Michalscheck M, Maintz M, Cao S, Thieringer FM.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14040669",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

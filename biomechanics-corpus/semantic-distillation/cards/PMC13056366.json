@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13056366",
+  "paper_id": "doi:10.26502/josm.511500256",
+  "pmcid": "PMC13056366",
+  "source_record_sha256": "d3c93b38d6b0d9525306cd337719df3ac1c710fe70a21dfcdcedd745a8783b11",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d76aa2501c926dcea71a40495287e47a1b8ecd9352db5c4d8085d8bfa00724c4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Long-term Performance and Durability of Biomaterials and Implant Designs in Total Joint Arthroplasty and Spinal Fusion",
+    "authors": "Parvizi D, Allahverdian A, Ayzenberg G, Kandikattu S, Sahafi R, Agrawal DK.",
+    "year": 2026,
+    "journal": "Journal of orthopaedics and sports medicine",
+    "doi": "10.26502/josm.511500256",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

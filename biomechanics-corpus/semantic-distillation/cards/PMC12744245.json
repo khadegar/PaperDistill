@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12744245",
+  "paper_id": "doi:10.7759/cureus.97992",
+  "pmcid": "PMC12744245",
+  "source_record_sha256": "45f676d778aab34db67cd1a78caea1e28c7f44eae75909160abfa14f18abb299",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f20cef90e0b24e74077ba0c926c9afbd16868665d75155bcb750ecd5feb98c11",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "From Models to Implants: The Expanding Role of 3D Printing in Orthopedic Care",
+    "authors": "Al Abid IK, Alghoul WI, Agha AA, Aloti RA, Abedi MM, Abdelfattah MT, Kharoufeh A, Omari A, Patni MM.",
+    "year": 2025,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.97992",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

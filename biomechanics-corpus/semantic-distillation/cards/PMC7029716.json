@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7029716",
+  "paper_id": "doi:10.3389/fbioe.2020.00061",
+  "pmcid": "PMC7029716",
+  "source_record_sha256": "286e9fb782f44caed1966f859b4eca044c66065d39f3af2e5f7222d2bf5d17db",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "746c20cdb1471f9e0506db2051bbaf7b733d478656791aa55ef66a4917985c01",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reconstruction of Large Skeletal Defects: Current Clinical Therapeutic Strategies and Future Directions Using 3D Printing",
+    "authors": "Vidal L, Kampleitner C, Brennan MÁ, Hoornaert A, Layrolle P.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.00061",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

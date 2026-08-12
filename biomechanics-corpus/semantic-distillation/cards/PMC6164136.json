@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6164136",
+  "paper_id": "doi:10.3390/bioengineering5030057",
+  "pmcid": "PMC6164136",
+  "source_record_sha256": "ce778b52c5dc2498a49158ddf49ae97f5b20764189ad1d2b8f5fb4437c58eb94",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "be06502d45805b8ec6223fbd08387e60316219f430cd8fd319456b3537c287b3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Trinity of Three-Dimensional (3D) Scaffold, Vibration, and 3D Printing on Cell Culture Application: A Systematic Review and Indicating Future Direction",
+    "authors": "Yuan H, Xing K, Hsu HY.",
+    "year": 2018,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering5030057",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

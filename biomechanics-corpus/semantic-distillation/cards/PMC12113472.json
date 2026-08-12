@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12113472",
+  "paper_id": "doi:10.3390/life15050818",
+  "pmcid": "PMC12113472",
+  "source_record_sha256": "63af80d18956cc7bc850ed33e360f44c3d66e0d71cd832e4ce6076178c4390e2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "31c9ac206e4e6542be1c781a04e69ba05d6fc9d95d95aa148d2994343faf0db3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteochondral Alterations in Patients Treated with Total Knee Arthroplasty Due to Rheumatoid Arthritis and Primary Osteoarthritis: Cross-Sectional Study with Focus on Elucidating Effects of Knee Malalignment",
+    "authors": "Baljozovic A, Lekovic A, Nikolic S, Djonic D, Djuric M, Bascarevic Z, Jadzic J.",
+    "year": 2025,
+    "journal": "Life",
+    "doi": "10.3390/life15050818",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

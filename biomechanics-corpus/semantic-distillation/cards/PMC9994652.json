@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9994652",
+  "paper_id": "doi:10.4317/jced.59885",
+  "pmcid": "PMC9994652",
+  "source_record_sha256": "e9bb737870bd4d5b4c896cb6ab9bcc04f914352d4cfd8df3bdec394145eb02dd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "18e161567ba16504cde41135f5c3ea8cb7487bdc6da1dd0e5ef2d5700e30261b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative analysis of biomechanical response between zygomatic implant and Facco technique through the three-dimensional finite element method",
+    "authors": "Costa EF, Penteado MM, Maior BS.",
+    "year": 2023,
+    "journal": "Journal of Clinical and Experimental Dentistry",
+    "doi": "10.4317/jced.59885",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

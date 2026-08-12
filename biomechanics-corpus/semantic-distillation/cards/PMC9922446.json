@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9922446",
+  "paper_id": "doi:10.1186/s13018-023-03535-9",
+  "pmcid": "PMC9922446",
+  "source_record_sha256": "b652e9928fa65392260f09ba874a7e4b172c6403ff0eeb91d8572a1bcfecf79e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "579bf57bc35671469d763fe1f4601542c203d13104e8231d45e9880a7354a249",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of posterior acetabular column plate and posterior acetabular wall prostheses in treating posterior acetabular fractures",
+    "authors": "Huang G, Wan Y, Chen K, Yin Z, Song Q, Xu Y, Guo X.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-03535-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

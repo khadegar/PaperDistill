@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9359536",
+  "paper_id": "doi:10.1371/journal.pone.0272283",
+  "pmcid": "PMC9359536",
+  "source_record_sha256": "4a90f461086bc1619180713f514802ccae97697b527c4b100c6ba0be1f369f77",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6185b8d5ee0c7eacfbda41e4e476a9d7dd75a87f448c39c44497afc3315436d4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "High resolution DLP stereolithography to fabricate biocompatible hydroxyapatite structures that support osteogenesis",
+    "authors": "Martinez JS, Peterson S, Hoel CA, Erno DJ, Murray T, Boyd L, Her JH, Mclean N, Davis R, Ginty F, Duclos SJ, Davis BM, Parthasarathy G.",
+    "year": 2022,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0272283.r004",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

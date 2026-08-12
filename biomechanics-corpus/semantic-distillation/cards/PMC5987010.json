@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5987010",
+  "paper_id": "doi:10.1016/j.jot.2015.08.003",
+  "pmcid": "PMC5987010",
+  "source_record_sha256": "042bca2095d642cd0fb1f3c2265e2994b62f514bf58c83f496ba1a2bf4fe21dd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4d07d9373eef006ad3e7960d4111abce9e221f88e11b5cb32d2d37059ce96bbf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of hydrogen gas evolution of magnesium implant on the postimplantation mortality of rats",
+    "authors": "Noviana D, Paramitha D, Ulum MF, Hermawan H.",
+    "year": 2015,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2015.08.003",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13106682",
+  "paper_id": "doi:10.1038/s41598-026-42423-0",
+  "pmcid": "PMC13106682",
+  "source_record_sha256": "7aea87658012185fc2978c87bf11d01f958f61b4c2a776a4bbfc72abfa45df5e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "546b8e6bff4bf85dfac5584252cf0f6b73143e66e1965de8e14d2153fcf71957",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Femoral finite element analysis of a novel cementless revision total knee arthroplasty system",
+    "authors": "Dong Z, Wang X, He D, Lv X, Zhang T, Li Z, Zhang X, Tian H.",
+    "year": 2026,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-026-42423-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

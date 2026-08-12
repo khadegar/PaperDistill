@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8561163",
+  "paper_id": "doi:10.31616/asj.2020.0353",
+  "pmcid": "PMC8561163",
+  "source_record_sha256": "d9774bfc26598cbca5119a019b346143d18592837b319f9052c3b08623504892",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "178e48cbcacf9b29e4748fb6647e495d0fef9883604194bb08bb656f9967cbc8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of Screw Diameter and Length on Pedicle Screw Fixation Strength in Osteoporotic Vertebrae: A Finite Element Analysis",
+    "authors": "Matsukawa K, Yato Y, Imabayashi H.",
+    "year": 2020,
+    "journal": "Asian Spine Journal",
+    "doi": "10.31616/asj.2020.0353",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

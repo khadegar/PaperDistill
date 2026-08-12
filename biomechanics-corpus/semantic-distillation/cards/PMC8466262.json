@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8466262",
+  "paper_id": "doi:10.3390/ph14090921",
+  "pmcid": "PMC8466262",
+  "source_record_sha256": "12d85b660044761794ad8dcad2c7a5f1c0150eea82c13b724734d42888a95eb4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "de42d0e308be2dc0361f27e2c8ea4d83ea6d98706892676024095ef53447441a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Use of 3D Printing for the Development of Biodegradable Antiplatelet Materials for Cardiovascular Applications",
+    "authors": "Domínguez-Robles J, Diaz-Gomez L, Utomo E, Shen T, Picco CJ, Alvarez-Lorenzo C, Concheiro A, Donnelly RF, Larrañeta E.",
+    "year": 2021,
+    "journal": "Pharmaceuticals",
+    "doi": "10.3390/ph14090921",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

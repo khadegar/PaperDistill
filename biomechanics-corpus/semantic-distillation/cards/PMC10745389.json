@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10745389",
+  "paper_id": "doi:10.3390/nano13243113",
+  "pmcid": "PMC10745389",
+  "source_record_sha256": "77b0ca1561c4e4f61af92fa26aabd3a25c27a9880fa304b208e1dfdc0b79051a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fe016c15d90e7b0f02d15ed2d4af2d4d19f4002aec94ac0d6f5ce58d6ce59e8e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Spatial Topological Structure Design of Porous Ti–6Al–4V Alloy with Low Modulus and Magnetic Susceptibility",
+    "authors": "Li Q, Li Q, Lu S, Pan D.",
+    "year": 2023,
+    "journal": "Nanomaterials",
+    "doi": "10.3390/nano13243113",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

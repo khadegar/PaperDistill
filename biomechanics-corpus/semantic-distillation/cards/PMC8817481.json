@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8817481",
+  "paper_id": "doi:10.1186/s12951-022-01277-0",
+  "pmcid": "PMC8817481",
+  "source_record_sha256": "36a6e027bc01d8e779650ce7950c788097457c812dc216027be1c4896e2ef54e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "07731f7ecb51fcce1c1da8c5f1d795aa71f14dca56e25d6c291c4013c1fcb8a0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A novel hierarchical biofunctionalized 3D-printed porous Ti6Al4V scaffold with enhanced osteoporotic osseointegration through osteoimmunomodulation",
+    "authors": "Wang W, Xiong Y, Zhao R, Li X, Jia W, Jia W.",
+    "year": 2022,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-022-01277-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

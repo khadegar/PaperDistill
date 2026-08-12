@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10762004",
+  "paper_id": "doi:10.1038/s41598-023-50716-x",
+  "pmcid": "PMC10762004",
+  "source_record_sha256": "6376f4c6f167fdb78eda76f39d82f8c6d4fa352a4b80379b3e2eb6d5c4e1a8fa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "77031745dee736aaae56a019d98a65644a910c9abca8b0532d26f369712f60b3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis and clinical study of chest wall reconstruction using carbon fiber artificial rib",
+    "authors": "Zhang X, Cai Z, Liu B, Liao J, Yu F, Tan Z, Wang B, Yang M, Zhang B.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-023-50716-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

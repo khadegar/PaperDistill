@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9213674",
+  "paper_id": "doi:10.3389/fbioe.2022.933135",
+  "pmcid": "PMC9213674",
+  "source_record_sha256": "4ddb4484561439a28f4d622cc42c256f0cc60cd1e4af25cbb2c16055fa7c5b8a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "274193a53f4239236fbdf1c2c3263c6159ac7b95199416b0fe8ecdf1b9ceec59",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Quercetin-Coating Promotes Osteogenic Differentiation, Osseointegration and Anti-Inflammatory Properties of Nano-Topographic Modificated 3D-Printed Ti6Al4V Implant",
+    "authors": "Liu N, Wang H, Fu Z, Zhang C, Hui W, Wu J, Zhang Y, Zhang S.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.933135",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8217271",
+  "paper_id": "doi:10.1038/s41598-021-90686-6",
+  "pmcid": "PMC8217271",
+  "source_record_sha256": "0e57a3f3cb67afde2f213effbb3d39a5791d0ed672d27c0604bd520736fda2e2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a2ac28daeae04aa810b62e8af1184ae9a2376f54e93f1b2aa947375a25435200",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stress distribution of different lumbar posterior pedicle screw insertion techniques: a combination study of finite element analysis and biomechanical test",
+    "authors": "Song M, Sun K, Li Z, Zong J, Tian X, Ma K, Wang S.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-90686-6",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

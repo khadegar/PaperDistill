@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7712050",
+  "paper_id": "doi:10.3390/jfb11040069",
+  "pmcid": "PMC7712050",
+  "source_record_sha256": "dcfed2c7a22585ce107801c79edaa21febe9fa83dc6427a336f9bd323d5b3496",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "57fab7ce8987080f0b7e1e2993471b9f6205da307af6497b4e0faa283599f0a1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Use of a Vibro-Acoustic Based Method to Determine the Composite Material Properties of a Replicate Clavicle Bone Model",
+    "authors": "Goossens Q, Vancleef S, Leuridan S, Pastrav LC, Mulier M, Desmet W, Vander Sloten J, Denis K.",
+    "year": 2020,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb11040069",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

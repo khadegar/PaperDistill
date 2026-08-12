@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9743557",
+  "paper_id": "doi:10.1186/s12938-022-01056-w",
+  "pmcid": "PMC9743557",
+  "source_record_sha256": "5b9c3126fdbd2a663cd0cd11d7609b0f6649ff5d1a3a2aafe45f0931ee04aba9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ba6ae11ea55847b182a4d83a39e25ee602fdbede79bb534391d5ec41973bbe71",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed polylactic acid/gelatin-nano-hydroxyapatite/platelet-rich plasma scaffold for critical-sized skull defect regeneration",
+    "authors": "Bahraminasab M, Doostmohammadi N, Talebi A, Arab S, Alizadeh A, Ghanbari A, Salati A.",
+    "year": 2022,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-022-01056-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

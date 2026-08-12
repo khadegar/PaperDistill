@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9844467",
+  "paper_id": "doi:10.3390/biomimetics8010016",
+  "pmcid": "PMC9844467",
+  "source_record_sha256": "7dcedf4499123e407abc579cb1846c6ac3d35aade2c9c47d86246eca2782aaf1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9af62ee041109a6cda31b55936cbe6189ca154ec53338292787e5f666abb6fa6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent Developments of Silk-Based Scaffolds for Tissue Engineering and Regenerative Medicine Applications: A Special Focus on the Advancement of 3D Printing",
+    "authors": "Shabbirahmed AM, Sekar R, Gomez LA, Sekhar MR, Hiruthyaswamy SP, Basavegowda N, Somu P.",
+    "year": 2023,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics8010016",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

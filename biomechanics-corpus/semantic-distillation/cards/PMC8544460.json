@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8544460",
+  "paper_id": "doi:10.3390/gels7040175",
+  "pmcid": "PMC8544460",
+  "source_record_sha256": "057c060394da0fe345a69d5c11170747cb4985fa1fb7df3ac130f9ae80972056",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b934f5ba43f97673484b013f550f19d3ea9b1da61e551a890e2b1a975e8ccbb2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed Chitosan-Pectin Hydrogels: From Rheological Characterization to Scaffold Development and Assessment",
+    "authors": "Zarandona I, Bengoechea C, Álvarez-Castillo E, de la Caba K, Guerrero A, Guerrero P.",
+    "year": 2021,
+    "journal": "Gels",
+    "doi": "10.3390/gels7040175",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

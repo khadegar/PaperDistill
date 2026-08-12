@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9707390",
+  "paper_id": "doi:10.2147/ijn.s387347",
+  "pmcid": "PMC9707390",
+  "source_record_sha256": "6024c5ed8344f22dc8e891c1332a96ed624a4b756db7266a6d7a890ae23305b5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e1b1e49e2321ead98a9d6630ec53322a8d89fe25494d6b9aefe3220913a4d32d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multifunctional Mesoporous Silica Nanoparticles Reinforced Silk Fibroin Composite with Antibacterial and Osteogenic Effects for Infectious Bone Rehabilitation",
+    "authors": "Li D, Xie J, Qiu Y, Zhang S, Chen J.",
+    "year": 2022,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s387347",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

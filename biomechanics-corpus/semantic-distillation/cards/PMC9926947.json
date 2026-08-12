@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9926947",
+  "paper_id": "doi:10.1093/rb/rbad003",
+  "pmcid": "PMC9926947",
+  "source_record_sha256": "13a019095385266764b5a9ca63ca13371b79038579ff484814aedf3130cec854",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "704676d3db7a626e3ca77cecf8f11b6132fc04e3d0ec535a80f442866cdec6bb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A novel biomimetic trabecular bone metal plate for bone repair and osseointegration",
+    "authors": "Ma Z, Liu B, Li S, Wang X, Li J, Yang J, Tian S, Wu C, Zhao D.",
+    "year": 2023,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbad003",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

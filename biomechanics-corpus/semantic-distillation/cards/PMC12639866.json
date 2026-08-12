@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12639866",
+  "paper_id": "doi:10.1186/s13018-025-06370-2",
+  "pmcid": "PMC12639866",
+  "source_record_sha256": "919aa31f086df14e807c10951ee1e1a924ecb70b97abb1666cb4d253ac391033",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dffd2679b10a0f72a906f8edf295a711a101aa7e4925e815dbed046b7074e3a2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A 15° valgus femoral prosthesis orientation optimizes biomechanics in hip resurfacing arthroplasty: a finite element analysis",
+    "authors": "Wen M, Sun W, Yamamuro Y, Cobb J, Dai S, Yin C, Fan X.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-06370-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

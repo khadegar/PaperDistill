@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7019315",
+  "paper_id": "doi:10.3390/mi11010031",
+  "pmcid": "PMC7019315",
+  "source_record_sha256": "20202c4d0a4e0d49e97a80424891f759bb5739dcf3a5950f96caa8225237e18f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5dd5cce8c7fed6b1abe795cf91f132c7ef4f76edbcb128566ebf9f426ff6f65e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed Wavy Scaffolds Enhance Mesenchymal Stem Cell Osteogenesis",
+    "authors": "Ji S, Guvendiren M.",
+    "year": 2019,
+    "journal": "Micromachines",
+    "doi": "10.3390/mi11010031",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

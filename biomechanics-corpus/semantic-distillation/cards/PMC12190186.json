@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12190186",
+  "paper_id": "doi:10.3390/bioengineering12060649",
+  "pmcid": "PMC12190186",
+  "source_record_sha256": "ea0839cc30a38955a9273c0380db9d0a762539ccab1aaa99592dcbfa8b1f5c76",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c4cf9f5149fa25a0fb47073b57db481436042e315e9637445ef59b27c4b891e2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Toward Integrative Biomechanical Models of Osteochondral Tissues: A Multilayered Perspective",
+    "authors": "Silva B, Domingos M, Amado S, R Dias J, Pascoal-Faria P, Maurício AC, Alves N.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12060649",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11648181",
+  "paper_id": "doi:10.1038/s41598-024-66807-2",
+  "pmcid": "PMC11648181",
+  "source_record_sha256": "d9cf934de45d23ebde6f54b584048ad5bdc68aa87c92d1f4ec42174e791dab04",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f0d04aceb6c20a990d69b7cf60ae7062851875947a21c403739f555e2151f58e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multi-objective optimization of custom implant abutment design for enhanced bone remodeling in single-crown implants using 3D finite element analysis",
+    "authors": "Poovarodom P, Rungsiyakull C, Suriyawanakul J, Li Q, Sasaki K, Yoda N, Rungsiyakull P.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-66807-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

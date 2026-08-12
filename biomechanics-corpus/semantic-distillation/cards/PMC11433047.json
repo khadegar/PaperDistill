@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11433047",
+  "paper_id": "doi:10.3390/jfb15090243",
+  "pmcid": "PMC11433047",
+  "source_record_sha256": "e56be75c5e3a0b0294de181bc866b0ca582628a9207b2baaf63d1a11aa5f09a8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "110907740a1558e5153ac2f826667d26a2603fbc9b45e4448f9836c7f1350101",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Polycaprolactone in Bone Tissue Engineering: A Comprehensive Review of Innovations in Scaffold Fabrication and Surface Modifications",
+    "authors": "Liang HY, Lee WK, Hsu JT, Shih JY, Ma TL, Vo TTT, Lee CW, Cheng MT, Lee IT.",
+    "year": 2024,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb15090243",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

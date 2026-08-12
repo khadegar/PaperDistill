@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9500315",
+  "paper_id": "doi:10.3389/fbioe.2022.950839",
+  "pmcid": "PMC9500315",
+  "source_record_sha256": "80508fcdeacb73824bae9d1aeb648e9bc9275c20789f9791df5b067bc015a79e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7b0cfc6eaf6348dfd1f73613763693d705a49469839334666d2d6c6306d8820a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient-specific numerical investigation of the correction of cervical kyphotic deformity based on a retrospective clinical case",
+    "authors": "Wu T, Chen H, Sun Y, Xia T, Zhou F, Lu WW.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.950839",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

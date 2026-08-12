@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10294980",
+  "paper_id": "doi:10.3390/bioengineering10060675",
+  "pmcid": "PMC10294980",
+  "source_record_sha256": "266b1e30a7d17648ca8f9cab346433cc699debd01fbb3f9de63820d918106934",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0ab01fad949b04b2e1100aef3d426e1735078c2b43e5149b0277da18b61d6483",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and Additive Manufacturing of Acetabular Implant with Continuously Graded Porosity",
+    "authors": "Mukherjee S, Dhara S, Saha P.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10060675",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

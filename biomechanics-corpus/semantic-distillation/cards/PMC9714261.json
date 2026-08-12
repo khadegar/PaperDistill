@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9714261",
+  "paper_id": "doi:10.3389/fbioe.2022.1019510",
+  "pmcid": "PMC9714261",
+  "source_record_sha256": "d19ef37f26cbf666eb4c4ebdf754f3f1b8fc7f8adf1838acb277c434f94f3c9f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8607529b2e57c7026bc261f2a20baa306a73a29dcab8e27961a80cb419202a0a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical effects of individualized artificial titanium alloy lamina implantation after laminectomy: A finite element analysis",
+    "authors": "Gong X, Zhang A, Han Q, Wang Y, Liu Y, Jiao J, Yue J, Chen H, Luo W, Wang J, Wu M.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1019510",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

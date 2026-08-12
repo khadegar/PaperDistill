@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9986461",
+  "paper_id": "doi:10.3389/fbioe.2023.1067845",
+  "pmcid": "PMC9986461",
+  "source_record_sha256": "d7ac6db03c9173d2c5d772dbd6b15afc24447683c967ebb2851fb73d5cb76f1a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "081132be6f2624c186679407b5a222328ab5ac1be144c4c270e641de8a81781e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Simulation-based prediction of bone healing and treatment recommendations for lower leg fractures: Effects of motion, weight-bearing and fibular mechanics",
+    "authors": "Orth M, Ganse B, Andres A, Wickert K, Warmerdam E, Müller M, Diebels S, Roland M, Pohlemann T.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1067845",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

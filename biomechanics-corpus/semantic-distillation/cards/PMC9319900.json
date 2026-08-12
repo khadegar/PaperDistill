@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9319900",
+  "paper_id": "doi:10.3390/ma15144729",
+  "pmcid": "PMC9319900",
+  "source_record_sha256": "24eb23b994c38e88381efda8d5cb932969cbb3bcbea9f6f3d04bf0ed7b311223",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2ec1e11938199b9096b34de09ad118ff204a6f358a98745b0bc665ec34f62a5f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "On the Morphological Deviation in Additive Manufacturing of Porous Ti6Al4V Scaffold: A Design Consideration",
+    "authors": "Naghavi SA, Wang H, Varma SN, Tamaddon M, Marghoub A, Galbraith R, Galbraith J, Moazen M, Hua J, Xu W, Liu C.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15144729",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

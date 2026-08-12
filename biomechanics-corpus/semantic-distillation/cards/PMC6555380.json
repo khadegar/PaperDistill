@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6555380",
+  "paper_id": "doi:10.4103/jpbs.jpbs_29_19",
+  "pmcid": "PMC6555380",
+  "source_record_sha256": "2b2a992dbbec6a94ec4652c893302c658a5b45be21580fcdfba219282659f7e7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7ccdcbc4afa017a5be93601f9f96bd0d0fffb471364ba7cd98c4ad57a8f46219",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative Evaluation of Implant Designs: Influence of Diameter, Length, and Taper on Stress and Strain in the Mandibular Segment—A Three-Dimensional Finite Element Analysis",
+    "authors": "Raaj G, Manimaran P, Kumar CD, Sadan DS, Abirami M.",
+    "year": 2019,
+    "journal": "Journal of Pharmacy & Bioallied Sciences",
+    "doi": "10.4103/jpbs.jpbs_29_19",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

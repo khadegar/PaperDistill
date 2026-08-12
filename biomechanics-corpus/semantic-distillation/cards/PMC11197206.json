@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11197206",
+  "paper_id": "doi:10.1186/s41205-024-00217-y",
+  "pmcid": "PMC11197206",
+  "source_record_sha256": "127c3784617d1ab0359b38adfd67df99d061babb4398fc30486ff474faeedb58",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f000a0c1a30fa16c07af7b86df3b6322f37a4c2da68cea924082670582d9e1c1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Computer-aided design and 3D printing for a stable construction of segmental bone defect model in Beagles: a short term observation",
+    "authors": "Cheng K, Zhu H, Peng Y, Wen X, Ding H.",
+    "year": 2024,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-024-00217-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

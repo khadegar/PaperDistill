@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10569876",
+  "paper_id": "doi:10.1055/s-0042-1757468",
+  "pmcid": "PMC10569876",
+  "source_record_sha256": "2e452c983647bdec47ce0b2689a880a8330fda6f2c336c53b9d896cd2e7b6e2c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "132e7ed7b1a7fc88fe0b191b075668a4823c32d6a492d77782fe6beb6e8f3872",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Micro Computed Tomography and Immunohistochemistry Analysis of Dental Implant Osseointegration in Animal Experimental Model: A Scoping Review",
+    "authors": "Putri A, Pramanik F, Azhari A.",
+    "year": 2023,
+    "journal": "European Journal of Dentistry",
+    "doi": "10.1055/s-0042-1757468",
+    "publication_type": "review-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8624569",
+  "paper_id": "doi:10.3390/ijms222212518",
+  "pmcid": "PMC8624569",
+  "source_record_sha256": "558c7a02170c2e85bfdbf88de1ba623257f81b54b6972493a0a533f00076af72",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0f372c59a56a9c0ab9a6a4336c1ff9a52118b039c67617f9b94edde24be5c4c0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Regeneration of a 3D-Printed Alloplastic and Particulate Xenogenic Graft with rhBMP-2",
+    "authors": "Ryu JI, Yang BE, Yi SM, Choi HG, On SW, Hong SJ, Lim HK, Byun SH.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms222212518",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12454594",
+  "paper_id": "doi:10.1007/s10237-025-01985-0",
+  "pmcid": "PMC12454594",
+  "source_record_sha256": "b9ed4b6935e835746490f5479331f23bba688d1233f47600eb7d93a4717cf116",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7420401e279f69187d3e782aa5a154469a8fa025e219cbd98d25ff9fbfcbd70e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of stem migration after total hip replacement",
+    "authors": "Reiber M, Bensel F, Becker N, Budde S, Nackenhorst U.",
+    "year": 2025,
+    "journal": "Biomechanics and Modeling in Mechanobiology",
+    "doi": "10.1007/s10237-025-01985-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

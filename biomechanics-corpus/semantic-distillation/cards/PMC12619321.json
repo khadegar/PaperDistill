@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12619321",
+  "paper_id": "doi:10.1186/s13018-025-06389-5",
+  "pmcid": "PMC12619321",
+  "source_record_sha256": "7130195dbcb4fd46c5ea824bec30c76e6918d3d97fccba5347335728bfca430f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d8cd9d1800395a1aded052697d42015e6d795c3d8d404b9187cbffc152387a4f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and optimisation of patient-specific porous femoral stems",
+    "authors": "Safavi S, Gray HA, Lee PVS.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-06389-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

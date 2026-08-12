@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11872370",
+  "paper_id": "doi:10.1111/os.14359",
+  "pmcid": "PMC11872370",
+  "source_record_sha256": "5446aee06cb0de94c691e9945caef8b645312baa004fd0ee91772496f0f8c497",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7909129850e455c309ab6afcef89e3665e811aa4fffd6ce837b5bb92666b41f2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Different Internal Fixation Methods for Sanders Type II and III Calcaneal Fractures: A 5‐Year Retrospective Study and Finite Element Analysis",
+    "authors": "Kong D, Yang Z, Fan X, Wu M, Song C, Zhang Y.",
+    "year": 2025,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.14359",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

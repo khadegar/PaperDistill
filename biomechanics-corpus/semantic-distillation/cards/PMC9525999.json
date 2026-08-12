@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9525999",
+  "paper_id": "doi:10.1016/j.bioactmat.2022.09.014",
+  "pmcid": "PMC9525999",
+  "source_record_sha256": "2715686073d6ad6b09bc928423849732a95f2c909b0e5753cee5892b4b386650",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "39721223b64f0e323fa75b33a875374b2d0cae24ed2e4e090f090b7669440b05",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing of conch-like scaffolds for guiding cell migration and directional bone growth",
+    "authors": "Feng B, Zhang M, Qin C, Zhai D, Wang Y, Zhou Y, Chang J, Zhu Y, Wu C.",
+    "year": 2022,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2022.09.014",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

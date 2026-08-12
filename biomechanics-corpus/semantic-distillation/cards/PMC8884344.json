@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8884344",
+  "paper_id": "doi:10.4103/jips.jips_203_21",
+  "pmcid": "PMC8884344",
+  "source_record_sha256": "a3948ff8b1d4f4273395f42d0cc1bdfa09f9a2a7ef3827481dd063f1760b1089",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d9dc2c0bc838e4eb5b2afa8a43d5bc269c52ba8bd870944db813c4fcd36243af",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A comparative evaluation of stress distribution between an All-on-Four implant-supported prosthesis and the Trefoil implant-supported prosthesis: A three-dimensional finite element analysis study",
+    "authors": "Murugaian J, Ganesan L, Shankar MSS, Annapoorni H.",
+    "year": 2022,
+    "journal": "The Journal of the Indian Prosthodontic Society",
+    "doi": "10.4103/jips.jips_203_21",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9482755",
+  "paper_id": "doi:10.1186/s40824-022-00293-3",
+  "pmcid": "PMC9482755",
+  "source_record_sha256": "486e53b5349126099c3c1da431b2aac7f7c3c12b6106d35a7958d9c6495a15fb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "56e7b0f536a127f24ba5557cba4f6b7c661d49196649adcb9648ddd8325c2751",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The triply periodic minimal surface-based 3D printed engineering scaffold for meniscus function reconstruction",
+    "authors": "Li L, Wang P, Jin J, Xie C, Xue B, Lai J, Zhu L, Jiang Q.",
+    "year": 2022,
+    "journal": "Biomaterials Research",
+    "doi": "10.1186/s40824-022-00293-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

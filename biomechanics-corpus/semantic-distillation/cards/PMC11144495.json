@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11144495",
+  "paper_id": "doi:10.1111/os.14081",
+  "pmcid": "PMC11144495",
+  "source_record_sha256": "322a39cedf74be0d9d87ffdc346077027c5a8ea186086d43457afedb09cc28b9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7d9f15cba2c91552dbd620225829701f1987b04774eb6957531dd1ec0a7ca66c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preparation of Ag@ 3D‐TiO 2 Scaffolds and Determination of its Antimicrobial Properties and Osteogenesis‐ p romoting Ability",
+    "authors": "Liu T, Yang G, Li T, Wang Q, Liu H, He F.",
+    "year": 2024,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.14081",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9847628",
+  "paper_id": "doi:10.1093/rb/rbac082",
+  "pmcid": "PMC9847628",
+  "source_record_sha256": "79abab2ac3a62caf61d3f41efc84c41b76a7363e741fa57a5c6bf040658f343c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4fec669bcf050d9500bcae3d5abafbd6f4c5c1454e716852bef72da8e097606c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A homogeneous dopamine–silver nanocomposite coating: striking a balance between the antibacterial ability and cytocompatibility of dental implants",
+    "authors": "Wang S, Wu Z, Wang Y, Hong H, Zhang L, Chen Z, Zhang P, Chen Z, Zhang W, Zheng S, Li Q, Li W, Li X, Qiu H, Chen J.",
+    "year": 2022,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbac082",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

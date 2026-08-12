@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10505394",
+  "paper_id": "doi:10.3389/fbioe.2023.1203244",
+  "pmcid": "PMC10505394",
+  "source_record_sha256": "a344b203ee2e347937f4f06523336e861ba425781c1b2a36b473199d175924d4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "636b7eb49904915cf600f60e6875a681ef6b830757fee13d11ddcc660f6721a6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Efficacy comparison of Kirschner-wire tension band and anchor loop plate in treatment of olecranon fracture",
+    "authors": "Du B, Su Y, Ma T, Ji S, Lu Y, Zhang K, Li Z, Li M.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1203244",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

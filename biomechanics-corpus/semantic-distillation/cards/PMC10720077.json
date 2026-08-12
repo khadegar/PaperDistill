@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10720077",
+  "paper_id": "doi:10.1186/s13018-023-04461-6",
+  "pmcid": "PMC10720077",
+  "source_record_sha256": "21783a7719377f78b20e50ab0ddc555231f3c3754ab7b8815c952bbed84dfb75",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "612d5d1733e0832539f7e30481ce81956dbbdebc7c2aba32e6b2c68ddb92b782",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical differences between two different shapes of oblique lumbar interbody fusion cages on whether to add posterior internal fixation system: a finite element analysis",
+    "authors": "Liu J, Geng Z, Wang J, Zhang Z, Zhang X, Miao J.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-04461-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

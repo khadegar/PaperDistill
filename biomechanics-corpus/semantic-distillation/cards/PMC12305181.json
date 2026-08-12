@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12305181",
+  "paper_id": "doi:10.1016/j.mtbio.2025.102090",
+  "pmcid": "PMC12305181",
+  "source_record_sha256": "6f9a98ebb059a9cce95c17a141544345a87ad11fa1a586c4693791ca86e4e6de",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "972dd5e5beabcb36d26c912d12e9e8015ee96cae9d64ba749eae54c7db214ab9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An ingenious design from nature to accelerate the repair of long-bone critical defects: the longitudinal tubular transverse interconnection structure of deer antlers",
+    "authors": "Wang C, Yang W, Song L, Cao L, Zhang G, Gao X, Zhu X, Jia S, Yue X, Li C, Wang J, Zhao X, Bai H.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.102090",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8152243",
+  "paper_id": "doi:10.3390/polym13101559",
+  "pmcid": "PMC8152243",
+  "source_record_sha256": "7648e61ab4d25822c522cc159b8bb0108ca7cc95175f1a10558dc1a07b1b6f09",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dcad818bdef88468356aaead7b601a2bde66c99cd18e3258586c89b3a190ed01",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "On the Post-Processing of 3D-Printed ABS Parts",
+    "authors": "Khosravani MR, Schüürmann J, Berto F, Reinicke T.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13101559",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

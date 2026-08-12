@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12993283",
+  "paper_id": "doi:10.3389/fbioe.2026.1691953",
+  "pmcid": "PMC12993283",
+  "source_record_sha256": "2b8217806eb625ef769b0804f27eed91991d410310600372e097792bbefd0070",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "362a1d3fd1e896b0d7e5d668c83824dcbdefebce311531374223f3096cd5e3eb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Integrated strategies in meniscus tissue engineering: from biomaterials to stem cell–driven regeneration",
+    "authors": "Song P, Chen H, Ma H, Zhou Y, Zhang Y.",
+    "year": 2026,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2026.1691953",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

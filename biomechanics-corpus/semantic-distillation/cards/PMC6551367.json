@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6551367",
+  "paper_id": "doi:10.1016/j.jot.2019.04.007",
+  "pmcid": "PMC6551367",
+  "source_record_sha256": "8adfec99ee10b3f7c3681069b4bda71eaa466b36864a3a2d01c49283109d2e25",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fe75b89f1caf31cef3fee9a7ad83320a54a623d6baa33506a2fe6f2fb2044751",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surface degradation–enabled osseointegrative, angiogenic and antiinfective properties of magnesium-modified acrylic bone cement",
+    "authors": "Lin X, Ge J, Wei D, Liu C, Tan L, Yang H, Yang K, Zhou H, Li B, Luo ZP, Yang L.",
+    "year": 2019,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2019.04.007",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9847152",
+  "paper_id": "doi:10.1186/s12891-023-06149-8",
+  "pmcid": "PMC9847152",
+  "source_record_sha256": "94afd79e9e1fcb9907c59a9737448a2f985d8df307d4ab79fa0c683d3d3490c5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "659c2001f498258739568ab86bbe0f8d126b46dd2c0128db3401573ae94aa962",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Elbow joint biomechanics during ADL focusing on total elbow arthroplasty - a scoping review",
+    "authors": "Meijering D, Duijn RG, Murgia A, Boerboom AL, Eygendaal D, van den Bekerom MP, Bulstra SK, Stevens M, Vegter RJ.",
+    "year": 2023,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-023-06149-8",
+    "publication_type": "Scoping Review; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

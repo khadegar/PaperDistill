@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9996442",
+  "paper_id": "doi:10.1016/j.mtbio.2023.100590",
+  "pmcid": "PMC9996442",
+  "source_record_sha256": "722565ddf5a25ac1c35a98b0b7139fc4007435fab0ee50aa10728372cd3eab66",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f88ca559d2880a80a656645708c3bc06e706b608381ccf8631d456edac19b90e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A novel implant surface modification mode of Fe3O4-containing TiO2 nanorods with sinusoidal electromagnetic field for osteoblastogenesis and angiogenesis",
+    "authors": "Ren R, Guo J, Song H, Wei Y, Luo C, Zhang Y, Chen L, Gao B, Fu J, Xiong W.",
+    "year": 2023,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2023.100590",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

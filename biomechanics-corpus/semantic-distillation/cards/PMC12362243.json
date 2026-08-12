@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12362243",
+  "paper_id": "doi:10.1093/rb/rbaf036",
+  "pmcid": "PMC12362243",
+  "source_record_sha256": "d7609cdb3d7c7b2cbd678204a083f06ccd4f772f257a1a5b010b83529847c306",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "41ac0821f10af5a074392cd80fd9ba1979ad864cd48ba889782587d3dbbbdafc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Strontium/magnesium-doped coralline hydroxyapatite for bone regeneration",
+    "authors": "Chen B, Zhang L, Zhong Z, Liu C, Pan H.",
+    "year": 2025,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbaf036",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

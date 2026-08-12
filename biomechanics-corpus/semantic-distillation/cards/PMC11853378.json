@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11853378",
+  "paper_id": "doi:10.3390/biomimetics10020072",
+  "pmcid": "PMC11853378",
+  "source_record_sha256": "1688e6d5ecc115e50e7e873e98303d4f0d532950ab8086a649528937e5178bd8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "033c175e54eeb1dac97070731e27de8e270e97c1203f5ee50cf1653996835dc9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Finite Element Study of Simulated Fusion in an L4-L5 Model: Influence of the Combination of Materials in the Screw-and-Rod Fixation System on Reproducing Natural Bone Behavior",
+    "authors": "Ceddia M, Lamberti L, Trentadue B.",
+    "year": 2025,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics10020072",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

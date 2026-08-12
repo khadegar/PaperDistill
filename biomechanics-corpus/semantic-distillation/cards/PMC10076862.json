@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10076862",
+  "paper_id": "doi:10.3389/fbioe.2023.1096532",
+  "pmcid": "PMC10076862",
+  "source_record_sha256": "5a6229754ff75f9ca46a3bcd58a90ed0f961859356d4c96b210a22a6c7ab54d1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "199ffecc9c82cca034c480fab1a0529e419ceb17c96d60f40036f10c20866322",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Phosphoserine-loaded chitosan membranes promote bone regeneration by activating endogenous stem cells",
+    "authors": "Ke Y, Ye Y, Wu J, Ma Y, Fang Y, Jiang F, Yu J.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1096532",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

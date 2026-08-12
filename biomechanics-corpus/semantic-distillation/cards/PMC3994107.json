@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3994107",
+  "paper_id": "doi:10.1371/journal.pone.0095689",
+  "pmcid": "PMC3994107",
+  "source_record_sha256": "9808eaa1540e1a6a635dbe883e90698e0c00c8308cf0ca2269ba9ad683e70f2f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "88cbacc6e3ff5e307b5890e78cf1f527c776d9f2d304cd2e5b74346b9b486a2a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Vitamin D Supplementation Enhances the Fixation of Titanium Implants in Chronic Kidney Disease Mice",
+    "authors": "Liu W, Zhang S, Zhao D, Zou H, Sun N, Liang X, Dard M, Lanske B, Yuan Q.",
+    "year": 2014,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0095689",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

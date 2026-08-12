@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8922091",
+  "paper_id": "doi:10.1002/advs.202105194",
+  "pmcid": "PMC8922091",
+  "source_record_sha256": "e5319a060f1aba0cc0474d2f98f1c3e8515d41dbc003d7e7d9856827a8757930",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f097b89dbf7d9db8c6e6b3ecd8a2201078ed4c43f48f7ec3a7e272b368018a90",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Transcriptome Analysis Revealed the Symbiosis Niche of 3D Scaffolds to Accelerate Bone Defect Healing",
+    "authors": "Ji C, Qiu M, Ruan H, Li C, Cheng L, Wang J, Li C, Qi J, Cui W, Deng L.",
+    "year": 2022,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202105194",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

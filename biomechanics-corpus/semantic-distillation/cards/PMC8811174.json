@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8811174",
+  "paper_id": "doi:10.3389/fcvm.2021.806215",
+  "pmcid": "PMC8811174",
+  "source_record_sha256": "98a3b874ce8ea537327db4cf360e45171d637c630b200d2f35e1be1fe67d522a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ff9501c661a93b42b54aa52735612e98fcf48ae284811c5391ea37dc4cea8ce1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Scaffold-Free Tubular Engineered Heart Tissue From Human Induced Pluripotent Stem Cells Using Bio-3D Printing Technology in vivo",
+    "authors": "Kawai Y, Tohyama S, Arai K, Tamura T, Soma Y, Fukuda K, Shimizu H, Nakayama K, Kobayashi E.",
+    "year": 2022,
+    "journal": "Frontiers in Cardiovascular Medicine",
+    "doi": "10.3389/fcvm.2021.806215",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9150022",
+  "paper_id": "doi:10.3389/fbioe.2022.850184",
+  "pmcid": "PMC9150022",
+  "source_record_sha256": "fb8b7b30978c81c1cb93a19d48c15af942e8e0a796c80d1dc338ed078dd15648",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c4553acec7d3827af75c17bb0a46ef9c59b9d84785e2ae8954ca61fbddd766a3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Parametric Design of Hip Implant With Gradient Porous Structure",
+    "authors": "Gao X, Zhao Y, Wang M, Liu Z, Liu C.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.850184",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12145557",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101858",
+  "pmcid": "PMC12145557",
+  "source_record_sha256": "75af7c43e34124e32e9ef365ed7bc4a8f98e535bf0b9df9acc544a80667e505e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bf0ebf13878802b4aba77253c5c72a7d5a845df34d8efccf2d1c054a8ca5ce85",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive manufacturing of patient-specific, biphasic implants with zonal design for regeneration of osteochondral defects–critical evaluation of the work flow from clinical MRI data to implantation",
+    "authors": "von Witzleben M, Liu S, Sembdner P, Holtzhausen S, Blum SFU, Lützner J, Kilian D, Nimtschke U, Gelinsky M, Lode A, Bretschneider H.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101858",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

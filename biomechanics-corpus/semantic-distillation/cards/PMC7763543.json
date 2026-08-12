@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7763543",
+  "paper_id": "doi:10.3390/ijms21249358",
+  "pmcid": "PMC7763543",
+  "source_record_sha256": "1cfcb28b1d48732411ee5a37e2a4f316cd295311274439ca6807a52054763876",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e322eb7395ee09f5e58ce335bf82bb13e28463ea3633819c74d3dac2197efddd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Topographical Optimization of 3D Microgroove Pattern Intervals for Ligamentous Cell Orientations: In Vitro",
+    "authors": "Kim MG, Park CH.",
+    "year": 2020,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms21249358",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

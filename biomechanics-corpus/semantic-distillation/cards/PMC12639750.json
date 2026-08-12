@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12639750",
+  "paper_id": "doi:10.1186/s12903-025-07214-5",
+  "pmcid": "PMC12639750",
+  "source_record_sha256": "5cf565f7c39d26c105773ba581fdd40fbe0ad625291a39d29fc5a85ad2718425",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5002738c30e575785ac5022b2307fbb9080fe5e0b0e128e556bb5eefc653ea0e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of framework material, cantilever design, and wing configuration on stress distribution in patient specific additively manufactured subperiosteal jaw implants: a 3D finite element analysis",
+    "authors": "Canko G, Doganay Ozyilmaz O.",
+    "year": 2025,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-025-07214-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9607025",
+  "paper_id": "doi:10.3390/polym14204308",
+  "pmcid": "PMC9607025",
+  "source_record_sha256": "8c6986e93b3ecf36a1af691efcb97008922b9c9919d806899210b49456ac632b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a21565bc1e452575247ee35e213be5c2b8b698aa154433fb95f010e04544914f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Review of Biomaterials and Associated Performance Metrics Analysis in Pre-Clinical Finite Element Model and in Implementation Stages for Total Hip Implant System",
+    "authors": "Soliman MM, Chowdhury MEH, Islam MT, Musharavati F, Nabil M, Hafizh M, Khandakar A, Mahmud S, Nezhad EZ, Shuzan MNI, Abir FF.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14204308",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

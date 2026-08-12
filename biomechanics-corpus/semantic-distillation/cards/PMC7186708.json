@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7186708",
+  "paper_id": "doi:10.21037/atm.2020.03.32",
+  "pmcid": "PMC7186708",
+  "source_record_sha256": "07cd6338167ef72e074e7a2d484953d937457e2210ffcd190189a902d6de7b8d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "33740d5dd2fa547b6580ed8fefd0f1812ea4f1f01176d7467593d3fe544894fe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Upper cervical spine reconstruction using customized 3D-printed vertebral body in 9 patients with primary tumors involving C2",
+    "authors": "Wei F, Li Z, Liu Z, Liu X, Jiang L, Yu M, Xu N, Wu F, Dang L, Zhou H, Li Z, Cai H.",
+    "year": 2020,
+    "journal": "Annals of Translational Medicine",
+    "doi": "10.21037/atm.2020.03.32",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

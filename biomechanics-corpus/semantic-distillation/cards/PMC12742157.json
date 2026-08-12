@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12742157",
+  "paper_id": "doi:10.1093/rb/rbaf116",
+  "pmcid": "PMC12742157",
+  "source_record_sha256": "d58bb351a28a40a4fca73e8f3c80f99ca6fb8ce3704f9478990bb39e09f6d28c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d396c7cd0f18d438f49e88f493fd6c9fed6bd3416f63c157a44ae082b23d7bb8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication of collagen-based biomaterials for sports medicine application",
+    "authors": "Jiang B, Zhou Z, Yu C, Li H, Li S, Hua C, Huang R, Xia Z, Kong B, Chen J.",
+    "year": 2025,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbaf116",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

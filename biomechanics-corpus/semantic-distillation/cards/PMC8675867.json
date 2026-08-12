@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8675867",
+  "paper_id": "doi:10.3389/fbioe.2021.770049",
+  "pmcid": "PMC8675867",
+  "source_record_sha256": "6edcc76f6ada165b069595717995a78b3109cc0fb384f339749c19faabd062cd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c006401caa151ef6039c059de5ca82ad8d4b99f5b99b46625bfddef27acee131",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimetic Methacrylated Gelatin Hydrogel Loaded With Bone Marrow Mesenchymal Stem Cells for Bone Tissue Regeneration",
+    "authors": "Li J, Wang W, Li M, Song P, Lei H, Gui X, Zhou C, Liu L.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.770049",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

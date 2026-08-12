@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9260549",
+  "paper_id": "doi:10.14245/ns.2143230.615",
+  "pmcid": "PMC9260549",
+  "source_record_sha256": "0853006a1d6c435204dfa0a5de251d3af8790b68c0f01c6d9c744126ae6c0e94",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1139c67164da1b6f379842a75f0c8fbf566b16b3d307d9d3fda37e07df92fabc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis of 3-Level Anterior Cervical Discectomy and Fusion Under Physiologic Loads Using a Finite Element Model",
+    "authors": "Tan LA, Yoganandan N, Choi H, Purushothaman Y, Jebaseelan D, Bosco A.",
+    "year": 2022,
+    "journal": "Neurospine",
+    "doi": "10.14245/ns.2143230.615",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

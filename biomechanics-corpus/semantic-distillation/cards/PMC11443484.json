@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11443484",
+  "paper_id": "doi:10.1021/acsapm.4c01772",
+  "pmcid": "PMC11443484",
+  "source_record_sha256": "50d42e5ffdca904fd4163260157d4a318f2927c17fb1a93400199d9a8aa693dd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b8f5e6d82c00929e61fe7e9d63aea597ebc50d1a23b9816d1eac43cac1c1bdd0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Digital Light Processing (DLP) 3D Printing of Caprolactone Copolymers with Tailored Properties through Crystallinity",
+    "authors": "Bartolini Torres G, Stefanovic S, Li B, Heise A.",
+    "year": 2024,
+    "journal": "ACS Applied Polymer Materials",
+    "doi": "10.1021/acsapm.4c01772",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

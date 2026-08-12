@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11962293",
+  "paper_id": "doi:10.1111/os.70003",
+  "pmcid": "PMC11962293",
+  "source_record_sha256": "dc9b5fb030769e927d57d4be28c5ee40278a6cecdd715133891a0106d5558075",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "906f33290bedb3f8653aa1b4efb3f8bd1873f9efac959e40b7edffefda05930e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Comparison of a Novel Facet Joint Fusion Fixation Device With Conventional Pedicle Screw Fixation Device: A Finite Element Analysis",
+    "authors": "Sun F, Qiu H, Ji Y, Wang L, Lei W, Zhang Y.",
+    "year": 2025,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.70003",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

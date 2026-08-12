@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10238201",
+  "paper_id": "doi:10.1002/advs.202207698",
+  "pmcid": "PMC10238201",
+  "source_record_sha256": "868c99dca08b6cc761949fdc8d2b350cbbdf887f75fbcd229955603c14c27877",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1f242dc57251992f444cec26c04385a96b51463f1c98a8ac7d91d05dc4dfbe60",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "High Strength Titanium with Fibrous Grain for Advanced Bone Regeneration",
+    "authors": "Wang R, Wang M, Jin R, Wang Y, Yi M, Li Q, Li J, Zhang K, Sun C, Nie Y, Huang C, Mikos AG, Zhang X.",
+    "year": 2023,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202207698",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

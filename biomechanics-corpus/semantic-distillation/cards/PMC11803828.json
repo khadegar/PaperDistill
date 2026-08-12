@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11803828",
+  "paper_id": "doi:10.1016/j.xpro.2024.103583",
+  "pmcid": "PMC11803828",
+  "source_record_sha256": "289b350c63a2f734d6b2ab1786cbe395dd90b8d3b768fd4496b4f1d56a8eb3a5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3f4cf1c9dd340522eb3a9fcbfebe65452480e7c1d52f52f6c5a0b4810fa46dd2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Protocol for the fabrication of self-standing (nano)cellulose-based 3D scaffolds for tissue engineering",
+    "authors": "Mohan T, Bračič M, Bračič D, Lackner F, Nagaraj C, Štiglic AD, Kargl R, Kleinschek KS.",
+    "year": 2025,
+    "journal": "STAR Protocols",
+    "doi": "10.1016/j.xpro.2024.103583",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

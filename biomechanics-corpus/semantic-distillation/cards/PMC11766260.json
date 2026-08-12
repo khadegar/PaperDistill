@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11766260",
+  "paper_id": "doi:10.3390/jfb16010017",
+  "pmcid": "PMC11766260",
+  "source_record_sha256": "17cd6063626abb4aec9e273a96124fa0ecb15451b12d290288accdc0219067f7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c7434f83b303af04c908eefbca0d4d124f71ac2b4cd5b63147025c9754813bda",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Non-Linear Biomechanical Evaluation and Comparison in the Assessment of Three Different Piece Dental Implant Systems for the Molar Region: A Finite Element Study",
+    "authors": "Serrato-Pedrosa JA, Villanueva-Fierro I, Marquet-Rivera RA, Hernández-Vázquez RA, Cruz-Lopez S, Loera-Castañeda V.",
+    "year": 2025,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb16010017",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

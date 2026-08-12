@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9655809",
+  "paper_id": "doi:10.3390/nano12213878",
+  "pmcid": "PMC9655809",
+  "source_record_sha256": "0ccbc57a7ca880138c8d1d6c233b9bfe6cd697e3f6527bee9ede52590f8087ca",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4fcbcb92b53c2e4aa298c1bf63ea959c6d8aac0dd229594b128ff089d77ded50",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Challenges of Periodontal Tissue Engineering: Increasing Biomimicry through 3D Printing and Controlled Dynamic Environment",
+    "authors": "Roato I, Masante B, Putame G, Massai D, Mussano F.",
+    "year": 2022,
+    "journal": "Nanomaterials",
+    "doi": "10.3390/nano12213878",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

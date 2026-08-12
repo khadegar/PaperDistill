@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12575498",
+  "paper_id": "doi:10.1007/s10439-025-03815-x",
+  "pmcid": "PMC12575498",
+  "source_record_sha256": "07e2688b36a6239c8b02740466527eb705e28e9c6d9538dc21019c8d42b71c00",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3ffb33c3b9b1a01a2032ea1ed104de2a8fa85e88a1b1ecec0afa7b85f1c07c4d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Computational Framework for Investigating the Mechanical Stresses on Breast Implants Under Dynamic Loading Conditions",
+    "authors": "Lee S, Park JY, Park S, Kim JJ, Jang IS, Song JD, Kim DN.",
+    "year": 2025,
+    "journal": "Annals of Biomedical Engineering",
+    "doi": "10.1007/s10439-025-03815-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

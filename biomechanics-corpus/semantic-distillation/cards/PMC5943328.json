@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5943328",
+  "paper_id": "doi:10.1038/s41598-018-25750-9",
+  "pmcid": "PMC5943328",
+  "source_record_sha256": "ef5da4b0d1e4c557da3cd3a33546478338bd8184df7682595d96358f1938a995",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "aeb0ecc4b4b7fdb89970df90daee4a769213f764168ac16c1b093e1ef349534a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A TPMS-based method for modeling porous scaffolds for bionic bone tissue engineering",
+    "authors": "Shi J, Zhu L, Li L, Li Z, Yang J, Wang X.",
+    "year": 2018,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-018-25750-9",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

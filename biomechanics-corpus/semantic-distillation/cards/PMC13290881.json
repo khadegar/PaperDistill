@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13290881",
+  "paper_id": "doi:10.1007/s10439-026-04042-8",
+  "pmcid": "PMC13290881",
+  "source_record_sha256": "9f16fc705967c1e31e26b3771df416ea00bbb99b8f3103da4528040300bd791e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "11bb381df9daf04217cd39597a7837ed69f4e468177fff718cad2eeb77de64f5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additively Manufactured Partially Porous PAEK Topologies for Proximal Tibia Revision Cones and Sleeves",
+    "authors": "DeSantis PM, Barnes E, Tetteh A, Smith JA, Mike D, Perine C, Kurtz SM.",
+    "year": 2026,
+    "journal": "Annals of Biomedical Engineering",
+    "doi": "10.1007/s10439-026-04042-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

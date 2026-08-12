@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8063040",
+  "paper_id": "doi:10.3389/fphys.2021.647923",
+  "pmcid": "PMC8063040",
+  "source_record_sha256": "f56a16a98dd1e00e2777a2cdf5b392ed9fd8a7a997e5c9641477d8e460c10b89",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b82999d0b4f43fe0e220cb4dca57bacddecb2f2def5926047829653cbcf792c9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and Additive Manufacturing of a Biomimetic Customized Cranial Implant Based on Voronoi Diagram",
+    "authors": "Sharma N, Ostas D, Rotar H, Brantner P, Thieringer FM.",
+    "year": 2021,
+    "journal": "Frontiers in Physiology",
+    "doi": "10.3389/fphys.2021.647923",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

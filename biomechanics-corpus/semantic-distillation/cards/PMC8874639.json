@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8874639",
+  "paper_id": "doi:10.3390/s22041685",
+  "pmcid": "PMC8874639",
+  "source_record_sha256": "a9c9e464b418260ab60a60f6b7e2137d01c8cd409d817d3115ac0aee3d88cbc5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "798b7c4505d17095d34f3569633bf69ab371fd0a05b3376be1e74f69d1ee56f9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Experimental Investigation of Vibration Analysis on Implant Stability for a Novel Implant Design",
+    "authors": "Lu S, Vien BS, Russ M, Fitzgerald M, Chiu WK.",
+    "year": 2022,
+    "journal": "Sensors (Basel, Switzerland)",
+    "doi": "10.3390/s22041685",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

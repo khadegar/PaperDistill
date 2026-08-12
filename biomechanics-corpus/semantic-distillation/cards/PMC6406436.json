@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6406436",
+  "paper_id": "doi:10.3390/jcm8020240",
+  "pmcid": "PMC6406436",
+  "source_record_sha256": "012e9b288b1a8a6ec76445dcc38f9afe530556b6d419aa5b54ad382dab6b2c2b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1c20d65e3eccfc4350d513b524f958d31bde3fcd191d7255bb32f769a025ea75",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Carbon Fiber Reinforced PEEK Composites Based on 3D-Printing Technology for Orthopedic and Dental Applications",
+    "authors": "Han X, Yang D, Yang C, Spintzyk S, Scheideler L, Li P, Li D, Geis-Gerstorfer J, Rupp F.",
+    "year": 2019,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm8020240",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

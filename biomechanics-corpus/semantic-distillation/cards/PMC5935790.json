@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5935790",
+  "paper_id": "doi:10.1016/j.bioactmat.2017.10.001",
+  "pmcid": "PMC5935790",
+  "source_record_sha256": "1618fd3ee811705cc3f04873fa5657fff03b3da86a6ae901e164e47172c3ef26",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a84bcae08cacf5e08bb28801850595e183609469c213196df2044aad14012da2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D bioactive composite scaffolds for bone tissue engineering",
+    "authors": "Turnbull G, Clarke J, Picard F, Riches P, Jia L, Han F, Li B, Shu W.",
+    "year": 2017,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2017.10.001",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

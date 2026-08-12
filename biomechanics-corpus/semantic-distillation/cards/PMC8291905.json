@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8291905",
+  "paper_id": "doi:10.1590/acb360605",
+  "pmcid": "PMC8291905",
+  "source_record_sha256": "d0261ec36377c18a0f7c95f7ea46939d6c616cf2e1b6f73ef773cc4df3832be4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "384e51220438180bd2bf9c8a34fae6ef9283252dd6bccb761ce80e795c4286d5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of two different biomaterials in the bone regeneration (15, 30 and 60 days) of critical defects in rats",
+    "authors": "Brassolatti P, Bossini PS, Andrade ALM, Luna GLF, Silva JVD, Almeida-Lopes L, Napolitano MA, Avó LRDS, Leal ÂMO, Anibal FF.",
+    "year": 2021,
+    "journal": "Acta Cirúrgica Brasileira",
+    "doi": "10.1590/acb360605",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

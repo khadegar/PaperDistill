@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11880649",
+  "paper_id": "doi:10.1002/mp.17560",
+  "pmcid": "PMC11880649",
+  "source_record_sha256": "8fa58eab6265bcbc4b5f24f1d229fee8353a48b8dafc2331df264aa86f3e0af1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c68db94478a9ddd55751cdc06de3fd99b72b02fed70c04378998c721cfcdb31d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and 3D printing of pelvis phantoms for cementoplasty",
+    "authors": "Sieffert C, Meylheuc L, Bayle B, Garnon J.",
+    "year": 2024,
+    "journal": "Medical Physics",
+    "doi": "10.1002/mp.17560",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

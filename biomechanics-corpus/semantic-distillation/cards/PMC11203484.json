@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11203484",
+  "paper_id": "doi:10.3390/ijms25126440",
+  "pmcid": "PMC11203484",
+  "source_record_sha256": "fea1ee13fdff393200817818b9774dd76f1244c2a81e5e8b874fd0e04fd4c0dd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cbdacb444f1c53e48c84c87f537bb99211bdb22d7967e99c2be63e2b2c89ac2a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Uniform Distribution of Hydroxyapatite in a Polyurethane Foam-Based Scaffold (PU/HAp) to Enhance Bone Repair in a Calvarial Defect Model",
+    "authors": "Chen CF, Chou YS, Lee TM, Fu YC, Ou SF, Chen SH, Lee TC, Wang YH.",
+    "year": 2024,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms25126440",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8807501",
+  "paper_id": "doi:10.1007/s10237-021-01525-6",
+  "pmcid": "PMC8807501",
+  "source_record_sha256": "930853e7f9c0afd2ab7930f6a658b13c581b9dd0f79bac67bccf4171d5821e58",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7fb2a7310b45f6c48d0a32a185ffce24f6ee5a6914fd41f2b6beae0c21c76702",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multiscale modeling of cancellous bone considering full coupling of mechanical, electric and magnetic effects",
+    "authors": "Blaszczyk M, Hackl K.",
+    "year": 2021,
+    "journal": "Biomechanics and Modeling in Mechanobiology",
+    "doi": "10.1007/s10237-021-01525-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

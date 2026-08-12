@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5872104",
+  "paper_id": "doi:10.3390/jfb9010018",
+  "pmcid": "PMC5872104",
+  "source_record_sha256": "d20020ffbf694f36b8564707180a40ef3849b05f23296dc6e43318c60acbd16d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3e96215b970aabb1cdc9bcc392de66ea35169f8f37444df0d0c16a85dd729eab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modulation of Osteoclast Interactions with Orthopaedic Biomaterials",
+    "authors": "Steffi C, Shi Z, Kong CH, Wang W.",
+    "year": 2018,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb9010018",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

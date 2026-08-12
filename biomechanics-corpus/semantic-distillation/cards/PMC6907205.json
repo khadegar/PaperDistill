@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6907205",
+  "paper_id": "doi:10.1186/s12938-019-0739-x",
+  "pmcid": "PMC6907205",
+  "source_record_sha256": "a079386de7115883149c5f18f6de00031f2eff24f0b809b5adf94e1c9574eb00",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "56450b9ab51db1ca9cb4630c84253ac3573868001abd72ec36b39c2c4d204b63",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of strontium-containing on the properties of Mg-doped wollastonite bioceramic scaffolds",
+    "authors": "Wang S, Liu L, Zhou X, Yang D, Shi Z, Hao Y.",
+    "year": 2019,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-019-0739-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

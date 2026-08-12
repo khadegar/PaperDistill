@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13301875",
+  "paper_id": "doi:10.3390/jfb17060283",
+  "pmcid": "PMC13301875",
+  "source_record_sha256": "ee986626ce3b68082f4b8868728d9bdb64c6df606b83b97c0e88d496fd9d4f76",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "76c615338ac952a78f2179ef7d4a83f2bb8a94665a86484c8b41310f3dff59e0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of the Effects of Implants with Different Geometries on the Inferior Alveolar Nerve Under Occlusal Stresses",
+    "authors": "Karahan D, Çinar İÇ.",
+    "year": 2026,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb17060283",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

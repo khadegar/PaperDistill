@@ -1,0 +1,259 @@
+{
+  "study": {
+    "article_kind": "original_research_mixed_preclinical_and_prospective_clinical",
+    "design_features": [
+      "porous_beta_TCP_bioceramic_scaffold",
+      "rabbit_in_vivo_vascularization_and_bone_regeneration",
+      "pig_ex_vivo_mechanical_testing",
+      "CT_based_finite_element_modeling",
+      "multi_center_prospective_open_label_clinical_cohort",
+      "imaging_and_functional_outcomes"
+    ],
+    "research_problem": "Avascular necrosis of the femoral head compromises blood supply, causes necrosis and collapse, and has inconsistent hip-preserving outcomes. Existing supports may be mechanically rigid, poorly vascularized, nondegradable, or biologically inactive, so a reconstruction must couple revascularization, bone regeneration, and load adaptation.",
+    "exact_gap": "The authors seek translational evidence that a highly interconnected, degradable beta-TCP system can guide vessels into an ischemia-like region, support concurrent bone formation, compensate early mechanical loss, and adapt toward native mechanics. Prior work had not connected scaffold architecture, vascular and bone time courses, mechanics, model predictions, and clinical hip preservation in one evidence chain.",
+    "objective_or_hypothesis": "Create and test a beta-TCP system composed of porous and dense granules plus a porous rod; quantify vascularization and bone regeneration in an ischemia-simulating animal model, measure and model mechanical recovery during degradation, and assess clinical outcomes in a prospective multi-center cohort with ANFH.",
+    "study_design": "Mixed translational original research: scaffold fabrication/characterization; rabbit semi-encapsulated porous-rod experiment at 4, 8, and 12 weeks; pig-femur compression and standing-load tests; CT-based 3D finite-element simulations with 0%-100% material degradation; and an uncontrolled multi-center prospective open-label clinical trial in five Chinese hospitals (2016-2021).",
+    "sample_or_model": "Eighteen mature New Zealand rabbits (2.5 +/- 0.5 kg; 6 x 10 mm femoral-condyle defects; 5 x 10 mm semi-encapsulated scaffold; 4/8/12-week endpoints); 29 fresh pig femurs (20 compression specimens and 9 standing-load specimens); a CT reconstruction of a healthy 45-year-old woman's proximal femur for FEA; and 214 patients/246 hips, ages 17-65, with symptomatic ANFH in the paper's specified ARCO stages, median follow-up 42.79 +/- 12.89 months.",
+    "comparators": [
+      "Normal femoral head/femur versus curettage or decompression cavity",
+      "Cavity filled with porous granules, dense granules, or a 3 g porous + 5 g dense mixed granule formulation",
+      "Semi-encapsulated versus unencapsulated scaffold regions over 4/8/12 weeks",
+      "FEA states with 0%, 25%, 50%, 75%, and 100% replacement of implant material by new bone",
+      "Earlier versus later ARCO-stage hips and normal versus necrotic versus postoperative perfusion regions",
+      "Historical core-decompression, bone-substitute, autograft, and vascularized-graft outcomes cited in discussion (not concurrent controls)"
+    ],
+    "method_spine": [
+      "Fabricate slip-cast beta-TCP with 400-600 micrometre macropores, 110-120 micrometre interconnections, sintering/sterilization, and porous/dense implant forms.",
+      "Use selective vascular perfusion, micro-CT 3D reconstruction, fluorescent angiography, histology, and tetracycline/calcein labeling to measure vascular and bone ingrowth in the rabbit model.",
+      "Test material mixtures and surgical reconstructions in pig femur compression and single-leg-stance loading, including strain gauges at 700 and 1400 N.",
+      "Build a CT-derived proximal-femur FEA with 700 N loading and distal restraint, then vary degradation/replacement states to predict stress and displacement.",
+      "Follow a prospective open-label clinical cohort with radiographs, HHS, VAS, optional DCE-MRI/SPECT-CT, Kaplan-Meier hip survival, and multivariable associations."
+    ],
+    "validation_roles": {
+      "verification": [
+        "XRD, electron microscopy, pore/connection measurements, porosity, and connectivity verify beta-TCP phase and scaffold architecture (S009:C01; S019:C01).",
+        "Pig compression/standing tests verify that the mixed granule-plus-rod reconstruction provides the reported immediate static support under the tested loads (S011:C01; S022:C01)."
+      ],
+      "calibration": [
+        "FEA elastic properties were drawn from literature and the authors' tests; the packet does not report a formal parameter-calibration procedure or fitted error metric (S011:C01).",
+        "The 3 g porous + 5 g dense mixture was selected from prior proportion experiments to retain pores while improving strength, not calibrated against a clinical load history (S011:C01; S022:C01)."
+      ],
+      "validation": [
+        "Rabbit vascular/bone observations provide in-vivo validation of scaffold ingrowth in a semi-encapsulated ischemia-like defect, not a full ANFH model (S006:C01; S020:C01-S021:C01).",
+        "Mechanical tests are used to compare FEA stress/displacement behavior, but model-to-test independence, mesh convergence, and an error metric are not reported (S011:C01; S022:C01-S022:C02).",
+        "The prospective cohort supplies clinical translation evidence for association with hip survival, imaging, perfusion, pain, and function, without a concurrent control or randomization (S008:C01; S024:C01-S031:C01)."
+      ],
+      "sensitivity": [
+        "FEA varies implant-material replacement from 0% to 100% and tracks stress/displacement toward the normal-femur state (S022:C01-S022:C02).",
+        "Rabbit measurements vary by encapsulated region and 4/8/12-week time, and clinical analyses stratify stage and prognostic variables; no systematic sensitivity to pore size, material properties, fatigue, load orientation, or surgical variability is reported (S020:C01; S031:C01)."
+      ],
+      "application_prediction": [
+        "The predicted return of femoral-head stress/displacement toward normal during degradation is an FEA application prediction, not a patient-level mechanical measurement (S022:C01-S022:C02).",
+        "Hip preservation, especially for younger or earlier-stage patients, is a clinical application association and remains unproven as comparative efficacy or durable THA avoidance (S026:C01; S032:C03; S033:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "The fabricated scaffold was phase-pure beta-TCP with 75% +/- 10% porosity, 512.4 +/- 121.4 micrometre macropores, 116.4 +/- 14.6 micrometre interconnections, and 100% measured pore connectivity; micropores were 200 nm-1 micrometre (S019:C01).",
+      "In rabbits, encapsulated-region vascular volume rose from 0.52% at 4 weeks to 1.34% at 8 weeks and 2.04% at 12 weeks (p < 0.001); early vascular extension was 0.593 mm/week, followed by maturation/remodeling (S020:C01).",
+      "Rabbit bone ingrowth depth increased from 1.471 +/- 0.148 mm at 4 weeks to 2.376 +/- 0.088 mm at 12 weeks, with bone area proportion increasing from 1.51% to 3.75%; degradation was slower in the encapsulated region (S021:C01).",
+      "Curettage left 4.36% of normal stiffness and 5.34% of normal yield strength. Porous, mixed, and dense granules restored yield to 18.35%, 27.80%, and 31.12% and stiffness to 15.65%, 22.02%, and 16.91%; the mixed formulation preserved most porous structure (S022:C01).",
+      "In standing-load pig models, the full system restored 40.89% of proximal-femur yield strength and 44.13% of stiffness immediately after surgery; micro-deformation did not differ from normal at 700 or 1400 N (p > 0.05) (S022:C01).",
+      "FEA predicted von Mises stress of 1.037 +/- 0.375 MPa in normal bone, 4.662 +/- 0.949 MPa after cavity creation, and 3.155 +/- 0.899 MPa after implantation; displacement was 0.653 +/- 0.041 mm normal, 0.890 +/- 0.080 mm cavity, and 0.784 +/- 0.062 mm after implantation, moving toward normal as degradation/new bone replacement increased (S022:C01-S022:C02).",
+      "Among 214 patients with 246 hips, final femoral-head survival was 82.1% (202/246) at 42.79 +/- 12.89 months; Kaplan-Meier survival was 98.0% at 1 year, 84.9% at 3 years, and 75.6% at 5 years. Forty-four hips failed (37 THA, 4 fracture, 3 inadequate function/desire for THA) (S024:C01; S026:C01).",
+      "Mean HHS improved from 57.95 +/- 12.06 to 80.26 +/- 17.43 and mean VAS from 4.57 +/- 1.56 to 1.35 +/- 1.30 (both p < 0.001); radiographs were stable or better in 185/246 hips (75.2%), while 61/246 worsened (S027:C01; S028:C01; S030:C01).",
+      "DCE-MRI in 22 patients/32 hips showed absent perfusion within necrotic regions preoperatively, rapid perfusion increase in the rod/graft region after surgery, and Ktrans/iAUC approaching normal after a peak around month 12; older age, later ARCO stage, and lower baseline HHS predicted poorer functional effect (S029:C01; S031:C01)."
+    ],
+    "highest_evidence_level_reached": "Orthogonal preclinical vascular, bone, and static-mechanical evidence plus CT-based model predictions and an uncontrolled prospective clinical cohort; the study reaches translational association, not randomized comparative efficacy, molecular causal proof, fatigue durability, or definitive THA avoidance."
+  },
+  "argument_map": {
+    "central_claim": "A highly interconnected, degradable beta-TCP system combining porous and dense granules with a porous rod can direct vascular and bone ingrowth while partially supporting the femoral head immediately and predicting adaptive mechanical recovery; selected prospective patients showed potential hip preservation, strongest in earlier disease.",
+    "data": [
+      "Scaffold architecture and vascular visualization show time-dependent vessel extension through interconnected pores into an encapsulated, poorly supplied region (S019:C01; S020:C01).",
+      "Bone labeling/histology shows periosteal and in-situ osteogenesis alongside degradation, while pig tests quantify immediate static compensation and FEA predicts stress/displacement changes across replacement states (S021:C01; S022:C01-S022:C02).",
+      "The five-hospital cohort reports survival, failures, HHS, VAS, imaging, optional perfusion, and stage/age associations over a median 42.79-month follow-up (S024:C01-S031:C01)."
+    ],
+    "warrant": "A translational design is more credible when architecture, vascular/bone mechanisms, static mechanics, model predictions, and patient endpoints are linked, but each link must retain its own model, comparator, uncertainty, and validation ceiling.",
+    "backing": [
+      "Mixed granules balance immediate strength with preservation of interconnected pores in the tested pig and material comparisons (S022:C01).",
+      "The authors explicitly identify the semi-encapsulated rabbit model, animal-only vascular method, and uncontrolled/short clinical evidence as limitations (S032:C03)."
+    ],
+    "qualifier": "Promising bioadaptive reconstruction under the reported scaffold geometry, surgical protocol, static load, animal models, ARCO-stage mix, and follow-up; causal and long-term clinical claims remain limited.",
+    "rebuttals_or_boundaries": [
+      "The clinical trial is open-label, uncontrolled, and compared with historical literature rather than a concurrent matched control; stage, age, follow-up, and treatment selection can confound survival differences (S032:C02-S032:C03).",
+      "The semi-encapsulated rabbit defect mimics an ischemia-like environment but not the dynamic pathology of human ANFH, and the vascular method cannot be applied to the human cohort (S032:C03).",
+      "FEA degradation states are predictions based on literature/test properties and a single CT-derived anatomy; no mesh, boundary, independence, or error audit is reported (S011:C01; S022:C01-S022:C02).",
+      "Static yield/stiffness and short-term load tests do not establish fatigue, wear, fracture durability, interface fixation, or long-term material safety."
+    ],
+    "argument_coherence": "high_for_multilevel_preclinical_chain_moderate_for_clinical_efficacy_low_for_cure_or_generalized_durability"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Scaffold phase, pore geometry, porosity/connectivity, degradation, rabbit vascular metrics, bone ingrowth, pig yield/stiffness/strain, patient survival/failures, HHS, VAS, radiographic status, and the DCE-MRI subset are directly measured outcomes under their stated conditions (S019:C01-S031:C01).",
+      "Clinical failures include 37 THA conversions, 4 fractures, and 3 insufficient-function/desire cases; these are not zero-event safety findings (S026:C01)."
+    ],
+    "predicted": [
+      "The FEA predicts stress and displacement for 0%, 25%, 50%, 75%, and 100% material degradation/new-bone replacement and predicts a gradual return toward the normal model (S022:C01-S022:C02).",
+      "The computer-simulation description of cell movement through interconnected pores is a structural hypothesis/model output, not direct cell tracking in patients (S019:C01)."
+    ],
+    "inferred": [
+      "Vessel extension through pores is interpreted as a vascular-conduction mechanism that re-perfuses ischemic human femoral-head tissue; the human bridge is inferred from animal architecture and a small optional DCE-MRI subset (S020:C01; S029:C01).",
+      "Concurrent vascularization, bone formation, degradation products, and stress transfer are interpreted as a causal bioadaptive chain, but no specific molecular mechanism was demonstrated (S021:C01; S032:C03).",
+      "Clinical survival and function are attributed to reconstruction by the beta-TCP system, although the uncontrolled cohort cannot isolate treatment effect from natural history, selection, stage, or postoperative management (S026:C01-S031:C01)."
+    ],
+    "recommended": [
+      "Run a matched or randomized clinical comparison with prespecified stage strata, complete attrition, long-term THA and fracture follow-up, and patient-level uncertainty.",
+      "Validate the FEA against independent specimen measurements with mesh/parameter sensitivity, realistic load histories, fatigue and failure criteria, and patient-specific anatomy (S011:C01; S022:C01).",
+      "Test the system in a large-animal ANFH model, develop human-accessible vascular endpoints, and identify molecular vascularization mechanisms (S032:C03).",
+      "Characterize as-sterilized material state, fatigue/wear/fracture, interface fixation, degradation chemistry, and systemic safety before broad clinical use."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Rabbit vessel volume, vessel depth, and angiography are scaffold vascularization proxies, not proof of durable human femoral-head reperfusion or tissue function (S020:C01; S032:C03).",
+      "Pig static yield/stiffness and 700/1400 N strain are immediate mechanical proxies, not fatigue life, collapse prevention, fixation, or long-term joint durability (S022:C01).",
+      "FEA stress/displacement and trabecular alignment are model or structural proxies, not direct patient mechanical measurements (S022:C01-S022:C02).",
+      "HHS, VAS, radiographs, and hip survival are patient-relevant outcomes but do not prove biological mechanism or superiority over a fair concurrent comparator (S026:C01-S030:C01)."
+    ],
+    "overclaim_risks": [
+      "The abstract and conclusion use 'cure,' 'fully consistent with bioadaptability,' and clinical effectiveness language despite an uncontrolled cohort and reported failures (S001:C01; S033:C01).",
+      "Historical core-decompression and graft comparisons in Table 2 differ in stage, design, age, procedure, and follow-up; the 82.1% survival should not be called superior without a matched comparator (S032:C02-S032:C03).",
+      "Predicted normalization of FEA stress/displacement is not measured recovery of every treated femoral head and does not establish fatigue or long-term collapse prevention (S022:C01-S022:C02).",
+      "The semi-encapsulated animal model and optional 32-hip DCE-MRI subset cannot establish a general human vascular-conduction mechanism (S020:C01; S029:C01; S032:C03)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Decompose a translational claim into separate evidence modules",
+      "execution": "The paper presents scaffold fabrication, rabbit vascular/bone assays, pig mechanics, FEA, and a prospective clinical protocol as distinct modules before combining them in Discussion (S004:C01-S011:C01).",
+      "locator": "S011:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Give each scale its own specimen, comparator, endpoint, and validation role before claiming a cross-scale mechanism.",
+      "failure_mode": "Calling a clinical cohort validation of vascular or FEA mechanisms hides the missing independent bridge."
+    },
+    {
+      "section": "results",
+      "move": "Report a time-resolved vascular and bone sequence with region controls",
+      "execution": "Vascular volume, extension rate, vessel maturation, degradation, bone depth, and bone area are reported separately for encapsulated versus unencapsulated regions at 4, 8, and 12 weeks (S020:C01-S021:C01).",
+      "locator": "S020:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For regenerative scaffolds, preserve time, spatial compartment, denominator, and endpoint differences instead of compressing them into 'rapid vascularization.'",
+      "failure_mode": "A proxy increase in vessel volume can be mistaken for functional perfusion or human tissue recovery."
+    },
+    {
+      "section": "results",
+      "move": "Pair mechanical comparator arms with a separately labeled model prediction",
+      "execution": "Normal, cavity, porous, mixed, and dense granule arms quantify immediate static compensation, while FEA degradation states quantify predicted stress/displacement adaptation; the two evidence states remain distinguishable (S022:C01-S022:C02).",
+      "locator": "S022:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Report material trade-offs and model extrapolations on separate rows, retaining units, load, comparator, and uncertainty.",
+      "failure_mode": "Predicted return to a normal stress field cannot be reported as measured long-term strength or fatigue."
+    },
+    {
+      "section": "results",
+      "move": "Present clinical survival with denominator, time, failure mode, and prognostic stratification",
+      "execution": "The cohort reports 202/246 survival, Kaplan-Meier landmarks, 44 failures by type, HHS/VAS changes, imaging worsening, stage differences, and age/stage/baseline-HHS associations before discussion of historical comparators (S024:C01-S031:C01).",
+      "locator": "S026:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Treat survival as a time-to-event endpoint with explicit failures and follow-up, then state whether the comparator is concurrent or historical.",
+      "failure_mode": "A single final percentage or historical table can conceal attrition, stage mix, and competing reasons for THA."
+    },
+    {
+      "section": "discussion",
+      "move": "Place translational limits beside the proposed mechanism",
+      "execution": "The Discussion lists absent molecular proof, incomplete ANFH simulation, animal-only vascular imaging, small sample/short long-term evidence, and the need for further trials (S032:C03).",
+      "locator": "S032:C03",
+      "effectiveness": "moderate",
+      "transferable_principle": "State the next discriminating experiment at the same scale as each unsupported mechanistic or clinical arrow.",
+      "failure_mode": "Calling a bioadaptive pathway complete when one or more arrows are inferred overstates translation."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "No specific molecular mechanism of vascularization was demonstrated.",
+      "The semi-encapsulated rabbit scaffold model does not fully reproduce the dynamic process of human ANFH; a large-animal ANFH model is requested.",
+      "The fluorescent vascular-visualization method is restricted to animal experiments and cannot evaluate human femoral-head vascularization.",
+      "The multi-center trial had a relatively small sample and limited long-term results; further clinical trials are required (S032:C03)."
+    ],
+    "reader_identified": [
+      "The clinical cohort is open-label and has no concurrent control, randomization, blinding, or reported sample-size rationale; historical Table 2 comparisons are confounded.",
+      "The packet does not report per-timepoint rabbit allocation, detailed attrition, FEA mesh convergence, model error metrics, or independent parameter calibration.",
+      "The FEA uses one healthy 45-year-old anatomy, a 700 N load, distal full restraint, and literature/test properties; patient anatomy, load histories, material variability, and failure criteria are not explored.",
+      "Static compression and short-term 700/1400 N testing do not test fatigue, wear, fracture, interface fixation, degradation chemistry, or systemic safety.",
+      "DCE-MRI is available for only 22 patients/32 hips, while the animal model is not a complete ANFH disease model."
+    ],
+    "likely_bias_direction": [
+      "An uncontrolled, open-label cohort and historical comparator table can overestimate benefit through selection, stage mix, postoperative management, and expectancy effects.",
+      "Selecting the mixed formulation and highlighting the highest-performing mechanical state may understate pore-strength, brittleness, and fatigue trade-offs.",
+      "A semi-encapsulated ischemia-like model may overstate directional vascular guidance relative to dynamic necrosis and human remodeling.",
+      "Single-anatomy FEA with assumed loading and properties may understate patient and boundary-condition uncertainty."
+    ],
+    "scope_boundary": "The study supports scaffold-level vascular/bone ingrowth and tested static-mechanical compensation, model-based degradation predictions, and an association with hip preservation in a selected prospective ANFH cohort. It does not establish cure, causal superiority, durable THA avoidance, fatigue or interface durability, molecular mechanism, or generalization to all stages/patients."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC10318430-01",
+      "capability": "Construct a translational evidence ladder from material architecture to animal tissue, static mechanics, model prediction, and clinical endpoint, assigning a separate evidence state and validation ceiling to each link.",
+      "manuscript_use": "Mixed-methods Results, graphical abstract, Discussion, and claim audit.",
+      "applicable_domains": ["porous_scaffold", "bone_regeneration", "implant_biomechanics", "clinical_translation"],
+      "applicable_study_designs": ["mixed_preclinical_clinical", "finite_element", "prospective_cohort"],
+      "supporting_locators": ["S020:C01", "S021:C01", "S022:C01", "S026:C01", "S032:C03"],
+      "counterexample_or_boundary": "Orthogonal preclinical modules and a prospective cohort do not make the cohort a randomized validation of the vascular or FEA mechanism.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10318430-02",
+      "capability": "Report scaffold trade-offs on a shared architecture axis: preserve pore connectivity and vascular potential while quantifying immediate strength, degradation state, and the missing fatigue/manufacturing constraints.",
+      "manuscript_use": "Materials screening, design rationale, and engineering Discussion.",
+      "applicable_domains": ["porous_bioceramics", "additive_or_cast_scaffolds", "bone_implants"],
+      "applicable_study_designs": ["materials_characterization", "mechanical_screening", "animal_scaffold_study"],
+      "supporting_locators": ["S019:C01", "S020:C01", "S022:C01", "S032:C01"],
+      "counterexample_or_boundary": "The mixed granule formulation improved tested static strength while preserving visible pores, but this does not establish fatigue, fracture toughness, or an optimal clinical porosity.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10318430-03",
+      "capability": "Present an uncontrolled translational cohort with denominator, landmark survival, failure modes, patient-reported/functional endpoints, imaging subset, and stage/age modifiers before any historical comparison.",
+      "manuscript_use": "Clinical Results, Abstract, and evidence-bounded Discussion.",
+      "applicable_domains": ["hip_preservation", "orthopedic_biomaterials", "clinical_implant_studies"],
+      "applicable_study_designs": ["prospective_cohort", "open_label_multicenter"],
+      "supporting_locators": ["S024:C01", "S026:C01", "S027:C01", "S028:C01", "S029:C01", "S031:C01"],
+      "counterexample_or_boundary": "Historical survival percentages from different procedures and stages are not concurrent controls and cannot establish superiority.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10318430-04",
+      "capability": "Keep FEA normalization predictions separate from measured mechanical recovery and patient function by reporting load, anatomy, properties, degradation state, and model uncertainty explicitly.",
+      "manuscript_use": "Computational Methods, Mechanics Results, and validation audit.",
+      "applicable_domains": ["finite_element", "bone_mechanics", "implant_design"],
+      "applicable_study_designs": ["CT_based_FEA", "mechanical_test_comparison"],
+      "supporting_locators": ["S011:C01", "S022:C01", "S022:C02"],
+      "counterexample_or_boundary": "A single-anatomy 700 N model with assumed material replacement cannot establish clinical fatigue life or universal return to normal mechanics.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_multilevel_translation",
+    "methods_transparency": "moderate",
+    "validation_credibility": "moderate_for_preclinical_and_static_endpoints_low_to_moderate_for_clinical_efficacy",
+    "outcome_uncertainty_reporting": "moderate",
+    "comparator_fairness": "high_for_material/mechanical_arms_low_for_historical_clinical_comparisons",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "No randomized or concurrent clinical comparator and no clear attrition/blinding/sample-size audit.",
+      "Semi-encapsulated rabbit model and optional human DCE-MRI subset do not establish a complete human ANFH vascular mechanism.",
+      "FEA verification, mesh/parameter sensitivity, and independence/error metrics are incompletely reported.",
+      "No fatigue, wear, interface fixation, long-term degradation/safety, or molecular vascularization evidence."
+    ],
+    "overall_credibility": "high_for_scaffold_characterization_and_short_term_preclinical_mechanisms_moderate_for_static_model_comparison_and_prospective_association_low_for_causal_superiority_cure_or_long_term_durability"
+  },
+  "summary_zh": "这是一项混合型转化原始研究：滑铸高连通β-TCP（孔隙率约75%、宏孔约512 μm、连通孔约116 μm）在兔半包埋模型中引导血管和骨组织随4/8/12周推进，在猪股骨试验中混合多孔与致密颗粒及多孔棒仅部分补偿术后静态力学损失，CT有限元则预测材料降解和新骨替代时应力/位移向正常回归。五中心开放性前瞻队列214例/246髋中位随访42.79个月，髋头存活82.1%，HHS和VAS改善，但44髋失败且无同期对照；因此临床结果是阶段/年龄混杂下的转化关联，不是治愈、优效或长期疲劳/固定证据。",
+  "reader_notes": [
+    "Primary Luna reader read every non-reference packet chunk in heading order: S001:C01 through S046:C01, including continuation chunks S022:C02 and S032:C02-C03 and all short/statements chunks.",
+    "The full text supports original mixed preclinical plus prospective open-label clinical research; the metadata cue alone was not used to infer efficacy.",
+    "Measured, predicted, inferred, and recommended states are kept separate; FEA degradation curves and historical comparator values are not treated as patient measurements or concurrent controls.",
+    "Author-reported limitations in S032:C03 were retained, and the packet contains no references chunk or omitted substantive locator."
+  ]
+}

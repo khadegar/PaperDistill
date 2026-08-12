@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9963483",
+  "paper_id": "doi:10.3390/nano13040772",
+  "pmcid": "PMC9963483",
+  "source_record_sha256": "8a4f8c6fef654030614b15f192930f6ce93f8772712644be564f1125e010f71f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "06f2806a0d3b8abc17e34d7fe42121235e18c4cccbc3ef554976fe0b2724c3f3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioactive Composite Methacrylated Gellan Gum for 3D-Printed Bone Tissue-Engineered Scaffolds",
+    "authors": "D'Amora U, Ronca A, Scialla S, Soriente A, Manini P, Phua JW, Ottenheim C, Pezzella A, Calabrese G, Raucci MG, Ambrosio L.",
+    "year": 2023,
+    "journal": "Nanomaterials",
+    "doi": "10.3390/nano13040772",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

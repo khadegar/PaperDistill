@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11012472",
+  "paper_id": "doi:10.3390/ma17071669",
+  "pmcid": "PMC11012472",
+  "source_record_sha256": "b0879a528be7241681a93c89a20dc73204ec63556d75674b7511e006beeeb926",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3726cd29c35040d7f564fc1652e1f564484c2773cce1d9bbc2316c816fc27b14",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Fatigue Behavior of a Dental Implant Due to Chewing Forces: A Finite Element Analysis",
+    "authors": "Martinez-Mondragon M, Urriolagoitia-Sosa G, Romero-Ángeles B, García-Laguna MA, Laguna-Canales AS, Pérez-Partida JC, Mireles-Hernández J, Carrasco-Hernández F, Urriolagoitia-Calderón GM.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17071669",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

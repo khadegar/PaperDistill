@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7947581",
+  "paper_id": "doi:10.1093/rb/rbaa040",
+  "pmcid": "PMC7947581",
+  "source_record_sha256": "7d018ac11f96921d23a27926c99d17631cf790edfe99d810e1f302b0c2f14de8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ec8a2d10a1812c5af680c33d5870fbc1161052ea16d01b5550352ce69a57638e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A comparative study of autogenous, allograft and artificial bone substitutes on bone regeneration and immunotoxicity in rat femur defect model",
+    "authors": "Zou W, Li X, Li N, Guo T, Cai Y, Yang X, Liang J, Sun Y, Fan Y.",
+    "year": 2021,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbaa040",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

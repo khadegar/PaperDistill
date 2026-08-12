@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9618659",
+  "paper_id": "doi:10.3389/fbioe.2022.1022506",
+  "pmcid": "PMC9618659",
+  "source_record_sha256": "da730ec9e1f59dbeffb6c6b5d1120e2c4565604a4f983ba976bae8f1fdb29a86",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e633f988b78f5e7cd639eda598a8aba97ae2ee7ac2f3d1715a39f8f84ef5aba0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cortical bone continuum damage mechanics constitutive model with stress triaxiality criterion to predict fracture initiation and pattern",
+    "authors": "Cronin DS, Watson B, Khor F, Gierczycka D, Malcolm S.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1022506",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

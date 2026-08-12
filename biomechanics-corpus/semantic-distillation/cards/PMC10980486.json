@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10980486",
+  "paper_id": "doi:10.1097/md.0000000000030419",
+  "pmcid": "PMC10980486",
+  "source_record_sha256": "adeed6b95352329c3ab51ae29d7d8321ee3670e63935d4274f40a43f60b00273",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2907e27a59445b9bd24f4ac7fdec43fdad80c4f4494be927fdf3da5d4a571842",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical characteristics of 2 different posterior fixation methods of bilateral pedicle screws: A finite element analysis",
+    "authors": "Ji Y, Zhang Q, Song Y, Hu Q, Fekete G, Baker JS, Gu Y.",
+    "year": 2022,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000030419",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11492958",
+  "paper_id": "doi:10.1136/bmjsit-2024-000307",
+  "pmcid": "PMC11492958",
+  "source_record_sha256": "61049131f098071f541513ac1f1d5de3c04cd1f1c680bd33ca1bb5a673f9a10c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3a9e43508bd6aad916d176469d4c206b8bbf22764f63ed042053d744a666ccc5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The impact of adjuvant antibiotic hydrogel application on the primary stability of uncemented hip stems",
+    "authors": "Orfanos G, Zderic I, Gueorguiev B, Nylund P, D'Este M, Varga P, Okoro T.",
+    "year": 2024,
+    "journal": "BMJ Surgery, Interventions, & Health Technologies",
+    "doi": "10.1136/bmjsit-2024-000307",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

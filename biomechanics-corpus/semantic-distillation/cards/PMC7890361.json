@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7890361",
+  "paper_id": "doi:10.3389/fbioe.2021.631177",
+  "pmcid": "PMC7890361",
+  "source_record_sha256": "e7989a36eb8ea63ed40d99db0c373206dd7ea37e50e50cf8ebdb8300e510bc09",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f20871da645f88815af4cb54284dbafdba844eb01dd2a21ba5164860434aa9fa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhancing Bioactivity of Hydroxyapatite Scaffolds Using Fibrous Type I Collagen",
+    "authors": "Nitti P, Kunjalukkal Padmanabhan S, Cortazzi S, Stanca E, Siculella L, Licciulli A, Demitri C.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.631177",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

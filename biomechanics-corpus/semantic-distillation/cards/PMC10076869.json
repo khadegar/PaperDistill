@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10076869",
+  "paper_id": "doi:10.3389/fendo.2023.1131880",
+  "pmcid": "PMC10076869",
+  "source_record_sha256": "f41d363db95a856313e101caaeae273ab878df5c8f128a9a05fb3da05773bc4b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "38a42fa63c976721e1531e4482f16f7d4f1e3150fe8a191b3a115b20b1f5c9a3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of vertebral body compression osteotomy in pedicle subtraction osteotomy on ankylosing spondylitis kyphosis: Finite element analysis and retrospective study",
+    "authors": "Yang C, Zeng Z, Yan H, Wu J, Lv X, Zhang D, Zhang Z, Jiang X, Zhang C, Fu G, Peng X, Wang Z, Zhao Q, Li W, Huang R, Wang Q, Li B, Hu X, Wang P, Gao L.",
+    "year": 2023,
+    "journal": "Frontiers in Endocrinology",
+    "doi": "10.3389/fendo.2023.1131880",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

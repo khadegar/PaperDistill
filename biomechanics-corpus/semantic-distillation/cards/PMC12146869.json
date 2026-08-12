@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12146869",
+  "paper_id": "doi:10.1016/j.tcr.2025.101182",
+  "pmcid": "PMC12146869",
+  "source_record_sha256": "9dd290c86bb998b65368168c08e769fadc2591b031120710d641c7258c3a6cda",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "abe7d605ec324726b368be4f7ba8b067231cf19c9342fb041a1be1ab425c84df",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Watch out your pins! Periprosthetic femoral fracture at tracking pin site early after robotic-assisted knee arthroplasty treated with dual nail-plate fixation",
+    "authors": "Sánchez Del Saz J, Coderch Carretero J, García Coiradas J, García Crespo R.",
+    "year": 2025,
+    "journal": "Trauma Case Reports",
+    "doi": "10.1016/j.tcr.2025.101182",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

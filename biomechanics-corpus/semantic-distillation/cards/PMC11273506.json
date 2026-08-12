@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11273506",
+  "paper_id": "doi:10.3390/bioengineering11070720",
+  "pmcid": "PMC11273506",
+  "source_record_sha256": "693dee469927eeebe823517fac05c69ca8f7d8fe65c684d508785e072571ab2e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1420380eabfd6906a5318c8d5ef228002afa191622e4cd220bc740c57bbdea9d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Chitosan Scaffolds from Crustacean and Fungal Sources: A Comparative Study for Bone-Tissue-Engineering Applications",
+    "authors": "Iqbal N, Ganguly P, Yildizbakan L, Raif EM, Jones E, Giannoudis PV, Jha A.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11070720",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

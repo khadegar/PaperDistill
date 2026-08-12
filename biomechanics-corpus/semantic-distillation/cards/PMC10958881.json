@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10958881",
+  "paper_id": "doi:10.1186/s12903-024-04133-9",
+  "pmcid": "PMC10958881",
+  "source_record_sha256": "d4108673fc64c87396cbc9e8e6af3bebdbc0b47a8873ae7603c47b282124b192",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e3f259cb43e645dabe6ed6bb0e030361cd40827ae85761baff488f8d3c23646b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of stress distribution on residual root structure in socket shield procedure following immediate dental implant placement: an in vitro study",
+    "authors": "Shinde A, Madhav VNV, Saini RS, Gurumurthy V, Binduhayyim RIH, Mosaddad SA, Heboyan A.",
+    "year": 2024,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-024-04133-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

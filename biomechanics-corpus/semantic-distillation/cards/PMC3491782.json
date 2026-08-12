@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3491782",
+  "paper_id": "doi:10.4103/0019-5413.101032",
+  "pmcid": "PMC3491782",
+  "source_record_sha256": "90d966850a2c5603f1a1eacf8ad254e2037095f37aab8041ed1f009e71495152",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "af95d826124d4a1b360f22e3bbdee58eb87d7d88da269a0eec892b77ac8a3152",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osseous integration in porous tantalum implants",
+    "authors": "Paganias CG, Tsakotos GA, Koutsostathis SD, Macheras GA.",
+    "year": 2012,
+    "journal": "Indian Journal of Orthopaedics",
+    "doi": "10.4103/0019-5413.101032",
+    "publication_type": "review-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

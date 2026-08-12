@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11750350",
+  "paper_id": "doi:10.1055/s-0044-1785532",
+  "pmcid": "PMC11750350",
+  "source_record_sha256": "a9f41de04a988a02705c3581cc9b680b52b8ed492d43e164752e78b19d5c1ebe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cec95a9b7b69ce49aeeccc570bddf58faa1c62b811c15d40e1f9b0ce325a8ba4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of Anterior Implant-Supported Restorations with Different CAD-CAM Restorative Materials",
+    "authors": "Puengpaiboon U, Rattanapan N, Pasam VK, Sukjamsri C.",
+    "year": 2024,
+    "journal": "European Journal of Dentistry",
+    "doi": "10.1055/s-0044-1785532",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

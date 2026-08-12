@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8155055",
+  "paper_id": "doi:10.1038/s41598-021-89181-9",
+  "pmcid": "PMC8155055",
+  "source_record_sha256": "a3bc56aa8318695e1f8d588de13f9a19f5da0ad859a173d5ad879f19eeeb29cd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "447609c421cf234a42bd95935344aa3c1cd82f56e17af806dab9a910c2f55c27",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Heat impact during laser ablation extraction of mineralised tissue micropillars",
+    "authors": "McPhee S, Groetsch A, Shephard JD, Wolfram U.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-89181-9",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

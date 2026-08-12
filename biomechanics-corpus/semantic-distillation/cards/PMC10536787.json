@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10536787",
+  "paper_id": "doi:10.1186/s12951-023-02115-7",
+  "pmcid": "PMC10536787",
+  "source_record_sha256": "aca494958f8de62710ff0d4524c8baf62cb65244140ad45b1ad73e1b9af122db",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "547d0046297f05012df7da8678d44bb8cbd29d9df449d4a82111a43557d220c4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Novel scaffold platforms for simultaneous induction osteogenesis and angiogenesis in bone tissue engineering: a cutting-edge approach",
+    "authors": "Saberi A, Kouhjani M, Mohammadi M, Hosta-Rigau L.",
+    "year": 2023,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-023-02115-7",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3503930",
+  "paper_id": "doi:10.1371/journal.pone.0050378",
+  "pmcid": "PMC3503930",
+  "source_record_sha256": "fa99772fcefe0d4eec20b9861c799125cd30d5728717c1b6f9348fa849e4dd24",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "869493f6a9c5786fdd435c0b35eeaa21227855c1cda31a617e742e44d53d6f63",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Coating with a Modular Bone Morphogenetic Peptide Promotes Healing of a Bone-Implant Gap in an Ovine Model",
+    "authors": "Lu Y, Lee JS, Nemke B, Graf BK, Royalty K, Illgen R, Vanderby R, Markel MD, Murphy WL.",
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0050378",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

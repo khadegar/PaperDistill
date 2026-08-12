@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7359596",
+  "paper_id": "doi:10.1186/s12891-020-03498-6",
+  "pmcid": "PMC7359596",
+  "source_record_sha256": "571c65cafc85fa4947fb64f8036f167fe177900eaac80ed1117d2e9744ecc2f9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "264fb7f4e87d32804082d97ed7d00552b7358d41945a3c9b5086d37e39ec0e83",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of cement-augmented pedicle screws with different volumes of polymethylmethacrylate in osteoporotic lumbar vertebrae over the adjacent segments: a 3D finite element analysis",
+    "authors": "Guo HZ, Zhang SC, Guo DQ, Ma YH, Yuan K, Li YX, Peng JC, Li JL, Liang, Tang YC.",
+    "year": 2020,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-020-03498-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

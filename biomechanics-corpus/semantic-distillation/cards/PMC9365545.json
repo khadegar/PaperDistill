@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9365545",
+  "paper_id": "doi:10.1155/2022/3561430",
+  "pmcid": "PMC9365545",
+  "source_record_sha256": "0b217ed5355b118d36f4274194077d84a0ed306222ffb6b1d0cc8928943d6886",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "683d1aa6807ed2fe16a9cb59f8cf5724c056c0a8e4e80b7166dc1aed2b478638",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Value of 3D Printed PLGA Scaffolds for Cartilage Defects in Terms of Repair",
+    "authors": "Fan L, Teng W, He J, Wang D, Liu C, Zhao Y, Zhang L.",
+    "year": 2022,
+    "journal": "Evidence-based Complementary and Alternative Medicine : eCAM",
+    "doi": "10.1155/2022/3561430",
+    "publication_type": "Retracted Publication; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

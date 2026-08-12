@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7711489",
+  "paper_id": "doi:10.3390/nano10050844",
+  "pmcid": "PMC7711489",
+  "source_record_sha256": "16b7f6ada895c763556805aa195888d819f82e28b86367b86721282f69851749",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a286433a42d839dc7f8ba8f0f50737dd2586832b7746bf438a9a84c6f0bc074f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional (3D) Printed Silver Nanoparticles/Alginate/Nanocrystalline Cellulose Hydrogels: Study of the Antimicrobial and Cytotoxicity Efficacy",
+    "authors": "Bergonzi C, Remaggi G, Graiff C, Bergamonti L, Potenza M, Ossiprandi MC, Zanotti I, Bernini F, Bettini R, Elviri L.",
+    "year": 2020,
+    "journal": "Nanomaterials",
+    "doi": "10.3390/nano10050844",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

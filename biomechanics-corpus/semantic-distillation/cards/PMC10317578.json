@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10317578",
+  "paper_id": "doi:10.1155/2023/9060046",
+  "pmcid": "PMC10317578",
+  "source_record_sha256": "c9734c6708e333ee8f36073e5a32c5aa08e8093bb362896263dd4b6c84a6c5e1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a9eb88013be25ce2a1874d540ece68adc018e257407690e2cfe5068b6a18054b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Accuracy of Microimplant Placement Using a 3D Guide Plate for Orthodontic Anchorage",
+    "authors": "Zhu F, Ji L, Zhou C, Cao Y, Chen Z, Wu X, Zou J, Gao Y.",
+    "year": 2023,
+    "journal": "Applied Bionics and Biomechanics",
+    "doi": "10.1155/2023/9060046",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

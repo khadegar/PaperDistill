@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10851378",
+  "paper_id": "doi:10.1021/acsomega.3c08518",
+  "pmcid": "PMC10851378",
+  "source_record_sha256": "243d126fe5397fe4096ce30303768fc1190f6f21148f0422c1adfc9c4a158c38",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5801ebe7b609424a3a3ceb24b9d3d3e25ae690172832698df3ec60e3d98b19cc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Catalpol Promotes Osseointegration of Titanium Implants under Conditions of Type 2 Diabetes via AKT/GSK3β/FYN Pathway-Mediated NRF2 Activation",
+    "authors": "Zhang Y, Zhang J, Sun B, Ma L, Ma Y.",
+    "year": 2024,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.3c08518",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

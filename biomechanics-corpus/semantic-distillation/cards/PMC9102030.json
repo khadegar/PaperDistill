@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9102030",
+  "paper_id": "doi:10.3390/ijms23094750",
+  "pmcid": "PMC9102030",
+  "source_record_sha256": "ff68ce144e6c8bb17588b68b345f9b5467f8a367ee14f4caf49cf21b6cb2b478",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2af87012ca67399bb0bed515f3c2d9513188907a6779f1afa1e9f95cecc3024c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Improved 3D Printing and Cell Biology Characterization of Inorganic-Filler Containing Alginate-Based Composites for Bone Regeneration: Particle Shape and Effective Surface Area Are the Dominant Factors for Printing Performance",
+    "authors": "Bednarzig V, Schrüfer S, Schneider TC, Schubert DW, Detsch R, Boccaccini AR.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms23094750",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

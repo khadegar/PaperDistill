@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11841418",
+  "paper_id": "doi:10.3389/fbioe.2024.1518145",
+  "pmcid": "PMC11841418",
+  "source_record_sha256": "45d4d24e31c67a487606d67a5a0515a2967b3649aabf8f688d55ff5c5b9e51cd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e6eedcae80dc7f1a193a36f90a72f8b16f3d8e6b682a09062af6b4107431318c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed magnesium silicate/β-tricalcium phosphate scaffolds promote coupled osteogenesis and angiogenesis",
+    "authors": "Wang L, Shen M, Tang Z, Tan J, Li K, Ma H.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1518145",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

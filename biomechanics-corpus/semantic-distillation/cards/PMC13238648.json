@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13238648",
+  "paper_id": "doi:10.1111/os.70328",
+  "pmcid": "PMC13238648",
+  "source_record_sha256": "b7b59477a428ae4891786bb3b3c54be1c0bd7e70dd5b262a1d7753f675f11509",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7ba02cb8a0844791cde328dbfe5ff513539d6977e51b521aadb5bbebdc8316d5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Combining Fluid Dynamics and Biological Experiments to Explore the More Suitable Porosity for Bone Inducing Porous Tantalum Scaffolds",
+    "authors": "Liu W, Wang SQ, Song ST, Guo NY, Zhang JY, Mao ZM, Wang JQ, Xu BB.",
+    "year": 2026,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.70328",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

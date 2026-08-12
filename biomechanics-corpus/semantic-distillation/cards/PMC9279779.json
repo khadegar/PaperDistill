@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9279779",
+  "paper_id": "doi:10.21037/atm-22-2536",
+  "pmcid": "PMC9279779",
+  "source_record_sha256": "30ee6197e0058ed4c6dcaf99a7a65ff5a31c123c3e2fe825006243281c32b54d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1f5d980ac00cfd5a9751f6341e2427154e110e7175335d7581ff2dd7c9aa8570",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of micro-arc oxidation surface modification of 3D-printed porous titanium alloys on biological properties",
+    "authors": "Ni R, Jing Z, Xiong C, Meng D, Wei C, Cai H.",
+    "year": 2022,
+    "journal": "Annals of Translational Medicine",
+    "doi": "10.21037/atm-22-2536",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

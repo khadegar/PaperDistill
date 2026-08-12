@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10945714",
+  "paper_id": "doi:10.1093/jbmrpl/ziae001",
+  "pmcid": "PMC10945714",
+  "source_record_sha256": "fab2b8e16820bef6bc74c9e8540f68d9036c0e44ccde5707d392f884ab7af380",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "22aa4f34296b0e6de07e0b03a93315f93e1da4ccee42ce41a4e232ede9aa572d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Rapamycin does not alter bone microarchitecture or material properties quality in young-adult and aged female C57BL/6 mice",
+    "authors": "Devine CC, Brown KC, Paton KO, Heveran CM, Martin SA.",
+    "year": 2024,
+    "journal": "JBMR Plus",
+    "doi": "10.1093/jbmrpl/ziae001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

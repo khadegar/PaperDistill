@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10512631",
+  "paper_id": "doi:10.1186/s12903-023-03379-z",
+  "pmcid": "PMC10512631",
+  "source_record_sha256": "127519136dced05d29e3e0a790578a58361f5431b459ea33105f87ecedbdf640",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c5b1cc563433b6922c801fdf3cb83b2101d1907db403ca7ca101dfce0d87eb81",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of short implant crown-to-implant ratio on stress distribution in anisotropic bone with different osseointegration rates",
+    "authors": "Yuan X, Liu Y, Yang Y, Ren M, Luo L, Zheng L, Liu Y.",
+    "year": 2023,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-023-03379-z",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

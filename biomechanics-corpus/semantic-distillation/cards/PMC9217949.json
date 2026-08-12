@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9217949",
+  "paper_id": "doi:10.1038/s41368-022-00179-z",
+  "pmcid": "PMC9217949",
+  "source_record_sha256": "6e30b144d63c651c1aa0b96f7cfe044c5a4925703a0e6673727f7a69931d3f44",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a204313c15b6e54bbd7afb71dbe95206c03156c37f0318f22da6da6350406cc3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A hierarchical vascularized engineered bone inspired by intramembranous ossification for mandibular regeneration",
+    "authors": "Ye X, He J, Wang S, Han Q, You D, Feng B, Zhao F, Yin J, Yu M, Wang H, Yang H.",
+    "year": 2022,
+    "journal": "International Journal of Oral Science",
+    "doi": "10.1038/s41368-022-00179-z",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

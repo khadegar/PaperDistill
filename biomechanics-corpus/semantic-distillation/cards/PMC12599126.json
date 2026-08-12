@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12599126",
+  "paper_id": "doi:10.1302/2046-3758.1411.bjr-2024-0562.r1",
+  "pmcid": "PMC12599126",
+  "source_record_sha256": "aade6c9c24fceb22d3ec9bf89b728ae441398e16c1bb4b080440ad0caf37fce1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fdd3bbe1756640f19d3ec6f7912fab8eabd89c9b1bb6746df3f1679cc929112c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Longitudinal monitoring of bone remodelling activity around the acetabular cup after total hip arthroplasty using 18F-fluoride PET/CT scans",
+    "authors": "Kok J, Jutten L, Geurts J, Brans BT, Arts JJC, Peters MJM.",
+    "year": 2025,
+    "journal": "Bone & Joint Research",
+    "doi": "10.1302/2046-3758.1411.bjr-2024-0562.r1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

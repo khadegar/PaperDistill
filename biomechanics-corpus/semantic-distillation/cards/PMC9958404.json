@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9958404",
+  "paper_id": "doi:10.1016/j.bioactmat.2023.02.008",
+  "pmcid": "PMC9958404",
+  "source_record_sha256": "2b878212da22a2ef9f2119f7dde3c85025de4a47542bbd4316572d448182cb5c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "695893d16b9c03988c9dcbc6fe238835f3d1e842190a999c446cf8ab54dd64b0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Engineering of a NIR-activable hydrogel-coated mesoporous bioactive glass scaffold with dual-mode parathyroid hormone derivative release property for angiogenesis and bone regeneration",
+    "authors": "Liu S, Han Z, Hao JN, Zhang D, Li X, Cao Y, Huang J, Li Y.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2023.02.008",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

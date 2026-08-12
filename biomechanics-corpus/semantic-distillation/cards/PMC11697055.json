@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11697055",
+  "paper_id": "doi:10.1016/j.gendis.2024.101434",
+  "pmcid": "PMC11697055",
+  "source_record_sha256": "e55d4cb03d209f1af96394a3ba1bfd44ce57f4f8ef1ed46913927a20c6697d2c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fedb593002b81c02c18126c2c27d05310d3aaabf0d4ed9be129073c54ce4ff24",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Heavy mechanical force decelerates orthodontic tooth movement via Piezo1-induced mitochondrial calcium down-regulation",
+    "authors": "Zhu Y, Meng X, Zhai Q, Xin L, Tan H, He X, Li X, Yang G, Song J, Zheng L.",
+    "year": 2025,
+    "journal": "Genes & Diseases",
+    "doi": "10.1016/j.gendis.2024.101434",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

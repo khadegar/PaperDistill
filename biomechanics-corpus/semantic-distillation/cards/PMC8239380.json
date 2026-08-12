@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8239380",
+  "paper_id": "doi:10.2147/ijn.s311001",
+  "pmcid": "PMC8239380",
+  "source_record_sha256": "61b9417be60737357a87c7a85a73ea9c092243311762d6f67b4734d285caa566",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "20a8525f97d4d3b35f5b75b895e61ad1a0f34e47403891b2477cea474af88651",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing of Micro- and Nanoscale Bone Substitutes: A Review on Technical and Translational Perspectives",
+    "authors": "Cheng L, Suresh K S, He H, Rajput RS, Feng Q, Ramesh S, Wang Y, Krishnan S, Ostrovidov S, Camci-Unal G, Ramalingam M.",
+    "year": 2021,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s311001",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

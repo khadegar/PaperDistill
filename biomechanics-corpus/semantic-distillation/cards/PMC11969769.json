@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11969769",
+  "paper_id": "doi:10.1186/s13018-025-05753-9",
+  "pmcid": "PMC11969769",
+  "source_record_sha256": "bf712190dd5f14ea7b321d30df4c56a503d4d9416265151809ff4e91be581d52",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9b09ccc8f1e08b8c01ab3cba9130608c7080e8c0c3d691a2739bca66d31c9b58",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reducing femoral peri-implant fracture risk through optimized plate length and screw configuration – a biomechanical study",
+    "authors": "Puls L, Llano L, Zderic I, Gueorguiev B, Stoffel K.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-05753-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

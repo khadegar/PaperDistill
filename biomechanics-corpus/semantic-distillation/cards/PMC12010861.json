@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12010861",
+  "paper_id": "doi:10.14245/ns.2448940.470",
+  "pmcid": "PMC12010861",
+  "source_record_sha256": "111c31f51f3b2fd937cc2380dbaaa8ead931725364a797475c211bcd18a702bb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4bbcf1cab2dd9a306998fb7ae63a8986909d24c3e667116d366ba841a515b9cf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fixation of the Sacroiliac Joint: A Cadaver-Based Concurrent-Controlled Biomechanical Comparison of Posterior Interposition and Posterolateral Transosseous Techniques",
+    "authors": "Raji OR, Pope JE, Falowski SM, Stoffman M, Leasure JM.",
+    "year": 2025,
+    "journal": "Neurospine",
+    "doi": "10.14245/ns.2448940.470",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

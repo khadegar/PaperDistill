@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7362224",
+  "paper_id": "doi:10.3390/polym12061394",
+  "pmcid": "PMC7362224",
+  "source_record_sha256": "115ecd1d4b0de829e792e589bd70c20a54f15f58eb703d4a6a180cc474c6486c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bd57e84437c1bcaea64d94178e391f6f90205a9efcc7134382de0d2335fb7149",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Monocomponent Photoinitiators based on Benzophenone-Carbazole Structure for LED Photoinitiating Systems and Application on 3D Printing",
+    "authors": "Liu S, Chen H, Zhang Y, Sun K, Xu Y, Morlet-Savary F, Graff B, Noirbent G, Pigot C, Brunel D, Nechab M, Gigmes D, Xiao P, Dumur F, Lalevée J.",
+    "year": 2020,
+    "journal": "Polymers",
+    "doi": "10.3390/polym12061394",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

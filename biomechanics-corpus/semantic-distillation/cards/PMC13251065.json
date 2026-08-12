@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13251065",
+  "paper_id": "doi:10.1186/s13019-026-04067-z",
+  "pmcid": "PMC13251065",
+  "source_record_sha256": "c4574e41247725420f8af188bd75df0195c613e412307e0834769b7ac1060a52",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1dbffb5baaa5ae8cadbfaa59f7c71a188f3558ab71196e8b85b7775f4deee539",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient-specific 3D-printed scaffold for pediatric superior sternal cleft repair",
+    "authors": "Kahraman Esen H, Yüksel M, Özyurtkan MO.",
+    "year": 2026,
+    "journal": "Journal of Cardiothoracic Surgery",
+    "doi": "10.1186/s13019-026-04067-z",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

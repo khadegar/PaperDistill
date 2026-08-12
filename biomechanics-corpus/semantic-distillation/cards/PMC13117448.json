@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13117448",
+  "paper_id": "doi:10.3390/jfb17040205",
+  "pmcid": "PMC13117448",
+  "source_record_sha256": "2c77d8c8243bff9a25f9e46a387466da25375c3b37b9539562fb3ce72b2703eb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "971304414b8e8a3eee313971b3c3d3bc2f78606317002827590cdbf730befeef",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recombinant Human SLPI Surface Functionalization Enhances Early Osseointegration and Biomechanical Stability of Titanium Implants in Rat Model",
+    "authors": "Chouyratchakarn W, Boonsri B, Tangkamonsri S, Thepsupa W, Supanchart C, Kumphune S.",
+    "year": 2026,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb17040205",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

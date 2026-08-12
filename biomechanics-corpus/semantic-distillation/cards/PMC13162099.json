@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13162099",
+  "paper_id": "doi:10.13107/jocr.2026.v16.i05.7202",
+  "pmcid": "PMC13162099",
+  "source_record_sha256": "80120ee9418ee7b1977011799ba839fe221c82c23302fc23730d2d6b4473533b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5523c7178d0a3b76939a7697e270f160e7322d828962c7410d4db43b651f3479",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Removal of Hartshill Rectangle and Wires with Revision Pedicle Screw Fixation: Technical Challenges, Safety Considerations, and Clinical Outcomes in Complex Spinal Reconstruction – A Case Report",
+    "authors": "Kothari A, Aiyer S, Shah PK, Sancheti P.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Case Reports",
+    "doi": "10.13107/jocr.2026.v16.i05.7202",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

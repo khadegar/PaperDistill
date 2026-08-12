@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12533109",
+  "paper_id": "doi:10.1038/s41598-025-20870-5",
+  "pmcid": "PMC12533109",
+  "source_record_sha256": "9f62d0012b5e06e56814270456d3fdb487baa76cdb0338f0bb9fbc6e3a0bfa1e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c99e52c973d3170a04a172895e81002218de42eb5f84cd11633a80befb88b16d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Computational analysis of L4–L5 interspinous process devices and interbody fusion spacers using ceramic and polymeric materials via finite element modeling and artificial intelligence",
+    "authors": "Shash YH, Elden RH.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-20870-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

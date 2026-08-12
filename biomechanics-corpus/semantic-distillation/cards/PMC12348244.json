@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12348244",
+  "paper_id": "doi:10.3390/ma18153543",
+  "pmcid": "PMC12348244",
+  "source_record_sha256": "204adb5604f0990f164cd8847db9a4ebe8a0975cc2d772188f9ca4f81a514c99",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c4971078222173b04a13918c590acdc6e7ea931823d4aba7b4d7ce05743edcc5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Digital Manufacturing and Abutment Design on Full-Arch Implant Prostheses—An In Vitro Study",
+    "authors": "Altwaijri S, Alotaibi H, Alnassar TM, Aldegheishem A.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18153543",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

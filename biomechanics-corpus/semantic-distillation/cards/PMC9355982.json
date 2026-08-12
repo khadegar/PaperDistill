@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9355982",
+  "paper_id": "doi:10.1038/s41467-022-32317-w",
+  "pmcid": "PMC9355982",
+  "source_record_sha256": "1d9e8ecad6fe4fea2be81242fb6ba1b5b6548d65e3a0d40be31b55cf3d6d3bdb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bcec59f24f75758c35f04d964d7dda77722f4169487155866475865acb35d0d8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing colloidal crystal microstructures via sacrificial-scaffold-mediated two-photon lithography",
+    "authors": "Liu K, Ding H, Li S, Niu Y, Zeng Y, Zhang J, Du X, Gu Z.",
+    "year": 2022,
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-022-32317-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

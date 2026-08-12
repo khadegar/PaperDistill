@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9460813",
+  "paper_id": "doi:10.1016/j.jor.2022.08.011",
+  "pmcid": "PMC9460813",
+  "source_record_sha256": "3686a913e84fc2289fafe262dc3e26630aef010a8d4b7a8c80ed67fe1e71a433",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9bee979a09bbed3d03f0399d22b6cb4bf9ab3aa05b0f0372fa8bb9bf1ff4cb94",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Shape suitability and mechanical safety of customised hip implants: Three-dimensional printed acetabular cup for hip arthroplasty",
+    "authors": "Kang Y, Sun DH, Park JC, Kim J.",
+    "year": 2022,
+    "journal": "Journal of Orthopaedics",
+    "doi": "10.1016/j.jor.2022.08.011",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

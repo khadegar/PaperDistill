@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13000000",
+  "paper_id": "doi:10.7759/cureus.103745",
+  "pmcid": "PMC13000000",
+  "source_record_sha256": "3acb4967df2f3cb253efb578f92cab3653a057cf56a155e6752e07b52cb30255",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9e36e061f37ce307891c4d1fd93ef2b2bd997f5e503ba7784c7499490f58341b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Three-Dimensional Finite Element Analysis of Stress Distribution in Cement-Retained and Screw-Retained Implant-Supported Restorations in Mandible Using Porcelain-Fused-to-Metal and Zirconia Crowns",
+    "authors": "Thoidingjam B, Kumar S, Aggarwal R, Sharma R, Banjara S, Bindal M, Sra IK.",
+    "year": 2026,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.103745",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

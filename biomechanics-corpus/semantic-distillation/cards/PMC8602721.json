@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8602721",
+  "paper_id": "doi:10.1038/s41598-021-01937-5",
+  "pmcid": "PMC8602721",
+  "source_record_sha256": "247faf5582068b3a4c8c436d4d76cb407fb50e05a0b9162b7686ecd35bc9066f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f0fac60a1818ab440ac800e1d20b74cd84c09907020ee3899bf756c15fd548d2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Engineer design process assisted by explainable deep learning network",
+    "authors": "Hsu CW, Yang AC, Kung PC, Tsou NT, Chen NY.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-01937-5",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

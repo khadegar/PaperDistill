@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12578472",
+  "paper_id": "doi:10.1002/jeo2.70484",
+  "pmcid": "PMC12578472",
+  "source_record_sha256": "4b37479d4cb214d26ab855f7305c6c8eff20261da80ed3f18c4364ad840c8a73",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "284a57581622ce9bb54366e5d8faeb8d1d779f3cad3ccbfce11b0751775dc2d4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Does the ratio of stem‐to‐femur length matter? A validated finite element analysis",
+    "authors": "Banis G, Kousiatza C, Sarkiri M, Touloupas Κ, Spiliotopoulos A, Kontopoulos P, Stergiadou S, Hantes M, Zibis A, Malizos K, Pasiou E, Kourkoulis S, Kalkanis K, Stavrakas I, Batagiannis A.",
+    "year": 2025,
+    "journal": "Journal of Experimental Orthopaedics",
+    "doi": "10.1002/jeo2.70484",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

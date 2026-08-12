@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6831558",
+  "paper_id": "doi:10.3389/fbioe.2019.00269",
+  "pmcid": "PMC6831558",
+  "source_record_sha256": "cdaeb67905b82fe49a48433c3321546d0c3e501ef79bc8fcf169cd40a992741a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c620a1b43ab4873ca17fc148b30575a4c2b635d5ebdac14d427898dec8020357",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Mechanical Effect of the Periodontal Ligament on Bone Strain Regimes in a Validated Finite Element Model of a Macaque Mandible",
+    "authors": "Mehari Abraha H, Iriarte-Diaz J, Ross CF, Taylor AB, Panagiotopoulou O.",
+    "year": 2019,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2019.00269",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

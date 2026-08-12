@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9363717",
+  "paper_id": "doi:10.1111/os.13314",
+  "pmcid": "PMC9363717",
+  "source_record_sha256": "b291075928a1259dcfd9289a78391b0a47998be78f1451a0b29a4aacf5b3deea",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6eec6b5503221793fed886821e46a6a00615f609f72a15ae97cf09cc3f2f939d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Evaluation of Spinal Column after Percutaneous Cement Discoplasty: A Finite Element Analysis",
+    "authors": "Li S, Xu B, Liu Y, Zhang J, Xu G, Shao P, Li X, Hu Y, Ma X.",
+    "year": 2022,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13314",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

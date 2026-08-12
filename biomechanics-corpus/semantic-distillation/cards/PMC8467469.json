@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8467469",
+  "paper_id": "doi:10.3390/polym13183123",
+  "pmcid": "PMC8467469",
+  "source_record_sha256": "87839e4ad606cc2390b324869275312c519e32e860c031203dd47be023668ace",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d43d16d8e49a74f8f9bc50caa3299ef4976c5ff402d8a0332b3c98161b9b924c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing of Collagen/Oligomeric Proanthocyanidin/Oxidized Hyaluronic Acid Composite Scaffolds for Articular Cartilage Repair",
+    "authors": "Lee CF, Hsu YH, Lin YC, Nguyen TT, Chen HW, Nabilla SC, Hou SY, Chang FC, Chung RJ.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13183123",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

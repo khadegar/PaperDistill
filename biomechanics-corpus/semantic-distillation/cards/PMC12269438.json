@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12269438",
+  "paper_id": "doi:10.1016/j.bioactmat.2025.05.001",
+  "pmcid": "PMC12269438",
+  "source_record_sha256": "f62fd5fa9873f555882cd0f6ed5e093c0bf729d801f3387ae7da9ca6d0ca9cae",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "51016602b52a5627cbc7c69e06c0e06f67a988a3ea22aa7615bef965daf7eae6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Strategic advances in Vat Photopolymerization for 3D printing of calcium phosphate-based bone scaffolds: A review",
+    "authors": "Fagotto-Clavijo R, Lodoso-Torrecilla I, Diez-Escudero A, Ginebra MP.",
+    "year": 2025,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2025.05.001",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

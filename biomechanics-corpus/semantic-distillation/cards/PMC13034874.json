@@ -1,0 +1,304 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13034874",
+  "paper_id": "doi:10.2147/imcrj.s591479",
+  "pmcid": "PMC13034874",
+  "source_record_sha256": "a6255ff8b9f838279d6a982a43bc33945429234ec88736df0aa1fe6d83f2d2f5",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T11:17:48Z",
+    "packet_sha256": "12281a785845936e3ecb256da1005e3f9531adbd04fa9c6cf0a1b71afbf8715d",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S002:C02",
+      "S003:C01",
+      "S003:C02",
+      "S003:C03",
+      "S003:C04",
+      "S004:C01",
+      "S004:C02",
+      "S004:C03",
+      "S004:C04",
+      "S004:C05",
+      "S005:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Differential Outcomes of Dental Implant Osseointegration in Florid Cemento-Osseous Dysplasia: A Case Report",
+    "authors": "Sun Y, Yang Y, Liu L, Guo W, Xiao H.",
+    "year": 2026,
+    "journal": "International Medical Case Reports Journal",
+    "doi": "10.2147/imcrj.s591479",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "single_patient_case_report_with_within_patient_site_comparison",
+    "design_features": [
+      "florid_cemento_osseous_dysplasia",
+      "dental_implants",
+      "cbct",
+      "histopathology",
+      "late_implant_failure",
+      "within_patient_spatial_contrast",
+      "clinical_timeline"
+    ],
+    "research_problem": "Dental implants in florid cemento-osseous dysplasia may encounter hypovascular, highly mineralized lesions, yet published cases include both success and failure and there is no established placement guideline.",
+    "exact_gap": "The report addresses whether lesion location and extent may help explain differential implant outcomes within one patient whose implants outside or near small FLCOD lesions remained functional while one implant traversing a large lesion failed (S001:C01; S002:C01-S002:C02).",
+    "objective_or_hypothesis": "Describe the imaging, pathology, treatment timeline, differential implant outcomes, plausible mechanisms, and restorative implications in a patient with FLCOD (S001:C01-S002:C02).",
+    "study_design": "A single 47-year-old patient's diagnostic and treatment course was documented with CBCT, pulp testing, operative details, lesion biopsy/histopathology, serial radiographs, clinical stability, explantation, and nine-month post-explant healing (S003:C01-S003:C04).",
+    "sample_or_model": "One 47-year-old Asian woman with multifocal jaw changes compatible with FLCOD, multiple implants of different brands, sizes, sites, and loading contexts, and a large approximately 10.8 x 13.6 mm hyperdense lesion at site 36 (S003:C01-S003:C03).",
+    "comparators": [
+      "Four implants placed outside or near smaller lesion regions that remained functional",
+      "One implant at site 36 that traversed the large lesion with only about 1 mm of apical engagement in healthy bone and later failed",
+      "An informal within-patient spatial contrast, not a controlled comparison because sites, implant systems, anatomy, restoration, and loading differed"
+    ],
+    "method_spine": [
+      "Establish diagnosis and lesion distribution with CBCT, vitality testing, and biopsy.",
+      "Record implant location relative to lesion, implant geometry/system, insertion torque, drilling/cooling, and restoration timeline.",
+      "Separate early apparent stability from late functional failure.",
+      "Compare site-specific outcomes within the same patient while naming uncontrolled differences.",
+      "Use mechanism language as hypothesis and constrain recommendations to case-informed planning."
+    ],
+    "validation_roles": {
+      "verification": [
+        "CBCT characterized lesion distribution/density and histopathology confirmed benign fibro-osseous change at the site-36 osteotomy (S003:C01-S003:C03).",
+        "Serial radiographs and clinical examinations document placement, apparent four-month stability, one-year mobility with circumferential radiolucency, explantation, and nine-month healing (S003:C03-S003:C04)."
+      ],
+      "calibration": [],
+      "validation": [
+        "Within-patient persistence of other implants is an informative contrast but not independent validation of lesion location as the cause of failure.",
+        "No histomorphometric BIC, ISQ time series, reverse torque, microbiology, perfusion, thermal measurement, occlusal-load measurement, or mechanical interface test validates the proposed vascular or overload mechanism."
+      ],
+      "sensitivity": [
+        "No formal sensitivity analysis is possible in a single case. Alternative explanations include implant/site geometry, restoration/loading, occlusion, local infection not detected clinically, thermal damage, and host healing variation.",
+        "Published cases cited by the authors include both lesion-area success and failure, demonstrating boundary-condition sensitivity rather than a deterministic rule (S004:C03-S004:C05)."
+      ],
+      "application_prediction": [
+        "Avoiding large lesions, considering a fixed bridge, using cooling/asepsis/minimally invasive technique, and prolonged follow-up are case-informed management suggestions, not comparative-effectiveness guidance (S004:C03-S005:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "CBCT showed an approximately 10.8 x 13.6 mm hyperdense lesion at site 36 with an estimated value near 1800 HU versus approximately 1100 HU at other edentulous sites; pathology showed benign fibro-osseous change (S003:C01-S003:C03).",
+      "Implants at sites 24, 25, 45, and 46 were inserted at 30 Ncm and remained functional; the site-36 implant was inserted at 35 Ncm, passed almost entirely through the lesion, and had only its apical 1 mm in healthy bone (S003:C02-S003:C03).",
+      "The site-36 implant appeared stable at four months and received a provisional crown, but about one year after placement the patient reported mobility and radiographs showed circumferential peri-implant radiolucency (S003:C03).",
+      "The implant was explanted with granulation-tissue debridement, and the defect healed uneventfully over nine months without reported infection (S003:C03-S003:C04)."
+    ],
+    "highest_evidence_level_reached": "A diagnostically supported single-case temporal and spatial observation that generates a lesion-location and loading hypothesis; no causal effect estimate or generalizable placement rule."
+  },
+  "argument_map": {
+    "central_claim": "In this patient, the implant traversing a large FLCOD lesion failed after initial apparent stability while implants outside or near smaller lesions remained functional, suggesting that lesion extent/location may be clinically important but not proving vascular insufficiency or overload as the cause.",
+    "data": [
+      "CBCT lesion localization/density, biopsy/histopathology, detailed site-specific implant placement, serial clinical/radiographic follow-up, late mobility/radiolucency, explantation, and healing (S003:C01-S003:C04).",
+      "Other implants in the same patient remained functional, providing a natural spatial contrast (S004:C03-S004:C05)."
+    ],
+    "warrant": "A failure isolated to the implant almost wholly surrounded by abnormal fibro-osseous tissue is compatible with a location-dependent biological or biomechanical limitation and warrants cautious planning and larger comparative evidence.",
+    "backing": [
+      "FLCOD histology is described as hypovascular and highly mineralized, and cited cases report both failures through lesions and successes in or near lesions (S004:C02-S004:C04)."
+    ],
+    "qualifier": "Hypothesis-generating single case with a useful but confounded within-patient contrast.",
+    "rebuttals_or_boundaries": [
+      "The five implants differed in site, anatomy, brand, dimensions, insertion torque, restoration, and functional loading.",
+      "Only one implant traversed the large lesion, so lesion extent cannot be separated from site-specific biomechanics or treatment decisions.",
+      "Four-month clinical stability is not direct histological osseointegration and may represent primary/mechanical stability.",
+      "No perfusion, bone remodeling, BIC, interface strength, occlusal force, thermal injury, or microbiological measurement isolates the proposed mechanism.",
+      "The absence of overt infection does not exclude low-grade infection or other causes of radiolucency and mobility.",
+      "Published lesion-area successes cited by the paper prevent a deterministic 'implant in FLCOD always fails' conclusion (S004:C04)."
+    ],
+    "argument_coherence": "high_for_case_timeline_moderate_for_causal_attribution"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Clinical examination, CBCT distribution and approximate density values, lesion dimensions, vitality testing, implant dimensions/torque, drilling/cooling details, histopathology, serial radiographs, patient-reported mobility, clinical explantation findings, and healing timeline (S003:C01-S003:C04)."
+    ],
+    "predicted": [],
+    "inferred": [
+      "Reduced vascularity, impaired osteogenic-cell recruitment, thermal susceptibility, and biomechanical overload are mechanistic explanations drawn from disease biology and literature rather than directly measured in this patient (S002:C01; S004:C02-S004:C03).",
+      "The authors infer that full penetration of the large lesion was the main cause of failure and that placement distant from lesions is feasible (S004:C03-S004:C05)."
+    ],
+    "recommended": [
+      "Use thorough preoperative imaging, avoid or minimize traversal of large lesions where practicable, maintain cooling and asepsis, consider non-implant fixed restoration, and monitor long term; frame these as individualized case-informed decisions (S004:C03-S005:C01)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Insertion torque measures initial mechanical engagement, not biological integration.",
+      "Apparent four-month stability does not prove mature BIC or long-term remodeling competence.",
+      "CBCT density and radiopacity do not directly measure vascularity, viable bone, or interface strength.",
+      "Circumferential radiolucency and mobility demonstrate clinical failure but do not identify a unique biological or mechanical cause.",
+      "Success at other sites in one patient does not estimate population-level risk."
+    ],
+    "overclaim_risks": [
+      "Calling the site comparison a 'self-controlled' demonstration may imply experimental equivalence that does not exist (S004:C05).",
+      "The statement that delayed loading caused failure or that full lesion traversal was the main reason exceeds the directly measured evidence (S004:C03-S004:C05).",
+      "The metadata animal cue is false; this is a human single-case report."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "case_report",
+      "move": "Build a site-specific clinical timeline",
+      "execution": "The report connects CBCT diagnosis, implant selection and torque, biopsy, four-month stability, provisional loading, one-year mobility/radiolucency, explantation, and nine-month healing (S003:C01-S003:C04).",
+      "locator": "S003:C03",
+      "effectiveness": "high",
+      "transferable_principle": "For implant cases, report anatomy and lesion geometry, device, operative parameters, loading/restoration, and each follow-up endpoint on one auditable timeline.",
+      "failure_mode": "A complete timeline still does not establish causality without appropriate controls and mechanistic measurements."
+    },
+    {
+      "section": "discussion",
+      "move": "Use a within-patient spatial contrast without overstating control",
+      "execution": "The authors contrast the failed implant through the large lesion with functioning implants outside or near smaller lesions (S004:C03-S004:C05).",
+      "locator": "S004:C05",
+      "effectiveness": "moderate",
+      "transferable_principle": "Exploit within-patient contrasts to generate hypotheses, then enumerate site, device, load, anatomy, time, and treatment differences that prevent causal equivalence.",
+      "failure_mode": "Do not label a natural spatial contrast as a controlled experiment."
+    },
+    {
+      "section": "discussion",
+      "move": "Separate observed failure from proposed vascular and mechanical mechanisms",
+      "execution": "Mobility and radiolucency are observed, whereas low vascularity, impaired remodeling, heat susceptibility, and overload are proposed explanations (S004:C02-S004:C03).",
+      "locator": "S004:C03",
+      "effectiveness": "moderate",
+      "transferable_principle": "Write case discussions in three clauses: observed event, mechanism consistent with the event, and discriminating data that were not measured.",
+      "failure_mode": "Do not convert disease plausibility into patient-specific proof."
+    },
+    {
+      "section": "conclusion",
+      "move": "Translate a single failure into an individualized next decision",
+      "execution": "The paper chooses a fixed bridge for site 36 and continued oral-hygiene follow-up rather than claiming a universal treatment rule (S005:C01).",
+      "locator": "S005:C01",
+      "effectiveness": "high",
+      "transferable_principle": "A case-report conclusion should state the next patient-level decision and the hypothesis for future study, not a population efficacy claim.",
+      "failure_mode": "Do not generalize one site's outcome to all patients or all lesions."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Single case, short follow-up, limited generalizability, and individual anatomical/healing variation; larger samples and longer follow-up are needed (S004:C05)."
+    ],
+    "reader_identified": [
+      "Natural within-patient comparison is confounded by anatomical site, lesion size, implant brand/geometry, restoration, and loading.",
+      "No quantitative interface, perfusion, microbiology, thermal, occlusal, or bone-remodeling measurements.",
+      "Approximate CBCT HU values are scanner/protocol dependent and do not directly quantify bone quality or vascularity.",
+      "Four-month 'stable osseointegration' is asserted without histology or serial objective stability measurement.",
+      "One late failure cannot distinguish lesion biology from overload, micromotion, infection, thermal injury, or device/site factors.",
+      "Other cited cases include lesion-area success, indicating important unmeasured moderators."
+    ],
+    "likely_bias_direction": [
+      "Retrospective causal attribution likely overweights lesion traversal because it is the most salient difference.",
+      "Successful sites may encourage overconfidence in lesion-distance guidance despite multiple uncontrolled differences.",
+      "Case-publication selection makes unusual success/failure patterns unrepresentative of population risk."
+    ],
+    "scope_boundary": "The case supports careful lesion mapping and long-term surveillance and raises a lesion-extent hypothesis; it does not quantify FLCOD implant risk, prove a vascular/overload mechanism, or establish a universal contraindication or protocol."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC13034874-01",
+      "capability": "Write a patient-specific implant case as an anatomy-device-loading-outcome timeline with exact site and follow-up details.",
+      "manuscript_use": "Case presentation, figure timeline, and implant-failure narrative.",
+      "applicable_domains": [
+        "bone_implant",
+        "osseointegration",
+        "patient_specific_implant"
+      ],
+      "applicable_study_designs": [
+        "case_report",
+        "case_series"
+      ],
+      "supporting_locators": [
+        "S003:C01",
+        "S003:C02",
+        "S003:C03",
+        "S003:C04"
+      ],
+      "counterexample_or_boundary": "Chronology supports auditability but does not itself establish mechanism.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC13034874-02",
+      "capability": "Use within-patient spatial contrasts as hypothesis-generating evidence while explicitly auditing site, implant, anatomy, restoration, and load confounding.",
+      "manuscript_use": "Discussion comparator audit and limitations paragraph.",
+      "applicable_domains": [
+        "bone_implant",
+        "clinical_biomechanics",
+        "osseointegration"
+      ],
+      "applicable_study_designs": [
+        "case_report",
+        "observational_study"
+      ],
+      "supporting_locators": [
+        "S003:C02",
+        "S003:C03",
+        "S004:C03",
+        "S004:C05"
+      ],
+      "counterexample_or_boundary": "Different anatomical sites and device/loading conditions are not a controlled self-comparison.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC13034874-03",
+      "capability": "Separate clinical failure observations from vascular, biological, thermal, and mechanical explanations and state the missing discriminating tests.",
+      "manuscript_use": "Mechanism paragraph, limitations, and future work.",
+      "applicable_domains": [
+        "osseointegration",
+        "bone_implant",
+        "biomechanics"
+      ],
+      "applicable_study_designs": [
+        "case_report",
+        "clinical_observational"
+      ],
+      "supporting_locators": [
+        "S004:C02",
+        "S004:C03",
+        "S004:C04",
+        "S004:C05"
+      ],
+      "counterexample_or_boundary": "Mobility plus radiolucency proves failure, not the unique cause of failure.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "appropriate_for_case_report",
+    "methods_transparency": "high_for_clinical_timeline",
+    "validation_credibility": "low_for_mechanism_moderate_for_diagnosis_and_outcome",
+    "outcome_uncertainty_reporting": "moderate",
+    "comparator_fairness": "low",
+    "conclusion_proportionality": "moderate_to_high_at_patient_decision_level",
+    "critical_weaknesses": [
+      "Single patient and one failure event.",
+      "Confounded within-patient site comparison.",
+      "No direct osseointegration, perfusion, load, infection, or interface-mechanics measurement."
+    ],
+    "overall_credibility": "high_for_documenting_this_case_moderate_for_lesion_location_hypothesis_low_for_causal_or_population_guidance"
+  },
+  "summary_zh": "这是一例 FLCOD 患者的多位点植入病例：远离或仅邻近小病灶的植体持续工作，而几乎完全穿过约 10.8×13.6 mm 大病灶的 36 位点植体在四个月表现稳定、接受临时修复后，于约一年出现松动和环周透射影并被取出。CBCT 与病理支持 FLCOD 诊断，时间线也清楚，但这仍是一个有混杂的自然位点对照：解剖、植体品牌/尺寸、修复和载荷均不同。低血供、热损伤和功能过载都是合理机制，却没有灌注、BIC、ISQ 序列、逆扭矩、微生物或咬合力数据来区分。可迁移的写法是把直接观察、机制假说和个体化建议分层，并把同一患者比较定位为假设生成，而非因果证明。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section, including imaging, operative details, pathology, serial follow-up, cited success/failure cases, and limitations.",
+    "The article is a human single-case report; the automatic animal-study cue is incorrect.",
+    "The strongest reusable feature is the auditable clinical timeline; the principal counterexample is causal overinterpretation of a confounded within-patient contrast."
+  ],
+  "selection": {
+    "selection_reason": "balanced_stratum",
+    "primary_stratum": "osseointegration_bone_ingrowth",
+    "stratum_rank": 5,
+    "reading_order": 30
+  },
+  "source": {
+    "record_path": "records/PMC13034874.json.gz",
+    "source_record": "records/PMC13034874.json.gz",
+    "source_record_sha256": "a6255ff8b9f838279d6a982a43bc33945429234ec88736df0aa1fe6d83f2d2f5",
+    "source_hash": "a6255ff8b9f838279d6a982a43bc33945429234ec88736df0aa1fe6d83f2d2f5"
+  }
+}

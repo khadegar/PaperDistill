@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9608599",
+  "paper_id": "doi:10.3390/polym14204293",
+  "pmcid": "PMC9608599",
+  "source_record_sha256": "59604dd2d6bcf860b48b57b18883c5310aa024914766a2fd9c3c392f02436561",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f82194454e83180941ce0404eee7764e7afff10f3f148e93ea3669e130c20a63",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical Properties of 3D-Printed PEEK/HA Composite Filaments",
+    "authors": "Kang J, Zheng J, Hui Y, Li D.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14204293",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

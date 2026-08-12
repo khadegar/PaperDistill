@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7163060",
+  "paper_id": "doi:10.1016/j.bonr.2020.100263",
+  "pmcid": "PMC7163060",
+  "source_record_sha256": "1a57031ab5730090975715e4b2200791397dcbb2a9e62a302aa14a6148b74bef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c5a93c930d6ca11b59d707b6b91351367b402730615c4def13cfc4bfcfc393ab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Nonlinear voxel-based finite element model for strength assessment of healthy and metastatic proximal femurs",
+    "authors": "Sas A, Ohs N, Tanck E, van Lenthe GH.",
+    "year": 2020,
+    "journal": "Bone Reports",
+    "doi": "10.1016/j.bonr.2020.100263",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

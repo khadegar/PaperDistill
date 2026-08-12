@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10512836",
+  "paper_id": "doi:10.3389/fbioe.2023.1229210",
+  "pmcid": "PMC10512836",
+  "source_record_sha256": "395415d5c925939bdf461110cc381fdcda500d590adb877eb51ee0ad1680ff55",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "eb00a731f50380f57811ae2a0d4aca20b001ba79343fef57b1450a81199bcbec",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of a novel individualized zero-profile cage for anterior cervical discectomy and fusion: a finite element analysis",
+    "authors": "Wang Y, Liu Y, Zhang A, Han Q, Jiao J, Chen H, Gong X, Luo W, Yue J, Zhao X, Wang J, Wu M.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1229210",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

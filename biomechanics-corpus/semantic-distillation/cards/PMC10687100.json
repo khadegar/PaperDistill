@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10687100",
+  "paper_id": "doi:10.1038/s41598-023-48315-x",
+  "pmcid": "PMC10687100",
+  "source_record_sha256": "1062c812cd95fc458270bbb634843077a7b9e0f8e2774df4b0c3134cf49f018f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f76260b4d6c3cbf1c022b905ee241626f5901d59722bdf7efe437b6a78a07e08",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative evaluation of 3D-printed and conventional implants in vivo: a quantitative microcomputed tomographic and histomorphometric analysis",
+    "authors": "Suh H, Lee D, Lee J, Seol YJ, Lee YM, Koo KT.",
+    "year": 2023,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-023-48315-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

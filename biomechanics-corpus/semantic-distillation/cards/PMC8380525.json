@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8380525",
+  "paper_id": "doi:10.4055/cios20253",
+  "pmcid": "PMC8380525",
+  "source_record_sha256": "d013c420267c9b1f3d3366b18948147b18b5c4a596f76880d4cc0b4b9ed60ce2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "08c1191e0d09557faa06c4a5eefdf3ddb4e3f0d3d0c67dd0f661fb5caa493bae",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis of the Kirschner-Wire Depth of the Modified Tension Band Wiring Technique in Transverse Patellar Fractures: An Experimental Study Using the Finite-Element Method",
+    "authors": "Kim Y, Kwon M, Ryu JY, Moon SW.",
+    "year": 2021,
+    "journal": "Clinics in Orthopedic Surgery",
+    "doi": "10.4055/cios20253",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

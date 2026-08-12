@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11698920",
+  "paper_id": "doi:10.1016/j.heliyon.2024.e40668",
+  "pmcid": "PMC11698920",
+  "source_record_sha256": "0219abb9141dd995813409a1083e33a6a7f274a7e9f7c586fb2be411c6ec1c2f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bb48c4fa6c468fc37683d32cdedf42dfeb60c40417d4673cc82aa316cffab379",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Heterogeneous material models for finite element analysis of the human mandible bone – A systematic review",
+    "authors": "Soodmand I, Becker AK, Sass JO, Jabs C, Kebbach M, Wanke G, Dau M, Bader R.",
+    "year": 2024,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2024.e40668",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

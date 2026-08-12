@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9541076",
+  "paper_id": "doi:10.1186/s12893-022-01804-8",
+  "pmcid": "PMC9541076",
+  "source_record_sha256": "16f3cf290805cfc0c6526087408b9189c22db0afeaff5cb38f527450fe9e97c5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "04a46ae53765c1ee320f48f53352e0861378aaa5fbde8299b86dbf444259c90e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed hemipelvic prosthesis combined with a dual mobility bearing in patients with primary malignant neoplasm involving the acetabulum: clinical outcomes and finite element analysis",
+    "authors": "Wang M, Liu T, Xu C, Liu C, Li B, Lian Q, Chen T, Qiao S, Wang Z.",
+    "year": 2022,
+    "journal": "BMC Surgery",
+    "doi": "10.1186/s12893-022-01804-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

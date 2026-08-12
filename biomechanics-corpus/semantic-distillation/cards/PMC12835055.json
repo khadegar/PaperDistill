@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12835055",
+  "paper_id": "doi:10.1007/s40496-025-00421-7",
+  "pmcid": "PMC12835055",
+  "source_record_sha256": "b122edcb1b581026f1bb8d36dff563c40d68be5a12c32ee96308c88e6c3036bc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "44bdd429ec8d4dc188d5a0c385c71b50f50ef536e464f8f7fb1c0f5c55be0fe3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advances in 3D Printed Scaffolds for Periodontal Regeneration",
+    "authors": "Daghrery A, Soares IPM, Dos Reis-Prado AH, de Souza Araújo IJ, Dal-Fabbro R, Bottino MC.",
+    "year": 2026,
+    "journal": "Current Oral Health Reports",
+    "doi": "10.1007/s40496-025-00421-7",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

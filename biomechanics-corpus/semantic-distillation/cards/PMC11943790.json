@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11943790",
+  "paper_id": "doi:10.3390/medicina61030476",
+  "pmcid": "PMC11943790",
+  "source_record_sha256": "0865bc436ef61b0021a33fc5b0b2b8fe38775e78cbe83bc9c9c8b49e8571baa8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "02f078c4353e3872509395d368f7ce8fd09109e882a719c0cc01983fa3550df9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Knee-Sparing Resection and Reconstruction Surgery for Bone Sarcoma Using 3D-Surgical Approach: Average of 5-Year Follow-Up",
+    "authors": "Benady A, Yehiel N, Segal O, Merose O, Sterenheim A, Sher O, Efrima B, Golden E, Gortzak Y, Dadia S.",
+    "year": 2025,
+    "journal": "Medicina",
+    "doi": "10.3390/medicina61030476",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

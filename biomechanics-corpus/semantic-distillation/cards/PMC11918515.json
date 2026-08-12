@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11918515",
+  "paper_id": "doi:10.1155/2023/3901448",
+  "pmcid": "PMC11918515",
+  "source_record_sha256": "5469838d8ac919d44b90757ea7eaa648972f9068c456bab0a62a72004d888c09",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "072df5cbb9e749edae0a161fa13b2c3afd887ada71eb04de68c0ba1c60768b5b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing of Bone Substitutes Based on Vat Photopolymerization Processes: A Systematic Review",
+    "authors": "Enbergs S, Spinnen J, Dehne T, Sittinger M.",
+    "year": 2023,
+    "journal": "Journal of Tissue Engineering and Regenerative Medicine",
+    "doi": "10.1155/2023/3901448",
+    "publication_type": "Research Support, Non-U.S. Gov't; Systematic Review; review-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

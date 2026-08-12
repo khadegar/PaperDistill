@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7911692",
+  "paper_id": "doi:10.3390/biomedicines9020128",
+  "pmcid": "PMC7911692",
+  "source_record_sha256": "68efef7abbea9effabf38721ece53542597d379680642368c6d197b54a607b5f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "819d7fcbbc3eabf33087c6bc88725dac71189c660416413074c6b6fb39a96a0d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Incorporation of Calcium Sulfate Dihydrate into a Mesoporous Calcium Silicate/Poly-ε-Caprolactone Scaffold to Regulate the Release of Bone Morphogenetic Protein-2 and Accelerate Bone Regeneration",
+    "authors": "Huang KH, Wang CY, Chen CY, Hsu TT, Lin CP.",
+    "year": 2021,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines9020128",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9851059",
+  "paper_id": "doi:10.2147/ijn.s390500",
+  "pmcid": "PMC9851059",
+  "source_record_sha256": "9a59307935d2b83d6b94f3a6faac731574685bb9d8c6c3980884a356550a61f7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e8f64ec7c1fbdd66ce0d75c15f399f556077aec196bbef9af45d6a9f1ec93571",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Dual Effect of 3D-Printed Biological Scaffolds Composed of Diverse Biomaterials in the Treatment of Bone Tumors",
+    "authors": "Ma Y, Zhang B, Sun H, Liu D, Zhu Y, Zhu Q, Liu X.",
+    "year": 2023,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s390500",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

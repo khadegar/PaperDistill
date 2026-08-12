@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11461895",
+  "paper_id": "doi:10.3389/fbioe.2024.1463047",
+  "pmcid": "PMC11461895",
+  "source_record_sha256": "c5ff18e4d7a55c2f447701c661f7d3bf6d0f85cc7d34370ac95f8f0fa2a915fa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1721a8ae238656a500d3028b1f430f6e1494177308825ef50d1dea7f0fac3105",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of augmentation strategy variations on the mechanical characteristics of patients with osteoporotic proximal humerus fractures with medial column instability",
+    "authors": "Xiao G, Zhang X, Duan A, Li J, Chen J.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1463047",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

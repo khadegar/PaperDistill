@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12914970",
+  "paper_id": "doi:10.1186/s13018-025-06633-y",
+  "pmcid": "PMC12914970",
+  "source_record_sha256": "dbfc5efc61c09bb49108e30f8c93df5f8c32a197d44541431e3ac2ac26f5fd0d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "67ce0e5f36cb8c45934dd1577e63120d8949e52bd4800f84c6491fe2c08ad84e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Partial unicondylar arthroplasty with three-dimensional-printed porous tantalum prosthesis shows promising early results for focal osteochondral defects: a retrospective comparative study with average of 49.6-month follow-up",
+    "authors": "Fu Z, Fan H, Wang P, Wan Z, Xiong R, Chen X, Ma J, Chen G, Wang F, Yang L.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-06633-y",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

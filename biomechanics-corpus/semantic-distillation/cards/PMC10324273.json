@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10324273",
+  "paper_id": "doi:10.1186/s13018-023-03977-1",
+  "pmcid": "PMC10324273",
+  "source_record_sha256": "08fe49c665e1ea8517a5f9af257bf246e697eac0fc165700abb8aadac957f5d3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "88ef3dd6a70be68177ba47eddbb51bb194251871f7f9954b2ca7875fa405ec4a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical effects of transverse connectors on total en bloc spondylectomy of the lumbar spine: a finite element analysis",
+    "authors": "Han Y, Ren X, Liang Y, Ma X, Wang X.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-03977-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

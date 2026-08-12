@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10689208",
+  "paper_id": "doi:10.1016/j.bioactmat.2023.11.001",
+  "pmcid": "PMC10689208",
+  "source_record_sha256": "1a02354da9655001f680a96fbe408b7d7a63e0819c43111a7b70e6c2eb8f9f90",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "acaa080cf3fe628ffe3dbfd6fc525585f1c597fedbf2e1718d78543441751351",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Simvastatin/hydrogel-loaded 3D-printed titanium alloy scaffolds suppress osteosarcoma via TF/NOX2-associated ferroptosis while repairing bone defects",
+    "authors": "Jing Z, Yuan W, Wang J, Ni R, Qin Y, Mao Z, Wei F, Song C, Zheng Y, Cai H, Liu Z.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2023.11.001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

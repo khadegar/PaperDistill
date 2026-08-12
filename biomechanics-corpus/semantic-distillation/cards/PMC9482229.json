@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9482229",
+  "paper_id": "doi:10.1186/s12938-022-01039-x",
+  "pmcid": "PMC9482229",
+  "source_record_sha256": "5aac70be0a27651b01c544e0ddd117aa4d7c55ae9dc6a61aefcfaeb7bdd740ec",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f2bacd7a47a45bfb3a0dcd9151442e1f20317637cfcba4916a33195716d64d81",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Medial tibial plateau sustaining higher physiological stress than the lateral plateau: based on 3D printing and finite element method",
+    "authors": "Zheng L, Dai Y, Zheng Y, He X, Wu M, Zheng D, Li C, Fan Y, Lin Z.",
+    "year": 2022,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-022-01039-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

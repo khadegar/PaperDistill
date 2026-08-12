@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8990130",
+  "paper_id": "doi:10.3389/fbioe.2022.797542",
+  "pmcid": "PMC8990130",
+  "source_record_sha256": "472dbf5a698a00e4e3e69db0a96781bfa39597eb5a2caf1884f2a1dc5fbb5d28",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4ca22f12896b4485b851da55a60e069fd01e6fdc5317af6104d037cdb50dd868",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Bioreactor for 3D In Vitro Modeling of the Mechanical Stimulation of Osteocytes",
+    "authors": "Aw Yong KM, Horst E, Neale D, Royzenblat S, Lahann J, Greineder C, Weivoda M, Mehta G, Keller ET.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.797542",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

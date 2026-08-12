@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11351682",
+  "paper_id": "doi:10.3390/biomimetics9080461",
+  "pmcid": "PMC11351682",
+  "source_record_sha256": "baa466ef3224cf7174d91db9fad0fd29664bb7c7088c08e06425190ec64803ac",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "17e77abf676bf457331cabd21e4c39b5d400e0e5fff6061f2e719a85f185da9a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Interaction between Oral Bacteria and 3D Titanium Porous Surfaces Produced by Selective Laser Melting—A Narrative Review",
+    "authors": "Dotta TC, D'Ercole S, Iezzi G, Pedrazzi V, Galo R, Petrini M.",
+    "year": 2024,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics9080461",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

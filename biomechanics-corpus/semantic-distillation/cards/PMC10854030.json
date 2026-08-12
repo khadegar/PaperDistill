@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10854030",
+  "paper_id": "doi:10.1186/s12891-024-07234-2",
+  "pmcid": "PMC10854030",
+  "source_record_sha256": "13e071bc6be8dc6d5fae14b29169e8723960cdfe5d69e959962695d53f9bb0d9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "000f780076c9203115557eb86c9b05c8a49d497c8f9fb0ea583cb168fa1093ac",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Study on the use of 3D printed guides in the individualized reconstruction of the anterior cruciate ligament",
+    "authors": "Wang X, Wang D, Zhang C, Zhang K, Du C, Shi H.",
+    "year": 2024,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-024-07234-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

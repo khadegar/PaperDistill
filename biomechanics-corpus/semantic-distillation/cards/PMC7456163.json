@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7456163",
+  "paper_id": "doi:10.12659/msm.921823",
+  "pmcid": "PMC7456163",
+  "source_record_sha256": "26af78e530e329bdc0ad2c1c0243c8c0710f2e6402c5978f617c728d721ca62c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4af17c8df14827aabe434e7b97fc6709120059b536a974d1b7aad323ec742602",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of the Effect of Talar Osteochondral Defects of Different Depths on Ankle Joint Stability",
+    "authors": "Li J, Wei Y, Wei M.",
+    "year": 2020,
+    "journal": "Medical Science Monitor : International Medical Journal of Experimental and Clinical Research",
+    "doi": "10.12659/msm.921823",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

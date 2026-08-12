@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5319375",
+  "paper_id": "doi:10.1051/sicotj/2016043",
+  "pmcid": "PMC5319375",
+  "source_record_sha256": "405c964250f1260a2d5421bf63ffe9a4728b1516142bf32d6dc5c50d95f683c7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9e7de77712562983f18f6ea948779c42fecba39d32fa2617258397e4fc11e09c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Putting 3D modelling and 3D printing into practice: virtual surgery and preoperative planning to reconstruct complex post-traumatic skeletal deformities and defects",
+    "authors": "Tetsworth K, Block S, Glatt V.",
+    "year": 2017,
+    "journal": "SICOT-J",
+    "doi": "10.1051/sicotj/2016043",
+    "publication_type": "review-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

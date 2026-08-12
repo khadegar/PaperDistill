@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7434051",
+  "paper_id": "doi:10.1021/acsabm.0c00116",
+  "pmcid": "PMC7434051",
+  "source_record_sha256": "073d213c5f01dd38e462c26ac44bbd56e2dcced8a2ef7e336df88d3ac863b510",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "07e8e7d50722466b893954502ad59529de94f4d8bbb51abb73caf32eaaac12cb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Situ 3D-Printing using a Bio-ink of Protein–photosensitizer Conjugates for Single-cell Manipulation",
+    "authors": "Nishiguchi A, Kapiti G, Höhner JR, Singh S, Moeller M.",
+    "year": 2020,
+    "journal": "ACS Applied Bio Materials",
+    "doi": "10.1021/acsabm.0c00116",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

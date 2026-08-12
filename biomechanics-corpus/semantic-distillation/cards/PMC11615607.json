@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11615607",
+  "paper_id": "doi:10.1016/j.mtbio.2024.101344",
+  "pmcid": "PMC11615607",
+  "source_record_sha256": "6d74808d3d647dca0a02ff01745699c11d9c13570983c2e5bd998c78464ad9ed",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c44ae751c467698d98bfc7e79c1845268911978243db576272c7f7e622829fa8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Nickel–titanium alloy porous scaffolds based on a dominant cellular structure manufactured by laser powder bed fusion have satisfactory osteogenic efficacy",
+    "authors": "Lin J, Yan A, Huang A, Tang Q, Lu J, Xu H, Huang Y, Luo T, Chen Z, Zeng A, Zhu X, Yang C, Wang J.",
+    "year": 2024,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2024.101344",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

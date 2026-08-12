@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10886059",
+  "paper_id": "doi:10.3390/bioengineering11020180",
+  "pmcid": "PMC10886059",
+  "source_record_sha256": "1bc4c185e15ae41384f0e9fcb6fda17bac70b9631d1838835f1e31a7ce1380a1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4ba9ca1d0c90cca943c48b0ef4df3094a62ec04d1c456e0791dec6d1e919c493",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone-Regeneration Therapy Using Biodegradable Scaffolds: Calcium Phosphate Bioceramics and Biodegradable Polymers",
+    "authors": "Aoki K, Ideta H, Komatsu Y, Tanaka A, Kito M, Okamoto M, Takahashi J, Suzuki S, Saito N.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11020180",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

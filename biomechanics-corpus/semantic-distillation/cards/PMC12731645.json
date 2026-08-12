@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12731645",
+  "paper_id": "doi:10.3390/dj13120601",
+  "pmcid": "PMC12731645",
+  "source_record_sha256": "a4196da532294aa0ec3d17f3bc9e2d81787a9214851ed8b17d8b8bb5e8af551d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "754d12dea720b9d5d104da3870eee77e7737a82fa5f0c7d049bc531a349696b1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical Behaviour of Dental Luting Cements: Static, Dynamic, and Finite Element Studies",
+    "authors": "Tarjányi T, Mészáros C, Kiss RA, Tóth Z, Pelsőczi I.",
+    "year": 2025,
+    "journal": "Dentistry Journal",
+    "doi": "10.3390/dj13120601",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

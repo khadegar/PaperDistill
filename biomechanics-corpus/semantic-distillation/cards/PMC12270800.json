@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12270800",
+  "paper_id": "doi:10.1016/j.jot.2025.05.007",
+  "pmcid": "PMC12270800",
+  "source_record_sha256": "37b8658fdd1a21c554695c03bb63bbd4912180209c27fae87c01910b78ad04c8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ba74d5b66077fa93e9181c652be0f2a31b1ab3da24d36ae3b7fec139830d57fc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Establishment of a clinically relevant beagle model for periprosthetic joint infection with 3D-printed prostheses and multimodal evaluation",
+    "authors": "Liu H, Fan T, Yuan R, Lu S, Sun D, Huan Y, Gong M, Xiao H, Wei C, Wang H, Fan S, He Y, Hu J, Zhang H, Sun H, Gu Q, Zha Y, Jiang X.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2025.05.007",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

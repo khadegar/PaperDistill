@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7909290",
+  "paper_id": "doi:10.3390/cells10020195",
+  "pmcid": "PMC7909290",
+  "source_record_sha256": "6a308c0c9a1cc97704fe4aa3637bcfc46ec423802f09f2c42455e720cce645be",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5b504332f052d0d25c749d70881bb08daa020f162cd7e24f20d90d7b8ee9a798",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Computer Navigation and 3D Printing in the Surgical Management of Bone Sarcoma",
+    "authors": "McCulloch RA, Frisoni T, Kurunskal V, Maria Donati D, Jeys L.",
+    "year": 2021,
+    "journal": "Cells",
+    "doi": "10.3390/cells10020195",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

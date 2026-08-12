@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9947707",
+  "paper_id": "doi:10.3389/fbioe.2023.1096390",
+  "pmcid": "PMC9947707",
+  "source_record_sha256": "91170acf99ab786f4241a47bcd04b14c1fe19a9443f61ad80988f63c6b9c32f4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3fbc93adf09d9112175a14b6f51ffe836537cdf5c1964bc52d006c7de4ddba3b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Adipose stem cells-derived exosomes modified gelatin sponge promotes bone regeneration",
+    "authors": "Li G, Zhang Y, Wu J, Yang R, Sun Q, Xu Y, Wang B, Cai M, Xu Y, Zhuang C, Wang L.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1096390",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8313150",
+  "paper_id": "doi:10.1111/os.12973",
+  "pmcid": "PMC8313150",
+  "source_record_sha256": "89c7c105c3f8dbcf1e95a29b1d6f0c25edc8fa9f40a46ea4af1edc260ce886c3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "142dd6cbaa85bded66b421b52a05ece48a8ab81201671465d4152a01aad4df2b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Titanium Alloy Gamma Nail versus Biodegradable Magnesium Alloy Bionic Gamma Nail for Treating Intertrochanteric Fractures: A Finite Element Analysis",
+    "authors": "Li M, Zhao K, Ding K, Cui YW, Cheng XD, Yang WJ, Hou ZY, Zhang YZ, Chen W, Hu P, Zhu YB.",
+    "year": 2021,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.12973",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

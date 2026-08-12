@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10568963",
+  "paper_id": "doi:10.4103/1735-5362.383711",
+  "pmcid": "PMC10568963",
+  "source_record_sha256": "c94a2dbd71d26a101ec5df5cb89ce9e95aa4b6a82aac310be4fe85559eaec49e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f55570d453794dde94e7e493935e24bbab4d26d013d2efd77343303bc1e609be",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "PCL/Agarose 3D-printed scaffold for tissue engineering applications: fabrication, characterization, and cellular activities",
+    "authors": "Ghaedamini S, Karbasi S, Hashemibeni B, Honarvar A, Rabiei A.",
+    "year": 2023,
+    "journal": "Research in Pharmaceutical Sciences",
+    "doi": "10.4103/1735-5362.383711",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

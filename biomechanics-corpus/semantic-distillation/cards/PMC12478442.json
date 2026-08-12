@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12478442",
+  "paper_id": "doi:10.1002/btm2.70022",
+  "pmcid": "PMC12478442",
+  "source_record_sha256": "7dfcbece39a84399b11c2e392857ae8af71933e8f3141492e53b2b3f80a47809",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d553455fdaaa300969b0e17ca36e681f01326435cd71d9febab0320e4a2aa336",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bionic scaffolds with integrated structural components based on low‐temperature deposition manufacturing 3D printing technology for the treatment of meniscus defects",
+    "authors": "Shen S, Li Y, Chen M, Guo W, Gao S, Zhang Z, Zhuo N, Liu S, Guo Q.",
+    "year": 2025,
+    "journal": "Bioengineering & Translational Medicine",
+    "doi": "10.1002/btm2.70022",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

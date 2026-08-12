@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8418751",
+  "paper_id": "doi:10.1186/s12951-021-01012-1",
+  "pmcid": "PMC8418751",
+  "source_record_sha256": "d6284cf8d6282ffcbba91a202cb6692698780eb54b1c46c8dec57a60a89d04a7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "812e4a538d32f85d0bc4c5fc4208cf45d1f57e789fee4c1077910cdecd35e3d5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printing magnesium–polycaprolactone loaded with melatonin inhibits the development of osteosarcoma by regulating cell-in-cell structures",
+    "authors": "Zhang W, Zhao W, Li Q, Zhao D, Qu J, Yuan Z, Cheng Z, Zhu X, Zhuang X, Zhang Z.",
+    "year": 2021,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-021-01012-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

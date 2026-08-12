@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7767064",
+  "paper_id": "doi:10.3390/ma13245786",
+  "pmcid": "PMC7767064",
+  "source_record_sha256": "cf5c681f2d153f1d02a5ea25d00b94c925df5967dc1a4f730abc8d12e31075c9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "039353d3bcad4558bd25066722c5af8c8853f17182ff370e177b1da9d656bb4f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Selective Laser Melting of Patient Individualized Osteosynthesis Plates—Digital to Physical Process Chain",
+    "authors": "Edelmann A, Dubis M, Hellmann R.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13245786",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

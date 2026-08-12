@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6805187",
+  "paper_id": "doi:10.1055/s-0039-1693141",
+  "pmcid": "PMC6805187",
+  "source_record_sha256": "84b83ff31d90838698597e2facb2975a626a6c70b6ada3778c88bd5ef6de272d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6c347a96932ebf31cba52b986181e6899b2519e3252477cb771fa1f4e780947c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Influence of Dietary Salt on the Osseointegration of Implants in Aging Rats",
+    "authors": "Baldisserotto J, Padilha DMP, Amenábar JM.",
+    "year": 2019,
+    "journal": "International Archives of Otorhinolaryngology",
+    "doi": "10.1055/s-0039-1693141",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

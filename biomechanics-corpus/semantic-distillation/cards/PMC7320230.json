@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7320230",
+  "paper_id": "doi:10.1016/j.jot.2020.05.006",
+  "pmcid": "PMC7320230",
+  "source_record_sha256": "3c8c030815b04be0cc2976a27611e87df8fb890a585af421e2c3a6e5db9e55ec",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "db205208dccfaef822ef406c436187af5d98c8251400213c388290d649d8f3b1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Differences in subchondral trabecular bone microstructure and finite element analysis-based biomechanical properties between osteoporosis and osteoarthritis",
+    "authors": "He Z, Chu L, Liu X, Han X, Zhang K, Yan M, Li X, Yu Z.",
+    "year": 2020,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2020.05.006",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

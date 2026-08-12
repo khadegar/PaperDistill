@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7013579",
+  "paper_id": "doi:10.3390/ma13020354",
+  "pmcid": "PMC7013579",
+  "source_record_sha256": "e07a4507e4564c4bb2724f3cc89b0f6c5b17a798a34e019b11625075514730f3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ca4ab05b30a0b9412979461e8318a3ac7dd16f139498f9ab95b23d076ed3f3a8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Freeze-FRESH: A 3D Printing Technique to Produce Biomaterial Scaffolds with Hierarchical Porosity",
+    "authors": "Wang Z, Florczyk SJ.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13020354",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7891509",
+  "paper_id": "doi:10.1002/jcla.23646",
+  "pmcid": "PMC7891509",
+  "source_record_sha256": "b59b452de7846d77ec4d468bfa92261bb1d64ab2f941c4859c82a86dd7ecda7a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "141e8383c7a44b7305e9961cefcac9d72dba7f14f4a1816c14e135dcb6d00206",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tissue engineering of the larynx: A contemporary review",
+    "authors": "Chen J, Shen Y, Shen Z, Cheng L, Zhou S.",
+    "year": 2020,
+    "journal": "Journal of Clinical Laboratory Analysis",
+    "doi": "10.1002/jcla.23646",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

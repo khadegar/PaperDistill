@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6422951",
+  "paper_id": "doi:10.1007/s00590-018-2351-3",
+  "pmcid": "PMC6422951",
+  "source_record_sha256": "d0c91bb14584ee2610277ab523bc8b618f69665f79adf7cacec4594cf73364c9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "500a205d2275058547ff505b2f9c1446783053072156174d05e4052afb1aa905",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Radiolucency around highly porous sockets and hydroxyapatite-coated porous sockets in total hip arthroplasty for hip dysplasia",
+    "authors": "Imai H, Miyawaki J, Kamada T, Maruishi A, Takeba J, Miura H.",
+    "year": 2018,
+    "journal": "European Journal of Orthopaedic Surgery & Traumatology",
+    "doi": "10.1007/s00590-018-2351-3",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5790108",
+  "paper_id": "doi:10.2147/ijn.s152105",
+  "pmcid": "PMC5790108",
+  "source_record_sha256": "1bfcc55bf4e4af5a05c8dc788298d66b60ac4037f810e56f837a1d37e009c227",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d52e069bb35b44539cc9ac930757225aed15c946c8d7dfee8335ea976de50791",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Nano-biphasic calcium phosphate/polyvinyl alcohol composites with enhanced bioactivity for bone repair via low-temperature three-dimensional printing and loading with platelet-rich fibrin",
+    "authors": "Song Y, Lin K, He S, Wang C, Zhang S, Li D, Wang J, Cao T, Bi L, Pei G.",
+    "year": 2018,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s152105",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

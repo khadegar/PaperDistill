@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13196100",
+  "paper_id": "doi:10.1016/j.mtbio.2026.103180",
+  "pmcid": "PMC13196100",
+  "source_record_sha256": "e3cebf85885562261522f2c91317b1ddaf1ab87a36fd4fc0e54cc7aa03986447",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4cdd62d85ef449634e7f9538991759db0b2cc94ceb141c61f72edebb066314c2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Smart immunomodulatory polysaccharide hydrogels promote diabetic bone regeneration by regulating the inflammation-angiogenesis-osteogenesis axis",
+    "authors": "Lv N, Sun H, Chen X, Dong H, Tang W, Jiang Y, Hong L, Li H, Qiao Y, Dong X, Liu M.",
+    "year": 2026,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2026.103180",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

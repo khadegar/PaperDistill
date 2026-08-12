@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10355163",
+  "paper_id": "doi:10.1088/2631-7990/acdd35",
+  "pmcid": "PMC10355163",
+  "source_record_sha256": "06e44e1b8fcc8e2eee4243e4d2f4f587f489080cc872a6fd00764bdf6e5ab944",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9a8e12fccf5fa60be267becce2d1960049d8181092d4cd2447ce3eff09234543",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous metal implants: processing, properties, and challenges",
+    "authors": "Bandyopadhyay A, Mitra I, Avila JD, Upadhyayula M, Bose S.",
+    "year": 2023,
+    "journal": "International Journal of Extreme Manufacturing",
+    "doi": "10.1088/2631-7990/acdd35",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

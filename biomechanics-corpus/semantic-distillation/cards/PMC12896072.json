@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12896072",
+  "paper_id": "doi:10.1186/s12903-025-07605-8",
+  "pmcid": "PMC12896072",
+  "source_record_sha256": "bfd8ca0b444c0b4071128348468b4d60cca3faf722dc5df8f827bf66e5cd01e9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "34ecafbbd5fa9300af03006004d82865ac39a57c68672d3fb77fe79b5110185d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of different abutment anti-rotation structures on short implant placement in cases of insufficient bone volume in the posterior maxillary region: a three-dimensional finite element analysis",
+    "authors": "Sun B, Zhang J, Chen P, Hou H, Huang S, Hu F.",
+    "year": 2026,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-025-07605-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

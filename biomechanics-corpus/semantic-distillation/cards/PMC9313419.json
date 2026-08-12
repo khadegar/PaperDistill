@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9313419",
+  "paper_id": "doi:10.3390/biomedicines10071563",
+  "pmcid": "PMC9313419",
+  "source_record_sha256": "f09408702aaa7428f6bf60fa7e9147447ea06c6facccb5a721284f22c3790029",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4a8be8ad60a1857a92e8e1c4a0bfbe7ebd1d29055ff05d66844f9fd49a02e6b9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Primary MSCs for Personalized Medicine: Ethical Challenges, Isolation and Biocompatibility Evaluation of 3D Electrospun and Printed Scaffolds",
+    "authors": "Feier AM, Portan D, Manu DR, Kostopoulos V, Kotrotsos A, Strnad G, Dobreanu M, Salcudean A, Bataga T.",
+    "year": 2022,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines10071563",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9189211",
+  "paper_id": "doi:10.1016/j.mtbio.2022.100307",
+  "pmcid": "PMC9189211",
+  "source_record_sha256": "6d7f67f2f891e34df0f555a06b1745e9832888050fe61bcfc941f1c38be97e1f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "60d101ba5e6ad5f1caaefd252584573eb57d736386f1542e0dbd02eecaa70443",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Pearl-inspired graphene oxide-collagen microgel with multi-layer mineralization through microarray chips for bone defect repair",
+    "authors": "Zhou C, Luo C, Liu S, Jiang S, Liu X, Li J, Zhang X, Wu X, Sun J, Wang Z.",
+    "year": 2022,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2022.100307",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

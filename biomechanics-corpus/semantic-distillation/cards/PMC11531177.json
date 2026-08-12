@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11531177",
+  "paper_id": "doi:10.1186/s13014-024-02536-0",
+  "pmcid": "PMC11531177",
+  "source_record_sha256": "0028dbd96770e29a3358febf3da36718ce529ac585e3334210a5021b5742005c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b977cebe5fcdf4701a80c323a536e69574d3b2fc6b89bf1372d66c3f3fc566d2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed brachytherapy in patients with cervical cancer: improving efficacy and safety outcomes",
+    "authors": "Lu Z, Zhu G, Qiu Z, Guo H, Li J, Zheng L, Chen C, Che J, Xiang Y, Wang Y.",
+    "year": 2024,
+    "journal": "Radiation Oncology (London, England)",
+    "doi": "10.1186/s13014-024-02536-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

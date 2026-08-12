@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12028827",
+  "paper_id": "doi:10.3390/ma18081826",
+  "pmcid": "PMC12028827",
+  "source_record_sha256": "2074db1647236c23fe0460b8e4b68118fa812c569bbd6300c08141b7c561f660",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a849fcd9474daa0c80e79f8f78c4a0ac48ce8aa2ec7518a56a58e08cd8ebb5c5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing and Electrospinning of Drug- and Graphene-Enhanced Polycaprolactone Scaffolds for Osteochondral Nasal Repair",
+    "authors": "Rajzer I, Kurowska A, Nikodem A, Janusz J, Jabłoński A, Ziąbka M, Menaszek E, Frankova J, Piekarczyk W, Fabia J.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18081826",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

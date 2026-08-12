@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4669027",
+  "paper_id": "doi:10.1093/rb/rbv001",
+  "pmcid": "PMC4669027",
+  "source_record_sha256": "74d14fa68e0fabcf2e0ee046eaa23c1cd806e35f89f1ddcc892b42d4833e1e51",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "592b0f26f149bedc5263b1db283c34ab4487853d7531796d06bf91d58a2306f0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of porosities of bilayered porous scaffolds on spontaneous osteochondral repair in cartilage tissue engineering",
+    "authors": "Pan Z, Duan P, Liu X, Wang H, Cao L, He Y, Dong J, Ding J.",
+    "year": 2015,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbv001",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

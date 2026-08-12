@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4139845",
+  "paper_id": "doi:10.3390/ijms150712294",
+  "pmcid": "PMC4139845",
+  "source_record_sha256": "cb403da0d89bba48c10709d83f1f2bf9ffe8bbd41569deece0c418e3e238c7e0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4527bee0610cca7f09bfc67014077054806eb975660b45e361710bb13c8ab795",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Novel Bioactive Antimicrobial Lignin Containing Coatings on Titanium Obtained by Electrophoretic Deposition",
+    "authors": "Erakovic S, Jankovic A, Tsui GC, Tang CY, Miskovic-Stankovic V, Stevanovic T.",
+    "year": 2014,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms150712294",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

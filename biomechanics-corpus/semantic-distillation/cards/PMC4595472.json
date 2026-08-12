@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4595472",
+  "paper_id": "doi:10.1371/journal.pone.0139793",
+  "pmcid": "PMC4595472",
+  "source_record_sha256": "dce9245a157160e6ac744c2802f8dace308e0af60173704b84ed33e3d1a5345a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d668c95c9067f0d08e05e45491acd052b710e46c56a8a4e0f59a27b468df6292",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Intermittent Administration of Parathyroid Hormone [1–34] Prevents Particle-Induced Periprosthetic Osteolysis in a Rat Model",
+    "authors": "Bi F, Shi Z, Zhou C, Liu A, Shen Y, Yan S.",
+    "year": 2015,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0139793",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

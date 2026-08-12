@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8929713",
+  "paper_id": "doi:10.1208/s12249-022-02242-8",
+  "pmcid": "PMC8929713",
+  "source_record_sha256": "88724ca7ed394d8ba596cada48415f8f35249a85ffbe1c8e8f9a5f739bc62ce6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cab1c6840394a627e8908f13dd18dbd09d96021443a46fd88f2d3ac16945a3af",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing: Applications in Tissue Engineering, Medical Devices, and Drug Delivery",
+    "authors": "Pavan Kalyan BG, Kumar L.",
+    "year": 2022,
+    "journal": "AAPS PharmSciTech",
+    "doi": "10.1208/s12249-022-02242-8",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

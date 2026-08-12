@@ -1,0 +1,329 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12821587",
+  "paper_id": "doi:10.3390/cmtr19010002",
+  "pmcid": "PMC12821587",
+  "source_record_sha256": "8187a313f58cceaffb5c8ad3dffcea6207939b015217c4d32ed0b5a0434701de",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T11:25:10Z",
+    "packet_sha256": "a44850bfaccb1d6096caa72f4acff1d9ccc4dc6a1b2f9657fd1c976490035f45",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S002:C02",
+      "S003:C01",
+      "S004:C01",
+      "S005:C01",
+      "S006:C01",
+      "S006:C02",
+      "S007:C01",
+      "S008:C01",
+      "S009:C01",
+      "S010:C01",
+      "S011:C01",
+      "S011:C02",
+      "S011:C03",
+      "S012:C01",
+      "S012:C02",
+      "S012:C03",
+      "S013:C01",
+      "S013:C02",
+      "S014:C01",
+      "S014:C02",
+      "S014:C03",
+      "S015:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Facial Contouring in Orthognathic Surgery: The Role of Facial Implants",
+    "authors": "Brito GC, de Moraes M, Faverani L, Olate S.",
+    "year": 2025,
+    "journal": "Craniomaxillofacial Trauma & Reconstruction",
+    "doi": "10.3390/cmtr19010002",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "prisma_scr_clinical_scoping_review",
+    "design_features": [
+      "osf_registration",
+      "PCC_framework",
+      "orthognathic_surgery",
+      "concomitant_facial_implants",
+      "stock_and_patient_specific_implants",
+      "PEEK_titanium_porous_polyethylene_and_other_materials",
+      "qualitative_evidence_mapping",
+      "no_formal_risk_of_bias"
+    ],
+    "research_problem": "Facial implants are used simultaneously with orthognathic surgery to refine contour, but indications, implant/material selection, design, technique, fixation, soft-tissue requirements, outcomes, and timing are not standardized.",
+    "exact_gap": "The literature lacks an integrated map of where and why stock or patient-specific facial implants are placed during orthognathic surgery and what clinical/esthetic outcomes and complications are actually reported (S001:C01-S002:C02).",
+    "objective_or_hypothesis": "Map types, indications, surgical techniques, materials, anatomical sites, and clinical outcomes of facial implants placed concomitantly with orthognathic surgery using a PCC-framed scoping review (S003:C01-S004:C01).",
+    "study_design": "PRISMA-ScR and OSF-registered scoping review of PubMed, Scopus, Embase, and LILACS with dual screening, third-reviewer resolution, standardized charting, qualitative/descriptive synthesis, and no formal risk-of-bias assessment (S003:C01-S006:C02).",
+    "sample_or_model": "Seventeen human reports from 1998-2025, dominated by retrospective studies, small prospective studies, case reports/series, and a technical note, covering malar, infraorbital, paranasal, chin, mandibular body, and angle augmentation (S007:C01-S009:C01).",
+    "comparators": [
+      "Patient-specific versus stock implants in limited reports",
+      "Different materials and anatomical sites, mostly without concurrent controls",
+      "Simultaneous versus staged implantation discussed largely through external contextual literature",
+      "No standardized cross-study comparator or outcome set"
+    ],
+    "method_spine": [
+      "Define population, concept, and context rather than an efficacy PICO.",
+      "Chart anatomy, indication, implant type/material, surgical procedure, fixation, outcome, complication, and follow-up.",
+      "Separate included-study evidence from external literature used only for context.",
+      "Map technique and implementation constraints alongside outcomes.",
+      "Use qualitative evidence-mapping language because quality was not appraised and comparative data are sparse."
+    ],
+    "validation_roles": {
+      "verification": [
+        "The review reports registration, databases, a sample search strategy, dual screening, adjudication, charting variables, and PRISMA-ScR flow (S003:C01-S007:C01).",
+        "The design-count sentence appears internally inconsistent with 17 included studies: six retrospective plus two prospective plus seven case reports/series plus one technical note totals 16, so source categories should be checked against the underlying table (S007:C01)."
+      ],
+      "calibration": [],
+      "validation": [
+        "No formal quality or risk-of-bias appraisal was performed, consistent with the stated scoping purpose but limiting safety/effectiveness inference (S006:C02).",
+        "The review contains no mechanical, geometric, manufacturing, or prospective clinical validation of any implant class."
+      ],
+      "sensitivity": [
+        "No subgroup, sensitivity, certainty, or publication-bias analysis is reported; follow-up and outcome definitions vary widely (S009:C01; S014:C01).",
+        "Discussion themes integrate external literature, which can aid interpretation but must not be counted as additional included evidence (S006:C02; S010:C01)."
+      ],
+      "application_prediction": [
+        "Patient-specific PEEK/titanium, simultaneous placement, and staged placement are presented as planning options whose comparative long-term value, cost, and soft-tissue behavior remain uncertain (S014:C02-S015:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "Included implants spanned PEEK, porous polyethylene, silicone, hydroxyapatite, PMMA, and titanium across multiple midface/lower-face sites; PEEK was usually patient-specific and porous polyethylene often stock (S008:C01).",
+      "Follow-up ranged roughly 0.5-6 years and outcomes were primarily qualitative, with no standardized functional, esthetic, imaging, or patient-reported outcome set (S009:C01; S014:C01).",
+      "Selected reports described low complication rates, transient symptoms, revisions, exposures, and high satisfaction, but most evidence came from uncontrolled series/cases and site/material-specific contexts (S014:C01-S014:C02).",
+      "The review emphasizes practical moderators: soft-tissue envelope, pocket design, nerve protection, muscular forces, fixation, surgeon participation in design, edema, and simultaneous-versus-staged timing (S012:C03-S014:C03)."
+    ],
+    "highest_evidence_level_reached": "Qualitative clinical evidence map dominated by small observational reports; useful for taxonomy and implementation hypotheses, not comparative efficacy, mechanical performance, or pooled safety."
+  },
+  "argument_map": {
+    "central_claim": "Alloplastic facial implants may be useful adjuncts to orthognathic surgery, and patient-specific designs may improve anatomical planning/fit, but sparse uncontrolled evidence, heterogeneous outcomes, absent quality appraisal, and strong dependence on site, soft tissue, fixation, and surgical execution prevent comparative or long-term claims.",
+    "data": [
+      "Seventeen heterogeneous human reports charted by anatomy, material/design, indication, procedure, outcomes, complications, and follow-up (S007:C01-S009:C01).",
+      "Qualitative material, technique, outcome, and implementation themes (S011:C01-S015:C01)."
+    ],
+    "warrant": "Repeated clinical feasibility across sites/materials can justify an evidence map and design considerations, while treatment recommendations require quality-appraised comparative data and standardized patient-important outcomes.",
+    "backing": [
+      "The review explicitly states that outcomes are qualitative and evidence is largely case reports/small series, limiting safety, effectiveness, predictability, and long-term inference (S014:C01; S015:C01)."
+    ],
+    "qualifier": "Potential adjunct under anatomy-, material-, fixation-, soft-tissue-, and operator-dependent conditions.",
+    "rebuttals_or_boundaries": [
+      "A scoping review maps literature and does not estimate comparative treatment effects.",
+      "No formal risk-of-bias appraisal means reported favorable outcomes cannot be weighted by credibility (S006:C02).",
+      "PEEK, titanium, porous polyethylene, silicone, HA, and PMMA have different tissue interactions, fixation, imaging, and complication profiles.",
+      "Stock versus PSI and simultaneous versus staged placement are not isolated by common comparators.",
+      "Soft-tissue edema/adaptation, nerve/muscle anatomy, pocket and fixation can dominate the realized result despite geometric fit (S012:C03-S014:C03).",
+      "Statements sourced from contextual external literature must not be presented as findings of the 17-study evidence base."
+    ],
+    "argument_coherence": "high_for_evidence_mapping_low_for_material_or_technique_ranking"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "At review level, search/selection and charted study characteristics; all complication, satisfaction, symmetry, contour, exposure, infection, and follow-up observations originate in included clinical reports (S006:C01-S009:C01; S014:C01-S014:C02)."
+    ],
+    "predicted": [],
+    "inferred": [
+      "Improved anatomic fit, reduced displacement, surgical efficiency, infection resistance, osseointegration, and material-mechanics advantages are synthesized from limited reports and contextual sources rather than directly compared across the included evidence (S012:C01-S012:C03).",
+      "The value of staged versus simultaneous placement is inferred from edema/soft-tissue adaptation and external practice literature (S014:C02-S014:C03)."
+    ],
+    "recommended": [
+      "Develop standardized outcome sets, comparative cohorts/trials, longer follow-up, quality appraisal, cost/resource reporting, imaging/soft-tissue simulation validation, and anatomy/material-specific complication surveillance (S015:C01)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Anatomic fit or symmetry is not equivalent to mechanical durability, patient satisfaction, or functional benefit.",
+      "Porosity or modulus descriptions do not demonstrate in-vivo integration or lower infection risk in a given device.",
+      "Qualitative contour photographs do not provide standardized esthetic effect or soft-tissue stability.",
+      "Zero complications in a small series does not estimate population safety.",
+      "Concomitant placement feasibility does not prove it is preferable to staged placement."
+    ],
+    "overclaim_risks": [
+      "Material statements such as porous titanium matching bone mechanics or a porous surface resisting infection can be mistaken for findings of this review's clinical evidence (S012:C01-S012:C02).",
+      "Calling PSI outcomes predictable, stable, or reliable exceeds the predominantly uncontrolled qualitative evidence (S014:C01-S014:C02).",
+      "The automatic porous/lattice cue reflects named implant materials, not a scaffold-engineering study; animal and in-vivo experimental cues are also incorrect for this review."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Use PCC to bound an evidence-mapping question",
+      "execution": "The review fixes population, concept, and context to human orthognathic surgery with simultaneous stock or custom facial implant placement (S004:C01-S005:C01).",
+      "locator": "S004:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Use PCC for broad device-landscape mapping and reserve PICO/effect language for questions with comparable interventions and outcomes.",
+      "failure_mode": "A broad PCC map does not support comparative efficacy."
+    },
+    {
+      "section": "results",
+      "move": "Map anatomy, material/design, intervention purpose, and evidence type together",
+      "execution": "The review cross-references facial region, material, stock/PSI status, indication, study design, and follow-up (S007:C01-S009:C01).",
+      "locator": "S008:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For heterogeneous implant literature, organize the matrix as anatomy x indication x material/design x fixation x study design x follow-up before discussing outcomes.",
+      "failure_mode": "Material names alone are too coarse to infer performance."
+    },
+    {
+      "section": "discussion",
+      "move": "Add implementation anatomy to geometric-fit claims",
+      "execution": "The review details nerve protection, soft-tissue envelope, pocket, muscle sling, edema, screw fixation, exposure, and intraoperative positioning (S012:C03-S014:C03).",
+      "locator": "S013:C02",
+      "effectiveness": "high",
+      "transferable_principle": "A patient-specific implant Discussion should trace virtual fit through access, registration, fixation, soft tissue, dynamic forces, and postoperative adaptation.",
+      "failure_mode": "A CAD-perfect device may be surgically unplaceable or clinically malpositioned."
+    },
+    {
+      "section": "discussion",
+      "move": "Label contextual literature separately from included evidence",
+      "execution": "The methods state that external literature is used to contextualize themes and is not an expansion of the review evidence base (S006:C02; S010:C01).",
+      "locator": "S006:C02",
+      "effectiveness": "high",
+      "transferable_principle": "In scoping reviews, tag every citation as included evidence or contextual source so readers know which claims were systematically selected.",
+      "failure_mode": "Context citations can silently inflate apparent evidence coverage."
+    },
+    {
+      "section": "conclusion",
+      "move": "End with an evidence-map conclusion and research architecture",
+      "execution": "The summary limits claims to possible adjunctive value and requests standardized outcomes, comparisons, follow-up, cost-effectiveness, and better soft-tissue simulation (S015:C01).",
+      "locator": "S015:C01",
+      "effectiveness": "high",
+      "transferable_principle": "A scoping review conclusion should state what categories exist, where evidence clusters, which comparisons are absent, and the minimum next-study design.",
+      "failure_mode": "Do not rank treatments when quality and comparability were not assessed."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Substantial methodological heterogeneity, predominantly observational evidence, qualitative outcomes, nonstandard follow-up, limited comparisons, and insufficient long-term inference (S001:C01; S009:C01; S014:C01-S015:C01)."
+    ],
+    "reader_identified": [
+      "No risk-of-bias or quality assessment, so favorable case series cannot be weighted against stronger or weaker designs.",
+      "Included-study design counts appear inconsistent with the stated total of 17 (S007:C01).",
+      "No standardized functional, esthetic, imaging, PROM, complication, or revision outcome set.",
+      "Multiple anatomy/material/design/fixation combinations and variable follow-up prevent meaningful pooled safety or effectiveness.",
+      "External contextual citations may be confused with systematically included evidence.",
+      "No engineering validation of porosity, modulus, fit, fixation, fatigue, or integration and no cost-effectiveness data.",
+      "Likely publication and case-selection bias toward notable esthetic successes or unusual complications."
+    ],
+    "likely_bias_direction": [
+      "Uncontrolled favorable case reports and surgeon-authored technical reports likely overstate predictability and understate harms.",
+      "Material/mechanism discussion may imply stronger evidence than the included clinical studies provide.",
+      "Short and irregular follow-up may miss late exposure, migration, bone resorption, infection, or revision."
+    ],
+    "scope_boundary": "This scoping review maps clinical use and implementation considerations for simultaneous facial implants; it does not establish comparative material superiority, mechanical performance, pooled safety, optimal timing, or long-term effectiveness."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC12821587-01",
+      "capability": "Use a PCC-framed anatomy x indication x material/design x fixation x evidence-type matrix for heterogeneous implant landscapes.",
+      "manuscript_use": "Scoping-review Methods, evidence map, and Results taxonomy.",
+      "applicable_domains": [
+        "patient_specific_implant",
+        "bone_implant",
+        "clinical_device"
+      ],
+      "applicable_study_designs": [
+        "scoping_review"
+      ],
+      "supporting_locators": [
+        "S004:C01",
+        "S005:C01",
+        "S006:C01",
+        "S007:C01",
+        "S008:C01",
+        "S009:C01"
+      ],
+      "counterexample_or_boundary": "A broad map without quality appraisal cannot support comparative efficacy or material ranking.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12821587-02",
+      "capability": "Extend patient-specific fit narratives through access, registration, fixation, nerve/muscle anatomy, soft-tissue envelope, edema, and dynamic loading.",
+      "manuscript_use": "Device Methods, translational Discussion, and failure-mode audit.",
+      "applicable_domains": [
+        "patient_specific_implant",
+        "clinical_biomechanics",
+        "bone_implant"
+      ],
+      "applicable_study_designs": [
+        "device_study",
+        "clinical_review"
+      ],
+      "supporting_locators": [
+        "S012:C03",
+        "S013:C01",
+        "S013:C02",
+        "S014:C02",
+        "S014:C03"
+      ],
+      "counterexample_or_boundary": "Virtual geometric fit can fail during surgical placement or postoperative soft-tissue adaptation.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12821587-03",
+      "capability": "Separate systematically included evidence from contextual literature and constrain conclusions when no risk-of-bias appraisal was performed.",
+      "manuscript_use": "Scoping-review citation audit, Discussion, and conclusion.",
+      "applicable_domains": [
+        "patient_specific_implant",
+        "bone_implant",
+        "biomaterials"
+      ],
+      "applicable_study_designs": [
+        "scoping_review",
+        "narrative_review"
+      ],
+      "supporting_locators": [
+        "S006:C02",
+        "S010:C01",
+        "S014:C01",
+        "S015:C01"
+      ],
+      "counterexample_or_boundary": "External mechanism claims cannot be counted as findings of the charted corpus.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_mapping",
+    "methods_transparency": "moderate_to_high",
+    "validation_credibility": "low_for_effectiveness_appropriate_for_scoping_map",
+    "outcome_uncertainty_reporting": "moderate_qualitative",
+    "comparator_fairness": "low",
+    "conclusion_proportionality": "high_in_summary",
+    "critical_weaknesses": [
+      "No quality appraisal and predominantly low-level uncontrolled evidence.",
+      "Nonstandard qualitative outcomes and heterogeneous sites/materials/designs.",
+      "Potential mixing of included and contextual evidence and inconsistent design counts."
+    ],
+    "overall_credibility": "high_for_landscape_taxonomy_moderate_for_implementation_themes_low_for_comparative_clinical_or_mechanical_claims"
+  },
+  "summary_zh": "这是一篇 PRISMA-ScR 范围综述，目标是绘制正颌手术同期面部植入物的解剖部位、材料、stock/PSI、适应证、术式和结局，不是多孔支架工程实验。17 篇人类证据以回顾性研究、病例系列/报告和技术说明为主，作者明确未做风险偏倚评估，结局也多为定性，因此只能做 evidence map。其最有价值之处是提醒：患者特异性不止是 CAD 贴合，还要经过手术入路、神经/肌肉保护、实体定位、螺钉固定、软组织包膜、肿胀和动态咀嚼力。讨论还混入了用于背景解释的外部文献，Skill 会要求把这些与系统纳入证据显式标记。任何‘PEEK/钛可靠、孔隙促进整合、PSI 更优’的句子都应降到材料或临床假说，除非有质量可评的比较数据。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section, including methods, included-design counts, material/anatomy mapping, operative constraints, outcomes, and staged-versus-simultaneous discussion.",
+    "The porous/lattice cue reflects mentioned materials rather than a scaffold-engineering experiment; animal cues are incorrect.",
+    "The paper is a strong exemplar for scoping taxonomy and surgical-realization constraints, not for comparative efficacy."
+  ],
+  "selection": {
+    "selection_reason": "balanced_stratum",
+    "primary_stratum": "patient_specific_implants",
+    "stratum_rank": 4,
+    "reading_order": 34
+  },
+  "source": {
+    "record_path": "records/PMC12821587.json.gz",
+    "source_record": "records/PMC12821587.json.gz",
+    "source_record_sha256": "8187a313f58cceaffb5c8ad3dffcea6207939b015217c4d32ed0b5a0434701de",
+    "source_hash": "8187a313f58cceaffb5c8ad3dffcea6207939b015217c4d32ed0b5a0434701de"
+  }
+}

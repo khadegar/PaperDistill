@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10106631",
+  "paper_id": "doi:10.3389/fbioe.2023.1161815",
+  "pmcid": "PMC10106631",
+  "source_record_sha256": "616ddb11e105574919691c0eb53eb0070d1e1484fb93b62fa6078dbcd52fe7fb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cd94a546ef432156c7c15cc26753eaaa653f67368a08101cf9d0d35744e4c9ed",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A review of bioengineering techniques applied to breast tissue: Mechanical properties, tissue engineering and finite element analysis",
+    "authors": "Teixeira AM, Martins P.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1161815",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

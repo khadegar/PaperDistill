@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11098222",
+  "paper_id": "doi:10.1097/md.0000000000038258",
+  "pmcid": "PMC11098222",
+  "source_record_sha256": "e6f4c036b2b8b528c73a7518a58e8ea1eddd8b82dfb3a8fdaf7d1c84fd5bab11",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f5597679f6c4293923b181400175233f85971272fc6d07f6218bb2cfe5588221",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Numerical study of pedicle screw construction and locking compression plate fixation in posterior pelvic ring injuries: Analyzed by finite element method",
+    "authors": "Zhang J, Wei Y, Wang J, Yu B.",
+    "year": 2024,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000038258",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

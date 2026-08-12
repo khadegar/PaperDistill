@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7881167",
+  "paper_id": "doi:10.1016/j.jpra.2021.01.001",
+  "pmcid": "PMC7881167",
+  "source_record_sha256": "c8ab87ffbe41344114e77e070051de22817fead3cfa90140f4ac24a7c5ca7e58",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "80c2019719f0f8ad1b024882feec089456622ef7b84b0f7e73e1e448933073b1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surgical planning using facial fracture 3D models: The role of cyanoacrylate glue and miniplating for anatomical reduction",
+    "authors": "Chew KY, Kok YO, Pek WS, Too CW, Tan BK.",
+    "year": 2021,
+    "journal": "JPRAS Open",
+    "doi": "10.1016/j.jpra.2021.01.001",
+    "publication_type": "brief-report; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

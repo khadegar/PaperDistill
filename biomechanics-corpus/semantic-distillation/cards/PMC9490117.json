@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9490117",
+  "paper_id": "doi:10.3389/fbioe.2022.980727",
+  "pmcid": "PMC9490117",
+  "source_record_sha256": "c24996bb20be5e330abe941bb1ca08960ca88e6261cbd1f30808b5581528ceca",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "98ead8fa7173d6652d36e1ad3e7b349122dbc9b2f29fa0fd618bb869b53c1545",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A mechanobiological computer optimization framework to design scaffolds to enhance bone regeneration",
+    "authors": "Perier-Metz C, Duda GN, Checa S.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.980727",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10868507",
+  "paper_id": "doi:10.1177/20417314241231452",
+  "pmcid": "PMC10868507",
+  "source_record_sha256": "487d9eb3a2b1a099adaac6d4daec75ab3215af1c515cc7539d7422233d56e789",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "66d0b41fa42977bb272693e9bb395c04fa6170e679947a21fa3413d963012173",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Regulation of the immune microenvironment by pioglitazone-loaded polylactic glycolic acid nanosphere composite scaffolds to promote vascularization and bone regeneration",
+    "authors": "Fan S, Tan Y, Yuan X, Liu C, Wu X, Dai T, Ni S, Wang J, Weng Y, Zhao H.",
+    "year": 2024,
+    "journal": "Journal of Tissue Engineering",
+    "doi": "10.1177/20417314241231452",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

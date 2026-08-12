@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8307211",
+  "paper_id": "doi:10.3390/ijms22147368",
+  "pmcid": "PMC8307211",
+  "source_record_sha256": "0887534c5d43edbecc2d9794db223355f4ed7052b0b108437edbd336069fd538",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "33382203270e6bd7a1fb653c266011c62aca225fa95b1cf957ecdd8f33a4da6b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biocompatibility and Biological Performance Evaluation of Additive-Manufactured Bioabsorbable Iron-Based Porous Suture Anchor in a Rabbit Model",
+    "authors": "Tai CC, Lo HL, Liaw CK, Huang YM, Huang YH, Yang KY, Huang CC, Huang SI, Shen HH, Lin TH, Lu CK, Liu WC, Sun JS, Tsai PI, Chen CY.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms22147368",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

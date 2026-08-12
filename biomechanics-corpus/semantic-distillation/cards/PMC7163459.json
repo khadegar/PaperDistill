@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7163459",
+  "paper_id": "doi:10.7150/thno.43736",
+  "pmcid": "PMC7163459",
+  "source_record_sha256": "3e564ac78313c8db293cd509e82d45b6f8d4e82f590e79dc8dc5c2c4142b33fe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "904621a316a470c3c1a8bcac780cdd88429bde7eaa1e9271c88f8490bec4d487",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced osseointegration of three-dimensional supramolecular bioactive interface through osteoporotic microenvironment regulation",
+    "authors": "Bai H, Zhao Y, Wang C, Wang Z, Wang J, Liu H, Feng Y, Lin Q, Li Z, Liu H.",
+    "year": 2020,
+    "journal": "Theranostics",
+    "doi": "10.7150/thno.43736",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

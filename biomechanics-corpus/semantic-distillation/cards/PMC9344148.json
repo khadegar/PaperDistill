@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9344148",
+  "paper_id": "pmcid:PMC9344148",
+  "pmcid": "PMC9344148",
+  "source_record_sha256": "fc2b046d9fb54cc98e813523772372979db47c32bc648f29580bdce47cd9358c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ee451035ffb6b06e8e6c9e40ac718f5ae3360c5d5e268301516e24916622d202",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Poster 107: The Use of Coacervate Sustained Release System to Identify the Most Potent BMP for Bone Regeneration",
+    "authors": "Huard J, Hwang M, Huard M, Huard J, Ruzbarsky J, Ravuri S, Wang Y, Huard J, Gao X.",
+    "year": 2022,
+    "journal": "Orthopaedic Journal of Sports Medicine",
+    "doi": "10.1177/2325967121s00668",
+    "publication_type": "Abstract",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "other_substantive",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

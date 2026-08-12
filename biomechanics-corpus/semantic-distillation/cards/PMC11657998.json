@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11657998",
+  "paper_id": "doi:10.1002/exp.20230149",
+  "pmcid": "PMC11657998",
+  "source_record_sha256": "97ffb477dc9aad2b16d702e8747f4d9676cc1e2b09cea0cddbd250fc9f88e06f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "413854a06e88be6ffd93c7d186d9ab1f207b9757ec860f3f2747cc02ce9b56dc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Piezoelectric stimulation enhances bone regeneration in alveolar bone defects through metabolic reprogramming of macrophages",
+    "authors": "Sui B, Ding T, Wan X, Chen Y, Zhang X, Cui Y, Pan J, Li L, Liu X.",
+    "year": 2024,
+    "journal": "Exploration",
+    "doi": "10.1002/exp.20230149",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

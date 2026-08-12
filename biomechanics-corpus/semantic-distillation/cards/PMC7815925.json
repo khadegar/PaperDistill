@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7815925",
+  "paper_id": "doi:10.1038/s42003-020-01606-9",
+  "pmcid": "PMC7815925",
+  "source_record_sha256": "12ec6f5818c09bd2d933881faa195ca2ebb86a1753d75b1d44bd1a14d6ca489a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "41782b3b5de87bb79e5c0d9b790e549fb6a0449dbc471529be4430e755360ac4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "BMP-2 and VEGF-A modRNAs in collagen scaffold synergistically drive bone repair through osteogenic and angiogenic pathways",
+    "authors": "Geng Y, Duan H, Xu L, Witman N, Yan B, Yu Z, Wang H, Tan Y, Lin L, Li D, Bai S, Fritsche-Danielson R, Yuan J, Chien K, Wei M, Fu W.",
+    "year": 2021,
+    "journal": "Communications Biology",
+    "doi": "10.1038/s42003-020-01606-9",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

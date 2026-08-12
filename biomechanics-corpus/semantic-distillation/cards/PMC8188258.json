@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8188258",
+  "paper_id": "doi:10.1002/advs.202100143",
+  "pmcid": "PMC8188258",
+  "source_record_sha256": "7e01791dd75c01ce89371105f66455ecaae96d737502370160000775ba11949f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d7ea8c45b87c69a1e43cb3817c45b1198a4b5b3042c4b84eb1044cfc8025e2cd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Spatiotemporal Immunomodulation Using Biomimetic Scaffold Promotes Endochondral Ossification‐Mediated Bone Healing",
+    "authors": "Liu Y, Yang Z, Wang L, Sun L, Kim BYS, Jiang W, Yuan Y, Liu C.",
+    "year": 2021,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202100143",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

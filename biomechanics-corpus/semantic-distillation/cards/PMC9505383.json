@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9505383",
+  "paper_id": "doi:10.3390/jfb13030127",
+  "pmcid": "PMC9505383",
+  "source_record_sha256": "e5db5f06aa047f3a7816aff47756275e6d6ee7ae41673982896d0f69c6dec5ed",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ba857bc951c59284210f217e12f85133486ee62022ba126e619d62137f5dc45f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Promotion of Mechanical Properties by Bone Ingrowth in Additive-Manufactured Titanium Scaffolds",
+    "authors": "Sun C, Dong E, Chen J, Zheng J, Kang J, Jin Z, Liu C, Wang L, Li D.",
+    "year": 2022,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb13030127",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

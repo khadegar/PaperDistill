@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8147831",
+  "paper_id": "doi:10.3390/biology10050398",
+  "pmcid": "PMC8147831",
+  "source_record_sha256": "2bb14e6e433d3affa570a631c0bd7c03db3f75b2a2f57ce2c8cd9dc62475b78e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f428a1498d625d94e131a9a67626ae9cc58431083efb2f3d0bc17b1c3d9f8645",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Composite Scaffolds for Bone Tissue Regeneration Based on PCL and Mg-Containing Bioactive Glasses",
+    "authors": "Petretta M, Gambardella A, Boi M, Berni M, Cavallo C, Marchiori G, Maltarello MC, Bellucci D, Fini M, Baldini N, Grigolo B, Cannillo V.",
+    "year": 2021,
+    "journal": "Biology",
+    "doi": "10.3390/biology10050398",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10865239",
+  "paper_id": "doi:10.3389/fbioe.2023.1289299",
+  "pmcid": "PMC10865239",
+  "source_record_sha256": "7f38b1212e117b00bc30183353d6247b834bb46ffa846b46d329aca3984f8d1b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e38b9ed186ade14c521df0be0588a7039439767457f665bb892b66daed1c96e6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multi-scale in silico and ex silico mechanics of 3D printed cochlear implants for local drug delivery",
+    "authors": "Isaakidou A, Ganjian M, van Hoften R, Saldivar MC, Leeflang MA, Groetsch A, Wątroba M, Schwiedrzik J, Mirzaali MJ, Apachitei I, Fratila-Apachitei LE, Zadpoor AA.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1289299",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

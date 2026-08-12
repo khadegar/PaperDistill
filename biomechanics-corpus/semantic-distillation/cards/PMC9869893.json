@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9869893",
+  "paper_id": "doi:10.1021/acsami.2c18545",
+  "pmcid": "PMC9869893",
+  "source_record_sha256": "ee6fe2379fe6b8f49bbb141b796a2f17d366c6e6a28c2b6947716c48022a15f9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "417c1a35ad5100c81e4c2da7dd2a359ec07a93b697b3287831e1ff2b702ecfd8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Janus-Inspired Core–Shell Structure Hydrogel Programmatically Releases Melatonin for Reconstruction of Postoperative Bone Tumor",
+    "authors": "Huang W, Wu X, Zhao Y, Liu Y, Zhang B, Qiao M, Zhu Z, Zhao Z.",
+    "year": 2023,
+    "journal": "ACS Applied Materials & Interfaces",
+    "doi": "10.1021/acsami.2c18545",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

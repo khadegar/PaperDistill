@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9457101",
+  "paper_id": "doi:10.3390/ma15175952",
+  "pmcid": "PMC9457101",
+  "source_record_sha256": "9eb4ced3418ae776a98e938d9328463bfa782e2b7b81bb50690abd4e7c2c8e02",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "44781d2bfb4662d5d6c0754df4c74ec18cf2735dcf92f814277d53942d4a47bc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Marginal Bone Integrity and Aftermarket Abutment Screws on Dental Implant Systems—A Preliminary Study with Finite Element Method",
+    "authors": "Wu YL, Tsai MH, Chen HS, Lin CP, Wu AY.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15175952",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

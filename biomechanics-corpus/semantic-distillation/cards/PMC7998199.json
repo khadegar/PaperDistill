@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7998199",
+  "paper_id": "doi:10.3390/diagnostics11030455",
+  "pmcid": "PMC7998199",
+  "source_record_sha256": "a0d6bf755dcd63b3544b6eafa32325466808a6ac116c26948f0826cd0f60d511",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b5f1936461f0c2ac1fc170647bd9b54d62160966efa1eb3d043b7ae23a112d15",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "MDCT-Based Finite Element Analyses: Are Measurements at the Lumbar Spine Associated with the Biomechanical Strength of Functional Spinal Units of Incidental Osteoporotic Fractures along the Thoracolumbar Spine?",
+    "authors": "Sollmann N, Rayudu NM, Yeung LY, Sekuboyina A, Burian E, Dieckmeyer M, Löffler MT, Schwaiger BJ, Gersing AS, Kirschke JS, Baum T, Subburaj K.",
+    "year": 2021,
+    "journal": "Diagnostics",
+    "doi": "10.3390/diagnostics11030455",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

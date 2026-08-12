@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11992093",
+  "paper_id": "doi:10.1038/s41598-025-96099-z",
+  "pmcid": "PMC11992093",
+  "source_record_sha256": "0c0b9fd15db50188a771ae07c56bd234f8d52f71de352d3b2fea828a41a43f6d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d8c53a8185225927c148d6d0546affcd3747f4735d9d2031d3be3d5bd84dab82",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication and evaluation of 3D printed PLGA/nHA/GO scaffold for bone tissue engineering",
+    "authors": "Tong L, Shi G, Liu Q, Qian Z, Li J, Zhang K, Zhu Y, Fang Y, Sha L, Bai L, Li Y, Wang X, Ma Y, Jirigala E, Wang H, Li X.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-96099-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

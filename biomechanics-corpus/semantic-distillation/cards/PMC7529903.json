@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7529903",
+  "paper_id": "doi:10.1038/s41598-020-73301-y",
+  "pmcid": "PMC7529903",
+  "source_record_sha256": "ac6246e5a842f027ce85c8108539404948348797a4a350b19dbf333f840e908c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "37e94a0c6f22cea2c060cfd138518365bf06456a1308ff950ed2178ec9c961f3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A novel MRI compatible mouse fracture model to characterize and monitor bone regeneration and tissue composition",
+    "authors": "Schmitz N, Timmen M, Kostka K, Hoerr V, Schwarz C, Faber C, Hansen U, Matthys R, Raschke MJ, Stange R.",
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-73301-y",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

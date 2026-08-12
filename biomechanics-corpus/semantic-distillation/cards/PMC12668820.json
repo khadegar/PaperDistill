@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12668820",
+  "paper_id": "doi:10.1302/2046-3758.1412.bjr-2025-0520",
+  "pmcid": "PMC12668820",
+  "source_record_sha256": "28b58b6753248ec4ac1e50717c87f9a608a181e5752e2b1f68c391ccfad051a5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "476f7bc2f960237a548cf95afb0b8790fcfebfc5ad20d1d86f8429156db0d871",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Implant design may influence knee flexor activation patterns during stair ascent and descent",
+    "authors": "Nelson-Tranum AK, Ford MC, Hou N, Powell DW, Holland CT, Richey PA, Mihalko WM.",
+    "year": 2025,
+    "journal": "Bone & Joint Research",
+    "doi": "10.1302/2046-3758.1412.bjr-2025-0520",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

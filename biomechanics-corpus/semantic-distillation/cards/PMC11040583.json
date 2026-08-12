@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11040583",
+  "paper_id": "doi:10.1021/acsami.3c18290",
+  "pmcid": "PMC11040583",
+  "source_record_sha256": "63ef183858a848a53d5af09f00f2a59a96aff1e1e04e985318e1e87ac085d9c7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "50f9031c3d7d25af1fc6733d35951a67908892c55e188a6db4b1c37eff08d84b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In-Bath 3D Printing of Anisotropic Shape-Memory Cryogels Functionalized with Bone-Bioactive Nanoparticles",
+    "authors": "Castanheira EJ, Monteiro LPG, Gaspar VM, Correia TR, Rodrigues JMM, Mano JF.",
+    "year": 2024,
+    "journal": "ACS Applied Materials & Interfaces",
+    "doi": "10.1021/acsami.3c18290",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

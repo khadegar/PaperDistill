@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12098156",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101791",
+  "pmcid": "PMC12098156",
+  "source_record_sha256": "ca2d8a727c1fd9982b4bb949305719e433cad94da72c842ae3eb035120f4b6f1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "afd9dccf55b53fe5e9a18859376f32e9d1aa8c28714afc0dcfa5a24425eebeaf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fast shape memory function and personalized PLTMC/SIM/MBG composite scaffold for bone regeneration",
+    "authors": "Hu X, Cheng S, Liu S, Zhou M, Liu J, Wei J, Lan Y, Zhai Y, Luo X, Dong M, Xiong Z, Huang W, Zhao C.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101791",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

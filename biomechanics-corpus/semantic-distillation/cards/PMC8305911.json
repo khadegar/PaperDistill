@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8305911",
+  "paper_id": "doi:10.3390/ma14143977",
+  "pmcid": "PMC8305911",
+  "source_record_sha256": "b2ec822237b274a062ecf54c899c34fe7769014f37c0c99a39cd95da561b076b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4dc183919f04e1e3ec3223ff92cb66f307803a3e0bc4258f7fa2c532133757ca",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent Advancements in 3D Printing of Polysaccharide Hydrogels in Cartilage Tissue Engineering",
+    "authors": "Naranda J, Bračič M, Vogrin M, Maver U.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14143977",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

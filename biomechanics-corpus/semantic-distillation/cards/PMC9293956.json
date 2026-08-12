@@ -1,0 +1,353 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9293956",
+  "paper_id": "doi:10.1016/j.jot.2022.05.008",
+  "pmcid": "PMC9293956",
+  "source_record_sha256": "86c13b62ca9acc8cf7234b9ee6dc8f62e9a903450d85902ceaaa42ec558fe511",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T11:25:10Z",
+    "packet_sha256": "78959e59c3312e83119f9841d5bad858fa02db55bbdb36f36f6057bc05e1aa1d",
+    "section_locators_read": [
+      "S001:C01",
+      "S001:C02",
+      "S002:C01",
+      "S002:C02",
+      "S002:C03",
+      "S002:C04",
+      "S003:C01",
+      "S004:C01",
+      "S004:C02",
+      "S004:C03",
+      "S004:C04",
+      "S004:C05",
+      "S004:C06",
+      "S005:C01",
+      "S005:C02",
+      "S005:C03",
+      "S006:C01",
+      "S006:C02",
+      "S006:C03",
+      "S006:C04",
+      "S007:C01",
+      "S007:C02",
+      "S007:C03",
+      "S007:C04",
+      "S007:C05",
+      "S007:C06",
+      "S007:C07",
+      "S007:C08",
+      "S007:C09",
+      "S008:C01",
+      "S009:C01",
+      "S010:C01",
+      "S011:C01",
+      "S012:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Comparative biomechanical analyses of lower cervical spine post anterior fusion versus intervertebral disc arthroplasty: A geometrically patient-specific poroelastic finite element investigation",
+    "authors": "Khalaf K, Nikkhoo M.",
+    "year": 2022,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2022.05.008",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "patient_geometry_specific_poroelastic_finite_element_comparative_study",
+    "design_features": [
+      "lower_cervical_spine_C3_C7",
+      "ten_patient_geometries",
+      "xray_parametric_reconstruction",
+      "poroelastic_intervertebral_discs",
+      "ACDF_Bryan_Prestige_comparison",
+      "static_and_cyclic_loading",
+      "mesh_independence",
+      "literature_benchmark_validation",
+      "within_geometry_comparison"
+    ],
+    "research_problem": "ACDF, Bryan disc arthroplasty, and Prestige LP arthroplasty alter adjacent-segment mechanics differently, but single-geometry and static FE studies underrepresent anatomical variability and time-dependent disc fluid-solid behavior.",
+    "exact_gap": "Existing cervical FE studies often use one geometry and static loading, rarely combining multiple patient geometries with poroelastic cyclic simulations to compare fusion and two arthroplasty designs (S002:C03-S002:C04).",
+    "objective_or_hypothesis": "Use ten geometrically patient-specific C3-C7 poroelastic models to compare preoperative, ACDF, Bryan, and Prestige LP conditions under static rotations and cyclic follower loading, focusing on ROM, IDP, FJF, disc height/fluid loss, annulus stress, and fiber strain (S001:C01-S002:C04).",
+    "study_design": "Ten parametric FE geometries derived from lateral/AP radiographs were each converted into one preoperative and three simulated postoperative models, yielding 10 intact and 30 treatment models; within-geometry outcomes were compared with Friedman/Nemenyi tests (S004:C01-S005:C03).",
+    "sample_or_model": "Ten patients eligible for C5-C6 ACDF or arthroplasty supplied 28 geometric parameters plus disc height/lordosis; all models shared literature-based material properties, ligament definitions, contact laws, implant catalogue dimensions, and loads (S004:C01-S005:C02).",
+    "comparators": [
+      "Preoperative intact geometry",
+      "C5-C6 ACDF with PEEK cage and bone graft",
+      "C5-C6 Bryan flexible-core artificial disc",
+      "C5-C6 Prestige LP metal-on-metal artificial disc",
+      "Within each patient geometry, not observed postoperative clinical cohorts"
+    ],
+    "method_spine": [
+      "Extract geometric parameters from AP/lateral radiographs and generate parametric C3-C7 anatomy.",
+      "Assign poro-hyperelastic discs/endplates/bone, fiber reinforcement, ligaments, facet contact, and literature material properties.",
+      "Check mesh independence and benchmark intact ROM/neutral IDP against external in-vitro ranges.",
+      "Modify C5-C6 into ACDF, Bryan, and Prestige scenarios with simplified catalogue implant geometries and tied bone-device interfaces.",
+      "Precondition, apply 11000 cyclic follower-load cycles and six separate 1 Nm rotations, and compare biomechanical outputs within geometry.",
+      "Keep predicted mechanical surrogates separate from clinical ASD and treatment efficacy."
+    ],
+    "validation_roles": {
+      "verification": [
+        "A meshing sensitivity study selected approximately 52,723 elements with 0.6 mm global edge length, and the Results state that mesh independence was checked (S004:C04; S006:C01).",
+        "The packet does not report mesh alternatives, convergence tolerances, solver/time-step checks, mass/energy balance, or poroelastic numerical convergence details."
+      ],
+      "calibration": [
+        "No patient-specific material or load calibration is reported; tissue and device properties come from literature/catalogues and all patients share the same mechanics (S004:C02-S004:C05; S007:C08).",
+        "The 30-minute preconditioning and fixed pore-pressure boundary mitigate initial swelling but are modeling choices rather than calibration to each patient (S005:C01-S005:C02)."
+      ],
+      "validation": [
+        "Intact intersegmental ROM under 1 Nm and neutral IDP under 100 N were within external cadaveric literature ranges; axial rotation at C3-C4 was a notable mismatch (S004:C06; S006:C01; S007:C01-S007:C02).",
+        "Agreement with an earlier geometrically accurate model supports face/trend plausibility, but no independent postoperative experiment or patient outcome validates ACDF/Bryan/Prestige predictions (S007:C02)."
+      ],
+      "sensitivity": [
+        "Ten geometries expose anatomical variability and within-geometry reversals between Bryan and Prestige, which is a useful population-geometry robustness analysis (S007:C06).",
+        "No sensitivity or uncertainty analysis varies material properties, permeability, swelling pressure, facet geometry/contact, friction, muscle forces, interface tie, implant placement, load magnitude/direction, or cycle history."
+      ],
+      "application_prediction": [
+        "ROM, IDP, FJF, height/fluid loss, annulus stress, and fiber strain are application predictions under specified models; using them for individual surgical planning requires patient-specific inputs and prospective validation not provided here (S008:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "ACDF markedly reduced C5-C6 ROM and increased adjacent-level ROM during flexion/extension relative to intact and arthroplasty models; axial-rotation differences were less consistent (S006:C01-S006:C02).",
+      "Adjacent-level IDP and FJF increased after ACDF during sagittal motion, while Prestige LP produced a comparatively high instrumented-level FJF consistent with modeled hypermobility (S006:C02-S006:C03; S007:C06).",
+      "After 11000 cycles, ACDF predicted more adjacent disc-height loss, fluid loss, annulus stress, and fiber strain than arthroplasty; Bryan produced the lowest height/fluid changes in this setup (S006:C03-S006:C04).",
+      "Patient geometries showed substantial dispersion and even reversed Bryan-versus-Prestige adjacent-ROM ranking for some patients, demonstrating that group-average direction is not universally individual (S007:C06)."
+    ],
+    "highest_evidence_level_reached": "Verified and externally benchmarked comparative FE predictions across ten patient geometries; no patient-specific material calibration, postoperative validation, biological degeneration measurement, or clinical ASD outcome."
+  },
+  "argument_map": {
+    "central_claim": "Under the specified poroelastic FE assumptions, ACDF transfers more motion/load/fluid-loss surrogates to adjacent segments than two arthroplasty designs, while Bryan best preserves modeled adjacent-disc poroelastic behavior and Prestige may elevate instrumented-level facet force; these are comparative mechanical predictions, not proof of clinical ASD or superior outcomes.",
+    "data": [
+      "Ten intact and thirty treatment FE models, literature-benchmarked intact ROM/IDP, 11000-cycle poroelastic simulations, and within-geometry comparisons of seven mechanical outputs (S004:C01-S006:C04).",
+      "Geometry-related interpatient dispersion and model-specific response reversals (S007:C02; S007:C06)."
+    ],
+    "warrant": "Altered motion, pressure, facet load, fluid exchange, and annulus stress/strain are mechanically plausible pathways toward adjacent-disc degeneration, but each link to biological degeneration and clinical ASD remains inferential.",
+    "backing": [
+      "External cadaveric ROM/IDP ranges support intact-model behavior, and prior literature connects disc height/hydration changes with ASD-related imaging (S004:C06; S007:C04-S007:C07)."
+    ],
+    "qualifier": "Comparative trend under ten geometries and a fixed parameter/load/interface set.",
+    "rebuttals_or_boundaries": [
+      "Patient specificity applies chiefly to geometry; material, permeability, ligaments, implants, loads, and boundary conditions are not individualized (S004:C01-S004:C05; S007:C08).",
+      "Complete osseointegration is imposed with tied contact for all devices, eliminating interface micromotion, subsidence, migration, and fixation failure (S005:C01; S007:C03).",
+      "Validation uses intact literature ROM/IDP, not independent postoperative treatment-specific data.",
+      "A 11000-cycle 0.5 Hz scenario is estimated from 19 km of walking and is not a multi-year physiological load spectrum (S005:C02; S007:C04-S007:C05).",
+      "Follower load omits active muscles and each rotation is simulated separately; implant geometry and facets are simplified (S004:C02-S004:C04; S005:C01-S005:C02; S007:C08-S007:C09).",
+      "Mechanical ASD surrogates cannot establish clinical degeneration incidence, symptoms, revision, or quality of life."
+    ],
+    "argument_coherence": "high_for_comparative_model_mechanics_moderate_for_ASD_inference"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "AP/lateral radiographic geometric parameters from ten patients and external experimental ROM/IDP benchmark ranges (S004:C01; S004:C06)."
+    ],
+    "predicted": [
+      "All treatment-specific ROM, IDP, FJF, disc height/fluid loss, annulus stress, and collagen-fiber strain values are FE predictions (S005:C02-S006:C04).",
+      "The modeled response assumes fixed C7, follower compression, separate 1 Nm moments, uniform material properties, simplified implants, and perfect device-bone ties."
+    ],
+    "inferred": [
+      "Higher adjacent-level predicted metrics after ACDF are interpreted as higher ASD risk, and lower Bryan metrics as better preservation/clinical efficacy (S007:C05-S008:C01).",
+      "Prestige FJF is attributed to modeled hypermobility, a plausible internal mechanism not clinically verified here (S007:C06)."
+    ],
+    "recommended": [
+      "For planning claims, add patient-specific tissue/load calibration, independent postoperative validation, interface and subsidence models, uncertainty propagation, realistic multi-activity loading, and prospective association with ASD endpoints."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Predicted ROM/IDP/FJF are mechanical surrogates, not observed degeneration.",
+      "Predicted disc height/fluid loss over 11000 cycles is not longitudinal MRI hydration loss or clinical ASD.",
+      "Annulus stress/fiber strain suggests a mechanical pathway but does not model inflammation, remodeling, pain, or failure thresholds.",
+      "Tied interfaces assume integration rather than predict it.",
+      "Within-model statistical significance is not clinical effect or validation."
+    ],
+    "overclaim_risks": [
+      "The abstract/conclusion says ACDF poses the highest risk and Bryan shows most efficacy, language stronger than treatment-specific validation supports (S001:C01-S001:C02; S008:C01).",
+      "The discussion states artificial disc arthroplasty has better clinical outcomes, although the study contains no postoperative patient outcomes (S007:C07).",
+      "The claim that 11000 cycles generalize to long-term responses exceeds the modeled duration and load diversity (S007:C05).",
+      "Calling the models patient-specific without the modifier 'geometrically' can conceal uniform materials, loads, and implant assumptions."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Decompose patient specificity by input class",
+      "execution": "The paper explicitly derives anatomy from 28 radiographic parameters while assigning common literature materials, contacts, implants, and loads (S004:C01-S005:C02).",
+      "locator": "S004:C01",
+      "effectiveness": "high_when_read_with_limitations",
+      "transferable_principle": "State separately whether geometry, material, boundary/load, implant, contact, pathology, and calibration are patient-specific; never use the label as an undifferentiated property.",
+      "failure_mode": "Geometry-specific models are not fully patient-specific predictions."
+    },
+    {
+      "section": "methods",
+      "move": "Keep verification, calibration, validation, and application prediction separate",
+      "execution": "Mesh independence checks numerical discretization, intact ROM/IDP comparison benchmarks model behavior, no calibration is reported, and postoperative outputs are applications (S004:C04-S006:C01).",
+      "locator": "S004:C06",
+      "effectiveness": "high",
+      "transferable_principle": "Write FE credibility as four explicit subsections and identify which data were used in each; intact benchmarking does not validate every postoperative prediction.",
+      "failure_mode": "A model within a literature range is not automatically validated for device ranking or clinical risk."
+    },
+    {
+      "section": "results",
+      "move": "Show distribution and individual trend reversals, not only the mean",
+      "execution": "The discussion notes substantial standard deviations and opposite Bryan-versus-Prestige ordering in subsets of the ten geometries (S007:C06).",
+      "locator": "S007:C06",
+      "effectiveness": "high",
+      "transferable_principle": "For virtual cohorts, report per-subject paired effects, dispersion, rank reversals, and the percentage sharing the average direction.",
+      "failure_mode": "A group mean device ranking may not apply to an individual."
+    },
+    {
+      "section": "discussion",
+      "move": "Translate modeled surrogates through an explicit causal chain",
+      "execution": "The paper links rigidity to adjacent load sharing, fluid loss, solid-phase stress/strain, and possible degeneration (S007:C05-S007:C07).",
+      "locator": "S007:C07",
+      "effectiveness": "moderate",
+      "transferable_principle": "Write each FE-to-clinical inference as predicted mechanical change, hypothesized biological consequence, missing validation link, and bounded clinical implication.",
+      "failure_mode": "Do not call a predicted surrogate a clinical outcome."
+    },
+    {
+      "section": "limitations",
+      "move": "Name scope-defining assumptions rather than generic simplifications",
+      "execution": "The authors identify parametric geometry, shared materials, and omitted active muscle forces; additional key assumptions include tied integration and simplified load history (S007:C08-S007:C09).",
+      "locator": "S007:C08",
+      "effectiveness": "moderate",
+      "transferable_principle": "For each simplification, state which output it may bias, in what direction if known, and which conclusion must be narrowed.",
+      "failure_mode": "Listing assumptions without propagating them into claim scope is incomplete."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Simplified parametric geometry, identical material properties across patients, omitted active muscle forces, simple swelling boundary, and non-lifetime cyclic loading (S007:C04-S007:C09)."
+    ],
+    "reader_identified": [
+      "No patient-specific material/load calibration and no treatment-specific independent validation.",
+      "Perfect device-bone ties preclude osseointegration failure, micromotion, subsidence, and migration.",
+      "Simplified catalogue implant geometries and standard heights may not reproduce surgical placement or individual sizing.",
+      "Mesh sensitivity is asserted without convergence data and no time-step/poroelastic numerical verification is shown.",
+      "Facet geometry, friction/contact, permeability, swelling pressure, ligament properties, and load spectrum lack uncertainty analysis.",
+      "Ten patients are a small geometry sample and demographics/pathology do not enter material or loading models.",
+      "No biological remodeling, longitudinal imaging, symptoms, ASD events, revision, or patient-reported outcomes."
+    ],
+    "likely_bias_direction": [
+      "Perfect fixation and standardized implants may understate interface- and placement-related differences.",
+      "Fixed assumptions can make device rankings appear more precise and general than parameter uncertainty permits.",
+      "FE-to-clinical language likely overstates ASD and efficacy conclusions."
+    ],
+    "scope_boundary": "The study compares short-horizon poroelastic mechanical responses of four modeled states across ten geometries; it does not predict individual clinical ASD, validate device integration, establish long-term durability, or demonstrate clinical superiority."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC9293956-01",
+      "capability": "Decompose 'patient-specific' FE models into geometry, material, load/boundary, implant/contact, pathology, and calibration dimensions.",
+      "manuscript_use": "Methods, model table, title/abstract wording, and limitations.",
+      "applicable_domains": [
+        "biomechanics",
+        "patient_specific_implant",
+        "bone_implant"
+      ],
+      "applicable_study_designs": [
+        "finite_element",
+        "virtual_cohort"
+      ],
+      "supporting_locators": [
+        "S004:C01",
+        "S004:C02",
+        "S004:C03",
+        "S004:C04",
+        "S004:C05",
+        "S005:C01",
+        "S007:C08"
+      ],
+      "counterexample_or_boundary": "Patient-specific geometry with common materials and loads is geometrically patient-specific, not a fully individualized prediction.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9293956-02",
+      "capability": "Classify FE evidence explicitly as verification, calibration, validation, sensitivity, or application prediction and prevent role substitution.",
+      "manuscript_use": "Computational Methods, credibility table, Results, and Discussion.",
+      "applicable_domains": [
+        "biomechanics",
+        "bone_implant"
+      ],
+      "applicable_study_designs": [
+        "finite_element"
+      ],
+      "supporting_locators": [
+        "S004:C04",
+        "S004:C06",
+        "S006:C01",
+        "S007:C01",
+        "S007:C02",
+        "S007:C08"
+      ],
+      "counterexample_or_boundary": "Intact literature-range ROM/IDP does not validate postoperative device rankings or ASD risk.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9293956-03",
+      "capability": "Report virtual-cohort mean effects together with subject-level dispersion and rank reversals, then bridge mechanical surrogate to clinical outcome in labeled steps.",
+      "manuscript_use": "FE Results figures and Discussion causal chain.",
+      "applicable_domains": [
+        "biomechanics",
+        "patient_specific_implant",
+        "mechanobiology"
+      ],
+      "applicable_study_designs": [
+        "finite_element",
+        "virtual_cohort"
+      ],
+      "supporting_locators": [
+        "S006:C01",
+        "S006:C02",
+        "S006:C03",
+        "S006:C04",
+        "S007:C05",
+        "S007:C06",
+        "S007:C07"
+      ],
+      "counterexample_or_boundary": "A mean Bryan advantage does not hold for every geometry, and lower surrogates do not prove lower clinical ASD incidence.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_comparative_mechanics",
+    "methods_transparency": "high",
+    "validation_credibility": "moderate_for_intact_global_behavior_low_for_postoperative_clinical_prediction",
+    "outcome_uncertainty_reporting": "moderate_geometry_variability_low_parameter_uncertainty",
+    "comparator_fairness": "high_within_model_assumptions",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "Only geometry is individualized; parameter and load uncertainty is not propagated.",
+      "Perfect integration and no treatment-specific validation.",
+      "Long-term ASD and clinical efficacy language exceeds the simulated evidence."
+    ],
+    "overall_credibility": "high_for_relative_FE_trends_under_stated_assumptions_moderate_for_device_ranking_low_for_clinical_ASD_or_planning"
+  },
+  "summary_zh": "这是真正的患者几何特异性孔弹性有限元研究：10 名患者的 X 线参数生成 C3–C7 几何，每个几何比较术前、ACDF、Bryan 和 Prestige LP，共 40 个模型。网格独立性与术前 ROM/IDP 文献范围提供 verification/外部 benchmark，但材料、载荷、接触和植入物并未个体化，也没有用独立术后实验或患者数据验证三种手术预测。模型把器械与骨完全 tie，等于预先假定完全骨整合；11000 次、0.5 Hz 的载荷约对应一次 19 km 步行，不代表多年负载史。ACDF 的邻近节段 ROM、IDP、FJF、流体/高度损失和环纤维应力应写为 predicted mechanical surrogates，不能直接写成临床 ASD。Skill 将据此强制拆分‘患者特异’维度，并严格区分 verification、calibration、validation、sensitivity 和 application prediction。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section, including all model equations/properties, contacts, loads, outcomes, validation comparison, and limitations.",
+    "The article is computational; experimental and clinical content is limited to external benchmark data and source imaging.",
+    "The strongest reusable features are FE evidence-role separation and virtual-cohort dispersion; the main counterexample is proxy-to-clinical overreach."
+  ],
+  "selection": {
+    "selection_reason": "explicit_include",
+    "primary_stratum": "patient_specific_implants",
+    "stratum_rank": 3,
+    "reading_order": 33
+  },
+  "source": {
+    "record_path": "records/PMC9293956.json.gz",
+    "source_record": "records/PMC9293956.json.gz",
+    "source_record_sha256": "86c13b62ca9acc8cf7234b9ee6dc8f62e9a903450d85902ceaaa42ec558fe511",
+    "source_hash": "86c13b62ca9acc8cf7234b9ee6dc8f62e9a903450d85902ceaaa42ec558fe511"
+  }
+}

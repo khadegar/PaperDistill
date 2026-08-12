@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9393212",
+  "paper_id": "doi:10.3389/fbioe.2022.945869",
+  "pmcid": "PMC9393212",
+  "source_record_sha256": "58bc645c71ca7fb94b0c76906944074f49c68581b4051b55f132cc9e7732ff39",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cc4505e602559a8c9a7c9ba2fe9cf2c13783c8a4f40482b31bd5b07407d321d8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced osteogenic activity of titania-modified zirconia implant by ultraviolet irradiation",
+    "authors": "Tang S, Wang Y, Zong Z, Ding N, Zhang Z.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.945869",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

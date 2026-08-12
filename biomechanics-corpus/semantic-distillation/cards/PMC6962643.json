@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6962643",
+  "paper_id": "doi:10.1016/j.bioactmat.2020.01.004",
+  "pmcid": "PMC6962643",
+  "source_record_sha256": "0079a35626ff3e2cba338450b3c5535895325aa597e961e8d69c6f56304a3b45",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d8a87f8ed1ffa31755d0aca5b59223fbde1ac846d52a3de27bfc91bed219c152",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing of bone tissue engineering scaffolds",
+    "authors": "Wang C, Huang W, Zhou Y, He L, He Z, Chen Z, He X, Tian S, Liao J, Lu B, Wei Y, Wang M.",
+    "year": 2020,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2020.01.004",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

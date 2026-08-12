@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4939960",
+  "paper_id": "doi:10.1371/journal.pone.0157698",
+  "pmcid": "PMC4939960",
+  "source_record_sha256": "5f364c9844f16307d8926576a8970872592b70d10ba55e44a3a7ce71827c20fe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7ce2b003e1bbf97d136a914b486264e91eb41fb74fd714b2e79035635a22ed82",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of a Novel HA/ZrO 2 -Based Porous Bioceramic Artificial Vertebral Body Combined with a rhBMP-2/Chitosan Slow-Release Hydrogel",
+    "authors": "Shi Y, Quan R, Xie S, Li Q, Cao G, Zhuang W, Zhang L, Shao R, Yang D.",
+    "year": 2016,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0157698",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

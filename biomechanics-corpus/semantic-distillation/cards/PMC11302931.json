@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11302931",
+  "paper_id": "doi:10.1371/journal.pone.0300270",
+  "pmcid": "PMC11302931",
+  "source_record_sha256": "dd896172eef0922a36f9388476bdc5cc46975195e6910021ae58b65496a3241d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "74f4fce04a2728dad21d6d7c16e1c21e7b319a7ebbf914c3e0da6f850325ab2b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element modeling of stress distribution and safety factors in a Ti-27Nb alloy hip implant under real-world physiological loading scenarios",
+    "authors": "Amjad M, Badshah S, Ahmad S, Badshah M, Jan S, Yasir M, Akram W, Alam Shah I, Muhammad R, Khan MI, Khan MI, Yasmeen T.",
+    "year": 2024,
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0300270",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

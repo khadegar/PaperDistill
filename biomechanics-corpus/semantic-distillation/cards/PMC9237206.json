@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9237206",
+  "paper_id": "doi:10.3389/fbioe.2022.939199",
+  "pmcid": "PMC9237206",
+  "source_record_sha256": "0ff0644ad44617e3a95717d9578574467b4b3e15b4b648168d43e6f1aff5ae2c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ed48945c3e778d1dd35ca7c1b6df1a2b1412d8c5e1ffad44842180230da27d72",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stem Cells-Loaded 3D-Printed Scaffolds for the Reconstruction of Alveolar Cleft",
+    "authors": "Luo D, Chen B, Chen Y.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.939199",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

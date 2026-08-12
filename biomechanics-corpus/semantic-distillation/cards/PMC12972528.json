@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12972528",
+  "paper_id": "doi:10.1016/j.mtbio.2026.102994",
+  "pmcid": "PMC12972528",
+  "source_record_sha256": "861571d71174bf8ff0e3b7d385acb4e334b2e94c8362c107d6c48777d6285afe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "912b79bb5e87200f38f137e47ca8cb120e9db5a264cb370f77a22102cb0cd136",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dynamic glucose-responsive mesoporous silica nanoparticle coating on trabecular tantalum implants for dual mode drug delivery",
+    "authors": "Ma S, Cui M, Chang K, Yang G, Li L, Kou B, Xu B, Li Y, Liu F, Jin M, Shibata Y, Zhou J, Li R.",
+    "year": 2026,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2026.102994",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

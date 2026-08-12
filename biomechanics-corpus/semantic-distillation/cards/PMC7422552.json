@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7422552",
+  "paper_id": "doi:10.1186/s13018-020-01833-0",
+  "pmcid": "PMC7422552",
+  "source_record_sha256": "aff3938532caec57f8b2c2224055b7d12f9fb3f23abc26e8fb5d4882dd899fcb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0b46d83bbe63000529407b67210d905c0d71d6715628e64eeb12449c33d72be8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A finite element analysis on comparing the stability of different posterior fixation methods for thoracic total en bloc spondylectomy",
+    "authors": "Liang Y, Cao Y, Gong Z, Jiang C, Jin L, Li Z, Chen Z, Jiang C, Jiang X.",
+    "year": 2020,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-020-01833-0",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

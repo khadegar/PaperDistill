@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6396049",
+  "paper_id": "doi:10.1177/2041731419832133",
+  "pmcid": "PMC6396049",
+  "source_record_sha256": "a3365d8b1df0a020d932c287bf70a7ff3bd2e66d8e37286d1af9ad2c3bf98602",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "37f9daca161fb7b73d676f80c543034e4ff6382677347c9a6de6156481be00b9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimal mechanical properties of a scaffold for cartilage regeneration using finite element analysis",
+    "authors": "Koh YG, Lee JA, Kim YS, Lee HY, Kim HJ, Kang KT.",
+    "year": 2019,
+    "journal": "Journal of Tissue Engineering",
+    "doi": "10.1177/2041731419832133",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

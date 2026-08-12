@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9944260",
+  "paper_id": "doi:10.1007/s12178-023-09820-8",
+  "pmcid": "PMC9944260",
+  "source_record_sha256": "11d8132308d352005f6f2aff6cb2a0cc49982c4bf9abb36be28fddf0a24d9597",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "21521f64620b13978c440647b7fdf12b0804c0ba558e7cee28b94325733c9f15",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Influence of Reverse Total Shoulder Arthroplasty Implant Design on Biomechanics",
+    "authors": "Cogan CJ, Ho JC, Entezari V, Iannotti JP, Ricchetti ET.",
+    "year": 2023,
+    "journal": "Current Reviews in Musculoskeletal Medicine",
+    "doi": "10.1007/s12178-023-09820-8",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

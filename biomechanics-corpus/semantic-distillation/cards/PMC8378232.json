@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8378232",
+  "paper_id": "doi:10.3389/fbioe.2021.704048",
+  "pmcid": "PMC8378232",
+  "source_record_sha256": "4a20cfdee352bd207f72a25f4149989f15caddc3bd659edc328a500a1523d590",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3c676e992668761e3054430cebaaf185d3f2c28a993b0d716db93c4206951c5a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Regenerative Medicine Technologies to Treat Dental, Oral, and Craniofacial Defects",
+    "authors": "Latimer JM, Maekawa S, Yao Y, Wu DT, Chen M, Giannobile WV.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.704048",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

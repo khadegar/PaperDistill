@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7589701",
+  "paper_id": "doi:10.3390/diagnostics10100844",
+  "pmcid": "PMC7589701",
+  "source_record_sha256": "e0c23ebcdd0ac7079d1dd39af8e62b1361aba1b0aee05c6c9b846c419b6496f9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "440074e6f535ca61815462f72038ce22c074af5895094bc577ad2423a8fcca03",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Integrating Finite Element Death Technique and Bone Remodeling Theory to Predict Screw Loosening Affected by Radiation Treatment after Mandibular Reconstruction Surgery",
+    "authors": "Wu LJ, Hsieh KH, Lin CL.",
+    "year": 2020,
+    "journal": "Diagnostics",
+    "doi": "10.3390/diagnostics10100844",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10704079",
+  "paper_id": "doi:10.1016/j.jare.2023.01.019",
+  "pmcid": "PMC10704079",
+  "source_record_sha256": "8c0c3b409bdb25a9a0520816c0558ee5f4c3c5c8f540b2d9cddc1bc182d0f79d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7296eb0a907cb3f2bbc86b78dcd2500c829c579294b245c0217d62a77f556911",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A spatiotemporal drug release scaffold with antibiosis and bone regeneration for osteomyelitis",
+    "authors": "Wu S, Shuai Y, Qian G, Peng S, Liu Z, Shuai C, Yang S.",
+    "year": 2023,
+    "journal": "Journal of Advanced Research",
+    "doi": "10.1016/j.jare.2023.01.019",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

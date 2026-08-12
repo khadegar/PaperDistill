@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10545847",
+  "paper_id": "doi:10.3389/fendo.2023.1198475",
+  "pmcid": "PMC10545847",
+  "source_record_sha256": "265970ff14b29a4cca4dbc005048382a9ac87edd457b816f0234ae277306dfad",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "316df75c0e4d5efc7a0767cdc36f1a8e63887f0c8452623e752ee23893c9698c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Strontium chloride improves bone mass by affecting the gut microbiota in young male rats",
+    "authors": "Xi X, Gao Y, Wang J, Zheng N.",
+    "year": 2023,
+    "journal": "Frontiers in Endocrinology",
+    "doi": "10.3389/fendo.2023.1198475",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

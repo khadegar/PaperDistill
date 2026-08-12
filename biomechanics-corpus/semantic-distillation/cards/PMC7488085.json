@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7488085",
+  "paper_id": "doi:10.3389/fbioe.2020.00864",
+  "pmcid": "PMC7488085",
+  "source_record_sha256": "39c448b77388731b637ed6771c8b4b8ab41c0e010788df00cfa2017278cf7bee",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "28da029169ebee1d5b0eb33c1156241044ca30b51c376ddfe7b4c74ad9fb27c2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "High Mineralization Capacity of IDG-SW3 Cells in 3D Collagen Hydrogel for Bone Healing in Estrogen-Deficient Mice",
+    "authors": "Chen K, Zhou Q, Kang H, Yan Y, Qian N, Li C, Wang F, Yang K, Deng L, Qi J.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.00864",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

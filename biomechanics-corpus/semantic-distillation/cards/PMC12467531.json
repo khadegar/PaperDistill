@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12467531",
+  "paper_id": "doi:10.3390/bioengineering12090955",
+  "pmcid": "PMC12467531",
+  "source_record_sha256": "4acdaf635c9ad88659bfd26c9ebcf72dc260c6c2a353b89f9cd76f3236d1e6d1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6e656f06dad560dcee7790635dae8846409fb18d3979562602910f6ff90dcb9c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous Structures, Surface Modifications, and Smart Technologies for Total Ankle Arthroplasty: A Narrative Review",
+    "authors": "Tennyson JM, Sohn MO, Movva AK, Mitra K, O'Neill CN, Anastasio AT, Adams SB.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12090955",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

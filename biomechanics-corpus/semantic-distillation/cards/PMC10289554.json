@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10289554",
+  "paper_id": "doi:10.1097/gox.0000000000005071",
+  "pmcid": "PMC10289554",
+  "source_record_sha256": "dc75715eef4ed2b12981c146b057986ae011ee8dc84fee4ae0ad0064d6989056",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "81d2fc0bb53244195af9f005762a32d8b1418d01e3200317fe9975f81506ad97",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical Application to Improve the “Depth Perception Problem” by Combining Augmented Reality and a 3D Printing Model",
+    "authors": "Katayama M, Mitsuno D, Ueda K.",
+    "year": 2023,
+    "journal": "Plastic and Reconstructive Surgery Global Open",
+    "doi": "10.1097/gox.0000000000005071",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

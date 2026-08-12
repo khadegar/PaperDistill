@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12488226",
+  "paper_id": "doi:10.1002/jsp2.70121",
+  "pmcid": "PMC12488226",
+  "source_record_sha256": "3c2e012d70bfeb2d9a2b52999fc2c682601833c6c47325041d70f9a3587d34ff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "73d3c7891315485e2c422ebd984c02b280e0388f7f521f42735579834b676bb2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Vertebral Growth Modulation Through Periosteal Resection and Fixed Length Deformity Overcorrection: Computational and In Vivo Pilot Study",
+    "authors": "Halanski MA, Jeffers C, Abubakr Y, Zhou M, Kokinos B, Twedt M, Bennett D, Hamman S, Crenshaw T, O'Connell GD, Haider H.",
+    "year": 2025,
+    "journal": "JOR Spine",
+    "doi": "10.1002/jsp2.70121",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

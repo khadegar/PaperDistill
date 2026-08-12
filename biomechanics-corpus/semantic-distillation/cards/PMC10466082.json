@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10466082",
+  "paper_id": "doi:10.1093/rb/rbad067",
+  "pmcid": "PMC10466082",
+  "source_record_sha256": "cef42eddd4feb715a49a65370cccd82c9c8162ce0e0575002f2b819b45c4913f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e6b08e99404df41cdba1cc5f0079885585744d4275c413cac992a0bbeb4c56f7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Construction of 3D bioprinting of HAP/collagen scaffold in gelation bath for bone tissue engineering",
+    "authors": "Guo C, Wu J, Zeng Y, Li H.",
+    "year": 2023,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbad067",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

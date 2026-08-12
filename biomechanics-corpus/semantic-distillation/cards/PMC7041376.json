@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7041376",
+  "paper_id": "doi:10.3390/ma13030648",
+  "pmcid": "PMC7041376",
+  "source_record_sha256": "0713fb6502d53e141ec7b92cb8186ece0dccacadb7db4b85ac6c92aac42aa8e1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bda55f1bae0e94f511156b839dce05af72626f56d62851d219ecfbd557c5aa78",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanobiological Approach to Design and Optimize Bone Tissue Scaffolds 3D Printed with Fused Deposition Modeling: A Feasibility Study",
+    "authors": "Percoco G, Uva AE, Fiorentino M, Gattullo M, Manghisi VM, Boccaccio A.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13030648",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

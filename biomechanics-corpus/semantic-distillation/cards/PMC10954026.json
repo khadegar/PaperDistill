@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10954026",
+  "paper_id": "doi:10.2147/ijn.s449290",
+  "pmcid": "PMC10954026",
+  "source_record_sha256": "703c75477297149441c1f7600bdba8c7583fc8d24c4e59852a9e6265398b40df",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "215579ebf4fcd3d6a923adc28c239b54fde267436f57bfb6995cfbe1d6641314",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Dual Angiogenesis Effects via Nrf2/HO-1 Signaling Pathway of Melatonin Nanocomposite Scaffold on Promoting Diabetic Bone Defect Repair",
+    "authors": "Chen T, Wu Z, Hou Q, Mei Y, Yang K, Xu J, Wang L.",
+    "year": 2024,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s449290",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

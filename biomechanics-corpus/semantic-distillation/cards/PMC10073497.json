@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10073497",
+  "paper_id": "doi:10.3389/fbioe.2023.1133869",
+  "pmcid": "PMC10073497",
+  "source_record_sha256": "70e7bdb2d237396616bcfc6eee6ed720abb3379b367ddc576f3eafb3cd5e9db7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9bce4a0a60e1578c62b063f78252129baf9167cb92aff6b59c71dec12fab095a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Experimental analysis and numerical fatigue life prediction of 3D-Printed osteosynthesis plates",
+    "authors": "Nakhaei M, Sterba M, Foletti JM, Badih L, Behr M.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1133869",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

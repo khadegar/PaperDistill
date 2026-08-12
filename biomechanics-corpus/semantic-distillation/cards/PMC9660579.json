@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9660579",
+  "paper_id": "doi:10.1016/j.mtbio.2022.100485",
+  "pmcid": "PMC9660579",
+  "source_record_sha256": "91805dada9ba479fdaf8bde6fe4665e2a59fe1f9c0870722e9bb221111347682",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "eccbc84ecd01242ee702159cc4e159c4fd2a0e085598d6045fa61dd07ce28f08",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An all-silk-derived bilayer hydrogel for osteochondral tissue engineering",
+    "authors": "Jiang W, Xiang X, Song M, Shen J, Shi Z, Huang W, Liu H.",
+    "year": 2022,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2022.100485",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

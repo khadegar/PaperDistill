@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8003502",
+  "paper_id": "doi:10.3390/polym13060946",
+  "pmcid": "PMC8003502",
+  "source_record_sha256": "d1b01e2d0b5e1fa16197e827703945961c6000f87f377eb41cfdd1ff73cd1b6c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cd56ef05e04a6fcc4c1a7d4f3ad5873dd3454291168768036570f06a41328565",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent Developments in Polyurethane-Based Materials for Bone Tissue Engineering",
+    "authors": "Szczepańczyk P, Szlachta M, Złocista-Szewczyk N, Chłopek J, Pielichowska K.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13060946",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

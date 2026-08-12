@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10676576",
+  "paper_id": "doi:10.1186/s12903-023-03641-4",
+  "pmcid": "PMC10676576",
+  "source_record_sha256": "30e3e7214629b71af7673bce06bb2a9dc4ca2fcd22c952fc46ab6972d9717796",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "90aaad522d2ed5869066c4105bef29dfcdf53c22153004d75c4ca9bf7f46f0d9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of the angle range in trans-inferior alveolar nerve implantation at the mandibular second molar",
+    "authors": "Wu W, Song L, Liu J, Du L, Zhang Y, Chen Y, Tang Z, Shen M.",
+    "year": 2023,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-023-03641-4",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

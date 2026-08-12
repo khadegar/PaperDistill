@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8399301",
+  "paper_id": "doi:10.3390/ma14164625",
+  "pmcid": "PMC8399301",
+  "source_record_sha256": "baf26caa01ea80a9d3601fd7b9d3ba6b7f7e333b66481b7655b73e2c0b237feb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6a98f4bb9ba7fe009115cd3e62f238662ae829c4169d4ac2df346297ddff6e20",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Numerical Simulations of Components Produced by Fused Deposition 3D Printing",
+    "authors": "Scapin M, Peroni L.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14164625",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

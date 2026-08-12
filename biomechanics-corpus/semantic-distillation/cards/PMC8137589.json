@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8137589",
+  "paper_id": "doi:10.1007/s10439-020-02694-8",
+  "pmcid": "PMC8137589",
+  "source_record_sha256": "d6937819ae561218e329b9a823e8daeeaded63d732010d6275407719fd15889a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bceb18af96959f84e03831307ac90ba1ae21b5a29043610fa316e794427a0f9f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Simulations of the ID Venous System to Treat Venous Compression Disorders: From Model Validation to Realistic Implant Prediction",
+    "authors": "Zaccaria A, Migliavacca F, Contassot D, Heim F, Chakfe N, Pennati G, Petrini L.",
+    "year": 2021,
+    "journal": "Annals of Biomedical Engineering",
+    "doi": "10.1007/s10439-020-02694-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

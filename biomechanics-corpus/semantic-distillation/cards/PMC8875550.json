@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8875550",
+  "paper_id": "doi:10.3390/ma15041433",
+  "pmcid": "PMC8875550",
+  "source_record_sha256": "2b304897bd965460687a9c50a8f7069a08bcccf4130fe84183547f7c8d157104",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9ddf44d98c2b90ca122eca385306b0a570f6075523bba79cab9c63556ce0a8a1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed HA-Based Scaffolds for Bone Regeneration: Microporosity, Osteoconduction and Osteoclastic Resorption",
+    "authors": "Ghayor C, Bhattacharya I, Guerrero J, Özcan M, Weber FE.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15041433",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

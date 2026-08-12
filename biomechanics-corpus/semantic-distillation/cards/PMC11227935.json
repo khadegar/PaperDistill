@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11227935",
+  "paper_id": "doi:10.5051/jpis.2301780089",
+  "pmcid": "PMC11227935",
+  "source_record_sha256": "110549b08f3cf594baa8c69550beffc6913a29c6ee13185b6fa330f7a5ebff33",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a588de52786e02ef947cf458db2cd6cea8fbd3d28307620b523e101646983147",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Novel approach to assessing the primary stability of dental implants under functional cyclic loading in vitro : a biomechanical pilot study using synthetic bone",
+    "authors": "Fischer JP, Schleifenbaum S, Gelberg F, Barth T, Wendler T, Löffler S.",
+    "year": 2023,
+    "journal": "Journal of Periodontal & Implant Science",
+    "doi": "10.5051/jpis.2301780089",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

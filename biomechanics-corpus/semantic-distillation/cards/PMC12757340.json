@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12757340",
+  "paper_id": "doi:10.3389/fsurg.2025.1661501",
+  "pmcid": "PMC12757340",
+  "source_record_sha256": "b7763305b7e22f44fff04070f73039ca314905f6ba15ff527c64558d006809eb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d608658dc89f6a46d06306b124527325cace4e04cc7f9c55d2acdf3c112568c8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The minimally invasive surgical local osteo-enhancement procedure (LOEP) to deliver a resorbable, tri-phasic calcium-based implant material to address bone loss and strengthen the proximal femur",
+    "authors": "Goost H, De Schepper J, Rölfing JD, Aguado H, Howe J, Huber B.",
+    "year": 2025,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2025.1661501",
+    "publication_type": "methods-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

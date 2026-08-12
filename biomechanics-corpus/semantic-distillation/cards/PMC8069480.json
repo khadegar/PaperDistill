@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8069480",
+  "paper_id": "doi:10.3390/pharmaceutics13040543",
+  "pmcid": "PMC8069480",
+  "source_record_sha256": "64c06b77f5f2a006f6762fb31eebd28dea9c0dc1c4e1ed170e0e65d08f49d715",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0ffa321ad78b1ebe00ca0b05b192ad99d3ab51f679343ef48b7831aa76df32a6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Supercritical Fluid Technology for the Development of 3D Printed Controlled Drug Release Dosage Forms",
+    "authors": "Schmid J, Wahl MA, Daniels R.",
+    "year": 2021,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics13040543",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

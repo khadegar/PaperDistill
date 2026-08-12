@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10054603",
+  "paper_id": "doi:10.3390/jfb14030156",
+  "pmcid": "PMC10054603",
+  "source_record_sha256": "f9aa5dca9e3f8079f5c277cfa3351cffbfc81d314691b61fa7962638c9a70e0d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4b7791ddc1feafe9aad6905f2c5e4f0f98432dacec89ef5c89c4441ee73d3f61",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Machine-Learning-Based Approach for Predicting Mechanical Performance of Semi-Porous Hip Stems",
+    "authors": "Akkad K, Mehboob H, Alyamani R, Tarlochan F.",
+    "year": 2023,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb14030156",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

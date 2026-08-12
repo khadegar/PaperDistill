@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9147232",
+  "paper_id": "doi:10.3390/ma15103442",
+  "pmcid": "PMC9147232",
+  "source_record_sha256": "9499e051300769f832300f89066379f07a551a3d685606edb117299e916d2276",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8c5f5242edf4962da9f6236de2476a5b43e8f75cc2eb5fe2f092429beaa202af",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Simulation-Based Process Design for Asymmetric Single-Point Incremental Forming of Individual Titanium Alloy Hip Cup Prosthesis",
+    "authors": "Frikha S, Giraud-Moreau L, Bouguecha A, Haddar M.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15103442",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

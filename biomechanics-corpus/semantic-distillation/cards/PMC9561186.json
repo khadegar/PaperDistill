@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9561186",
+  "paper_id": "doi:10.3345/cep.2021.01326",
+  "pmcid": "PMC9561186",
+  "source_record_sha256": "2b642f51ffe825964247253e587cafb2000929531d765a8dd7e0a0bc63080222",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7e911756451d97f5fa7f4eab14ace5c300a28dcd52241aaadedc68c6f0944e1a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of 3-dimensional printing implants for bone tumors",
+    "authors": "Park JW, Kang HG.",
+    "year": 2021,
+    "journal": "Clinical and Experimental Pediatrics",
+    "doi": "10.3345/cep.2021.01326",
+    "publication_type": "review-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

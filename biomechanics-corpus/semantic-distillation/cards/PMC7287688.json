@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7287688",
+  "paper_id": "doi:10.3390/ma13102268",
+  "pmcid": "PMC7287688",
+  "source_record_sha256": "034648c089c22cb04b9cefa2c630ff2630728c7a78c5a371ad1876ae8de1dc5c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9d28baedff90a7f330a3970562cb8b22ee8d7459915cf8afebd869c2a7102fa6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioactive Tetracalcium Phosphate Scaffolds Fabricated by Selective Laser Sintering for Bone Regeneration Applications",
+    "authors": "Qin T, Li X, Long H, Bin S, Xu Y.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13102268",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

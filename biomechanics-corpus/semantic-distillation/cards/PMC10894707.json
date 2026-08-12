@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10894707",
+  "paper_id": "doi:10.2147/ijn.s439775",
+  "pmcid": "PMC10894707",
+  "source_record_sha256": "d7605cacb953c48390a3fea098e508f40b95a5e1468fc2afd8fb34769743383a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b30a21db0d82d406317195b99850401aafeac59b0980c3c381be509e8948d0bd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of Three-Dimension Printing Nano-Carbonated-Hydroxylapatite to the Repair of Defects in Rabbit Bone",
+    "authors": "Wang S, Shao C, Zhao X, Guo Y, Song H, Shen L, Zhou Z, Li Z.",
+    "year": 2024,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s439775",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

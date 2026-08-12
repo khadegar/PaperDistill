@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8542527",
+  "paper_id": "doi:10.1186/s40510-021-00375-3",
+  "pmcid": "PMC8542527",
+  "source_record_sha256": "00284e6c040b539792f6cfbaacbedeb1c861b2464d58351c5a9fc04b8e3b8c67",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6aeabbf5f6719a5b1991ea6cfd50d24c85e930a0d2621330ebfae9a555012f9f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical effects of Skeletally anchored Class III elastics on the maxillofacial complex: a 3D finite element analysis",
+    "authors": "Rai P, Garg D, Tripathi T, Kanase A, Ganesh G.",
+    "year": 2021,
+    "journal": "Progress in Orthodontics",
+    "doi": "10.1186/s40510-021-00375-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

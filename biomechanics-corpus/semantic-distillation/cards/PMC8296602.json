@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8296602",
+  "paper_id": "doi:10.1021/acsomega.1c02190",
+  "pmcid": "PMC8296602",
+  "source_record_sha256": "b8864329f34f2087ab001cca512679a9fc198a02ac26bda473bdb4f8afe931d6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b1553d895be90bb785d906699baf48c6fb49f650ffb10c2467954768bd5a62b4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Blending with Poly( l -lactic acid) Improves the Printability of Poly( l -lactide- co -caprolactone) and Enhances the Potential Application in Cartilage Tissue Engineering",
+    "authors": "Duan R, Wang Y, Zhang Y, Wang Z, Du F, Du B, Su D, Liu L, Li X, Zhang Q.",
+    "year": 2021,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.1c02190",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

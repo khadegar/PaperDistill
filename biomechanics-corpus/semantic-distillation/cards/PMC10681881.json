@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10681881",
+  "paper_id": "doi:10.1016/j.reth.2023.09.015",
+  "pmcid": "PMC10681881",
+  "source_record_sha256": "0fbecbacbc05973996c5191b73944849c7c216ad2895ce7badbb6716aa85bd04",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "57eb8875d52acf8ffe314ac14c66e6007b75d150aea25ffa145b7164538eac50",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed PLGA/MgO/PDA composite scaffold by low-temperature deposition manufacturing for bone tissue engineering applications",
+    "authors": "Tan L, Ye Z, Zhuang W, Mao B, Li H, Li X, Wu J, Sang H.",
+    "year": 2023,
+    "journal": "Regenerative Therapy",
+    "doi": "10.1016/j.reth.2023.09.015",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

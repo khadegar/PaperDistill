@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8837704",
+  "paper_id": "doi:10.1186/s40729-022-00404-8",
+  "pmcid": "PMC8837704",
+  "source_record_sha256": "739585bb91d12fbf40ea90c5e6903370ace6771a5f14c953c607a183829978ef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0c7debe24c997d7e15cae847dee09c3d51b91a31035f74c2f37eca6100749790",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical finite element analysis of short-implant-supported, 3-unit, fixed CAD/CAM prostheses in the posterior mandible",
+    "authors": "Zupancic Cepic L, Frank M, Reisinger A, Pahr D, Zechner W, Schedle A.",
+    "year": 2022,
+    "journal": "International Journal of Implant Dentistry",
+    "doi": "10.1186/s40729-022-00404-8",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

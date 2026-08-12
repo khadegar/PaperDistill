@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7809857",
+  "paper_id": "doi:10.1186/s13018-021-02210-1",
+  "pmcid": "PMC7809857",
+  "source_record_sha256": "533a3efb2ca37395a012ba31748d7ab5611d76fa728dc9567256664264465a4e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "48f7bbb564e268a66cf1f9ee15f43e715d7bfd4ddbc58bce805f877dd58e7022",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Genipin and insulin combined treatment improves implant osseointegration in type 2 diabetic rats",
+    "authors": "Zhang J, Wang YN, Jia T, Huang H, Zhang D, Xu X.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-021-02210-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12815456",
+  "paper_id": "doi:10.1590/0103-644020256728",
+  "pmcid": "PMC12815456",
+  "source_record_sha256": "878231421d62da2e107c4a8bac6229e6ea7208b1ff5ae11e402d8eeca315f071",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9aee31b52155653f4bffc42996ceffe53761201ebaea849d88c319c06dbcc88b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advances in Composite Bioactive Scaffolds for Alveolar Bone Repair: Implications for Oral Surgery",
+    "authors": "Marampa WR, Djustiana N, Febrida R.",
+    "year": 2026,
+    "journal": "Brazilian Dental Journal",
+    "doi": "10.1590/0103-644020256728",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

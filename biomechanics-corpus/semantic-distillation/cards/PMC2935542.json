@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC2935542",
+  "paper_id": "doi:10.1007/s10856-010-4108-3",
+  "pmcid": "PMC2935542",
+  "source_record_sha256": "9eef4e333bf49d48ee8009e8244a42a6f680fc81d1ad2076708dbd49dce7e0cb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "06de25a179c1e99c52223ee0e8d2e0921d74372159fd03d75bd62d005075a747",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vitro and in vivo studies on biocompatibility of carbon fibres",
+    "authors": "Rajzer I, Menaszek E, Bacakova L, Rom M, Blazewicz M.",
+    "year": 2010,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-010-4108-3",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

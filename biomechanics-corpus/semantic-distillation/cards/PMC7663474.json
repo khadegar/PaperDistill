@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7663474",
+  "paper_id": "doi:10.3390/ma13214789",
+  "pmcid": "PMC7663474",
+  "source_record_sha256": "26b9c0e2f31d9977069d94fbb5cacc6fdcc09a444263359c8b028a2ad7bde957",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5dea27832f2f07a88055560a0ebaaae1475b68a64a8c078cc61ee69e298409a5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Custom-Made Orthodontic Mini-Implant—Effect of Insertion Angle and Cortical Bone Thickness on Stress Distribution with a Complex In Vitro and In Vivo Biosafety Profile",
+    "authors": "Popa A, Dehelean C, Calniceanu H, Watz C, Brad S, Sinescu C, Marcu OA, Popa CS, Avram S, Nicolov M, Szuhanek CA.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13214789",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

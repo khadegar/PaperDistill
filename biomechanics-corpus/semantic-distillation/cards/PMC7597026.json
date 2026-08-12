@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7597026",
+  "paper_id": "doi:10.1186/s13018-020-02027-4",
+  "pmcid": "PMC7597026",
+  "source_record_sha256": "eb104f2cf660427b0b85a6f3999db3e9dfabf55184772a007fee3e3fc5fce486",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f755edcf53ed2a3213c2ada6545dc4d5d1a43bf8712c1616c974855c767d07a1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Metaphyseal anchoring short stem hip arthroplasty provides a more physiological load transfer: a comparative finite element analysis study",
+    "authors": "Yan SG, Yan SG, Chevalier Y, Liu F, Hua X, Schreiner A, Jansson V, Schmidutz F.",
+    "year": 2020,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-020-02027-4",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

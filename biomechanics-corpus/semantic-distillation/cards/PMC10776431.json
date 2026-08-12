@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10776431",
+  "paper_id": "doi:10.1016/j.bbiosy.2023.100086",
+  "pmcid": "PMC10776431",
+  "source_record_sha256": "97059be51ac781381ec7a2500f03b6f261260ca6930c68f594ad8d2fb68c0c93",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8f5018a1fbed8ec64e2ab9d00b6772615b34232dfa8786d9575d93450e3e971f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed bioabsorbable composite scaffolds of poly (lactic acid)-tricalcium phosphate-ceria with osteogenic property for bone regeneration",
+    "authors": "Harb SV, Kolanthai E, Pugazhendhi AS, Beatrice CAG, Pinto LA, Neal CJ, Backes EH, Nunes ACC, Selistre-de-Araújo HS, Costa LC, Coathup MJ, Seal S, Pessan LA.",
+    "year": 2023,
+    "journal": "Biomaterials and Biosystems",
+    "doi": "10.1016/j.bbiosy.2023.100086",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

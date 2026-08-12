@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12059222",
+  "paper_id": "doi:10.1016/j.jot.2025.03.019",
+  "pmcid": "PMC12059222",
+  "source_record_sha256": "d6f515bd22880b16745ffbe007786a295f71420d67b9f3517ab6416021c5cdfc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2bd26b074b2fb27d4cbf55dc42a32d2a6b2e44265f350f97508213ca1d168b1b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Promotion of bone-tendon healing after ACL reconstruction using scaffold-free constructs comprising ADSCs produced by a bio-3D printer in rabbit models",
+    "authors": "Higa K, Murata D, Azuma C, Nishida K, Nakayama K.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2025.03.019",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

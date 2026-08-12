@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12433943",
+  "paper_id": "doi:10.3389/fbioe.2025.1535756",
+  "pmcid": "PMC12433943",
+  "source_record_sha256": "79b133f7354a4f1baf09dc0c4cd11c325aaa8d898cd5177c3595d2876d045af3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "df44643723ff30b7510ead4ab15cc3e8f2d824720484d9df00acdb652dba70f0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In silico testing of a multimaterial scaffold for mandibular reconstruction",
+    "authors": "Rebolo P, Orassi V, Areias B, Checa S, Ramião N, Correia JF, Rendenbach C, Natal R, Parente M.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1535756",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

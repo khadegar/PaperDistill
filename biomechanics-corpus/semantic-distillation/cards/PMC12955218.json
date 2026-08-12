@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12955218",
+  "paper_id": "doi:10.1016/j.mtbio.2026.102897",
+  "pmcid": "PMC12955218",
+  "source_record_sha256": "9c7b13a1c06688b3ebae292f6d4b2f75cd8ef503b86255c90443f3d8ec2bb857",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "45fc04eee7a3da39704ac59974f1c41438a72e76a7a728b2b85db2dfa34d9d7c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hierarchical periosteum-bone composite scaffold with staged release of dexamethasone and endothelial cell derivatives for efficient critical-sized bone defect repair",
+    "authors": "Yu C, Wang Y, Xie L, He Q, Yu T, Wu T.",
+    "year": 2026,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2026.102897",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

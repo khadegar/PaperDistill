@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5696610",
+  "paper_id": "doi:10.5312/wjo.v8.i11.829",
+  "pmcid": "PMC5696610",
+  "source_record_sha256": "6f6438c8437d81a836781aad8f811fdaff5b7c64577e66562f59652520e80b51",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6c11c1d7ac93fcf249a9cd5163412b6e7d37b54a641cdd36c70d3ff1d039cb90",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical assessment of new surgical method instead of kyphoplasty to improve the mechanical behavior of the vertebra: Micro finite element study",
+    "authors": "Faradonbeh SAH, Jamshidi N.",
+    "year": 2017,
+    "journal": "World Journal of Orthopedics",
+    "doi": "10.5312/wjo.v8.i11.829",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

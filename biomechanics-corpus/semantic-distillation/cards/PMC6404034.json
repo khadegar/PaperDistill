@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6404034",
+  "paper_id": "doi:10.3390/polym10070807",
+  "pmcid": "PMC6404034",
+  "source_record_sha256": "13e13ef23f6f000845d78fd21ae193be8cf03bcdc853d28eb0a04750051c0882",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9de6b9d37370405a4090d6b8414fd09756d6c1717c493d8157a46f14e0d212f8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printing of Microfibrous Porous Scaffolds Based on Hybrid Approaches for Bone Tissue Engineering",
+    "authors": "Kankala RK, Xu XM, Liu CG, Chen AZ, Wang SB.",
+    "year": 2018,
+    "journal": "Polymers",
+    "doi": "10.3390/polym10070807",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10278159",
+  "paper_id": "doi:10.7759/cureus.40616",
+  "pmcid": "PMC10278159",
+  "source_record_sha256": "6de70530503714f931b84ae9dc837584a7d4dca7789139d5d10bcd74e27de263",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b1073368672fbf208b2c3e120ef593f4c526efd2dc48ea0bda2576d598a72905",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Restoring Anatomical Features in Primary Total Knee Arthroplasty",
+    "authors": "Cretu B, Costache M, Cursaru A, Serban B, Spiridonica R, Popa M, Cirstoiu C, Iordache S.",
+    "year": 2023,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.40616",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

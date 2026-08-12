@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11665476",
+  "paper_id": "doi:10.1016/j.bioactmat.2024.12.007",
+  "pmcid": "PMC11665476",
+  "source_record_sha256": "682b500c55782c3985087ed3c205e4943aad3f2fbbdf5db00f34e8af8e0f7d0f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bfa34d5c8ab82eff57a5565bc37d397bed2fc18f84222845c098465c64a2ecaa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An electrostatic encapsulation strategy to motivate 3D-printed polyelectrolyte scaffolds for repair of osteoporotic bone defects",
+    "authors": "Gao X, Yang J, Liu L, Hu Z, Lin R, Tang L, Yu M, Chen Z, Gao C, Zhang M, Li L, Ruan C, Liu Y.",
+    "year": 2025,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2024.12.007",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

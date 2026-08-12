@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12022219",
+  "paper_id": "doi:10.1093/rb/rbaf011",
+  "pmcid": "PMC12022219",
+  "source_record_sha256": "bbda5875b207d6465ad558e6c8011ecb0d64920f1ca1cbcfe25c29d146aec632",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "699ed20db69345c2134be95afe05bd5aea14e821f2f356a81a559e347bbe598a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Degradation behavior of porous magnesium alloy scaffold under the low-intensity pulsed ultrasound intervention and their effect on bone defects repair",
+    "authors": "Ma D, Zheng M, Wang J, Zhang Y, Zhao Q, Sun Z, Huang J, Li W, Zhu S, Wang L, Wu X, Guan S.",
+    "year": 2025,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbaf011",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

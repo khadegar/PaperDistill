@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9003362",
+  "paper_id": "doi:10.3390/polym14071285",
+  "pmcid": "PMC9003362",
+  "source_record_sha256": "32b00ec501873d9d7e90f55f5a9c483ae87c3385932660b7ca23d4e83dc6cb96",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1085bbec008943195a297bf07061f073b8a54a353bd919b6f4fa27c3dbcdf2ee",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Different CAD/CAM Milling and 3D Printing Digital Fabrication Techniques on the Accuracy of PMMA Working Models and Vertical Marginal Fit of PMMA Provisional Dental Prosthesis: An In Vitro Study",
+    "authors": "Sidhom M, Zaghloul H, Mosleh IE, Eldwakhly E.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14071285",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

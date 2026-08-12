@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11353137",
+  "paper_id": "doi:10.3390/biom14080907",
+  "pmcid": "PMC11353137",
+  "source_record_sha256": "89d0bf1f185bea8b1c7f5f31ad869dc4b003eb5debf4002986412a14b284a609",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e0659f7799c78fa480699bb1e8130caab31414a5eacbde43d28ed9676a42de08",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Decellularized Antler Cancellous Bone Matrix Material Can Serve as Potential Bone Tissue Scaffold",
+    "authors": "Wang Y, Zong Y, Chen W, Diao N, Zhao Q, Li C, Jia B, Zhang M, Li J, Zhao Y, Du R, He Z.",
+    "year": 2024,
+    "journal": "Biomolecules",
+    "doi": "10.3390/biom14080907",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,229 @@
+{
+  "study": {
+    "article_kind": "laboratory_material_scaffold_and_in_vitro_cell_study",
+    "design_features": [
+      "emulsion_templating",
+      "microstereolithography",
+      "hierarchical_porosity",
+      "twenty_composition_material_screen",
+      "tensile_mechanics",
+      "air_and_acrylic_acid_plasma",
+      "hES_derived_mesenchymal_progenitors",
+      "ALP_early_osteogenic_marker",
+      "no_animal_study"
+    ],
+    "research_problem": "Bulk PolyHIPEs provide interconnected microporosity but limit plasma and cell penetration with thickness, whereas additive manufacturing can create macropores yet needs a material with tunable mechanics and cell-compatible surfaces.",
+    "exact_gap": "The study asks whether emulsion-templated EHA/IBOA PolyHIPE mechanics can be independently tuned from a microstereolithographic woodpile macroarchitecture and whether selected hierarchical scaffolds support mesenchymal progenitor growth and early osteogenic differentiation (S002:C01-S002:C05).",
+    "objective_or_hypothesis": "Map composition/nominal-porosity effects on tensile properties, fabricate three compositionally distinct four-layer woodpile scaffolds, modify their hydrophobic surfaces, and test cell attachment, proliferation, penetration, and ALP response (S001:C01; S002:C04-S002:C05).",
+    "study_design": "A 5 x 4 material screen spanning EHA/IBOA ratio and nominal internal-phase fraction, tensile testing and SEM degree-of-openness analysis, followed by fabrication of three P80 woodpile scaffold materials, two plasma treatments, two media conditions, and in-vitro cell assays/imaging (S004:C01-S015:C01).",
+    "sample_or_model": "Twenty PolyHIPE sheet compositions; three four-layer woodpile scaffold compositions with approximately 350 micrometer fibers and 650 micrometer spacing; hES-derived mesenchymal progenitor cells over 1-15 days (S004:C01-S020:C01).",
+    "comparators": [
+      "Five EHA/IBOA ratios across four nominal porosities",
+      "Dry versus one-hour PBS-soaked tensile material for selected compositions",
+      "Untreated versus air-plasma versus acrylic-acid-deposited surfaces",
+      "Three scaffold compositions at nominal P80",
+      "Osteogenic induction medium with dexamethasone versus supplemented medium without it",
+      "No nonporous-strut woodpile or established bone-scaffold comparator"
+    ],
+    "method_spine": [
+      "Define a composition x nominal-porosity material design space.",
+      "Measure tensile modulus, UTS, failure strain, and SEM-derived openness.",
+      "Select three materials and tune process conditions to fabricate comparable macro-woodpiles.",
+      "Apply and compare surface treatments required for cell attachment.",
+      "Measure metabolic activity, DNA-normalized ALP, and cell distribution/penetration.",
+      "Interpret mechanics at the tested material/specimen scale and biology at the in-vitro early-marker scale."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Ten tensile specimens per composition, repeated batches/stress-strain concordance, dry/wet checks, and SEM confirm reproducible material trends and hierarchical morphology (S015:C01-S019:C01).",
+        "Degree of openness is estimated from ten voids in one SEM image per composition, which is a limited 2D sampling method rather than full 3D porosity verification (S007:C01-S007:C02; S015:C01)."
+      ],
+      "calibration": [
+        "Write speed and HIPE volume were tuned separately for each selected composition to achieve similar scaffold macrostructure; this is process calibration and must be disclosed when attributing biological differences to material composition (S008:C02)."
+      ],
+      "validation": [
+        "Cell metabolic activity, confocal/two-photon imaging, and ALP show in-vitro compatibility and early differentiation signals; they do not validate load-bearing bone regeneration or vascularization (S020:C01-S022:C01).",
+        "The scaffold itself was not mechanically tested in compression/fatigue and no animal defect model was used."
+      ],
+      "sensitivity": [
+        "Composition and nominal porosity are varied systematically for tensile behavior; surface treatment and osteogenic media are varied for cell outcomes (S004:C01-S022:C01).",
+        "Scaffold macrogeometry, degradation, pore-size distribution, plasma penetration, seeding method, dynamic culture, and compressive loading were not varied."
+      ],
+      "application_prediction": [
+        "Filling a large bone defect, supporting load, enabling vascularization, and serving as a synthetic graft are proposed applications that remain untested (S002:C04; S023:C01; S024:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "Across twenty sheet compositions, tensile modulus ranged about 0.36-63.01 MPa, UTS 0.11-2.03 MPa, and failure strain 2.60-21.86%; monomer ratio influenced mechanics more strongly than nominal porosity (S001:C01; S017:C01-S017:C02; S023:C01-S023:C03).",
+      "Higher nominal porosity increased SEM-derived openness, while composition produced limited openness differences at a given porosity; this supports partial decoupling of chemistry/mechanics from pore openness (S018:C01).",
+      "Three P80 materials were fabricated as four-layer woodpiles with macrospaces around 300-650 micrometers and microporous fibers; process settings were composition-specific (S008:C01-S008:C02; S019:C01; S023:C03-S023:C05).",
+      "Untreated hydrophobic scaffolds did not support attachment/growth; both plasma treatments improved metabolic activity, with EHA-containing scaffolds generally supporting more activity than the stiffest EHA0 scaffold (S020:C01; S023:C05-S023:C07).",
+      "DNA-normalized ALP rose in dexamethasone-containing medium, and only the stiffest EHA0 plus acrylic-acid surface was higher than all other groups at day 15; neither stiffness nor coating alone produced the same effect (S022:C01; S023:C08-S023:C10).",
+      "Two-photon imaging showed cells/nuclei/processes within microporous fibers, but imaging was performed on selected high-proliferation scaffolds and no nonporous-fiber control was tested (S014:C01-S014:C02; S021:C01)."
+    ],
+    "highest_evidence_level_reached": "Material-level tensile design map plus short-term in-vitro scaffold cell/ALP evidence; no scaffold-level load-bearing, degradation, vascularization, animal, or clinical validation."
+  },
+  "argument_map": {
+    "central_claim": "EHA/IBOA ratio and nominal porosity provide a tunable PolyHIPE material space that can be fabricated into hierarchical woodpiles and, after plasma treatment, support in-vitro cell growth and an interaction-dependent early ALP signal; this establishes a platform, not a bone-regenerating or load-bearing scaffold.",
+    "data": [
+      "Twenty-composition tensile/openness screen with replicate mechanical tests (S004:C01-S007:C02; S017:C01-S018:C01).",
+      "Three selected woodpile materials, surface treatments, metabolic/DNA/ALP assays, and confocal/two-photon imaging (S008:C01-S014:C02; S019:C01-S022:C01)."
+    ],
+    "warrant": "A broad material design map plus controlled architecture and early cell evidence justifies further scaffold development, but application claims require structural-scale mechanics, transport/degradation, and in-vivo tissue evidence.",
+    "backing": [
+      "The discussion explicitly distinguishes micro- and macropore roles and recognizes that the ALP effect depends on surface chemistry plus stiffness rather than stiffness alone (S023:C04-S023:C10)."
+    ],
+    "qualifier": "Short-term in-vitro platform evidence for selected compositions and processing conditions.",
+    "rebuttals_or_boundaries": [
+      "Sheet tensile properties describe the polymer/strut material, not the compression, bending, shear, fatigue, or permeability of the woodpile scaffold (S023:C01).",
+      "Nominal internal-phase fraction and 2D degree of openness are not complete as-built 3D porosity/pore-throat characterization.",
+      "Process parameters were adjusted by composition, so material and manufacturing histories are not perfectly isolated (S008:C02).",
+      "Cell imaging selected high-proliferation samples and lacks nonporous-fiber controls; causal benefit of microporous struts is inferred (S014:C01; S023:C07-S023:C08).",
+      "ALP is an early marker under dexamethasone, not mineralized tissue or osteoinduction; the no-dexamethasone condition did not show a general scaffold-induced effect (S022:C01).",
+      "No degradation, leachables, mechanical conditioning, vascularization, animal bone formation, or clinical use was tested."
+    ],
+    "argument_coherence": "high_for_material_platform_moderate_for_mechanobiology_and_bone_application"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Material tensile properties, limited SEM openness, macrogeometry, metabolic activity, dsDNA, ALP, and selected cell distribution/penetration (S006:C01-S022:C01)."
+    ],
+    "predicted": [
+      "Surface plots interpolate the composition/nominal-porosity design space; they are descriptive predictions within the measured range, not validated scaffold performance models (S017:C01; S023:C01)."
+    ],
+    "inferred": [
+      "Microporous fibers are inferred to improve diffusion, continuous tissue formation, and osteogenic behavior without a nonporous-fiber comparator (S023:C07-S023:C08).",
+      "The EHA0-pdAAc ALP interaction is attributed to ligand availability enabling stiffness sensing, a plausible but untested mechanism (S023:C09-S023:C10).",
+      "Macrovoid sizes are inferred to permit vascularization based on literature thresholds, not measured vessel growth (S002:C04; S023:C05)."
+    ],
+    "recommended": [
+      "Measure as-built 3D porosity/throats, scaffold-scale compression/fatigue/permeability, degradation/leachables, surface-treatment depth/aging, mechanistic factorial interactions, mineralization/matrix, vascularized animal bone repair, and manufacturing reproducibility."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Polymer-sheet tensile modulus is not scaffold effective modulus or load-bearing capacity.",
+      "ALP per DNA under osteogenic induction is an early differentiation signal, not osteoinduction, mineralization, or bone formation.",
+      "Resazurin is metabolic activity, not direct cell number/viability alone.",
+      "Cell presence inside a fiber shows penetration, not vascularized tissue integration.",
+      "Literature pore-size thresholds do not validate vascularization in this construct."
+    ],
+    "overclaim_risks": [
+      "The abstract says the stiffest acrylic-acid-treated scaffold promoted osteogenesis more strongly, although the direct endpoint is day-15 ALP in induction medium (S001:C01; S022:C01).",
+      "Statements about load-bearing defects or large-defect filling exceed scaffold-scale mechanical and in-vivo evidence (S023:C01; S024:C01).",
+      "The automatic animal cue is false; all biological evidence is in vitro."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Separate material variables from architecture variables",
+      "execution": "Monomer ratio and internal-phase fraction tune the PolyHIPE material/microporosity, while microstereolithography defines the woodpile macroarchitecture (S002:C01-S004:C01; S008:C01-S008:C02).",
+      "locator": "S008:C02",
+      "effectiveness": "high",
+      "transferable_principle": "Report chemistry, microstructure, macroarchitecture, surface treatment, and process tuning as separate design axes before claiming independent control.",
+      "failure_mode": "Composition-specific process adjustment can re-couple supposedly independent axes."
+    },
+    {
+      "section": "results",
+      "move": "Build a property map before selecting scaffold candidates",
+      "execution": "The authors screen twenty compositions and show modulus, strength, ductility, openness, and wet-state behavior before selecting three P80 materials (S017:C01-S018:C01).",
+      "locator": "S017:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For multi-variable scaffold materials, publish the full design-space map and selection tradeoff rather than only the chosen formulation.",
+      "failure_mode": "Material-level maps must not be relabeled as structural scaffold performance."
+    },
+    {
+      "section": "results",
+      "move": "Report interaction-dependent biological effects",
+      "execution": "Only the stiffest material combined with acrylic-acid plasma increased ALP above all other conditions; neither factor alone produced a general effect (S022:C01; S023:C08-S023:C10).",
+      "locator": "S022:C01",
+      "effectiveness": "high",
+      "transferable_principle": "When mechanics, chemistry, and medium interact, write the exact combination and control contrasts; do not assign the outcome to one factor without an interaction test.",
+      "failure_mode": "An ALP interaction under dexamethasone is not proof of stiffness-driven osteogenesis."
+    },
+    {
+      "section": "discussion",
+      "move": "Distinguish demonstrated hierarchical morphology from proposed functional roles",
+      "execution": "The discussion connects micro- and macro-pores to cell attachment, diffusion, bone deposition, and vascularization while acknowledging literature-based rather than direct evidence (S023:C04-S023:C08).",
+      "locator": "S023:C05",
+      "effectiveness": "moderate",
+      "transferable_principle": "For each pore scale, state measured geometry, directly measured function, literature-supported hypothesis, and missing discriminating experiment.",
+      "failure_mode": "Pore dimensions alone do not prove transport, vessels, or tissue formation."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Single-photon resolution limits fiber spacing; two-photon would improve resolution at a throughput cost, and alternative absorbers are proposed (S023:C03).",
+      "Mechanisms behind the stiffness-surface ALP interaction remain uncertain and literature on acrylic acid is conflicting (S023:C09-S023:C10)."
+    ],
+    "reader_identified": [
+      "No scaffold-level compression, fatigue, permeability, degradation, or shape-retention testing.",
+      "Nominal porosity and sparse 2D SEM openness do not establish full as-built 3D architecture.",
+      "Composition-specific manufacturing tuning and surface treatments introduce coupled variables.",
+      "Cell assays have limited independent replication (two biological runs for ALP/PicoGreen), outlier removal, and multiple comparisons.",
+      "Selected imaging of high-proliferation samples and absence of nonporous-strut controls weaken causal pore claims.",
+      "No late osteogenic markers, mineralized matrix, primary adult MSC comparison, degradation toxicity, animal bone defect, or vascularization.",
+      "No animal or clinical evidence despite automatic metadata cues."
+    ],
+    "likely_bias_direction": [
+      "Selection of favorable imaging fields/scaffolds may overstate uniform penetration.",
+      "Early ALP and literature pore thresholds likely inflate bone-regeneration/vascularization claims.",
+      "Material tensile data may be misread as device-level load-bearing performance."
+    ],
+    "scope_boundary": "The work establishes tunable PolyHIPE material mechanics, hierarchical scaffold fabrication, and short-term in-vitro cell/ALP signals; it does not establish structural load bearing, transport, degradation, vascularization, bone regeneration, or clinical utility."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC4717122-01",
+      "capability": "Separate scaffold chemistry, strut material properties, microstructure, macroarchitecture, surface state, and manufacturing calibration before relating design to function.",
+      "manuscript_use": "Methods design table, Results property map, and causal Discussion.",
+      "applicable_domains": ["porous_scaffold", "additive_manufacturing", "bone_regeneration_biomaterial"],
+      "applicable_study_designs": ["materials_screen", "fabrication_study", "in_vitro"],
+      "supporting_locators": ["S004:C01", "S006:C01", "S007:C01", "S008:C01", "S008:C02", "S009:C01"],
+      "counterexample_or_boundary": "Polymer-sheet tensile properties and nominal porosity are not the effective properties of the final scaffold.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC4717122-02",
+      "capability": "Write multiscale pore-function claims as measured geometry, direct functional evidence, literature hypothesis, and missing validation for each scale.",
+      "manuscript_use": "Porous-scaffold Results and Discussion.",
+      "applicable_domains": ["porous_scaffold", "bone_regeneration_biomaterial", "mechanobiology"],
+      "applicable_study_designs": ["fabrication_study", "in_vitro"],
+      "supporting_locators": ["S018:C01", "S019:C01", "S021:C01", "S023:C04", "S023:C05", "S023:C07", "S023:C08"],
+      "counterexample_or_boundary": "Pore size and cell penetration do not demonstrate vascularization or continuous bone tissue formation.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC4717122-03",
+      "capability": "Report mechanics-chemistry-medium interactions without attributing a biological effect to one design variable.",
+      "manuscript_use": "Factorial Results, mechanobiology Discussion, and conclusion audit.",
+      "applicable_domains": ["mechanobiology", "porous_scaffold", "bone_regeneration_biomaterial"],
+      "applicable_study_designs": ["in_vitro", "factorial_experiment"],
+      "supporting_locators": ["S020:C01", "S022:C01", "S023:C08", "S023:C09", "S023:C10"],
+      "counterexample_or_boundary": "A day-15 ALP increase under induction medium supports an interaction signal, not stiffness-driven osteogenesis or in-vivo bone formation.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_platform_screening",
+    "methods_transparency": "high",
+    "validation_credibility": "moderate_for_material_and_in_vitro_platform_low_for_bone_application",
+    "outcome_uncertainty_reporting": "moderate",
+    "comparator_fairness": "moderate",
+    "conclusion_proportionality": "moderate",
+    "critical_weaknesses": [
+      "Material-sheet mechanics substitute for final scaffold mechanics.",
+      "Sparse as-built morphology and no nonporous-strut or established scaffold comparator.",
+      "Early in-vitro markers and no degradation/animal validation."
+    ],
+    "overall_credibility": "high_for_tunable_material_map_moderate_for_cell_platform_low_for_bone_regeneration_or_load_bearing"
+  },
+  "summary_zh": "这篇研究先用 5 种 EHA/IBOA 比例×4 个名义孔隙率建立 20 种 PolyHIPE 材料的拉伸模量、强度、延性和开放度图谱，再选择 3 种 P80 材料打印四层木堆支架并做表面等离子体处理与体外细胞实验。最重要的边界是尺度：薄片拉伸性质描述的是聚合物/支杆材料，不是最终支架的压缩、疲劳或承载性能；名义孔隙率和少量二维 SEM 也不是完整 as-built 三维孔网络。只有‘最硬材料+丙烯酸表面’在含地塞米松培养基中提高 day-15 ALP，说明是力学—化学—培养条件交互信号，不能归因于刚度或写成骨形成。Skill 将据此把化学、支杆材料、微孔、宏观结构、表面状态和工艺校准分栏，并要求每个孔尺度分别写 measured geometry、direct function、literature hypothesis 与 missing validation。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section, including the 20-composition screen, fabrication process, all cell assays, imaging selection, and ten-part Discussion.",
+    "The automatic animal cue is incorrect; the biological work is entirely in vitro.",
+    "The paper is a strong multi-axis material-selection exemplar and a useful scale-mismatch counterexample."
+  ]
+}

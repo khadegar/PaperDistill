@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12062838",
+  "paper_id": "doi:10.3389/fbioe.2025.1580490",
+  "pmcid": "PMC12062838",
+  "source_record_sha256": "beb455e756e386d9f10186d9d3a2c9bb601b05f20bb43cd90f0aab9f4d50da1e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4e0d0f146489dc5a2d5ae4231de858e93406b3d02388476d3d606c5a1ca4356b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tendon regeneration deserves better: focused review on In vivo models, artificial intelligence and 3D bioprinting approaches",
+    "authors": "Aykora D, Taşçı B, Şahin MZ, Tekeoğlu I, Uzun M, Sarafian V, Docheva D.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1580490",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

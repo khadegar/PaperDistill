@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12889325",
+  "paper_id": "doi:10.1097/ms9.0000000000004533",
+  "pmcid": "PMC12889325",
+  "source_record_sha256": "9ec0a50bc48fe5e2d43eae1353046c8f7cc0871798515a6f85c182c635d0d3a5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "008e51585842f2c5fc44dcf344d6d3fe2835fb588d76aa193c0b95a2d33c9b5a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Polyetheretherketone (PEEK) in maxillofacial reconstruction surgery: a narrative review",
+    "authors": "Albash Z, Khalil A, Alsayed Hachem H, Kashkash W.",
+    "year": 2026,
+    "journal": "Annals of Medicine and Surgery",
+    "doi": "10.1097/ms9.0000000000004533",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

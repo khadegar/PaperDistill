@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12054462",
+  "paper_id": "doi:10.20471/acc.2023.62.s3.14",
+  "pmcid": "PMC12054462",
+  "source_record_sha256": "9338c55868a59f865ff06a7364859c70051cb0b09a2ad69a37902127378ae63a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "69f14b32ee81125631806a24250b7d89b89ff005ca543a7e7a03370e99a42fbc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "BONE MARROW LESIONS: TWO PILLARS CONCEPT",
+    "authors": "Ivković A, Vuletić F, Petrović T, Bukvić F, Janković S.",
+    "year": 2023,
+    "journal": "Acta Clinica Croatica",
+    "doi": "10.20471/acc.2023.62.s3.14",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

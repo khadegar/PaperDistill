@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10150432",
+  "paper_id": "doi:10.1177/23259671221146013",
+  "pmcid": "PMC10150432",
+  "source_record_sha256": "bd998c7f2f3645b2abb213d09de9a5f5aca136fe661f0c364e050254f4a61efd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "862f4ca2a78a6606f17a007c9fbf8fcc607470568e7b860be1c0682154ecf365",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Augmenting ACL Repair With Suture Tape Improves Knee Laxity: A Biomechanical Study",
+    "authors": "He J, Kanto R, Fayed AM, Price TM, DiNenna MA, Linde MA, Smolinski P, van Eck CF.",
+    "year": 2023,
+    "journal": "Orthopaedic Journal of Sports Medicine",
+    "doi": "10.1177/23259671221146013",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10160595",
+  "paper_id": "doi:10.1016/j.wnsx.2023.100199",
+  "pmcid": "PMC10160595",
+  "source_record_sha256": "4a313221db5c395375800244d0a2475df5a2165f0b2983162cde8d3d5b6601c1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "997d7efae0c47ad06f1fbde379fbfeb752468f851bd3fca14a709d21b7a3eb5d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of short and long posterior spinal instrumentation and fixation for different pathological thoracolumbar vertebral fractures",
+    "authors": "Nishida N, Jiang F, Kitazumi R, Yamamura Y, Asano T, Tome R, Kumaran Y, Suzuki H, Funaba M, Ohgi J, Chen X, Sakai T.",
+    "year": 2023,
+    "journal": "World Neurosurgery: X",
+    "doi": "10.1016/j.wnsx.2023.100199",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

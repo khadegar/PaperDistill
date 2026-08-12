@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8305105",
+  "paper_id": "doi:10.3390/mi12070764",
+  "pmcid": "PMC8305105",
+  "source_record_sha256": "4e2181e5bb9dae4db2b1c5a54384bfe9a0f0db60c325a7d7a1e8944d177c7d75",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "12b35430a4704ff5778893e452538ae940b7758dfb994eeecb8cb785521b1e3a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cancer Cell Direct Bioprinting: A Focused Review",
+    "authors": "Lobo DA, Ginestra P, Ceretti E, Miquel TP, Ciurana J.",
+    "year": 2021,
+    "journal": "Micromachines",
+    "doi": "10.3390/mi12070764",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

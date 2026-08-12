@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10958222",
+  "paper_id": "doi:10.1016/j.bioactmat.2024.03.016",
+  "pmcid": "PMC10958222",
+  "source_record_sha256": "1f9a81271cf56bef43f1004394a92316617dae7697bb9e5e9beff78ce6a9b519",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a6a0c33767c8b3eae87f6e4c895cba64770980dff293d88f04e57fa475ebd1bb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of MgO nanoparticle addition on the mechanical properties, degradation properties, antibacterial properties and in vitro and in vivo biological properties of 3D-printed Zn scaffolds",
+    "authors": "Yu L, Sun F, Wang Y, Li W, Zheng Y, Shen G, Wang Y, Chen M.",
+    "year": 2024,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2024.03.016",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13101265",
+  "paper_id": "doi:10.1186/s12903-026-08094-z",
+  "pmcid": "PMC13101265",
+  "source_record_sha256": "d14a4e08f3bf4156e5fe389a678e639950a9157254f782e794988c3bf4fa8285",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a862817df639f80a728d5f1a70e775e8acd9954153807080faae4723e2232ee8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of build orientation on the marginal and internal fit of 3-D printed provisional fixed dental prosthesis: a systematic review and meta-analysis",
+    "authors": "Altoman MS.",
+    "year": 2026,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-026-08094-z",
+    "publication_type": "Meta-Analysis; Systematic Review; review-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

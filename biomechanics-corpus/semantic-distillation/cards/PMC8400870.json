@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8400870",
+  "paper_id": "doi:10.3390/polym13162661",
+  "pmcid": "PMC8400870",
+  "source_record_sha256": "01001c9c74a049a0508286bc2593697b5f1d55e397a4e65a31aeb15fbb45d5c7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fe86728b7e4e4c51c65c709823a4cc78749fdc716f815a04fee28db773d8b31d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimization of a Patient-Specific External Fixation Device for Lower Limb Injuries",
+    "authors": "Alqahtani MS, Alqahtani MS, Al-Tamimi AA, Hassan MH, Liu F, Bartolo P.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13162661",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

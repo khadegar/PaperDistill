@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7401495",
+  "paper_id": "doi:10.3892/etm.2020.8898",
+  "pmcid": "PMC7401495",
+  "source_record_sha256": "df11ac6d40a827a82f9553594e2c8d795108c2d3e42c8d1144bc7e75231673c2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "74a954091b4759fc67fa344086f7cde8102307d34d849561bebf4fad7dd70170",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical analysis of four augmented fixations of plate osteosynthesis for comminuted mid-shaft clavicle fracture: A finite element approach",
+    "authors": "Ni M, Zhang F, Mei J, James Lin CY, M S Gruber S, Niu W, Wai-Chi Wong D, Zhang M.",
+    "year": 2020,
+    "journal": "Experimental and Therapeutic Medicine",
+    "doi": "10.3892/etm.2020.8898",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

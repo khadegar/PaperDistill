@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11353149",
+  "paper_id": "doi:10.22038/abjs.2024.77543.3582",
+  "pmcid": "PMC11353149",
+  "source_record_sha256": "bcc8dd149218dce84240c173b04a004e2615be15c5fc5bbec50637f06823b2ff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "54c913bb7c500898e2071fa7606fa9e6848b0cb8ebe36d6189fe63385e1350dc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Use of the Robotic Arm-Assisted System (MAKO) for Hip Revision Surgery",
+    "authors": "Dretakis K, Raptis K, Koutserimpas C.",
+    "year": 2024,
+    "journal": "Archives of Bone and Joint Surgery",
+    "doi": "10.22038/abjs.2024.77543.3582",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

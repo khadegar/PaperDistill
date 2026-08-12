@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11643975",
+  "paper_id": "doi:10.3390/nano14231876",
+  "pmcid": "PMC11643975",
+  "source_record_sha256": "60ab2be2ac751d4e51d7a979d2de94da7837916abdd7b817c831a7ab2cfb50a1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "264a1942afd24c15afffb85c78de9b91b8f490aa8f23001b01f1e761502e01d9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biocompatibility Analysis of the Silver-Coated Microporous Titanium Implants Manufactured with 3D-Printing Technology",
+    "authors": "Shevtsov M, Pitkin E, Combs SE, Yudintceva N, Nazarov D, Nazarov D, Meulen GV, Preucil C, Akkaoui M, Pitkin M.",
+    "year": 2024,
+    "journal": "Nanomaterials",
+    "doi": "10.3390/nano14231876",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

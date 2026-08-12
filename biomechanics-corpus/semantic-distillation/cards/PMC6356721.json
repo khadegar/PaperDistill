@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6356721",
+  "paper_id": "doi:10.3390/ma12020203",
+  "pmcid": "PMC6356721",
+  "source_record_sha256": "ff8c5b76089fcaf75308d3afa3769a63b692d5d74d760e7f0db43d2309696a19",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3036dcc75465760f741f559310cd0e9fdbf03d25fff1dd28965ac290e03ae5e8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Improved Bioactivity of 3D Printed Porous Titanium Alloy Scaffold with Chitosan/Magnesium-Calcium Silicate Composite for Orthopaedic Applications",
+    "authors": "Tsai CH, Hung CH, Kuo CN, Chen CY, Peng YN, Shie MY.",
+    "year": 2019,
+    "journal": "Materials",
+    "doi": "10.3390/ma12020203",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

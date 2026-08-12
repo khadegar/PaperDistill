@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7764049",
+  "paper_id": "doi:10.3390/mi11121098",
+  "pmcid": "PMC7764049",
+  "source_record_sha256": "16066c9285cb7afd5d3e8f242eb01ee44188108e87e91f3a16da395471964bd0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3ae3388dd86ff82bbfb6cf6ffa086b791323455167aeb51872d4b0d328e90307",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Effect of Diclofenac Sodium-Loaded Poly(Lactide-co-Glycolide) Rods on Bone Formation and Inflammation: A Histological and Histomorphometric Study in the Femora of Rats",
+    "authors": "Reich KM, Viitanen P, Apu EH, Tangl S, Ashammakhi N.",
+    "year": 2020,
+    "journal": "Micromachines",
+    "doi": "10.3390/mi11121098",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

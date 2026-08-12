@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11727752",
+  "paper_id": "doi:10.3390/jfb15120355",
+  "pmcid": "PMC11727752",
+  "source_record_sha256": "2a70effd3694b4bdeef725d6a86b66e9a0dd5fcb7dfcd7057736a7c2fffc6326",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b958b76059f66689024d6edec1ed3e188f9c99263f3578fd21f2eae1d9c95761",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of Particle Size and Sintering Temperature on Calcium Phosphate Gyroid Structure Scaffolds for Bone Tissue Engineering",
+    "authors": "Aspera-Werz RH, Chen G, Schilonka L, Bouakaz I, Bronne C, Cobraiville E, Nolens G, Nussler A.",
+    "year": 2024,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb15120355",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

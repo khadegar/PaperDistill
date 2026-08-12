@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6421042",
+  "paper_id": "doi:10.1155/2019/3971571",
+  "pmcid": "PMC6421042",
+  "source_record_sha256": "4ebd455eec6ec0a05d5eed1e0db6409e6d8f5c62e0f6be5c5b6b92902a754140",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a0f82910295c85256e98f6b4f4d516f9dbf0d1255310e31c74a0c540d58d4ae8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surgical Treatment for Posterior Dislocation of Hip Combined with Acetabular Fractures Using Preoperative Virtual Simulation and Three-Dimensional Printing Model-Assisted Precontoured Plate Fixation Techniques",
+    "authors": "Li YT, Hung CC, Chou YC, Chen JE, Wu CC, Shen HC, Yeh TT.",
+    "year": 2019,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2019/3971571",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

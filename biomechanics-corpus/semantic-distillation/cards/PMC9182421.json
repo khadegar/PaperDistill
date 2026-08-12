@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9182421",
+  "paper_id": "doi:10.3390/molecules27113403",
+  "pmcid": "PMC9182421",
+  "source_record_sha256": "dcdd06003f6aff1f3f6d9ddafc8c9062d0930b6225948fdb412ab41b1ddabaab",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cc78c3e571fdfe699f5f8977882c9dd67d94ba731263008b54219be16eb581b8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Notoginsenoside R1 Promotes Migration, Adhesin, Spreading, and Osteogenic Differentiation of Human Adipose Tissue-Derived Mesenchymal Stromal Cells",
+    "authors": "Wang H, Yan Y, Lan H, Wei N, Zheng Z, Wu L, Jaspers RT, Wu G, Pathak JL.",
+    "year": 2022,
+    "journal": "Molecules",
+    "doi": "10.3390/molecules27113403",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

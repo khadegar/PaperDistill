@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13091842",
+  "paper_id": "doi:10.1007/s10439-025-03949-y",
+  "pmcid": "PMC13091842",
+  "source_record_sha256": "6d1e364c0efa72b020d1c3186719fbd12fc63e787cf9f8fa56894ce5b26b9690",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6d74838775e02112b7d81dcc300489a0b08624d8ad0f983945e43cb10240e73c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical Performance of Thoracic Aortic Stent-Grafts: An In Vitro and In Silico Study",
+    "authors": "Ramella A, Barati S, De Campo G, Luraghi G, Rodriguez Matas JF, Heim F, Chakfé N, Mandigers TJ, Fulgheri I, Domanin M, Trimarchi S, Migliavacca F.",
+    "year": 2025,
+    "journal": "Annals of Biomedical Engineering",
+    "doi": "10.1007/s10439-025-03949-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10594795",
+  "paper_id": "doi:10.1186/s12891-023-06946-1",
+  "pmcid": "PMC10594795",
+  "source_record_sha256": "3d008a8cea4a89f0161e4f9b79129fa0bd7e12617093e9863b0188040c80bb17",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "968e0798832363ce8002560802534200ad0eaa1488e8e1a43f9b4993dff69e44",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Candy box technique for the fixation of inferior pole patellar fractures: finite element analysis and biomechanical experiments",
+    "authors": "Fan W, Liu J, Tan X, Wei D, Yang Y, Xiang F.",
+    "year": 2023,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-023-06946-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

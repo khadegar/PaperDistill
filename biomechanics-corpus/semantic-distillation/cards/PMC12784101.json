@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12784101",
+  "paper_id": "doi:10.1002/jeo2.70608",
+  "pmcid": "PMC12784101",
+  "source_record_sha256": "cd0b21b4b4b7f7d95e86512e4f51b7e8c5af932006789a502e616a0f170b6224",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "33fd136613245730dfe05c6b0c1ccd57038cd66bab47a23342dbd38b040ed0c7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of tibial tray backside design on stress transfer and micromotion in uncemented posterior‐stabilized TKA: A finite element study",
+    "authors": "Chen Z, Ma Z, Liang B, Han J, Zhang J, Peng Y, Jin Z.",
+    "year": 2026,
+    "journal": "Journal of Experimental Orthopaedics",
+    "doi": "10.1002/jeo2.70608",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9504379",
+  "paper_id": "doi:10.3390/ma15186235",
+  "pmcid": "PMC9504379",
+  "source_record_sha256": "fa0c0002262f08f70750e186a525e5304c410042cddab6d2b64a2b0fb0cf0b8c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fd3b7d299150a296067599a8dac0065dcc5b756ed2aa0ba9372eb8b0cde3085c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Abutment Design on Biomechanical Behavior to Support a Screw-Retained 3-Unit Fixed Partial Denture",
+    "authors": "Lopes GDRS, Matos JDM, Queiroz DA, Tribst JPM, Ramos NC, Rocha MG, Barbosa AB, Bottino MA, Borges ALS, Nishioka RS.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15186235",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

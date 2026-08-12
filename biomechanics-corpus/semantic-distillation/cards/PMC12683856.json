@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12683856",
+  "paper_id": "doi:10.1186/s13018-025-06351-5",
+  "pmcid": "PMC12683856",
+  "source_record_sha256": "f9774f2eb0d627e6e4c4bfda1a1148d992fbffbf8d500a03638e3f4134dbf393",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "585b168676c20d9e32626356623317b63ade32908f5675f93ba248173022f014",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed tantalum artificial vertebral body or titanium mesh in anterior column reconstruction post-spondylectomy for thoracic vertebral tumors: a retrospective comparative cohort study and finite element analysis",
+    "authors": "Lv H, Xu M, Ai Q, Wang F, Zhang Z, Hou T.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-06351-5",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

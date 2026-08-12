@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11782283",
+  "paper_id": "doi:10.3389/fbioe.2024.1482165",
+  "pmcid": "PMC11782283",
+  "source_record_sha256": "4ba11bc35b6818cc429cae4a63a7293120e80b698ff9c470045fadeb2e020d5b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cf45feafcd34b19fc05aacca2305731647272df069066da4e5ef5de7f67bf23d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Compressive and tensile properties of polyurethane foam mimicking trabecular tissue in artificial femoral head bones",
+    "authors": "Zerdzicki K, Znaczko A, Kondrusik A, Korbut W.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1482165",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9733097",
+  "paper_id": "doi:10.1186/s13018-022-03425-6",
+  "pmcid": "PMC9733097",
+  "source_record_sha256": "37ef5f194aac35ff90e8096752f6a63ca6ced5377b2aff2045d1438a0af58b3a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e585a0f8419b1b25518e061a840e861a49ee4f43517a136d1e05339d71147f8d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stress distributions of the short stem and the tapered wedge stem at different alignments: a finite element analysis study",
+    "authors": "Kaku N, Pramudita JA, Yamamoto K, Hosoyama T, Tsumura H.",
+    "year": 2022,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-022-03425-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

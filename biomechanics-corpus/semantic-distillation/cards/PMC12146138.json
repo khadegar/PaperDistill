@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12146138",
+  "paper_id": "doi:10.1111/os.70040",
+  "pmcid": "PMC12146138",
+  "source_record_sha256": "ba14c87bba40e0726edce42b71532be9b2172443f42c54721d60dba8e895f282",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3e3dfc0230c1bf9ae7c8de58dd5917fc880eb07c5554b1b2ace0541bd6052b46",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical Application of 3D ‐Printed Custom Hemipelvic Prostheses With Negative Poisson's Ratio Porous Structures in Reconstruction After Resection of Pelvic Malignant Tumors",
+    "authors": "Hu X, Li C, Tang X, Wang Y, Luo Y, Zhou Y, Tu C, Yang X, Min L.",
+    "year": 2025,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.70040",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

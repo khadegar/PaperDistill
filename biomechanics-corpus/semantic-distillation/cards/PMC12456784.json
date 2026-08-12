@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12456784",
+  "paper_id": "doi:10.1371/journal.pone.0329558",
+  "pmcid": "PMC12456784",
+  "source_record_sha256": "246ca76ed2fa87a106081388da50bc035acc3791f63f513459a99dfad1a22689",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c42d71d363a65bb26cdb1b31036851732bb51d801c313e889b7aafd8d26093cf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical analysis of porous and dense dental implant-supported bridges in healthy and osteoporotic bones",
+    "authors": "Mehboob H, Ouldyerou A, Al-Tamimi AA, Mehboob A, Barsoum I.",
+    "year": 2025,
+    "journal": "PLOS One",
+    "doi": "10.1371/journal.pone.0329558",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

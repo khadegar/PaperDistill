@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10231755",
+  "paper_id": "doi:10.18063/ijb.v9i2.658",
+  "pmcid": "PMC10231755",
+  "source_record_sha256": "8746981bd9e85ff06ad242a9559badb4d9aa5f10a9e21a7fa5e9395fa8acc5d7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6e5c164efe3bbeb62a72f590d3f2993a2f6194e02193f39df40a3435f39b85b0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The design and processing of a 3D-printed high-performance biological fixation plate",
+    "authors": "Guoqing Z, Junxin L, Xiaoyu Z, Yongsheng Z, Bai Y.",
+    "year": 2022,
+    "journal": "International Journal of Bioprinting",
+    "doi": "10.18063/ijb.v9i2.658",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11319139",
+  "paper_id": "doi:10.3389/fbioe.2024.1415617",
+  "pmcid": "PMC11319139",
+  "source_record_sha256": "777698e849c12d02794c0224bddebf63010f98d14d5b4828c882f666104b22e5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e34e049c4781ef1a793c6448685d2ed16a5c864eea4627bb53fd787fd24640d5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stability of osteotomy in minimally invasive hallux valgus surgery with “8” shaped bandage during gait: a finite element analysis",
+    "authors": "Sun X, Guo Z, Cao X, Xiong B, Pan Y, Sun W, Bai Z.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1415617",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

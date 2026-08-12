@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5848108",
+  "paper_id": "doi:10.1155/2018/2876135",
+  "pmcid": "PMC5848108",
+  "source_record_sha256": "d7f764aa155011a77e3435211ad594768f30f008c19219d3a4c03ef582032824",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cf8f1948031d8e70e04cc991ccb979d9ed39c65e541eeec9ae0433245743e58d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Efficacy of rhBMP-2 Loaded PCL/ β -TCP/bdECM Scaffold Fabricated by 3D Printing Technology on Bone Regeneration",
+    "authors": "Bae EB, Park KH, Shim JH, Chung HY, Choi JW, Lee JJ, Kim CH, Jeon HJ, Kang SS, Huh JB.",
+    "year": 2018,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2018/2876135",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

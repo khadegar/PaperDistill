@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13173902",
+  "paper_id": "doi:10.1186/s12891-026-09774-1",
+  "pmcid": "PMC13173902",
+  "source_record_sha256": "3401ccbf1cbd1cf18ab6041719d61cf86d9fe7760422b71f253fc4749ed88230",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3a530720f6c451445955ddf54b0e5e4e105df8ee033e1c93e4a94d8945c6c6af",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed prothesis combined hinged knee arthroplasty in the treatment of critical-sized osteomyelitis-derived bone defects around the knee joint",
+    "authors": "Liu B, Chen Z, Wang Z, Zhou F, Wang C, Li F, Tian Y.",
+    "year": 2026,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-026-09774-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10902174",
+  "paper_id": "doi:10.3389/fbioe.2024.1339916",
+  "pmcid": "PMC10902174",
+  "source_record_sha256": "090e8e91785d439a03244b465576fb3e4baa2f6f19bdaf132c15b8721814f4c1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4ea3893d1df5166254643587b8c05c3bf2bc99c38fc1cdeee42afb8b18052f04",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed osteochondral scaffolds: design strategies, present applications and future perspectives",
+    "authors": "Liu G, Wei X, Zhai Y, Zhang J, Li J, Zhao Z, Guan T, Zhao D.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1339916",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

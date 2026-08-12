@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12109358",
+  "paper_id": "doi:10.3390/bioengineering12050436",
+  "pmcid": "PMC12109358",
+  "source_record_sha256": "5689c37b726ca95912faf78cfc0ecfe1229c959161b7303cb3dbbc52d7f58c5d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2330c56fe1b105e8a593db847f9dd4431f8cfca3ab0efe9d878ce64f05f615f4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Digital Workflow with Open-Source CAD-CAM Software Aimed to Design a Customized 3D Laser-Printed Titanium Mesh for Guided Bone Regeneration",
+    "authors": "Cirrincione C, Guarnieri G, Morelli A.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12050436",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

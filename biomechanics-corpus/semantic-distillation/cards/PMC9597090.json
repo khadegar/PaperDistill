@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9597090",
+  "paper_id": "doi:10.3389/fbioe.2022.1003677",
+  "pmcid": "PMC9597090",
+  "source_record_sha256": "279b239019ead636469379340ee1866260fdfcceb467afcb456d4229fef014a9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "731a6dbbd5509e2e323f1b0565baf5a83271ff3cbc01e668bd76aeb38fc035fa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Covalent immobilization of VEGF on allogeneic bone through polydopamine coating to improve bone regeneration",
+    "authors": "Huang J, Lu J, Liu Z, Jin J, Xie C, Zheng Y, Wang Z, Yu L, Zhu Y, Fan G, Sun G, Xu Z, Zhou G.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1003677",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

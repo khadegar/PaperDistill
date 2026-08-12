@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8191027",
+  "paper_id": "doi:10.1186/s40824-021-00216-8",
+  "pmcid": "PMC8191027",
+  "source_record_sha256": "4ea4a82373b8f58dced48b8310b15a8e9758b8f559c946de496d4749c16ef0ff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c679cd218bf8883fbb02d3641d4599e836751d40145049fb15888312baaad66d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additively manufactured titanium scaffolds and osteointegration - meta-analyses and moderator-analyses of in vivo biomechanical testing",
+    "authors": "Cleemput S, Huys SEF, Cleymaet R, Cools W, Mommaerts MY.",
+    "year": 2021,
+    "journal": "Biomaterials Research",
+    "doi": "10.1186/s40824-021-00216-8",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

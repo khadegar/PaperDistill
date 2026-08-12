@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8622524",
+  "paper_id": "doi:10.3390/ijms222212420",
+  "pmcid": "PMC8622524",
+  "source_record_sha256": "84dd33738df7b75749e3b6e2ee0831e1c52ca930374c3c46373075cd7060a227",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6cd4110d20d48a9979d2d94285ea7775efb3d3adf9d6c0e26a3ced5e2ecbe42c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed Multiphasic Scaffolds for Osteochondral Repair: Challenges and Opportunities",
+    "authors": "Doyle SE, Snow F, Duchi S, O'Connell CD, Onofrillo C, Di Bella C, Pirogova E.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms222212420",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

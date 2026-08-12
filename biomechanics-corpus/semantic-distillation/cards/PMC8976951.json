@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8976951",
+  "paper_id": "doi:10.1186/s12938-022-00990-z",
+  "pmcid": "PMC8976951",
+  "source_record_sha256": "ee08195999ebd8585df9e07499fe635307bc946adf067fd6b9fbfbb4211d3999",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dc8e247a095f1096f547b3533f4a5f4494125a5c154d796ed6bc201594fc451a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stiffness optimization and reliable design of a hip implant by using the potential of additive manufacturing processes",
+    "authors": "Risse L, Woodcock S, Brüggemann JP, Kullmer G, Richard HA.",
+    "year": 2022,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-022-00990-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

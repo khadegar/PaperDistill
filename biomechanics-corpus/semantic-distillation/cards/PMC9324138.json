@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9324138",
+  "paper_id": "doi:10.3390/ph15070879",
+  "pmcid": "PMC9324138",
+  "source_record_sha256": "d54bfdd7fed66e63b363c4624f9210c6aab7c0ee269dfd24df2d78f9e9b33d9c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f5965f984d4805cbfc27ad935358f58af67f4512aec89314d2da28b964c96c64",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Tissue Engineering in the Treatment of Bone Defects",
+    "authors": "Xue N, Ding X, Huang R, Jiang R, Huang H, Pan X, Min W, Chen J, Duan JA, Liu P, Wang Y.",
+    "year": 2022,
+    "journal": "Pharmaceuticals",
+    "doi": "10.3390/ph15070879",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

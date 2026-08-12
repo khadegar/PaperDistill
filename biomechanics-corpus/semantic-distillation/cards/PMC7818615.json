@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7818615",
+  "paper_id": "doi:10.1021/acsomega.0c05191",
+  "pmcid": "PMC7818615",
+  "source_record_sha256": "30587129096d6d72f0ee29ffada37cd51234981bfafbb522e263fc964e58af90",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9887489ae11a2ad9db313fa64c125220d754c0ed5308ea191a4679bc08f18d11",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative Study on 3D Printed Ti6Al4V Scaffolds with Surface Modifications Using Hydrothermal Treatment and Microarc Oxidation to Enhance Osteogenic Activity",
+    "authors": "Huang L, Cai B, Huang Y, Wang J, Zhu C, Shi K, Song Y, Feng G, Liu L, Zhang L.",
+    "year": 2021,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.0c05191",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12926580",
+  "paper_id": "doi:10.1016/j.bioactmat.2026.02.026",
+  "pmcid": "PMC12926580",
+  "source_record_sha256": "9f49059616e64f08f0107dd664a66de98793b0b0a866cec039380134b61baff5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e10b7502c00cb48e48513d7288fa8a695805d32286148a036ad09b12620d7c1a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A continuous adhesion-enhanced osteogenic pathway in artificial scaffold drives cellular infiltration and condensed mineralization for rapid bone regeneration",
+    "authors": "Yu P, Li FF, Yu FY, Zhang ZM, Long SY, Tian YF, Guo JQ, Yang W.",
+    "year": 2026,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2026.02.026",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

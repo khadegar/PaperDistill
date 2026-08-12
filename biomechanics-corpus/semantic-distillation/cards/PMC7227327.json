@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7227327",
+  "paper_id": "doi:10.1186/s13018-020-01696-5",
+  "pmcid": "PMC7227327",
+  "source_record_sha256": "0e9748641c813fa67a4dab852b2f85ddd1f6ff96202bf7f726c2f70b1ec60962",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ea0de74c6ed45de55edc5bb88e77defd99ae21ad9ca78d4a2a2a78adfa505ffc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone ongrowth and mechanical fixation of implants in cortical and cancellous bone",
+    "authors": "Walsh WR, Pelletier MH, Bertollo N, Lovric V, Wang T, Morberg P, Parr WCH, Bergadano D.",
+    "year": 2020,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-020-01696-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

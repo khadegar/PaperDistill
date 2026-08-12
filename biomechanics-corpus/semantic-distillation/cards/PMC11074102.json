@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11074102",
+  "paper_id": "doi:10.1038/s41598-024-61122-2",
+  "pmcid": "PMC11074102",
+  "source_record_sha256": "396a6ff706f6f62e6493438f8d9bc3a99bf5739c62607d2ecea57744e545b148",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "65c464c2a754645764de039fa055b4b4cb1add3b3510246a769f53c3805d6cbf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element study on the micromechanics of cement-augmented proximal femoral nail anti-rotation (PFNA) for intertrochanteric fracture treatment",
+    "authors": "Liu Y, Zheng L, Li S, Zhang Z, Lin Z, Ma W.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-61122-2",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

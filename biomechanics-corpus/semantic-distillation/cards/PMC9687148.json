@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9687148",
+  "paper_id": "doi:10.3390/bioengineering9110680",
+  "pmcid": "PMC9687148",
+  "source_record_sha256": "11c2387a1c844974e6ed18c730eba80cc9c1fb7ae0caa1718c95cd66566b21ed",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "baea0a98b87e13cfcefcb5e4dc3d1465be145eae9fd2a14b4a675b0bd170f684",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printing for Critical Sized Bone Defects: Current Concepts and Future Directions",
+    "authors": "Mayfield CK, Ayad M, Lechtholz-Zey E, Chen Y, Lieberman JR.",
+    "year": 2022,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering9110680",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

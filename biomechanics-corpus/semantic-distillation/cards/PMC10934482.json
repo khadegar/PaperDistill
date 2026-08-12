@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10934482",
+  "paper_id": "doi:10.3390/ma17051137",
+  "pmcid": "PMC10934482",
+  "source_record_sha256": "91e8a5976f105906b98dc878aab58283ca63e4aff840ccf629712da477bc6676",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d320d81f7b6d207c61586d8eb07f858aa649a16e476cde0d54fad7d121b40fca",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Parametric Design of Porous Structure and Optimal Porosity Gradient Distribution Based on Root-Shaped Implants",
+    "authors": "Liu L, Ma S, Zhang Y, Zhu S, Wu S, Liu G, Yang G.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17051137",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold"
+    ]
+  },
+  "status": "blank"
+}

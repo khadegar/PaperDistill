@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10287912",
+  "paper_id": "doi:10.1093/rb/rbad057",
+  "pmcid": "PMC10287912",
+  "source_record_sha256": "1aba454a23ee2189f1df4383ebd758f127fb9ffd8f79ece6b07f7e7644d23fb4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a72b3154d8ef373ad776513d8207d9948fc786e2c47e1d6cce57449a77ef2c76",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Customized bioceramic scaffolds and metal meshes for challenging large-size mandibular bone defect regeneration and repair",
+    "authors": "Zhang B, Yin X, Zhang F, Hong Y, Qiu Y, Yang X, Li Y, Zhong C, Yang H, Gou Z.",
+    "year": 2023,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbad057",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

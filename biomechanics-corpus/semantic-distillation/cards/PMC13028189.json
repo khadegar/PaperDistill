@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13028189",
+  "paper_id": "doi:10.3390/medicina62030450",
+  "pmcid": "PMC13028189",
+  "source_record_sha256": "67d5a7dab053de3e0ef00059cfb08563619bbd9c58df3ccd511c3c7ea162df26",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "63faff2fdf9b7a7864d907b993c0a3a18a7c7f4e921930e3c1f975ee0fba71b8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Should We Worry About the Inter-Implant Gap in the Tibia? A Finite Element Analysis of Revision TKA and Distal Plating",
+    "authors": "Glória RC, Labronici PJ, Freitas A, Giordano V.",
+    "year": 2026,
+    "journal": "Medicina",
+    "doi": "10.3390/medicina62030450",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

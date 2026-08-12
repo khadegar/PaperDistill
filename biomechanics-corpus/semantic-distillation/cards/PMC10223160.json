@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10223160",
+  "paper_id": "doi:10.3390/medicina59050880",
+  "pmcid": "PMC10223160",
+  "source_record_sha256": "53a202e6763a90113fbc66c8c62819c6ddf1e3000288f82a5ef1de67dffcb311",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f6d71a5ba53edd48f7cb1a90568bf10a389ec0f757b7eb05d015dab85ca8ae86",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of Femoral Component Rotation between Robotic-Assisted vs. Soft-Tissue Tensor Total Knee Arthroplasty with Anatomic Implants",
+    "authors": "Maciąg BM, Kordyaczny T, Maciąg GJ, Łapiński M, Jegierski D, Świderek J, Tsitko H, Dorocińska M, Żarnovsky K, Świercz M, Stępiński P, Adamska O, Stolarczyk A.",
+    "year": 2023,
+    "journal": "Medicina",
+    "doi": "10.3390/medicina59050880",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

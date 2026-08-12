@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9206344",
+  "paper_id": "doi:10.1186/s12903-022-02264-5",
+  "pmcid": "PMC9206344",
+  "source_record_sha256": "2bfd7ce6f84e834349f5dc67f040d1fccbf53b3d6a2c5974433dc5aceaee8c3f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4dc2e782fffd6baa4f9bb9e2a966aa36c37597269e9f80fe817ab2dffd9694cd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of implants loaded with stem cells from human exfoliated deciduous teeth on early osseointegration in a canine model",
+    "authors": "Cao X, Wang C, Yuan D, Chen S, Wang X.",
+    "year": 2022,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-022-02264-5",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

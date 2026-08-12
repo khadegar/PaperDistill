@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10615455",
+  "paper_id": "doi:10.1097/gox.0000000000005363",
+  "pmcid": "PMC10615455",
+  "source_record_sha256": "320165f0f2814aa007d5e3390fc6ea5723577dc2465e6e4e6d71fa2954ee9a4d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9735d4298581f0dd0f6cab9404bc550824f9ee6817aee98b1a8fc15884d574e0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The First Alveolar Bone Graft Simulator",
+    "authors": "Shen J, Fisher DM, Yasabala B, Wong Riff KWY, Podolsky DJ.",
+    "year": 2023,
+    "journal": "Plastic and Reconstructive Surgery Global Open",
+    "doi": "10.1097/gox.0000000000005363",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

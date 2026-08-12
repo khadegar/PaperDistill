@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12841332",
+  "paper_id": "doi:10.3390/gels12010071",
+  "pmcid": "PMC12841332",
+  "source_record_sha256": "48272650f4e2661a468ff4d4273336235e6018cd6a4e55da3c1cd21326d41a82",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "521c423ebe6e3531563a69f4f7ed3de2b9f096d1dcaae0e60a10ef06000e7528",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Rational Design of Mechanically Optimized Hydrogels for Bone Tissue Engineering: A Review",
+    "authors": "Qin S, Yuan H, Shan Z, Wang J, Pan W.",
+    "year": 2026,
+    "journal": "Gels",
+    "doi": "10.3390/gels12010071",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

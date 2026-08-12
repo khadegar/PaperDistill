@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11749845",
+  "paper_id": "doi:10.1136/bmjopen-2024-088081",
+  "pmcid": "PMC11749845",
+  "source_record_sha256": "a726ec0aaff366b5e79bd120098f6b74e5f1bd900c521aa982a0a3a11299fc4b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "94f12b36b54831f74559b334a4380b12ebfd81422e232c4b4cbbee011ce1aa33",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of bone quality on surgical decision-making in total hip arthroplasty: a qualitative analysis in the UK",
+    "authors": "Karia M, Abouharb A, Sabharwal S, Mavroveli S, Cobb J.",
+    "year": 2025,
+    "journal": "BMJ Open",
+    "doi": "10.1136/bmjopen-2024-088081",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

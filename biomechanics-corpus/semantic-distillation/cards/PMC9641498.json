@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9641498",
+  "paper_id": "doi:10.3389/fbioe.2022.994776",
+  "pmcid": "PMC9641498",
+  "source_record_sha256": "9c68e21eca3d2057d9a5bbe46295a67dff568f98d78425970293d7c34ab050d5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2aad8f41a3f6e0db69125aff5b9ccf492b3e62de9d7a3a8e789ee967e2ae3af4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of 3D printable graphene oxide based bio-ink for cell support and tissue engineering",
+    "authors": "Li J, Liu X, Crook JM, Wallace GG.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.994776",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

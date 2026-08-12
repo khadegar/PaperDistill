@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11056396",
+  "paper_id": "doi:10.1016/j.sdentj.2024.01.013",
+  "pmcid": "PMC11056396",
+  "source_record_sha256": "9375a3ce14f97eb4c9093fda7fe275b30b26d22e702479084b84d038a0a775e5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "755ef08aef66abf1dc991f534c58e33717fb6fcb77b224897e3144cedaa49db3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of micro-arc oxidation coatings with graphene oxide and graphite on osseointegration of titanium implants-an in vivo study",
+    "authors": "Tekin B, Dundar S, Tekin S, Emine Sukuroglu E, Khurshid Z, Ezgi Y, Demirci F, Faheemuddin M.",
+    "year": 2024,
+    "journal": "The Saudi Dental Journal",
+    "doi": "10.1016/j.sdentj.2024.01.013",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

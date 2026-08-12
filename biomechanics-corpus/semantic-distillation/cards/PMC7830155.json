@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7830155",
+  "paper_id": "doi:10.3390/polym13020270",
+  "pmcid": "PMC7830155",
+  "source_record_sha256": "4350d388954ec8d3de5d767a00acd268ee4b523c0e2b7508b7c585ed9a372ec4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "27f307ee630462c69c3e01fb758be17db566046cfc14ab8f909572896ce58ba7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive-Manufactured Gyroid Scaffolds of Magnesium Oxide, Phosphate Glass Fiber and Polylactic Acid Composite for Bone Tissue Engineering",
+    "authors": "He L, Liu X, Rudd C.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13020270",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

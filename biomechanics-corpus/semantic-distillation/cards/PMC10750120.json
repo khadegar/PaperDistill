@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10750120",
+  "paper_id": "doi:10.7150/ntno.85439",
+  "pmcid": "PMC10750120",
+  "source_record_sha256": "ca41da6cd75357dbf3c7da3eedf74b7f7a31350dfae76ffba964c8bde3e6fd66",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4ae6b14480b903cfb349418ccd50d92cbc67c875fd9b3d9fb114aca1cf1d5a5d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional in vitro model of bone metastases of neuroblastoma as a tool for pharmacological evaluations",
+    "authors": "Aveic S, Seidelmann M, Davtalab R, Corallo D, Vogt M, Rütten S, Fischer H.",
+    "year": 2024,
+    "journal": "Nanotheranostics",
+    "doi": "10.7150/ntno.85439",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

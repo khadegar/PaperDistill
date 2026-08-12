@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8005599",
+  "paper_id": "doi:10.3389/fbioe.2021.621483",
+  "pmcid": "PMC8005599",
+  "source_record_sha256": "d84a4ac582853a05c5112a29b8948311ffe0e7c139b0f11d369ddcddcceb3914",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "01e7db17ba9552daaf16022266ef84377d02857fcbd7f39e6f969c14491ea758",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Systematic Review of Tissue Engineering Scaffold in Tendon Bone Healing in vivo",
+    "authors": "Mao Z, Fan B, Wang X, Huang X, Guan J, Sun Z, Xu B, Yang M, Chen Z, Jiang D, Yu J.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.621483",
+    "publication_type": "Systematic Review; systematic-review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

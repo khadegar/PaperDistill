@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13028028",
+  "paper_id": "doi:10.3390/medicina62030469",
+  "pmcid": "PMC13028028",
+  "source_record_sha256": "2191c4dd9993cb2752cf9e247db222f0fb0f89869ac6a78dc931a6dbb95da35b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d5da0b2fe23f5d8c7c090ea4ebe3164195eb251dd3de92d1a7037b416b9e9cf9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Knee Osteoarthritis (KOA) Severity Influences Proximal Femoral Biomechanics and Predicts Pertrochanteric Fracture Instability: A Retrospective Radiographic Study",
+    "authors": "Hashemi SA, Abedini B, Hosseini H, Yousufzai S, Koutserimpas C, Georgiev GP, Tiantafyllou G, Diomidous E, Tsakotos G, Paschopoulos I, Kantas F, Piagkou M.",
+    "year": 2026,
+    "journal": "Medicina",
+    "doi": "10.3390/medicina62030469",
+    "publication_type": "research-article; Journal Article; Observational Study",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

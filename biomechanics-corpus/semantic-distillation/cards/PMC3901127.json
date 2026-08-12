@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3901127",
+  "paper_id": "doi:10.3390/cells1041225",
+  "pmcid": "PMC3901127",
+  "source_record_sha256": "345902c740eb15b3170b3ec093567fbacb4123603e24237b8516e6b8bcf25517",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7b26a486f5477888f8a3712675d20937eb1cf8739a652e3900f86d25d7689dfe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Macro and Microfluidic Flows for Skeletal Regenerative Medicine",
+    "authors": "Riehl BD, Lim JY.",
+    "year": 2012,
+    "journal": "Cells",
+    "doi": "10.3390/cells1041225",
+    "publication_type": "review-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

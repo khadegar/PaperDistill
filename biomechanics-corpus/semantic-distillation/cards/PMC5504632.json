@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5504632",
+  "paper_id": "doi:10.1186/s12891-017-1651-9",
+  "pmcid": "PMC5504632",
+  "source_record_sha256": "b32fb47ffe36a944157c1a2c414a046c0d12649efb0fbe8d633e3faf3873947c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ab0cc05639a64bb1700666671e2694b7726f9b951cc0fa65d124e1fcaf713e7a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of porously punched prosthetic short stem virtually designed for simulative uncemented Hip Arthroplasty",
+    "authors": "Peng MJ, Chen HY, Hu Y, Ju X, Bai B.",
+    "year": 2017,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-017-1651-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

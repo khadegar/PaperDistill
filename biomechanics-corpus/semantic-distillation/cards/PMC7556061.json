@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7556061",
+  "paper_id": "doi:10.1155/2020/8419319",
+  "pmcid": "PMC7556061",
+  "source_record_sha256": "b272b2879ee3d59ab9e6cb4d9cf349b21f07a9954cbd6d4c778f2f6509481454",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "66de2151ffa2217b2a7ec6e1a107288db5a809ca388a2b0b82d2dff21a894710",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis of Grafted and Nongrafted Maxillary Sinus Augmentation in the Atrophic Posterior Maxilla with Three-Dimensional Finite Element Method",
+    "authors": "Wang X, Zhang T, Yang E, Gong Z, Shen H, Wu H, Wu H, Zhang D.",
+    "year": 2020,
+    "journal": "Scanning",
+    "doi": "10.1155/2020/8419319",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

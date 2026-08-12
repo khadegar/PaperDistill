@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8306413",
+  "paper_id": "doi:10.3390/ma14143844",
+  "pmcid": "PMC8306413",
+  "source_record_sha256": "e3eeb2f216258034de416e354c8cef5245ed7d79e3f84ceae498e644524d783d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "df9d2085f30d89ec5e54a21c75adac092a8a3e4d46e11e736435ce6c83e2438e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advances in 3D-Printed Surface-Modified Ca-Si Bioceramic Structures and Their Potential for Bone Tumor Therapy",
+    "authors": "Truong LB, Medina Cruz D, Mostafavi E, O'Connell CP, Webster TJ.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14143844",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

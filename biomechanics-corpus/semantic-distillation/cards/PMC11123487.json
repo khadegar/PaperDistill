@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11123487",
+  "paper_id": "doi:10.3390/ma17102276",
+  "pmcid": "PMC11123487",
+  "source_record_sha256": "bf45322b127ec4ac0bede52d784f2a765a8c2e67dc4104d32b1b434d3c58bb4e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "10cfead39abb846f821410e1e15735ed44f5bff6adc66bae343e56df17011fe6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An Innovative Design to Enhance Osteoinductive Efficacy and Biomechanical Behavior of a Titanium Dental Implant",
+    "authors": "Cho YC, Peng PW, Ou YS, Liu CM, Huang BH, Lan WC, Kuo HH, Hsieh CC, Chen B, Huang MS, Nakano H.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17102276",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

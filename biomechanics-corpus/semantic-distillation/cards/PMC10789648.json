@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10789648",
+  "paper_id": "doi:10.1016/j.mtbio.2023.100929",
+  "pmcid": "PMC10789648",
+  "source_record_sha256": "b6b2c255255b53a173b4740f526670c06eb1b639a820d7ca64a2e20facac6089",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1eaf96323b0dda8c496ee25662f815cd189fda5f89339cdf57b5be5437451660",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "DLP fabrication of HA scaffold with customized porous structures to regulate immune microenvironment and macrophage polarization for enhancing bone regeneration",
+    "authors": "Xiong S, Zhang Y, Zeng J, Zhou J, Liu S, Wei P, Liu H, Yi F, Wan Z, Xiong L, Zhang B, Li J.",
+    "year": 2023,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2023.100929",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

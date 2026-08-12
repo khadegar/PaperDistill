@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13230908",
+  "paper_id": "doi:10.1038/s41598-026-48697-8",
+  "pmcid": "PMC13230908",
+  "source_record_sha256": "8829d15b94a761e0edc41261e675918fd1aef68150dee1ac241c09b15b957262",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2325ea8d5c77dc556da90c55593bab1515720c0586a5818c5511f5e3d65ebb5f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Virtual bone-implant contact surface effect on implant stability in fresh extraction and healed sites: a pilot randomised clinical trial",
+    "authors": "Askin Ekinci S, Fettahzade S, Gocmen G, Bayram F, Ozkan Y.",
+    "year": 2026,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-026-48697-8",
+    "publication_type": "research-article; Randomized Controlled Trial; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

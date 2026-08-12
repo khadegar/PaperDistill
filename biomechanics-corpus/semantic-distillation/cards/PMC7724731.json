@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7724731",
+  "paper_id": "doi:10.1186/s13018-020-02025-6",
+  "pmcid": "PMC7724731",
+  "source_record_sha256": "03cc76cf50ecdbc70f9841b1759ad9a9151e033b7ca27556d905b9b9212b7aba",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "47eaf2a2642830a2ddec560bc9a113c5c8309480e1bbc2f48b8bfd5530bbbb57",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of a metaphyseal sleeve on the stress-strain state of a bone-tumor implant system in the distal femur: an experimental and finite element analysis",
+    "authors": "Li JJ, Tian DM, Yang L, Zhang JY, Hu YC.",
+    "year": 2020,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-020-02025-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8991078",
+  "paper_id": "doi:10.1039/d2ra00214k",
+  "pmcid": "PMC8991078",
+  "source_record_sha256": "688b7af15a30a4550fd2763d525ec046bbe29f18e635f8e098edcb29b938edb6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "03a0ac6ea2179823159ae66ad4b51561a777167e163d90f357326ffe66ec2f75",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed composite scaffold with anti-infection and osteogenesis potential against infected bone defects",
+    "authors": "Qiao Z, Zhang W, Jiang H, Li X, An W, Yang H.",
+    "year": 2022,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d2ra00214k",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

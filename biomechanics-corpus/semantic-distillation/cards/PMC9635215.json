@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9635215",
+  "paper_id": "doi:10.3389/fvets.2022.971318",
+  "pmcid": "PMC9635215",
+  "source_record_sha256": "5e41663c3ec07d93a517d2fac297e77e77dfc897dfab151beba17eb13fb62ab7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a7104322676d9d551dd5912a68fb981279c66e97395188ddd8b271be83e5ce87",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Virtual surgical planning and 3D printing: Methodology and applications in veterinary oromaxillofacial surgery",
+    "authors": "Klasen JRS, Thatcher GP, Bleedorn JA, Soukup JW.",
+    "year": 2022,
+    "journal": "Frontiers in Veterinary Science",
+    "doi": "10.3389/fvets.2022.971318",
+    "publication_type": "methods-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

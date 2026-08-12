@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8862023",
+  "paper_id": "doi:10.1136/bjsports-2020-103602",
+  "pmcid": "PMC8862023",
+  "source_record_sha256": "82f357a330bc605e14ed93ad314348876ec3e020bae1f8ad37bc5306e720a674",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ab54d6825de18c97739f33175b2be041e1f378f449e86ba3bf8dae398e8f4e43",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Pre-flight exercise and bone metabolism predict unloading-induced bone loss due to spaceflight",
+    "authors": "Gabel L, Liphardt AM, Hulme PA, Heer M, Zwart SR, Sibonga JD, Smith SM, Boyd SK.",
+    "year": 2021,
+    "journal": "British Journal of Sports Medicine",
+    "doi": "10.1136/bjsports-2020-103602",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

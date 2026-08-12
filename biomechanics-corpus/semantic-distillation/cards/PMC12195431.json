@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12195431",
+  "paper_id": "doi:10.3390/mi16060692",
+  "pmcid": "PMC12195431",
+  "source_record_sha256": "21faae6960dbfbd2e5ae0349e254c0195e74a901f90858399d2c48dd816f305c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6e9e6594db97211b15c0b55c9f7e16a02b95cf05235888f9f077866c05be2654",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hydroxyapatite-Complexed Type I Collagen and Fibrinogen-Modified Porous Titanium Alloy Scaffold: Promoting Osteogenesis and Soft Tissue Integration",
+    "authors": "Tao W, Tian G, Han X, Gao J, Zhu Y, Xu X.",
+    "year": 2025,
+    "journal": "Micromachines",
+    "doi": "10.3390/mi16060692",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

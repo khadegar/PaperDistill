@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11005997",
+  "paper_id": "doi:10.2147/ijn.s449952",
+  "pmcid": "PMC11005997",
+  "source_record_sha256": "303882d1a9cad1e9b2dc209a411b160fae46ee52f5d1d481bfa2ac5802776aff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "146f094fe961405a15dc86bf845e1097c288ab1811279eb02632283a7c5a554b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Melt Electrowriting Combined with Fused Deposition Modeling Printing for the Fabrication of Three-Dimensional Biomimetic Scaffolds for Osteotendinous Junction Regeneration",
+    "authors": "Ma S, Zheng S, Li D, Hu W, Wang L.",
+    "year": 2024,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s449952",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10754600",
+  "paper_id": "doi:10.1097/md.0000000000036832",
+  "pmcid": "PMC10754600",
+  "source_record_sha256": "ee82b2151b120109c976c4f7388b79435761755358eac28948ca46d813c44c0c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "011898a752e1d2edbe67a59bd2d7f6d0152c1be1c8c2e96c8274d03f5a660d9c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing-assisted total hip arthroplasty and internal fixation for the treatment of fresh acetabular fracture and femoral head necrosis: A case report",
+    "authors": "Chen Y, Zhang B.",
+    "year": 2023,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000036832",
+    "publication_type": "research-article; Journal Article; Case Reports",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

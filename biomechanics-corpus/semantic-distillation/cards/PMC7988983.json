@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7988983",
+  "paper_id": "doi:10.1186/s13018-021-02354-0",
+  "pmcid": "PMC7988983",
+  "source_record_sha256": "dab5711ae04b45a99e6115cbb60c1a2722c44ff68575b6d696083e84bbebb058",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8f253acec0f5225e67ed9ba5fce03c1522e66a39f4dc7bbe2b55f26be13bd5dc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanics of artificial pedicle fixation in a 3D-printed prosthesis after total en bloc spondylectomy: a finite element analysis",
+    "authors": "Wang X, Xu H, Han Y, Wu J, Song Y, Jiang Y, Wang J, Miao J.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-021-02354-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10014626",
+  "paper_id": "doi:10.3389/fbioe.2023.1111020",
+  "pmcid": "PMC10014626",
+  "source_record_sha256": "8c9b9119ee21f295217688dffb8e15704f2f329c9d49a3797476003b41289159",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6116dc6128ce18193f44ea299cc2fb899524f3c59c74f8f3b70d3f52b61904fd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "2D-3D reconstruction of the proximal femur from DXA scans: Evaluation of the 3D-Shaper software",
+    "authors": "Dudle A, Gugler Y, Pretterklieber M, Ferrari S, Lippuner K, Zysset P.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1111020",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

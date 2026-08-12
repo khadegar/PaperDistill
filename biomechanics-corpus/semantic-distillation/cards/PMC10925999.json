@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10925999",
+  "paper_id": "doi:10.1016/j.heliyon.2024.e26071",
+  "pmcid": "PMC10925999",
+  "source_record_sha256": "613cffa29d7a3616f229de179e0f499dc753ff0bec3dd2b690ac87b2d756b74e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d2d13279a24d117e71346194eaeb27043ff65a37e09843df91178f7be5505fb1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed polycaprolactone/β-tricalcium phosphate/carbon nanotube composite – Physical properties and biocompatibility",
+    "authors": "Wang Y, Liu C, Song T, Cao Z, Wang T.",
+    "year": 2024,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2024.e26071",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

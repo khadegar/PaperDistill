@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12194625",
+  "paper_id": "doi:10.3390/ma18122692",
+  "pmcid": "PMC12194625",
+  "source_record_sha256": "13d79b8e7dd1c5b04f4142632b848a9765a2c18d5016527c0a6f797139a07cfd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9761b40d104e849f6d7ace097a0954ab0001bfadf159d0ab846a016f3206b48a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Finite Element Analysis of a New Dental Implant Design: The Influence of the Diameter, Length, and Material of an Implant on Its Biomechanical Behavior",
+    "authors": "González-Mederos P, Rodríguez-Guerra J, González JE, Picardo A, Torres Y.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18122692",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

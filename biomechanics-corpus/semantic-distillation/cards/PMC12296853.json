@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12296853",
+  "paper_id": "doi:10.7759/cureus.86821",
+  "pmcid": "PMC12296853",
+  "source_record_sha256": "e6e723e7b5df7a10d482eae4d8519e2bed2a0ba4d564bd9f4e1c9f26893c345a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ce3e2455a67ce45de9081854885464e410bbf06a2368aabac62c0d796d38e9c0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of Platform Switching Effects on Stress Distribution in Posterior Implants Placed in Different Bone Types Under Axial and Oblique Loading Conditions",
+    "authors": "Yadav K, Kumar S, Aggarwal R, Kaur I, Goyal A, Sharma R, Banjara S.",
+    "year": 2025,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.86821",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

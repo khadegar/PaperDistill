@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13200330",
+  "paper_id": "doi:10.1186/s12951-026-04424-z",
+  "pmcid": "PMC13200330",
+  "source_record_sha256": "ee001f0b1fec6b68b42a01cabb04bf3fafaf23a9d6ad6539fc31fdbf20ca92a2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2458514007ec0975593547cede37326b176babb31a12d8347b7cda468a40c04f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Exosome-mediated Piezo1 activation in 3D-printed titanium scaffolds promotes repair of femoral head osteonecrosis",
+    "authors": "Yu Y, Ji Z, Xu H, Ma M, Yin Z, Du Y, Zhang T, Wang G, Tian F, Liu S, Xue J, Qian W.",
+    "year": 2026,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-026-04424-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

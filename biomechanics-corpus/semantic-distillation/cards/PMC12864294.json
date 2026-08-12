@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12864294",
+  "paper_id": "doi:10.1007/s00402-026-06194-7",
+  "pmcid": "PMC12864294",
+  "source_record_sha256": "6671e0575f33247151bd22b6815e3f659a9ce68ef27f45479d33f01b30a9b1fa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7b1bbb7f637f451c6e394884f88e961421fb186bc476e36f1b45353d6f94f291",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Leg length and offset in short-stem total hip arthroplasty: is a single offset-implant sufficient to restore the hip rotation centre within a range of 5 mm?",
+    "authors": "Olk F, Bittersohl B, Babisch J, Mittelstädt H, Jäger M, Krauspe R, Zilkens C.",
+    "year": 2026,
+    "journal": "Archives of Orthopaedic and Trauma Surgery",
+    "doi": "10.1007/s00402-026-06194-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

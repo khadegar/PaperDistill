@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10634525",
+  "paper_id": "doi:10.1093/rb/rbad090",
+  "pmcid": "PMC10634525",
+  "source_record_sha256": "ff1350071d735e2c0ffed7a01b95af97d1d651e1fa55b42f1a4e82dc73458f02",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "aef034ab92b2e8280782d757bc869b4175bbd6df98c024b131648266c0bc309b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of photoreactive demineralized bone matrix 3D printing colloidal inks for bone tissue engineering",
+    "authors": "Hogan KJ, Öztatlı H, Perez MR, Si S, Umurhan R, Jui E, Wang Z, Jiang EY, Han SR, Diba M, Jane Grande-Allen K, Garipcan B, Mikos AG.",
+    "year": 2023,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbad090",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

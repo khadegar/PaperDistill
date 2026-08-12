@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9582727",
+  "paper_id": "doi:10.1016/j.heliyon.2022.e10844",
+  "pmcid": "PMC9582727",
+  "source_record_sha256": "b5999a8b3045227022d5d8a79e030b24734d644927cd7df7e6f3af9fd7d93cf3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6332704b8b9b50e4f901d5b093d93ccb4af3c21cb55ae027710d9470c9087b03",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The impact of medication on osseointegration and implant anchorage in bone determined using removal torque—A review",
+    "authors": "Jolic M, Sharma S, Palmquist A, Shah FA.",
+    "year": 2022,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2022.e10844",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

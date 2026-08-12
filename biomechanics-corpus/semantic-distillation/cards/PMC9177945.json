@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9177945",
+  "paper_id": "doi:10.3389/fbioe.2022.882631",
+  "pmcid": "PMC9177945",
+  "source_record_sha256": "c434e618a5706454d3c810b107b9acf28fe3d0ee50bad827a615d4c7b244ab41",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d62095edfb1f7199b94bc962fbc7b628bda826ffc2a77c2b12e3704dbe895e69",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Effects of 3D-Printed Bioceramic Scaffolds With Porous Gradient Structures on the Regeneration of Alveolar Bone Defect: A Comprehensive Study",
+    "authors": "Yang Z, Wang C, Gao H, Jia L, Zeng H, Zheng L, Wang C, Zhang H, Wang L, Song J, Fan Y.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.882631",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

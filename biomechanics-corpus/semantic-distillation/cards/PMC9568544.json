@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9568544",
+  "paper_id": "doi:10.1038/s41598-022-22292-z",
+  "pmcid": "PMC9568544",
+  "source_record_sha256": "da13e385553a6f17c778f88932d79722b2ac88c3848c7112a7b4d4a89cf2ce69",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b6e12ffba5332c0a30f25b771a3268138bd7d5e08f64f87cf0c481ef46da29f5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication of a lattice structure with periodic open pores through three-dimensional printing for bone ingrowth",
+    "authors": "Park JW, Park H, Kim JH, Kim HM, Yoo CH, Kang HG.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-22292-z",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6641476",
+  "paper_id": "doi:10.2106/jbjs.18.00892",
+  "pmcid": "PMC6641476",
+  "source_record_sha256": "384ddaa975d874c26bbd141be620d17d116afa111dfd04da060f5a3ecb143c73",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8406548c1b076b65a535c86ce662da546fafc22ecab977c8ca6b0a73c19dda0b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Novel Treatment for Anterior Shoulder Instability",
+    "authors": "Willemsen K, Berendes TD, Geurkink T, Bleys RLAW, Leeflang MA, Weinans H, Castelein RM, Nelissen RGHH, van der Wal BCH.",
+    "year": 2019,
+    "journal": "The Journal of Bone and Joint Surgery. American Volume",
+    "doi": "10.2106/jbjs.18.00892",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

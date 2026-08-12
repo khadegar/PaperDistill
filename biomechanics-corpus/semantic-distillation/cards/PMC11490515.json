@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11490515",
+  "paper_id": "doi:10.1007/s00264-024-06289-z",
+  "pmcid": "PMC11490515",
+  "source_record_sha256": "effafa9c88ff1a088dc6efaf9e9effd932bb88e1b927341a3ab590a176be8b87",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "13f7eb581656c1f3d86536df1a2b357e9d8c7bda93f8339eb1195d024b46790f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Long-term follow-up of bone density changes in total hip arthroplasty: comparative analysis from a randomized controlled trial of a porous titanium construct shell vs. a porous coated shell",
+    "authors": "Axenhus M, Salemyr M, Mukka S, Magnéli M, Sköldenberg O.",
+    "year": 2024,
+    "journal": "International Orthopaedics",
+    "doi": "10.1007/s00264-024-06289-z",
+    "publication_type": "Comparative Study; Research Support, Non-U.S. Gov't; research-article; Randomized Controlled Trial; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

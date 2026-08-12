@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7980203",
+  "paper_id": "doi:10.1002/sctm.20-0234",
+  "pmcid": "PMC7980203",
+  "source_record_sha256": "2524079c88eca9795467d3ef76683bc90ae713a24164ed46731ae948dd78017b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bf35cec7a5180e56e4215045390d341acb6de12ec7aff861493d69b6939331a6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of concentrated fresh mononuclear cells and cultured mesenchymal stem cells from bone marrow for bone regeneration",
+    "authors": "Du F, Wang Q, Ouyang L, Wu H, Yang Z, Fu X, Liu X, Yan L, Cao Y, Xiao R.",
+    "year": 2020,
+    "journal": "Stem Cells Translational Medicine",
+    "doi": "10.1002/sctm.20-0234",
+    "publication_type": "Comparative Study; Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

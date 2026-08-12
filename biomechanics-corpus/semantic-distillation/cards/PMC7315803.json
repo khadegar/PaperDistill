@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7315803",
+  "paper_id": "doi:10.12659/msm.922050",
+  "pmcid": "PMC7315803",
+  "source_record_sha256": "263eeef4110581d4cc8c5fc9e3bc0d8da9cf08c9771bd83f7f596707a176b29e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "861f618332501fac4af05e16c5e7482dc64f81282edab0829bd5945ee81ddaec",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative Three-Dimensional Finite Element Analysis of 4 Kinds of Pedicle Screw Schemes for Treatment of Adult Degenerative Scoliosis",
+    "authors": "Zhou Y, Xin D, Lei Z, Zuo Y, Zhao Y.",
+    "year": 2020,
+    "journal": "Medical Science Monitor : International Medical Journal of Experimental and Clinical Research",
+    "doi": "10.12659/msm.922050",
+    "publication_type": "Comparative Study; research-article; Journal Article; Case Reports",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

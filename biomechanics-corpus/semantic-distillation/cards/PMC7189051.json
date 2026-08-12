@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7189051",
+  "paper_id": "doi:10.1111/os.12643",
+  "pmcid": "PMC7189051",
+  "source_record_sha256": "a035a60fd0ce39da3ad034d4352a0e049af9245cef78b30399ec1b2aa199a6ad",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8d162bf8f93ff83270c87525a13644154a1f1132720200e8081f3088455d7663",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Treatment of Thoracolumbar Fractures Through Different Short Segment Pedicle Screw Fixation Techniques: A Finite Element Analysis",
+    "authors": "Wang TN, Wu BL, Duan RM, Yuan YS, Qu MJ, Zhang S, Huang W, Liu T, Yu XB.",
+    "year": 2020,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.12643",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

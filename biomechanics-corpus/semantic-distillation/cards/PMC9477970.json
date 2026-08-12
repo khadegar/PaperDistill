@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9477970",
+  "paper_id": "doi:10.1016/j.bioactmat.2022.08.009",
+  "pmcid": "PMC9477970",
+  "source_record_sha256": "3ad227dd9fe9b464972ce5f823c3d298ed21fd87795de6183a68d38b294a89d5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c32f5636b259697d7aefa5d2caa37b835b8360a9097d954d46c7ceb8bac2aab5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Injectable nanofiber-reinforced bone cement with controlled biodegradability for minimally-invasive bone regeneration",
+    "authors": "Cai P, Lu S, Yu J, Xiao L, Wang J, Liang H, Huang L, Han G, Bian M, Zhang S, Zhang J, Liu C, Jiang L, Li Y.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2022.08.009",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

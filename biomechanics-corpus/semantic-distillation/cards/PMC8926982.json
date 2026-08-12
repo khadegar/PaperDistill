@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8926982",
+  "paper_id": "doi:10.1111/os.13220",
+  "pmcid": "PMC8926982",
+  "source_record_sha256": "bb094c8263384cfa37e63ba6af241f7ad69126d7430e3214ac33708b2685273b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "96c6e3109226dfd7a3e73508bdb630d3e232e3df7bb764e0ed3c1525fa444694",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of a New Type of Spinal Protection Device for the Prevention and Treatment of Osteoporotic Vertebral Compression Fractures",
+    "authors": "Che M, Wang Y, Zhao Y, Zhang S, Yu J, Gong W, Zhang D, Liu M.",
+    "year": 2022,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13220",
+    "publication_type": "other; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

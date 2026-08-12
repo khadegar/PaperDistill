@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10452435",
+  "paper_id": "doi:10.3390/biomedicines11082229",
+  "pmcid": "PMC10452435",
+  "source_record_sha256": "a54512749220cc525fc6401aaf0c3a5ba21dd3b383c65ad6250ee86fb773403a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "01ceac96d746ba1add352ce41b9160fa3bfb0718f85cadab941054f45e005c8a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of Autografts and Biodegradable 3D-Printed Composite Scaffolds with Osteoconductive Properties for Tissue Regeneration in Bone Tuberculosis",
+    "authors": "Vinogradova TI, Serdobintsev MS, Korzhikova-Vlakh EG, Korzhikov-Vlakh VA, Kaftyrev AS, Blum NM, Semenova NY, Esmedlyaeva DS, Dyakova ME, Nashchekina YA, Dogonadze MZ, Zabolotnykh NV, Yablonsky PK.",
+    "year": 2023,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines11082229",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

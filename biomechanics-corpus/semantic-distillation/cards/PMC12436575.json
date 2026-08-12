@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12436575",
+  "paper_id": "doi:10.1007/s11517-025-03370-6",
+  "pmcid": "PMC12436575",
+  "source_record_sha256": "673ac462a4d116845429894874ecb4569385b0cefc5c4d14643f9c7c3269baaa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9d06fefeeb28d32ea57097d6c938e29bc211b2415fd5db6ab8d151b6afe0dc2f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Prediction of bone ingrowth into the porous swelling bone anchors using an osteoconnectivity-based adaptive finite element algorithm",
+    "authors": "Sadighi A, Black N, Taheri M, Taghvaei M, Siegler S, Schaer TP, Najafi AR.",
+    "year": 2025,
+    "journal": "Medical & Biological Engineering & Computing",
+    "doi": "10.1007/s11517-025-03370-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

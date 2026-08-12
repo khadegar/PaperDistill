@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12522717",
+  "paper_id": "doi:10.1016/j.bioactmat.2025.09.026",
+  "pmcid": "PMC12522717",
+  "source_record_sha256": "4af8e0e698c56964de52c5e22227a7225668f03f09815d5d3ec3da299ae2ce27",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "373a2f7a67ca1d892b3733ccc642f4f33b5dd5a248b8f72af8b937c1d25059f0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Topology-optimized melt-electrowritten PCL patch for abdominal wall reconstruction",
+    "authors": "Liu Y, von Witzleben M, Duin S, Bernhardt A, Gelinsky M.",
+    "year": 2025,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2025.09.026",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

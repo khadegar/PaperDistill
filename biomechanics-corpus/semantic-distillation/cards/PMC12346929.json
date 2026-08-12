@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12346929",
+  "paper_id": "doi:10.3390/jcm14155377",
+  "pmcid": "PMC12346929",
+  "source_record_sha256": "cb15642aa86300d1751d342c5ac7687cdb5e3d2daab3ea45563608704d4e4e87",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bdd2453c3206b7e5d78d481b808db7eec51d63d57839ee339d41f07763ec4d1d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Utility of Enabling Technologies in Spinal Deformity Surgery: Optimizing Surgical Planning and Intraoperative Execution to Maximize Patient Outcomes",
+    "authors": "Kim NC, Johnson E, DeWald C, Lee N, Wang TY.",
+    "year": 2025,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm14155377",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

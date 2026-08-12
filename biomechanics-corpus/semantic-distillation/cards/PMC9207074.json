@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9207074",
+  "paper_id": "doi:10.1016/j.amsu.2022.103837",
+  "pmcid": "PMC9207074",
+  "source_record_sha256": "4f5499b6755e745d86a62b96c5799c2b448d03f8de94369ea2f194582e115c33",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b6ad7b4df5f91b39e8bebec470deb496f64c07da043c4a4718447596b6413c2e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Facial defects reconstruction by titanium mesh bending using 3D printing technology: A report of two cases",
+    "authors": "Mayo W, Mohamad AH, Zazo H, Zazo A, Alhashemi M, Meslmany A, Haddad B.",
+    "year": 2022,
+    "journal": "Annals of Medicine and Surgery",
+    "doi": "10.1016/j.amsu.2022.103837",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

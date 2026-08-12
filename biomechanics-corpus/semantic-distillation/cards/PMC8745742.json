@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8745742",
+  "paper_id": "doi:10.3390/ijms23010558",
+  "pmcid": "PMC8745742",
+  "source_record_sha256": "be8355911d6f59111225adc6e6ea5e4afb8e18bb9e9618244ab7fa0ac40f4483",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a6ab34b6aa4267532b073bdca12eb300dda186fb1cc07d8cbbaaf4f485b706e1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Metformin-Incorporated Gelatin/Nano-Hydroxyapatite Scaffolds Promotes Bone Regeneration in Critical Size Rat Alveolar Bone Defect Model",
+    "authors": "Fang CH, Sun CK, Lin YW, Hung MC, Lin HY, Li CH, Lin IP, Chang HC, Sun JS, Chang JZ.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms23010558",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

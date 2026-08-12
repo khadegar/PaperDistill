@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8586786",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.07.016",
+  "pmcid": "PMC8586786",
+  "source_record_sha256": "2f8df85e8bedfd9951b9a02c5a465d7fb5a7d79c331a57f56ca2d37ec23eb9f6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "62f333d8faeed364684d1aa34a28e825d61b00d927b1ceecfc97c531595ccce5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Silicified collagen scaffold induces semaphorin 3A secretion by sensory nerves to improve in-situ bone regeneration",
+    "authors": "Ma YX, Jiao K, Wan QQ, Li J, Liu MY, Zhang ZB, Qin W, Wang KY, Wang YZ, Tay FR, Niu LN.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.07.016",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9529715",
+  "paper_id": "doi:10.1007/s10856-022-06691-2",
+  "pmcid": "PMC9529715",
+  "source_record_sha256": "3d2a7adc12565f25b02e501f112341fcfe0b1efabd82185faef8afb47ddf648e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7bec6ab2cc1a1239e9d07a85514063448d60bc1b798a063573e5053f76950498",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Implantation of heat treatment Ti6al4v alloys in femoral bone of Wistar rats",
+    "authors": "Chávez Díaz MP, Henche SA, Yanchuck MR, de Arriba CC, Sierra RC, Rincón MLE, Hallen JM.",
+    "year": 2022,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-022-06691-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

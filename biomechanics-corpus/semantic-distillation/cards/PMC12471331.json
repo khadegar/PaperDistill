@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12471331",
+  "paper_id": "doi:10.3390/ma18184399",
+  "pmcid": "PMC12471331",
+  "source_record_sha256": "0acdaa1fa26af62b29f056cb46ad413aadf2939f6569df7fcb8b0ba72033d389",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "83a54b7a89a710c1b585f11f0e0c0732e1b7197b11ee3242a57135a6849f1765",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Porosity Gradient Distribution on Mechanical and Biological Properties of Gyroid-Based Zn-2Mg Scaffolds for Bone Tissue Engineering",
+    "authors": "Chen S, Liao K, Yang Y, Chen H, Huang R.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18184399",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10646965",
+  "paper_id": "doi:10.1021/acs.biomac.3c00532",
+  "pmcid": "PMC10646965",
+  "source_record_sha256": "a079951733d787d8d4fc5a487067cb3c5b87e79dcd79fb217e43c9ddb0ca138a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "374136cd7e476283d270670a1e98b8f348a7c021791b36b3fb848a02cd86976d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Versatile Biodegradable Poly(acrylic acid)-Based Hydrogels Infiltrated in Porous Titanium Implants to Improve the Biofunctional Performance",
+    "authors": "Martínez G, Begines B, Pajuelo E, Vázquez J, Rodriguez-Albelo LM, Cofini D, Torres Y, Alcudia A.",
+    "year": 2023,
+    "journal": "Biomacromolecules",
+    "doi": "10.1021/acs.biomac.3c00532",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

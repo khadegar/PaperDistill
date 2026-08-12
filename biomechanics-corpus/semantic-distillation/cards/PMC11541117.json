@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11541117",
+  "paper_id": "doi:10.1111/os.14178",
+  "pmcid": "PMC11541117",
+  "source_record_sha256": "78e3720c99f56523c39060ff83ff56b2437c913593995b74d7cd79d7d320bcfa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4c9c29f12e09342b621710400f54a64c7ea2e23e8330997d49c4cdf528c0e80c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Randomized Controlled Trial of a Novel Cementless vs. Cemented Total Knee Arthroplasty: Early Clinical and Radiographic Outcomes",
+    "authors": "Zhao E, Zhu X, Tang H, Luo Z, Zeng W, Zhou Z.",
+    "year": 2024,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.14178",
+    "publication_type": "Comparative Study; research-article; Randomized Controlled Trial; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

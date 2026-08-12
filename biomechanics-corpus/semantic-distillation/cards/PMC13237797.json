@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13237797",
+  "paper_id": "doi:10.1302/2046-3758.156.bjr-2025-0565.r1",
+  "pmcid": "PMC13237797",
+  "source_record_sha256": "da1fc19f97d11e148ee380a9c63911480f79a2444e5ace152d0b0d177459a5ff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "83fb642ffeb272443527f0787ad23124060d81f7c12ec7887a487abeb00b002d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient-specific implants for joint-sparing reconstruction of segmental tibial and femoral defects",
+    "authors": "Buist ML, IJpma FFA, van Wees S, Meesters AML, Assink N, Jutte PC.",
+    "year": 2026,
+    "journal": "Bone & Joint Research",
+    "doi": "10.1302/2046-3758.156.bjr-2025-0565.r1",
+    "publication_type": "research-article; Systematic Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

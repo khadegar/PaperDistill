@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10366319",
+  "paper_id": "doi:10.1007/s10856-023-06733-3",
+  "pmcid": "PMC10366319",
+  "source_record_sha256": "3d2e8d28a325c4c302fefe12ddc47b6cf884287dcb735d465d0688f632f512a1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b735e9903a05d8765250465a0fbab280a8f57269e4686c244014659ee2fee819",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Beta-TCP scaffolds with rationally designed macro-micro hierarchical structure improved angio/osteo-genesis capability for bone regeneration",
+    "authors": "Feng J, Liu J, Wang Y, Diao J, Kuang Y, Zhao N.",
+    "year": 2023,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-023-06733-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

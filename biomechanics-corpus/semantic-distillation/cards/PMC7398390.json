@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7398390",
+  "paper_id": "doi:10.1007/s00784-018-2661-1",
+  "pmcid": "PMC7398390",
+  "source_record_sha256": "22f6744bc9ce74a22d3c50bfa7f856139af09df93418c08ce5da8cbc2223f89c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0b185e7bb7a8e057baeb8ae86218b7a7ae6620faca96e2f3d90a0acb27ebf6bd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of a quantitative preclinical screening model for implant osseointegration in rat tail vertebra",
+    "authors": "Farkasdi S, Pammer D, Rácz R, Hriczó-Koperdák G, Szabó BT, Dobó-Nagy C, Kerémi B, Blazsek J, Cuisinier F, Wu G, Varga G.",
+    "year": 2018,
+    "journal": "Clinical Oral Investigations",
+    "doi": "10.1007/s00784-018-2661-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

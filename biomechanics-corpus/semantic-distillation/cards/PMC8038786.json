@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8038786",
+  "paper_id": "doi:10.3390/ijms22073800",
+  "pmcid": "PMC8038786",
+  "source_record_sha256": "f8098c5a80f1585ae1d3eedb6b44fb2333407f2d171fffc3c556136df4d8a8bc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "920d40b8dc7912675d458b768d01a89c5a9bc7f88b26d83604bc97567b2e43a1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Antibacterial Titanium Implants Biofunctionalized by Plasma Electrolytic Oxidation with Silver, Zinc, and Copper: A Systematic Review",
+    "authors": "van Hengel IAJ, Tierolf MWAM, Fratila-Apachitei LE, Apachitei I, Zadpoor AA.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms22073800",
+    "publication_type": "Systematic Review; review-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

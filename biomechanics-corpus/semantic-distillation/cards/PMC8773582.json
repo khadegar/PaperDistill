@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8773582",
+  "paper_id": "doi:10.3390/bios12010004",
+  "pmcid": "PMC8773582",
+  "source_record_sha256": "dd6eb1972211e350bbbdcee8996dd9d696f6179ef7c7c11255f74cba201f3049",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b3056389f1bfed6635daccbb35c8ab53421e9a72fb077d04c80418ef2e3d47f0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis and Design Method for Patient-Specific Reconstructive Implants for Large Bone Defects of the Distal Lateral Femur",
+    "authors": "Wu PK, Lee CW, Sun WH, Lin CL.",
+    "year": 2021,
+    "journal": "Biosensors",
+    "doi": "10.3390/bios12010004",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

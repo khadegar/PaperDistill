@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4330039",
+  "paper_id": "doi:10.2147/ijn.s78138",
+  "pmcid": "PMC4330039",
+  "source_record_sha256": "b532c93f51775570567e4374abc1497b13bbe811f1366d1a74ed85e87fa363e5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "31bf394772a67f48c8b4963d3442e89f3eeade2c27bb6a65adccc01af1b0b7da",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Improved osseointegration of dental titanium implants by TiO 2 nanotube arrays with recombinant human bone morphogenetic protein-2: a pilot in vivo study",
+    "authors": "Lee JK, Choi DS, Jang I, Choi WY.",
+    "year": 2015,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s78138",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

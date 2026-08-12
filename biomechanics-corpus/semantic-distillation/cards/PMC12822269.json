@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12822269",
+  "paper_id": "doi:10.1186/s13005-025-00549-y",
+  "pmcid": "PMC12822269",
+  "source_record_sha256": "750e882fcdc4f0317ab8794ea4dc2714933e74610afea8ae9b3b7d79867d3590",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "eed716b4a429d8118544394f51463d3849cac78867ecf999a749a80220d04ad3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Innovative landing zones for one-piece, rigidly fixated patient-specific subperiosteal implants in dental rehabilitation of severe maxillary and midfacial defects",
+    "authors": "Gellrich NC, Korn P, Jehn P, Lentge F, Neuhaus MT, Rahlf B.",
+    "year": 2025,
+    "journal": "Head & Face Medicine",
+    "doi": "10.1186/s13005-025-00549-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

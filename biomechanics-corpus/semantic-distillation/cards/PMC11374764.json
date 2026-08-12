@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11374764",
+  "paper_id": "doi:10.3389/fcell.2024.1447979",
+  "pmcid": "PMC11374764",
+  "source_record_sha256": "019cbb27769b32d294898688ff89e8b9783af289a33bcd54d6d28bb0c8919ab1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c026888fa638c56061de01a6c33dd0abca34766bcdb5bfd4b06aed3dddefbf52",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Ultra-short laser processing of 3D bioceramic, porous scaffolds designed by freeze foaming method for orthopedic applications",
+    "authors": "Daskalova A, Ahlhelm M, Angelova L, Filipov E, Avdeev G, Tatchev D, Fernandes MH, Vig S, Buchvarov I.",
+    "year": 2024,
+    "journal": "Frontiers in Cell and Developmental Biology",
+    "doi": "10.3389/fcell.2024.1447979",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

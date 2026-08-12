@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8678591",
+  "paper_id": "doi:10.3389/fbioe.2021.761911",
+  "pmcid": "PMC8678591",
+  "source_record_sha256": "959c84f18e5d1282c253d55ae71f706d540bc520481343a658de9554b4eb09da",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6181415e533811ff2fb3c5ba9a0c9427665feb38de3bdb41e67010d10149231f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modifying a 3D-Printed Ti6Al4V Implant with Polydopamine Coating to Improve BMSCs Growth, Osteogenic Differentiation, and In Situ Osseointegration In Vivo",
+    "authors": "Wang H, Yuan C, Lin K, Zhu R, Zhang S.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.761911",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

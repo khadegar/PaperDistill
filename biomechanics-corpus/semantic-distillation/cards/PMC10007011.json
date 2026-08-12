@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10007011",
+  "paper_id": "doi:10.3390/polym15051087",
+  "pmcid": "PMC10007011",
+  "source_record_sha256": "7a3e6b5414df951b9ef21b9893af42d9febddddc6a50db172ac137c2f83c4ec5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4c3c2c298e9c214d4e8a079b218dceceb1cff32ccaba7b8a9b777edcf2d4478b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Geopolymer Materials for Bone Tissue Applications: Recent Advances and Future Perspectives",
+    "authors": "Ricciotti L, Apicella A, Perrotta V, Aversa R.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15051087",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

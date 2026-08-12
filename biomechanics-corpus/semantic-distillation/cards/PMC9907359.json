@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9907359",
+  "paper_id": "doi:10.3389/fbioe.2022.1098923",
+  "pmcid": "PMC9907359",
+  "source_record_sha256": "ac34e9d06e24a530cc851c6eb79112db4fa8a37c2ad0539c5979058d9ada68ba",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4ae98f5cb05bb465d4534d328c23f3df15c439a010eb7390747c052ce24eed03",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bismuth-coated 80S15C bioactive glass scaffolds for photothermal antitumor therapy and bone regeneration",
+    "authors": "Du J, Ding H, Fu S, Li D, Yu B.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1098923",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

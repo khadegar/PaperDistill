@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10466841",
+  "paper_id": "doi:10.1186/s12891-023-06792-1",
+  "pmcid": "PMC10466841",
+  "source_record_sha256": "ac035c4010a9d0e2143b461c0ac43c04ef2d01dabf92bf2d257bd7de2ea331c3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bb4d4f63cd7ac550343aad5ccaef2721a3212f4c81c1ab06fa87653b55c16525",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical properties of lumbar vertebral ring apophysis cage under endplate injury: a finite element analysis",
+    "authors": "Wang J, Geng Z, Wu J, Liu J, Zhang Z, Miao J, Li R.",
+    "year": 2023,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-023-06792-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

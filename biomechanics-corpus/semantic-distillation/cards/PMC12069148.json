@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12069148",
+  "paper_id": "doi:10.1007/s00068-025-02871-1",
+  "pmcid": "PMC12069148",
+  "source_record_sha256": "12665411cc7eada1871ca6547a836964ee4e315ff42ec14304fdf76cf3d815ca",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3c9b818013a82cf21d48e37adde376fcd25c76feb620a0e2cecfa3f4c01cc72f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evolving fracture management: the role of helical plating in orthopaedic trauma surgery – a narrative review",
+    "authors": "Kraus M, Gueorguiev B, Pastor T, Zderic I, Lenz M, Knobe M, Beeres FJP, Richards RG, Pape HC, Pastor T.",
+    "year": 2025,
+    "journal": "European Journal of Trauma and Emergency Surgery",
+    "doi": "10.1007/s00068-025-02871-1",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

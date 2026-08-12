@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7597801",
+  "paper_id": "doi:10.1093/rb/rbaa015",
+  "pmcid": "PMC7597801",
+  "source_record_sha256": "54fd219d16baa1903f52bc62ba0e63f99c2a0c68fdbe4595b5b43eef9eac7b59",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e60948e2835750d265aabe5507f965693ce10e7ddf38ae0501a8376869c6a18e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of an antimicrobial peptide-loaded mineralized collagen bone scaffold for infective bone defect repair",
+    "authors": "He Y, Jin Y, Ying X, Wu Q, Yao S, Li Y, Liu H, Ma G, Wang X.",
+    "year": 2020,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbaa015",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

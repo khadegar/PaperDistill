@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7587946",
+  "paper_id": "doi:10.3390/ijms21207438",
+  "pmcid": "PMC7587946",
+  "source_record_sha256": "5e3b246aba55b3bff76a1173bfe90c86c2561c7c47e176a2718fd518fc1e7594",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e64c53e80171e037a4a5851cda01582419dac11a3eb2a8fc7217346c9b47c899",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigation of Bone Growth in Additive-Manufactured Pedicle Screw Implant by Using Ti-6Al-4V and Bioactive Glass Powder Composite",
+    "authors": "Lam TN, Trinh MG, Huang CC, Kung PC, Huang WC, Chang W, Amalia L, Chin HH, Tsou NT, Shih SJ, Chen SY, Wang CC, Tsai PI, Wu MH, Huang EW.",
+    "year": 2020,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms21207438",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

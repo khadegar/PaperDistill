@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13177044",
+  "paper_id": "doi:10.1021/acsomega.5c12946",
+  "pmcid": "PMC13177044",
+  "source_record_sha256": "6367fc0753631eb0c218e3a8b42ba7f7281db741731b9cabd7d0339144469a72",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4588599252e0d4ef25e114e4cb302215f0284003284cc414508515aebb283220",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Response Analysis of Scaffold Implantation in Mandibular Defects and Research on Scaffold Selection",
+    "authors": "Gao L, Wang Z, Lin X, Zhang C, Liu J, Tan Y, Sun K.",
+    "year": 2026,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.5c12946",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

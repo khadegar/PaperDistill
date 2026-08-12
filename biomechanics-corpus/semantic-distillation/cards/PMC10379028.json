@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10379028",
+  "paper_id": "doi:10.3390/gels9070588",
+  "pmcid": "PMC10379028",
+  "source_record_sha256": "b719fe7ec1734c4b09f8bf09f80162c92905aee03555c0dc48fe3431971b09c8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "80cd75f7cbba3ffa381e0c0a656ec431348489b454e14b03531d49bfb8f6c4ff",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent Progress in Hyaluronic-Acid-Based Hydrogels for Bone Tissue Engineering",
+    "authors": "Hwang HS, Lee CS.",
+    "year": 2023,
+    "journal": "Gels",
+    "doi": "10.3390/gels9070588",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

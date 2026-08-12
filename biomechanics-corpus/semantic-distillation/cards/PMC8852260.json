@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8852260",
+  "paper_id": "doi:10.18063/ijb.v8i1.502",
+  "pmcid": "PMC8852260",
+  "source_record_sha256": "69fa53e919ad35e3ab576e63f0fdb525158798adbc66b438ed9b893e0314ab11",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ae578797650ca509955c200ee13bdcba453cdcb03d37f4f8877529e337be5517",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Nano-Hydroxyapatite Bone Scaffolds with Different Porous Structures Processed by Digital Light Processing 3D Printing",
+    "authors": "Liang H, Wang Y, Chen S, Liu Y, Liu Z, Bai J.",
+    "year": 2022,
+    "journal": "International Journal of Bioprinting",
+    "doi": "10.18063/ijb.v8i1.502",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

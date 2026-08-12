@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9988479",
+  "paper_id": "doi:10.1016/j.bioactmat.2023.02.020",
+  "pmcid": "PMC9988479",
+  "source_record_sha256": "4fb79f038aadebfb1ce9b9c7c1a4a241008b8de6f2ad458b8af352e7ce993619",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5221144827eddbd6220af9a9a9ed14abfe915eb4ffa21113b9d06f1670cf1f91",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A gel microparticle-based self-thickening strategy for 3D printing high-modulus hydrogels skeleton cushioned with PNAGA hydrogel mimicking anisotropic mechanics of meniscus",
+    "authors": "Xu Z, Zhang Q, Fan C, Xiao M, Yang R, Yao Y, Wu Y, Nie X, Wang H, Liu W.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2023.02.020",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

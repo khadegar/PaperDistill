@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8235743",
+  "paper_id": "doi:10.3390/cells10061514",
+  "pmcid": "PMC8235743",
+  "source_record_sha256": "d23723608302c25c574da732a9ac597202bfca0c938d16164b60640f14ef7207",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c79491aa5de9fac37b4afd6813a5e4110183d0423898a5da6fed088d541bedce",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of Macro-/Micro-Channels on Vascularization and Immune Response of Tissue Engineering Scaffolds",
+    "authors": "Wen N, Qian E, Kang Y.",
+    "year": 2021,
+    "journal": "Cells",
+    "doi": "10.3390/cells10061514",
+    "publication_type": "review-article; Review; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8309464",
+  "paper_id": "doi:10.3390/polym13142222",
+  "pmcid": "PMC8309464",
+  "source_record_sha256": "9e23da247f78a94e094e2f79a964fae460f6601a61c0116cccafe5445c50c098",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3a1a1b70cf5e3d17a9662ad5260d566a13df51d7057a4a0a84c80f724ac65b0c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of 3D-Printing Scaffold Fabrication on Biosynthetic Medium-Chain-Length Polyhydroxyalkanoate Terpolyester as Biomaterial-Ink",
+    "authors": "Panaksri A, Tanadchangsaeng N.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13142222",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

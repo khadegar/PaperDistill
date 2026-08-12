@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9479173",
+  "paper_id": "doi:10.3389/fendo.2022.961761",
+  "pmcid": "PMC9479173",
+  "source_record_sha256": "111d31253481f173d0bc8d11554c99bca31b76bcf212f5dfda6a39eba68b39d8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6db11dfcd586d4fccd83fc6d304584deaecbb8e21b18c8dd1ed2a2b8b7c5a939",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fracture risk assessment in diabetes mellitus",
+    "authors": "Chen W, Mao M, Fang J, Xie Y, Rui Y.",
+    "year": 2022,
+    "journal": "Frontiers in Endocrinology",
+    "doi": "10.3389/fendo.2022.961761",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

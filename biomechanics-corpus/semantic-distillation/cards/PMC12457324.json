@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12457324",
+  "paper_id": "doi:10.3389/fbioe.2025.1684481",
+  "pmcid": "PMC12457324",
+  "source_record_sha256": "35451816c3290670bf706808c4e95d79a22b31e00c5c8aad605743e90545f8b9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "31c7b7b386f0149f49e30521f8a81e20446f76866b16b4ed9318e17b9bbd0b19",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative review: clinical and pathological heterogeneity in knee versus temporomandibular joint osteoarthritis",
+    "authors": "Zhao J, Wang R, Zhu S, Li Z, Ren R, Jiang N.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1684481",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

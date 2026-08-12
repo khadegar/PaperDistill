@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8252697",
+  "paper_id": "doi:10.1007/s40883-021-00219-w",
+  "pmcid": "PMC8252697",
+  "source_record_sha256": "de5d90877b4cb2066776f2bc68c4e95632ab71973f5d3de0c0a66bcc528b0572",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "db03fbf29db9204addfd2e3e6dd5babf00e2bc4a3c7d8a9ce95a420a13c96a59",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing: Advancement in Biogenerative Engineering to Combat Shortage of Organs and Bioapplicable Materials",
+    "authors": "Parihar A, Pandita V, Kumar A, Parihar DS, Puranik N, Bajpai T, Khan R.",
+    "year": 2021,
+    "journal": "Regenerative Engineering and Translational Medicine",
+    "doi": "10.1007/s40883-021-00219-w",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

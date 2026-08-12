@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10634439",
+  "paper_id": "doi:10.3389/fbioe.2023.1224557",
+  "pmcid": "PMC10634439",
+  "source_record_sha256": "652f53da9dd2fc4229f87231d0f69f515eaeab844c3535434fc7afe983c729f4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dc3090affea6e130155105cf0721f2d1c468765ee39974c28fdfacb0d92b0bbd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Calcium sulfate-Cu 2+ delivery system improves 3D-Printed calcium silicate artificial bone to repair large bone defects",
+    "authors": "Gao S, Li J, Lei Q, Chen Y, Huang H, Yan F, Xiao L, Zhang T, Wang L, Wei R, Hu C.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1224557",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10741217",
+  "paper_id": "doi:10.3390/bioengineering10121397",
+  "pmcid": "PMC10741217",
+  "source_record_sha256": "c8f227aa2c8734ec8a8245a5f936efdc84b3d8793911b730fdf608086aa0171d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c82cf321f42cca905da3b61918ff5694a6150caaf325d94386c4b9d139f4c951",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Effect of Cerclage Banding Distally to a Clamshell Fracture Pattern in Total Hip Arthroplasty—A Biomechanical Study",
+    "authors": "Kastner P, Zderic I, Gueorguiev B, Pastor T, Luger M, Gotterbarm T, Schopper C.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10121397",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11351140",
+  "paper_id": "doi:10.3390/bioengineering11080817",
+  "pmcid": "PMC11351140",
+  "source_record_sha256": "0dfd3f5ede762640d484ab77a37e784a6835fae1a55b9909cd5050e5cd67cdfa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d38b215474b0c3758af497045acf28055d2debd654d8728b970817dcde97a922",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Toward Fully Automated Personalized Orthopedic Treatments: Innovations and Interdisciplinary Gaps",
+    "authors": "Luo Y.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11080817",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

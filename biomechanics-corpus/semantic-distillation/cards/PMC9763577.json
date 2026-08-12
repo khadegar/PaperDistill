@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9763577",
+  "paper_id": "doi:10.3389/fbioe.2022.1075574",
+  "pmcid": "PMC9763577",
+  "source_record_sha256": "e588da0592e7c067d35b3a8ae3f3b07134d8276a578bd60680a538f232bc29c4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "47e765b56258973eab2cf37f8a95d0f7dd47aed759e8fdd326d5e3110de69609",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Endplate volumetric bone mineral density biomechanically matched interbody cage",
+    "authors": "Weng Y, Di M, Wu T, Ma X, Yang Q, Lu WW.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1075574",
+    "publication_type": "brief-report; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

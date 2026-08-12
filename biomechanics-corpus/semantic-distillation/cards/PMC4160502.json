@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4160502",
+  "paper_id": "doi:10.1007/s11999-014-3695-6",
+  "pmcid": "PMC4160502",
+  "source_record_sha256": "ddb3fc80c2733cb6cfeeea783af2a100ee6754cfedf1fb4c40874a3820b103a4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f9f5b975ea5a724a3bf69e3764d419c14372d9e2511737678d0a10a116347751",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Implant Survival, Adverse Events, and Bone Remodeling of Osseointegrated Percutaneous Implants for Transhumeral Amputees",
+    "authors": "Tsikandylakis G, Berlin Ö, Brånemark R.",
+    "year": 2014,
+    "journal": "Clinical Orthopaedics and Related Research",
+    "doi": "10.1007/s11999-014-3695-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

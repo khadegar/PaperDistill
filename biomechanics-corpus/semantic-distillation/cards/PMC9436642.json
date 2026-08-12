@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9436642",
+  "paper_id": "doi:10.5051/jpis.2105720286",
+  "pmcid": "PMC9436642",
+  "source_record_sha256": "211504655b734d7cc6a3c0c8d1b25e02c7171dca655d9cb5b784c446cb799a62",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f7549567c4f491878975f1a377dcccbbc1e60a88943799e3060a2f78a1b135bd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of lattice versus solid structure of 3D-printed multiroot dental implants using Ti-6Al-4V: a preclinical pilot study",
+    "authors": "Lee J, Li L, Song HY, Son MJ, Lee YM, Koo KT.",
+    "year": 2022,
+    "journal": "Journal of Periodontal & Implant Science",
+    "doi": "10.5051/jpis.2105720286",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

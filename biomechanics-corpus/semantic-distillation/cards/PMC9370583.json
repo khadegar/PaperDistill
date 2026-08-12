@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9370583",
+  "paper_id": "doi:10.3390/molecules27155020",
+  "pmcid": "PMC9370583",
+  "source_record_sha256": "bc1907835ad561153b8c163488f54aa42f71b34bf9dacbd1ca7b32268b45171c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "41a52874d362a0414b718c6980f873471ed269d433d811ba4302e7243bea745b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Microwave-Assisted Hydrothermal Rapid Synthesis of Ultralong Hydroxyapatite Nanowires Using Adenosine 5′-Triphosphate",
+    "authors": "Zhang Y, Zhu YJ, Yu HP.",
+    "year": 2022,
+    "journal": "Molecules",
+    "doi": "10.3390/molecules27155020",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

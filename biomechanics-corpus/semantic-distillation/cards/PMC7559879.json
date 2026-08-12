@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7559879",
+  "paper_id": "doi:10.3390/biomimetics5030037",
+  "pmcid": "PMC7559879",
+  "source_record_sha256": "9a5bebcecd2450d88c30faf162611ff4d1cb2b1c0a27727a7fdf17dfb255e3a0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e02f6b040621bfa01ec705e1a0684b0a6f73bac3409e82d44d6fc53ec86f9b8f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis Investigate Pulmonary Autograft Root and Leaflet Stresses to Understand Late Durability of Ross Operation",
+    "authors": "Nappi F, Nenna A, Lemmo F, Chello M, Chachques JC, Acar C, Larobina D.",
+    "year": 2020,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics5030037",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

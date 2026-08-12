@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12634577",
+  "paper_id": "doi:10.3389/fbioe.2025.1688915",
+  "pmcid": "PMC12634577",
+  "source_record_sha256": "8b61c2a9265e0bf53c413af8bbb6d5185d6995066259d69a8ebc06dab1345bbe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a8011215d9571ceba5bd85747f689a7f5f86df3cac4da6a06d73bfce4493943d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical optimization study of posterior tilt extension stems in the repair of tibial plateau bone defects",
+    "authors": "Wang Y, Hao R, Guo L, Zhou X.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1688915",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9868148",
+  "paper_id": "doi:10.3389/fbioe.2022.1036882",
+  "pmcid": "PMC9868148",
+  "source_record_sha256": "a92718de20d39d50a546a08f450c1f125dd0b7cf52e0bf66458523056f1ee12e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1c1b0c7d2f51896468ef09aa08df7d9706cb59505f60b53030474c0d5dce7ccb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reconstruction with 3D-printed prostheses after type I + II + III internal hemipelvectomy: Finite element analysis and preliminary outcomes",
+    "authors": "Guo Z, Peng Y, Shen Q, Li J, He P, Yuan P, Liu Y, Que Y, Guo W, Hu Y, Xu S.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1036882",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

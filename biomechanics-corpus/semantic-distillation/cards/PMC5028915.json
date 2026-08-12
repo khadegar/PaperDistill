@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5028915",
+  "paper_id": "doi:10.1186/s12891-016-1260-z",
+  "pmcid": "PMC5028915",
+  "source_record_sha256": "3348f2f10da40806daf22fb0c93d821de8e03e97e228f9f2a307cd3c00c2563d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "566138215b2a723beb196897e97d49236dc8bf23af7f83972759b416c0aae353",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of cementless femoral stems based on mid- and long-term radiological evaluation",
+    "authors": "Matsuyama K, Ishidou Y, Guo YM, Kakoi H, Setoguchi T, Nagano S, Kawamura I, Maeda S, Komiya S.",
+    "year": 2016,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-016-1260-z",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

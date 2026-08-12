@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7151551",
+  "paper_id": "doi:10.3390/jpm10010006",
+  "pmcid": "PMC7151551",
+  "source_record_sha256": "6b732bd83396b7018be6174d57d48423e7b6ae560d36951d1e71f0ab48a1d7a0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0f7daebe756aeb8127919714a2ef323b90e916600c178df7d422fbc25542e878",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Experimental Biointegration of a Titanium Implant in Delayed Mandibular Reconstruction",
+    "authors": "Dolgolev A, Reshetov I, Svyatoslavov D, Sinelnikov M, Kudrin K, Dub V, Put V, Anikin V.",
+    "year": 2020,
+    "journal": "Journal of Personalized Medicine",
+    "doi": "10.3390/jpm10010006",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

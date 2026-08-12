@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10849410",
+  "paper_id": "doi:10.1097/gox.0000000000005602",
+  "pmcid": "PMC10849410",
+  "source_record_sha256": "61a9c07e5a14fd14bbaadb44e54911a0761a55f405d285432f1438d0f8d06d52",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d65978ceccaf7402d66c71e2e2b8c2194dae49c9a1d2acae702a8301e49ffbe3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Utility of Thermal Imaging in Predicting Superficial Infections in Transfemoral Osseointegrated Implants",
+    "authors": "Harrington CJ, Nelson BA, Lansford JL, Rivera JA, Souza JM, Forsberg JA, Potter BK.",
+    "year": 2024,
+    "journal": "Plastic and Reconstructive Surgery Global Open",
+    "doi": "10.1097/gox.0000000000005602",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

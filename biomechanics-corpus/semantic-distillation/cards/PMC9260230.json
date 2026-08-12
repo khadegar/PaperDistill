@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9260230",
+  "paper_id": "doi:10.3389/fbioe.2022.874931",
+  "pmcid": "PMC9260230",
+  "source_record_sha256": "03b7478dc98c82788701af0b3cd44386e87c7b03e8704bbacd82323483500cc3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cf178944822d082ea291791dca5e83533c0f8d6346d3210bb983293cefea71dd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Customized Design 3D Printed PLGA/Calcium Sulfate Scaffold Enhances Mechanical and Biological Properties for Bone Regeneration",
+    "authors": "Liu T, Li Z, Zhao L, Chen Z, Lin Z, Li B, Feng Z, Jin P, Zhang J, Wu Z, Wu H, Xu X, Ye X, Zhang Y.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.874931",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

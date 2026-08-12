@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6381563",
+  "paper_id": "doi:10.1155/2019/5420752",
+  "pmcid": "PMC6381563",
+  "source_record_sha256": "553324b7fd9b1efd551ada51cd5edf8e04b214e0ff31369536e7adb54cff6d16",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1942009fee5bff865736fc76ac4245a3146820fcfb92a0e38bf513c31b3b7da4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Analysis of In Vitro Osteoblast Culture on Scaffolds for Future Bone Regeneration Purposes in Dentistry",
+    "authors": "Gutiérrez-Prieto SJ, Perdomo-Lara SJ, Diaz-Peraza JM, Sequeda-Castañeda LG.",
+    "year": 2019,
+    "journal": "Advances in Pharmacological Sciences",
+    "doi": "10.1155/2019/5420752",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13289606",
+  "paper_id": "doi:10.1093/rb/rbag090",
+  "pmcid": "PMC13289606",
+  "source_record_sha256": "44fd8fe430ab63f23cf98374b534af6d50874b250effa4cd81758b1244254150",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3d153ae58386e036181ce789eb47a578034da66ef175c54edea46b49596c7025",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Topological optimization synergized with a high-activity nano-hydroxyapatite coating to enhance bone regeneration in a porous titanium alloy scaffold",
+    "authors": "Zhao P, Jia Y, Li J, You F, Zhang K, Yuan B, Zhu X.",
+    "year": 2026,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbag090",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

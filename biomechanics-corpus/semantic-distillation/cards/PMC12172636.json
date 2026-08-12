@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12172636",
+  "paper_id": "doi:10.7759/cureus.84329",
+  "pmcid": "PMC12172636",
+  "source_record_sha256": "005c285141e5a0b9536b93b9e107bdead6e239634603537ba9a9c00854bcd7ab",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "383f64aa79e7efab2a35d2ce16fa91851bea554f0bd441b38ceddee6cf039193",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis of Angled Abutments in the Anterior Maxilla: Impact of Bone Quality and Loading Conditions Using Finite Element Analysis",
+    "authors": "Kaur J, Kumar S, Aggarwal R, Singh AR, Sharma M, Sharma R, Jenthuilu P, Nandalur KR.",
+    "year": 2025,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.84329",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

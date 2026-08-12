@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9392592",
+  "paper_id": "doi:10.1155/2022/8494431",
+  "pmcid": "PMC9392592",
+  "source_record_sha256": "6c94cb775b0e3fba0a9a2bf3d7d4d62b2440b93aa95ea9f76d9b192c0a40080f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6828714a1f27323adf6b34c4e3a1d4a9fb67c5ad379fa4db92cff7c7e94a385b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro and In Vivo Analysis of the Effects of 3D-Printed Porous Titanium Alloy Scaffold Structure on Osteogenic Activity",
+    "authors": "Xu Z, Zhang Y, Wu Y, Zhang Z, Jiang D, Jia R, Wang X, Liu Z.",
+    "year": 2022,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2022/8494431",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

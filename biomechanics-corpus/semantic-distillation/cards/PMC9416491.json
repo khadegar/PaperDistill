@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9416491",
+  "paper_id": "doi:10.3390/polym14163305",
+  "pmcid": "PMC9416491",
+  "source_record_sha256": "3036404273c9005ab4f33c4009587f11645d5883460a8ff03e2d4fd0b58bf129",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "414675df6783dda7e6587188bf246dee482388b8e4282fe3d834f30c5ca67a14",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Effect of PCL Addition on 3D-Printable PLA/HA Composite Filaments for the Treatment of Bone Defects",
+    "authors": "Åkerlund E, Diez-Escudero A, Grzeszczak A, Persson C.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14163305",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10122345",
+  "paper_id": "doi:10.1186/s40824-023-00376-9",
+  "pmcid": "PMC10122345",
+  "source_record_sha256": "f67fa8bbc9f4054d48c20496cd06aaae52ffa7445a3ba39fda5eb5c8d16453e1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d4a3413c3c54207428b129d77f14ba4298cfefb7d43b428676b2d42c19ec987b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of cell-laden multimodular Lego-like customizable endometrial tissue assembly for successful tissue regeneration",
+    "authors": "Park SR, Kook MG, Kim SR, Lee JW, Park CH, Oh BC, Jung Y, Hong IS.",
+    "year": 2023,
+    "journal": "Biomaterials Research",
+    "doi": "10.1186/s40824-023-00376-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

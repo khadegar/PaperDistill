@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12608725",
+  "paper_id": "doi:10.3390/jcm14217882",
+  "pmcid": "PMC12608725",
+  "source_record_sha256": "defa34d41a820933ba2eb056fac2bb73354da37d18f3c29327899bebecfb9336",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3a35555a3164ed80c173cdc8b61e0c73552e810561e61bbda7786cf25920c126",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "High Tibial Osteotomy (HTO), Unicompartmental Knee Arthroplasty (UKA), and Proximal Fibular Osteotomy (PFO) for Medial-Compartment Knee Osteoarthritis: A Narrative Review of Comparative Mechanisms, Clinical Outcomes, and Decision-Making",
+    "authors": "Yapıcı F.",
+    "year": 2025,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm14217882",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

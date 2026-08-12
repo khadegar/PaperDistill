@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8635194",
+  "paper_id": "doi:10.3389/fbioe.2021.749910",
+  "pmcid": "PMC8635194",
+  "source_record_sha256": "1a7cc60041cddf681f4b111d5f3807a71929cec38ab6ac7efd0883bb2edbe2d1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9c028795dd0c8012b4dea6925cecc06e200b09e6984b4beb35a5533cf747db14",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Bone-Targeting Enoxacin Delivery System to Eradicate Staphylococcus Aureus-Related Implantation Infections and Bone Loss",
+    "authors": "Yao C, Zhu M, Han X, Xu Q, Dai M, Nie T, Liu X.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.749910",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

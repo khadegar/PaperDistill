@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8847550",
+  "paper_id": "doi:10.1038/s41598-022-06267-8",
+  "pmcid": "PMC8847550",
+  "source_record_sha256": "d65d28e76a15c95217744bb679e6ff474f16cda9b5aaf0c4246c12eeecb0102d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ab716318235ba4ae2faf6e21c5bf306dd48fb2bdf477e36bdd34d13c139082e6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical duality of fracture healing captured using virtual mechanical testing and validated in ovine bones",
+    "authors": "Inglis B, Schwarzenberg P, Klein K, von Rechenberg B, Darwiche S, Dailey HL.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-06267-8",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Research Support, U.S. Gov't, Non-P.H.S.; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

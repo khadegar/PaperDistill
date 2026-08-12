@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13118223",
+  "paper_id": "doi:10.3390/jfb17040200",
+  "pmcid": "PMC13118223",
+  "source_record_sha256": "21a0c032546cb7635e5029230663a55dadfa56060d718e2477d195ad1068a9fa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6b647d1fa6b910551c3fbf2ad74ef87cc121802d4bbce6d1db6ae6adfc59fe6c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Nanotopography-Mediated Mechanotransduction Enhances hBMSCs Adhesion on TiO 2 Nanotubes",
+    "authors": "Xiong C, Feng H, Lu L, Jing Z, Wang Y, Yang Y, Meng D, Zhang Y, Li W, Cai H.",
+    "year": 2026,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb17040200",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

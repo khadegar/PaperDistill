@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11694178",
+  "paper_id": "doi:10.3390/ceramics5010004",
+  "pmcid": "PMC11694178",
+  "source_record_sha256": "3e73c270883b515646a0739f744e7e4e988fc6e7730fc2370a103e895bd76ddf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ab4661ef16b0bb68991c42b48f5c377a5c0e28453a30e896c8be33fe01dab3a2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Finite Element Analysis of Different Connector Designs for All-Ceramic Implant-Supported Fixed Dental Prostheses",
+    "authors": "Alberto LHJ, Kalluri L, Esquivel-Upshaw JF, Duan Y.",
+    "year": 2022,
+    "journal": "Ceramics",
+    "doi": "10.3390/ceramics5010004",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

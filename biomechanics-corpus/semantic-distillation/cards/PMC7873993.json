@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7873993",
+  "paper_id": "doi:10.3389/fcvm.2020.592361",
+  "pmcid": "PMC7873993",
+  "source_record_sha256": "53c9675d67abff23191f507f8aa311902164b43a155958ce8aec1a3b86564e6a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "525cfc918f4c0d3541075b3e2f0fcc36af285207efcb2cc7df2987afa74ec147",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Vascular Tissue Engineering: Polymers and Methodologies for Small Caliber Vascular Grafts",
+    "authors": "Leal BBJ, Wakabayashi N, Oyama K, Kamiya H, Braghirolli DI, Pranke P.",
+    "year": 2021,
+    "journal": "Frontiers in Cardiovascular Medicine",
+    "doi": "10.3389/fcvm.2020.592361",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

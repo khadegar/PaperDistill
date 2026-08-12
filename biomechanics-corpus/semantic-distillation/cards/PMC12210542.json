@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12210542",
+  "paper_id": "doi:10.1186/s12896-025-00983-5",
+  "pmcid": "PMC12210542",
+  "source_record_sha256": "0ebb1b0997d9030476f1d7ebdbf7527335180648b487b0ab36062f5b6c0272e2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2c55f88963c9baf2820b4c8b093d04b730c51735727147571763d78d755bb65c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Assessing bone regeneration potential of 3D scaffold-free cell pellets from periodontal ligament and bone marrow stem cells",
+    "authors": "Liang X, Gong Y, Bai L, Ahmadi S, Yu M, Zhang Z, Fang S, Xu F, Wang W, Tu J, Na S.",
+    "year": 2025,
+    "journal": "BMC Biotechnology",
+    "doi": "10.1186/s12896-025-00983-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

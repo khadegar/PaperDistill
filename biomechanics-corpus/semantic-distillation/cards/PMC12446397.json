@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12446397",
+  "paper_id": "doi:10.1007/s10143-025-03808-3",
+  "pmcid": "PMC12446397",
+  "source_record_sha256": "8dec26cb76baa217533f0b7c584029e2022753ae600da649e8ce55e24cf392ea",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6dd9a76cc87ef2e6b48a8d2dfce11f89ea975a5d7b67f7cd47d401deef761c0b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tricortical screw spinal fixation: a scoping review and introduction of technique, biomechanical advantages, and clinical outcomes in high-risk vertebral fractures",
+    "authors": "Qiu H, O'Connor D, Balasubramanian K, Mulvaney GG, Gulsuna B, York AA, DO CL.",
+    "year": 2025,
+    "journal": "Neurosurgical Review",
+    "doi": "10.1007/s10143-025-03808-3",
+    "publication_type": "Scoping Review; review-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

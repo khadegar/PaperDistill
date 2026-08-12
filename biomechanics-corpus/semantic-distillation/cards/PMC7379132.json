@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7379132",
+  "paper_id": "doi:10.3389/fbioe.2020.00824",
+  "pmcid": "PMC7379132",
+  "source_record_sha256": "a96737c016c0fb668c04c036e6d3388d971d371160918aaf40426101475a02e2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "591edc0c4320699241f20a866a9cb7e0a6cb6a11db627d5d72b51fa67d5ea2f2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing of Cytocompatible Graphene/Alginate Scaffolds for Mimetic Tissue Constructs",
+    "authors": "Li J, Liu X, Crook JM, Wallace GG.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.00824",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12371799",
+  "paper_id": "doi:10.1002/lary.32168",
+  "pmcid": "PMC12371799",
+  "source_record_sha256": "b8d2c6ea88ee46838793d6798025cef16399e0706af44080f7f08467f497ce94",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ac3d9514bfa4fb177e503d62f6059fee607efeae7c97a71b3ff54b3bcb3988c6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Novel 3D Printed Multi‐Material Simulator for Endoscopic Stapes Surgery: The “3D Stapes Trainer”",
+    "authors": "Molinari G, Emiliani N, Cercenelli L, Bortolani B, D'Azzeo R, Burato A, Presutti L, Molteni G, Marcelli E.",
+    "year": 2025,
+    "journal": "The Laryngoscope",
+    "doi": "10.1002/lary.32168",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

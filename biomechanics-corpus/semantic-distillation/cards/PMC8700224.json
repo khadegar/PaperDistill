@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8700224",
+  "paper_id": "doi:10.3390/cells10123536",
+  "pmcid": "PMC8700224",
+  "source_record_sha256": "d10fa198f58d598d5fd171c3b6060ef96739911cc3e3f0b25f4b551d3cb46cd1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6a90da9a64e46f93958eb10944f4acd96be11280a7a4c8deb733a2b31f7d59a8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Restoring Osteochondral Defects through the Differentiation Potential of Cartilage Stem/Progenitor Cells Cultivated on Porous Scaffolds",
+    "authors": "Wang HC, Lin TH, Hsu CC, Yeh ML.",
+    "year": 2021,
+    "journal": "Cells",
+    "doi": "10.3390/cells10123536",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

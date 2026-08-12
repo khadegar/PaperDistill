@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10136997",
+  "paper_id": "doi:10.3390/curroncol30040292",
+  "pmcid": "PMC10136997",
+  "source_record_sha256": "60647cea55b5d27c67c87cbcecd73171b1b792c80813ff8bff76e6e3f03bdc0a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d32106b42aadd2441c463b2f2e656febb813a557fa9f04541e9bb35a8bc9a758",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Current Concepts in the Resection of Bone Tumors Using a Patient-Specific Three-Dimensional Printed Cutting Guide",
+    "authors": "Aiba H, Spazzoli B, Tsukamoto S, Mavrogenis AF, Hermann T, Kimura H, Murakami H, Donati DM, Errani C.",
+    "year": 2023,
+    "journal": "Current Oncology",
+    "doi": "10.3390/curroncol30040292",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

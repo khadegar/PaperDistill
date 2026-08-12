@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8066681",
+  "paper_id": "doi:10.4103/jcd.jcd_190_19",
+  "pmcid": "PMC8066681",
+  "source_record_sha256": "1323feb9f31c4fc4a52b5c73ba5f273db07869d6404783e77a99e1f58020a024",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "503cb14ec9696e465e8dc4ed44adb14e505d1dfb891f0c91b39db41e598f371c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional printing: A revealing pathway to an unpredictable maze",
+    "authors": "Dedania MS, Shah NC, Arora A, Pisal N.",
+    "year": 2020,
+    "journal": "Journal of Conservative Dentistry : JCD",
+    "doi": "10.4103/jcd.jcd_190_19",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

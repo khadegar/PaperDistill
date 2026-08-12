@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9243026",
+  "paper_id": "doi:10.1038/s41598-022-15241-3",
+  "pmcid": "PMC9243026",
+  "source_record_sha256": "d0a061ee5bbc2a6d42fb3c0ef6e64b09d7ac2d1f25a9a8625f8ec051e312855d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "647ab23b3de16456a70cfa9f2d9930a1de757d0ac48e399c7d6607e855e566e1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Analysis of the physiological load on lumbar vertebrae in patients with osteoporosis: a finite-element study",
+    "authors": "Kang S, Park CH, Jung H, Lee S, Min YS, Kim CH, Cho M, Jung GH, Kim DH, Kim KT, Hwang JM.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-15241-3",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

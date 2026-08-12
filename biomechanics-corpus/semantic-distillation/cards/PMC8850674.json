@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8850674",
+  "paper_id": "doi:10.1016/j.mtbio.2022.100213",
+  "pmcid": "PMC8850674",
+  "source_record_sha256": "63db13044574ab88092c04cb23edac63bed23c9fc97169b8f6d01ed0a2449329",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b92643cedc549ddeee3646f19e78bb2978709a36b43a00d36801ece6769b4d9b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Vapor construction and modification of stem cell-laden multicomponent scaffolds for regenerative therapeutics",
+    "authors": "Chiang YC, Yeh HW, Hu SM, Wu CY, Wu TY, Chen CH, Liao PC, Guan ZY, Cheng NC, Chen HY.",
+    "year": 2022,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2022.100213",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

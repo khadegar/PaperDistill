@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7089889",
+  "paper_id": "doi:10.1007/s10439-020-02456-6",
+  "pmcid": "PMC7089889",
+  "source_record_sha256": "3b40031a557327fcb444fc6ac130e10517d2ab0f6d7c2d57bd0632810f104bb3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "98892fbf9fd67563649eb40be48e3e0f3263f57eb78a3c687b436c4016184377",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Experimental Validation of an ITAP Numerical Model and the Effect of Implant Stem Stiffness on Bone Strain Energy",
+    "authors": "Ahmed K, Greene RJ, Aston W, Briggs T, Pendegrass C, Moazen M, Blunn G.",
+    "year": 2020,
+    "journal": "Annals of Biomedical Engineering",
+    "doi": "10.1007/s10439-020-02456-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

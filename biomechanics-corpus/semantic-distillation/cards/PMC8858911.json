@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8858911",
+  "paper_id": "doi:10.1016/j.jot.2022.01.002",
+  "pmcid": "PMC8858911",
+  "source_record_sha256": "c6b007a70a52c87f2a11242407aba6a3c9b22b9b88bba6b97140f855923b7d34",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1110260597bff3145cd805dca272f1308bad3914dfa79f9e8b88ce1578177139",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Periosteum and development of the tissue-engineered periosteum for guided bone regeneration",
+    "authors": "Zhang W, Wang N, Yang M, Sun T, Zhang J, Zhao Y, Huo N, Li Z.",
+    "year": 2022,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2022.01.002",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

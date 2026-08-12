@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5344552",
+  "paper_id": "doi:10.3390/ma10010035",
+  "pmcid": "PMC5344552",
+  "source_record_sha256": "4b068c1881b7cad1f7adbd31238ffc9c1d59400952679c28a54ccfd98002bea0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ed96c79cfd7f50d01dcca3fd70342a795101036cee556066e0b8d6f409193fb3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Customized a Ti6Al4V Bone Plate for Complex Pelvic Fracture by Selective Laser Melting",
+    "authors": "Wang D, Wang Y, Wu S, Lin H, Yang Y, Fan S, Gu C, Wang J, Song C.",
+    "year": 2017,
+    "journal": "Materials",
+    "doi": "10.3390/ma10010035",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9551996",
+  "paper_id": "doi:10.3389/fbioe.2022.973275",
+  "pmcid": "PMC9551996",
+  "source_record_sha256": "7824961199e7c80f8814dbb7be834df19aa3b8d6ffe55783c5a0293edfffb6ff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8c0993553833ee58f6693d8346014c9502b12e2bdd53364cf387c6d21aa70342",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Designing anisotropic porous bone scaffolds using a self-learning convolutional neural network model",
+    "authors": "Lu Y, Gong T, Yang Z, Zhu H, Liu Y, Wu C.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.973275",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

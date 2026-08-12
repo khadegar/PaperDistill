@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12384540",
+  "paper_id": "doi:10.3390/cimb47080582",
+  "pmcid": "PMC12384540",
+  "source_record_sha256": "03d6c8da26a618e6e0aba46cc9242500d8610dd5615129fc5daeea7e1ac4849b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ae67f4cb93485ef0e0e35d9833792e0755e3b2a35921c2e8af64de83930863bd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Teriparatide for Guided Bone Regeneration in Craniomaxillofacial Defects: A Systematic Review of Preclinical Studies",
+    "authors": "Canto JD, Mourão CF, Moraschini V, da Silva Bonato R, Sartoretto SC, Calasans-Maia MD, Granjeiro JM, Louro RS.",
+    "year": 2025,
+    "journal": "Current Issues in Molecular Biology",
+    "doi": "10.3390/cimb47080582",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

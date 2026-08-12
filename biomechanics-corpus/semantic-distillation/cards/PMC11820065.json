@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11820065",
+  "paper_id": "doi:10.3390/ma18030700",
+  "pmcid": "PMC11820065",
+  "source_record_sha256": "ff5157a3c2d09b7407913d6f7378516fa8cf17f7b84f6a773776e1aee60da79c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2dcd2f219a8f6a4d7588cedd2d3f973fdd485f76375fdb10d1438c11969ea442",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dental Implant with Porous Structure and Anchorage: Design and Bench Testing in a Calf Rib Model Study",
+    "authors": "Lovera K, Vanaclocha V, Atienza CM, Vanaclocha A, Jordá-Gómez P, Saiz-Sapena N, Vanaclocha L.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18030700",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

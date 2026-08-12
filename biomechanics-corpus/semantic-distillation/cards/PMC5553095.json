@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5553095",
+  "paper_id": "doi:10.1021/acsami.7b04950",
+  "pmcid": "PMC5553095",
+  "source_record_sha256": "847aa2c08c31e6dedd6061e82664264dd58109eab38461055799447ec627e6dd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "99c223e363445ec806f40d3d7d20cc7e849c310141209e9546445ec374da523c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Simultaneous Delivery of Multiple Antibacterial Agents from Additively Manufactured Porous Biomaterials to Fully Eradicate Planktonic and Adherent Staphylococcus aureus",
+    "authors": "Bakhshandeh S, Bakhshandeh S, Gorgin Karaji Z, Lietaert K, Fluit AC, Boel CHE, Vogely HC, Vermonden T, Hennink WE, Weinans H, Zadpoor AA, Amin Yavari S.",
+    "year": 2017,
+    "journal": "ACS Applied Materials & Interfaces",
+    "doi": "10.1021/acsami.7b04950",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

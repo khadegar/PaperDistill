@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5545828",
+  "paper_id": "doi:10.1186/s12891-017-1702-2",
+  "pmcid": "PMC5545828",
+  "source_record_sha256": "a9fede13499f08b7ff839b1a0dcb91bc7ad7d5eec07a286916187c5177ec2da2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "88135977676c45977bf0f2864cf3931a7edaf49f4fa7c2306a8f986c9fc0b990",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone preserving level of osteotomy in short-stem total hip arthroplasty does not influence stress shielding dimensions – a comparing finite elements analysis",
+    "authors": "Burchard R, Braas S, Soost C, Graw JA, Schmitt J.",
+    "year": 2017,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-017-1702-2",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

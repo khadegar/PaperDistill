@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9171432",
+  "paper_id": "doi:10.3389/fcell.2022.856204",
+  "pmcid": "PMC9171432",
+  "source_record_sha256": "09cfaf87bf5b850ffb86c0f0c5332e29e144e09dbfa0dd9830bf6efe6389aafe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4095fc3bc9e299f6e2403c40ac5c37cba0280cea00c3adc0bb8cb9630023317d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tissue-Level Regeneration and Remodeling Dynamics are Driven by Mechanical Stimuli in the Microenvironment in a Post-Bridging Loaded Femur Defect Healing Model in Mice",
+    "authors": "Paul GR, Vallaster P, Rüegg M, Scheuren AC, Tourolle DC, Kuhn GA, Wehrle E, Müller R.",
+    "year": 2022,
+    "journal": "Frontiers in Cell and Developmental Biology",
+    "doi": "10.3389/fcell.2022.856204",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

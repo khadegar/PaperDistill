@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12701721",
+  "paper_id": "doi:10.1002/jor.70062",
+  "pmcid": "PMC12701721",
+  "source_record_sha256": "7d9d37c4ee44d48f829ac34767d8837cc408fc055eb6ccd5c0909478a00fd5cd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "64b1b57e65daebb9097ab9f1627b167597e936679a9b6494a91ef0432f9b7ed3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical Evaluation of Posterior Wall Acetabular Facture Fixation: Patient‐Specific Implants Versus Conventional Implants",
+    "authors": "Oldhoff MGE, Meesters AML, Kraeima J, Acharya MR, Ten Duis K, de Vries JPM, Merema BBJ, IJpma FFA.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Research",
+    "doi": "10.1002/jor.70062",
+    "publication_type": "Comparative Study; Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

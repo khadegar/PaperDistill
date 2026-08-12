@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8306242",
+  "paper_id": "doi:10.1186/s12938-021-00907-2",
+  "pmcid": "PMC8306242",
+  "source_record_sha256": "b8e7068c10300683d80a614e411e2dce60d768027a5a9c68075839871fccf0e5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "31fd68d8fe06ba7696bd210500d227919847103ce037a5ff34a258838062d9ea",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cobalt-doped bioceramic scaffolds fabricated by 3D printing show enhanced osteogenic and angiogenic properties for bone repair",
+    "authors": "Li J, Zhao C, Liu C, Wang Z, Ling Z, Lin B, Tan B, Zhou L, Chen Y, Liu D, Zou X, Liu W.",
+    "year": 2021,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-021-00907-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

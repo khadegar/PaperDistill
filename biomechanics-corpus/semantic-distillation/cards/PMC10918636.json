@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10918636",
+  "paper_id": "doi:10.1093/rb/rbae012",
+  "pmcid": "PMC10918636",
+  "source_record_sha256": "1069cdabfc18fdd2754f205993c1697bf28175e37e892f2b0e1a418040d03970",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dd48d0b58ec11ddc5338922daef3eef9347df7995eaabe6b98cecf8fdc0ed81b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing sequentially strengthening high-strength natural polymer hydrogel bilayer scaffold for cornea regeneration",
+    "authors": "Nie X, Tang Y, Wu T, Zhao X, Xu Z, Yang R, Sun Y, Wu B, Han Q, Hui J, Liu W.",
+    "year": 2024,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbae012",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

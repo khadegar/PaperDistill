@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10256448",
+  "paper_id": "doi:10.1155/2023/9350474",
+  "pmcid": "PMC10256448",
+  "source_record_sha256": "3c6db77911431502c27e0c412c36dbb8414a3d034a29f8348039d616bf657fb0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "961276382ea4ed31fdeabeb3da0e78250c657912332defffb0e131ca5904b30e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of Acetabulum Prosthesis' Lining Damage Zone with Different Implanting Angle",
+    "authors": "Bian Y, Wang H, Huang A.",
+    "year": 2023,
+    "journal": "Computational and Mathematical Methods in Medicine",
+    "doi": "10.1155/2023/9350474",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10235158",
+  "paper_id": "doi:10.1111/os.13753",
+  "pmcid": "PMC10235158",
+  "source_record_sha256": "78e010692432c3505409ebc7c3bf22aca99b91c32ca842335a5f63f3dbc8fdaf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "085606956ee1061502380b17a98efb7fe6f6e8ac80bba7c13f31838437222ef2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Biomechanical Influence of Defected Cartilage on the Progression of Osteochondral Lesions of the Talus: A Three‐dimensional Finite Element Analysis",
+    "authors": "Ruan Y, Du Y, Jiang Z, Qian Z, Chang F.",
+    "year": 2023,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13753",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

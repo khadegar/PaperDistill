@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12272446",
+  "paper_id": "doi:10.1016/j.bonr.2025.101856",
+  "pmcid": "PMC12272446",
+  "source_record_sha256": "aa07fea2e44c21a0ac4ce2991aece0d36da47dfe7d8e3ede31c1eae7e70778ef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "73038adf4fb98585434abee0cd54aa034aed2dccd71a5de0326df356c907cb34",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "VEGF-A, -C, -D, VEGFR1, -2, -3, PDGF-BB and FGF-2 join forces to induce vascular and lymphatic angiogenesis during bone healing of hip implants",
+    "authors": "Cassuto J, Folestad A, Göthlin J, Malchau H, Kärrholm J.",
+    "year": 2025,
+    "journal": "Bone Reports",
+    "doi": "10.1016/j.bonr.2025.101856",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

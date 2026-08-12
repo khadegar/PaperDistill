@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10133557",
+  "paper_id": "doi:10.3389/fbioe.2023.1168783",
+  "pmcid": "PMC10133557",
+  "source_record_sha256": "544ec97c28a8c21ae23beb940b4038eb31d55155bce09926b2a6aec4438cd175",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a44a8a279c94a726eea750a334a55b4e0cdf6afc3ed979dfde92d3b429b236e3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of different strain judging criteria on the prediction precision of cortical bone fracture simulation under compression",
+    "authors": "Fan R, Liu J, Jia Z.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1168783",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

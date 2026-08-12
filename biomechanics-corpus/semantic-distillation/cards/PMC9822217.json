@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9822217",
+  "paper_id": "doi:10.3390/ma16010398",
+  "pmcid": "PMC9822217",
+  "source_record_sha256": "58cf65a91a7c30959518c9a9be43d93d4bb6c9ca06a768892897b43ac9801526",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "185d083164ed64eaa523a4711c75a76fb04dc24c9f8f3265c3573a946c5d60a6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Acetabular Implant Finite Element Simulation with Customised Estimate of Bone Properties",
+    "authors": "Soloviev D, Maslov L, Zhmaylo M.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16010398",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10556260",
+  "paper_id": "doi:10.1002/jbm4.10787",
+  "pmcid": "PMC10556260",
+  "source_record_sha256": "c34adb930055e633bbc9f710c45548586c6c95b14c84debc09679e0f6a92be39",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0d334988691b0b9d267b6714f2578be805c7a1be94c5a1b3b40f9e91680adca2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Endocortical Trabecularization in Acromegaly: The Cause for the Paradoxically Increased Vertebral Fracture Risk?",
+    "authors": "Heck A, Godang K, Lekva T, Markussen KN, De Vincentis S, Ueland T, Bollerslev J.",
+    "year": 2023,
+    "journal": "JBMR Plus",
+    "doi": "10.1002/jbm4.10787",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12892247",
+  "paper_id": "doi:10.1021/acsbiomaterials.5c01845",
+  "pmcid": "PMC12892247",
+  "source_record_sha256": "9116b843e82fe963cf6142d17061a802d1dd36e30d8c3a4517446ffb07628521",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cbe9a73346c034a3179c055e5e1d6bf9e223beb1d53a2e3da55db74080afe866",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An Experimental Study on 3D-Printed Gyroid-Shaped TC4 Porous Scaffolds Guiding Angiogenesis and Osteogenesis in Bone Defect Areas",
+    "authors": "Wang L, Wang Y, Liu R, Liang Y, Liu Y, Xu M, Yu J, Su Y, Han Z, Wang X.",
+    "year": 2026,
+    "journal": "ACS Biomaterials Science & Engineering",
+    "doi": "10.1021/acsbiomaterials.5c01845",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

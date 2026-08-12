@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10336748",
+  "paper_id": "doi:10.1021/acsbiomaterials.3c00115",
+  "pmcid": "PMC10336748",
+  "source_record_sha256": "880cd3d8ef6623a64878017061cbc8e35146d46718b9f5291b2dd46f5671d02c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5ac6838bee2b147b923acb7eac6c5d6b4161491d6da377e0751a35f067567739",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Antimicrobial and Biodegradable 3D Printed Scaffolds for Orthopedic Infections",
+    "authors": "Dubey A, Vahabi H, Kumaravel V.",
+    "year": 2023,
+    "journal": "ACS Biomaterials Science & Engineering",
+    "doi": "10.1021/acsbiomaterials.3c00115",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

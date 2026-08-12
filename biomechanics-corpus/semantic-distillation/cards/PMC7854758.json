@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7854758",
+  "paper_id": "doi:10.1038/s41598-021-82502-y",
+  "pmcid": "PMC7854758",
+  "source_record_sha256": "5b0cc0b8073db3aa03253e55d991d244ad0bfc80a709ca442f8a127c2f0d13f6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "73a8fcc7e020788888984f4335a02238ca7e800d920066b5262f373337120a49",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "On the effect of antiresorptive drugs on the bone remodeling of the mandible after dental implantation: a mathematical model",
+    "authors": "Ashrafi M, Ghalichi F, Mirzakouchaki B, Doblare M.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-82502-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

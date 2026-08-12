@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8745552",
+  "paper_id": "doi:10.3390/ijms23010374",
+  "pmcid": "PMC8745552",
+  "source_record_sha256": "6862ae32a70483358a98b6a47227a0523c6e29d1757dfd8726b8b0ea30fd8263",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "11bbf13800b384d3a53778269b3ddd13caa59245b1ff6dedccd620db0d6d78be",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteocytes Influence on Bone Matrix Integrity Affects Biomechanical Competence at Bone-Implant Interface of Bioactive-Coated Titanium Implants in Rat Tibiae",
+    "authors": "Stoetzel S, Malhan D, Wild U, Helbing C, Hassan F, Attia S, Jandt KD, Heiss C, El Khassawna T.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms23010374",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

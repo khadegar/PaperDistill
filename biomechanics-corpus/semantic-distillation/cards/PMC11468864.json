@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11468864",
+  "paper_id": "doi:10.1002/adhm.202101415",
+  "pmcid": "PMC11468864",
+  "source_record_sha256": "eadb00c585b36a825f39dc2b45cc723bf9138081278acfa1f2aae0f33e2d7cdd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7b63672387b7bc3f336d609bd8860fcc5e69af29e42a5331cf9bb8cc4c8b6be8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed Dual‐Porosity Scaffolds: The Combined Effect of Stiffness and Porosity in the Modulation of Macrophage Polarization",
+    "authors": "Camarero-Espinosa S, Carlos-Oliveira M, Liu H, Mano JF, Bouvy N, Moroni L.",
+    "year": 2021,
+    "journal": "Advanced Healthcare Materials",
+    "doi": "10.1002/adhm.202101415",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

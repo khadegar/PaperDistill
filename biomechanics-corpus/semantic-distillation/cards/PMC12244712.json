@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12244712",
+  "paper_id": "doi:10.4103/jpbs.jpbs_1743_24",
+  "pmcid": "PMC12244712",
+  "source_record_sha256": "cc6946302f08959523dbb8997d3e7987066aeb9d766225959e451f8df935ab15",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c2697bc9c52f377896c1e00a2b707e8d69192a99571b0ef381b8d82ae9f6d9a2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro Evaluation of Different Surface Treatments on Osseointegration of Dental Implants",
+    "authors": "Yadav R, Bhattu BK, Solanki BB, Pandya PA, Bagde H, Kumar M, Ghadage M, Khanam HK.",
+    "year": 2025,
+    "journal": "Journal of Pharmacy & Bioallied Sciences",
+    "doi": "10.4103/jpbs.jpbs_1743_24",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

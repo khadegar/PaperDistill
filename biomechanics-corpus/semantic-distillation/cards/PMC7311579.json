@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7311579",
+  "paper_id": "doi:10.3389/fbioe.2020.00609",
+  "pmcid": "PMC7311579",
+  "source_record_sha256": "89fecc7e38b274616559fd134e565672d8d810f27f210cb5f0e96b4c261d5484",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "893d5c044554eafb7b1d1a630d9caa5a7398d15def19e8231500514909ca1827",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous Scaffold Design for Additive Manufacturing in Orthopedics: A Review",
+    "authors": "Chen H, Han Q, Wang C, Liu Y, Chen B, Wang J.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.00609",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

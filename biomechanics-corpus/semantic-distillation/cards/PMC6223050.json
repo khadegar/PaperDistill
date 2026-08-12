@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6223050",
+  "paper_id": "doi:10.1186/s13756-018-0421-2",
+  "pmcid": "PMC6223050",
+  "source_record_sha256": "cf66c7fc84090d7f7e2283120c805ce48340900bef4e9aed577a3924a4ac7308",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "06b2cf6adef8f347f7175eb1939758b7ffd7defd4233d8c5fd877107d4c3b55b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Should antibiotic prophylaxis before orthopedic implant surgery depend on the duration of pre-surgical hospital stay?",
+    "authors": "Davat M, Wuarin L, Stafylakis D, Abbas M, Harbarth S, Hannouche D, Uçkay I.",
+    "year": 2018,
+    "journal": "Antimicrobial Resistance and Infection Control",
+    "doi": "10.1186/s13756-018-0421-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

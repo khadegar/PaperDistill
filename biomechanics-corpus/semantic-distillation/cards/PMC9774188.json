@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9774188",
+  "paper_id": "doi:10.3390/bioengineering9120728",
+  "pmcid": "PMC9774188",
+  "source_record_sha256": "7a70ffdb6bbec2fae64d52e2aff735e1ec82533feaa495ec1acfd44e91ee4093",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "087aafd4b79d88eadd2670d82ce1b7b4e69d1a489901c49171dba84d5f6abead",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Scaffold Fabrication Techniques of Biomaterials for Bone Tissue Engineering: A Critical Review",
+    "authors": "Bhushan S, Singh S, Maiti TK, Sharma C, Dutt D, Sharma S, Li C, Tag Eldin EM.",
+    "year": 2022,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering9120728",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

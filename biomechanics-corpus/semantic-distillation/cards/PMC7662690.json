@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7662690",
+  "paper_id": "doi:10.3390/ma13214815",
+  "pmcid": "PMC7662690",
+  "source_record_sha256": "1491e225a87f5a6966851093c7c6590a0a67efa61a3314a97e394d5493d0cb50",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bf80ba23ced38b062397edeaebd3e654507fe214a08e720bebb61c7075147ec2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of 3D-Printed Dental Implants with Threaded Implants for Osseointegration: An Experimental Pilot Study",
+    "authors": "Li L, Lee J, Amara HB, Lee JB, Lee KS, Shin SW, Lee YM, Kim B, Kim P, Koo KT.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13214815",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

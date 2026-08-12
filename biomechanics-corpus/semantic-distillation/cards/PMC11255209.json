@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11255209",
+  "paper_id": "doi:10.1038/s41598-024-66934-w",
+  "pmcid": "PMC11255209",
+  "source_record_sha256": "1985477463a4a24848c6016f5776059e352cd94144d62d3f0d36facfe3442525",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d18501ca967a9da9b72e39a5cbcc8c45e3a9c3cf7b96502947872b62ba13d03f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element models with automatic computed tomography bone segmentation for failure load computation",
+    "authors": "Saillard E, Gardegaront M, Levillain A, Bermond F, Mitton D, Pialat JB, Confavreux C, Grenier T, Follet H.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-66934-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

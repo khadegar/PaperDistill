@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11064297",
+  "paper_id": "doi:10.1186/s13018-024-04728-6",
+  "pmcid": "PMC11064297",
+  "source_record_sha256": "deb30378155001ac54f0ac1f9d58648e6303ab28335e947f92dc19f572a5d5d3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5c9843287a1ad48a250eee98bd90dce337a44e25b778dee98d4d51afa58363e6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional printed custom-made modular talus prosthesis in patients with talus malignant tumor resection",
+    "authors": "He X, Lu M, Zou C, Li Z, Gong T, Kenmegne GR, Wang Y, Luo Y, Zhou Y, Min L, Tu C.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-04728-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4726111",
+  "paper_id": "doi:10.1038/srep19468",
+  "pmcid": "PMC4726111",
+  "source_record_sha256": "5aeb3a1c3a1b6a14736175d3422ab7326396bfd8fc95491c34ae93d894550d34",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bac38c1a668d273127edb8ff174d3f0462cc91e9ac300a079f84578bb2760eb3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and Fabrication of 3D printed Scaffolds with a Mechanical Strength Comparable to Cortical Bone to Repair Large Bone Defects",
+    "authors": "Roohani-Esfahani SI, Newman P, Zreiqat H.",
+    "year": 2016,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep19468",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

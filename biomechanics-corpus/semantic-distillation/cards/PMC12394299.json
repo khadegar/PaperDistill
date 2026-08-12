@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12394299",
+  "paper_id": "doi:10.1007/s00402-025-06008-2",
+  "pmcid": "PMC12394299",
+  "source_record_sha256": "c075b49e3268c4adaf4e563a18b4a3878e603b45ae7b44eb57c1a467a537eb22",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c3d8bdbb067ea9ef243b930f27f232a6cea366374dbb73f90e0560259e716734",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "High retention rates of custom 3D printed titanium implants in complex pelvic reconstruction, a report on 106 consecutive cases over 10 years",
+    "authors": "Boyle R, Scholes C, Franks D, Lodhia A, Harrison-Brown M, Ebrahimi M, Guzman M, Stalley P.",
+    "year": 2025,
+    "journal": "Archives of Orthopaedic and Trauma Surgery",
+    "doi": "10.1007/s00402-025-06008-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

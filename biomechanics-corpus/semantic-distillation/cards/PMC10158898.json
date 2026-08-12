@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10158898",
+  "paper_id": "doi:10.1097/j.pbj.0000000000000208",
+  "pmcid": "PMC10158898",
+  "source_record_sha256": "b00565e9b9edc689646dbd9da34a4f7872930b23d8bbc999336fd025720c32b7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "038edeb79ac4e3b4963fb06ecbfd3637a58b1ea3e274c94e7b98ae3afc2c2bd9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Total knee arthroplasty coronal alignment and tibial base stress—a new numerical evaluation",
+    "authors": "Vale J, Pinto LV, Barros B, Diniz S, Rodrigues F, Marques M, Belinha J, Vilaça A.",
+    "year": 2023,
+    "journal": "Porto Biomedical Journal",
+    "doi": "10.1097/j.pbj.0000000000000208",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8940764",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.12.019",
+  "pmcid": "PMC8940764",
+  "source_record_sha256": "8503a89e82d45b25fd84399fae16a93f6eac786db186a6dd391c40b694acc498",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2957c527c7572943813e7e64150e3cdf01f61525bce95668f832854a0a9ae430",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Polyphosphate-crosslinked collagen scaffolds for hemostasis and alveolar bone regeneration after tooth extraction",
+    "authors": "Gu JT, Jiao K, Li J, Yan JF, Wang KY, Wang F, Liu Y, Tay FR, Chen JH, Niu LN.",
+    "year": 2022,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.12.019",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

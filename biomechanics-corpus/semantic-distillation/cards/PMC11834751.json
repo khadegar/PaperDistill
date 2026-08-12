@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11834751",
+  "paper_id": "doi:10.1515/mr-2024-0023",
+  "pmcid": "PMC11834751",
+  "source_record_sha256": "43cc9790e537e205dc3ec8339a1f3f54eff904b26583c1219ee9d3ee3cc92e83",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "125a6070e73d5b33ad7e5244bfc90eba909b10cbc0fc73482c1aa21703ba2f3c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biophysical stimuli for promoting bone repair and regeneration",
+    "authors": "Bai Y, Li X, Wu K, Heng BC, Zhang X, Deng X.",
+    "year": 2024,
+    "journal": "Medical Review",
+    "doi": "10.1515/mr-2024-0023",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

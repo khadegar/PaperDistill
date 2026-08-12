@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7196141",
+  "paper_id": "doi:10.1155/2020/7381391",
+  "pmcid": "PMC7196141",
+  "source_record_sha256": "d2d8e15917b17cdc639c17c7a4db42fc89af17bb80894cb2eef611b2d566e6bb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "91b9df66c27a5785f53354774b3e06385c9bb4c34ce478ccb00a8bcdcf00c3d8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional-Printed Poly-L-Lactic Acid Scaffolds with Different Pore Sizes Influence Periosteal Distraction Osteogenesis of a Rabbit Skull",
+    "authors": "Zhao D, Jiang W, Wang Y, Wang C, Zhang X, Li Q, Li Q, Han D.",
+    "year": 2020,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2020/7381391",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

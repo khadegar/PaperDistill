@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12250819",
+  "paper_id": "doi:10.3390/ma18133192",
+  "pmcid": "PMC12250819",
+  "source_record_sha256": "1c917666654e90f4d25d4d35bb90fd7eaeb7ddbe7efa434cf278f851b3028825",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d9e8aa2221ac808f6229a772d97168369ee99ba8fb0ea08dae3c19bbfbce0f3c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Injection Molding Simulation of Polycaprolactone-Based Carbon Nanotube Nanocomposites for Biomedical Implant Manufacturing",
+    "authors": "Formas K, Janusz J, Kurowska A, Benko A, Piekarczyk W, Rajzer I.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18133192",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

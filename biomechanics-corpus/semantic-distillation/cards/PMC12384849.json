@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12384849",
+  "paper_id": "doi:10.3390/dj13080351",
+  "pmcid": "PMC12384849",
+  "source_record_sha256": "7b5a9c4d9f79265fa80d940a00a0896c46928f5e4c9da2089a78e91e8cfd9d6c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4cd5b0e7fb125e3c8fca71652a2205d04c14bfd4a72099a0ca37c0bdd1c05a2c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Behavior of Osteoblastic Lineage Cells When in the Presence of Tamoxifen: In Vitro and In Vivo Studies on Osseointegration",
+    "authors": "Fiorin LG, Galliera E, Matheus HR, Henin D, Ervolino E, Simionato GC, de Almeida JM, Dellavia C.",
+    "year": 2025,
+    "journal": "Dentistry Journal",
+    "doi": "10.3390/dj13080351",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

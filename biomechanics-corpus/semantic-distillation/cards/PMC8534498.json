@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8534498",
+  "paper_id": "doi:10.3390/cells10102687",
+  "pmcid": "PMC8534498",
+  "source_record_sha256": "2209fbf33e9ac06537a78be1c24a7800774525f380f06c9c5b898397842c4052",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e924119658414b0096e8b3ac5a647f0ad6c4f617a5a030e5a241d2a8014c03c4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical Applications of Cell-Scaffold Constructs for Bone Regeneration Therapy",
+    "authors": "Venkataiah VS, Yahata Y, Kitagawa A, Inagaki M, Kakiuchi Y, Nakano M, Suzuki S, Handa K, Saito M.",
+    "year": 2021,
+    "journal": "Cells",
+    "doi": "10.3390/cells10102687",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

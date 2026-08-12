@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8913250",
+  "paper_id": "doi:10.1016/j.jot.2022.02.005",
+  "pmcid": "PMC8913250",
+  "source_record_sha256": "326c912372c59a5198447a2911fae604e4063408d1337319d1b979103c66a816",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c3f102f901efed8f9cca7d3a97c46527733d7e75f1c50335aea0f2978d3349d8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed porous sulfonated polyetheretherketone scaffold for cartilage repair: Potential and limitation",
+    "authors": "Yuan Z, Long T, Zhang J, Lyu Z, Zhang W, Meng X, Qi J, Wang Y.",
+    "year": 2022,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2022.02.005",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

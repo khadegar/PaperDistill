@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5987023",
+  "paper_id": "doi:10.1016/j.jot.2016.04.003",
+  "pmcid": "PMC5987023",
+  "source_record_sha256": "ac0849b6e5a9b0ee4a32935fd2d2d893d2742814f519b0920efc075505110573",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "71ab94d2dab5308462cdd5c228fa19c8c23190bad133d117d954ee428ca86a87",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "From the printer: Potential of three-dimensional printing for orthopaedic applications",
+    "authors": "Mok SW, Nizak R, Fu SC, Ho KK, Qin L, Saris DBF, Chan KM, Malda J.",
+    "year": 2016,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2016.04.003",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11748589",
+  "paper_id": "doi:10.1186/s12903-025-05486-5",
+  "pmcid": "PMC11748589",
+  "source_record_sha256": "d77e3dd782a6269823a8b0944a5e4baff943ac8709616ea6772f9681adb40fb5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "06f2c93f6df41fd2c0225d2ca72f9e3c688765d0e0dee5250536fa7bb0aeaedd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical behavior of titanium, cobalt-chromium, zirconia, and PEEK frameworks in implant-supported prostheses: a dynamic finite element analysis",
+    "authors": "Sahin Hazir D, Sozen Yanik I, Guncu MB, Canay RS.",
+    "year": 2025,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-025-05486-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

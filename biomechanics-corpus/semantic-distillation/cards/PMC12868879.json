@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12868879",
+  "paper_id": "doi:10.1038/s41598-025-34920-5",
+  "pmcid": "PMC12868879",
+  "source_record_sha256": "0bbe74fb743f105875c349509e23ff71aaade2f47be1d7fb0d37e852763272f0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6644a70ad52c083669a2a33fcfd87ffa7659587b6f0a97a4237e87539af17eb4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A multiscale topology optimization design framework with data driven surrogate model",
+    "authors": "Zhou H, Zhou C.",
+    "year": 2026,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-34920-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

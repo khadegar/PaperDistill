@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9962183",
+  "paper_id": "doi:10.3390/jpm13020321",
+  "pmcid": "PMC9962183",
+  "source_record_sha256": "ed36937c0baab7063d45a6bc7b70085c061dab1ad72fd4cfbfc030fbcd8ca670",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a4d7adbfaa1ed889f49196b5482b7b2c022b078aaf419598fb723fa618d28cc2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advancing Osteoporosis Evaluation Procedures: Detailed Computational Analysis of Regional Structural Vulnerabilities in Osteoporotic Bone",
+    "authors": "Wysocki MA, Doyle ST.",
+    "year": 2023,
+    "journal": "Journal of Personalized Medicine",
+    "doi": "10.3390/jpm13020321",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

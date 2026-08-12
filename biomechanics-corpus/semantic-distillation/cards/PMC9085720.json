@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9085720",
+  "paper_id": "doi:10.1039/c8ra06508j",
+  "pmcid": "PMC9085720",
+  "source_record_sha256": "56e686939f8aa7f8a1c33a37516c6aed7eead0bb66d98943ba85e4262e973cf5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ef697f683ea9f799642cd46b14df41604682345b5fdfc1129538f0540df3fd47",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone regeneration in critically sized rat mandible defects through the endochondral pathway using hydroxyapatite-coated 3D-printed Ti 6 Al 4 V scaffolds",
+    "authors": "Wang Y, Cai X, Huang J, Zhou Y, Jiang T, Wang Y.",
+    "year": 2018,
+    "journal": "RSC Advances",
+    "doi": "10.1039/c8ra06508j",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

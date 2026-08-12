@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7860236",
+  "paper_id": "doi:10.1021/acsomega.0c06031",
+  "pmcid": "PMC7860236",
+  "source_record_sha256": "08fab8ec75bf8d49fec5de22ce419718a7d95ca4e95a9fa4596b1479168dd959",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bd69896df4e9a54ed75863674d7079e04d36596ae2dbfe373c4b50c775d85207",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Customized Three-Dimensional-Printed Orthopedic Close Contact Casts for the Treatment of Stable Ankle Fractures: Finite Element Analysis and a Pilot Study",
+    "authors": "Lu P, Liao Z, Zeng Q, Chen H, Huang W, Liu Z, Chen Y, Zhong J, Huang G.",
+    "year": 2021,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.0c06031",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

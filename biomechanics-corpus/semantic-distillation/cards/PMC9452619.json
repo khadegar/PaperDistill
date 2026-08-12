@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9452619",
+  "paper_id": "doi:10.1186/s40634-022-00531-6",
+  "pmcid": "PMC9452619",
+  "source_record_sha256": "d88ebc5127239b6c4bab288a986e19e5e35f1d2580d1de055fb5e57ad81f46cd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fa5360761c4ed9178436850e2ed9dbfa216b49190e6d7f55f9996ca7532e0d1d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An anatomically shaped medial meniscus prosthesis is able to partially restore the contact mechanics of the meniscectomized knee joint",
+    "authors": "van Minnen BS, van der Veen AJ, van de Groes SAW, Verdonschot NJJ, van Tienen TG.",
+    "year": 2022,
+    "journal": "Journal of Experimental Orthopaedics",
+    "doi": "10.1186/s40634-022-00531-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

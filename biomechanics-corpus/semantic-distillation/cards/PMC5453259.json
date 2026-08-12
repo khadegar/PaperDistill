@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5453259",
+  "paper_id": "doi:10.3390/ma7031709",
+  "pmcid": "PMC5453259",
+  "source_record_sha256": "057ef10979314275bca4c9fa47adbca117fb68597d80fcebf07152e5e8e64b0e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e4e7cf222116db46722ad24f7f5675d003f9c3516c6b3ef0ec28f2eae3199738",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "New Developments of Ti-Based Alloys for Biomedical Applications",
+    "authors": "Li Y, Yang C, Zhao H, Qu S, Li X, Li Y.",
+    "year": 2014,
+    "journal": "Materials",
+    "doi": "10.3390/ma7031709",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

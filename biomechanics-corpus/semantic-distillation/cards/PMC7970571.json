@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7970571",
+  "paper_id": "doi:10.1021/acsomega.0c06144",
+  "pmcid": "PMC7970571",
+  "source_record_sha256": "fd6a5c369bb7b5b30b8f5065089a0e09d73f016540110420f2225449287e6bd1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "19dd805f76b3516f0757ae9ae87adfbf671d02facd07f5a960b4352e2aa4e105",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and Fabrication of a Customized Partial Hip Prosthesis Employing CT-Scan Data and Lattice Porous Structures",
+    "authors": "Corona-Castuera J, Rodriguez-Delgado D, Henao J, Castro-Sandoval JC, Poblano-Salas CA.",
+    "year": 2021,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.0c06144",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

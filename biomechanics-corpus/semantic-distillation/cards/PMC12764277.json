@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12764277",
+  "paper_id": "doi:10.21873/invivo.14181",
+  "pmcid": "PMC12764277",
+  "source_record_sha256": "9d9af16e28d77e871b9c24cf22788ed1837c14e3a1103562845a513301538fab",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "50bd42255fc557b5cac66abbf2d506de06e25a24541054ac7fdd3c4fbb735b36",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Refined Surgical Protocol for the Insertion of Bioactive-coated Titanium Microscrews in the Rat Tibia",
+    "authors": "Vera-Becerra A, Valdivia-Gandur I, Acuña-Mardones P, Acevedo F, Veuthey C, Beltrán V.",
+    "year": 2026,
+    "journal": "In Vivo",
+    "doi": "10.21873/invivo.14181",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

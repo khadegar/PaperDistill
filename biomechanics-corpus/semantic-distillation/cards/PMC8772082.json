@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8772082",
+  "paper_id": "doi:10.1186/s12891-021-04982-3",
+  "pmcid": "PMC8772082",
+  "source_record_sha256": "bf7de6a1a978cdf0fe083f4fa56685c4d305d41542265f1fc8792a4e92473773",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "de59931a73b17d9b867837a761663b3866c839545701c294c70d3a100d0e9f27",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element stress analysis of the bearing component and bone resected surfaces for total ankle replacement with different implant material combinations",
+    "authors": "Yu J, Zhao D, Chen WM, Chu P, Wang S, Zhang C, Huang J, Wang X, Ma X.",
+    "year": 2022,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-021-04982-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational"
+    ]
+  },
+  "status": "blank"
+}

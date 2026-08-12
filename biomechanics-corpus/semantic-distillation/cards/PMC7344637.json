@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7344637",
+  "paper_id": "doi:10.3390/ma13122822",
+  "pmcid": "PMC7344637",
+  "source_record_sha256": "2bf6c581c0f31dd579323ab0c5dc813d166dbb45ac8dfb9614bd403a960338a9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c1d04478cb33e90b270f0ad1d5787f0575cfc2db92ca8e5114db1f3ae5f74ef9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Impact of EBM-Manufactured Ti6Al4V ELI Alloy Surface Modifications on Cytotoxicity toward Eukaryotic Cells and Microbial Biofilm Formation",
+    "authors": "Szymczyk-Ziółkowska P, Hoppe V, Rusińska M, Gąsiorek J, Ziółkowski G, Dydak K, Czajkowska J, Junka A.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13122822",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

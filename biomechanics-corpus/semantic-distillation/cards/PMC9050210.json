@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9050210",
+  "paper_id": "doi:10.1039/c9ra09710d",
+  "pmcid": "PMC9050210",
+  "source_record_sha256": "eb203e2ff0ba195342d407b4eccd4868b8aa7d31e717d5201ddccfa7394e62a1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "246328c9a30380eca7f876477778b5c6734ffae01ebaf74e88c06271b5973ab8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preparation and biological properties of silk fibroin/nano-hydroxyapatite/graphene oxide scaffolds with an oriented channel-like structure",
+    "authors": "Wang L, Fang M, Xia Y, Hou J, Nan X, Zhao B, Wang X.",
+    "year": 2020,
+    "journal": "RSC Advances",
+    "doi": "10.1039/c9ra09710d",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

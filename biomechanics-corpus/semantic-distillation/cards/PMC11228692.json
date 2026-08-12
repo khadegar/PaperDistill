@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11228692",
+  "paper_id": "doi:10.3892/mi.2024.171",
+  "pmcid": "PMC11228692",
+  "source_record_sha256": "64e8df6afa219be60edb7d1453f9047a485b1d1602684d82da3270bf4b542cfc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "03bd544d178dbc6c89e7206ebf2906542271bd3aec14be4ae71fd99fca056539",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of screw and cement placement strategies for treating medial uncontained tibial defects in total knee arthroplasty: A finite element analysis",
+    "authors": "Kwanyuang A, Suklim P, Iamthanaporn K, Yuenyongviwat V.",
+    "year": 2024,
+    "journal": "Medicine International",
+    "doi": "10.3892/mi.2024.171",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

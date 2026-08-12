@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12167111",
+  "paper_id": "doi:10.1016/j.bioflm.2025.100287",
+  "pmcid": "PMC12167111",
+  "source_record_sha256": "50b72f55fe5d20d610707d5a7e5d4c4beaabcf58a15fe1e6e02c6da7322c6259",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "be9dc1438b1fe4d8ff5619153e4cf8e30de8404371516d2e4e9a56ea1785c2a5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Proteomic signatures of Staphylococcus aureus biofilm maturation on orthopaedic implants",
+    "authors": "Kuik C, de Boer C, van Hoogstraten SWG, Freulings K, Honing M, Arts JJC, Cillero-Pastor B.",
+    "year": 2025,
+    "journal": "Biofilm",
+    "doi": "10.1016/j.bioflm.2025.100287",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9057369",
+  "paper_id": "doi:10.1039/d0ra04581k",
+  "pmcid": "PMC9057369",
+  "source_record_sha256": "cae3e8af1fcb7976a534a0ff0bef51a903374767b4135b946b429d5c1b1a0f30",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1915f32b1bfb71aee628fb552580f89ab4aa796bb54cf1b656eccb11358d3260",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Sodium alginate/collagen composite multiscale porous scaffolds containing poly(ε-caprolactone) microspheres fabricated based on additive manufacturing technology †",
+    "authors": "Liu S, Huang D, Hu Y, Zhang J, Chen B, Zhang H, Dong X, Tong R, Li Y, Zhou W.",
+    "year": 2020,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d0ra04581k",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

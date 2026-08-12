@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13164351",
+  "paper_id": "doi:10.3390/ma19091732",
+  "pmcid": "PMC13164351",
+  "source_record_sha256": "139be5150b38ff5c8a575baedad0f7cfe06215bedc4d0bbfe4b650d03c3cfcd6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1d564b6b85d3f1f40d6325475ebf7f35529d8ca857519b0909ac02cbe353c537",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advancements in Individual Dental Implants: A State-of-the-Art Review of Materials and Technologies",
+    "authors": "Lukomska-Szymanska M, Radwanski M, Leski M, Khan AA, Matinlinna JP.",
+    "year": 2026,
+    "journal": "Materials",
+    "doi": "10.3390/ma19091732",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

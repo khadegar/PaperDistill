@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11351679",
+  "paper_id": "doi:10.3390/biology13080605",
+  "pmcid": "PMC11351679",
+  "source_record_sha256": "94b768d670f29782a281e41b58b3c197e4be102b0d12dbfa06c0117963ee1cd1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9f0789114ec984c77116f277ddc2709a34d1a25ba3cb87fe02031b0a59f16926",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advances in Regenerative and Reconstructive Medicine in the Prevention and Treatment of Bone Infections",
+    "authors": "Dantas LR, Ortis GB, Suss PH, Tuon FF.",
+    "year": 2024,
+    "journal": "Biology",
+    "doi": "10.3390/biology13080605",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

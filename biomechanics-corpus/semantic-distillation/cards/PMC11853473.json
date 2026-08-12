@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11853473",
+  "paper_id": "doi:10.3390/biomimetics10020088",
+  "pmcid": "PMC11853473",
+  "source_record_sha256": "605d7a5caeb1e6aa40c9a982485ce486abf1f6def4388f66a46ca88e81d48add",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5c46c4f928c8a4fba1f8bbf5bbf160449e9f54e45d7eeb85cead84e5cce49563",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "AI-Optimized Lattice Structures for Biomechanics Scaffold Design",
+    "authors": "Omigbodun FT, Oladapo BI.",
+    "year": 2025,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics10020088",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

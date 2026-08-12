@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10058839",
+  "paper_id": "doi:10.3390/jpm13030464",
+  "pmcid": "PMC10058839",
+  "source_record_sha256": "9c2d69a22db642a247e9b3b88209b42a8437c434f16527301ede540fdd7c72dd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "27ba51db6d84e11448ec064497cb565bb85f3eaabd6622fa4fab15885040d20f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Plotted Calcium Phosphate Scaffolds for Bone Defect Augmentation—A New Method for Regeneration",
+    "authors": "Schulz MC, Holtzhausen S, Nies B, Heinemann S, Muallah D, Kroschwald L, Paetzold-Byhain K, Lauer G, Sembdner P.",
+    "year": 2023,
+    "journal": "Journal of Personalized Medicine",
+    "doi": "10.3390/jpm13030464",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12628333",
+  "paper_id": "doi:10.1021/acsabm.5c01174",
+  "pmcid": "PMC12628333",
+  "source_record_sha256": "33aca692aa82a788018bf04ecdf1136ccf75927d77319bd27c38a023d0dc05be",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "76dcf8f5e26f78317b496759487d4f7d809d84317d183631b890d04c678c5712",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cleavable Silyl Ether Monomers with Elevated Thermomechanical Properties for Bone Regeneration",
+    "authors": "Gurmann T, Krauß J, Ammann T, Koch T, Frauenlob M, Liska R, Baudis S.",
+    "year": 2025,
+    "journal": "ACS Applied Bio Materials",
+    "doi": "10.1021/acsabm.5c01174",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

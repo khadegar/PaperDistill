@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10089997",
+  "paper_id": "doi:10.1007/s00167-023-07351-w",
+  "pmcid": "PMC10089997",
+  "source_record_sha256": "705f05535fa7922d1ec29fa170b4d8699d30339cf3fb5182a78efac87e2d0eef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "beb8e41f49ababe17b1a39057cf35cee39d0478ce3c89535f44e3ff7c9811c98",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The impact of different alignment strategies on bone cuts in total knee arthroplasty for varus knee phenotypes",
+    "authors": "Schelker BL, Moret CS, Sava MP, von Eisenhart-Rothe R, Graichen H, Arnold MP, Leclercq V, Hirschmann MT.",
+    "year": 2023,
+    "journal": "Knee Surgery, Sports Traumatology, Arthroscopy",
+    "doi": "10.1007/s00167-023-07351-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

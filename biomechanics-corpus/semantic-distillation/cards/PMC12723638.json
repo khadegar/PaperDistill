@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12723638",
+  "paper_id": "doi:10.1021/acsami.5c18437",
+  "pmcid": "PMC12723638",
+  "source_record_sha256": "aa0b7034eebe8edaf9bb2b2053ae202ede1755d1854d6d66b7a0446bda974e46",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "226716206683522caa756f76df0a446ba92ffcafa00c8e070b6450e3fc6722a2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Injectable Nanocomposite Biomaterial for 3D Printing of Personalized Matrices and Their Use in Bioreactors for Bioengineering Advanced Cell Culture Models",
+    "authors": "Campodoni E, Mazzoleni A, Montanari M, Vicinelli G, Possetti V, Inforzato A, Martin I, Muraro MG, Sandri M.",
+    "year": 2025,
+    "journal": "ACS Applied Materials & Interfaces",
+    "doi": "10.1021/acsami.5c18437",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

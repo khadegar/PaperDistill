@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8070453",
+  "paper_id": "doi:10.3390/pharmaceutics13040515",
+  "pmcid": "PMC8070453",
+  "source_record_sha256": "645da2a70197fc415923d83d82c27113f181df3d3024c4c9901d7e281b2d6dac",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bf286651ef493209807a3a87a3897c0546d63c1e3bf638ceb98c765b19016b73",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Bioprinted Scaffolds Containing Mesenchymal Stem/Stromal Lyosecretome: Next Generation Controlled Release Device for Bone Regenerative Medicine",
+    "authors": "Bari E, Scocozza F, Perteghella S, Sorlini M, Auricchio F, Torre ML, Conti M.",
+    "year": 2021,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics13040515",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12059345",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101790",
+  "pmcid": "PMC12059345",
+  "source_record_sha256": "8d25af611b11d8a6a3bd02130875820a1c9445320ecb71ff2b5d10f2831e2864",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f9006cc897375009584cf567332c563184f1ecdf3f5b1806d3653e2245b796e9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "CBD-conjugated BMP-inhibiting exosomes on collagen scaffold dual-target Achilles tendon repair: Synergistic regeneration and heterotopic ossification prevention",
+    "authors": "Xu Y, Huang J, Mai Y, Zhang Z, Li S, Lin H, Wei F, Chen Y.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101790",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

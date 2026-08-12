@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7402304",
+  "paper_id": "doi:10.3390/ijms21144837",
+  "pmcid": "PMC7402304",
+  "source_record_sha256": "0a3948df0bb3b0aade245a9b20675b8b0fcbce9665bc8a18794f4ebd1762a114",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7eb5097fbf03e61f6ac45df23b83211ced516048c13d38fea336d36419273c94",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Regeneration Capability of 3D Printed Ceramic Scaffolds",
+    "authors": "Kim JW, Yang BE, Hong SJ, Choi HG, Byeon SJ, Lim HK, Chung SM, Lee JH, Byun SH.",
+    "year": 2020,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms21144837",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12258091",
+  "paper_id": "doi:10.1002/jsp2.70075",
+  "pmcid": "PMC12258091",
+  "source_record_sha256": "7ce3aca1e3e85ff9dbc4152673d661d30ea472151d9a2a67ac9345b286c3ea87",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "18166bd1488e14be39111fe591ea4300d7ed87dd97cc608166c1084b4672f520",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of Habitual Flexion on Bone Formation After Spinal Fusion Surgery: An In Silico Study",
+    "authors": "Ananth Swaminathan S, Taheri N, Becker L, Pumberger M, Schmidt H, Checa S.",
+    "year": 2025,
+    "journal": "JOR Spine",
+    "doi": "10.1002/jsp2.70075",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

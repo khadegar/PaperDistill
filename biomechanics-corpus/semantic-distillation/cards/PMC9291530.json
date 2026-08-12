@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9291530",
+  "paper_id": "doi:10.1002/jor.25133",
+  "pmcid": "PMC9291530",
+  "source_record_sha256": "441a66d212629f3a91ffee3d202852257167daafa695ebc49b0133a815037c8f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "21ac12d29e5fb0d536e65fa34bd2a3b24e297f4cf4628ad8d15189114c2255bc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient‐specific 3D‐printed shelf implant for the treatment of hip dysplasia: Anatomical and biomechanical outcomes in a canine model",
+    "authors": "Willemsen K, Tryfonidou M, Sakkers R, Castelein RM, Zadpoor AA, Seevinck P, Weinans H, Meij B, van der Wal BCH.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Research",
+    "doi": "10.1002/jor.25133",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8999344",
+  "paper_id": "doi:10.3390/ijms23073895",
+  "pmcid": "PMC8999344",
+  "source_record_sha256": "19303ce3907c24bfb2bb036fc4506c76e7b1e67ad7a25bcd8fb5d3ab76a854a9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "686c8fd3c86a19ec0cbae55da50a590dd22de7246572154db67b382cfe5bdf33",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive Manufacturing of Poly(3-hydroxybutyrate- co -3-hydroxyvalerate)/Poly(D,L-lactide- co -glycolide) Biphasic Scaffolds for Bone Tissue Regeneration",
+    "authors": "Pecorini G, Braccini S, Parrini G, Chiellini F, Puppi D.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms23073895",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

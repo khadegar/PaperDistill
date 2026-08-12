@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12189450",
+  "paper_id": "doi:10.3390/bioengineering12060663",
+  "pmcid": "PMC12189450",
+  "source_record_sha256": "357b550c98e4b9a5137326af4b3355fb272c4db7b05557f3da86316fd573b51e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2e45c31a2b224be4a0be1e81f0d50207d02a02a051b13998a27a8a6f4fc3be01",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of Physiological Loading from Patient-Derived Activities of Daily Living on the Wear of Metal-on-Polymer Total Hip Replacements",
+    "authors": "Clegg BA, Perry S, De Pieri E, Redmond AC, Ferguson SJ, Lunn DE, Hall RM, Bryant MG, Emami N, Beadling AR.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12060663",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

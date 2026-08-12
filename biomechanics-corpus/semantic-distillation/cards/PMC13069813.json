@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13069813",
+  "paper_id": "doi:10.1186/s12896-026-01126-0",
+  "pmcid": "PMC13069813",
+  "source_record_sha256": "0ee1bddaef362def9e23d0b6a84d2a3c3df1587981e91bebb3ff97801d45c7cd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "56d68dc58c8c9369fd916c9692d149b89b825df0e19a08c1d5dae7f232f5699f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical and biological properties of trabecula and strut scaffolds in bone defect reconstruction",
+    "authors": "Liu L, Wang S, Wang X, Liu J.",
+    "year": 2026,
+    "journal": "BMC Biotechnology",
+    "doi": "10.1186/s12896-026-01126-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

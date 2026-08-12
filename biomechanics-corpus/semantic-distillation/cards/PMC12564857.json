@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12564857",
+  "paper_id": "doi:10.3390/biomimetics10100688",
+  "pmcid": "PMC12564857",
+  "source_record_sha256": "76eefde8a8068520145f3d8f72a583264645fceb4d5ef606f7c57dfd9f98b1d0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "87e15040ac58bf0eeb561005cf7b366eb1d769cb12aa6ab2c8228348639cb0a2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biocomposite-Based Biomimetic Plate for Alternative Fixation of Proximal Humerus Fractures",
+    "authors": "Suffo M, Fernández-Illescas I, Simonet AM, Pérez-Muñoz C, Andrés-Cano P.",
+    "year": 2025,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics10100688",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

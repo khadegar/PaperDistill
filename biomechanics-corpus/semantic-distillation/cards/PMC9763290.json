@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9763290",
+  "paper_id": "doi:10.3389/fphar.2022.1044726",
+  "pmcid": "PMC9763290",
+  "source_record_sha256": "fb21bdfa32425461ba124652206e98b2b3ba14c4361918d2d31571f005763ffe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "94817a0bd0580a1b64493c4c2a17b70c7679dc9c82c1af16faa0e42e94f3cca9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing of bone and cartilage with polymer materials",
+    "authors": "Fan D, Liu Y, Wang Y, Wang Q, Guo H, Cai Y, Song R, Wang X, Wang W.",
+    "year": 2022,
+    "journal": "Frontiers in Pharmacology",
+    "doi": "10.3389/fphar.2022.1044726",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

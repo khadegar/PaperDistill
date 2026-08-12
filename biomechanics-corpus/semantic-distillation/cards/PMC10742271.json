@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10742271",
+  "paper_id": "doi:10.3390/biomimetics8080618",
+  "pmcid": "PMC10742271",
+  "source_record_sha256": "331ffefdbda542edcbe6cb7159a1d414b397c3fc77e6d110d57f6db0aab4eab3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d505a082c87da12fa3913dd302f1e80da5a97c1485f8fbbff9349c3f3d7f3467",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Regeneration Induced by Patient-Adapted Mg Alloy-Based Scaffolds for Bone Defects: Present and Future Perspectives",
+    "authors": "Manescu Paltanea V, Antoniac I, Antoniac A, Laptoiu D, Paltanea G, Ciocoiu R, Nemoianu IV, Gruionu LG, Dura H.",
+    "year": 2023,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics8080618",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

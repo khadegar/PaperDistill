@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11632501",
+  "paper_id": "doi:10.13107/jocr.2024.v14.i12.5000",
+  "pmcid": "PMC11632501",
+  "source_record_sha256": "66944749280b54e39133f93a2b5975c29061b5dc3535471d623b7e1aa31bff64",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a19c2c5aedff61128221aadb72278f02de8abcec1e89bcf5b0a8a4aaf806cf5a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Corticotomy-Assisted Extraction for a Rare 3-Part Broken Proximal Femoral Nail: A Case Report",
+    "authors": "Kumar P, Aggarwal S, Gupta A, Dadra A, Patel S, Goni V.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Case Reports",
+    "doi": "10.13107/jocr.2024.v14.i12.5000",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

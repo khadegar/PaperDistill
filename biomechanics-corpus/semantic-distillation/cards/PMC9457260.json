@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9457260",
+  "paper_id": "doi:10.3390/ma15175956",
+  "pmcid": "PMC9457260",
+  "source_record_sha256": "2261b83b89e6c4435d1adc942454605a3da3faf6208d5ab7b832879253fbb5c7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f5e12600fe4d50ea62e91cfd31e9509b3d51f856284ceffeee8f858d3b4f0a95",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Ti64/20Ag Porous Composites Fabricated by Powder Metallurgy for Biomedical Applications",
+    "authors": "Olmos L, Gonzaléz-Pedraza AS, Vergara-Hernández HJ, Chávez J, Jimenez O, Mihalcea E, Arteaga D, Ruiz-Mondragón JJ.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15175956",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

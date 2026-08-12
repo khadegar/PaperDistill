@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10795423",
+  "paper_id": "doi:10.1186/s13018-024-04538-w",
+  "pmcid": "PMC10795423",
+  "source_record_sha256": "96dcf37e01f89c303ac33162ee266a4295b5b2bebe1e08211ad79414e31ab6d4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5d2063bfe427d956542c6097e0a118daff2cb0b07ea0dfaeb99b960222449fae",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative study of locking neutralization plate construct versus tension band wiring with a cannulated screw for patella fractures: experimental and finite element analysis",
+    "authors": "Kim S, Mungalpara N, Wangikar R, Tarabichi M, Karam J, Bedi A, Koh J, Amirouche F.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-04538-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11290066",
+  "paper_id": "doi:10.1186/s12984-024-01426-6",
+  "pmcid": "PMC11290066",
+  "source_record_sha256": "55434e04dd3c2640ff24b27bc317836f8e4ff4f486b141e15173b7fc67855df8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "07fd2e088e052a14acc8fb5ee6c027eca77cb3a8deedeee65e74d95dbebc470f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Validation of IMU against optical reference and development of open-source pipeline: proof of concept case report in a participant with transfemoral amputation fitted with a Percutaneous Osseointegrated Implant",
+    "authors": "Ahmed K, Taheri S, Weygers I, Ortiz-Catalan M.",
+    "year": 2024,
+    "journal": "Journal of NeuroEngineering and Rehabilitation",
+    "doi": "10.1186/s12984-024-01426-6",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Validation Study; Journal Article; Case Reports",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

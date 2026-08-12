@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8573409",
+  "paper_id": "doi:10.3389/fbioe.2021.672959",
+  "pmcid": "PMC8573409",
+  "source_record_sha256": "e7f02adcb72ffbbcca0e6f67de7ff780fcc8e030b59872e15b587c2c0854dcee",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c53479571e2e5233b42e52e6d4527d77dd987c8cf23049cde4ca2be0c29d03e0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Electrospun Fiber Alignment Guides Osteogenesis and Matrix Organization Differentially in Two Different Osteogenic Cell Types",
+    "authors": "Delaine-Smith RM, Hann AJ, Green NH, Reilly GC.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.672959",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

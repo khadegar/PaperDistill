@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7730039",
+  "paper_id": "doi:10.3390/ijms21239205",
+  "pmcid": "PMC7730039",
+  "source_record_sha256": "51048731d765c533c4bce878d9527f697266e5f4caca173c667273d2ac2b0228",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0ea37cdee0b077d43c42fab5b7eda0d14b6174251dc932878c00a1e49705c515",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Healing Pattern Analysis for Dental Implants Using the Mechano-Regulatory Tissue Differentiation Model",
+    "authors": "Li MJ, Kung PC, Chang YW, Tsou NT.",
+    "year": 2020,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms21239205",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

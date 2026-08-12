@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8082506",
+  "paper_id": "doi:10.5312/wjo.v12.i4.214",
+  "pmcid": "PMC8082506",
+  "source_record_sha256": "c6169761c8b2a3c5c2c54e5697f6db3442ba2fe2ba1c8a4211db0847c557d354",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c8e806bf01a28bad96925da96217e3a03fc5f9dc1d07f58c5b7a268c75cfbaf1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osseointegration of porous titanium and tantalum implants in ovariectomized rabbits: A biomechanical study",
+    "authors": "Bondarenko S, Filipenko V, Karpinsky M, Karpinska O, Ivanov G, Maltseva V, Badnaoui AA, Schwarzkopf R.",
+    "year": 2021,
+    "journal": "World Journal of Orthopedics",
+    "doi": "10.5312/wjo.v12.i4.214",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

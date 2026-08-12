@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11136833",
+  "paper_id": "doi:10.1007/s00198-024-07029-0",
+  "pmcid": "PMC11136833",
+  "source_record_sha256": "84ceec11542182eda1f59b7c9c5258cd36c9cf63e85b3d1122736d6e1062d65c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3d95f87eb1a5fc68245054aaf952d0265e9067907dcd93a10e3fa4386fef0510",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "CT image-based biomarkers for opportunistic screening of osteoporotic fractures: a systematic review and meta-analysis",
+    "authors": "Praveen AD, Sollmann N, Baum T, Ferguson SJ, Benedikt H.",
+    "year": 2024,
+    "journal": "Osteoporosis International",
+    "doi": "10.1007/s00198-024-07029-0",
+    "publication_type": "Meta-Analysis; Systematic Review; review-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

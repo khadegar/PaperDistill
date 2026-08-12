@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10123638",
+  "paper_id": "doi:10.3390/biomimetics8020166",
+  "pmcid": "PMC10123638",
+  "source_record_sha256": "f8b3c435004597f7745198bb9b82b891defe15fb0cfe89cd4a32eb6953587fc6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "732fc7fbf8421573aba79b13fe9228413a8cc8668de1d17b1d81e10fa9e3b123",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Structural Mechanical Properties of 3D Printing Biomimetic Bone Replacement Materials",
+    "authors": "Lv X, Wang S, Xu Z, Liu X, Liu G, Cao F, Ma Y.",
+    "year": 2023,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics8020166",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

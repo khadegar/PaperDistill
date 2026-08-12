@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9465293",
+  "paper_id": "doi:10.3389/fbioe.2022.928656",
+  "pmcid": "PMC9465293",
+  "source_record_sha256": "37b51b5c4546b5a11512d6092224ce4fdae96fcae8ef458add20057ceab4ccf7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4b1ab4d8e15bae24ce3676fe4ad59d7af90520720ac27d246cd8bfd118a613d2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of mandibular flexure on the design of implant-supported fixed restorations of different facial types under two loading conditions by three-dimensional finite element analysis",
+    "authors": "Gao J, Li X, He J, Jiang L, Zhao B.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.928656",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

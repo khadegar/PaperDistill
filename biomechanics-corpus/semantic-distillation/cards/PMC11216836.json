@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11216836",
+  "paper_id": "doi:10.1111/os.14069",
+  "pmcid": "PMC11216836",
+  "source_record_sha256": "f2d3794891e09cf6a23bde06a7dda1892b7fd1e797b46d2932f6600b62284a8f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "244a66b75f040153369facbd6b6f141efd4d847c5fe642b164068cefbd2501ed",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of Six Internal Fixations in the Treatment of Pauwels Type III Femoral Neck Fracture",
+    "authors": "Sun X, Han Z, Cao D, Han C, Xie M, Zeng X, Dong Q.",
+    "year": 2024,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.14069",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

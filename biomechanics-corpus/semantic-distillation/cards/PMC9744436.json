@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9744436",
+  "paper_id": "doi:10.7759/cureus.31346",
+  "pmcid": "PMC9744436",
+  "source_record_sha256": "a58f2ee83da28383cb48e7a03d268a220c6535c49c91d23da4db75ca30223090",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "24de43c116f43bb2daac4b23a43f01734fc347a00292019275f37af2fa30a632",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Use of Nanocomposites in Bone Regeneration",
+    "authors": "Masne N, Ambade R, Bhugaonkar K.",
+    "year": 2022,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.31346",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

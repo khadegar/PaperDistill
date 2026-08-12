@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6430493",
+  "paper_id": "doi:10.1111/os.12425",
+  "pmcid": "PMC6430493",
+  "source_record_sha256": "c5f444a116bb0cab44658ad148b2474ed66c4e3a9220b46eedb2e9ccf7396583",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0c7354b4b3cc5ee5423bca58cb369b1076fa899177ceb21da6a6b35e9617e1ce",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Defects in Revision Total Knee Arthroplasty and Management",
+    "authors": "Lei PF, Hu RY, Hu YH.",
+    "year": 2019,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.12425",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

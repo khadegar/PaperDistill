@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8473621",
+  "paper_id": "doi:10.3389/fbioe.2021.736063",
+  "pmcid": "PMC8473621",
+  "source_record_sha256": "32ad30b17e5f920a00b8cd682ed006cb3745042b3fe9b3a3ae96b1d36b20b9dd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a4bf7dfb3cd269536a856d0f1594a262ecaaebf6c7072b55be3fb670f5f4d6d7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Determination of an Initial Stage of the Bone Tissue Ingrowth Into Titanium Matrix by Cell Adhesion Model",
+    "authors": "Liu Z, Tamaddon M, Chen SM, Wang H, San Cheong V, Gang F, Sun X, Liu C.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.736063",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

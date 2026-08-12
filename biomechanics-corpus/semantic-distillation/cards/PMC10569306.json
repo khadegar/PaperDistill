@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10569306",
+  "paper_id": "doi:10.3389/fbioe.2023.1260639",
+  "pmcid": "PMC10569306",
+  "source_record_sha256": "1a942dc494cf67b7f7c5602d6e2b563a4104bbc952c401774034c06315b43d3d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fc11262839b16e556dde98b0ad06bf5b479a5abac623b008cfc40910e7b29794",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of osteogenic capability of 3D-printed bioceramic scaffolds and granules with different porosities for clinical translation",
+    "authors": "Yue X, Zhao L, Yang J, Jiao X, Wu F, Zhang Y, Li Y, Qiu J, Ke X, Sun X, Yang X, Gou Z, Zhang L, Yang G.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1260639",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

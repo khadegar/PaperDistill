@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8180052",
+  "paper_id": "doi:10.1186/s12891-021-04395-2",
+  "pmcid": "PMC8180052",
+  "source_record_sha256": "438b91a0f8779ece1faf87be21301b04aa501905c35971fed90f02fb8ac12d8b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6642397f60314c8587ab8c78d8e27439a0ee96cab0f60a733372496159eeca20",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Quantitative measurements of adaptive bone remodeling around the cemented Zimmer® segmental stem after tumor resection arthroplasty using dual-energy x-ray absorptiometry",
+    "authors": "Enciso Holm C, Horstmann P, Sørensen MS, Dyreborg K, Petersen MM.",
+    "year": 2021,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-021-04395-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

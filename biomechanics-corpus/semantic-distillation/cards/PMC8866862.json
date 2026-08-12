@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8866862",
+  "paper_id": "doi:10.3389/fbioe.2021.803103",
+  "pmcid": "PMC8866862",
+  "source_record_sha256": "e5f067b4f3ffa217a4d99d5125f92f59dcf16a22809d39fcdf17dba77d28cdbd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "12ef2c826015fba7cec78d52c48ff44d8291c252facc0fb0dc61cff0005f4013",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Silico Biomechanical Evaluation of WE43 Magnesium Plates for Mandibular Fracture Fixation",
+    "authors": "Orassi V, Fischer H, Duda GN, Heiland M, Checa S, Rendenbach C.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.803103",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

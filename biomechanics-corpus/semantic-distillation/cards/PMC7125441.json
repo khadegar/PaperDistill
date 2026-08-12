@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7125441",
+  "paper_id": "doi:10.1155/2020/6783936",
+  "pmcid": "PMC7125441",
+  "source_record_sha256": "915ab1fb21616b8c9914f9ec535f7718a29bcda276fc716cb1626a0fc2c85d4a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "69bd4aa73aa1e4a9be601bb7bf12ecee5469889d0268597ad38674b93f1b851b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Femoral Stress Changes after Total Hip Arthroplasty with the Ribbed Prosthesis: A Finite Element Analysis",
+    "authors": "Luo C, Wu XD, Wan Y, Liao J, Cheng Q, Tian M, Bai Z, Huang W.",
+    "year": 2020,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2020/6783936",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7211168",
+  "paper_id": "doi:10.7150/ijbs.37552",
+  "pmcid": "PMC7211168",
+  "source_record_sha256": "6cbc664c28180d79dc4cabe51afff796cb15ff7f705b0631defeda88b57c33b1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6712754a323b061af0cc5b59d1833eeb3adde13703e5d71f572c7cab5cf80d06",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A novel vehicle-like drug delivery 3D printing scaffold and its applications for a rat femoral bone repairing in vitro and in vivo",
+    "authors": "Wang H, Deng Z, Chen J, Qi X, Pang L, Lin B, Adib YTY, Miao N, Wang D, Zhang Y, Li J, Zeng X.",
+    "year": 2020,
+    "journal": "International Journal of Biological Sciences",
+    "doi": "10.7150/ijbs.37552",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

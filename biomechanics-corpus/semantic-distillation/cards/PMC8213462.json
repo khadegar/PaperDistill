@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8213462",
+  "paper_id": "doi:10.1155/2021/1308805",
+  "pmcid": "PMC8213462",
+  "source_record_sha256": "af2831ad77d2339898b9cc20841e95ede2269c75b7c5d630ff7cdc9a9360a675",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5b4c74df501c2de42d403fa81e714dc0ced822cd5da9135bef3c7bc0e07ab8ca",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Novel 3D-Printed Device for Precise Percutaneous Placement of Cannulated Compression Screws in Human Femoral Neck Fractures",
+    "authors": "Long C, Liu JH, Chai XP, Liu XF, Duan ZX.",
+    "year": 2021,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2021/1308805",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

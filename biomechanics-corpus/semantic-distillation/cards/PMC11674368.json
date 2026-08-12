@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11674368",
+  "paper_id": "doi:10.1186/s12891-024-08235-x",
+  "pmcid": "PMC11674368",
+  "source_record_sha256": "9190bf12d326bb8cf2aa12dbf4979e38efdeff49b8684eb2379ddc6ff696e13f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "081e3c9028430ec51ca702d3f398e6eb6546d0dee5e00666d17215ae6dfe62a7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of a novel patellar fracture fixation method",
+    "authors": "Liu Y, Zhang X, Yu S, Gao M, Han C, Xue B, Zhou Y.",
+    "year": 2024,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-024-08235-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

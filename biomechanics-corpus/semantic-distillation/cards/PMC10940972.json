@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10940972",
+  "paper_id": "doi:10.1097/md.0000000000037471",
+  "pmcid": "PMC10940972",
+  "source_record_sha256": "be41a19c634756c57eed4f559c3a9b3d2fad74a83840e233d108b494c45fc391",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dc65162813bef751cb0561833ca855a871842b018aace44d3208e6a15e08b765",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Efficacy of bone ring grafts for the reconstruction of alveolar ridge deficiencies: A systematic review. Part I: Clinical trials",
+    "authors": "Zhao R, Wang Y, Lin H, Cao M, Xu X, Yuan Z, Gong J.",
+    "year": 2024,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000037471",
+    "publication_type": "research-article; Systematic Review; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

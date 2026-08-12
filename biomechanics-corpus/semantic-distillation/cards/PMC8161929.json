@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8161929",
+  "paper_id": "doi:10.1186/s13018-021-02374-w",
+  "pmcid": "PMC8161929",
+  "source_record_sha256": "b23a9b244389a416b3ac41c8e8a706abf13e9bade5564c5a20f0ae79eed0cbb9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "287f39f295f9cd595ceef0ec4ab99308cf50ff392474e3b0735151d0d420d8af",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing guide plate for accurate hemicortical bone tumor resection in metaphysis of distal femoral: a technical note",
+    "authors": "Wu H, Yang S, Liu J, Li L, Luo Y, Dai Z, Wang X, Yao X, Zhou F, Li X.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-021-02374-w",
+    "publication_type": "brief-report; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

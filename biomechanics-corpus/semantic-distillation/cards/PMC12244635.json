@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12244635",
+  "paper_id": "doi:10.4103/jpbs.jpbs_1651_24",
+  "pmcid": "PMC12244635",
+  "source_record_sha256": "b7658bf6c1d1a056b41b055f141abe1a327fc31af7162d2ab1ec12328736312f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d055ab2edad861287f0b35e9c4c7b4504b9ca1bd646df4b55c66482144820e44",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro Analysis of Bone Response to Different Implant Surface Roughness",
+    "authors": "Lagdive SS, Vasani A, Madhad V, Tulsi SPS, Panda A, Gupta SP, Patadiya HH, Lunkad H.",
+    "year": 2025,
+    "journal": "Journal of Pharmacy & Bioallied Sciences",
+    "doi": "10.4103/jpbs.jpbs_1651_24",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

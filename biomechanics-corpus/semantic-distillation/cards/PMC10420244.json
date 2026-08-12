@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10420244",
+  "paper_id": "doi:10.3390/ma16155206",
+  "pmcid": "PMC10420244",
+  "source_record_sha256": "259f4a81c0b4038a7c1e89e2eb9ae77106057af56838bedec0863aeed0bef50c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "98883365573e5afce7566185395e4722ea0ca4abcbf0f0a296210d1edbf781ee",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Antibacterial Structure Design of Porous Ti6Al4V by 3D Printing and Anodic Oxidation",
+    "authors": "Yang G, Liu H, Li A, Liu T, Lu Q, He F.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16155206",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

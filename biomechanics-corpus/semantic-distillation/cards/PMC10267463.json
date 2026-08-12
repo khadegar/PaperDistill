@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10267463",
+  "paper_id": "doi:10.3389/fbioe.2023.1199343",
+  "pmcid": "PMC10267463",
+  "source_record_sha256": "660689980a13aa1be910c8e713ac1de29165d2cd18599abef70882303021025c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f9a239a94d71a7144d1ca4b2468f6869e316a6f12e0e6ba47f6a397b14f3c671",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "PLGA-based drug delivery systems in treating bone tumors",
+    "authors": "Qiu E, Liu F.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1199343",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

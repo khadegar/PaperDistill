@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10473469",
+  "paper_id": "doi:10.1371/journal.pone.0285760",
+  "pmcid": "PMC10473469",
+  "source_record_sha256": "d3fe735e9f7313b0f5e984a9cb646cd6ecf671edd6dbc46b85c586ed8bf13eb7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "86c7a9502ab3e565bc6c95a4f5deb56e1e9cc3721dd6f1ffc9dc14d223240e0c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The fracture resistance of 3D-printed versus milled provisional crowns: An in vitro study",
+    "authors": "Othman A, Sandmair M, Alevizakos V, von See C.",
+    "year": 2023,
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0285760.r008",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vitro",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

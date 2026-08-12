@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7729093",
+  "paper_id": "doi:10.3389/fbioe.2020.604814",
+  "pmcid": "PMC7729093",
+  "source_record_sha256": "1ba636f98dd0a1d60b28ae0ccea4a7adba9325d9e5fcc2e9a97f2b2e7673bfe6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "eee1d55b2a817a44495f1b73a72e10a2b8eedf07d1712e44dfceee461714ee86",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent Progress in 3D Printing of Elastic and High-Strength Hydrogels for the Treatment of Osteochondral and Cartilage Diseases",
+    "authors": "Dai W, Sun M, Leng X, Hu X, Ao Y.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.604814",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

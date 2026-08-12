@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11417428",
+  "paper_id": "doi:10.1002/mco2.753",
+  "pmcid": "PMC11417428",
+  "source_record_sha256": "7016e243ceec938efdf2dbb7abee04e458d7cfa540df518433dd9d4cd80281a1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3e6877f231fcac5525b74dcb187968d28f025a1a364d123380fcc9eb6e1cd3f1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The cutting‐edge progress in bioprinting for biomedicine: principles, applications, and future perspectives",
+    "authors": "Liu S, Chen Y, Wang Z, Liu M, Zhao Y, Tan Y, Qu Z, Du L, Wu C.",
+    "year": 2024,
+    "journal": "MedComm",
+    "doi": "10.1002/mco2.753",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

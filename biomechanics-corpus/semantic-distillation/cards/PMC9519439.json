@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9519439",
+  "paper_id": "doi:10.1016/j.bioactmat.2022.09.013",
+  "pmcid": "PMC9519439",
+  "source_record_sha256": "1f53c6e17d3a6d8eb531fe243f4cfaa5e866197435d21b303208501d2ce7398f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5ccac2993be355b757ac88cf73360f4adabaabb8cbcd20616e4b8059922e6d26",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Laponite intercalated biomimetic multilayer coating prevents glucocorticoids induced orthopedic implant failure",
+    "authors": "Liu Z, Tang Q, Liu RT, Yu MZ, Peng H, Zhang CQ, Zhu ZZ, Wei XJ.",
+    "year": 2022,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2022.09.013",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

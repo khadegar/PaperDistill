@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11085401",
+  "paper_id": "doi:10.3390/polym16091216",
+  "pmcid": "PMC11085401",
+  "source_record_sha256": "0f67211cb292301972978b7738dd266eef5feeb68b35a53de12eac576a04f2ed",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9bb4f038e925d96ba737e1b3a261ad8dda754ce8a9521d1c7f0aecfae3836a22",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "High-Temperature Polylactic Acid Proves Reliable and Safe for Manufacturing 3D-Printed Patient-Specific Instruments in Pediatric Orthopedics—Results from over 80 Personalized Devices Employed in 47 Surgeries",
+    "authors": "Menozzi GC, Depaoli A, Ramella M, Alessandri G, Frizziero L, De Rosa A, Soncini F, Sassoli V, Rocca G, Trisolino G.",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16091216",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5951367",
+  "paper_id": "doi:10.3390/ma11040521",
+  "pmcid": "PMC5951367",
+  "source_record_sha256": "8d55f5bb37fa8ec71783bcd0a733aabf41120d4c52438ff124b0e6f349a28d18",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b6fbb1b526dbb38f2cfee6be718a47a4553bc64c79229aa4f668b98e2aab9dd6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous Polyethylene Coated with Functionalized Hydroxyapatite Particles as a Bone Reconstruction Material",
+    "authors": "Fouad H, Fouad H, AlFotawi R, Alothman OY, Alshammari BA, Alfayez M, Hashem M, Mahmood A.",
+    "year": 2018,
+    "journal": "Materials",
+    "doi": "10.3390/ma11040521",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

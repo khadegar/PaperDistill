@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12025189",
+  "paper_id": "doi:10.3390/biomimetics10040238",
+  "pmcid": "PMC12025189",
+  "source_record_sha256": "3153fd463e12ac2b55f253a58b403b03582d65ceaca44972334907dc6d181751",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "852e1141336a36a49cc39d5b84736130a99c1a2ea66cd59c8f6f400475583953",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Neural Network-Accelerated Approach for Orthopedic Implant Design and Evaluation Through Strain Shielding Analysis",
+    "authors": "Pais AIL, Lino Alves J, Belinha J.",
+    "year": 2025,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics10040238",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

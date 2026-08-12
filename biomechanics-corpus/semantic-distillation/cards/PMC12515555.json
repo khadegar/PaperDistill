@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12515555",
+  "paper_id": "doi:10.7759/cureus.92047",
+  "pmcid": "PMC12515555",
+  "source_record_sha256": "6fb04af0ec77b16e75dcf73585a8e9db9e7391fee0bfd1a17fcdec0f15a72463",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "65f92570f50320a0e3e38750b07976d89cd06768c6dbc0c902c19599b89af63c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Functional Outcome of Distal Femur Nail Multilocking (DFN-ML) in Distal Third Femur Fractures",
+    "authors": "Bisht M, Peshin C, Kumar S.",
+    "year": 2025,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.92047",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

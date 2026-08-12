@@ -1,0 +1,228 @@
+{
+  "study": {
+    "article_kind": "original_in_vitro_drug_delivery_and_antibacterial_materials_study",
+    "design_features": [
+      "hyperbranched_polyester_nanocarrier",
+      "antibiotic_encapsulation",
+      "peptide_enriched_silk_fibroin_sponge",
+      "three_day_release",
+      "murine_fibroblast_extract_indirect_cytotoxicity",
+      "planktonic_time_kill",
+      "serial_resistance_screen"
+    ],
+    "research_problem": "Orthopedic and dental implants need local antimicrobial strategies that do not compromise tissue compatibility, but direct antibiotic addition destabilized peptide-enriched silk fibroin and uncontrolled local exposure can cause toxicity or resistance.",
+    "exact_gap": "The study addresses formulation compatibility and early in-vitro antimicrobial performance by placing weakly basic antibiotics in an anionic hyperbranched nanocarrier before incorporation into a silk-based sponge; it does not test current-study osteoconduction or osseointegration (S002:C03-S002:C05; S006:C02).",
+    "objective_or_hypothesis": "Synthesize stable vancomycin-, minocycline-, or tetracycline-loaded CHAP nanoparticles, embed them in peptide-enriched silk fibroin, characterize release and compatibility, and screen activity against orthopedic/dental infection-related bacteria without selecting reduced susceptibility (S001:C01; S002:C04-S002:C05).",
+    "study_design": "Polymer synthesis/NMR/FTIR, nanoparticle DLS/zeta potential/drug-loading characterization, freeze-dried sponge formulation, three-day PBS release, 24-hour indirect NIH-3T3 MTT testing of unloaded CHAP-containing sponges, planktonic time-kill assays, and 7-day repeated-zone/MIC resistance screening (S004:C01-S013:C01).",
+    "sample_or_model": "Commercial hyperbranched polyester, silk-derived fibroin/peptides, three antibiotics, NIH-3T3 murine fibroblasts, four staphylococcal clinical isolates and four oral/reference/clinical strains; no bone-forming cell, biofilm implant, animal, or patient model.",
+    "comparators": [
+      "CHAP formulations at 10% versus 20% loading in PSF",
+      "Vancomycin, minocycline, and tetracycline formulations",
+      "Antibiotic-loaded versus unloaded PSF@CHAP sponges and broth-only bacterial controls",
+      "Fresh-medium negative versus Triton-X positive cytotoxicity controls",
+      "Pre-exposure versus day-7/day-14 MIC",
+      "No free-antibiotic, conventional carrier, implant-coating, osteogenic, or in-vivo comparator"
+    ],
+    "method_spine": [
+      "Resolve formulation incompatibility by isolating antibiotic charge within a stable nanocarrier.",
+      "Verify polymer functionalization, particle size/charge/loading, and sponge chemistry.",
+      "Measure burst and short-term release for each antibiotic.",
+      "Screen carrier-only cytocompatibility before microbiological work.",
+      "Measure planktonic bactericidal kinetics across concentration/formulation variants.",
+      "Probe short serial exposure for reduced susceptibility and report formulation failure/brittleness.",
+      "Keep antimicrobial screening separate from untested bone integration and clinical prevention claims."
+    ],
+    "validation_roles": {
+      "verification": [
+        "NMR/FTIR verify carboxylation and proposed drug/polymer interactions; DLS, zeta potential, UV-vis loading, and FTIR characterize the nanoparticles and sponges (S014:C01-S016:C02).",
+        "Assay positive/negative controls, unloaded sponges, replicate structure, EUCAST MIC procedure, and a prespecified 3-log bactericidal criterion support assay operation (S008:C01-S013:C01)."
+      ],
+      "calibration": [
+        "UV-vis calibration curves quantify loading/release, but there is no pharmacokinetic, therapeutic-window, tissue-exposure, or device-dose calibration (S005:C02; S007:C01)."
+      ],
+      "validation": [
+        "The formulations show carrier chemistry, release, fibroblast metabolic activity, and planktonic bacterial killing in vitro; no orthogonal biofilm, infected bone, device, osteogenic, mechanical, or in-vivo validation is provided.",
+        "The current study does not validate osteoconduction or osseointegration; those properties are inherited rhetorically from prior PSF publications (S002:C03; S021:C01)."
+      ],
+      "sensitivity": [
+        "Ten versus twenty percent carrier/antibiotic formulations and multiple organisms expose dose/strain differences; PSF@CHAP_TC20 collapsed and was excluded, revealing an adverse formulation boundary (S019:C01-S019:C02; S021:C05).",
+        "No sensitivity covers sponge mass/geometry, release medium, protein/serum, flow, pH, degradation, inoculum, biofilm maturity, mechanical handling, or host-cell antibiotic exposure."
+      ],
+      "application_prediction": [
+        "Preventing orthopedic/dental implant infection while supporting osseointegration is a proposed application, not a tested outcome (S021:C05-S022:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "CHAP particles containing vancomycin, minocycline, or tetracycline were approximately 80, 110, and 90 nm with negative zeta potentials and reported drug loadings of 39.5%, 45.5%, and 49% w/w (S015:C01).",
+      "Release was strongly front-loaded: tetracycline about 65% in 30 minutes plus about 15% later, minocycline nearly 100% in 2 hours with later apparent decline/degradation, and vancomycin about 55% early plus a slower approximately 30% over three days (S017:C01).",
+      "Unloaded PSF@CHAP10/20 sponges yielded about 98.7%/97.1% NIH-3T3 MTT viability after 24-hour indirect exposure (S018:C01; S021:C04).",
+      "Vancomycin-20% and minocycline-20% formulations produced the fastest planktonic killing in their tested bacterial panels; unloaded sponges did not suppress growth (S019:C01-S019:C02).",
+      "No greater-than-fourfold MIC increase was observed after the serial exposure protocol, while the 20% tetracycline sponge was too brittle to analyze (S020:C01; S021:C05)."
+    ],
+    "highest_evidence_level_reached": "Early in-vitro chemistry, release, carrier-only cytocompatibility, planktonic antimicrobial, and short resistance-screen evidence; no current-study osteogenic, biofilm-device, infected-bone, mechanical, animal, or clinical evidence."
+  },
+  "argument_map": {
+    "central_claim": "The nanocarrier strategy enabled three antibiotics to be incorporated into PSF sponges and produced short-term in-vitro bactericidal activity without detected MIC shift in a small strain panel; it does not establish controlled long-term delivery, antibiotic-loaded construct biocompatibility, biofilm eradication, osteoconduction, osseointegration, or prevention of implant infection.",
+    "data": [
+      "Chemical/particle/sponge characterization and three-day release profiles (S014:C01-S017:C01).",
+      "Carrier-only MTT, planktonic time-kill, serial ZOI, and MIC outcomes, including a brittle failed formulation (S018:C01-S021:C05)."
+    ],
+    "warrant": "Stable formulation plus bactericidal release in controlled assays justifies further preclinical development, while multifunctional implant claims require each function—host compatibility, biofilm control, bone response, mechanics, and delivery safety—to be independently tested.",
+    "backing": [
+      "The authors themselves call the findings preliminary, acknowledge few isolates, and request broader pathogen/susceptibility studies (S001:C01; S021:C05-S021:C06)."
+    ],
+    "qualifier": "Short-term in-vitro screening under specified PBS, fibroblast, broth-culture, and serial-agar conditions.",
+    "rebuttals_or_boundaries": [
+      "Cytotoxicity was tested on PSF@CHAP without antibiotics, so host-cell safety of the active drug-loaded formulations is not established (S008:C01-S008:C02; S018:C01).",
+      "The kill curves use planktonic broth cultures, not mature biofilm on titanium, bone, or an infected device (S010:C01).",
+      "No free-antibiotic or standard local-delivery comparator separates nanocarrier benefit from total antibiotic dose.",
+      "Release lasts only three days and is dominated by burst; minocycline degradation complicates mass-balance interpretation (S017:C01).",
+      "No current osteogenic cell, apatite, bone ingrowth, interface, or animal outcome supports osteoconduction/osseointegration.",
+      "One high-loading formulation failed mechanically by brittleness, while systematic mechanics are absent (S021:C05)."
+    ],
+    "argument_coherence": "moderate_for_antibacterial_screen_low_for_multifunctional_implant_claim"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Polymer spectroscopy, particle hydrodynamic size/zeta potential/drug content, sponge spectroscopy, PBS release, 24-hour NIH-3T3 MTT for unloaded carrier sponges, bacterial CFU kill curves, ZOI, and MIC before/after serial exposure (S014:C01-S020:C01)."
+    ],
+    "predicted": [],
+    "inferred": [
+      "Spectral shifts are interpreted as ionic/hydrogen-bond interactions; these are chemically plausible but not full structural determination (S015:C01-S015:C04; S021:C02-S021:C03).",
+      "Release is attributed to diffusion plus PSF swelling without mechanistic kinetic fitting or matrix-swelling/degradation measurements (S017:C01).",
+      "No MIC increase in the short protocol is interpreted as absence of transient/stable resistance selection, which exceeds the isolate number, duration, and assay environment (S020:C01).",
+      "PSF osteoconduction and device osseointegration support are inferred from earlier work rather than measured here (S002:C03; S021:C01).",
+      "The formulations are called safe/preventive based on carrier-only MTT and in-vitro killing (S021:C04-S022:C01)."
+    ],
+    "recommended": [
+      "Test active-formulation cytotoxicity and therapeutic window, release under physiological flow/protein and degradation, mature polymicrobial biofilm on implant surfaces, resistance evolution, mechanics, osteogenic/immune response, infected-bone models, and systemic/local pharmacokinetics."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Carrier-only fibroblast MTT is not safety of antibiotic-loaded constructs or long-term tissue compatibility.",
+      "Planktonic CFU reduction is not mature implant-biofilm eradication.",
+      "No short MIC shift does not prove low resistance risk in clinical use.",
+      "Prior PSF apatite/bone findings do not transfer automatically to a chemically modified antibiotic-loaded sponge.",
+      "An antimicrobial sponge is not an osseointegrated implanted device without interface and mechanical evidence."
+    ],
+    "overclaim_risks": [
+      "The title/abstract/conclusion pair 'osteoconductive' and 'antibacterial' although only the antibacterial/carrier aspects are tested in the current study (S001:C01; S022:C01).",
+      "'Biocompatibility confirmed' overlooks that active antibiotic-loaded formulations were not tested on eukaryotic cells (S001:C01; S018:C01).",
+      "'Controlled' or 'long-term' release is poorly supported by a large initial burst and only three days of observation (S002:C03; S017:C01).",
+      "'Resistance not selected' should be limited to no detected greater-than-fourfold MIC shift in the tested short protocol and strains (S020:C01).",
+      "The in-vivo-animal cue is false for this paper; animal/osteoconduction claims refer to earlier PSF studies."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Solve a formulation incompatibility before efficacy testing",
+      "execution": "Direct antibiotics coagulated PSF, so charge-compatible CHAP nanoparticles were optimized and characterized before sponge fabrication (S002:C04-S006:C02).",
+      "locator": "S006:C02",
+      "effectiveness": "high",
+      "transferable_principle": "Write multifunctional-material Methods as failure mode, formulation hypothesis, compatibility criterion, characterization, and downstream assay gate.",
+      "failure_mode": "Successful fabrication does not establish biological or mechanical function."
+    },
+    {
+      "section": "results",
+      "move": "Bind release kinetics to antimicrobial timing and formulation identity",
+      "execution": "Drug-specific burst/three-day release profiles are followed by strain- and dose-specific kill curves (S017:C01-S019:C02).",
+      "locator": "S017:C01",
+      "effectiveness": "moderate_to_high",
+      "transferable_principle": "For local delivery, report released mass/fraction, time, degradation/mass-balance caveats, organism MIC, and observed kill kinetics together.",
+      "failure_mode": "A burst profile over days is not automatically controlled long-term delivery."
+    },
+    {
+      "section": "results",
+      "move": "Report a failed high-loading formulation as a design boundary",
+      "execution": "PSF@CHAP_TC20 was too brittle and collapsed during tests, so its data were excluded and the failure was disclosed (S021:C05).",
+      "locator": "S021:C05",
+      "effectiveness": "high",
+      "transferable_principle": "Treat fabrication/handling failure as a primary result linking composition to manufacturability and mechanics, not as missing data to hide.",
+      "failure_mode": "Do not claim a universal loading benefit when one higher-dose construct loses structural integrity."
+    },
+    {
+      "section": "discussion",
+      "move": "Audit multifunctional claims function by function",
+      "execution": "The discussion integrates carrier chemistry, MTT, bacterial killing, and resistance testing but relies on prior PSF work for osteoconduction (S021:C01-S021:C06).",
+      "locator": "S021:C05",
+      "effectiveness": "moderate",
+      "transferable_principle": "Create a separate evidence ladder for delivery, host safety, antimicrobial efficacy, resistance, bone response, and mechanics; never let evidence for one function validate another.",
+      "failure_mode": "Carrier-only viability plus planktonic killing does not establish an osteoconductive infection-preventing implant."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The authors acknowledge a low number of clinical isolates and the need for more species/susceptibility profiles; the 20% tetracycline construct was too brittle for analysis (S021:C05-S021:C06)."
+    ],
+    "reader_identified": [
+      "Active antibiotic-loaded sponges were not tested for eukaryotic cytotoxicity; only unloaded CHAP-containing PSF was assessed for 24 hours.",
+      "No free-drug, established carrier, or clinical local-antibiotic comparator controls dose/carrier advantage.",
+      "Release is short and burst-dominated; no physiological proteins, flow, degradation, tissue penetration, local/systemic PK, or therapeutic-window analysis.",
+      "Planktonic monoculture killing does not model mature polymicrobial implant biofilm or infected bone.",
+      "Resistance screen is short, uses few strains and one reused sponge/edge-population protocol, and cannot assess long-term evolutionary or biofilm tolerance.",
+      "No current-study osteogenic, inflammatory, mineralization, bone ingrowth, animal, coating/device, or interface testing.",
+      "No quantitative mechanics despite a brittle formulation and claims of non-deteriorated stability."
+    ],
+    "likely_bias_direction": [
+      "Using carrier-only MTT likely understates active-formulation toxicity.",
+      "Planktonic assays and no free-drug comparator likely overstate product-specific antimicrobial readiness.",
+      "Borrowing osteoconduction from prior PSF work overstates multifunctional and translational maturity."
+    ],
+    "scope_boundary": "The work establishes formulability and early in-vitro antimicrobial screening for selected AFN-PSF sponges. It does not establish active-product safety, biofilm/infected-bone efficacy, osteoconduction, osseointegration, mechanical suitability, resistance safety, or clinical prevention."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC9503932-01",
+      "capability": "Audit multifunctional biomaterials with separate evidence ladders for formulation, release, host safety, antimicrobial effect, resistance, bone response, and mechanics.",
+      "manuscript_use": "Study design, Results matrix, Discussion, abstract, and claim audit.",
+      "applicable_domains": ["bone_implant", "osseointegration", "bone_regeneration_biomaterial", "porous_scaffold"],
+      "applicable_study_designs": ["in_vitro", "multifunctional_materials"],
+      "supporting_locators": ["S017:C01", "S018:C01", "S019:C01", "S020:C01", "S021:C05"],
+      "counterexample_or_boundary": "Evidence for carrier cytocompatibility and bacterial killing cannot substitute for active-product bone integration or mechanics.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9503932-02",
+      "capability": "Write local antibiotic delivery by coupling release fraction/time and degradation caveats to MIC and time-kill outcomes, while distinguishing planktonic from biofilm evidence.",
+      "manuscript_use": "Release Results, antimicrobial Results, and translational boundary.",
+      "applicable_domains": ["bone_implant", "biomaterials", "infection_control"],
+      "applicable_study_designs": ["drug_delivery", "in_vitro_microbiology"],
+      "supporting_locators": ["S007:C01", "S010:C01", "S017:C01", "S019:C01", "S019:C02"],
+      "counterexample_or_boundary": "Rapid broth-culture killing after burst release does not demonstrate mature implant-biofilm eradication or sustained tissue exposure.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9503932-03",
+      "capability": "Promote failed formulation/manufacturing conditions into explicit design-boundary results rather than omitting them.",
+      "manuscript_use": "Results, design-space figure, and limitations.",
+      "applicable_domains": ["additive_manufacturing", "porous_scaffold", "biomaterials"],
+      "applicable_study_designs": ["materials_screening", "formulation_study"],
+      "supporting_locators": ["S006:C02", "S021:C05"],
+      "counterexample_or_boundary": "A higher antibiotic/carrier loading that becomes brittle is not an untested efficacy arm; it is evidence of a manufacturability-mechanics constraint.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_for_early_antibacterial_formulation",
+    "methods_transparency": "moderate_to_high",
+    "validation_credibility": "moderate_for_in_vitro_killing_low_for_multifunctional_implant_claim",
+    "outcome_uncertainty_reporting": "moderate",
+    "comparator_fairness": "low_to_moderate_no_free_drug_or_active_host_cell_comparator",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "No cytotoxicity test of active antibiotic-loaded constructs.",
+      "Planktonic/short resistance assays and burst release do not model implant infection.",
+      "No current osteoconduction, osseointegration, mechanics, animal, or clinical evidence."
+    ],
+    "overall_credibility": "moderate_for_early_formulation_and_planktonic_antibacterial_screen_low_for_safety_biofilm_bone_integration_or_prevention"
+  },
+  "summary_zh": "这篇论文被分到骨整合语料，但当前实验真正验证的是‘抗生素纳米载体—丝素海绵’的配方与体外抗菌。三种药物均出现明显早期突释，20% 万古霉素/米诺环素组在小菌株面板中杀菌较快，短期重复暴露后未检测到超过 4 倍 MIC 变化；20% 四环素组则因过脆而失败。最关键的写作边界有三条：第一，细胞毒性只测了不含抗生素的载体海绵，不能写成活性产品安全；第二，杀菌是液体中的 planktonic CFU，不是钛表面成熟生物膜或感染骨；第三，本研究没有成骨细胞、骨长入、界面力学或动物结果，所谓 osteoconductive/osseointegration 来自既往 PSF 文献，不能迁移为当前复合物的已验证功能。Skill 应要求多功能材料逐功能建证据阶梯，并把脆性失败作为设计边界保留。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section.",
+    "The in-vivo-animal cue is false; prior PSF animal findings are background only.",
+    "Current-study cytocompatibility applies to unloaded PSF@CHAP carrier sponges, not antibiotic-loaded AFN-PSF products."
+  ]
+}

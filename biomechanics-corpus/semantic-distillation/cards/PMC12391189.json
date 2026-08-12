@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12391189",
+  "paper_id": "doi:10.1007/s10439-025-03752-9",
+  "pmcid": "PMC12391189",
+  "source_record_sha256": "6677ae2ff899cfa9821ebc76a0151cbee362267783d2cd8db82bffc47d84b2c6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e4949f3adabea9d18fd08cd8243249542f502dcf267f73df8d4d96a3a04f1a8e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhancing Bone Scaffold Fabrication: A Comparative Study of Manual Casting and Automated 3D Bioprinting",
+    "authors": "Ahmed Y, Alshami AS, Al-Goraee A, Obeng CP, Kennedy R, Abdelaziz H, Striker R.",
+    "year": 2025,
+    "journal": "Annals of Biomedical Engineering",
+    "doi": "10.1007/s10439-025-03752-9",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

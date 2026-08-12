@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11325089",
+  "paper_id": "doi:10.34133/bmr.0067",
+  "pmcid": "PMC11325089",
+  "source_record_sha256": "a03693d7acbf2c243ff387b1c128ebadde247614c42207c26f4b15ab856539d1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9a8de67cf349b43f4e427701d35a4b2a401b6c0f3c07a30a67dfaa7c286f50da",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of Integrity of Allogeneic Bone Processed with High Hydrostatic Pressure: A Pilot Animal Study",
+    "authors": "Waletzko-Hellwig J, Sass JO, Bader R, Frerich B, Dau M.",
+    "year": 2024,
+    "journal": "Biomaterials Research",
+    "doi": "10.34133/bmr.0067",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

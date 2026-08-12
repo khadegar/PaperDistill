@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12751345",
+  "paper_id": "doi:10.1186/s12951-025-03963-1",
+  "pmcid": "PMC12751345",
+  "source_record_sha256": "e5b285f4d179360b7bd637642af7b88a1dadc1cb518349ef2fadfab46b71b910",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "724f2747146b5163ec8dc66718c82f6460eda9af33cc13259efe81839658f9d9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Shape-fit 3D printed mineralized membrane for guided bone regeneration in long bone defects",
+    "authors": "Jiang W, Zhan Y, Chen Y, Sun J, Lin Q, He Q, Ma J, Bao B, Wang Z.",
+    "year": 2025,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-025-03963-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

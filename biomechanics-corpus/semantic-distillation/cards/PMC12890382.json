@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12890382",
+  "paper_id": "doi:10.14245/ns.2551470.735",
+  "pmcid": "PMC12890382",
+  "source_record_sha256": "9e947f169288c11da906bda2e55e2b10c83e162b56a60770f6f54ef6fceb3636",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "14b59bf00b68b61cf0f70906fdf353f4023445dfa36accde759ebf61274d2719",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis Comparison of Different Cervical Posterior Screw Fixation Techniques: A Finite Element Study",
+    "authors": "Seo J, Jung WS, Park TH, Lee SJ, Kwon JW, Suk KS, Lee BH.",
+    "year": 2026,
+    "journal": "Neurospine",
+    "doi": "10.14245/ns.2551470.735",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

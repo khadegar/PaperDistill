@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8396563",
+  "paper_id": "doi:10.3390/ijms22169084",
+  "pmcid": "PMC8396563",
+  "source_record_sha256": "264b0ba6b9253a7ded8807e9502a4384113cc3f70b5a7a80a54a3389d8cea986",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "28c1d74b56bd3c529b052adf0bc8f94d6951c3a3417204fb07d94560345591e4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Fracture-Treatment Method: Fixing 3D-Printed Polycaprolactone Scaffolds with Hydrogel Type Bone-Derived Extracellular Matrix and β-Tricalcium Phosphate as an Osteogenic Promoter",
+    "authors": "Yun S, Choi D, Choi DJ, Jin S, Yun WS, Huh JB, Shim JH.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms22169084",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

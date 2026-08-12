@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10761418",
+  "paper_id": "doi:10.3389/fbioe.2023.1332138",
+  "pmcid": "PMC10761418",
+  "source_record_sha256": "3f9029d4c91d294d536930b97e245cff3aa031986b0e2d2f84a787609d1befc2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3b1d9aa9ba6cbe318ff519ee9de1cc43f7bf99325b66edc0ba36bd5a8e78d34e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hydrothermally treated coral scaffold promotes proliferation of mesenchymal stem cells and enhances segmental bone defect healing",
+    "authors": "Huang J, Park J, Jung N, Moon HS, Zong Z, Li G, Lin S, Cho SW, Park Y.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1332138",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

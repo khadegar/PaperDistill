@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7215925",
+  "paper_id": "doi:10.3390/ma13082000",
+  "pmcid": "PMC7215925",
+  "source_record_sha256": "bba0d413d27b1a8a55e3ceeba1faa81a4949800bdf3a72b0bd4744bab05c5b88",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a9cede2b0cd9f612e49198cbbe622e00dfd1d50b98f00e5de9d01eeda96b0653",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of Laser Structuring on Medical-Grade Titanium: Surface Characterization and In Vitro Evaluation of Osteoblast Attachment",
+    "authors": "Borcherding K, Marx D, Gätjen L, Specht U, Salz D, Thiel K, Wildemann B, Grunwald I.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13082000",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

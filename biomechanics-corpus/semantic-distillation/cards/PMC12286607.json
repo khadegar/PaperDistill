@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12286607",
+  "paper_id": "doi:10.7554/elife.106339",
+  "pmcid": "PMC12286607",
+  "source_record_sha256": "12d2c5d2c244dde48fe8ffabfd9c69de2ff9d78ad835f3564aee93d6a8f5e178",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3b91160273f221f12fb4fe97796304759bec35530cd2993467a106bb4fad51da",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioengineering approaches to trained immunity: Physiologic targets and therapeutic strategies",
+    "authors": "Knight HR, Kim M, Kannan N, Taylor H, Main H, Azcue E, Esser-Kahn A.",
+    "year": 2025,
+    "journal": "eLife",
+    "doi": "10.7554/elife.106339",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

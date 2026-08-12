@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7240285",
+  "paper_id": "doi:10.1016/j.reth.2020.04.005",
+  "pmcid": "PMC7240285",
+  "source_record_sha256": "c53185cd06293183016d5120f0ac6bec063ee2cc08f7c26d395342219256e010",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "541635aee3c0e6538de6458d7dd6bf209a9cac3ce145fc98ecbec66181a9ca19",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimization of culture duration of bone marrow cells before transplantation with a β-tricalcium phosphate/recombinant collagen peptide hybrid scaffold",
+    "authors": "Umeyama R, Yamawaki T, Liu D, Kanazawa S, Takato T, Hoshi K, Hikita A.",
+    "year": 2020,
+    "journal": "Regenerative Therapy",
+    "doi": "10.1016/j.reth.2020.04.005",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11134660",
+  "paper_id": "doi:10.1186/s12893-024-02462-8",
+  "pmcid": "PMC11134660",
+  "source_record_sha256": "96a1f825e805b7e39eaac8744d561795cbe6074cb81a8a1bfd892a5415fbaa63",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0fb0e4e38246f7f18b62e49444555c21a75bcfd78ae00171a49738722fa1fa79",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical comparison of polyetheretherketone rods and titanium alloy rods in transforaminal lumbar interbody fusion: a finite element analysis",
+    "authors": "Li J, Cao S, Zhao B.",
+    "year": 2024,
+    "journal": "BMC Surgery",
+    "doi": "10.1186/s12893-024-02462-8",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

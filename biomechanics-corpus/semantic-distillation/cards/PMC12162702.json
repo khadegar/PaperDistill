@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12162702",
+  "paper_id": "doi:10.1007/s10237-025-01950-x",
+  "pmcid": "PMC12162702",
+  "source_record_sha256": "78f1a87c507ce237e99e73430fd40d66ad4a76e0b522ec118e81cc30ad3f0c3b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c7b4cc4e254136979238e554e7792b9b5cffd4696f2e5caf5b0d1168495ca8b6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparing the predictions of CT-based subject-specific finite element models of human metastatic vertebrae with digital volume correlation measurements",
+    "authors": "Garavelli C, Aldieri A, Palanca M, Dall'Ara E, Viceconti M.",
+    "year": 2025,
+    "journal": "Biomechanics and Modeling in Mechanobiology",
+    "doi": "10.1007/s10237-025-01950-x",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

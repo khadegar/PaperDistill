@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12546202",
+  "paper_id": "doi:10.3389/fphys.2025.1661054",
+  "pmcid": "PMC12546202",
+  "source_record_sha256": "42d6f001b569a5e9ca3f832e82ceb4518aeec97f18806f92280a38d36429d540",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0b9fcdb785dea109520e60596e3bd679cd851261e43f5c615bf4e23e20079fc5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tissue stiffness heterogeneity in the jaw and temporomandibular joint: its impact on tumor metabolism and considerations for in vitro model development",
+    "authors": "Li L, Deng P, Hou S, Li G, Suo M, Xu L, Wang C, Song J.",
+    "year": 2025,
+    "journal": "Frontiers in Physiology",
+    "doi": "10.3389/fphys.2025.1661054",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

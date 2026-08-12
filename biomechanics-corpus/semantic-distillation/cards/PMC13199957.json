@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13199957",
+  "paper_id": "doi:10.1016/j.xnsj.2026.100890",
+  "pmcid": "PMC13199957",
+  "source_record_sha256": "312b595efd5b3ec68d587a9d35fb4e4d5809bfc402b876e32cee706ef93a4ebe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e5c73530a1d503f8bc4a8dd934cff3d45f44e41081ea2a55df78ed77db224905",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Ex vivo mechanical evaluation of anatomically and mechanically conforming patient-specific lumbar spinal fusion cages designed by full-scale topology optimization",
+    "authors": "Du X, Smit T, Rubin W, Cheruparambil C, Shah R, Haschtmann D, Helgason B, Ferguson SJ.",
+    "year": 2026,
+    "journal": "North American Spine Society Journal",
+    "doi": "10.1016/j.xnsj.2026.100890",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13163043",
+  "paper_id": "doi:10.3390/cells15090748",
+  "pmcid": "PMC13163043",
+  "source_record_sha256": "e8154de72ca657297b00e973acae7a6f78136b22847c71b39ab47aafb7f9e4ea",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "81f20a6bd44d227ae9bd70ec0bcdf65a63f9fe2d04e66ad80f6d49ade200dbf1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteocyte Mechanobiology in Peri-Implant Bone Adaptation: A Narrative Review and Hypothesis-Generating Framework for SOST/Wnt-Linked Cortical Stability",
+    "authors": "Kuc AE, Sulewska M, Hajduk G, Kuc P, Kuc N, Lis J, Kawala B, Sarul M.",
+    "year": 2026,
+    "journal": "Cells",
+    "doi": "10.3390/cells15090748",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

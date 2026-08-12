@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC2944394",
+  "paper_id": "doi:10.1098/rsta.2010.0071",
+  "pmcid": "PMC2944394",
+  "source_record_sha256": "dfa859d6060ca6ce770dbcfba1844da93a0d25356f1eb84f7c92cbe08d85177a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0d8d5c69a413d8dde7b6f00117c0ef9e18fb173e40a9d68071d0587a1d384291",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Computational simulation methodologies for mechanobiological modelling: a cell-centred approach to neointima development in stents",
+    "authors": "Boyle CJ, Lennon AB, Early M, Kelly DJ, Lally C, Prendergast PJ.",
+    "year": 2010,
+    "journal": "Philosophical transactions. Series A, Mathematical, physical, and engineering sciences",
+    "doi": "10.1098/rsta.2010.0071",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

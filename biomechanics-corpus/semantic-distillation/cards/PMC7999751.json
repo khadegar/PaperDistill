@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7999751",
+  "paper_id": "doi:10.3390/ijms22062886",
+  "pmcid": "PMC7999751",
+  "source_record_sha256": "b7b4776d864dec418341f0cc763f09946c8957dbfa41878947e5314cec0e47e0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "672adb39a2e752fa31b200329d65c98e48d533c50b54e8316a6112fb7e58449f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced Regeneration of Vascularized Adipose Tissue with Dual 3D-Printed Elastic Polymer/dECM Hydrogel Complex",
+    "authors": "Lee S, Lee HS, Chung JJ, Kim SH, Park JW, Lee K, Jung Y.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms22062886",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

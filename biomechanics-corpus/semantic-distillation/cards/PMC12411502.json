@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12411502",
+  "paper_id": "doi:10.3389/fbioe.2025.1641700",
+  "pmcid": "PMC12411502",
+  "source_record_sha256": "81818a123113ad513e7a83522ae1dfc2e5c347a18e2ea5a5c40aadfbff9622fa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2212b139459901a4bcf15e58da462dd1827105ebe9b3033a8c4d5ccebec57191",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Quantitative biomechanical analysis of fracture patterns in ipsilateral femoral neck and shaft fractures: an in-silico study",
+    "authors": "Xiong Z, Liu Z, Zhou H, Zhang X, Chen J.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1641700",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

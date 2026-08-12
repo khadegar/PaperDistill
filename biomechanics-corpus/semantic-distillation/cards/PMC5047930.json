@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5047930",
+  "paper_id": "doi:10.1007/s10856-016-5779-1",
+  "pmcid": "PMC5047930",
+  "source_record_sha256": "69a01fb8a88f05a3f333945518f2bd8e703c7ea309a6d0f10734a2eedc035235",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ed44912418d3bb38a4360d7e4a60d96efc284e3d405ee25c73bef802b1854b73",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Direct communication between osteocytes and acid-etched titanium implants with a sub-micron topography",
+    "authors": "Shah FA, Stenlund P, Martinelli A, Thomsen P, Palmquist A.",
+    "year": 2016,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-016-5779-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5984524",
+  "paper_id": "doi:10.1073/pnas.1801013115",
+  "pmcid": "PMC5984524",
+  "source_record_sha256": "c05a43137858599140dd1cdbddd2ab209d9fa375e31f457170b4db7e61e0e419",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8be111968b242c00244391b184180738f263fa3810b6fbdfb0594bd707d47500",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hydrogel delivery of lysostaphin eliminates orthopedic implant infection by Staphylococcus aureus and supports fracture healing",
+    "authors": "Johnson CT, Wroe JA, Agarwal R, Martin KE, Guldberg RE, Donlan RM, Westblade LF, García AJ.",
+    "year": 2018,
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "doi": "10.1073/pnas.1801013115",
+    "publication_type": "research-article; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

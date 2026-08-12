@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10648244",
+  "paper_id": "doi:10.3390/polym15214250",
+  "pmcid": "PMC10648244",
+  "source_record_sha256": "b920dbc24d157779b1f484799db006ffc53a4f074fadb0648c189800e9ef857b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1cd2cf45307ee6e74fff3b42e77e6befe4560d64d232584b9f0502ad4c76087e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Vancomycin-Loaded 3D-Printed Polylactic Acid–Hydroxyapatite Scaffolds for Bone Tissue Engineering",
+    "authors": "Pérez-Davila S, Potel-Alvarellos C, Carballo R, González-Rodríguez L, López-Álvarez M, Serra J, Díaz-Rodríguez P, Landín M, González P.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15214250",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

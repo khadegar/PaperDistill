@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9957816",
+  "paper_id": "doi:10.1016/j.heliyon.2023.e13730",
+  "pmcid": "PMC9957816",
+  "source_record_sha256": "04ba3e6b510f6d4a35cf6eb01e0e85b9ba30acdd396da0df8f063e7c35aff982",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "60fc935303d1dea68134813552d1a355d049638b1cd10a5733dadc7c6ac2ca37",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reversed windshield-wiper effect leads to failure of cement-augmented pedicle screw: Biomechanical mechanism analysis by finite element experiment",
+    "authors": "Wang Z, Liu P, Liu MY, Yin X, Gan YB, Luo KY, Zhang L, Zhao JH, Zhou Q, Liu YY.",
+    "year": 2023,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2023.e13730",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

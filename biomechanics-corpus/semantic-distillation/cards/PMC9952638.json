@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9952638",
+  "paper_id": "doi:10.3390/bioengineering10020268",
+  "pmcid": "PMC9952638",
+  "source_record_sha256": "d886b43cf5ab3d5a06244b72e35d62c53ed6350acc675bef093c96ee714df694",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5efa910c37b60f10df4be79ca388c859018476031b598b453aed3857e39e58e2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of a Hip Joint Socket by Finite-Element-Based Analysis for Mechanical Assessment",
+    "authors": "González AK, Rodríguez-Reséndiz J, Gonzalez-Durán JEE, Olivares Ramírez JM, Estévez-Bén AA.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10020268",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

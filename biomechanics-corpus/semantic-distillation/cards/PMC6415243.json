@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6415243",
+  "paper_id": "doi:10.3390/polym10040380",
+  "pmcid": "PMC6415243",
+  "source_record_sha256": "8c2720a28b2389f39c7168fd9bc4661bbbd98ae3fa6736d7c44c3cd572da25ec",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4d08e2191f202b0a5324b4e271c566335670b34c03de473803c524290739cc48",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Porous Gelatin/PVA Hydrogel as Meniscus Substitute Using Alginate Micro-Particles as Porogens",
+    "authors": "Marrella A, Lagazzo A, Dellacasa E, Pasquini C, Finocchio E, Barberis F, Pastorino L, Giannoni P, Scaglione S.",
+    "year": 2018,
+    "journal": "Polymers",
+    "doi": "10.3390/polym10040380",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

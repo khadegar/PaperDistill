@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10391851",
+  "paper_id": "doi:10.1186/s13018-023-04033-8",
+  "pmcid": "PMC10391851",
+  "source_record_sha256": "3c138e49821c7203b97d3f3c9b323e52e161dbde4c9cacc4f5de185f1efd8017",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dd0e6afecb7f285000a172e1a7a3357817742c7d548b5dae28500851328f5fea",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Static mechanical analysis of the vertebral body after modified anterior cervical discectomy and fusion (partial vertebral osteotomy): a finite element model",
+    "authors": "Xue HH, Tang D, Zhao WH, Chen L, Liao Z, Xue JL.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-04033-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

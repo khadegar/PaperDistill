@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7538793",
+  "paper_id": "doi:10.25259/sni_482_2020",
+  "pmcid": "PMC7538793",
+  "source_record_sha256": "c27a12dc5a342f627ac715f1fce09c7cfdb301bef135fdbdf38c77755a487b54",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "19b4d721c483768a43017b5a8c0fa5a27feae3fdcc849efb8a1bb722087c85ab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Rapid high-fidelity contour shaping of titanium mesh implants for cranioplasty defects using patient-specific molds created with low-cost 3D printing: A case series",
+    "authors": "Kinsman M, Aljuboori Z, Ball T, Nauta H, Boakye M.",
+    "year": 2020,
+    "journal": "Surgical Neurology International",
+    "doi": "10.25259/sni_482_2020",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

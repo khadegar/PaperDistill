@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5987008",
+  "paper_id": "doi:10.1016/j.jot.2015.08.005",
+  "pmcid": "PMC5987008",
+  "source_record_sha256": "25af5ff578f65caa11a8fb493f6e49b4bf2cc8b9897a3f199b8781a6c4be77f9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ebfa1ec1b0f8c40489272f00339960c5e81006e3a8d0659aa619e65d0695064e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Covalently immobilised type I collagen facilitates osteoconduction and osseointegration of titanium coated implants",
+    "authors": "Ao HY, Xie YT, Yang SB, Wu XD, Li K, Zheng XB, Tang TT.",
+    "year": 2015,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2015.08.005",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

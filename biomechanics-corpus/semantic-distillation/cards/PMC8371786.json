@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8371786",
+  "paper_id": "doi:10.1186/s12951-021-00992-4",
+  "pmcid": "PMC8371786",
+  "source_record_sha256": "59b7148c16b0abd9233fa81f94495bc4dfd92f117cde379294188f36d2652275",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2e629199251e54b719121bdbffd6f7950901ec46e11a9e9bc415886d3dda5c26",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An in situ tissue engineering scaffold with growth factors combining angiogenesis and osteoimmunomodulatory functions for advanced periodontal bone regeneration",
+    "authors": "Ding T, Kang W, Li J, Yu L, Ge S.",
+    "year": 2021,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-021-00992-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

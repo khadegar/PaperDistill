@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9085891",
+  "paper_id": "doi:10.1038/s41598-022-11667-x",
+  "pmcid": "PMC9085891",
+  "source_record_sha256": "5c01d414a11c24b2c9ca8deeba5703c33eb79f5a7c0914ce6d3d0d01152b2257",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "71be15f34b57e48cc58ece7fec859decf8edeeb34911f23dea04ab9bca3cdaa6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Experimental validation of a voxel-based finite element model simulating femoroplasty of lytic lesions in the proximal femur",
+    "authors": "Sas A, Sermon A, van Lenthe GH.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-11667-x",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

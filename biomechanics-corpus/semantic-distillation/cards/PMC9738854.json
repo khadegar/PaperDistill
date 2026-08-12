@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9738854",
+  "paper_id": "doi:10.3390/polym14235299",
+  "pmcid": "PMC9738854",
+  "source_record_sha256": "be2becf245286d10600f31519f56ee1118c65446e6bf73a4e2e15196ae41d9f8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ce633792b830feccb9577c294744700052c16ba880fb7b06e036f8a861a90c23",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluating the Mechanical and Tribological Properties of 3D Printed Polylactic-Acid (PLA) Green-Composite for Artificial Implant: Hip Joint Case Study",
+    "authors": "Fouly A, Assaifan AK, Alnaser IA, Hussein OA, Abdo HS.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14235299",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

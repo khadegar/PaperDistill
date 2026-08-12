@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8618198",
+  "paper_id": "doi:10.3390/mi12111352",
+  "pmcid": "PMC8618198",
+  "source_record_sha256": "df8b51e94117a3ef7382a49d6627d62a383ca37f7fe7b379df2dfcbc214e03f4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cea8075979414c5a5fd279111e73f32cf1732936a15ac19b767e681898596eaa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimetic Composite Coatings for Activation of Titanium Implant Surfaces: Methodological Approach and In Vivo Enhanced Osseointegration",
+    "authors": "Oltean-Dan D, Dogaru GB, Jianu EM, Riga S, Tomoaia-Cotisel M, Mocanu A, Barbu-Tudoran L, Tomoaia G.",
+    "year": 2021,
+    "journal": "Micromachines",
+    "doi": "10.3390/mi12111352",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

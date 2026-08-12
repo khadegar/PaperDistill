@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11762967",
+  "paper_id": "doi:10.1016/j.jds.2024.09.017",
+  "pmcid": "PMC11762967",
+  "source_record_sha256": "d1a646e055d4cc32fb1cc67318bdf48fe8bdd7ca8c30863caefb7bbbbf6cd55f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "412ae14c6553b7f5a5ec3f58902c63365e50d966e5cc13597f88cd3a0906d513",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Using optimization approach to design dental implant in three types of bone quality - A finite element analysis",
+    "authors": "Chang CL, Chen JJ, Chen CS.",
+    "year": 2025,
+    "journal": "Journal of Dental Sciences",
+    "doi": "10.1016/j.jds.2024.09.017",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

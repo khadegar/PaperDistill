@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9764782",
+  "paper_id": "doi:10.1002/lio2.945",
+  "pmcid": "PMC9764782",
+  "source_record_sha256": "ab7c497a2d7473ab303787ab06bd35476fa36e0c680927e767b71b2e4f2443fe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "00a9f9165a7fc61b6d390e3f6b57fee19677d2bb0c26ef7b3fa1bed587a1d9ee",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Validation of a three‐dimensional printed pediatric middle ear model for endoscopic surgery training",
+    "authors": "Stramiello JA, Wong SJ, Good R, Tor A, Ryan J, Carvalho D.",
+    "year": 2022,
+    "journal": "Laryngoscope Investigative Otolaryngology",
+    "doi": "10.1002/lio2.945",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

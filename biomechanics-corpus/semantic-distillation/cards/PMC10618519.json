@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10618519",
+  "paper_id": "doi:10.1016/j.mtbio.2023.100833",
+  "pmcid": "PMC10618519",
+  "source_record_sha256": "24863642bc205c8ea589f28ec4eece4e4e5ab7dc32d52852f1f99ae674925282",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "11677fd879e8348f931578749e6212a0cea8d6486ac8c542fbbae52e0d0866e5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed PCL scaffolds with anatomy-inspired bionic stratified structures for the treatment of growth plate injuries",
+    "authors": "Wang X, Li Z, Liu J, Wang C, Bai H, Zhu X, Wang H, Wang Z, Liu H, Wang J.",
+    "year": 2023,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2023.100833",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

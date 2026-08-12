@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7871609",
+  "paper_id": "doi:10.1186/s13036-021-00258-5",
+  "pmcid": "PMC7871609",
+  "source_record_sha256": "45a600c000e38d86993bb359678ca0bcf5afb58dd60b719324410cffb670a912",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b7009af26e4d88d529aa8a49b05cb7c8f51a36d8f6b9d0cb0b3c0dfbce54b8b6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Novel bone repairing scaffold consisting of bone morphogenetic Protein-2 and human Beta Defensin-3",
+    "authors": "He W, Wei D, Zhang J, Huang X, He D, Liu B, Wang Q, Liu M, Liu L, Liu Y, Tian W.",
+    "year": 2021,
+    "journal": "Journal of Biological Engineering",
+    "doi": "10.1186/s13036-021-00258-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

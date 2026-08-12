@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11118610",
+  "paper_id": "doi:10.3390/biomimetics9050255",
+  "pmcid": "PMC11118610",
+  "source_record_sha256": "8cc1789468d7ffaac1c081b4892f90c32c6ad58dcfcf5b6ff9ee97d7b44e7f2e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0541ce3ec7cd4ea8104692eea90a663281fd4ab1ee93b17f0e177ea78a32831d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Shape Memory Alloys Patches to Mimic Rolling, Sliding, and Spinning Movements of the Knee",
+    "authors": "Seo S, Kang M, Han MW.",
+    "year": 2024,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics9050255",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

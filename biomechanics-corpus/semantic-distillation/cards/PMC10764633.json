@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10764633",
+  "paper_id": "doi:10.3389/fbioe.2023.1299166",
+  "pmcid": "PMC10764633",
+  "source_record_sha256": "89edad5b36db0166fda03d16fda27ed7cbd2ac5eec7b384060a19ed15e436007",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "955e1ad490332f5076884b9eee84df67eaecf1ea7bf5e0ea8fee92cefc93c995",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Carbon nanotube nanocomposite scaffolds: advances in fabrication and applications for tissue regeneration and cancer therapy",
+    "authors": "Shar A, Shar A, Joung D.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1299166",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6366164",
+  "paper_id": "doi:10.1098/rsos.181082",
+  "pmcid": "PMC6366164",
+  "source_record_sha256": "e2a1e0b542bf0aa7dace554d33fa96f6da841cb85de6fd6ea82798a2658f292b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1341fa97de17756a452c2f3cce4632b8e2fb37c243700da31c24373301930dcc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of capsaicin-induced sensory denervation on early implant osseointegration in adult rats",
+    "authors": "Huang B, Ye J, Zeng X, Gong P.",
+    "year": 2019,
+    "journal": "Royal Society Open Science",
+    "doi": "10.1098/rsos.181082",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

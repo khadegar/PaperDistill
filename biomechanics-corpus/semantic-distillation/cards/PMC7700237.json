@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7700237",
+  "paper_id": "doi:10.3390/ma13225290",
+  "pmcid": "PMC7700237",
+  "source_record_sha256": "a5fe5319d5709326e2d4552725cf696c0e949d145b733d1c6cc6ab0013a19f1a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d5b0fac117dbb8abbe9242697204b0c3c45384f606b470163fbd608a6cdab286",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical Properties of Different Nanopatterned TiO 2 Substrates and Their Effect on Hydrothermally Synthesized Bioactive Hydroxyapatite Coatings",
+    "authors": "Bartkowiak A, Zarzycki A, Kac S, Perzanowski M, Marszalek M.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13225290",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

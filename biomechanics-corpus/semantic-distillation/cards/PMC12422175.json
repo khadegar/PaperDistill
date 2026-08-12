@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12422175",
+  "paper_id": "doi:10.1002/jor.70037",
+  "pmcid": "PMC12422175",
+  "source_record_sha256": "5bee4031bc05b1b6c7bb0739ec4e797ce0844218e3605f1e78e38a9e2a8402f7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5e5c8797208acd05840cbe779ea2ba5fea1b06a5330974471eb4502719dae97c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vivo Study of Bone Growth Around Additively Manufactured Implants With Ti‐6Al‐4V and Bioactive Glass Powder Composites",
+    "authors": "Lee CY, Kung PC, Huang CC, Shih SJ, Huang EW, Chen SY, Wu MH, Tsou NT.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Research",
+    "doi": "10.1002/jor.70037",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

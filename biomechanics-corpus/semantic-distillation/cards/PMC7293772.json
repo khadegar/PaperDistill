@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7293772",
+  "paper_id": "doi:10.1186/s12891-020-03411-1",
+  "pmcid": "PMC7293772",
+  "source_record_sha256": "fcac0cd047b2debb769ad9de596e08b153a0446e73635e183ea05646fd3d18ff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b251177a3309590faf362c031388d69482f68b78bdc92f981c96ad0a87f120cd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of autologous bone-cage in posterior lumbar interbody fusion: a finite element analysis",
+    "authors": "Zhu H, Zhong W, Zhang P, Liu X, Huang J, Liu F, Li J.",
+    "year": 2020,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-020-03411-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

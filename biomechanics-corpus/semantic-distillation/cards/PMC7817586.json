@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7817586",
+  "paper_id": "doi:10.1007/s10856-020-06486-3",
+  "pmcid": "PMC7817586",
+  "source_record_sha256": "1bdc55e675c648548aff8c6038cccb6e89bbfb2c338b404199d4b42767047295",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1b5aec756e0c5b7787e1e54578b32046f9893fe356ed59a3bb2bc86ffcf4bcc8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone-like ceramic scaffolds designed with bioinspired porosity induce a different stem cell response",
+    "authors": "Panseri S, Montesi M, Hautcoeur D, Dozio SM, Chamary S, De Barra E, Tampieri A, Leriche A.",
+    "year": 2021,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-020-06486-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

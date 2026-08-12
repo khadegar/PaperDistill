@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12296050",
+  "paper_id": "doi:10.3390/jfb16070260",
+  "pmcid": "PMC12296050",
+  "source_record_sha256": "40f316ec6ecb664f3be429a7778504381f6b706d94e19c9dc469bd40b59f038a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "acdd83cace148f0e4cbc3e8d374e27589d125a61336348a25b15a89f7a9a0542",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Influence of Insertion Torque on Stress Distribution in Peri-Implant Bones Around Ultra-Short Implants: An FEA Study",
+    "authors": "Ceddia M, Montesani L, Comuzzi L, Cipollina A, Deporter DA, Di Pietro N, Trentadue B.",
+    "year": 2025,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb16070260",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

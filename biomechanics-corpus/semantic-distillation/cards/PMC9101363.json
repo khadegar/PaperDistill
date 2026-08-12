@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9101363",
+  "paper_id": "doi:10.3390/ijms23094533",
+  "pmcid": "PMC9101363",
+  "source_record_sha256": "e6463f0b85e3ce0fe8c83f0c56fc7930b404745faa9ceffd65d9dbdd040d73a4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b349924d3b15a2b41298d9afad8a335af2f14b4344ea29eb5c07642055fbc8b9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hybrid Core-Shell Polymer Scaffold for Bone Tissue Regeneration",
+    "authors": "Sartore L, Pasini C, Pandini S, Dey K, Ferrari M, Taboni S, Chan HHL, Townson J, Viswanathan S, Mathews S, Gilbert RW, Irish JC, Re F, Nicolai P, Russo D.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms23094533",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

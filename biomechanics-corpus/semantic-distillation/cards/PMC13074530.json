@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13074530",
+  "paper_id": "doi:10.3390/polym18070816",
+  "pmcid": "PMC13074530",
+  "source_record_sha256": "33d11dc172834b2dfc9ab90831bdce5cf1da695b5c66a8f7968f22c74a2c81dd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "639301f92a70012ed79b77ba22630f0b3f48d37e0b6d1deb3c94f3b7856393f2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Morphological, Thermal, Mechanical and Cytotoxic Investigation of Hydroxyapatite Reinforced Chitosan/Collagen 3D Bioprinted Dental Grafts",
+    "authors": "Hamedi UN, Ciftci F, Soylu TM, Kucak M, Özarslan AC, Altinsoy S.",
+    "year": 2026,
+    "journal": "Polymers",
+    "doi": "10.3390/polym18070816",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

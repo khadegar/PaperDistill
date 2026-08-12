@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9143187",
+  "paper_id": "doi:10.3390/ijms23105831",
+  "pmcid": "PMC9143187",
+  "source_record_sha256": "926fde6c15a10466734fb48b940e5eeec28fc33c1628133c2634817b3ce3d706",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5957c29483f95dec85ad4ece9f8c687d20e9528bee952ee841bc7ab56aed7ebe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of 3D-Printed, PLGA-Based Scaffolds in Bone Tissue Engineering",
+    "authors": "Sun F, Sun X, Wang H, Li C, Zhao Y, Tian J, Lin Y.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms23105831",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

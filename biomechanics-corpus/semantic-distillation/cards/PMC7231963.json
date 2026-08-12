@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7231963",
+  "paper_id": "doi:10.1016/j.jot.2019.09.001",
+  "pmcid": "PMC7231963",
+  "source_record_sha256": "dd3c369e4d97d96bba23df0a0ad0447490a1b7d58af82e44b447ce39c3f642d2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "80c51185464c06e11898074ff450be6618ac6e90670cfc8295807a8d9cbee69b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Different subchondral trabecular bone microstructure and biomechanical properties between developmental dysplasia of the hip and primary osteoarthritis",
+    "authors": "Chu L, He Z, Qu X, Liu X, Zhang W, Zhang S, Han X, Yan M, Xu Q, Zhang S, Shang X, Yu Z.",
+    "year": 2020,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2019.09.001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

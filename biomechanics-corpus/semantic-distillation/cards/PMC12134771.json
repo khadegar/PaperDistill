@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12134771",
+  "paper_id": "doi:10.1002/jcsm.13831",
+  "pmcid": "PMC12134771",
+  "source_record_sha256": "c4504ed7aea9934c79c0ade6f614d756eb2e3e14fd3290d802b16943282bfc34",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9df053bd3428212afafe15c1dd63392ed0080c69b23286dea57f0b8bd5f700b3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Novel Aptamers Targeting Sclerostin Loop3 Improve Skeletal and Muscle Properties Without Adverse Cardiovascular Effects in Orchiectomized Mice",
+    "authors": "Zhou B, Hu J, Yu Y, Sun L, Wang Y, Zhang Q, Jiang Y, Wang O, Xing X, Xia W, Wang L, Zhang G, Li M.",
+    "year": 2025,
+    "journal": "Journal of Cachexia, Sarcopenia and Muscle",
+    "doi": "10.1002/jcsm.13831",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

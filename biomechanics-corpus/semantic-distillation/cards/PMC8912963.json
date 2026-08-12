@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8912963",
+  "paper_id": "doi:10.1097/brs.0000000000004256",
+  "pmcid": "PMC8912963",
+  "source_record_sha256": "748c88b6e01f1c43924ac3d53cc7250e1a204fb98cb3c371ee532c87a70c9034",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4081977b17151e90cf620163160ad32fac226e8a834cd8a4426e367ad1601e69",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Mineralization and Spinal Fusion Evaluation of a Truss-based Interbody Fusion Device",
+    "authors": "Kiapour A, Seim HB, Atkinson BL, Lalor PA, Block JE.",
+    "year": 2022,
+    "journal": "Spine",
+    "doi": "10.1097/brs.0000000000004256",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

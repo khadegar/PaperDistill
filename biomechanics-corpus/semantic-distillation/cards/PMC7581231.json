@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7581231",
+  "paper_id": "doi:10.1021/acsomega.0c03489",
+  "pmcid": "PMC7581231",
+  "source_record_sha256": "6fd33e3bae373e296ea6e9b5dbe1b58adf6f5d6b5d94ad5fca03f60ac4d19e9f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "29e14287630ed2475c639679735c9cf33c29e2f5066d520d6408904e1ace79c8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteointegration of 3D-Printed Fully Porous Polyetheretherketone Scaffolds with Different Pore Sizes",
+    "authors": "Feng X, Ma L, Liang H, Liu X, Lei J, Li W, Wang K, Song Y, Wang B, Li G, Li S, Yang C.",
+    "year": 2020,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.0c03489",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

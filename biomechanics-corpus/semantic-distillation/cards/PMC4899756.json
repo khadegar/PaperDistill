@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4899756",
+  "paper_id": "doi:10.1038/srep27693",
+  "pmcid": "PMC4899756",
+  "source_record_sha256": "985d43e2bf953b5dc015ab5022130aa830b4b20a4f02a58a66ebf57254b74d88",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f3a14ce2f9359e56f284a020a0b6e90dab31a17a7abb31f20ad1b7c7f299279f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomineralization Guided by Paper Templates",
+    "authors": "Camci-Unal G, Laromaine A, Hong E, Derda R, Whitesides GM.",
+    "year": 2016,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep27693",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Research Support, U.S. Gov't, Non-P.H.S.; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

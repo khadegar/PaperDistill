@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10054296",
+  "paper_id": "doi:10.3390/pharmaceutics15030737",
+  "pmcid": "PMC10054296",
+  "source_record_sha256": "848b26d9c967e611d91fbf74a67d8671b8505d856b8fa8914e3aa6834c58d711",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e0296b7e5085386f3878ed8c850ea32391441f38051f9cdf4acb953521740ad6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Novel Approach for the Fabrication of 3D-Printed Dental Membrane Scaffolds including Antimicrobial Pomegranate Extract",
+    "authors": "Karabulut H, Ulag S, Dalbayrak B, Arisan ED, Taskin T, Guncu MM, Aksu B, Valanezhad A, Gunduz O.",
+    "year": 2023,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics15030737",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

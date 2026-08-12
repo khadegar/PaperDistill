@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12207363",
+  "paper_id": "doi:10.1002/ajpa.70084",
+  "pmcid": "PMC12207363",
+  "source_record_sha256": "106053541669b9a2c6fbc2e59206a9abc2ebaa769c59d3758c815a32bf21f809",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7e0a9c326271d3b8121f3e8cf63b5e00d85a3c127ba24f6e27163cd31b9dbe9d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Trabecular Architecture of the Proximal Tibia in Extant Hominids",
+    "authors": "Lukova A, Bachmann S, Synek A, Pahr DH, Kilbourne B, Dunmore CJ, Kivell TL, Skinner MM.",
+    "year": 2025,
+    "journal": "American Journal of Biological Anthropology",
+    "doi": "10.1002/ajpa.70084",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

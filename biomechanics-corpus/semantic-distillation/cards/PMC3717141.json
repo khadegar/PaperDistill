@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3717141",
+  "paper_id": "doi:10.1186/1475-925x-12-70",
+  "pmcid": "PMC3717141",
+  "source_record_sha256": "bd9a948c003b8fe2a1d645a29c8d60268095e4e18c7ade71a6c154b14a8976a0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8ad3a92bc0d2dff93185466b0da5efb64bf9be78619bb94f08e7519c5db83614",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stiffness and ultimate load of osseointegrated prosthesis fixations in the upper and lower extremity",
+    "authors": "Welke B, Hurschler C, Föller M, Schwarze M, Calliess T.",
+    "year": 2013,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/1475-925x-12-70",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

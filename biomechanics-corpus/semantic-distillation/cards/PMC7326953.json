@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7326953",
+  "paper_id": "doi:10.3389/fbioe.2020.00552",
+  "pmcid": "PMC7326953",
+  "source_record_sha256": "49071b091abbf00f487291190de05e7b72a8c5e4ea6783c89e63444832903997",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0e98f3899fea32020b5392181c283cc16c1d556ca5550b7621f2b1e9fdd5edfc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Polymer-Bioactive Glass Composite Filaments for 3D Scaffold Manufacturing by Fused Deposition Modeling: Fabrication and Characterization",
+    "authors": "Distler T, Fournier N, Grünewald A, Polley C, Seitz H, Detsch R, Boccaccini AR.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.00552",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

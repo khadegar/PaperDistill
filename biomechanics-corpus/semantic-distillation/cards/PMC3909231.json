@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3909231",
+  "paper_id": "doi:10.1371/journal.pone.0087755",
+  "pmcid": "PMC3909231",
+  "source_record_sha256": "ca44526a7d08da094c85b29634ffd69b73a5ef2665ecd2ad1495ac90fd9c6687",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1da2957647b70e86d1f131f66ccfa63a7a9d6fca91f00a08a4257025a6d41854",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Characterization of Mechanical and Biological Properties of 3-D Scaffolds Reinforced with Zinc Oxide for Bone Tissue Engineering",
+    "authors": "Feng P, Wei P, Shuai C, Peng S.",
+    "year": 2014,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0087755",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

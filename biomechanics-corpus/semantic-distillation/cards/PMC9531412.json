@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9531412",
+  "paper_id": "doi:10.1186/s13018-022-03335-7",
+  "pmcid": "PMC9531412",
+  "source_record_sha256": "59c3f1776692cb8e528267dc7852ef0197408e1260dd9fed620c91c103b9c1aa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a126ea5a817cef7f573c228a3d7962e4e05df85e3772589fc661eb7623c971c9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical research of medial femoral circumflex vascularized bone-grafting in the treatment of early-to-mid osteonecrosis of the femoral head: a finite element analysis",
+    "authors": "Zhang Y, Wang X, Jiang C, Hua B, Yan Z.",
+    "year": 2022,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-022-03335-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

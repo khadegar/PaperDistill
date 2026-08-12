@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9657110",
+  "paper_id": "doi:10.3390/ma15217843",
+  "pmcid": "PMC9657110",
+  "source_record_sha256": "7ccc36a413628c1fab44ccb7655a8dde106cf29548472158a150d79a89a67766",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "940cd8ebe8c46151e2d12ee80dedd9f1ac1d53b29746dfdbf47fee73b11ba875",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Numerical Analysis of Zirconium and Titanium Implants under the Effect of Critical Masticatory Load",
+    "authors": "Martinez-Mondragon M, Urriolagoitia-Sosa G, Romero-Ángeles B, Maya-Anaya D, Martínez-Reyes J, Gallegos-Funes FJ, Urriolagoitia-Calderón GM.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15217843",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

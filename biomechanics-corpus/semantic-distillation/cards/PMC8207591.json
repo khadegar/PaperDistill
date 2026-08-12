@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8207591",
+  "paper_id": "doi:10.1186/s13287-021-02303-y",
+  "pmcid": "PMC8207591",
+  "source_record_sha256": "de780637c63efd0cefa734451089e5c5ea7fff880037c2271679b54cdf964461",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1d64869c8dabf9c90ca72d7f63d546646e9e5353be575b0be6a4b9c74cc5b4d9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "MSC-derived small extracellular vesicles overexpressing miR-20a promoted the osteointegration of porous titanium alloy by enhancing osteogenesis via targeting BAMBI",
+    "authors": "Liu W, Huang J, Chen F, Xie D, Wang L, Ye C, Zhu Q, Li X, Li X, Yang L.",
+    "year": 2021,
+    "journal": "Stem Cell Research & Therapy",
+    "doi": "10.1186/s13287-021-02303-y",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

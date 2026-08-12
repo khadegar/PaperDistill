@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10357188",
+  "paper_id": "doi:10.3233/bme-221490",
+  "pmcid": "PMC10357188",
+  "source_record_sha256": "34905447ec627351604352e1729d56ec331eece929112554c613fa25ad1b9432",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6bbc9285fd427f42597e18d94bb239bbc6c72935c831fad0617770543cc1e851",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Numerical analysis of the effects of padded pelvic belts as a treatment for sacroiliac joint dysfunction",
+    "authors": "Toyohara R, Hiramukai T, Kurosawa D, Hammer N, Ohashi T.",
+    "year": 2023,
+    "journal": "Bio-Medical Materials and Engineering",
+    "doi": "10.3233/bme-221490",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

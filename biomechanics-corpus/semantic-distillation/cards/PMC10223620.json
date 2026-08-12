@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10223620",
+  "paper_id": "doi:10.3390/ma16103861",
+  "pmcid": "PMC10223620",
+  "source_record_sha256": "fce72bdc48a69b98291d34840fe3cc7e65c553659e076cf6677b4c05a5200d30",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "da2ec0a525fe23392a336ed2754ad1e4f7439b84679224cd6fbdbdc3f4ded558",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative Analysis of Bone Ingrowth in 3D-Printed Titanium Lattice Structures with Different Patterns",
+    "authors": "Kovács ÁÉ, Csernátony Z, Csámer L, Méhes G, Szabó D, Veres M, Braun M, Harangi B, Serbán N, Zhang L, Falk G, Soósné Horváth H, Manó S.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16103861",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

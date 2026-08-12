@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10475539",
+  "paper_id": "doi:10.3389/fbioe.2023.1251947",
+  "pmcid": "PMC10475539",
+  "source_record_sha256": "359d46e4fe5b5ce529599830ad5f157d5e36a5c1535d238705db578aac56adf4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "218a0197c900ddfacebd05dced8d2e22095d469cbae8474665b22c01bce9bfd1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Manufacture of titanium alloy materials with bioactive sandblasted surfaces and evaluation of osseointegration properties",
+    "authors": "Wang J, Yang B, Guo S, Yu S, Li H.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1251947",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

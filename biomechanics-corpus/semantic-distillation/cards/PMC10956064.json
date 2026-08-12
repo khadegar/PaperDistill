@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10956064",
+  "paper_id": "doi:10.1016/j.heliyon.2024.e28129",
+  "pmcid": "PMC10956064",
+  "source_record_sha256": "9eccb0b68631c5b397d1f4b0b6f28f94ca6f5ac4a1737ec719dbbc2a9fde4e45",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1a1b33ceee597b8fbfe630705e45cabe1daccbc6fae9e037b4080e5ed3a9a897",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of crown retention systems and loading direction on the stress magnitude of posterior implant-supported restorations: A 3D-FEA",
+    "authors": "Tribst JPM, de Jager N, Dal Piva AMO, Kleverlaan CJ, Feilzer A.",
+    "year": 2024,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2024.e28129",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

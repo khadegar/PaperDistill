@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3755432",
+  "paper_id": "doi:10.1155/2013/536128",
+  "pmcid": "PMC3755432",
+  "source_record_sha256": "08757305f857cc0b24f19ff6f550fb081cc92f6d2beb8abe7abfc492e736ad6a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1c445ef4bdc8c9794e137e3d15c83b28db1a28dff1ccee2aab9d89785526c088",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Minimally Invasive Sacroiliac Joint Fusion: One-Year Outcomes in 40 Patients",
+    "authors": "Sachs D, Capobianco R.",
+    "year": 2013,
+    "journal": "Advances in Orthopedics",
+    "doi": "10.1155/2013/536128",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13207988",
+  "paper_id": "doi:10.3390/jfb17050221",
+  "pmcid": "PMC13207988",
+  "source_record_sha256": "3c9cec9edca3fe1a9a5929a08cf709ad9fd011e52ff2f1751cf905f1c7c69194",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cd9326e382f39b76edb37798527ee759e66b3c34a74ad23aef6d165a19b33197",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical Fatigue of Titanium Dental Implants After Implantoplasty: An In Vitro Study Combined with Finite Element Simulations",
+    "authors": "Padullés-Roig E, Sevilla P, Velasco-Ortega E, Cerrolaza M, Fonseca D, Parache J, Aparicio C, Gil J.",
+    "year": 2026,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb17050221",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

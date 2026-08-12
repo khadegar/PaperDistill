@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7142599",
+  "paper_id": "doi:10.3390/ma13061372",
+  "pmcid": "PMC7142599",
+  "source_record_sha256": "ac26bf8f6869d6b94e968ab412d924acf04e73a0b91d85d0775c96cd63b1cee9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "720a35bbd23202765ab78cf77a80ad721e935c5b7753d1f29aa06fa80a6a7e5c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of the Acetabular Cup Material on the Shell Deformation and Strain Distribution in the Adjacent Bone—A Finite Element Analysis",
+    "authors": "Vogel D, Klimek M, Saemann M, Bader R.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13061372",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

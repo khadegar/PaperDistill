@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11788991",
+  "paper_id": "doi:10.1021/acsami.4c20455",
+  "pmcid": "PMC11788991",
+  "source_record_sha256": "a429edce0af135421070e75b31f5cf65282f0a56b92255b6053ed00a84da4e26",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "85fab030f82579bb7d6229f376059754b61ec2dd030f2e5cb1f790addba932be",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Engineered Cell Microenvironments: A Benchmark Tool for Radiobiology",
+    "authors": "Akolawala Q, Accardo A.",
+    "year": 2025,
+    "journal": "ACS Applied Materials & Interfaces",
+    "doi": "10.1021/acsami.4c20455",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

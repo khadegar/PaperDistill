@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10095518",
+  "paper_id": "doi:10.3390/ma16072546",
+  "pmcid": "PMC10095518",
+  "source_record_sha256": "37c096da07cd0acaac191d01703744ddc0cafddc8ec57718f2a8e65c1d6ce07d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7ad9ee3cf0592ae857b67d1e3141f237943f838b5b929c398b3abeb766f408d0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of Different Osseocartilaginous Reconstruction Techniques in Animal Model Knees",
+    "authors": "Cosma C, Apostu D, Vilau C, Popan A, Oltean-Dan D, Balc N, Tomoaie G, Benea H.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16072546",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

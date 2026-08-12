@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9837241",
+  "paper_id": "doi:10.1111/os.13585",
+  "pmcid": "PMC9837241",
+  "source_record_sha256": "fbad1644f4f5c66019c80edb2311f354ab0477294103083b87c7391df4ff3b49",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "11076978206dc34160c9ab3b165ecba6619983d10a6959b7269f41807ebbf565",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis and Transiliac‐Transsacral Screw Fixation for Posterior Pelvic Ring with Sacrum Dysplasia",
+    "authors": "Wu C, Zeng B, Deng J, Qin B, Shen D, Wang X, Hu H, Huang L, Liu X, Qiu G.",
+    "year": 2022,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13585",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

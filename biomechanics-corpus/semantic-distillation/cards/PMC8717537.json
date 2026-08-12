@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8717537",
+  "paper_id": "doi:10.1021/acsomega.1c05623",
+  "pmcid": "PMC8717537",
+  "source_record_sha256": "4b099ffcbaa10772564eca3adcbb607ba007d02f12b1801432602af481d6c747",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c03ce643ba33d618a7ea8f0ec3ceacc6e6eac271ef08a175e3e0f823beb5de1d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Novel Bionic Extracellular Matrix Polymer Scaffold Enhanced by Calcium Silicate for Bone Tissue Engineering",
+    "authors": "Wang M, Li B, Liu Y, Tang L, Zhang Y, Xie Q.",
+    "year": 2021,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.1c05623",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

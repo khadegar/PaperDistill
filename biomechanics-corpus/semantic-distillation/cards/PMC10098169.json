@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10098169",
+  "paper_id": "doi:10.3389/fbioe.2023.1148914",
+  "pmcid": "PMC10098169",
+  "source_record_sha256": "88438583fec996d6671b6e20d6b68e5cb14fb26d80c2ff64babfb9996c891dc7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "395e1cf2e73b535330c56a8febbb067ddcf80f120506d2d3b78f4543c1493baa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical alignment tolerance of a cruciate-retaining knee prosthesis under gait loading—A finite element analysis",
+    "authors": "Luan Y, Wang H, Fang C, Zhang M, Li J, Zhang N, Liu B, Su J, Cheng CK.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1148914",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

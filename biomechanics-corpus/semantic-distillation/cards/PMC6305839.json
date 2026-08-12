@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6305839",
+  "paper_id": "doi:10.1016/j.bioactmat.2018.12.003",
+  "pmcid": "PMC6305839",
+  "source_record_sha256": "c68ed1c318ebf659d02c935a6f3c280848097d35ab7cf2f5d0793e0b7399b568",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fa949d8a923712b152137e15b5b4b369a4c93953c0219ad4ec7cf539813c2041",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive manufacturing technology for porous metal implant applications and triple minimal surface structures: A review",
+    "authors": "Yuan L, Ding S, Wen C.",
+    "year": 2018,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2018.12.003",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

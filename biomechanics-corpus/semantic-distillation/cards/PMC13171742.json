@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13171742",
+  "paper_id": "doi:10.3389/fbioe.2026.1759007",
+  "pmcid": "PMC13171742",
+  "source_record_sha256": "6f584250e4f7f7f1505efdcec1902b189d41733ee0fd165b3fbadeea931769fa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3b1771e22b44363bb9baa6e79039268669cef233550af5beca203c91b6357e68",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional finite element analysis of full-arch implant-supported dental restorations: complete vs. segmented frameworks",
+    "authors": "Anitua E, Armentia M, Saracho L.",
+    "year": 2026,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2026.1759007",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

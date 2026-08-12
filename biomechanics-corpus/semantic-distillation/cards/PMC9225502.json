@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9225502",
+  "paper_id": "doi:10.3390/life12060903",
+  "pmcid": "PMC9225502",
+  "source_record_sha256": "c95108dde2cd2c1a5de41539f9c0c15bcc0ca490b7fc23b5e45a1cfd9c61abd4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e83187f24fae5efdfcf36aff4702cf9a7a78d0b00196790b2e3d61b6ffa4738b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Tissue Engineering through 3D Bioprinting of Bioceramic Scaffolds: A Review and Update",
+    "authors": "Khalaf AT, Wei Y, Wan J, Zhu J, Peng Y, Abdul Kadir SY, Zainol J, Oglah Z, Cheng L, Shi Z.",
+    "year": 2022,
+    "journal": "Life",
+    "doi": "10.3390/life12060903",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

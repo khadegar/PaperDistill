@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13015776",
+  "paper_id": "doi:10.1002/adhm.202505131",
+  "pmcid": "PMC13015776",
+  "source_record_sha256": "5e5625580012a71bcd470170ab422d18983d7c4687d6dd7056f7ced13da3afda",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1c88866ea2b0ede67da81a7ccd5b0c8ce98205469dcbe67558475e24558e4137",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D‐Printed Titanium Implants with Bioactive Peptide‐Polysaccharide Scaffolds for Personalized Bone Reconstruction",
+    "authors": "Rattner N, Perlis V, Golden E, Pokhojaev A, Sarig R, Binderman I, Halperin-Sternfeld M, Dadia S, Adler-Abramovich L.",
+    "year": 2026,
+    "journal": "Advanced Healthcare Materials",
+    "doi": "10.1002/adhm.202505131",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

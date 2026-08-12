@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8152095",
+  "paper_id": "doi:10.3390/ma14102524",
+  "pmcid": "PMC8152095",
+  "source_record_sha256": "01aad030c8f6b8774bd8c6ab29f5aceb57a581c58461ac2946c8368f4b2429e0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "698681e8e24422d554c35461667d494970f20f623f4f75727502ec61fcd85947",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Main 3D Manufacturing Techniques for Customized Bone Substitutes. A Systematic Review",
+    "authors": "Montero J, Becerro A, Pardal-Peláez B, Quispe-López N, Blanco JF, Gómez-Polo C.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14102524",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

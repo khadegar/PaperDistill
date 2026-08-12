@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10886521",
+  "paper_id": "doi:10.3390/biomedicines12020261",
+  "pmcid": "PMC10886521",
+  "source_record_sha256": "aedb1b4fa9bb4ce9d30b73e8ac20bc9691f1c504d1b18fedde7746f5d84c01fd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ccde7b7b95b62740b56681529d12049feddc8ca6b020f9a6a6fb0fec07948835",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Combined Computational and Experimental Analysis of PLA and PCL Hybrid Nanocomposites 3D Printed Scaffolds for Bone Regeneration",
+    "authors": "Kallivokas SV, Kontaxis LC, Psarras S, Roumpi M, Ntousi O, Kakkos I, Deligianni D, Matsopoulos GK, Fotiadis DI, Kostopoulos V.",
+    "year": 2024,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines12020261",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

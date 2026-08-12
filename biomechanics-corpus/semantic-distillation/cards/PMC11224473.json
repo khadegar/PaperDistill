@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11224473",
+  "paper_id": "doi:10.3389/fbioe.2024.1368492",
+  "pmcid": "PMC11224473",
+  "source_record_sha256": "b7c0709227c735b2713045c918991dc00510e4fc7af455fda34f438a48625293",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c88a0777ff8a6d30ba7cdb46b34a4f4c08d085cb91fe984823e065dee17cb4c6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of ortho-bridge system and proximal femoral nail antirotation in intertrochanteric fractures with lateral wall fracture based on finite element analysis",
+    "authors": "Long Y, Liu N, Huang X, Liang W, Liu J, Huang Z, Zhang Y, Wang W.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1368492",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

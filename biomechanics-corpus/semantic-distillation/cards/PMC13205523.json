@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13205523",
+  "paper_id": "doi:10.3390/dj14050296",
+  "pmcid": "PMC13205523",
+  "source_record_sha256": "6baec04b989fc2e1991e2a0f48e6b8b807d11e2301189d39b56fe577198e300e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0095699dc8ad368bbc28dc51f1efcbe69f79e96e34f224989f12be8e764a6816",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Real-Time Inertial Sensor-Based Diagnostic Support System for Improving Angular Accuracy in Dental Implant Placement: Preclinical Experimental Validation in a 3D Haptic Simulation Model",
+    "authors": "Cuesta Román R, Riutord-Sbert P, Vallejos Rojas D, Coll Campayo I, Obrador de Hevia J, Arroyo Bote S.",
+    "year": 2026,
+    "journal": "Dentistry Journal",
+    "doi": "10.3390/dj14050296",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

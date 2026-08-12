@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12221445",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101990",
+  "pmcid": "PMC12221445",
+  "source_record_sha256": "e5ab3772795848668a5e8a60620aa97e79a3fd90224ce64e6dfb0cd0c4dfe78e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dae38f93b3d366df7e5a81b9eaa569f8b2b61f658a618d524e6b16a9bf7de575",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In situ vascularization and epithelialization of segmental bioengineered trachea based on marrow-derived stem/progenitor cells",
+    "authors": "Sun F, Shan Y, Pan S, Lu Y, Shen Z, Zhu J, Yuan L, Wang Q, Chen W, Chen H, Shi H.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101990",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

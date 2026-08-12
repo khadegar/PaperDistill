@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10972765",
+  "paper_id": "doi:10.1016/j.bioactmat.2024.03.022",
+  "pmcid": "PMC10972765",
+  "source_record_sha256": "ca66016162bcc451d84d68529e427fc4f30abe430e35f42ca3f15819fda94061",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "af56cd6d5dfdf3572043fba604154130ace68f3d9f78d4a722d9b3572074e772",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multi-modal imaging for dynamic visualization of osteogenesis and implant degradation in 3D bioprinted scaffolds",
+    "authors": "Feng Q, Fatima K, Yang A, Li C, Chen S, Yang G, Zhou X, He C.",
+    "year": 2024,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2024.03.022",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

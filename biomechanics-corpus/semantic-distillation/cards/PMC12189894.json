@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12189894",
+  "paper_id": "doi:10.3390/bioengineering12060594",
+  "pmcid": "PMC12189894",
+  "source_record_sha256": "ba3ec7e5813329763d27fb80ea942d354309dd0ef7c14e24f2587b82fc61ff89",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0d58195e7a97912b46c521acefe1c8121e60158b8fd0bf1c70acdd6652228d2f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Lateral Cortical Fixation as the Optimal Strategy for Achieving Stability in Rib Fractures: A Patient-Specific Finite Element Analysis",
+    "authors": "Zhang X, Lan X, Shen W, Zhou Q.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12060594",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

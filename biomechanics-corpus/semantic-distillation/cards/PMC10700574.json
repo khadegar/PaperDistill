@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10700574",
+  "paper_id": "doi:10.1038/s41598-023-48735-9",
+  "pmcid": "PMC10700574",
+  "source_record_sha256": "956f539238f0a69d7f37f73ac7762a1d55db77a2569a2b15d1fd58e321900636",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "54dfbd90f9a3fca878cbbf3373382fc761a1dca2e1225f2ee6d42d2424f37f7b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Prioritizing biomaterials for spinal disc implants by a fuzzy AHP and TOPSIS decision making method",
+    "authors": "Ansaripour H, Haeussler KL, Ferguson SJ, Flohr M.",
+    "year": 2023,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-023-48735-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

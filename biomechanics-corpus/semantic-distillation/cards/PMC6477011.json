@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6477011",
+  "paper_id": "doi:10.1007/s11517-018-1945-6",
+  "pmcid": "PMC6477011",
+  "source_record_sha256": "a80a426b4d9871a88efe38fec511e9b0d45153576df34fe2dc628aa8a8ffe2c8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "10fa84d9c8ddc2d03abb101d5c561cf0f0bbbfb9bce53db7cfcdb960478fea81",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical considerations in the design of patient-specific fixation plates for the distal radius",
+    "authors": "Caiti G, Dobbe JGG, Bervoets E, Beerens M, Strackee SD, Strijkers GJ, Streekstra GJ.",
+    "year": 2018,
+    "journal": "Medical & Biological Engineering & Computing",
+    "doi": "10.1007/s11517-018-1945-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

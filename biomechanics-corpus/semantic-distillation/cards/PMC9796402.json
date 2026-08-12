@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9796402",
+  "paper_id": "doi:10.1002/jper.21-0723",
+  "pmcid": "PMC9796402",
+  "source_record_sha256": "b52a4e138d5ae2b7d6d73058d86646c228102587cbc190ce9ad03d907cd4a16a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2c585b113cc7f63fafacf406bd2ed98c5fd978e5eaea8de7ed8cd3fb6d656dc4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Is the degree of physiological bone remodeling a predictive factor for peri‐implantitis?",
+    "authors": "Rodriguez MV, Ravidà A, Saleh MHA, Basma HS, Dukka H, Khurshid H, Wang HL, Moreno PG.",
+    "year": 2022,
+    "journal": "Journal of Periodontology",
+    "doi": "10.1002/jper.21-0723",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

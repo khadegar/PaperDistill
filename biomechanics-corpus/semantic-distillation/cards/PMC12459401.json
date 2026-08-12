@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12459401",
+  "paper_id": "doi:10.1111/jmi.70008",
+  "pmcid": "PMC12459401",
+  "source_record_sha256": "49cf6ec44e7ab4c805acf1b425cda9845992f8edbcb32ad5090b24b4e4b98c41",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f92a73a617fb4619d0acad1e1871210ccda7174f4778d91c8694afe0c3af7d1f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An overview of reliable and representative DVC measurements for musculoskeletal tissues",
+    "authors": "Tozzi G, Dall'Ara E.",
+    "year": 2025,
+    "journal": "Journal of Microscopy",
+    "doi": "10.1111/jmi.70008",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

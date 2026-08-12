@@ -1,0 +1,216 @@
+{
+  "study": {
+    "article_kind": "case_anchored_computational_original_research",
+    "design_features": [
+      "patient_specific_implant",
+      "finite_element_analysis",
+      "fixation_comparison",
+      "case_report_anchor",
+      "additively_manufactured_prosthesis"
+    ],
+    "research_problem": "A customized hemipelvic prosthesis failed through iliac screw loosening/breakage, and the mechanically preferable combination of posterior, inferior, sacral, and pubic support was uncertain for the remaining patient-specific pelvic anatomy.",
+    "exact_gap": "Customized geometry improves anatomical fit but does not define an optimal load path or fixation scheme after Enneking II+III resection; the relative stress and micromotion consequences of auxiliary fixation options had not been evaluated for this failed reconstruction.",
+    "objective_or_hypothesis": "Reconstruct the failed patient's pelvis/prosthesis, compare auxiliary fixation variants under a peak gait load, and determine whether posterior iliac plus pubic-ramus support reduces screw stress and interface micromotion while restoring pelvic-ring load transmission.",
+    "study_design": "Retrospective single-case failure observation coupled to a nonlinear quasi-static patient-specific finite-element comparison of six fixation configurations under one peak gait load.",
+    "sample_or_model": "One 73-year-old patient with postoperative loosening and screw breakage; CT-derived heterogeneous pelvis and Ti-6Al-4V prosthesis FE models with frictional implant/bone and screw/bone contact.",
+    "comparators": [
+      "A: original iliac-screw fixation",
+      "B: posterior iliac auxiliary plate",
+      "C: inferior iliac platform enlargement",
+      "D: auxiliary sacral screws",
+      "A*: original fixation plus pubic/ischial support",
+      "B*: posterior iliac fixation plus pubic/ischial support"
+    ],
+    "method_spine": [
+      "Use the patient's observed six-month screw failure to define the design problem.",
+      "Segment pre/postoperative CT and reconstruct the original printed prosthesis and fixation.",
+      "Create auxiliary fixation variants while retaining the patient anatomy.",
+      "Assign CT-derived bone stiffness, contact coefficients, constraints, and a 1,948 N peak gait load.",
+      "Compare predicted prosthesis/screw stress, pelvic-ring stress distribution, and interface area above a 28-micrometre motion threshold."
+    ],
+    "validation_roles": {
+      "verification": [
+        "The authors state that a mesh-quality/sensitivity analysis led to a 1 mm tetrahedral size, but convergence data and solver residual checks are not reported in the packet (S005:C02)."
+      ],
+      "calibration": [],
+      "validation": [
+        "The original model predicts stress concentration at the same screw region that failed clinically, providing case-specific face plausibility rather than independent quantitative validation (S003:C01; S006:C01; S007:C02)."
+      ],
+      "sensitivity": [
+        "Fixation topology is varied as the design factor; material, friction, boundary, load, and biological-threshold assumptions are not subjected to sensitivity analysis."
+      ],
+      "application_prediction": [
+        "Posterior iliac plus pubic support is predicted to improve initial mechanical stability; fatigue life, osseointegration, revision risk, and clinical benefit are not directly tested (S006:C01-S007:C05)."
+      ]
+    },
+    "primary_outcomes": [
+      "The original model localized peak stress to the third/fourth iliac-screw tips at 295.7 MPa, corresponding qualitatively to the observed breakage region (S006:C01; S007:C02).",
+      "Posterior iliac and inferior-platform variants reduced the maximum predicted screw-region stress to 235.3 and 265.1 MPa; sacral fixation reduced the fourth-screw stress but shifted a 572.8 MPa peak to the sacral screw (S006:C01).",
+      "Adding pubic support redistributed stress around the pelvic ring; the combined posterior-plus-pubic configuration predicted 209.7 MPa at the iliac screw and 226.7 MPa at the pubic connection (S006:C02).",
+      "All auxiliary configurations reduced the predicted interface area exceeding 28 micrometres, with a further reduction after pubic support (S006:C03)."
+    ],
+    "highest_evidence_level_reached": "Case-specific computational prediction with qualitative correspondence to one observed failure; no independent bench, cadaveric, cohort, fatigue, or biological validation."
+  },
+  "argument_map": {
+    "central_claim": "For this reconstructed hemipelvic case and model assumptions, posterior iliac fixation plus pubic-ramus support provides the most favorable evaluated compromise among screw stress, ring load transmission, and interface micromotion.",
+    "data": [
+      "The clinically failed original configuration shows a predicted stress concentration at the failed screw region (S003:C01; S006:C01).",
+      "Auxiliary posterior, inferior, and sacral fixation redistribute stress with different secondary concentration risks (S006:C01).",
+      "Pubic support produces a more circumferential predicted pelvic stress field and lowers key connection stresses when combined with posterior support (S006:C02).",
+      "Predicted supra-threshold micromotion area decreases with auxiliary fixation (S006:C03)."
+    ],
+    "warrant": "A fixation layout that avoids extreme local stress while restoring a distributed pelvic-ring load path and limiting interface motion should have better initial mechanical stability than the failed layout.",
+    "backing": [
+      "The model uses CT-derived heterogeneous bone properties and a literature-based peak gait load (S005:C02-S005:C03).",
+      "The discussion relates predicted Ti-6Al-4V stress to a cited fatigue-limit range and micromotion to cited tissue-interface thresholds (S007:C02-S007:C04)."
+    ],
+    "qualifier": "Relative ranking within the evaluated case, configurations, peak load, and modeling assumptions.",
+    "rebuttals_or_boundaries": [
+      "The high-stress sacral option demonstrates that unloading one screw can relocate rather than remove failure risk (S006:C01; S007:C02).",
+      "No in-vitro/cadaveric experiment or fatigue-cycle simulation tests the predicted ranking (S007:C04).",
+      "Muscles and ligaments are not modeled separately and only the peak gait state is simulated (S005:C03; S007:C04).",
+      "A 28-micrometre mechanical threshold is an external proxy, not observed osseointegration."
+    ],
+    "argument_coherence": "moderate_for_case_specific_design_ranking"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "The patient's postoperative radiograph showed prosthesis loosening and a broken screw at six months (S003:C01).",
+      "Patient CT images supplied geometry and Hounsfield-unit material mapping inputs (S004:C01-S005:C02)."
+    ],
+    "predicted": [
+      "All stresses, pelvic load-path distributions, and interface micromotion areas for A-D/A*/B* are FE outputs (S006:C01-S006:C03)."
+    ],
+    "inferred": [
+      "Predicted stress near a cited fatigue limit is interpreted as a breakage risk consistent with the clinical failure (S007:C02).",
+      "Reduced area above 28 micrometres is interpreted as greater osseointegration potential, although bone ingrowth is not modeled or measured (S007:C03-S007:C04).",
+      "More uniform ring stress is interpreted as enhanced initial stability, without an independent stability test (S007:C03)."
+    ],
+    "recommended": [
+      "Consider posterior iliac and pubic-ramus support in future hemipelvic prosthesis designs, subject to mechanical and clinical validation (S007:C05)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "FE stress is a surrogate for fatigue failure risk, not a measured cycle-to-failure result.",
+      "FE micromotion relative to a literature threshold is a surrogate for interface tissue potential, not measured osseointegration.",
+      "One patient's failure location provides face plausibility, not validation of counterfactual fixation variants."
+    ],
+    "overclaim_risks": [
+      "The abstract states that pubic fixation increased osseointegration ability although only micromotion was predicted (S001:C01).",
+      "The word 'validating' for agreement with one clinical failure can be misread as independent model validation (S007:C02).",
+      "A relative computational ranking is converted into a broadly advisable design despite a single patient and limited configurations (S007:C05).",
+      "Automated cues incorrectly indicate animal research; the only living-subject evidence is one human case observation."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Anchor a computational design question in an observed failure",
+      "execution": "The authors move from screw breakage as the clinical failure mode to explicit stress/micromotion objectives and predefined fixation variants (S002:C01-S002:C02).",
+      "locator": "S002:C02",
+      "effectiveness": "high",
+      "transferable_principle": "For case-anchored FE work, state the observed failure, the counterfactual designs, and the mechanical endpoints that can test the proposed explanation.",
+      "failure_mode": "Do not let the observed failure serve simultaneously as calibration, validation, and proof of the proposed alternatives."
+    },
+    {
+      "section": "methods",
+      "move": "Expose the model's load path and contact assumptions",
+      "execution": "CT material mapping, tied joints, friction coefficients, sacral constraint, peak gait load, and omitted muscle/ligament structures are all stated (S005:C02-S005:C03).",
+      "locator": "S005:C02",
+      "effectiveness": "moderate_to_high",
+      "transferable_principle": "Write FE Methods around geometry, material law, interface law, boundary condition, load, mesh, and solver so each prediction can be traced to an assumption.",
+      "failure_mode": "The mesh study and nonlinear solution verification are asserted without quantitative convergence evidence."
+    },
+    {
+      "section": "results",
+      "move": "Report stress relocation, not just percentage reduction",
+      "execution": "The sacral option lowers the original iliac-screw stress but creates a much higher peak in the auxiliary sacral screw (S006:C01).",
+      "locator": "S006:C01",
+      "effectiveness": "high",
+      "transferable_principle": "When a design reduces one hotspot, report the new hotspot and its absolute magnitude before declaring improvement.",
+      "failure_mode": "No uncertainty interval or parameter sensitivity accompanies the absolute values."
+    },
+    {
+      "section": "discussion",
+      "move": "Compare model outputs with an observed failure and external thresholds",
+      "execution": "The discussion relates predicted screw stress to the actual breakage site/fatigue range and interface motion to literature tissue thresholds (S007:C02-S007:C04).",
+      "locator": "S007:C04",
+      "effectiveness": "moderate",
+      "transferable_principle": "Label clinical correspondence, external-threshold comparison, and independent validation as different evidentiary operations.",
+      "failure_mode": "The discussion over-translates micromotion into osseointegration and one-case correspondence into validation."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "No in-vitro biomechanical experiment accompanies the FE model (S007:C04).",
+      "Only peak gait loading rather than the changing gait cycle is simulated (S007:C04).",
+      "Only several common fixation methods are evaluated (S007:C04)."
+    ],
+    "reader_identified": [
+      "One case supplies geometry and the only clinical correspondence, so patient and failure-mode generalizability are unknown.",
+      "No independent calibration/validation dataset, cadaver test, construct-level fatigue test, or uncertainty quantification is provided.",
+      "Muscle/ligament simplification, tied pelvic joints, friction values, material mapping, and load orientation are not sensitivity-tested.",
+      "The mesh-sensitivity claim lacks reported convergence curves or acceptance criteria.",
+      "Predicted micromotion cannot establish porous-coating osseointegration or long-term biological fixation."
+    ],
+    "likely_bias_direction": [
+      "Using the same failure case to motivate and judge the model likely inflates perceived validation.",
+      "A single peak load and idealized interfaces may under- or overestimate hotspots and cannot bound fatigue risk.",
+      "Threshold-based interpretation likely overstates biological confidence."
+    ],
+    "scope_boundary": "The conclusion is limited to a comparative FE ranking for one reconstructed pelvis under one peak gait condition; it does not establish fatigue life, biological fixation, patient-level benefit, or a universally optimal hemipelvic design."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC11379819-01",
+      "capability": "Use a clinical failure as face-plausibility evidence for a model while explicitly withholding the label of independent validation.",
+      "manuscript_use": "FE Introduction, validation subsection, and Discussion.",
+      "applicable_domains": ["biomechanics", "bone_implant", "patient_specific_implant"],
+      "applicable_study_designs": ["case_anchored_FE", "failure_analysis"],
+      "supporting_locators": ["S003:C01", "S006:C01", "S007:C02"],
+      "counterexample_or_boundary": "The same case used to formulate the hypothesis cannot independently validate counterfactual designs; add held-out experiments or describe the correspondence as qualitative.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC11379819-02",
+      "capability": "In comparative implant FE Results, track stress relocation and secondary failure modes rather than presenting only the percentage reduction at the original hotspot.",
+      "manuscript_use": "Results tables, figures, and design trade-off Discussion.",
+      "applicable_domains": ["biomechanics", "bone_implant", "topology_optimization"],
+      "applicable_study_designs": ["comparative_FE", "design_optimization"],
+      "supporting_locators": ["S006:C01", "S006:C02", "S007:C02"],
+      "counterexample_or_boundary": "A lower local peak is not superior if load is shifted to a weaker component, bone region, or unmodeled interface.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC11379819-03",
+      "capability": "Label stress and micromotion as predicted mechanical surrogates and keep them separate from fatigue failure, osseointegration, and clinical outcomes.",
+      "manuscript_use": "Abstract, Results, Discussion, and conclusion claim calibration.",
+      "applicable_domains": ["biomechanics", "bone_implant", "osseointegration"],
+      "applicable_study_designs": ["finite_element_analysis"],
+      "supporting_locators": ["S006:C03", "S007:C02", "S007:C03", "S007:C04"],
+      "counterexample_or_boundary": "Threshold comparison may motivate biological testing but cannot substitute for interface histology, push-out strength, longitudinal imaging, or clinical follow-up.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate",
+    "methods_transparency": "moderate_to_high",
+    "validation_credibility": "low",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "moderate_with_geometry_changes",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "No independent mechanical validation or uncertainty analysis.",
+      "Single-case and single-load generalization.",
+      "Mechanical surrogates are translated into osseointegration and design recommendations."
+    ],
+    "overall_credibility": "moderate_for_hypothesis_generation_low_for_clinical_or_biological_claims"
+  },
+  "summary_zh": "该文的有效贡献是以一个断钉病例为锚点，对六种患者特异性半骨盆固定方案进行相对 FE 排名。它清楚展示了一个关键写作原则：设计优化不能只报原热点下降，还要报告应力被转移到哪里——骶螺钉方案虽然卸载原螺钉，却产生 572.8 MPa 新热点。病例失效位置与模型热点相符只提供定性可信度；所有应力和微动仍是预测代理，28 μm 阈值也不等于实际骨整合。最稳妥的结论是“在本病例与假设下支持进一步实验的方案”，而不是普适固定建议。",
+  "reader_notes": [
+    "本文含一个真实患者病例，但不是临床比较研究，也没有动物实验。",
+    "3D 打印是器械制造背景；研究核心是病例锚定的患者特异性有限元固定比较。"
+  ]
+}

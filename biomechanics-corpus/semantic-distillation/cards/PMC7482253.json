@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7482253",
+  "paper_id": "doi:10.1021/acsomega.0c03127",
+  "pmcid": "PMC7482253",
+  "source_record_sha256": "10f22759be7d21255c3048dd245961c236a87b7abcaebdb2059ffd2f1b199f8d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "05df96e7f9f506bfb027dc87b61a3c70085543e06e1a6ce38783b7a4f943c5f1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional, MultiScale, and Interconnected Trabecular Bone Mimic Porous Tantalum Scaffold for Bone Tissue Engineering",
+    "authors": "Wang X, Zhu Z, Xiao H, Luo C, Luo X, Lv F, Liao J, Huang W.",
+    "year": 2020,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.0c03127",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

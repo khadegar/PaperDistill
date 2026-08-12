@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8955283",
+  "paper_id": "doi:10.3390/polym14061266",
+  "pmcid": "PMC8955283",
+  "source_record_sha256": "293cf73881958a1fc9039a9f34c1ea67b233da12a37bc1f0f69946a3ae446c4f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "78b82a8a9ee919044c6dc64c4a9af2033caf51c4b03d6eb0124ce272f0311a4a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Adaptive Mechanism for Designing a Personalized Cranial Implant and Its 3D Printing Using PEEK",
+    "authors": "Mian SH, Moiduddin K, Elseufy SM, Alkhalefah H.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14061266",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

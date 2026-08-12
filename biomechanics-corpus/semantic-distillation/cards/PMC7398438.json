@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7398438",
+  "paper_id": "doi:10.1089/ten.tec.2020.0098",
+  "pmcid": "PMC7398438",
+  "source_record_sha256": "6bcc02f1001a4fe1d92aa1c49aa2d7efd8920ecb89d22103b1eac240561767f3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9eef51622cb58f6ea23b709eed0aa81cfd994b3ae839d03b4f1fc0d7695c4c22",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "High-Throughput Manufacture of 3D Fiber Scaffolds for Regenerative Medicine",
+    "authors": "Shirwaiker RA, Fisher MB, Anderson B, Schuchard KG, Warren PB, Maze B, Grondin P, Ligler FS, Pourdeyhimi B.",
+    "year": 2020,
+    "journal": "Tissue Engineering. Part C, Methods",
+    "doi": "10.1089/ten.tec.2020.0098",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,47 @@
+# Generated and large source data (kept locally or in object storage, not Git)
+biomechanics-corpus/raw/
+biomechanics-corpus/records/
+biomechanics-corpus/excluded/
+biomechanics-corpus/logs/
+biomechanics-corpus/candidates.jsonl
+biomechanics-corpus/corpus.sqlite
+biomechanics-corpus/corpus.sqlite-*
+biomechanics-corpus/semantic-distillation/packets/
+biomechanics-corpus/semantic-distillation/luna-state/
+biomechanics-corpus/semantic-distillation/selection.jsonl
+biomechanics-corpus/semantic-distillation/screening.jsonl
+biomechanics-corpus/selection.jsonl
+biomechanics-corpus/screening.jsonl
+
+pdf-parser-benchmark/corpus-10000/
+pdf-parser-benchmark/inputs/
+pdf-parser-benchmark/offline/
+pdf-parser-benchmark/transfer/
+pdf-parser-benchmark/runs/
+pdf-parser-benchmark/exports/
+pdf-parser-benchmark/logs/
+pdf-parser-benchmark/tmp/
+pdf-parser-benchmark/tmp*/
+pdf-parser-benchmark/data/
+pdf-parser-benchmark/server/
+pdf-parser-benchmark/manual-review/
+tmp*/
+
+# Local environments, caches, and transient files
+**/.venv/
+**/envs/
+**/__pycache__/
+**/.pytest_cache/
+**/*.pyc
+**/.DS_Store
+*.tmp
+*.temp
+
+# Credentials and machine-local configuration
+.env
+.env.*
+**/credentials*.json
+**/*secret*
+**/*token*
+
+# Keep small, reproducible reports and semantic cards; large packets/raw data stay ignored.

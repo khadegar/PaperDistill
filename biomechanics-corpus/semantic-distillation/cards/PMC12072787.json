@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12072787",
+  "paper_id": "doi:10.3390/ma18092141",
+  "pmcid": "PMC12072787",
+  "source_record_sha256": "37b3aa8a928512ec0ae4fb01d3985dec4ab68896b9e377299f5a5e5796bfa7a6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "44a816b1673bc6dee23688542f1c0edb5c5163d6b377487a0e0469bf1aba64fb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Ti6Al4V Alloy Surface and Porosity on Bone Osseointegration: In Vivo Pilot Study in Rabbits",
+    "authors": "Vanaclocha A, Vanaclocha V, Atienza CM, Jordá-Gómez P, Primo-Capella V, Blasco JR, Portolés L, Saiz-Sapena N, Vanaclocha L.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18092141",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7488860",
+  "paper_id": "doi:10.1186/s13018-020-01931-z",
+  "pmcid": "PMC7488860",
+  "source_record_sha256": "6ee3b3098d79d6882410954294fad2515656b8e65c2bb078bb0d884a16980ef8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8b433834174e714717cb75904e93fa2acce5eb4f58031e7642015cc4c034c06b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Examining trabecular morphology and chemical composition of peri-scaffold osseointegrated bone",
+    "authors": "Lyu L, Yang S, Jing Y, Zhang C, Wang J.",
+    "year": 2020,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-020-01931-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

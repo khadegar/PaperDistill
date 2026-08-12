@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9409384",
+  "paper_id": "doi:10.3390/ijms23169048",
+  "pmcid": "PMC9409384",
+  "source_record_sha256": "32942f3fdd8ae464c848e3784165a7a36094ba5ddbd4ff6a504a750c41d94624",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dbd7b6b897bbbf1a115d50a611b4c0a9774214d5155593c425d16de7f13aa720",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Hydroxyapatite Coating by Er: YAG Pulsed Laser Deposition on the Bone Formation Efficacy by Polycaprolactone Porous Scaffold",
+    "authors": "Zhang Y, Jo JI, Chen L, Hontsu S, Hashimoto Y.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms23169048",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

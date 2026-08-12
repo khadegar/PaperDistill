@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8625735",
+  "paper_id": "doi:10.3390/ma14226833",
+  "pmcid": "PMC8625735",
+  "source_record_sha256": "9bfe67851777f67a10f21fcd3935e3a9fb055d7bbe8797ab32f06319096e7165",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f65d6c04a75518ed761bb69361ea4e17f75b7138f0beed9098d86ca11373a759",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanics of Additively Manufactured Metallic Scaffolds—A Review",
+    "authors": "Elhattab K, Hefzy MS, Hanf Z, Crosby B, Enders A, Smiczek T, Haghshenas M, Jahadakbar A, Elahinia M.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14226833",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

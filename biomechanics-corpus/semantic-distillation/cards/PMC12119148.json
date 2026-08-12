@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12119148",
+  "paper_id": "doi:10.1302/2633-1462.65.bjo-2024-0266.r1",
+  "pmcid": "PMC12119148",
+  "source_record_sha256": "0f94cb8d9d92c6d386a9e1cbe42c5ebed44ba61c95d4edd5fc1fdf128303b8fc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "eaa0e601ee9d47588ec5bc0164b41621f9df2d45fa3290a25743052eb60111b6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The impact on lateral wall fractures by a sliding hip screw device in trochanteric fractures",
+    "authors": "Høgevold M, Alm CE, Wright BJ, Ragan L, Frihagen F, Röhrl SMH, Madsen JE, Brattgjerd JE.",
+    "year": 2025,
+    "journal": "Bone & Joint Open",
+    "doi": "10.1302/2633-1462.65.bjo-2024-0266.r1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

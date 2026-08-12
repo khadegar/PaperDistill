@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12950373",
+  "paper_id": "doi:10.1016/j.jot.2026.101051",
+  "pmcid": "PMC12950373",
+  "source_record_sha256": "066be2bcec964e96d7333085996667b296b77c831b0ee7c78b9e9f67ce5ee926",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "74dd57c731577da44d7f5d041d083ab61c393bf435e1d20cb1b4c4a74f6b5ad8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Foot and ankle biomaterials: a comprehensive review of current applications, challenges, and future directions",
+    "authors": "Elvin P, Sanchez A, Reyes AA, Andrade H, Karami M, Mir HT, La Fontaine J, Rodrigues D, Biguetti C.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2026.101051",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7601568",
+  "paper_id": "doi:10.3390/ma13204471",
+  "pmcid": "PMC7601568",
+  "source_record_sha256": "197a40617ea5d09f75012ebb20aa1cb5d81cfffd429eb704d938587a5c8ca9cb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "60b317b600fd7a361dbecf6c778e4c060e5347c18ae0ac7d844bf56a7a037ca9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioengineering Bone Tissue with 3D Printed Scaffolds in the Presence of Oligostilbenes",
+    "authors": "Posa F, Di Benedetto A, Ravagnan G, Cavalcanti-Adam EA, Lo Muzio L, Percoco G, Mori G.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13204471",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

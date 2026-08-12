@@ -1,0 +1,230 @@
+{
+  "study": {
+    "article_kind": "patient_geometry_based_finite_element_sizing_optimization_with_printability_demonstration",
+    "design_features": [
+      "mandibular_segmental_defect",
+      "tetrahedral_truss_scaffold",
+      "strut_diameter_optimization",
+      "two_static_clenching_loads",
+      "peak_stress_constraint",
+      "porosity_weight_objective",
+      "selective_laser_melting",
+      "single_patient_geometry",
+      "no_mechanical_or_animal_validation"
+    ],
+    "research_problem": "A mandibular scaffold should be anatomically conforming, highly interconnected and porous, yet remain below a mechanical stress limit; uniform periodic trimming can create free ends and waste material in low-stress regions.",
+    "exact_gap": "Prior approaches did not simultaneously avoid surface free ends/steps, control peak stress to a chosen target, improve stress utilization, and maximize porosity in a mandibular defect-specific scaffold (S002:C02-S002:C05).",
+    "objective_or_hypothesis": "Generate a contour-conforming tetrahedral network from one reconstructed mandible, iteratively assign 0.3-0.6 mm strut diameters using two clenching-load FE results, and demonstrate a higher-porosity design whose predicted peak stress remains below a target (S001:C01; S003:C01-S006:C03).",
+    "study_design": "A single CT-derived mandibular defect and two fixation plates/six screws were modeled; an initial 0.4 mm, 2.4 mm-cell tetrahedral structure was iteratively resized for 120, 100, or 80 MPa targets, analyzed under incisal and unilateral molar clenching, and selected designs were printed in Ti6Al4V (S003:C01-S011:C01).",
+    "sample_or_model": "One patient CT geometry simplified to cortical bone, idealized plates/screws and a fully bonded late-healing scaffold; linear isotropic homogeneous material models and literature muscle forces were used (S003:C01-S005:C02; S012:C03-S012:C07).",
+    "comparators": [
+      "Uniform 0.4 mm initial structure (model A)",
+      "Optimized structures constrained at 120, 100, and 80 MPa (models B-D)",
+      "Incisal clenching versus left unilateral molar clenching",
+      "No solid implant, conventional lattice, topology-optimized alternative, experimental mandible, or animal comparator"
+    ],
+    "method_spine": [
+      "Reconstruct and simplify one mandible and define defect/fixation geometry.",
+      "Tetrahedralize the design volume and replace mesh edges with cylindrical struts.",
+      "Assign simplified materials, fully integrated contacts, constraints, and two static muscle-load cases.",
+      "Iteratively resize each strut on a 0.05 mm grid within manufacturing bounds until both load cases meet a peak-stress target while reducing weight.",
+      "Compare designed porosity, peak stress, strut-size distribution, and stress histogram.",
+      "Print the design and treat manufacturability, as-built fidelity, mechanics, fatigue, permeability, and biology as separate validation stages."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Mesh sensitivity is stated to converge at 123,268 elements, but alternative meshes, convergence plots, and tolerances are not reported (S005:C01; S012:C03).",
+        "Optimization convergence is shown over eight iterations for the 120 MPa target, and peak stress is checked in both prescribed load cases (S006:C01-S006:C03; S010:C01)."
+      ],
+      "calibration": [
+        "The 120 MPa target is derived by multiplying an approximate mandibular peak stress (17 MPa) by the Ti-to-bone modulus ratio to seek a similar strain stimulus; it is a mechanobiological design heuristic, not patient-specific calibration (S006:C03).",
+        "Strut bounds and 0.05 mm increments are chosen from assumed SLM capability, without measured machine/material calibration (S004:C01)."
+      ],
+      "validation": [
+        "Printing intact struts and measuring mass demonstrate basic manufacturability, not as-built geometric or mechanical validation (S011:C01).",
+        "No coupon/scaffold compression, tension, bending, fatigue, permeability, CT metrology, cadaveric mandible, animal defect, or clinical validation is performed; the conclusion requests mechanical and animal tests (S013:C01)."
+      ],
+      "sensitivity": [
+        "Three target stresses and two clenching loads expose the porosity-stress tradeoff (S006:C03-S009:C03).",
+        "No uncertainty analysis varies muscle forces, missing teeth/contact, healing stage, bone properties, contact/bonding, extreme loads, fatigue spectrum, AM defects, or patient geometry (S012:C03-S012:C07)."
+      ],
+      "application_prediction": [
+        "Stress, strain, porosity, material utilization, stress shielding, fatigue safety, permeability, and bone-growth stimulation are model/application claims under ideal assumptions; only geometry and mass were physically demonstrated."
+      ]
+    },
+    "primary_outcomes": [
+      "The initial model had designed porosity 66.83% and predicted peaks of 91.69 MPa (incisal) and 129.78 MPa (unilateral molar) (S009:C01-S009:C02).",
+      "The 120 MPa design reached 80.31% designed porosity and predicted peaks 87.57/118.12 MPa; the 100 and 80 MPa designs reached 79.15% and 73.23% porosity with correspondingly lower peaks (S008:C01-S009:C02).",
+      "For the selected 120 MPa design, 92.1% of struts were at the minimum 0.3 mm size and at least 64.1% remained below 20 MPa, so stress use was more even than the baseline but still far from homogeneous (S008:C01-S009:C03; S012:C04-S012:C05).",
+      "Mandible/fixation-system high-stress locations and peaks changed little after scaffold optimization, with screw 3 and condylar regions remaining critical (S007:C01).",
+      "SLM produced visually intact connected structures, and measured mass fell from 11.48 to 8.17 g; no nominal-to-as-built strut or pore measurement was reported (S011:C01)."
+    ],
+    "highest_evidence_level_reached": "Numerically verified single-geometry sizing optimization plus qualitative printability/mass demonstration; no calibrated as-built mechanics, fatigue, transport, biological, animal, or clinical evidence."
+  },
+  "argument_map": {
+    "central_claim": "Discrete stress-guided strut resizing can reduce modeled mass and raise designed porosity while satisfying chosen peak-stress targets under two idealized loads, but the selected design's fatigue safety, permeability, mechanobiological stimulus, and reconstructive efficacy remain unvalidated.",
+    "data": [
+      "One CT-derived FE model, two static muscle-load cases, three stress targets, iteration histories, porosity/stress/diameter distributions, and printed masses (S003:C01-S011:C01).",
+      "The paper's own limitations identify ideal muscle loads, limited load cases, fully healed bonding, and need for mechanical/animal tests (S012:C03-S013:C01)."
+    ],
+    "warrant": "Within a fixed model and manufacturing design space, meeting explicit stress constraints while reducing material is a valid engineering improvement; translation requires confirming every assumption that couples design to as-built structure, cyclic mechanics, transport, and bone response.",
+    "backing": [
+      "The target sweep demonstrates an expected porosity-versus-stress tradeoff and the printed design establishes at least basic realizability (S008:C01-S011:C01)."
+    ],
+    "qualifier": "Algorithmic feasibility for one geometry and two static idealized loads.",
+    "rebuttals_or_boundaries": [
+      "The target stress is a heuristic based on modulus ratio and approximate peak stress, not a validated mechanoregulation window (S006:C03).",
+      "Linear elastic solid Ti properties ignore AM surface roughness, porosity, anisotropy, defects, residual stress, and size effects.",
+      "Fully bonded late-healing contact excludes early fixation micromotion and evolving osseointegration (S012:C07).",
+      "Two static clenching cases do not represent extreme, oblique, impact, or cyclic mastication loads (S012:C06-S012:C07).",
+      "Static peak von Mises stress cannot be compared directly with a nominal 900 MPa fatigue limit to guarantee safe use (S009:C01; S012:C05-S012:C07).",
+      "Designed porosity does not establish as-built porosity, permeability, cell ingress, vascularization, or bone growth.",
+      "The heuristic stops at a feasible discrete solution and the authors acknowledge it is not a global optimum (S012:C05)."
+    ],
+    "argument_coherence": "high_for_constrained_numerical_design_low_for_fatigue_mechanobiology_and_reconstruction_claims"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "One source CT geometry and printed masses/visual connectivity (S003:C01; S011:C01)."
+    ],
+    "predicted": [
+      "All mandible, screw, plate, and scaffold stress/strain distributions; designed porosity; target satisfaction; and material-utilization metrics are FE/CAD outputs (S005:C01-S010:C01)."
+    ],
+    "inferred": [
+      "Similar scaffold and bone strain is inferred to reduce stress shielding and stimulate ingrowth via a mechanostat argument (S006:C03; S009:C01; S012:C05).",
+      "Higher designed porosity is inferred to improve permeability, cell/nutrient exchange, and lightweight reconstruction (S001:C01; S012:C01-S012:C02; S013:C01).",
+      "Peak static stress far below a literature fatigue limit is inferred to ensure fatigue safety (S009:C01; S012:C05-S012:C07)."
+    ],
+    "recommended": [
+      "Add CT metrology and surface/defect characterization, as-built coupon/scaffold cyclic tests, model updating, early-to-late healing contacts, multi-activity probabilistic loads, permeability/transport, animal segmental defect, and multi-patient validation."
+    ],
+    "proxy_to_outcome_bridges": [
+      "FE target satisfaction is not physical strength or fatigue validation.",
+      "Static peak stress below a coupon fatigue limit is not a device fatigue-life prediction.",
+      "Designed porosity is not measured permeability or tissue ingrowth.",
+      "Predicted strain similarity is not observed mechanobiological stimulation.",
+      "A visually intact print is not nominal-to-as-built fidelity or quality assurance."
+    ],
+    "overclaim_risks": [
+      "The claim that the target is far below fatigue failure and therefore 'ensures safe use' ignores AM fatigue and loading uncertainties (S012:C07).",
+      "The conclusion calls the design a good reconstructive choice before mechanical or animal experiments (S013:C01).",
+      "The discussion says porosity was 'improved by 80.31%' although 80.31% is the final porosity; the reported increase is 13.48 percentage points (S010:C01; S012:C04).",
+      "The automatic animal cue is false; no animal experiment was performed."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "State an explicit objective, constraint, variable set, and manufacturable discretization",
+      "execution": "The paper defines weight minimization, peak-stress constraint across two loads, per-strut diameter variables, and 0.3-0.6 mm discrete bounds (S006:C01-S006:C03).",
+      "locator": "S006:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Topology/sizing papers should declare objective, every load-case constraint, design variables, manufacturing bounds, stopping rule, and whether the solution is local/heuristic or global.",
+      "failure_mode": "A precisely stated optimization can still optimize the wrong or unvalidated target."
+    },
+    {
+      "section": "results",
+      "move": "Show the Pareto-like target tradeoff rather than one selected design",
+      "execution": "Models B-D reveal that lower target stress requires thicker struts and reduces porosity, while all improve over the uniform baseline (S008:C01-S009:C03).",
+      "locator": "S009:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Report the constraint sweep with objective value, stress, porosity/mass, diameter distribution, and rationale for selecting one operating point.",
+      "failure_mode": "Calling one target optimal requires a validated decision criterion, not only closeness to a heuristic strain."
+    },
+    {
+      "section": "results",
+      "move": "Separate CAD feasibility from as-built validation",
+      "execution": "The printed structure is visually intact and weighed, but no CT or mechanical comparison to CAD/FE is provided (S011:C01).",
+      "locator": "S011:C01",
+      "effectiveness": "high_as_boundary",
+      "transferable_principle": "After optimization, report CAD geometry, manufactured geometry, defect/surface state, and tested mechanics as distinct states and quantify loss at every transition.",
+      "failure_mode": "'Printable' does not mean geometrically faithful or mechanically validated."
+    },
+    {
+      "section": "discussion",
+      "move": "Propagate load/healing assumptions into claim scope",
+      "execution": "The authors identify idealized muscle forces, two load cases, omitted extremes, and assumed late-stage bonding (S012:C03; S012:C06-S012:C07).",
+      "locator": "S012:C07",
+      "effectiveness": "moderate",
+      "transferable_principle": "For each optimization assumption, state which constraints may be violated outside it and prohibit safety/biology claims until those scenarios are tested.",
+      "failure_mode": "Listing limitations while still claiming guaranteed fatigue safety is internally inconsistent."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Ideal dentition/mandibular loading, assumed unchanged healthy muscle forces, only two common clenching states, possible extreme-load exceedance, assumed late-stage union, limited diameter range, and non-global optimization (S012:C03-S012:C07).",
+      "Mechanical tests and animal segmental-defect experiments are still required (S013:C01)."
+    ],
+    "reader_identified": [
+      "One patient geometry and no patient/load/material uncertainty.",
+      "Mesh convergence and numerical verification are asserted without quantitative evidence.",
+      "No calibration of AM strut dimensions, material anisotropy, defects, roughness, residual stress, or fatigue properties.",
+      "No nominal-to-as-built CT metrology; only visual completeness and mass.",
+      "No scaffold-level mechanical, fatigue, permeability, or transport experiment.",
+      "Peak-stress target and mechanostat interpretation are heuristic and not validated against bone response.",
+      "No early fixation/micromotion, remodeling, animal, or clinical evidence.",
+      "The final-porosity versus improvement wording is numerically inconsistent."
+    ],
+    "likely_bias_direction": [
+      "Ideal bonding and static loads likely understate critical stresses/micromotion during healing.",
+      "Nominal solid-material properties and absence of AM defects likely overstate fatigue margin.",
+      "Designed porosity and mechanostat reasoning likely overstate permeability and osteogenic benefit."
+    ],
+    "scope_boundary": "The study demonstrates a discrete FE strut-sizing method and basic printability for one late-healed mandibular model; it does not validate as-built mechanics, fatigue safety, permeability, bone ingrowth, or reconstructive effectiveness."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC9249542-01",
+      "capability": "Write lattice sizing/topology optimization with explicit objective, load-case constraints, variables, manufacturing bounds, target sweep, stopping rule, and solution-status qualifier.",
+      "manuscript_use": "Optimization Methods, Results tradeoff table, and reproducibility audit.",
+      "applicable_domains": ["topology_optimization", "porous_scaffold", "bone_implant"],
+      "applicable_study_designs": ["finite_element", "structural_optimization"],
+      "supporting_locators": ["S006:C01", "S006:C02", "S006:C03", "S008:C01", "S009:C01", "S010:C01", "S012:C05"],
+      "counterexample_or_boundary": "Meeting a heuristic stress target under two loads is not proof of global optimality or clinical safety.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9249542-02",
+      "capability": "Track optimized geometry through CAD, as-built metrology, material/defect state, mechanical test, and model-updating gates before biological application claims.",
+      "manuscript_use": "AM Results, validation plan, and Discussion boundaries.",
+      "applicable_domains": ["additive_manufacturing", "porous_scaffold", "bone_implant"],
+      "applicable_study_designs": ["structural_optimization", "fabrication_study"],
+      "supporting_locators": ["S004:C01", "S005:C01", "S011:C01", "S012:C02", "S013:C01"],
+      "counterexample_or_boundary": "An intact print and mass reduction do not establish strut fidelity, fatigue, permeability, or tissue ingrowth.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9249542-03",
+      "capability": "Audit fatigue and mechanobiology claims for scale, loading, material state, healing contact, and proxy-to-outcome gaps.",
+      "manuscript_use": "Discussion claim calibration and limitations.",
+      "applicable_domains": ["biomechanics", "mechanobiology", "porous_scaffold"],
+      "applicable_study_designs": ["finite_element", "device_design"],
+      "supporting_locators": ["S006:C03", "S009:C01", "S012:C03", "S012:C05", "S012:C06", "S012:C07", "S013:C01"],
+      "counterexample_or_boundary": "Static von Mises stress below a coupon fatigue limit and strain near bone do not guarantee device fatigue or osteogenesis.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_algorithmic_feasibility",
+    "methods_transparency": "high",
+    "validation_credibility": "low_to_moderate",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "high_within_fixed_model",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "One idealized late-healed model and heuristic target.",
+      "No as-built metrology or mechanical/fatigue validation.",
+      "Porosity, fatigue, and osteogenic claims exceed measured evidence."
+    ],
+    "overall_credibility": "high_for_demonstrating_the_discrete_sizing_algorithm_moderate_for_relative_FE_tradeoffs_low_for_device_safety_or_biology"
+  },
+  "summary_zh": "该研究用一个患者的下颌 CT 构建缺损与固定系统，把四面体网格边替换为支杆，并在 0.3–0.6 mm、0.05 mm 步长内按两种静态咬合载荷调整每根支杆。120 MPa 方案的设计孔隙率从 66.83% 提到 80.31%，峰值落在目标下；但 120 MPa 来自‘骨峰值应力×钛/骨模量比’的启发式推导，不是经实验校准的机械生物学阈值。打印件只做了视觉完整性和质量测量，没有 CT 的 nominal-to-as-built 计量、材料缺陷、力学/疲劳或渗透测试。模型还假设晚期完全结合，使用理想肌力和两种静态载荷。Skill 将把优化目标/约束/变量/制造界限/目标扫描写清，并强制设置 CAD→as-built→机械试验→模型更新→动物验证五道门；静态峰值远低于名义疲劳极限不等于疲劳安全，设计孔隙率也不等于渗透或骨长入。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section, including equations, pseudocode description, target rationale, all model comparisons, manufacturing note, and seven-part Discussion.",
+    "The automatic animal cue is incorrect; no biological or animal experiment was performed.",
+    "The paper is a useful explicit-constraint optimization example and a strong counterexample for FE-to-fatigue/biology overreach."
+  ]
+}

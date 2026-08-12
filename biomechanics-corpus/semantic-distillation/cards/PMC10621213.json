@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10621213",
+  "paper_id": "doi:10.3389/fbioe.2023.1271629",
+  "pmcid": "PMC10621213",
+  "source_record_sha256": "edc5fdcfdd5c868649473cc3b433db02b8920047c3c791158767dcc6144a2edc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "db37a2e95b4a5aec1ddefd4e3859c2261f5e2f1cefabf210d9f7b5f3e9d91bb6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "State-of-the-art polyetheretherketone three-dimensional printing and multifunctional modification for dental implants",
+    "authors": "Chen M, Ren M, Shi Y, Liu X, Wei H.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1271629",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

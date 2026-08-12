@@ -1,0 +1,329 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12799085",
+  "paper_id": "doi:10.4103/jispcd.jispcd_139_25",
+  "pmcid": "PMC12799085",
+  "source_record_sha256": "773475e142c3e2f2786b4ce741168ee46cc4f2b89a4681c42c599c32e2276e5a",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T11:17:48Z",
+    "packet_sha256": "4183333af16e7d77c71cd209e99c2eb6a0921f23b335ab77d1b04bbdc4f3ebb5",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S002:C02",
+      "S002:C03",
+      "S003:C01",
+      "S004:C01",
+      "S005:C01",
+      "S006:C01",
+      "S007:C01",
+      "S008:C01",
+      "S009:C01",
+      "S009:C02",
+      "S009:C03",
+      "S010:C01",
+      "S010:C02",
+      "S010:C03",
+      "S010:C04",
+      "S010:C05",
+      "S011:C01",
+      "S011:C02",
+      "S012:C01",
+      "S012:C02",
+      "S013:C01",
+      "S014:C01",
+      "S015:C01",
+      "S016:C01",
+      "S017:C01",
+      "S018:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Impact of Hyaluronic Acid Around Dental Implants: A Systematic Review",
+    "authors": "Ananya S, Palwankar P, Pandey R.",
+    "year": 2025,
+    "journal": "Journal of International Society of Preventive & Community Dentistry",
+    "doi": "10.4103/jispcd.jispcd_139_25",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review_with_narrative_synthesis",
+    "design_features": [
+      "prisma_guided_screening",
+      "hyaluronic_acid",
+      "dental_implants",
+      "mixed_in_vitro_animal_clinical_evidence",
+      "surface_coating_local_gel_and_graft_adjuvant",
+      "rob2_and_newcastle_ottawa",
+      "no_meta_analysis"
+    ],
+    "research_problem": "Hyaluronic acid is used as an implant coating, local gel, osteotomy-site injection, and graft adjunct, but these formulations target different biological processes and have been evaluated with non-equivalent cellular, animal, and clinical outcomes.",
+    "exact_gap": "The review seeks to determine whether HA improves peri-implant tissue health, early integration, inflammation, bone loss, stability, survival, and patient outcomes, despite substantial variation in formulation, application, model, comparator, outcome, and follow-up (S001:C01; S002:C03-S005:C01).",
+    "objective_or_hypothesis": "Systematically assess the impact of HA used around dental implants and compare implants or peri-implant treatment with and without HA across clinical, animal, and in-vitro studies (S004:C01-S006:C01).",
+    "study_design": "A PRISMA-referenced systematic review screened titles/abstracts and full texts independently by two reviewers with third-reviewer arbitration, applied RoB 2 to RCTs and the Newcastle-Ottawa Scale to other studies, and used narrative synthesis because models, interventions, outcomes, and follow-up were too heterogeneous for meta-analysis (S009:C01; S010:C01; S011:C01-S011:C02).",
+    "sample_or_model": "Twelve studies spanning human osteoblast or MG-63 culture, rabbits, sheep, dogs, and human implant patients; interventions included HA-coated titanium or PEEK, local HA gel/injection, HA with xenograft or biphasic graft, and peri-implantitis debridement adjuncts (S009:C01-S009:C03).",
+    "comparators": [
+      "HA-coated versus machined, SLA, sandblasted/acid-etched, hydroxyapatite-coated, or uncoated implants",
+      "Local HA gel or injection versus placebo gel, debridement alone, or standard implant placement",
+      "HA plus xenograft/bone substitute versus graft without HA",
+      "HA-treated versus untreated osteoblastic cell cultures",
+      "No single common comparator across all studies"
+    ],
+    "method_spine": [
+      "Define intervention modes and evidence levels before synthesis.",
+      "Extract population/model, HA formulation, comparator, follow-up, and endpoint for each study.",
+      "Assess design-appropriate risk of bias.",
+      "Keep cell, histology/BIC, imaging, interface mechanics, soft-tissue inflammation, and clinical survival outcomes separate.",
+      "Retain positive, null, and context-specific findings.",
+      "Use narrative synthesis when clinical and methodological heterogeneity prevents an interpretable pooled effect."
+    ],
+    "validation_roles": {
+      "verification": [
+        "The paper reports dual screening, third-reviewer arbitration, extracted study characteristics, and design-specific bias tools (S009:C01; S011:C01-S011:C02).",
+        "Search reporting is internally inconsistent: the abstract lists six databases and 2016-2024, the methods search syntax names Ovid, Google Scholar, and PubMed and uses 2016-2025, while a later list again names six databases (S001:C01; S003:C01; S008:C01)."
+      ],
+      "calibration": [],
+      "validation": [
+        "The review performs no independent experimental or clinical validation; all biological and clinical effects are extracted from primary studies.",
+        "RoB 2 and NOS assess reported methodological quality, not whether HA causally improves a common osseointegration construct across modalities."
+      ],
+      "sensitivity": [
+        "Heterogeneity was judged qualitatively and led to a narrative synthesis rather than meta-analysis (S011:C02).",
+        "No leave-one-out analysis, quantitative subgroup analysis, publication-bias assessment, or certainty framework is reported."
+      ],
+      "application_prediction": [
+        "Routine HA use, prolonged implant life, and prevention of early complications are translational claims; the evidence supports at most context-specific adjunctive potential and a need for standardized long-term trials (S001:C01; S013:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "Several cell and animal studies reported higher osteoblastic activity, mineralization, BIC, ISQ, reverse torque, new bone, or lower inflammatory markers with HA, but these outcomes represent different constructs and time scales (S009:C01-S009:C03; S010:C01-S010:C05).",
+      "Selected small clinical studies reported lower probing depth, bleeding, IL-1 beta, marginal/crestal bone loss, or higher ISQ after HA gel, injection, coating, or graft adjunct treatment (S009:C01-S009:C03).",
+      "Important null findings were retained: HA did not significantly improve dehiscence-defect repair, rabbit histomorphometry at two months, or 36-month clinical success/crestal bone outcomes in an HA-coated implant trial (S009:C03; S010:C02-S010:C03; S012:C01-S012:C02).",
+      "Five listed RCTs included three rated high risk of bias and two low risk; the nonrandomized-study assessment and its application to heterogeneous laboratory/animal work are not sufficient to establish a high-certainty treatment effect (S011:C01-S011:C02)."
+    ],
+    "highest_evidence_level_reached": "Mixed cellular, animal, and small human evidence with selected short-term clinical endpoints and a 36-month null trial; no pooled effect, unified certainty estimate, or direct evidence that HA extends implant survival."
+  },
+  "argument_map": {
+    "central_claim": "HA may improve selected early inflammatory, cellular, histological, imaging, or stability outcomes in specific formulations and clinical contexts, but heterogeneous intervention modes, mixed evidence levels, high-risk trials, and explicit null studies preclude a general claim of improved osseointegration or longer implant life.",
+    "data": [
+      "Twelve mixed in-vitro, animal, and human studies with multiple HA delivery modes and non-equivalent endpoints (S009:C01-S009:C03).",
+      "Risk-of-bias tables and narrative synthesis, including both favorable and null findings (S010:C01-S012:C02)."
+    ],
+    "warrant": "Repeated favorable signals justify formulation-specific hypotheses, whereas reliable clinical recommendations require comparable HA exposure, appropriate controls, prespecified outcomes, long-term follow-up, and a direct link between proxy endpoints and patient-important implant outcomes.",
+    "backing": [
+      "The abstract itself states that formulation, protocol, and follow-up heterogeneity prevents definitive conclusions and calls for standardized long-term clinical trials (S001:C01).",
+      "The synthesis explicitly finds meta-analysis unsuitable and identifies context-specific contradictions (S011:C02)."
+    ],
+    "qualifier": "Potential early adjunctive benefit, dependent on formulation, model, outcome, and clinical context.",
+    "rebuttals_or_boundaries": [
+      "HA coating, local injection, peri-implantitis gel, and graft combination are distinct interventions and should not share a single effect estimate.",
+      "ALP/mineral deposition in cultured cells does not demonstrate osteoconduction, BIC, interface strength, clinical stability, or survival.",
+      "Animal BIC/ISQ/reverse torque and human PD/BOP/MBL measure different biological or clinical constructs.",
+      "Null dehiscence, rabbit, and 36-month clinical studies contradict a uniformly beneficial narrative (S010:C02-S010:C03; S012:C01-S012:C02).",
+      "The PICO is framed around patients, yet the eligibility and synthesis mix human, animal, and in-vitro evidence (S004:C01; S006:C01).",
+      "Search dates/databases and quality-accounting details are inconsistent, limiting reproducibility."
+    ],
+    "argument_coherence": "moderate_because_evidence_table_preserves_conflict_but_conclusion_overgeneralizes"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "At review level, search/screening counts, study characteristics, and risk-of-bias judgments were produced by the authors; all cell, animal, and patient outcomes were measured in cited primary studies (S009:C01-S011:C02).",
+      "Primary-study endpoints include cell viability/proliferation/ALP/mineralization, inflammatory cytokines, histology/BIC, radiographic density/bone loss, ISQ, reverse torque, PD/BOP, and clinical success."
+    ],
+    "predicted": [],
+    "inferred": [
+      "The review infers a common HA-mediated anti-inflammatory, wound-healing, and osteogenic narrative from interventions and outcomes that are not mechanistically or clinically equivalent (S002:C02-S002:C03; S012:C01-S013:C01).",
+      "Claims of faster or more robust integration and longer implant life extend beyond the mixed short-term proxy evidence and the 36-month null study (S013:C01)."
+    ],
+    "recommended": [
+      "Future trials should prespecify HA molecular weight, concentration, cross-linking/formulation, delivery mode, implant surface, comparator, dose, timing, anatomical context, follow-up, adverse events, and a minimum outcome set spanning interface, tissue, and clinical endpoints."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Cell ALP or mineralized nodules are in-vitro osteogenic signals, not bone formation around a functioning implant.",
+      "BIC is contact fraction; it does not by itself establish interface strength, functional loading tolerance, or survival.",
+      "ISQ and reverse torque index different aspects of stability and are not interchangeable with histological integration.",
+      "PD, BOP, IL-1 beta, and marginal bone level describe peri-implant tissue/inflammation, not complete osseointegration.",
+      "Short-term improvements do not establish extended implant life."
+    ],
+    "overclaim_risks": [
+      "The conclusion states that HA promotes osseointegration, mechanical resistance, long-term health, and implant life despite no pooled estimate, substantial heterogeneity, high-risk trials, and multiple null studies (S013:C01).",
+      "Calling in-vitro mineralization 'osteoconductive' or a coating effect 'integration' skips required tissue and functional validation (S012:C01).",
+      "The review's in-vitro, animal, and clinical cues describe included evidence rather than the design of this secondary article."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Declare when heterogeneity blocks quantitative pooling",
+      "execution": "The authors state that variation in models, intervention methods, outcomes, and follow-up made meta-analysis unsuitable and therefore used narrative synthesis (S011:C02).",
+      "locator": "S011:C02",
+      "effectiveness": "moderate",
+      "transferable_principle": "Before pooling biomaterial studies, verify intervention, comparator, evidence level, outcome construct, and time-point compatibility; otherwise synthesize in stratified evidence tables.",
+      "failure_mode": "Narrative synthesis still requires consistent search reporting and transparent certainty judgments."
+    },
+    {
+      "section": "results",
+      "move": "Use a study matrix to expose formulation and endpoint heterogeneity",
+      "execution": "The extraction table lists model/sample, HA delivery, comparator, follow-up, outcome measures, and result direction for 12 studies (S009:C01-S009:C03).",
+      "locator": "S009:C02",
+      "effectiveness": "high",
+      "transferable_principle": "For multifunctional implant adjuncts, stratify results by delivery mode and evidence level before discussing a shared mechanism.",
+      "failure_mode": "Do not collapse cell culture, animal interface tests, and clinical tissue outcomes into one osseointegration endpoint."
+    },
+    {
+      "section": "discussion",
+      "move": "Place null studies beside positive studies",
+      "execution": "The discussion acknowledges no added benefit in dehiscence repair, no significant rabbit histomorphometric difference, and no 36-month coating advantage (S012:C01-S012:C02).",
+      "locator": "S012:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Build each synthesis paragraph as favorable signal, explicit null/counterexample, plausible moderator, and bounded conclusion.",
+      "failure_mode": "A final sentence that ignores the nulls reverses the value of contradiction-preserving synthesis."
+    },
+    {
+      "section": "conclusion",
+      "move": "Audit conclusion scope against the strongest direct outcome",
+      "execution": "The conclusion expands from early and mixed proxies to long-term health, robust integration, and implant-life extension (S013:C01).",
+      "locator": "S013:C01",
+      "effectiveness": "low_as_written_high_as_counterexample",
+      "transferable_principle": "End a heterogeneous review at the narrowest shared, directly supported proposition and name which claims remain formulation-specific or untested.",
+      "failure_mode": "Do not let a broad biological narrative outrun the most rigorous clinical comparator and longest follow-up."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Heterogeneity in HA formulations, application protocols, study models, outcomes, and follow-up limits definitive conclusions and prevents meta-analysis (S001:C01; S011:C02)."
+    ],
+    "reader_identified": [
+      "The abstract, methods search syntax, date window, and database list are internally inconsistent (S001:C01; S003:C01; S008:C01).",
+      "Patient-focused PICO is not aligned with inclusion of animal and in-vitro studies (S004:C01; S006:C01).",
+      "HA interventions differ in molecular formulation, surface, delivery, co-intervention, and clinical indication, preventing a unified causal estimate.",
+      "Several RCTs are rated high risk of bias and no GRADE-like certainty assessment is reported (S011:C01).",
+      "Risk-of-bias accounting and NOS use across laboratory/animal/clinical designs are not fully transparent.",
+      "No pooled effect, dose-response, safety synthesis, adverse-event analysis, or demonstrated implant-life extension.",
+      "Positive and null results are preserved in the discussion but the conclusion disproportionately emphasizes benefit."
+    ],
+    "likely_bias_direction": [
+      "Narrative and conclusion framing likely overestimates consistency and clinical readiness.",
+      "Mixing evidence levels can make abundant low-level favorable signals appear stronger than the smaller clinical evidence base.",
+      "Publication and language restrictions may favor positive results."
+    ],
+    "scope_boundary": "This review maps formulation- and context-dependent signals for HA around dental implants; it does not establish a common treatment effect, routine clinical indication, improved long-term survival, or a universal osseointegration mechanism."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC12799085-01",
+      "capability": "Stratify a multifunctional implant-adjunct review by intervention form and evidence level before synthesizing outcomes.",
+      "manuscript_use": "Systematic-review eligibility, extraction matrix, Results subsections, and Discussion synthesis.",
+      "applicable_domains": [
+        "osseointegration",
+        "bone_implant",
+        "bone_regeneration_biomaterial"
+      ],
+      "applicable_study_designs": [
+        "systematic_review",
+        "mixed_evidence_review"
+      ],
+      "supporting_locators": [
+        "S004:C01",
+        "S009:C01",
+        "S009:C02",
+        "S009:C03",
+        "S011:C02"
+      ],
+      "counterexample_or_boundary": "HA coating, peri-implantitis gel, osteotomy injection, and graft adjunct are not one intervention and should not share one efficacy sentence.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12799085-02",
+      "capability": "Write an osseointegration evidence ladder that distinguishes cell markers, histology/BIC, imaging/stability, soft-tissue inflammation, and clinical survival.",
+      "manuscript_use": "Evidence table, Results wording, Discussion boundary, and conclusion audit.",
+      "applicable_domains": [
+        "osseointegration",
+        "bone_implant"
+      ],
+      "applicable_study_designs": [
+        "in_vitro",
+        "animal_study",
+        "clinical_trial",
+        "systematic_review"
+      ],
+      "supporting_locators": [
+        "S009:C01",
+        "S009:C02",
+        "S009:C03",
+        "S010:C01",
+        "S010:C05"
+      ],
+      "counterexample_or_boundary": "ALP, BIC, ISQ, PD/BOP, marginal bone loss, and implant survival are related but non-interchangeable endpoints.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12799085-03",
+      "capability": "Use null studies as mandatory constraints on a review's mechanism and conclusion rather than treating them as exceptions to omit.",
+      "manuscript_use": "Contradiction paragraph and conclusion proportionality audit.",
+      "applicable_domains": [
+        "osseointegration",
+        "biomaterials",
+        "bone_implant"
+      ],
+      "applicable_study_designs": [
+        "systematic_review",
+        "narrative_synthesis"
+      ],
+      "supporting_locators": [
+        "S010:C02",
+        "S010:C03",
+        "S012:C01",
+        "S012:C02",
+        "S013:C01"
+      ],
+      "counterexample_or_boundary": "A conclusion claiming longer implant life is not proportionate when the longest clinical trial is null and no survival synthesis exists.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate",
+    "methods_transparency": "low_to_moderate_due_to_internal_inconsistencies",
+    "validation_credibility": "low_for_common_effect_moderate_for_evidence_mapping",
+    "outcome_uncertainty_reporting": "moderate_in_discussion_low_in_conclusion",
+    "comparator_fairness": "heterogeneous",
+    "conclusion_proportionality": "low",
+    "critical_weaknesses": [
+      "Inconsistent search date/database reporting and PICO-design mismatch.",
+      "Mixed intervention modes and evidence levels without pooled certainty.",
+      "High-risk trials and null findings are not reflected proportionately in the conclusion."
+    ],
+    "overall_credibility": "moderate_for_mapping_context_specific_HA_evidence_low_for_routine_use_or_implant_life_claims"
+  },
+  "summary_zh": "这是一篇将 HA 涂层、局部凝胶/注射、骨移植辅助等多种干预，以及细胞、动物和临床证据放在一起的系统综述。真正可迁移的写作能力不是得出‘HA 普遍促进骨整合’，而是先按干预形式与证据层级分组，再把 ALP/矿化、BIC、ISQ/逆扭矩、PD/BOP/炎症、边缘骨丧失和临床生存视为不同终点。文中保留了三个关键阴性结果：缺损修复无额外获益、兔组织学无显著差异、36 个月临床涂层试验无优势；因此结论最多支持特定场景下的早期辅助潜力。检索数据库与年份、PICO 与纳入设计之间存在内部不一致，且若干 RCT 为高偏倚风险，所以不能从这些异质代理指标推到‘延长植体寿命’。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section, including all 12 study rows, bias tables, null results, and the narrative-synthesis rationale.",
+    "The in-vitro, animal, and clinical cues describe included evidence; this article itself is a secondary systematic review.",
+    "The paper is especially useful as both a stratified-evidence example and a conclusion-overreach counterexample."
+  ],
+  "selection": {
+    "selection_reason": "balanced_stratum",
+    "primary_stratum": "osseointegration_bone_ingrowth",
+    "stratum_rank": 4,
+    "reading_order": 29
+  },
+  "source": {
+    "record_path": "records/PMC12799085.json.gz",
+    "source_record": "records/PMC12799085.json.gz",
+    "source_record_sha256": "773475e142c3e2f2786b4ce741168ee46cc4f2b89a4681c42c599c32e2276e5a",
+    "source_hash": "773475e142c3e2f2786b4ce741168ee46cc4f2b89a4681c42c599c32e2276e5a"
+  }
+}

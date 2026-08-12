@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7080805",
+  "paper_id": "doi:10.1038/s41598-020-61944-w",
+  "pmcid": "PMC7080805",
+  "source_record_sha256": "1ab37a6399b65639869c58176757dc7a379a67a2f08f7855690168250e324e7a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4d95216b44166c7ee98e31022295a0c75162e5735fd0d58844a02c7f231daec7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Efficacy of three-dimensionally printed polycaprolactone/beta tricalcium phosphate scaffold on mandibular reconstruction",
+    "authors": "Lee S, Choi D, Shim JH, Nam W.",
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-61944-w",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

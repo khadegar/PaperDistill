@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9950435",
+  "paper_id": "doi:10.1038/s41598-023-30300-z",
+  "pmcid": "PMC9950435",
+  "source_record_sha256": "31ffbd4e832e7509429b45788b8a2fb1e3dfabacb19099565fa108f5ea7584fc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4e17ee48098580edce606c55f2b7ed804f55098bce16643422c14698020591f4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced bone tissue regeneration using a 3D-printed poly(lactic acid)/Ti6Al4V composite scaffold with plasma treatment modification",
+    "authors": "Zarei M, Shabani Dargah M, Hasanzadeh Azar M, Alizadeh R, Mahdavi FS, Sayedain SS, Kaviani A, Asadollahi M, Azami M, Beheshtizadeh N.",
+    "year": 2023,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-023-30300-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

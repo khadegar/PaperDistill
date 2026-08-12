@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7918040",
+  "paper_id": "doi:10.3390/bioengineering8020025",
+  "pmcid": "PMC7918040",
+  "source_record_sha256": "b69016203bf83bb1ef2fff0185dcd8e620474ad1005f99658a5b3e4a4df30b4c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "30b0f65184e9f717dbc0232389f19bdefe8011984ed7d7ccae57818cb5760e0e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Computational Challenges in Tissue Engineering for the Spine",
+    "authors": "Castro APG.",
+    "year": 2021,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering8020025",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

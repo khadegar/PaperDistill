@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12733947",
+  "paper_id": "doi:10.3390/jfb16120463",
+  "pmcid": "PMC12733947",
+  "source_record_sha256": "9df6086e0965e252a2d92f60c5023d21befb0aaf4fdb8f7f76e7d2c7f9046988",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c399defe02477359afaa3d2492a29d092b76d1f44f7c4f2c695eebc2f670b248",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Printing of Calcium Phosphate-Mesoporous Bioactive Glass Scaffolds for Bone Tissue Engineering",
+    "authors": "de Carvalho ABG, Cardoso LM, Mendes Soares IP, de Souza JR, Roy A, Sikder P, Boccaccini AR, Trichês ES, Bottino MC.",
+    "year": 2025,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb16120463",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

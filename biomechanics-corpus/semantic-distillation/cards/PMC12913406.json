@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12913406",
+  "paper_id": "doi:10.3389/fbioe.2026.1721687",
+  "pmcid": "PMC12913406",
+  "source_record_sha256": "a0059d521f3c9a562af9c978b09382113f9be72c076cc3df08230ae42dd40426",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "66e32f3d9e88a98b9911eec1338c9fbe6897c71cbc44b7813056fcd69807d86d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical study on the treatment of tibial defects in total knee arthroplasty using the cement-screw and metal block with extension stem techniques: a finite element analysis",
+    "authors": "Lu Y, Tang Z, Gu Q, Zhu Z, Liu W, Zhu Z, Duan G.",
+    "year": 2026,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2026.1721687",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

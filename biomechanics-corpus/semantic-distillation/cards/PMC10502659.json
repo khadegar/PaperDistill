@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10502659",
+  "paper_id": "doi:10.1002/advs.202302702",
+  "pmcid": "PMC10502659",
+  "source_record_sha256": "7388b6dafd18825c73da8a7bc19f6c7a0232921af0069bbcddd6b5990523dd19",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f7c5228d51dad6051a4e8b1a49db5cca2f590a0fe7a64793f66a1183d05a4738",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evolution from Bioinert to Bioresorbable: In Vivo Comparative Study of Additively Manufactured Metal Bone Scaffolds",
+    "authors": "Zhou J, Georgas E, Su Y, Zhou J, Kröger N, Benn F, Kopp A, Qin YX, Zhu D.",
+    "year": 2023,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202302702",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

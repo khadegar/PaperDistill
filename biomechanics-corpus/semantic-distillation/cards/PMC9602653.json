@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9602653",
+  "paper_id": "doi:10.3390/ijms232012204",
+  "pmcid": "PMC9602653",
+  "source_record_sha256": "dd811cd2caf0052411dbc7f6760143dc12e4e7dac57ee94553969386180b4c98",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8edc2951bb01918ce10108a2956bd80bdb51e34a30355508436bb566cece832a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteoclast-Driven Osteogenesis, Bone Remodeling and Biomaterial Resorption: A New Profile of BMP2-CPC-Induced Alveolar Bone Regeneration",
+    "authors": "Shen H, Zhuang Y, Zhang C, Zhang C, Yuan Y, Yu H, Si J, Shen G.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms232012204",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

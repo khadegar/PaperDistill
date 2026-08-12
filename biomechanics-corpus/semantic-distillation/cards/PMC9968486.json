@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9968486",
+  "paper_id": "doi:10.54289/jdoe2200102",
+  "pmcid": "PMC9968486",
+  "source_record_sha256": "2ad85ca36d67ca3fac83d7d3a721e848e357dd4bf217835301aa876cf6e97761",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7d49ef051e41c0a7537277ec5dd188ff28b6609e6e7c1d4c9cf8e5d9d3493063",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Bone Remodeling on Dental Implant Fatigue Limit Predicted Using 3D Finite Element Analysis",
+    "authors": "Satpathy M, Duan Y, Betts L, Priddy M, Griggs JA.",
+    "year": 2022,
+    "journal": "Journal of dentistry and oral epidemiology",
+    "doi": "10.54289/jdoe2200102",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "mechanobiology_remodeling",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

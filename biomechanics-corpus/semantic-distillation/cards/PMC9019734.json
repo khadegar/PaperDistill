@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9019734",
+  "paper_id": "doi:10.3389/fbioe.2022.854693",
+  "pmcid": "PMC9019734",
+  "source_record_sha256": "b33da5102cf382681f9abb0c5d6581157c2e6b2f457f01f44f3a444b65a7b081",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c5fb3efe94d74d550ccac3f5ebd8f98103908a3796f893fe6466e54ea11c5230",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preparation of BMP-2/PDA-BCP Bioceramic Scaffold by DLP 3D Printing and its Ability for Inducing Continuous Bone Formation",
+    "authors": "Yang Z, Xie L, Zhang B, Zhang G, Huo F, Zhou C, Liang X, Fan Y, Tian W, Tan Y.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.854693",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

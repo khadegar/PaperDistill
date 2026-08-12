@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9182597",
+  "paper_id": "doi:10.3390/polym14112236",
+  "pmcid": "PMC9182597",
+  "source_record_sha256": "a55fafb3def54336a9d604c4aa866b3c3a45712018900d0730e6c036d8e71e23",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "90ffa763e87585dd824b9e2a45727f23d95a543e1ed6c6220775f3e23dbdf351",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Manufacturing Polymer Model of Anatomical Structures with Increased Accuracy Using CAx and AM Systems for Planning Orthopedic Procedures",
+    "authors": "Turek P, Filip D, Przeszłowski Ł, Łazorko A, Budzik G, Snela S, Oleksy M, Jabłoński J, Sęp J, Bulanda K, Wolski S, Paszkiewicz A.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14112236",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

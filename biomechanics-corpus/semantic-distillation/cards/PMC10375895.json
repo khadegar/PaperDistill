@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10375895",
+  "paper_id": "doi:10.1021/acscentsci.3c00499",
+  "pmcid": "PMC10375895",
+  "source_record_sha256": "99699b3e21602be669a4b5a754615698b1ccd5d223919812800a8d8bb6ecf002",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7a7f7cb6959eb8668757da6cec4c031118a3f66a12b7d8c1d8ac621c5d177c1a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Repurposed Fenoprofen Targeting SaeR Attenuates Staphylococcus aureus Virulence in Implant-Associated Infections",
+    "authors": "Jiang F, Chen Y, Yu J, Zhang F, Liu Q, He L, Musha H, Du J, Wang B, Han P, Chen X, Tang J, Li M, Shen H, Shen H.",
+    "year": 2023,
+    "journal": "ACS Central Science",
+    "doi": "10.1021/acscentsci.3c00499",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

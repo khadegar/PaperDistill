@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9287026",
+  "paper_id": "doi:10.1002/cnm.3600",
+  "pmcid": "PMC9287026",
+  "source_record_sha256": "0677bb2f4e889101ae3cbdea2273197c84d8ac1068556a35850dff689d16c83b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b16b76fa409d10a250cb1e63a1ee29a25f417ee2c2d0c149fdbe6f7637477045",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A digital twin for simulating the vertebroplasty procedure and its impact on mechanical stability of vertebra in cancer patients",
+    "authors": "Ahmadian H, Mageswaran P, Walter BA, Blakaj DM, Bourekas EC, Mendel E, Marras WS, Soghrati S.",
+    "year": 2022,
+    "journal": "International Journal for Numerical Methods in Biomedical Engineering",
+    "doi": "10.1002/cnm.3600",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

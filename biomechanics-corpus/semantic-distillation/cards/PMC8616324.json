@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8616324",
+  "paper_id": "doi:10.3390/cells10112911",
+  "pmcid": "PMC8616324",
+  "source_record_sha256": "853856e67794982c92fa5d8f96b14b807f1078b51d1f75c222425d55c52eda41",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "77253894b3af264d598f3aef9a421634f88214d9d20057d6d7ff38d3dcae3142",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive Manufacturing of Caffeic Acid-Inspired Mineral Trioxide Aggregate/Poly-ε-Caprolactone Scaffold for Regulating Vascular Induction and Osteogenic Regeneration of Dental Pulp Stem Cells",
+    "authors": "Tien N, Lee JJ, Lee AK, Lin YH, Chen JX, Kuo TY, Shie MY.",
+    "year": 2021,
+    "journal": "Cells",
+    "doi": "10.3390/cells10112911",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

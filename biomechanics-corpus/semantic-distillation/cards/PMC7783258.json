@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7783258",
+  "paper_id": "doi:10.1177/0300060519891280",
+  "pmcid": "PMC7783258",
+  "source_record_sha256": "430d2c0594a743d869d9cf5b9b883b49a91e05ea6ac73bcaeca45f63c60f94bf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "73f9553d14864917430a9162105b48212093d1d3971a4bf8c778b6d91aa5d1af",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional printed porous tantalum prosthesis for treating inflammation after total knee arthroplasty in one-stage surgery – a case report",
+    "authors": "Wang F, Chen H, Yang P, Muheremu A, He P, Fan H, Yang L.",
+    "year": 2019,
+    "journal": "The Journal of International Medical Research",
+    "doi": "10.1177/0300060519891280",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

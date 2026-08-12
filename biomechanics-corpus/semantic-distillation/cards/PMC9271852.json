@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9271852",
+  "paper_id": "doi:10.3389/fbioe.2022.836386",
+  "pmcid": "PMC9271852",
+  "source_record_sha256": "d4dfbf0b9e1f2bdc99fa51e183ddbf6d092fe9dbda259b725f321dc3d2f4cb04",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "63bc4accafc3de86578834d35921eeefa99b4a94906485c747522e859aecf31b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mineralizing Coating on 3D Printed Scaffolds for the Promotion of Osseointegration",
+    "authors": "Hasan A, Bagnol R, Owen R, Latif A, Rostam HM, Elsharkawy S, Rose FRAJ, Rodríguez-Cabello JC, Ghaemmaghami AM, Eglin D, Mata A.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.836386",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

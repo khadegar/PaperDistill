@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10412723",
+  "paper_id": "doi:10.1016/j.bioactmat.2023.07.017",
+  "pmcid": "PMC10412723",
+  "source_record_sha256": "bf65eb57192e76fae54a40e9f661e09cb3577260c21ca8d8d0a6e2ec4864926f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3aa4e79395406fde68b1ac2b16c48404ddf00c9b5cccb94b7a2471eb4d22281b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multiscale morphological analysis of bone microarchitecture around Mg-10Gd implants",
+    "authors": "Sefa S, Espiritu J, Ćwieka H, Greving I, Flenner S, Will O, Beuer S, Wieland DCF, Willumeit-Römer R, Zeller-Plumhoff B.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2023.07.017",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

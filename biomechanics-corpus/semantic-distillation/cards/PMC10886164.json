@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10886164",
+  "paper_id": "doi:10.3390/bioengineering11020116",
+  "pmcid": "PMC10886164",
+  "source_record_sha256": "a0464f6000e8cbb29fb49c8bdc4e8b2adb95888e8ed2da49f13d046434343910",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "33ca0abfd1a92597c387e799b114b2e077ea7da6c76800e0847090b0c84a36b4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Effect of Patient-Related Factors on the Primary Fixation of PEEK and Titanium Tibial Components: A Population-Based FE Study",
+    "authors": "Post CE, Bitter T, Briscoe A, van Langen I, Fluit R, Verdonschot N, Janssen D.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11020116",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

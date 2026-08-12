@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9059471",
+  "paper_id": "doi:10.1002/jbm4.10615",
+  "pmcid": "PMC9059471",
+  "source_record_sha256": "206c49585f877e1df945e5f5580ab388b4c4258a92c148b00dc06eb1aca2d2e6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f2978c3cd5e6278c51bb0fd9196ec7db4d9cb8eb9c7760cc6cec6d749b20f21f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Response to High‐Dose Vitamin D Supplementation Is Specific to Imaging Modality and Skeletal Site",
+    "authors": "Burt LA, Gabel L, Billington EO, Hanley DA, Boyd SK.",
+    "year": 2022,
+    "journal": "JBMR Plus",
+    "doi": "10.1002/jbm4.10615",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9919332",
+  "paper_id": "doi:10.3390/polym15030576",
+  "pmcid": "PMC9919332",
+  "source_record_sha256": "4eb391f038cbe8344c267268713320e08d5af83376a4437cb37a4d233c190b9f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9d800dda0f978321dafb69a8f63fa59d3f1c6114414ed14b2c978da54431ef18",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed Polycaprolactone Mechanical Characterization and Suitability Assessment for Producing Wrist–Hand Orthoses",
+    "authors": "Popescu D, Popescu D, Stochioiu C, Baciu F, Iacob MC.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15030576",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

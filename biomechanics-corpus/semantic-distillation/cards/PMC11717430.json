@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11717430",
+  "paper_id": "doi:10.2106/jbjs.23.01462",
+  "pmcid": "PMC11717430",
+  "source_record_sha256": "6fb6b380fd19b10a1845839e9306f6c7c5c4a53b495f6d231db72d547f2426ca",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0af02a2f5ec46c733c6cb6b904988b3f12c4319d37bd7d41a9a24fbdb1ee14f4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed Prosthesis with an Articular Interface for Anatomical Acetabular Reconstruction After Type I + II (+ III) Internal Hemipelvectomy",
+    "authors": "Huang X, Huang D, Lin N, Yan X, Qu H, Ye Z.",
+    "year": 2025,
+    "journal": "The Journal of Bone and Joint Surgery. American Volume",
+    "doi": "10.2106/jbjs.23.01462",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

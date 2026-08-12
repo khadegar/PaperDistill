@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12808868",
+  "paper_id": "doi:10.1002/jor.70142",
+  "pmcid": "PMC12808868",
+  "source_record_sha256": "20f5de48332d1ad5ffc0bf630ecc62550948aff627d62c10cc320bd14f1d569f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "83b7378eed7f62fb7b4424ad8ad413309e326366651440e1669122d19c1f19c4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Current Uses for Medical Imaging With Orthopaedic Implant Technology",
+    "authors": "Broberg JS, Teeter MG.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Research",
+    "doi": "10.1002/jor.70142",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

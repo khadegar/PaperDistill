@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7589438",
+  "paper_id": "doi:10.3390/polym12102420",
+  "pmcid": "PMC7589438",
+  "source_record_sha256": "1f9912dfe99f44cb9ddfb7beaa022e9c685566cbe1045dc26f7486a8de70491b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3d5e14267ddedf34944620cd50caa3682089686b992f6d13ef078e692d9d7a1d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of 3D Bioactive Scaffolds through 3D Printing Using Wollastonite–Gelatin Inks",
+    "authors": "Curti F, Stancu IC, Voicu G, Iovu H, Dobrita CI, Ciocan LT, Marinescu R, Iordache F.",
+    "year": 2020,
+    "journal": "Polymers",
+    "doi": "10.3390/polym12102420",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9182594",
+  "paper_id": "doi:10.3390/polym14112229",
+  "pmcid": "PMC9182594",
+  "source_record_sha256": "c1454bc976ff8bc7e27cbb63328584b4d267e7b5c1472522f0b07cb5533cdca2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9776fe8d6f6db269aed01bc8e805df2e20c08149d1f8084512ce6b35aefdeb2a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimization of the Rheological Properties of Self-Assembled Tripeptide/Alginate/Cellulose Hydrogels for 3D Printing",
+    "authors": "Hernández-Sosa A, Ramírez-Jiménez RA, Rojo L, Boulmedais F, Aguilar MR, Criado-Gonzalez M, Hernández R.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14112229",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

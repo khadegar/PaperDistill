@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4890173",
+  "paper_id": "doi:10.1038/srep27226",
+  "pmcid": "PMC4890173",
+  "source_record_sha256": "af6184cf67882354921025b273a53c2348aae4a1bf607d681488ca02b14b6f11",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7ed4fad7df951e5ad6c006cfaad018afd21d2ecc4a522f02363ab097dbe57ca1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "4D printing smart biomedical scaffolds with novel soybean oil epoxidized acrylate",
+    "authors": "Miao S, Zhu W, Castro NJ, Nowicki M, Zhou X, Cui H, Fisher JP, Zhang LG.",
+    "year": 2016,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep27226",
+    "publication_type": "research-article; Research Support, U.S. Gov't, Non-P.H.S.; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8614988",
+  "paper_id": "doi:10.3390/bioengineering8110170",
+  "pmcid": "PMC8614988",
+  "source_record_sha256": "26d77f2d9de0aed33eaa1d0bd1b54bac00910dd16fb749edcb527aaf3a6ee759",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "51196ff4dacbf1a1878c5a8c22baf79473b175281ed0d96e097751e350dfbf06",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Innovative High-Pressure Fabrication Processes for Porous Biomaterials—A Review",
+    "authors": "Prakasam M, Silvain JF, Largeteau A.",
+    "year": 2021,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering8110170",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

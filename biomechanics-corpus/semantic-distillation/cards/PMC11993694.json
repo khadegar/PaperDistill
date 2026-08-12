@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11993694",
+  "paper_id": "doi:10.1038/s41598-025-97294-8",
+  "pmcid": "PMC11993694",
+  "source_record_sha256": "2a5abbb05872ba22990cf98d118b90cde6395fc09de85ac809a2037ef84f7a23",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c689d88cdeea145071fd3766eae6558fc83ad51760f64f82c2d6e80dc4f19d74",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The impact of modifying 3D printing parameters on mechanical strength and physical properties in vat photopolymerisation",
+    "authors": "Cheadle AMG, Maier E, Palin WM, Tomson PL, Poologasundarampillai G, Hadis MA.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-97294-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

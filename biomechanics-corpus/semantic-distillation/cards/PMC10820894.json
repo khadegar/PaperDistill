@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10820894",
+  "paper_id": "doi:10.3390/ma17020472",
+  "pmcid": "PMC10820894",
+  "source_record_sha256": "57e683836356f02ba42ed5059c49ff58b925f5bf7b25bf120584ddfed3d8df85",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "05213ea8fb0399ed83eefb9b1759eabe8fdbb44797851636f785237163cb3b0a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Study on Osseointegration Capability of β-Type Ti–Nb–Zr–Ta–Si Alloy for Orthopedic Implants",
+    "authors": "Sun Y, Liu Q, Yu Z, Ren L, Zhao X, Wang J.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17020472",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8200991",
+  "paper_id": "doi:10.3390/ma14113098",
+  "pmcid": "PMC8200991",
+  "source_record_sha256": "cfbbb79741d9f391b6c2eec02836c7157c6bd72fbc5e59137edaf2f9ae56e316",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f763df158ed7903caaf5ca1af255f11d409da72dedf61e646a5fe6d754b1a0d9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigation into the Hybrid Production of a Superelastic Shape Memory Alloy with Additively Manufactured Structures for Medical Implants",
+    "authors": "Hamann I, Gebhardt F, Eisenhut M, Koch P, Thielsch J, Rotsch C, Drossel WG, Heyde CE, Leimert M.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14113098",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

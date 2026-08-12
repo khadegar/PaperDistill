@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7873886",
+  "paper_id": "doi:10.3389/fbioe.2020.630983",
+  "pmcid": "PMC7873886",
+  "source_record_sha256": "727e3bc6676931d6a62aa7313b2de1a1f13cf2dcc19ab4f01185ea5b38f4a029",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "db1ff50114e2672ff6218cd91cc79dfb349383d2e9ea0997a8eff003b29eda0b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Novel Design of Temporomandibular Joint Prosthesis for Lateral Pterygoid Muscle Attachment: A Preliminary Study",
+    "authors": "Zou L, Zhong Y, Xiong Y, He D, Li X, Lu C, Zhu H.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.630983",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

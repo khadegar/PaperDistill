@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10920710",
+  "paper_id": "doi:10.1016/j.heliyon.2024.e27204",
+  "pmcid": "PMC10920710",
+  "source_record_sha256": "76457f806f2c3f0ca092597d821d34d96e44c9e718160c7881028ecb0ddc3c93",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "69de3475e80aed9a36bae0bf8ae3783a889c3ab5fc934a39a04b24ba107f28e4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Decreased stress shielding with poly-ether-ether-ketone tibial implant for total knee arthroplasty - A preliminary study using finite element analysis",
+    "authors": "Zhao G, Luo J, Ma J, Wang J.",
+    "year": 2024,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2024.e27204",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

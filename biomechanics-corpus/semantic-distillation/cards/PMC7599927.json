@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7599927",
+  "paper_id": "doi:10.3390/polym12102233",
+  "pmcid": "PMC7599927",
+  "source_record_sha256": "cda6398eddc33ba02dc6d195a741537f0fe5ecdebbb46a01a82a81fc0bd8ea21",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b9e149a7d7c6d5842b76815b7878c55763f953a592bcddd5171f6434b25e9c04",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Towards 3D Multi-Layer Scaffolds for Periodontal Tissue Engineering Applications: Addressing Manufacturing and Architectural Challenges",
+    "authors": "Porta M, Tonda-Turo C, Pierantozzi D, Ciardelli G, Mancuso E.",
+    "year": 2020,
+    "journal": "Polymers",
+    "doi": "10.3390/polym12102233",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

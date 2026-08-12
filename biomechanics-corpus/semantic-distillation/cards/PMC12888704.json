@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12888704",
+  "paper_id": "doi:10.1186/s12903-026-07678-z",
+  "pmcid": "PMC12888704",
+  "source_record_sha256": "b444a3abe0b6e0da1ba7abc0028cf8252a431e53ca3382987cd485b1ff50d4bf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c15c716491dea4da4257959b543dddf057e202f32aff5e5f51dbe22e292e5f06",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element study on the effect of bruxism on the fracture resistance of maxillary zirconia fixed partial dentures with varying anterior inter-implant distances",
+    "authors": "Aldowah O, Zarbah M, Aseri A, Almeshari A, El-Anwar MI, Emam ANM, Alharthi H.",
+    "year": 2026,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-026-07678-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

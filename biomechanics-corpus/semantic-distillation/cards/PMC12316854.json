@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12316854",
+  "paper_id": "doi:10.1038/s41598-025-13449-7",
+  "pmcid": "PMC12316854",
+  "source_record_sha256": "cdb3c61b41b0cc55043a41b2126524c6948c2d57e1628d6d7c444ae573aa8d02",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e2d0568726d62642ff9d75843eb6ba50c4be894671a9af87e0b1059c10f546b1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication and characterizations of 3D printed GelMA-Gel/bioactive glass scaffolds containing cerium for bone damage repair",
+    "authors": "Jalilinejad N, Baheiraei N, Azami M, Ramezani M, Haramshahi SMA, Shahrezaee M.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-13449-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

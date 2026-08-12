@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11066197",
+  "paper_id": "doi:10.3389/fbioe.2024.1372636",
+  "pmcid": "PMC11066197",
+  "source_record_sha256": "82982a3dbc0ad20528ca6a1f66900174963dda902ae6a8b5094e48643782c171",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "598afa0df09bb1b29a990802e2012ecfc60105c3f32f8c6ce917b3c57dd5cb87",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhancing osteogenesis and angiogenesis functions for Ti-24Nb-4Zr-8Sn scaffolds with methacrylated gelatin and deferoxamine",
+    "authors": "Xu Q, Bai Y, Li S, Hou W, Hao Y, Yang R, Li X, Zhang X.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1372636",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

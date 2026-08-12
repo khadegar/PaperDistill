@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12512445",
+  "paper_id": "doi:10.1186/s12903-025-07005-y",
+  "pmcid": "PMC12512445",
+  "source_record_sha256": "7abfd5738cb51fc9bb5ba04416ae5f150752149274e63df0fe8154fe29f00090",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0fc257cfabc3fa47729294a27342608b0ad77389e34aed783b1c74f8adc770a0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bruxism in implant-supported rehabilitations: a narrative review of clinical complications and management strategies",
+    "authors": "Shafiee E, Nourizadeh A.",
+    "year": 2025,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-025-07005-y",
+    "publication_type": "Systematic Review; review-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

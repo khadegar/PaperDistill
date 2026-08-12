@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7570386",
+  "paper_id": "doi:10.3390/mi11090846",
+  "pmcid": "PMC7570386",
+  "source_record_sha256": "a54feb68c3a8eef454b3d309ad17b1c46152e7be879c3eee8bb34c5b4714f735",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "89b6a94766fcc33fe4c9f4ffbecf0fe4a3b444a0ecbde37969a090956211dd53",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigating Commercial Filaments for 3D Printing of Stiff and Elastic Constructs with Ligament-Like Mechanics",
+    "authors": "Pitaru AA, Lacombe JG, Cooke ME, Beckman L, Steffen T, Weber MH, Martineau PA, Rosenzweig DH.",
+    "year": 2020,
+    "journal": "Micromachines",
+    "doi": "10.3390/mi11090846",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

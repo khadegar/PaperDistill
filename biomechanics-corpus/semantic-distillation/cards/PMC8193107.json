@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8193107",
+  "paper_id": "doi:10.1016/j.amsu.2021.102420",
+  "pmcid": "PMC8193107",
+  "source_record_sha256": "c9c48396c7a8b26e51bf9cc1c3e3a44b608be480a69fc92814b637193bac1681",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f89547ad83fe297da324df861335d474b0b6c8945935a95cc3c397ac6b86f40f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient-specific implants for craniomaxillofacial surgery: A manufacturer's experience",
+    "authors": "Thayaparan GK, Lewis PM, Thompson RG, D'Urso PS.",
+    "year": 2021,
+    "journal": "Annals of Medicine and Surgery",
+    "doi": "10.1016/j.amsu.2021.102420",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

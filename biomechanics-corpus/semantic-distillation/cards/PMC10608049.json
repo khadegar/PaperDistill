@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10608049",
+  "paper_id": "doi:10.3390/jpm13101483",
+  "pmcid": "PMC10608049",
+  "source_record_sha256": "e0361405c0b6eb2a61ed4afba9cba85a85792e88df83ddc9c395acb72b83fcae",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c6d15866d3fe8caef7048a65eb04178d61cf74173e79e5c53d2f8fc0fcf2ed12",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Systematic Review of Individualized Heart Surgery with a Personalized Prosthesis",
+    "authors": "Sazzad F, Ramanathan K, Moideen IS, Gohary AE, Stevens JC, Kofidis T.",
+    "year": 2023,
+    "journal": "Journal of Personalized Medicine",
+    "doi": "10.3390/jpm13101483",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

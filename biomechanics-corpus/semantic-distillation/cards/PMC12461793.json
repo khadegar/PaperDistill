@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12461793",
+  "paper_id": "doi:10.7759/cureus.90953",
+  "pmcid": "PMC12461793",
+  "source_record_sha256": "f7e987fd5d73c097b5552d952fea9faae0f5cab885092cc4cc6ec965914c6c29",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0ec86676858bd37b4febb8985fc88f0170fe1f376962c611a2371eb55084d346",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Behavior of Polyether Ether Ketone Composite Dental Implants: A Three-Dimensional Finite Element Analysis",
+    "authors": "Thimmappa M, Bj G, B N, Paul R, Movva P, Tr K.",
+    "year": 2025,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.90953",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

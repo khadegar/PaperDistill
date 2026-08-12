@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10294900",
+  "paper_id": "doi:10.3390/bioengineering10060684",
+  "pmcid": "PMC10294900",
+  "source_record_sha256": "3197b09aa7fa638608ece99da59b8080ad3fb2e840d2bdf6ffdb12674988e4aa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "15cd9716ef7540394bf2eaca9026f7731878c0736567bd33a2c646980a61a249",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Long-Term Follow-Up of a Novel Surgical Option Combining Fibula Free Flap and 3D-Bioprinted, Patient-Specific Polycaprolactone (PCL) Implant for Mandible Reconstruction",
+    "authors": "Hwang BY, Noh K, Lee JW.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10060684",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8901108",
+  "paper_id": "doi:10.3389/fbioe.2022.820921",
+  "pmcid": "PMC8901108",
+  "source_record_sha256": "17e2cb6fa1dafeca0d9dcdd31fe0f5bee63ca1748fce309dcf22ae2bd48f60f4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8690807574eac49bc599e51464ce585ff157328b7b3519757394094b8457fc09",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimal Design and Biomechanical Analysis of a Biomimetic Lightweight Design Plate for Distal Tibial Fractures: A Finite Element Analysis",
+    "authors": "Wang M, Deng Y, Xie P, Tan J, Yang Y, Ouyang H, Zhao D, Huang G, Huang W.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.820921",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

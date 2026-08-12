@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12146120",
+  "paper_id": "doi:10.1111/os.70053",
+  "pmcid": "PMC12146120",
+  "source_record_sha256": "63337a89a761e5ecfe9c1ccfdf26b02e6691ef8cba17f14afd9906381f3939c2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f267599c30dd2f271df310fd5df17d48fc41cf36bc9a91bba4f32ae1c4090cf8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "H‐Shaped Anatomical Titanium Plate: Biomechanical Validation and Clinical Application in the Treatment of Complex Posterior Wall/Column Acetabular Fractures",
+    "authors": "Zhang Q, Jin L, Hao X, Zheng W, Zhou F, Zhang S, Li T, Xiong X, He Y, Chen X, Huang J.",
+    "year": 2025,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.70053",
+    "publication_type": "research-article; Validation Study; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

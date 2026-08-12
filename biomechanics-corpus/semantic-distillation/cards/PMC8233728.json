@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8233728",
+  "paper_id": "doi:10.3390/jcm10122654",
+  "pmcid": "PMC8233728",
+  "source_record_sha256": "0767538653f220cf5224a4e54cd09b280f71de3de3afeae34d9f609edc7fd5d4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9ab0042a2f99d8fc20ede81d54e5b084741e9894aff225362f7a46dbe1210493",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Adapting the Pore Size of Individual, 3D-Printed CPC Scaffolds in Maxillofacial Surgery",
+    "authors": "Muallah D, Sembdner P, Holtzhausen S, Meissner H, Hutsky A, Ellmann D, Assmann A, Schulz MC, Lauer G, Kroschwald LM.",
+    "year": 2021,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm10122654",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

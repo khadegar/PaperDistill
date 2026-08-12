@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8618128",
+  "paper_id": "doi:10.3390/ma14227066",
+  "pmcid": "PMC8618128",
+  "source_record_sha256": "2cbbf9bcefd95377e2e66742edcad26fb40bfc0ad83c46003677debb4b58f5f7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a2d9dcefbb82509e0b42b57d99deb1aa01085e7f8d53ddb94d6872f907bfa6d8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of Customized Acetabular Implant and Bone after Pelvic Tumour Resection throughout the Gait Cycle",
+    "authors": "Maslov L, Borovkov A, Maslova I, Soloviev D, Zhmaylo M, Tarasenko F.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14227066",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

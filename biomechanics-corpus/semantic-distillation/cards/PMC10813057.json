@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10813057",
+  "paper_id": "doi:10.3390/biomimetics9010055",
+  "pmcid": "PMC10813057",
+  "source_record_sha256": "9dfd87b206e5588c0cfe38eab2049c3502306f2eecd092689fd4d3200951f6d6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "36b80db9e9d8ae0ed862c533f2b581ad729c2505825142c1f8b3ff204e7b043d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro Studies on 3D-Printed PLA/HA/GNP Structures for Bone Tissue Regeneration",
+    "authors": "Negrescu AM, Mocanu AC, Miculescu F, Mitran V, Constantinescu AE, Cimpean A.",
+    "year": 2024,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics9010055",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

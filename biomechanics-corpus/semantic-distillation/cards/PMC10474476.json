@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10474476",
+  "paper_id": "doi:10.1016/j.heliyon.2023.e19363",
+  "pmcid": "PMC10474476",
+  "source_record_sha256": "ad665a1ef9cd5792ff6b35d4ca29fa5850c12aa6ed91d8672c4172a39d12d426",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "caa1c1bb7bbffeb924f89b12af5f55b2629bf6fa228ca3681cb1f6681ab21067",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D and 4D printing hydroxyapatite-based scaffolds for bone tissue engineering and regeneration",
+    "authors": "Soleymani S, Naghib SM.",
+    "year": 2023,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2023.e19363",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

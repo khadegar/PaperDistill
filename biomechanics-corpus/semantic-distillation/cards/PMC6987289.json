@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6987289",
+  "paper_id": "doi:10.1186/s40729-019-0202-6",
+  "pmcid": "PMC6987289",
+  "source_record_sha256": "b727f6a539582e2d805c434e543f077b012faa55c8c4ee4317e4422348674e7b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "320bb920bb74351e61a48d9557a7bcef56ce71df4e4db0d5cacfa0fddbcece55",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional finite element analysis of extra short implants focusing on implant designs and materials",
+    "authors": "Araki H, Nakano T, Ono S, Yatani H.",
+    "year": 2020,
+    "journal": "International Journal of Implant Dentistry",
+    "doi": "10.1186/s40729-019-0202-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

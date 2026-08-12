@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10053981",
+  "paper_id": "doi:10.3390/polym15061391",
+  "pmcid": "PMC10053981",
+  "source_record_sha256": "01753d1babd905ed7cb76cdf4eabd394e952edfcb8e53f794aacb2ab9ba32575",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2173c059a7b13158a20a75267969e1b29ef72e3d8a7f047dd12a702367c0f518",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication of Solvent-Free PCL/β-TCP Composite Fiber for 3D Printing: Physiochemical and Biological Investigation",
+    "authors": "Ngo ST, Lee WF, Wu YF, Salamanca E, Aung LM, Chao YQ, Tsao TC, Hseuh HW, Lee YH, Wang CC, Chang WJ.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15061391",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

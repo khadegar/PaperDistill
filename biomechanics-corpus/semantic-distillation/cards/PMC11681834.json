@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11681834",
+  "paper_id": "doi:10.1016/j.bioactmat.2024.11.024",
+  "pmcid": "PMC11681834",
+  "source_record_sha256": "14a33cd1a8cfb7fdf7ede945a8065d4e68ecf98b3fc03facbcea7c44b9054418",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "10643ef073dad86d6bd8f7d7117c50b7dc8dc1e196ed2c355d900e38cd4c44f2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhancing bone regeneration through 3D printed biphasic calcium phosphate scaffolds featuring graded pore sizes",
+    "authors": "Wang Y, Liu Y, Chen S, Francis Siu MF, Liu C, Bai J, Wang M.",
+    "year": 2024,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2024.11.024",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

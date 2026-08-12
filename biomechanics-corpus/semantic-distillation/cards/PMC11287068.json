@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11287068",
+  "paper_id": "doi:10.1016/j.jot.2024.07.006",
+  "pmcid": "PMC11287068",
+  "source_record_sha256": "60efc0070c26916a6dcf39008a38ad44dc30727543beb384de87e10d305ca270",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "39601f0ca85ec2b787c6473a962121ff176f675413b3be6267c213a7f0e105e9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A 3D-printed scaffold composed of Alg/HA/SIS for the treatment of diabetic bone defects",
+    "authors": "Tan J, Chen Z, Xu Z, Huang Y, Qin L, Long Y, Wu J, Luo W, Liu X, Yi W, Wang H, Yang D.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2024.07.006",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

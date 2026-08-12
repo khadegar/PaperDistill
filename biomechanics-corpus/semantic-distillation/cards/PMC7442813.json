@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7442813",
+  "paper_id": "doi:10.1038/s41598-020-68370-y",
+  "pmcid": "PMC7442813",
+  "source_record_sha256": "b7911184418f42773c7c9d0f12e6fd508e3e33d10b1291b99a71df580c28a265",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a1ce43cc5f377748cec6636068dfeaa4e0bac7d1e274f239296687fc81f856f3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Novel antimicrobial phosphate-free glass–ceramic scaffolds for bone tissue regeneration",
+    "authors": "Suárez M, Fernández-García E, Fernández A, López-Píriz R, Díaz R, Torrecillas R.",
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-68370-y",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

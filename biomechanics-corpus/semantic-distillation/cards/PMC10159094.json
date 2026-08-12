@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10159094",
+  "paper_id": "doi:10.4103/jisp.jisp_278_22",
+  "pmcid": "PMC10159094",
+  "source_record_sha256": "3d8c245337d9e5c8d2e84c92865f83dc15e4b82d6920b21736538911a83fd258",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bcf637b1e19251332bf098d87d4f9970aca6a0f320adb3c15d383c4299fdb3f1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison between all-on-four and all-on-six treatment concepts on stress distribution for full-mouth rehabilitation using three-dimensional finite element analysis: A biomechanical study",
+    "authors": "Pandey A, Durrani F, Rai SK, Singh NK, Singh P, Verma R, Kumar J.",
+    "year": 2023,
+    "journal": "Journal of Indian Society of Periodontology",
+    "doi": "10.4103/jisp.jisp_278_22",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

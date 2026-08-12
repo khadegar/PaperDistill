@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9948829",
+  "paper_id": "doi:10.1016/j.zemedi.2022.02.001",
+  "pmcid": "PMC9948829",
+  "source_record_sha256": "16b4146ca529db7b72a52deb44e2fe049f3cf280c58516641acad461cde9b10e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c4a0f85ce09d8619972f8536df00bc42bb9cdcc3bbb282e1ce2da06209a24b05",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed patient-specific thorax phantom with realistic heterogenous bone radiopacity using filament printer technology",
+    "authors": "Hatamikia S, Kronreif G, Unger A, Oberoi G, Jaksa L, Unger E, Koschitz S, Gulyas I, Irnstorfer N, Buschmann M, Kettenbach J, Birkfellner W, Lorenz A.",
+    "year": 2022,
+    "journal": "Zeitschrift für medizinische Physik",
+    "doi": "10.1016/j.zemedi.2022.02.001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

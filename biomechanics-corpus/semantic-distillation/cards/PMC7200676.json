@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7200676",
+  "paper_id": "doi:10.1038/s41598-020-64573-5",
+  "pmcid": "PMC7200676",
+  "source_record_sha256": "9909e37dac43ca206f3bde4eb0601b1ae01674ec2b9147d1d7594886e9cc9893",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "372086c858eb90bd346ccd0e63f20beb25e4ad244c5edef6f67adb493b6b1fbe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of a heat labile antibiotic eluting 3D printed scaffold for the treatment of osteomyelitis",
+    "authors": "Lee JH, Baik JM, Yu YS, Kim JH, Ahn CB, Son KH, Kim JH, Choi ES, Lee JW.",
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-64573-5",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

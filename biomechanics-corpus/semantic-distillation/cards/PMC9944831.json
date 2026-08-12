@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9944831",
+  "paper_id": "doi:10.3390/biomimetics8010078",
+  "pmcid": "PMC9944831",
+  "source_record_sha256": "0b4fec0e8d3545b0b6a59702ab83c60508f6803c77c5f4077377395df6e8c9e7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "36dc0882a5ad2ed8a0aedd13feb305ca7d022d45f97f8af3fc9a63a20b35274a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimicry and 3D-Printing of Mussel Adhesive Proteins for Regeneration of the Periodontium—A Review",
+    "authors": "Kwan JC, Dondani J, Iyer J, Muaddi HA, Nguyen TT, Tran SD.",
+    "year": 2023,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics8010078",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

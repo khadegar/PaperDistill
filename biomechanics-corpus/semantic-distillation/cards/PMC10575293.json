@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10575293",
+  "paper_id": "doi:10.3390/polym15193918",
+  "pmcid": "PMC10575293",
+  "source_record_sha256": "c83c11780c9aa03dd98691b4254973b96a8082e089c6a3ce2c7f778f99882809",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dac558b918926301313ee7ae24ffcd3e536861c35dd2c129b387a8b5f7d35ee8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Virtual Design of 3D-Printed Bone Tissue Engineered Scaffold Shape Using Mechanobiological Modeling: Relationship of Scaffold Pore Architecture to Bone Tissue Formation",
+    "authors": "Alshammari A, Alabdah F, Wang W, Cooper G.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15193918",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

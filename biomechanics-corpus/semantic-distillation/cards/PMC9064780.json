@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9064780",
+  "paper_id": "doi:10.5051/jpis.2101200060",
+  "pmcid": "PMC9064780",
+  "source_record_sha256": "26a79a7855a9402f47d382ae93c811723a972c8d679f1c7369932af7dcd8a143",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "daf8a9eae5fd0c4dbaf3caab6f29f26ee13245b20baccbd58cc750caa6577687",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Insulin growth factor binding protein-3 enhances dental implant osseointegration against methylglyoxal-induced bone deterioration in a rat model",
+    "authors": "Takanche JS, Kim JE, Jang S, Yi HK.",
+    "year": 2021,
+    "journal": "Journal of Periodontal & Implant Science",
+    "doi": "10.5051/jpis.2101200060",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

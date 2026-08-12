@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12778993",
+  "paper_id": "doi:10.13107/jocr.2025.v15.i12.6490",
+  "pmcid": "PMC12778993",
+  "source_record_sha256": "7fdc085ca6e98c8c3033563710d65cefb80af4a1135b417eb8e7061f43d16577",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "20b3325ee2356fafc6cd75a5b981ca8329ead09e2e3230e9345262b3dc70e5ca",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Total Hip Arthroplasty for Neglected Hip Dislocation – Surgical Technique and Results",
+    "authors": "Goyal A, Gupta M, Mishra AK, Bhuvneshwar.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Case Reports",
+    "doi": "10.13107/jocr.2025.v15.i12.6490",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

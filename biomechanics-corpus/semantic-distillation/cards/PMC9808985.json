@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9808985",
+  "paper_id": "doi:10.1186/s13018-022-03482-x",
+  "pmcid": "PMC9808985",
+  "source_record_sha256": "7c8a73d055a8283dae31928d13c3406e350b6baac5ef4ba2246b8236f7118f8b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3f6ba46bae0578fe2fd61df00afa0ae4dc3e35597dc96ca581feacd4e01ce7ff",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical comparison of different screw-included angles in crossing screw fixation for transverse patellar fracture in level walking: a quasi-dynamic finite element study",
+    "authors": "Chang CW, Chen YN, Chang HC, Li CT.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-022-03482-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

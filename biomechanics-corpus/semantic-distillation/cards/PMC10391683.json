@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10391683",
+  "paper_id": "doi:10.1016/j.bioflm.2023.100143",
+  "pmcid": "PMC10391683",
+  "source_record_sha256": "15ad89ce9ace086fca00a7eaa00f5f7add282dcfaa45633990855ab6d4c092da",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3ca674d9a44d737de7730c4f7d2c7da28b44410af040c2b4333ad231f886132a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Sucrose-mediated formation and adhesion strength of Streptococcus mutans biofilms on titanium",
+    "authors": "Waldman LJ, Butera T, Boyd JD, Grady ME.",
+    "year": 2023,
+    "journal": "Biofilm",
+    "doi": "10.1016/j.bioflm.2023.100143",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

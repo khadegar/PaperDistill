@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10698943",
+  "paper_id": "doi:10.1186/s13018-023-04415-y",
+  "pmcid": "PMC10698943",
+  "source_record_sha256": "ec6d7b48b53145c9b175ed90bf0a079c3aee584f50c69b1cbe5ce7fffdbb668b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a6186b8786e2c398f5a5acd032c915622d4f3e5199a1550ddebab7b096afa625",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of basicervical femoral neck fracture treated with proximal femoral bionic nail",
+    "authors": "Cheng X, Yang Y, Zhu J, Li G, Chen W, Wang J, Zhang Q, Zhang Y.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-04415-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

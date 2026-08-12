@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8714913",
+  "paper_id": "doi:10.3389/fbioe.2021.794586",
+  "pmcid": "PMC8714913",
+  "source_record_sha256": "7d3e723e70f062e8a99f8aefa374e586436e1f54b855a41539e3318df28a651d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2d29cb77c789436fe61b295389c98e992f4d86e1fa5a301578bf3219636a7537",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Silicon Nitride, a Bioceramic for Bone Tissue Engineering: A Reinforced Cryogel System With Antibiofilm and Osteogenic Effects",
+    "authors": "Lee SS, Laganenka L, Du X, Hardt WD, Ferguson SJ.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.794586",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7182873",
+  "paper_id": "doi:10.3390/polym12030581",
+  "pmcid": "PMC7182873",
+  "source_record_sha256": "e2e6ee6cc102b80124286ae8eefb61f15cf8650c9ad1d79c9e80df0a1cb47a69",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f0f14e88518c15b25e4eabd8e9e4af5ad69a9ddec23bb0646ebae68d1bcc64f2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surgical Planning of Sacral Nerve Stimulation Procedure in Presence of Sacral Anomalies by Using Personalized Polymeric Prototypes Obtained with Additive Manufacturing Techniques",
+    "authors": "Rubio-Pérez I, Díaz Lantada A.",
+    "year": 2020,
+    "journal": "Polymers",
+    "doi": "10.3390/polym12030581",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

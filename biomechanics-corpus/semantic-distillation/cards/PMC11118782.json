@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11118782",
+  "paper_id": "doi:10.3390/biomedicines12051049",
+  "pmcid": "PMC11118782",
+  "source_record_sha256": "32737fc76ad60b8a77aa38fa54c734c32f2789cf6d63ac3cb72b26b74297b867",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3355f732bbeb9d9e8a7c5867b0ae312448804bc4d47fef5947a7d5c2f485c183",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design, In Vitro Evaluation and In Vivo Biocompatibility of Additive Manufacturing Three-Dimensional Printing of β beta-Tricalcium Phosphate Scaffolds for Bone Regeneration",
+    "authors": "Llorente JJ, Junquera L, Gallego L, Pérez-Basterrechea M, Suárez LI, Llorente S.",
+    "year": 2024,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines12051049",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

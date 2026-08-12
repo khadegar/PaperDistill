@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12473236",
+  "paper_id": "doi:10.3390/polym17182498",
+  "pmcid": "PMC12473236",
+  "source_record_sha256": "f5c35bb7909dc49c8ff336729e5403be35bf45f8cfadf29d115b625999bc2d83",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e0e5e1522b316fd85df66cdcbaaf8a9315f688ee89766feae9327b80c896a96e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Regeneration in SLS-Manufactured Resorbable 3D-Scaffolds—An Experimental Pilot Study in Minipigs",
+    "authors": "Kauffmann P, Wolfer S, Gellhaus T, Behrens C, Dullin C, Reinauer F, Wolfram T, Grom S, Vučak M, Hauspurg S, Rode C, Wyrwa R, Schliephake H.",
+    "year": 2025,
+    "journal": "Polymers",
+    "doi": "10.3390/polym17182498",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

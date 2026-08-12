@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7600206",
+  "paper_id": "doi:10.4317/jced.57387",
+  "pmcid": "PMC7600206",
+  "source_record_sha256": "a5e94f45a96ef7d5a14d4773a31f04e19e25345fd2f007560644c759aaf36d20",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "02420013f0afafc05f7cf4a8656529385ec16d4bc166f26354b90538655d2bf3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Assessment of the stresses produced on the bone implant/tissue interface to the different insertion angulations of the implant - a three-dimensional analysis by the finite elements method",
+    "authors": "Brum JR, Macedo FR, Oliveira MB, Paranhos LR, Brito-Júnior RB, Ramacciato JC.",
+    "year": 2020,
+    "journal": "Journal of Clinical and Experimental Dentistry",
+    "doi": "10.4317/jced.57387",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12255567",
+  "paper_id": "doi:10.1007/s00402-025-05987-6",
+  "pmcid": "PMC12255567",
+  "source_record_sha256": "f57cff394bcc2415911e4bb37c56a3244e4ad682ca3deb8bf7dfcefc6c1064ef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c9c2494e8f0b1dc50c06fe8fae001b87ca00e2a87b061ded1239efb7a0dd6b0b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical comparison of cemented versus cementless fixation in intraoperative femoral fractures during total hip arthroplasty",
+    "authors": "Watanabe R, Nishino T, Yoshizawa T, Hirose F, Yasunaga S, Shimasaki K, Mishima H.",
+    "year": 2025,
+    "journal": "Archives of Orthopaedic and Trauma Surgery",
+    "doi": "10.1007/s00402-025-05987-6",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

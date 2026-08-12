@@ -1,0 +1,373 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9457748",
+  "paper_id": "doi:10.3390/ma15176142",
+  "pmcid": "PMC9457748",
+  "source_record_sha256": "b919345a53ba988dfd5545bdc2bac3fc26a3b4f617ebe5de73d0f46e55902e94",
+  "reading": {
+    "status": "completed",
+    "packet_sha256": "a369ad6085fdc6c1940437fb48140081477da49c9abcbc9de0c5c7066848a255",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S003:C01",
+      "S004:C01",
+      "S004:C02",
+      "S005:C01",
+      "S006:C01",
+      "S007:C01",
+      "S008:C01",
+      "S009:C01",
+      "S010:C01",
+      "S011:C01",
+      "S012:C01",
+      "S013:C01",
+      "S014:C01",
+      "S015:C01",
+      "S016:C01"
+    ],
+    "omissions": [],
+    "access_level": "full_text_read",
+    "reader_role": "luna_primary",
+    "reader_model": "gpt-5.6-luna",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T14:25:00Z",
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Design of a Novel Trabecular Acetabular Cup and Selective Laser Melting Fabrication",
+    "authors": "Wang C, Sun B, Zhang Y, Wang C, Yang G.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15176142",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research_SLM_porous_acetabular_cup_with_compression_and_gait_FE_design",
+    "design_features": [
+      "rhombic_dodecahedron_Ti6Al4V_Eli_lattice",
+      "cell_size_and_strut_diameter_matrix",
+      "SLM_compression_testing_n3",
+      "32-transient_total-hip gait_FE",
+      "stress-mapped_gradient_porosity",
+      "thermal-deformation_and_postprocessing_design"
+    ],
+    "research_problem": "Dense acetabular cups are much stiffer than bone and can produce stress shielding and aseptic loosening. A porous trabecular coating could reduce effective stiffness and provide bone-ingrowth space, but it must retain strength under gait loads and remain manufacturable.",
+    "exact_gap": "Existing acetabular cups often use uniform porous layers; the study seeks a gradient porous coating whose porosity follows the gait-derived stress distribution while retaining cortical-bone-like compression properties and a manufacturable SLM process.",
+    "objective_or_hypothesis": "Design rhombic-dodecahedron Ti6Al4V porous specimens with bone-ingrowth-sized pores, select a cell size with cortical-bone-like compression, use a 32-transient hip FE gait model to map trabecular-cup stress, assign region-specific porosity, simulate forming angle/thermal deformation, and print/anneal a gradient porous acetabular cup.",
+    "study_design": "Original mixed experimental and computational implant-design study. SLM Ti6Al4V ELI rhombic-dodecahedron specimens with 1, 1.5, and 2 mm cells and 60-90% porosity were compression-tested three times per type. A full hip FE model with fixed acetabulum, bonded cup contact, frictional liner/head contact, and 32 gait transients mapped coating stress. Six regions were assigned porosities 70.71-89.94% by scaling local stress to a cortical-bone compression range, then a cup prototype was SLM printed at a simulated 45 degree forming angle, sandblasted, cleaned, and annealed at 820 C for 2 h. No cyclic fatigue, bone ingrowth, animal, or clinical validation was performed.",
+    "sample_or_model": "Ti6Al4V ELI powder met ASTM F136 composition limits, with D10=23.0 micrometres, D50=32.5 micrometres, D90=45.4 micrometres, bulk density 2.5 g/cm^3, and tapped density 2.82 g/cm^3. Rhombic-dodecahedron specimens used cell sizes 1/1.5/2 mm, strut diameters 100-300 micrometres, pore sizes approximately 482-1264 micrometres, and porosities 60.95-90.59%. Compression used 1 mm/min and n=3 per type. The gait FE model used a 1 mm tetrahedral mesh (604,487 elements; 951,848 nodes), cortical bone E=20 GPa/nu=0.3, Ti6Al4V E=113 GPa/nu=0.342, UHMWPE E=1 GPa/nu=0.45, fixed acetabulum, bonded acetabulum-cup, and friction coefficient 0.1 for liner/head contacts. SLM used 200 W, 1200 mm/s, 140 micrometre hatch spacing, 30 micrometre layers, >99.5% formed density, and argon below 1000 ppm oxygen.",
+    "comparators": [
+      "1, 1.5, and 2 mm rhombic-dodecahedron cell sizes",
+      "Strut-diameter/porosity combinations spanning approximately 60-90% porosity and 500-1200 micrometre bone-ingrowth pore sizes",
+      "Uniform versus stress-mapped gradient porous coating concept",
+      "32 gait transients, stance versus swing phase, and six stress regions A-F",
+      "0, 15, 30, and 45 degree SLM forming angles for thermal deformation",
+      "Porous specimen compression properties versus reported human cortical-bone ranges"
+    ],
+    "method_spine": [
+      "Characterize Ti6Al4V ELI powder and define rhombic-dodecahedron cell/strut/pore/porosity parameter space for bone-ingrowth-sized lattices (S003:C01-S004:C01).",
+      "Print porous specimens, sandblast/clean them, run n=3 compression tests, and select the 1.5 mm cell size whose reported strength/modulus range overlaps cortical bone (S004:C02-S005:C01).",
+      "Build a full hip FE model with 32 gait transients, stated material/contact/mesh assumptions, and superimpose coating stress maps into six A-F regions (S004:C01; S006:C01).",
+      "Scale regional FE stresses to a 230 MPa cortical-bone compression reference, assign region-specific porous Ti6Al4V strength/porosity, and construct the gradient coating (S007:C01).",
+      "Simulate 0-45 degree forming angles, select 45 degrees for lower predicted thermal deformation, SLM-print the cup, and anneal/sandblast/clean it (S007:C01).",
+      "Interpret the gradient design as a stiffness/stress-shielding hypothesis while retaining uniaxial-test, residual-stress, warpage, fatigue, and biological limits (S008:C01)."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Compression testing (three repeats per specimen type) checks the printed lattice response and provides the basis for selecting the 1.5 mm cell; no specimen-level uncertainty or repeatability analysis beyond averages is reported (S004:C02-S005:C01).",
+        "Thermal deformation simulations compare forming angles before printing, but no post-print deformation measurement is reported to verify the simulated angle ranking (S007:C01).",
+        "The gait FE mesh, contacts, and 32-transient loads are stated, but mesh convergence and numerical code verification are not reported (S004:C01)."
+      ],
+      "calibration": [
+        "Regional coating strength/porosity is calibrated by scaling the FE coating stress range 0.31-1.83 MPa to a 37.44-219.24 MPa target range against a 230 MPa cortical reference; this is a design mapping, not calibration to measured cup fatigue or bone response (S006:C01; S007:C01).",
+        "Material properties and gait forces are taken from cited sources and assigned as homogeneous isotropic values; no patient-specific calibration or as-built effective-property fit is performed (S004:C01)."
+      ],
+      "validation": [
+        "The strongest validation is n=3 uniaxial compression of printed specimens against cortical-bone ranges. The hip FE stress map and gradient assignment are not validated against instrumented gait, cadaveric contact, or bone-interface measurements (S005:C01; S006:C01).",
+        "Printing, sandblasting, cleaning, and annealing establish a prototype process state but do not validate residual stress, warpage, pore fidelity, fatigue, or osseointegration (S007:C01; S008:C01)."
+      ],
+      "sensitivity": [
+        "Cell size, strut diameter, porosity, gait transient, stress region, and forming angle are varied; the design explicitly uses six stress bins A-F and four angle simulations (S004:C01-S004:C02; S006:C01-S007:C01).",
+        "No sensitivity is reported for anisotropic bone, contact friction/gaps, gait variability, pore/strut defects, annealing, fatigue cycles, or the chosen 120 safety factor."
+      ],
+      "application_prediction": [
+        "The gradient coating is predicted to better match bone stiffness and alleviate stress shielding relative to dense metal, but the study does not calculate a direct stress-shielding index, bone remodeling, or clinical fixation outcome (S001:C01; S007:C01-S008:C01).",
+        "The printed prototype demonstrates manufacturability under one process/angle, not long-term acetabular-cup durability or in-vivo bone ingrowth."
+      ]
+    },
+    "primary_outcomes": [
+      "SLM rhombic-dodecahedron specimens covered approximately 60.95-90.59% porosity and 482.1-1264.2 micrometre pore size as strut diameter varied. The 1.5 mm cell specimens had reported compressive strength 78.16-242.94 MPa and elastic modulus 1.74-9.17 GPa, selected as close to cited human cortical-bone ranges (S004:C01; S005:C01).",
+      "The 32-transient hip FE model found stance-phase peak stress at transient 15 and generally low swing-phase stress. Superimposed maps divided the coating into six stress intervals, with local stresses reported from 0.31 to 1.83 MPa before scaling (S006:C01-S007:C01).",
+      "Regional scaling produced porous-coating compressive-strength targets of 221.08, 185.42, 154.32, 118.65, 78.16, and 78.16 MPa for regions A-F and porosities of 70.71, 76.21, 81.28, 85.88, 89.94, and 89.94%, respectively (S007:C01).",
+      "Forming-angle thermal simulations predicted maximum deformation of 8.45 x 10^-? mm at 0 degrees and 6.33 x 10^-? mm at 45 degrees (the exponent is not legible in the packet extraction); 45 degrees was selected for printing (S007:C01).",
+      "A gradient porous Ti6Al4V acetabular cup was SLM fabricated with argon protection, then sandblasted, ultrasonically cleaned, and annealed at 820 C for 2 h. The paper reports connected transitions between porosity regions but no quantitative as-built pore/warpage map (S007:C01).",
+      "The study reports no fatigue cycles, multidirectional compression, residual-stress measurement, bone ingrowth, interface micromotion, animal tissue response, or clinical outcome."
+    ],
+    "highest_evidence_level_reached": "Printed-lattice compression characterization plus nominal gait-FE stress mapping and a manufacturability prototype. No experimental validation of the cup FE stress field, direct stress-shielding/bone-remodeling outcome, cyclic fatigue, as-built gradient fidelity, or biological/clinical performance is reached."
+  },
+  "argument_map": {
+    "central_claim": "Stress-mapped gradient porosity in a rhombic-dodecahedron Ti6Al4V acetabular coating can combine bone-like compression ranges with a manufacturable SLM prototype, but the porosity assignment is a nominal FE-to-strength design mapping and does not yet establish reduced stress shielding, fatigue durability, or bone integration.",
+    "data": [
+      "Powder composition and lattice geometry define the Ti6Al4V process/material state and bone-ingrowth-sized parameter matrix (S003:C01-S004:C01).",
+      "n=3 compression tests select a 1.5 mm cell size; gait FE stress maps define six coating regions and scaled strength/porosity targets (S005:C01-S007:C01).",
+      "Thermal-angle simulation and SLM/anneal process produce a gradient-cup prototype, while the conclusion lists untested multidirectional, fatigue, residual-stress, and RVE needs (S007:C01-S008:C01)."
+    ],
+    "warrant": "Matching porous effective stiffness and strength to cortical-bone ranges, while assigning lower porosity where gait stress is higher, plausibly reduces stiffness mismatch and preserves local load capacity; that design warrant requires direct interface, fatigue, and remodeling evidence.",
+    "backing": [
+      "Cell size and strut diameter change relative density and measured compression response in the expected direction, giving a mechanical basis for the 1.5 mm selection (S004:C01-S005:C01).",
+      "The gait FE model resolves 32 load transients and spatially varying coating stress rather than using one static average (S004:C01; S006:C01).",
+      "The prototype receives sandblast/cleaning/annealing treatment and the paper explicitly identifies residual stress, warpage, fatigue, and multidirectional loading as future checks (S007:C01-S008:C01)."
+    ],
+    "qualifier": "Outcomes apply to the stated isotropic homogeneous FE model, gait data source, bonded acetabular contact, 1 mm mesh, printed specimen matrix, regional stress scaling, and one SLM process. The paper does not measure a stress-shielding index, as-built effective properties, fatigue life, or tissue integration.",
+    "rebuttals_or_boundaries": [
+      "The uniaxial compression machine cannot reproduce the multidirectional hip force state, and the authors call for joint-shaped fixtures or more accurate elastic matrices (S008:C01).",
+      "A 120 safety factor is derived from 1.83 MPa modeled coating stress versus 230 MPa cortical strength; it is not a validated fatigue or clinical safety factor (S007:C01).",
+      "Annealing is intended to remove residual stress, but residual stress and warp are not measured after printing, and pore/strut defects may lower fatigue resistance (S007:C01-S008:C01).",
+      "Bone-like modulus/strength and open pores are proxies for stress shielding and ingrowth; no cup-bone contact or biological endpoint was tested."
+    ],
+    "argument_coherence": "high_for_design_and_compression_mapping_moderate_for_nominal_gait_FE_low_for_fatigue_stress-shielding_or_clinical_translation"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Ti6Al4V powder composition/size/density/flow, printed specimen compression response (n=3 per type), SLM process parameters, observed unmelted surface powder, and the final print/anneal process are measured or directly reported states (S003:C01; S004:C02; S005:C01; S007:C01).",
+      "The paper reports no measured gait stress, cup-bone stress, residual stress, warpage, fatigue, bone contact, ingrowth, or clinical endpoint."
+    ],
+    "predicted": [
+      "Hip gait FE coating stress maps, six-region stress intervals, porosity/strength assignments, and forming-angle deformation are model predictions (S004:C01; S006:C01-S007:C01).",
+      "Claims that the gradient coating alleviates stress shielding, improves comfort, or provides long-term stability are application predictions or hypotheses, not measured outcomes (S001:C01-S002:C01; S008:C01)."
+    ],
+    "inferred": [
+      "The 1.5 mm cell is inferred to be the most suitable because its compression range overlaps cited cortical-bone values; this does not establish best fatigue or in-vivo ingrowth performance (S005:C01).",
+      "Lower porosity in high-stress regions is inferred to preserve strength and higher porosity in low-stress regions to support ingrowth/lightweighting; the bridge is design-level and unvalidated biologically (S006:C01-S007:C01).",
+      "The 45 degree forming angle is inferred to reduce thermal deformation from the simulation, but no post-print deformation measurement confirms that ranking."
+    ],
+    "recommended": [
+      "Measure as-built pore/strut geometry, porosity gradient, warpage, and residual stress after SLM/annealing and feed those states into a validated FE model.",
+      "Perform multidirectional compression, contact/interface testing, replicated fatigue under gait spectra, and post-degradation testing; report n, uncertainty, and failure modes.",
+      "Validate gait stress and stress-shielding predictions with cadaveric or instrumented hip constructs and quantify bone remodeling, micromotion, fixation, and tissue ingrowth.",
+      "Use anisotropic/inhomogeneous bone, actual contact/friction, patient-specific loading, and RVE/effective-property sensitivity before clinical design claims."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Cortical-bone-like compression modulus/strength is a material proxy; it does not establish cup fatigue life, contact stability, or reduced aseptic loosening.",
+      "FE coating stress and regional porosity are design predictions; they do not equal measured stress shielding, bone density preservation, or host-bone remodeling.",
+      "Pore size/porosity can provide ingrowth space, but no bone, vascular, histology, or fixation endpoint was measured.",
+      "Simulated forming deformation and a printed prototype do not establish dimensional fidelity, residual-stress safety, or long-term clinical durability."
+    ],
+    "overclaim_risks": [
+      "The abstract and conclusion state that the gradient structure can alleviate stress shielding and improve comfort, although no direct stress-shielding, bone, or patient endpoint is measured (S001:C01; S008:C01).",
+      "The 120 safety factor and bone-like compression range may be mistaken for fatigue safety despite no cyclic cup test and no measured residual stress or as-built defect distribution (S007:C01-S008:C01).",
+      "Gait FE stresses were obtained with bonded cup contact, homogeneous isotropic materials, and a 1 mm mesh; they are not validated physiological interface stresses (S004:C01; S006:C01).",
+      "Using the selected 1.5 mm cell and regional porosity as an optimal clinical design ignores biological, manufacturing, and patient-load variability."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Link dense-cup stiffness mismatch to a specific gradient-porosity and manufacturability objective.",
+      "execution": "The introduction identifies dense-metal stress shielding, explains porous/SLM opportunities, and states the sequence of compression selection, gait FE mapping, regional porosity assignment, and prototype printing (S002:C01).",
+      "locator": "S002:C01",
+      "effectiveness": "high",
+      "transferable_principle": "End a design introduction with the design variable, comparator, loading condition, and validation endpoint that will actually be tested.",
+      "failure_mode": "A broad stress-shielding promise can be read as a clinical outcome when only nominal mechanics are evaluated."
+    },
+    {
+      "section": "methods",
+      "move": "Separate lattice parameter space, as-printed specimen testing, gait FE boundary conditions, and stress-to-porosity mapping.",
+      "execution": "The paper reports powder/process state, rhombic-dodecahedron geometry, n=3 compression, FE material/contact/mesh/gait assumptions, and the regional scaling rule before defining the gradient cup (S003:C01-S004:C02; S006:C01-S007:C01).",
+      "locator": "S004:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For a stress-graded AM implant, distinguish measured printed material behavior from the nominal FE field and the rule that maps stress to porosity.",
+      "failure_mode": "Calling a scaled stress-to-strength assignment calibration can conceal that no implant-level or biological target was fitted."
+    },
+    {
+      "section": "results",
+      "move": "Use a two-stage result: validate cell-size mechanics, then expose the gait-dependent spatial stress map and design mapping.",
+      "execution": "Compression selects the 1.5 mm cell from reported strength/modulus ranges; gait FE then resolves 32 transients, six regions, and target porosity/strength values (S005:C01-S007:C01).",
+      "locator": "S006:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Place the measured material benchmark before the application model and preserve the model-to-design transformation as a separate step.",
+      "failure_mode": "Reporting the gradient porosity without its stress bins and 230 MPa scaling reference creates an opaque optimization claim."
+    },
+    {
+      "section": "validation",
+      "move": "Treat forming-angle simulation and final printing as manufacturability evidence, not fatigue or interface validation.",
+      "execution": "The study compares 0-45 degree thermal deformation, selects 45 degrees, prints, sandblasts, cleans, and anneals the prototype, then explicitly lists multidirectional force, residual stress, warpage, and fatigue as future work (S007:C01-S008:C01).",
+      "locator": "S007:C01",
+      "effectiveness": "moderate_to_high",
+      "transferable_principle": "Name which manufacturing state was checked and retain unmeasured process risks in the conclusion.",
+      "failure_mode": "A printed part and simulated low deformation can be mistaken for dimensional, residual-stress, or cyclic safety."
+    },
+    {
+      "section": "discussion",
+      "move": "Bound bone-like mechanical matching with the untested biological and durability endpoints.",
+      "execution": "The conclusion retains the uniaxial-test limitation, calls for representative volume elements and multidirectional fixtures, and names residual stress, warping, and fatigue as unresolved despite the promising gradient design (S008:C01).",
+      "locator": "S008:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Use the conclusion to state the next discriminating tests that separate a manufacturable concept from a clinically durable cup.",
+      "failure_mode": "Writing improved patient comfort or stress shielding as demonstrated outcomes would erase the missing interface and in-vivo evidence."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The electronic universal testing machine applies force in one direction and cannot reproduce multidirectional hip forces; the authors propose joint-shaped fixtures or more accurate elastic matrices/RVE models (S008:C01).",
+      "Thermal deformation, residual stress, warping, and fatigue performance of the gradient cup require future study (S007:C01-S008:C01).",
+      "The model uses cited homogeneous material properties and a gait dataset rather than subject-specific anatomy/material calibration (S004:C01)."
+    ],
+    "reader_identified": [
+      "Compression sample size is n=3 per type with ranges but limited uncertainty reporting; no statistical comparison or specimen-level defect/failure data are provided.",
+      "The 1.5 mm cell selection uses human cortical-bone ranges as a proxy and does not account for fatigue, anisotropy, interface contact, or degradation.",
+      "Gait FE uses bonded acetabulum-cup contact, simplified cortical shell, isotropic Ti/bone, 1 mm mesh, and no mesh/contact convergence or physiological validation.",
+      "Regional porosity is scaled from coating stress 0.31-1.83 MPa to a 230 MPa cortical-strength reference with a reported safety factor of 120; this is not a calibrated fatigue or remodeling criterion.",
+      "The final gradient cup has no quantitative as-built porosity/warpage/residual-stress map, and unmelted powder was observed on specimen struts.",
+      "No bone ingrowth, micromotion, fixation, wear, corrosion, animal, or clinical endpoint is measured."
+    ],
+    "likely_bias_direction": [
+      "Homogeneous bonded FE assumptions likely smooth local contact and stress concentrations, potentially overestimating the safety of porous regions.",
+      "Selecting cell size from static compression and a single gait map favors stiffness matching while underweighting fatigue and process defects.",
+      "Simulated forming-angle deformation without measured post-print geometry may overstate manufacturability confidence.",
+      "The stress-to-porosity mapping can favor high porosity in low-stress zones without testing whether biological ingrowth or local shell transitions remain stable."
+    ],
+    "scope_boundary": "The study supports a nominal gradient-porosity acetabular-cup design and a printed Ti6Al4V prototype with n=3 lattice compression characterization and gait-FE stress mapping. It does not demonstrate as-built gradient fidelity, stress-shielding reduction, fatigue life, interface fixation, bone ingrowth, or clinical performance."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC9457748-01",
+      "capability": "Build a stress-graded AM implant argument in four traceable states: printed material matrix, validated cage-level mechanics, application FE field, and nominal stress-to-porosity map.",
+      "manuscript_use": "Methods design rationale, results architecture, and nominal-to-as-built audit.",
+      "applicable_domains": [
+        "acetabular_implant",
+        "additive_manufacturing",
+        "porous_scaffold",
+        "finite_element_modeling"
+      ],
+      "applicable_study_designs": [
+        "implant_design",
+        "mixed_numerical_experimental",
+        "stress_graded_AM"
+      ],
+      "supporting_locators": [
+        "S004:C01",
+        "S005:C01",
+        "S006:C01",
+        "S007:C01"
+      ],
+      "counterexample_or_boundary": "The regional mapping is not calibrated to measured cup stress, fatigue, or bone response and can be altered by as-built defects or interface assumptions.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9457748-02",
+      "capability": "Use gait-transient and spatial stress distributions to justify graded architecture while preserving the uniaxial-test and model-boundary limitations.",
+      "manuscript_use": "FE Results, design selection, and Discussion of load-path realism.",
+      "applicable_domains": [
+        "hip_implant",
+        "gait_FE",
+        "bone_biomechanics",
+        "porous_implant"
+      ],
+      "applicable_study_designs": [
+        "FE_application",
+        "implant_design",
+        "gait_loading"
+      ],
+      "supporting_locators": [
+        "S004:C01",
+        "S006:C01",
+        "S007:C01",
+        "S008:C01"
+      ],
+      "counterexample_or_boundary": "32 nominal gait transients with bonded contacts and homogeneous materials do not validate physiological cup-bone stresses or stress shielding.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9457748-03",
+      "capability": "Keep bone-like static compression, predicted stress shielding, fatigue durability, and osseointegration as distinct evidence lanes.",
+      "manuscript_use": "Results synthesis, conclusion proportionality, and go/no-go criteria.",
+      "applicable_domains": [
+        "porous_implant",
+        "implant_fatigue",
+        "osseointegration",
+        "hip_biomechanics"
+      ],
+      "applicable_study_designs": [
+        "compression_test",
+        "FE_application",
+        "preclinical_validation"
+      ],
+      "supporting_locators": [
+        "S005:C01",
+        "S006:C01",
+        "S007:C01",
+        "S008:C01"
+      ],
+      "counterexample_or_boundary": "A 1.74-9.17 GPa static modulus range and 120 nominal safety factor do not demonstrate fatigue life, bone density preservation, or clinical fixation.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9457748-04",
+      "capability": "Turn manufacturing limitations into discriminating next tests—post-print porosity/warpage/residual-stress mapping, multidirectional loading, fatigue, and interface biology.",
+      "manuscript_use": "Limitations, future-work roadmap, and translational recommendations.",
+      "applicable_domains": [
+        "additive_manufacturing",
+        "hip_implant",
+        "implant_fatigue",
+        "bone_interface"
+      ],
+      "applicable_study_designs": [
+        "AM_prototype",
+        "preclinical_validation",
+        "fatigue_testing"
+      ],
+      "supporting_locators": [
+        "S007:C01",
+        "S008:C01"
+      ],
+      "counterexample_or_boundary": "A printed prototype with annealing and simulated low warp cannot distinguish process feasibility from long-term implant safety.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_gradient_porosity_and_printed_lattice_design",
+    "methods_transparency": "moderate",
+    "validation_credibility": "moderate_for_n3_compression_low_for_gait_FE_and_implant_translation",
+    "outcome_uncertainty_reporting": "low_to_moderate",
+    "comparator_fairness": "moderate_for_cell-size_and_strut_matrix_low_for_clinical_stress-shielding",
+    "conclusion_proportionality": "moderate_to_low",
+    "critical_weaknesses": [
+      "The stress-to-porosity gradient is based on nominal FE and a static compression proxy, with no measured cup stress, fatigue, or bone response.",
+      "FE contact/material assumptions and absent mesh/contact sensitivity limit physiological stress interpretation.",
+      "n=3 compression and no post-print quantitative gradient/warpage/residual-stress mapping leave process uncertainty unresolved.",
+      "No multidirectional, cyclic, biological, interface, animal, or clinical validation is present."
+    ],
+    "overall_credibility": "moderate_for_prototype_mechanical_design_low_for_stress-shielding_fatigue_osteointegration_and_clinical_translation"
+  },
+  "summary_zh": "这是一项梯度多孔髋臼杯的原始增材制造—压缩—步态 FE 设计研究。作者用 1、1.5、2 mm 菱形十二面体单元和约 60.95–90.59% 孔隙率打印 Ti6Al4V ELI 试件，每种 n=3 压缩；1.5 mm 单元的强度 78.16–242.94 MPa、弹性模量 1.74–9.17 GPa，被选作接近皮质骨的尺寸。32 个步态瞬态 FE 应力图将涂层分成 A–F 六区，再把 0.31–1.83 MPa 的名义涂层应力缩放到 37.44–219.24 MPa 的目标强度，得到 70.71–89.94% 的梯度孔隙率，并以 45° 成形角打印、喷砂、清洗和 820°C/2 h 退火。压缩和流程可行性是主要实证层；应力遮挡、120 安全系数、骨长入、疲劳、残余应力、界面微动和临床获益仍是预测或未测端点。单向压缩不能模拟髋关节多向载荷，FE 采用均质材料和粘结接触，且无 as-built 梯度、疲劳或生物学验证。",
+  "reader_notes": [
+    "Primary Luna reader reviewed all 17 non-reference packet chunks in exact order: S001:C01; S002:C01; S003:C01; S004:C01-S004:C02; S005:C01; S006:C01; S007:C01; S008:C01; S009:C01; S010:C01; S011:C01; S012:C01; S013:C01; S014:C01; S015:C01; S016:C01.",
+    "The article is original SLM porous acetabular-cup design research with n=3 specimen compression and a nominal 32-transient gait FE mapping. It has no implant fatigue, bone-ingrowth, interface, animal, or clinical validation.",
+    "Cell size/strut/porosity ranges, powder and SLM parameters, 604,487-element gait model, six stress regions, 120 stress-scaling factor, 45-degree angle, annealing state, and uniaxial-test limitation are retained. The thermal-deformation exponent is not legible in the packet extraction and is marked for source verification rather than invented.",
+    "The card keeps static bone-like mechanics separate from stress-shielding, fatigue, as-built, and clinical endpoints; the gradient cup is a manufacturable prototype and design hypothesis, not demonstrated patient benefit."
+  ],
+  "selection": {
+    "selection_reason": "manifest_all",
+    "primary_stratum": "additive_manufacturing",
+    "reading_order": 63
+  },
+  "source": {
+    "record_path": "records/PMC9457748.json.gz",
+    "source_record": "records/PMC9457748.json.gz",
+    "source_record_sha256": "b919345a53ba988dfd5545bdc2bac3fc26a3b4f617ebe5de73d0f46e55902e94",
+    "source_hash": "b919345a53ba988dfd5545bdc2bac3fc26a3b4f617ebe5de73d0f46e55902e94"
+  }
+}

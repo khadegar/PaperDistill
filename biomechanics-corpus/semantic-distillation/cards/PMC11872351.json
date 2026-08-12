@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11872351",
+  "paper_id": "doi:10.1111/os.14331",
+  "pmcid": "PMC11872351",
+  "source_record_sha256": "f0f46f4b6927c8bacfe410a67b16e2689de720c67815ad229c7dc98e6b6aee2f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c6e5ba747e5804139ddb6954a0742446eed1627afa69ffbaafe498f1609b161c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Utilization of 3D ‐Printed Customized Uncemented Stem Prostheses for Revision of Aseptic Loosening in the Distal Femoral Cemented Prostheses: Case Series and Literature Review",
+    "authors": "Hou ZW, Zheng K, Xu M, Yu XC.",
+    "year": 2024,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.14331",
+    "publication_type": "research-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

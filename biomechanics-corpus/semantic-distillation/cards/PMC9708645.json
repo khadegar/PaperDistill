@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9708645",
+  "paper_id": "doi:10.1038/s41598-022-25184-4",
+  "pmcid": "PMC9708645",
+  "source_record_sha256": "b1be25f4cb8d75ddf9f7b249edbe8bc41d0f1bbda9926758f1bd60a0bc73df1d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "878151f34cbea273ef3c43b16dd49c925310ef6ed4ed1fcf10a4aab3888979e8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Efficacy of soluble lansoprazole-impregnated beta-tricalcium phosphate for bone regeneration",
+    "authors": "Mishima K, Okabe YT, Mizuno M, Ohno K, Kitoh H, Imagama S.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-25184-4",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

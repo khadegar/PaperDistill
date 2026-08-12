@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "benchmark_id": "pdf-markdown-a100-v1",
+  "project_root": "..",
+  "corpus_root": "../../biomechanics-corpus",
+  "zotero_db": "C:/Users/zzx/Zotero/zotero.sqlite",
+  "zotero_storage": "C:/Users/zzx/Zotero/storage",
+  "pdf_tools": {
+    "pdfinfo": "E:/tool/texlive/2022/bin/win32/pdfinfo.exe",
+    "pdftotext": "E:/tool/texlive/2022/bin/win32/pdftotext.exe",
+    "pdffonts": "E:/tool/texlive/2022/bin/win32/pdffonts.exe",
+    "pdfimages": "E:/tool/texlive/2022/bin/win32/pdfimages.exe"
+  },
+  "sampling": {
+    "papers_per_stratum": 10,
+    "reserve_per_stratum": 1,
+    "manual_review_per_stratum": 3,
+    "minimum_pages": 4,
+    "strata": [
+      "layout_stress",
+      "formula_fe_topology",
+      "table_review_clinical",
+      "figure_am_biomaterial",
+      "standard_born_digital"
+    ]
+  },
+  "remote": {
+    "host": "10.201.29.159",
+    "user": "zzx",
+    "root": "C:/Users/zzx/PaperDistillGPU/benchmark-v1",
+    "gpu_index": 0,
+    "preflight_duration_seconds": 30,
+    "preflight_interval_seconds": 5,
+    "monitor_interval_seconds": 2,
+    "maximum_average_gpu_utilization_percent": 5,
+    "minimum_free_vram_mib": 75000,
+    "cpu_threads": 8,
+    "per_document_timeout_seconds": 900
+  },
+  "tool_versions": {
+    "mineru": "3.4.4",
+    "marker": "2.0.0",
+    "docling": "2.114.0"
+  },
+  "tools": {
+    "mineru": {
+      "primary": ["{root}/envs/mineru/Scripts/mineru.exe", "-p", "{input}", "-o", "{output}", "-b", "hybrid-engine", "--effort", "high"],
+      "fallback": ["{root}/envs/mineru/Scripts/mineru.exe", "-p", "{input}", "-o", "{output}", "-b", "pipeline"],
+      "environment": {
+        "MINERU_MODEL_SOURCE": "local",
+        "MINERU_TOOLS_CONFIG_JSON": "{root}/runtime/mineru.json"
+      }
+    },
+    "marker": {
+      "primary": ["{root}/envs/marker/Scripts/marker_single.exe", "{input}", "--mode", "balanced", "--output_format", "markdown", "--output_dir", "{output}"],
+      "fallback": ["{root}/envs/marker/Scripts/marker_single.exe", "{input}", "--mode", "balanced", "--force_ocr", "--output_format", "markdown", "--output_dir", "{output}"],
+      "environment": {
+        "HF_HOME": "{root}/offline/models/marker/huggingface",
+        "MODEL_CACHE_DIR": "{root}/offline/models/marker/datalab-models",
+        "FONT_PATH": "{root}/offline/models/marker/fonts/GoNotoCurrent-Regular.ttf",
+        "HF_HUB_OFFLINE": "1",
+        "TRANSFORMERS_OFFLINE": "1",
+        "SURYA_INFERENCE_BACKEND": "llamacpp",
+        "SURYA_INFERENCE_KEEP_ALIVE": "0",
+        "SURYA_INFERENCE_PORT": "18921",
+        "SURYA_INFERENCE_PARALLEL": "4",
+        "LLAMA_CPP_BINARY": "{root}/runtime/marker-engine/llama-server.exe",
+        "SURYA_GGUF_LOCAL_MODEL_PATH": "{root}/offline/models/marker/gguf/surya-2.gguf",
+        "SURYA_GGUF_LOCAL_MMPROJ_PATH": "{root}/offline/models/marker/gguf/surya-2-mmproj.gguf"
+      }
+    },
+    "docling": {
+      "primary": ["{root}/envs/docling/Scripts/docling.exe", "convert", "{input}", "--pipeline", "vlm", "--vlm-model", "granite_docling", "--device", "cuda", "--num-threads", "8", "--to", "md", "--artifacts-path", "{root}/offline/models/docling", "--no-enable-remote-services", "--output", "{output}"],
+      "fallback": ["{root}/envs/docling/Scripts/docling.exe", "convert", "{input}", "--pipeline", "standard", "--device", "cuda", "--num-threads", "8", "--ocr", "--table-mode", "accurate", "--to", "md", "--artifacts-path", "{root}/offline/models/docling", "--no-enable-remote-services", "--output", "{output}"],
+      "environment": {
+        "HF_HOME": "{root}/offline/models/docling/huggingface",
+        "HF_HUB_OFFLINE": "1",
+        "TRANSFORMERS_OFFLINE": "1"
+      }
+    }
+  },
+  "selection_policy": {
+    "minimum_clean_successes": 48,
+    "allow_silent_truncations": 0,
+    "manual_blind_seed": "pdf-markdown-a100-v1-blind"
+  }
+}

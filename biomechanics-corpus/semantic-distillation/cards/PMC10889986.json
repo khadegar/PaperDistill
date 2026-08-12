@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10889986",
+  "paper_id": "doi:10.3390/jfb15020044",
+  "pmcid": "PMC10889986",
+  "source_record_sha256": "71a50e574042df4d761c6a7f8e4ae5ce84c2023604aa782569f986dc24a1a9b6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "605e2f468b354bb5f8947e76650918601e6951bc999a0c4316b58a9636512c8f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multidimensional 3D-Printed Scaffolds and Regeneration of Intrabony Periodontal Defects: A Systematic Review",
+    "authors": "Davidopoulou S, Karakostas P, Batas L, Barmpalexis P, Assimopoulou A, Angelopoulos C, Tsalikis L.",
+    "year": 2024,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb15020044",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

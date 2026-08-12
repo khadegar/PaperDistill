@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12522093",
+  "paper_id": "doi:10.1021/acsbiomaterials.5c01032",
+  "pmcid": "PMC12522093",
+  "source_record_sha256": "c125822d8a0c06016fd09c34f5629adaf00e0fde8bb11cf62a5e5749b748ebff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d9081418813a6de69afa35929b1fa5f10db7107f2b15b17d5433f6f0a5597c56",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication and Characterization of a Porous TiO 2 ‑Modified PEEK Scaffold with Enhanced Flexural Compliance for Bone Tissue Engineering",
+    "authors": "Galea Mifsud M, Sachan A, Narayan RJ, Di-Silvio L, Coward T.",
+    "year": 2025,
+    "journal": "ACS Biomaterials Science & Engineering",
+    "doi": "10.1021/acsbiomaterials.5c01032",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

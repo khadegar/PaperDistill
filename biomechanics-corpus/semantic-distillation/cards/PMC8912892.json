@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8912892",
+  "paper_id": "doi:10.3390/polym14050941",
+  "pmcid": "PMC8912892",
+  "source_record_sha256": "aff88cb1d20932d2a1a77f14d0508d48124cb4d16fd8b26be4e09a8db1564ac9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "70abd7f36c386e2ea0c5adc42043c03c1099ef51ed8e2c8d675d7e198002d016",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biopolymer Material from Human Spongiosa for Regenerative Medicine Application",
+    "authors": "Tsiklin IL, Pugachev EI, Kolsanov AV, Timchenko EV, Boltovskaya VV, Timchenko PE, Volova LT.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14050941",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

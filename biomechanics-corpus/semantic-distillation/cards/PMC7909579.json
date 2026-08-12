@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7909579",
+  "paper_id": "doi:10.3390/mi12020101",
+  "pmcid": "PMC7909579",
+  "source_record_sha256": "d424dffa6e72238c85a0c4e85ecfe7beaf339a12df572cdc5e7bf8a1fae6e3e7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bf48dce73860a1a66012006dd0c3b587ce442da6e0906dfbbe7955849b979108",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Two-Scale Multi-Resolution Topologically Optimized Multi-Material Design of 3D Printed Craniofacial Bone Implants",
+    "authors": "Park J, Zobaer T, Sutradhar A.",
+    "year": 2021,
+    "journal": "Micromachines",
+    "doi": "10.3390/mi12020101",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "patient_specific_implants",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

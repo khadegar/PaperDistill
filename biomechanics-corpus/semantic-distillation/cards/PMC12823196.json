@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12823196",
+  "paper_id": "doi:10.1302/2046-3758.151.bjr-2025-0128.r2",
+  "pmcid": "PMC12823196",
+  "source_record_sha256": "e7e8c17ba07f9b7cb84dba26523f82d5e3ddda3b77d00dde033681625cae515c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7d9d5537d650a0431843dd0e5ad051e18c3b9b32cb79f8e7b63df3feacfd3779",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis, biomechanics, and clinical advantages of percutaneous medial column screw reinforced locking plate in the treatment of complex distal femoral fractures",
+    "authors": "Chen J, Chen J, Lu R, Liu Y, Huang J, Zhang C.",
+    "year": 2026,
+    "journal": "Bone & Joint Research",
+    "doi": "10.1302/2046-3758.151.bjr-2025-0128.r2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

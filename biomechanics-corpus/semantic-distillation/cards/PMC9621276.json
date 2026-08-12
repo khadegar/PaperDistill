@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9621276",
+  "paper_id": "doi:10.1080/26415275.2022.2135516",
+  "pmcid": "PMC9621276",
+  "source_record_sha256": "47c69ac3665e1736e5ef3499633cad0ab2d8904fda67f463f609a57902e6a05b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "70a2b3a34ed8d6f1af57ede5a8a3f907dca84a8856216fc9269660bb839c4423",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Peri-implant bone resorption risk of anterior maxilla narrow single implants: a finite-element analysis",
+    "authors": "Onone Gialain I, Folmer Rodrigues da Silva L, Kasumi Gantier Takano M, Yagüe Ballester R, Guimarães Roscoe M, Barbosa Cruz Meira J.",
+    "year": 2022,
+    "journal": "Biomaterial Investigations in Dentistry",
+    "doi": "10.1080/26415275.2022.2135516",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

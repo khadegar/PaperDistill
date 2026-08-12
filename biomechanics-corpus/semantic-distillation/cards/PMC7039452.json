@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7039452",
+  "paper_id": "doi:10.1371/journal.pone.0229360",
+  "pmcid": "PMC7039452",
+  "source_record_sha256": "acbb7cab7a45f66fd79b83e4fa548775c7a2a215a7368b5b74ce724464fd91fa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ae315802aa001149f1cf9a59c45fcf3c4f0cbebc05da81ea04ec1cd579aa3ec6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of a one-piece zirconia implant in anterior single tooth implant applications",
+    "authors": "Talmazov G, Veilleux N, Abdulmajeed A, Bencharit S.",
+    "year": 2020,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0229360.r006",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

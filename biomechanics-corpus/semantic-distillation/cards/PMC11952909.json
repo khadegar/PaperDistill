@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11952909",
+  "paper_id": "doi:10.1016/j.xnsj.2025.100598",
+  "pmcid": "PMC11952909",
+  "source_record_sha256": "f153c0801ef21c09eecddf775679d257f01c1c4256ee9b251c55497489035366",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "53279c430cb435299f663c142fdc176436b7905a60f30a90f031d877d6a5ff7d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Integrating finite element analysis and physics-informed neural networks for biomechanical modeling of the human lumbar spine",
+    "authors": "Ahmadi M, Biswas D, Paul R, Lin M, Tang Y, Cheema TS, Engeberg ED, Hashemi J, Vrionis FD.",
+    "year": 2025,
+    "journal": "North American Spine Society Journal",
+    "doi": "10.1016/j.xnsj.2025.100598",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12190103",
+  "paper_id": "doi:10.3390/bioengineering12060668",
+  "pmcid": "PMC12190103",
+  "source_record_sha256": "0aa779b1d1235fe15eb0a2e1284062683595e1e0aaf2c3598c729aeee4db4e46",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "99306cadc6a89c08231251119382261a13ef9faea082dd4aee9acd1bc6b01d37",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Design and Validation of a Novel Elliptical Sleeve Pedicle Screw for Enhanced Spinal Fixation Stability",
+    "authors": "Hsu TS, Chiang CJ, Wang HW, Chen YS, Lin CL.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12060668",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

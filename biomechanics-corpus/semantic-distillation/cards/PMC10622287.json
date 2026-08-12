@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10622287",
+  "paper_id": "doi:10.1111/os.13896",
+  "pmcid": "PMC10622287",
+  "source_record_sha256": "f264637170f4eec387159cead574ff4d3e993e4e49c7978bdcc3c64eadfa4fea",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "62a5a34c030ee1f4e9450835f8946d56445ecb0a9a22e75f7561e7442d43806c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison between Three‐Dimensional Printed Titanium and PEEK Cages for Cervical and Lumbar Interbody Fusion: A Prospective Controlled Trial",
+    "authors": "Deng Z, Zou Q, Wang L, Wang L, Xiu P, Feng G, Song Y, Yang X.",
+    "year": 2023,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13896",
+    "publication_type": "other; Randomized Controlled Trial; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

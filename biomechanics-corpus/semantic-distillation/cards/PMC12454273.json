@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12454273",
+  "paper_id": "doi:10.1016/j.jot.2025.08.007",
+  "pmcid": "PMC12454273",
+  "source_record_sha256": "721b98fe06e86dd020a012a3b86a7ca92a20c8d7ea929fd8e74f451fba378cea",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4f68085e35244eee251f642093ea3a25a48adcceeb95d726f04188bde65d17fe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Single-cell RNA sequencing reveals early cell dynamics of MSC-based therapy in long bone critical-size defects in mice",
+    "authors": "Zhang N, Yuan J, Li X, Su N, Wang Y, Chen S, Huang E, Gao Q, Yang F, Chow SK, Goodman SB.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2025.08.007",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

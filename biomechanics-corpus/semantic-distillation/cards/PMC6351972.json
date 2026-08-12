@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6351972",
+  "paper_id": "doi:10.1177/2041731418824797",
+  "pmcid": "PMC6351972",
+  "source_record_sha256": "d749801accd376fef946e776e1252ab00dbde8f3216b10188b0f3d4edd8f5d48",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9572124f66c0a95880382c8a598661c4d9b9c180cd2483e5359e31cf92245e9c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional printing of a patient-specific engineered nasal cartilage for augmentative rhinoplasty",
+    "authors": "Yi HG, Choi YJ, Jung JW, Jang J, Song TH, Chae S, Ahn M, Choi TH, Rhie JW, Cho DW.",
+    "year": 2019,
+    "journal": "Journal of Tissue Engineering",
+    "doi": "10.1177/2041731418824797",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

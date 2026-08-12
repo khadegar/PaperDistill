@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11181595",
+  "paper_id": "doi:10.1186/s12891-024-07576-x",
+  "pmcid": "PMC11181595",
+  "source_record_sha256": "b0472558ab1787ba3f439101d69e1e81ab2d959fc30cbe027354bf8f086a35f0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "da44db42928d727d8d705481bb8b981bb42acfc6cb20d9b08c092d6b5da40dc2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed titanium porous prosthesis combined with the Masquelet technique for the management of large femoral bone defect caused by osteomyelitis",
+    "authors": "Chen Z, Xing Y, Li X, Liu B, Liu N, Huo Y, Tian Y.",
+    "year": 2024,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-024-07576-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

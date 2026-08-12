@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11602280",
+  "paper_id": "doi:10.3389/fbioe.2024.1483547",
+  "pmcid": "PMC11602280",
+  "source_record_sha256": "6e8047d8086af62ee04e10d955dd8e61fb397c2f9ae9d74df81d5310dbfbae6b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e9744b9d20b53aac48479b7e52dedda0c901d7a9b350cb00aa15df97d6b519d0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advances in 3D printing technology for preparing bone tissue engineering scaffolds from biodegradable materials",
+    "authors": "Wang Z, Sun Y, Li C.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1483547",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

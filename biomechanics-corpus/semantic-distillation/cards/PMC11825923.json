@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11825923",
+  "paper_id": "doi:10.1038/s41598-025-89675-w",
+  "pmcid": "PMC11825923",
+  "source_record_sha256": "2f0d16c558775c88c0f4cb1854d4d0978d65dafd490dc5e2a3e965e1a320cf33",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8b4d08d02945ed80e6d99471be1f26b25b6ad37e48d7a7e5b432d1879b0b8805",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Inverse determination of the thermal contact conductance for an interface between a Co28Cr6Mo hip stem and a PMMA-based bone cement",
+    "authors": "Evers P, Reulbach M, Emonde C, Windhagen H, Jakubowitz E, Herbst S, Maier HJ, Nürnberger F.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-89675-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

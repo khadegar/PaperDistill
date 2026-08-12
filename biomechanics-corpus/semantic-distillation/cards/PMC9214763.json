@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9214763",
+  "paper_id": "doi:10.1021/acsabm.2c00321",
+  "pmcid": "PMC9214763",
+  "source_record_sha256": "6bcdcc51ee13c2c08919ff7c72e79e162e069aae6edb2f909e492786d2f67222",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "66bb39dd0f3fc2c582e5e08f81817f172014cc34859596a5a6c14b5df26cfc84",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Performance Assessment of Biocompatible Metals Used in the Treatment of Femoral Neck Fractures",
+    "authors": "Cakir F, Özkal FM, Sensoz E.",
+    "year": 2022,
+    "journal": "ACS Applied Bio Materials",
+    "doi": "10.1021/acsabm.2c00321",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

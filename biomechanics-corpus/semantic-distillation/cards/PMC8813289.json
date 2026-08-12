@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8813289",
+  "paper_id": "doi:10.1155/2022/2190447",
+  "pmcid": "PMC8813289",
+  "source_record_sha256": "6b40c61beb5f73b8b170c428a8159308d4c7d4f99ed754d5bff0a9491f6211ab",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8740a91f296801511f0f0d3005170e32b7fa8ee241e9060eedb74683a69e816f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Platelet-Derived Growth Factor-Functionalized Scaffolds for the Recruitment of Synovial Mesenchymal Stem Cells for Osteochondral Repair",
+    "authors": "Luo Y, Cao X, Chen J, Gu J, Yu H, Sun J, Zou J.",
+    "year": 2022,
+    "journal": "Stem Cells International",
+    "doi": "10.1155/2022/2190447",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

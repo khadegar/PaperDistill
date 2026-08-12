@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5656359",
+  "paper_id": "doi:10.2147/ijn.s141052",
+  "pmcid": "PMC5656359",
+  "source_record_sha256": "0a69fda377ac5e37f5b341673ffd6b891c12a9fa8908c1a6c98fd9264a781043",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "79243ca42adfe238b16fd0733622535ae2b49d329e10e322a0efc875fdf50d2b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of synergistic osteogenesis between icariin and BMP2 through a micro/meso hierarchical porous delivery system",
+    "authors": "Wang Q, Cao L, Liu Y, Zheng A, Wu J, Jiang X, Ji P.",
+    "year": 2017,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s141052",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

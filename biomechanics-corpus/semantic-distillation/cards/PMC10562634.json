@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10562634",
+  "paper_id": "doi:10.3389/fbioe.2023.1243936",
+  "pmcid": "PMC10562634",
+  "source_record_sha256": "6a6214cc8118f7cddaf3c6119406eee494056c272ec0a512329b33407daab0ae",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f5dc40bc7c555849e8bf95fc9e3cf1311ae1cdcb037afaa052cf7baf15f4db2f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of carbon-fiber-reinforced polyetheretherketone on stress distribution in a redesigned tumor-type knee prosthesis: a finite element analysis",
+    "authors": "Wu H, Guo Y, Guo W.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1243936",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6266948",
+  "paper_id": "doi:10.3390/ma11112081",
+  "pmcid": "PMC6266948",
+  "source_record_sha256": "88d14e8107dac747c0db82b104695487f458036b7160ec8191b7dcca74af7fb9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "829c8685bc35fbccf02c9edbecee7ad779ee8b903eb2e88d8bb6c457bb20748a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cationic Substitutions in Hydroxyapatite: Current Status of the Derived Biofunctional Effects and Their In Vitro Interrogation Methods",
+    "authors": "Tite T, Popa AC, Balescu LM, Bogdan IM, Pasuk I, Ferreira JMF, Stan GE.",
+    "year": 2018,
+    "journal": "Materials",
+    "doi": "10.3390/ma11112081",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

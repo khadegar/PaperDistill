@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9497129",
+  "paper_id": "doi:10.3390/cells11182824",
+  "pmcid": "PMC9497129",
+  "source_record_sha256": "808bf747f707f1ec3b04a73ee661d589807f8b896038f1831076138212cb3656",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d64d10dccda19acd2b328e09bfef3672ae294113c90deaf04dd1f1d990bf6c20",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Combined Effects of Polydopamine-Assisted Copper Immobilization on 3D-Printed Porous Ti6Al4V Scaffold for Angiogenic and Osteogenic Bone Regeneration",
+    "authors": "Wu HY, Lin YH, Lee AK, Kuo TY, Tsai CH, Shie MY.",
+    "year": 2022,
+    "journal": "Cells",
+    "doi": "10.3390/cells11182824",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

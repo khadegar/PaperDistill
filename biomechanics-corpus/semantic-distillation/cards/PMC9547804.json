@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9547804",
+  "paper_id": "doi:10.1007/s10856-022-06697-w",
+  "pmcid": "PMC9547804",
+  "source_record_sha256": "7b68d8d2c81563930eed5f91f1e4e96e2bbf0a98497cd1b842ca292798426b46",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ec342a7e7386751d9285dc6b7dcde4c9b63a64cb067f450870c3fc4c8788835f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Aspirin/PLGA coated 3D-printed Ti-6Al-4V alloy modulate macrophage polarization to enhance osteoblast differentiation and osseointegration",
+    "authors": "You Y, Wang W, Li Y, Song Y, Jiao J, Wang Y, Chen B, Liu J, Qi H, Liang Y.",
+    "year": 2022,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-022-06697-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

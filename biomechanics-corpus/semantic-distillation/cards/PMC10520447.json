@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10520447",
+  "paper_id": "doi:10.1016/j.mtbio.2023.100794",
+  "pmcid": "PMC10520447",
+  "source_record_sha256": "6dd4ed4fabf89bec41f97a3015817b8f1cdf1b24157484c6ecf7b84f78aa404e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "82efa38451e379176705b02f2414e159386afac48c51c10cf890bf904e920a08",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Electrospun sandwich mesh structures loaded with naringenin and vitamin K 2 polycaprolactone/gelatin nanofibers synergistically promote bone regeneration",
+    "authors": "Wang J, Shao L, Wu X, Liu C, Ni S, Dai T, Liu H, Zhao H.",
+    "year": 2023,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2023.100794",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

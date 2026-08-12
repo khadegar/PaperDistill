@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9255806",
+  "paper_id": "doi:10.12336/biomatertransl.2021.03.009",
+  "pmcid": "PMC9255806",
+  "source_record_sha256": "a705840f151d4af53870a746d6aa3dbe862b50a4e9cacf9eba2381a63468f3b4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fa27e6910a105bcb0bd6464d79776077313648b3317a663fec3004e472247573",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preclinical evaluation of acute systemic toxicity of magnesium incorporated poly(lactic-co-glycolic acid) porous scaffolds by three-dimensional printing",
+    "authors": "Long J, Teng B, Zhang W, Li L, Zhang M, Chen Y, Yao Z, Meng X, Wang X, Qin L, Lai Y.",
+    "year": 2021,
+    "journal": "Biomaterials Translational",
+    "doi": "10.12336/biomatertransl.2021.03.009",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9657341",
+  "paper_id": "doi:10.3390/ma15217852",
+  "pmcid": "PMC9657341",
+  "source_record_sha256": "98e992bbf1f8ff425a05cc2503708d488b498a0e8745f5a2bd2bd3c8dee7819a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c97e79570265837d40cc3491f0d140d564599809e78f3796f505e204786a2991",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Modelling for Tooth Survival Studies: Mechanical Properties, Loads and Boundary Conditions—A Narrative Review",
+    "authors": "Dorado S, Arias A, Jimenez-Octavio JR.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15217852",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

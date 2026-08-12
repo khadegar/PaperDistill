@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9207277",
+  "paper_id": "doi:10.3389/fbioe.2022.905511",
+  "pmcid": "PMC9207277",
+  "source_record_sha256": "4ad2a10b29796b54a254bc1b281f00dc64edd4c1bd23ff7b358964d152b09d81",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1e8619b6af1a6931242aeccb352118da7895394237fc1a2884c114fc277aec93",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Study on Exosomes Promoting the Osteogenic Differentiation of ADSCs in Graphene Porous Titanium Alloy Scaffolds",
+    "authors": "Sun X, Yang S, Tong S, Guo S.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.905511",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

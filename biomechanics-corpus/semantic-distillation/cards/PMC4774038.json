@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4774038",
+  "paper_id": "doi:10.1186/s40001-016-0203-3",
+  "pmcid": "PMC4774038",
+  "source_record_sha256": "c5a803480853f21d15a3e7bd3a1de5f939fb935b1a99939f07beebc164bfb26c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "57544b61b13757dbbca337a03c28e3a6dc0f9eea38ef049196817a55df914707",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Total hip arthroplasty-related osteogenic osteosarcoma: case report and review of the literature",
+    "authors": "Kavalar R, Fokter SK, Lamovec J.",
+    "year": 2016,
+    "journal": "European Journal of Medical Research",
+    "doi": "10.1186/s40001-016-0203-3",
+    "publication_type": "Review; Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

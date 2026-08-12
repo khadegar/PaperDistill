@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7733615",
+  "paper_id": "doi:10.1186/s12891-020-03853-7",
+  "pmcid": "PMC7733615",
+  "source_record_sha256": "3009592d2bcb41eab307b52d15c6b197acc0442dd8d447327630b77e738275e6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "39d87d7fb973a2b8c4659a2b179d99fe0f9059fdf4c1191e6ec8b24a2240e080",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of the proximal screws of buttress plates on the stability of vertical femoral neck fractures: a finite element analysis",
+    "authors": "Zhan S, Jiang D, Xu J, Ling M, Yang K, Li Y, Jia W, Jia W, Hu H, Zhang C.",
+    "year": 2020,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-020-03853-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

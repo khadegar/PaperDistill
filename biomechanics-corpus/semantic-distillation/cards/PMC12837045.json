@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12837045",
+  "paper_id": "doi:10.1186/s12938-025-01505-2",
+  "pmcid": "PMC12837045",
+  "source_record_sha256": "fcf7d4940dc3b266ec61b3625dc820e9d041884fb4935d70ddcd0af91d6835ca",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f45c7eef836871a88f7ecf8152efa864818b42ef075f8918f8c8ae301a3e73ba",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Research progress of 3D-printed PLGA scaffolds for the treatment of bone defects",
+    "authors": "Yang H, Lu C, Xu B, Shi Y, Xin X, Wang Z, Chen Z, Yang F.",
+    "year": 2025,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-025-01505-2",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

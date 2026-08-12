@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10701929",
+  "paper_id": "doi:10.1186/s13018-023-04413-0",
+  "pmcid": "PMC10701929",
+  "source_record_sha256": "d2e84745914e1d911a28874c96ac5bf0e06a618440792769fc8c97ee4dc99c37",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "22de3d1fe7e048e2f2a3612f5cbd2ffbf79f0ce800e9555e79d89e669cc30723",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of bone mineral density in adolescent idiopathic scoliosis using a three-dimensional finite element model: a retrospective study",
+    "authors": "Han C, Zhou C, Zhang H, Yin P, Guo R, Wang W, Zhang Y, Cha T, Li G, Hai Y.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-04413-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

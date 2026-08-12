@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5848935",
+  "paper_id": "doi:10.3390/ma11020238",
+  "pmcid": "PMC5848935",
+  "source_record_sha256": "80a5e62e1c3bf9bf9259d4ab38990fbe2a6797a57f275e5dfc436a339c3300d8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a0fa60baf0d3f5b834210e2cdf2a0557ce79d2ef6f14423859488d16d38fd3a3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vivo Evaluation of 3D-Printed Polycaprolactone Scaffold Implantation Combined with β-TCP Powder for Alveolar Bone Augmentation in a Beagle Defect Model",
+    "authors": "Park SA, Lee HJ, Kim KS, Lee SJ, Lee JT, Kim SY, Chang NH, Park SY.",
+    "year": 2018,
+    "journal": "Materials",
+    "doi": "10.3390/ma11020238",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

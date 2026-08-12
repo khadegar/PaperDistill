@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8640548",
+  "paper_id": "doi:10.1016/j.bj.2020.05.011",
+  "pmcid": "PMC8640548",
+  "source_record_sha256": "35736b35618de3294058236b81ba4a11df9efbc11f1b46ce89d79760e0f74c3c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2bd5b022131c5c8b63a94cef671d174c83bf6035de87bf0eaedb869c271e060a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Grafted bone remodeling following transcrestal sinus floor elevation: A cone-beam computed tomography study",
+    "authors": "Kuo PY, Lin CY, Chang CC, Wang YM, Pan WL.",
+    "year": 2021,
+    "journal": "Biomedical Journal",
+    "doi": "10.1016/j.bj.2020.05.011",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

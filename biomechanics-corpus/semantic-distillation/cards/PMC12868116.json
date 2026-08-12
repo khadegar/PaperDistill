@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12868116",
+  "paper_id": "doi:10.4055/cios24492",
+  "pmcid": "PMC12868116",
+  "source_record_sha256": "0ad7fd825be6d1040b28bb856358c16b98eb2cb547b96c2f84cb7753c3d157ad",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "05fac99d3f47b32ee92343293de75143874e8e7866d98bc871fdcde2b706b7ae",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical Performance of Monoaxial Versus Polyaxial Locked Plates for Bone Fracture Repair: A Review",
+    "authors": "Zdero R, Schemitsch EH, Brzozowski P, Bagheri ZS.",
+    "year": 2025,
+    "journal": "Clinics in Orthopedic Surgery",
+    "doi": "10.4055/cios24492",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

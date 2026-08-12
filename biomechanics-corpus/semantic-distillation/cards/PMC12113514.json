@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12113514",
+  "paper_id": "doi:10.3390/jpm15050186",
+  "pmcid": "PMC12113514",
+  "source_record_sha256": "97cbaab825cef1f6b7d21200e4f1b8366297cb9cbe4f0444fd7bacfcac36f8a4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "79e793c6975688a4c6b9d1866e49f651e562a417d4d09a3a119f8837734f21ff",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Accuracy of Patient-Specific Osteosynthesis in Bimaxillary Surgery: Comparative Feasibility Analysis of Four- and Two-Miniplate Fixation",
+    "authors": "van der Wel H, Glas H, Jansma J, Schepers R.",
+    "year": 2025,
+    "journal": "Journal of Personalized Medicine",
+    "doi": "10.3390/jpm15050186",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

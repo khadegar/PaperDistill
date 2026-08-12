@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9606273",
+  "paper_id": "doi:10.1038/s41598-022-22678-z",
+  "pmcid": "PMC9606273",
+  "source_record_sha256": "4cf1054968a2b76979353b6a7c1af80e10daa93e8dc75bc186365fea6bf0c6c2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "467caca4378a752788b65b460191fd99c5d6a399cd298c985f0e042d5a2dff72",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical observation of diminished bone quality and quantity through longitudinal HR-pQCT-derived remodeling and mechanoregulation",
+    "authors": "Collins CJ, Atkins PR, Ohs N, Blauth M, Lippuner K, Müller R.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-22678-z",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

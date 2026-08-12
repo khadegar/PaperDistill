@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12470917",
+  "paper_id": "doi:10.3390/jfb16090350",
+  "pmcid": "PMC12470917",
+  "source_record_sha256": "319883a86edca9571622503ffbcca9d8c2acb4ded208132ab20bdd4008bf5ce9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a53621959837fb91b056236967d5004a22eac9181c6d1e04dff68d36192dd0ab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Data-Driven Design and Additive Manufacturing of Patient-Specific Lattice Titanium Scaffolds for Mandibular Bone Reconstruction",
+    "authors": "Beisekenov N, Azamatov B, Sadenova M, Dogadkin D, Kaliyev D, Rudenko S, Syrnev B.",
+    "year": 2025,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb16090350",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

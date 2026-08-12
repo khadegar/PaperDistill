@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10130629",
+  "paper_id": "doi:10.1016/j.bioactmat.2023.03.021",
+  "pmcid": "PMC10130629",
+  "source_record_sha256": "80f08f4c73384e525b4fd725225aa21cc9e0c6c504909a10ee2ce6fb40a3ba03",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "60446b1218bb9efa7be006de48d47c65fe7003f26c733a317424b7170fd24fea",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed scaffolds with 2D hetero-nanostructures and immunomodulatory cytokines provide pro-healing microenvironment for enhanced bone regeneration",
+    "authors": "Liu X, Gaihre B, Park S, Li L, Dashtdar B, Astudillo Potes MD, Terzic A, Elder BD, Lu L.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2023.03.021",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

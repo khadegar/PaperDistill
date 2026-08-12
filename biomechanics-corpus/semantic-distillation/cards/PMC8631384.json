@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8631384",
+  "paper_id": "doi:10.1097/gox.0000000000003885",
+  "pmcid": "PMC8631384",
+  "source_record_sha256": "3efb3ef4063c93352c8dc0087b841e86418ce5508d7b54848be3adc1e4dadcd1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9861d02c6a5ae5cd1fb92525c6fbe881f5a3b9b97536ac58040f9ffaff58ac4d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Custom 3D-printed Titanium Implant for Reconstruction of a Composite Chest and Abdominal Wall Defect",
+    "authors": "Danker SJ, Mericli AF, Rice DC, Santos DA, Butler CE.",
+    "year": 2021,
+    "journal": "Plastic and Reconstructive Surgery Global Open",
+    "doi": "10.1097/gox.0000000000003885",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

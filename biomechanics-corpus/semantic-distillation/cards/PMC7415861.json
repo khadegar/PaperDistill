@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7415861",
+  "paper_id": "doi:10.18063/ijb.v6i2.274",
+  "pmcid": "PMC7415861",
+  "source_record_sha256": "06bf7616bd53c0612db887728a4ada84fc8dbb8367858b9b9c9799641a3aabe0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ff220a5302c1f10464e38fbf6c5d0e2fd693fa255428f584649ea87a16a22137",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed Biomimetic Bioactive Glass Scaffolds for Bone Regeneration in Rat Calvarial Defects",
+    "authors": "Kolan KCR, Huang YW, Semon JA, Leu MC.",
+    "year": 2020,
+    "journal": "International Journal of Bioprinting",
+    "doi": "10.18063/ijb.v6i2.274",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

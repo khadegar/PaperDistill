@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9267130",
+  "paper_id": "doi:10.3390/jcm11133591",
+  "pmcid": "PMC9267130",
+  "source_record_sha256": "54a48c4c5818db56b9601eb9b240c377e9573aab1cec92da19bf2856b40b32dc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b1c0fa01c37f4aa7ddfc7d8b8023e3ae90fe4a82506ca1c103c485d0336d6c7a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Microtia Ear Reconstruction with Patient-Specific 3D Models—A Segmentation Protocol",
+    "authors": "Rodríguez-Arias JP, Gutiérrez Venturini A, Pampín Martínez MM, Gómez García E, Muñoz Caro JM, San Basilio M, Martín Pérez M, Cebrián Carretero JL.",
+    "year": 2022,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm11133591",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

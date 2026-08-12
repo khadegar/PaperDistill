@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10465552",
+  "paper_id": "doi:10.1038/s41598-023-41226-x",
+  "pmcid": "PMC10465552",
+  "source_record_sha256": "d6729da0fe7d85ba91feae59656678c6014edd1fcccb3428cdf0dd8b2ec6d885",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b440c1cd933c05eceba4488aa8d80a0b4264cb887e4ddc2853ac3736a1b4f9be",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Improving physio-mechanical and biological properties of 3D-printed PLA scaffolds via in-situ argon cold plasma treatment",
+    "authors": "Zarei M, Sayedain SS, Askarinya A, Sabbaghi M, Alizadeh R.",
+    "year": 2023,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-023-41226-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

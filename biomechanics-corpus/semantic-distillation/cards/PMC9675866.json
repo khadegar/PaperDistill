@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9675866",
+  "paper_id": "doi:10.1038/s41598-022-24275-6",
+  "pmcid": "PMC9675866",
+  "source_record_sha256": "c16139cebb41d42d24c0cb7f44c72660272d007f19076aa819f1a70aaa7967a8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d780b013d7fd0d4ccc77a65012e31d35b98fc176a57a665f34b1bafe89869408",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Melt electrowriting of PLA, PCL, and composite PLA/PCL scaffolds for tissue engineering application",
+    "authors": "Shahverdi M, Seifi S, Akbari A, Mohammadi K, Shamloo A, Movahhedy MR.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-24275-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

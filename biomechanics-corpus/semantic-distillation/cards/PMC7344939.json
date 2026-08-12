@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7344939",
+  "paper_id": "doi:10.3390/ma13122747",
+  "pmcid": "PMC7344939",
+  "source_record_sha256": "c05034d9838787117376e072f740a41e6cec19476dabfbb3b3767efbbaa1520a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "844658360c59ea424acbbe025081326c2b9ce36e09fb1616b16aec62c9ded242",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Highly Effective Fibrin Biopolymer Scaffold for Stem Cells Upgrading Bone Regeneration",
+    "authors": "Creste CFZ, Orsi PR, Landim-Alvarenga FC, Justulin LA, Golim MA, Barraviera B, Ferreira RS.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13122747",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

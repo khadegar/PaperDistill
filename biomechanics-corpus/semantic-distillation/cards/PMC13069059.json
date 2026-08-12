@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13069059",
+  "paper_id": "doi:10.1007/s44445-026-00122-6",
+  "pmcid": "PMC13069059",
+  "source_record_sha256": "7e54e08ef75c6eac3a0f8240c02167521b7a168cd2eaa06548199b6554f0d098",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5b3dae2fafb01983d9af5e18f4fd78ea4511bc537805228c5803afc72cdc6b21",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical and biomechanical determinants of immediate, early, progressive, and delayed implant loading: A comprehensive narrative review",
+    "authors": "Kishen A, Murthy V, Devi L, Jayachandran B, Sadish, S S.",
+    "year": 2026,
+    "journal": "The Saudi Dental Journal",
+    "doi": "10.1007/s44445-026-00122-6",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

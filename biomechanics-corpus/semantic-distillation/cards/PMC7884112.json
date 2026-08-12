@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7884112",
+  "paper_id": "doi:10.1155/2021/3948638",
+  "pmcid": "PMC7884112",
+  "source_record_sha256": "59e7c8ffa629d665d3aae0874a39d6e2b9ca874e61efae77d4d8e85511515a48",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5aab0cd8e4f0175b0ade2cf2291b7730ee4a0f62340477de0cc401186905077a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of 3D Printing-Assisted Articulating Spacer in Two-Stage Revision Surgery for Periprosthetic Infection after Total Knee Arthroplasty: A Retrospective Observational Study",
+    "authors": "Kong L, Mei J, Ge W, Jin X, Chen X, Zhang X, Zhu C.",
+    "year": 2021,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2021/3948638",
+    "publication_type": "research-article; Journal Article; Observational Study",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

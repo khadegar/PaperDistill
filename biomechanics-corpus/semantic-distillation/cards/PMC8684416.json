@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8684416",
+  "paper_id": "doi:10.2147/orr.s339222",
+  "pmcid": "PMC8684416",
+  "source_record_sha256": "1f2a6d53ca49919a23ed411fe74c72668daecf10281a77cdf46105b355874afd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8a5d74c17d9f2c418686e30ce366c951c3dcca71696c9465d45753b5abb0d786",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Improving the Management of Patients with Osteoporosis Undergoing Spinal Fusion: The Need for a Bone Mineral Density-Matched Interbody Cage",
+    "authors": "Falowski SM, Koga SF, Northcutt T, Garamszegi L, Leasure J, Block JE.",
+    "year": 2021,
+    "journal": "Orthopedic Research and Reviews",
+    "doi": "10.2147/orr.s339222",
+    "publication_type": "discussion; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

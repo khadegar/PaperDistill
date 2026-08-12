@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10300446",
+  "paper_id": "doi:10.3389/fbioe.2023.1219460",
+  "pmcid": "PMC10300446",
+  "source_record_sha256": "b8ce3d62e22cd1566e63986158241c77819efa1b9f78f83b2ee7f8e73857ee1d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9099b6a84bf872766355c84a838672a2d5601bdaa77250ab2a6a6b1e2144c35d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Injectable antibacterial Ag-HA/ GelMA hydrogel for bone tissue engineering",
+    "authors": "Wang J, Wang X, Liang Z, Lan W, Wei Y, Hu Y, Wang L, Lei Q, Huang D.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1219460",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

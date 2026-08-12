@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11893581",
+  "paper_id": "doi:10.3389/fbioe.2025.1546656",
+  "pmcid": "PMC11893581",
+  "source_record_sha256": "4f2627bba4f1c79ed20c7a347544b60b73caf9e14e4caf07700a92d934ba2772",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cd664e20f13ad9afd2c93d87d38aa8328f0096642ccab9a43d10752284dd6420",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical analysis of maxillary posterior three unit bridge supported misial straight implant and distal tilted implant",
+    "authors": "Liu G, Deng S, Chen X, Lin J, Liu R.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1546656",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8056181",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.03.030",
+  "pmcid": "PMC8056181",
+  "source_record_sha256": "28097e200190616d1dac17c84ce4a89afa076962e458a1edfa05864133f5e876",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0e011e8addc1deaf74de6978e49b11e1090af7df1a274207388a5e857276960c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional-printed individualized porous implants: A new “implant-bone” interface fusion concept for large bone defect treatment",
+    "authors": "Zhang T, Wei Q, Zhou H, Jing Z, Liu X, Zheng Y, Cai H, Wei F, Jiang L, Yu M, Cheng Y, Fan D, Zhou W, Lin X, Leng H, Li J, Li X, Wang C, Tian Y, Liu Z.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.03.030",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7664887",
+  "paper_id": "doi:10.3390/ma13215046",
+  "pmcid": "PMC7664887",
+  "source_record_sha256": "b17e1e09e59c6bcc4620d40ce8e150ae95188241e3d12f8dfe9b38810e4f026f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8e926d7584709f3d907d3bf7bee7a63665f1e947d44206885d3bde2f48d0aaf5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Functionally Graded Scaffolds with Programmable Pore Size Distribution Based on Triply Periodic Minimal Surface Fabricated by Selective Laser Melting",
+    "authors": "Zhou X, Jin Y, Du J.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13215046",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

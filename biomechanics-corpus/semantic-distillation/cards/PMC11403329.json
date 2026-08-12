@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11403329",
+  "paper_id": "doi:10.3389/fbioe.2024.1439262",
+  "pmcid": "PMC11403329",
+  "source_record_sha256": "fd5b290ba9237466b6b29f2153d57a85a1e99d407f0727c504cc3a029dd22fa4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4053fe3429eb0f79c04a87551ae0bb1a887c2db7987df4ef740f557e450e18dc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of surface texturing and coatings on mechanical properties and integration with bone tissue: an in silico study",
+    "authors": "Alshadidi AAF, Dommeti VK, Aldosari LIN, Hassan SAB, Okshah A, Merdji A, Roy S.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1439262",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

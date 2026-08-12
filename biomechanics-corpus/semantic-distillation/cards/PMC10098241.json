@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10098241",
+  "paper_id": "doi:10.1007/s12663-023-01914-7",
+  "pmcid": "PMC10098241",
+  "source_record_sha256": "dd9b1917d2a16dd17e783e6ca4789ffb98a1f42af62212a7ee8fc58dc01b3f64",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0156f5898d569394d6a45a603ef6c61d53d9ae711ba48bda679990266ccb73ee",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stress Distribution of the Zygomatic Implants in Post-mucormycosis Case: A Finite Element Analysis",
+    "authors": "Rathod DK, Chakravarthy C, Suryadevara SS, Patil RS, Wagdargi SS.",
+    "year": 2023,
+    "journal": "Journal of Maxillofacial & Oral Surgery",
+    "doi": "10.1007/s12663-023-01914-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

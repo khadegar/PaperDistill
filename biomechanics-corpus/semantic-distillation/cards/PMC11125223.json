@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11125223",
+  "paper_id": "doi:10.3390/polym16101389",
+  "pmcid": "PMC11125223",
+  "source_record_sha256": "19a2a918bd9dd9bd9d8038ca3ba207049bb7f3533d96be756ce92c40c8798f0c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d4424293d6e79f54b6147ab6a5c2cd556683b6ca032218a243e0d3f4f9db2e18",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed Polycaprolactone-Based Containing Calcium Zirconium Silicate: Bioactive Scaffold for Accelerating Bone Regeneration",
+    "authors": "Emadi H, Baghani M, Masoudi Rad M, Hoomehr B, Baniassadi M, Lotfian S.",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16101389",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

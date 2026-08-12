@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3127015",
+  "paper_id": "doi:10.1007/s10439-011-0307-4",
+  "pmcid": "PMC3127015",
+  "source_record_sha256": "33812eeb2c1482182bddd8b275b99fc41262578a16c3c2c389dc4fe6efb9afb2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4ccb6bcbed9129342bdce1e717a52404d149afe9485ac642e12ebfcbc5f9107b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Degradation, Bioactivity, and Osteogenic Potential of Composites Made of PLGA and Two Different Sol–Gel Bioactive Glasses",
+    "authors": "Pamula E, Kokoszka J, Cholewa-Kowalska K, Laczka M, Kantor L, Niedzwiedzki L, Reilly GC, Filipowska J, Madej W, Kolodziejczyk M, Tylko G, Osyczka AM.",
+    "year": 2011,
+    "journal": "Annals of Biomedical Engineering",
+    "doi": "10.1007/s10439-011-0307-4",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

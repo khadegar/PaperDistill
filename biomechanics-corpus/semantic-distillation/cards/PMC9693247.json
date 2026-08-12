@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9693247",
+  "paper_id": "doi:10.3390/ma15227928",
+  "pmcid": "PMC9693247",
+  "source_record_sha256": "ac1f74bdff99624542d8552b90abd3fe931cef830242ac2c1609b0a714adafd1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "30a06352715fe7830022ac27e7799d4207a2dfe657b1176731be955c2e76a783",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and Fabrication of Mature Engineered Pre-Cardiac Tissue Utilizing 3D Bioprinting Technology and Enzymatically Crosslinking Hydrogel",
+    "authors": "Iwanaga S, Hamada Y, Tsukamoto Y, Arai K, Kurooka T, Sakai S, Nakamura M.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15227928",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

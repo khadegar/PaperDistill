@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10701996",
+  "paper_id": "doi:10.1186/s12903-023-03612-9",
+  "pmcid": "PMC10701996",
+  "source_record_sha256": "d5951bc51e6b6e1b870cb4e7fed0ae38344d0305938320f4aa6a1180ffbffc9c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1107b5c8895281907d54c9658f81ae538039f359f0aa9f9d928ed98d4367942b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of root canal treatment and post-crown restorations on stress distribution in teeth with periapical periodontitis: a finite element analysis",
+    "authors": "Chen S, Hong X, Ye Z, Wu M, Chen L, Wu L, Wang Y, Chen Y, Wu J, Wang J, Zhang Q, Wu Y, Sun X, Ding X, Huang S, Zhao S.",
+    "year": 2023,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-023-03612-9",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

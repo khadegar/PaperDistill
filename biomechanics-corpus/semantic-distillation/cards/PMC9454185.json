@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9454185",
+  "paper_id": "doi:10.1186/s12891-022-05805-9",
+  "pmcid": "PMC9454185",
+  "source_record_sha256": "28cea1447d1a9c41727c933d5ed89b86bf2e66a339e5d202eb2bef662dc11b8b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a65100051836e40ce8eed2215d6904016004e141cfcd75cb3f4e413f21966555",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hip reconstruction using a customized intercalary prosthesis with the rhino horn-designed uncemented stem for ultrashort proximal femur segments following tumor resection: a combined biomechanical and clinical study",
+    "authors": "Hu X, Lu M, He X, Li L, Lin J, Zhou Y, Luo Y, Min L, Tu C.",
+    "year": 2022,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-022-05805-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

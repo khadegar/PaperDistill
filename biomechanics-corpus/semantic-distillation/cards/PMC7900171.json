@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7900171",
+  "paper_id": "doi:10.1038/s41598-021-83700-4",
+  "pmcid": "PMC7900171",
+  "source_record_sha256": "75b807696279c75f4e69f5e45f3816080e4433476a5c7edf21a809f95fff98c8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8789a7e7d25cd74047604b97b72945466272d65b3f3e5e94e0151a6c3515207c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osseointegration of a novel dental implant in canine",
+    "authors": "Wang L, Gao Z, Su Y, Liu Q, Ge Y, Shan Z.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-83700-4",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

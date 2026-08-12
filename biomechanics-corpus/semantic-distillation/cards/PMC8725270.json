@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8725270",
+  "paper_id": "doi:10.1186/s12891-021-04917-y",
+  "pmcid": "PMC8725270",
+  "source_record_sha256": "6a7a6d21c0a6c747741ab5b8ea0c378c160c18c83539f0022de3c74cb181d6ee",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9e139ad21590fdd5e078123d5cc398879ff5bd61355082369446b74091c45b31",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Parathyroid hormone enhances gap healing and osseointegration in orthopedic porous coated titanium implants: a correlative micro-computed tomographic, histomorphometric and biomechanical analysis",
+    "authors": "Gao X, Meng Y, Hao D, Liu H.",
+    "year": 2022,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-021-04917-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

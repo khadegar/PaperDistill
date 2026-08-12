@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12447032",
+  "paper_id": "doi:10.1002/adhm.202404817",
+  "pmcid": "PMC12447032",
+  "source_record_sha256": "869178cb6f512a2afea85b17dcea1da433c4599c87786c319abed774488f13b5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "50191a01bbb8245d83fa326bbb9dc91e7be83dd2414be14c6194cfeb4d118965",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D‐Printed Scaffolds Promote Enhanced Spinal Organoid Formation for Use in Spinal Cord Injury",
+    "authors": "Han G, Lavoie NS, Patil N, Korenfeld OG, Kim H, Esguerra M, Joung D, McAlpine MC, Parr AM.",
+    "year": 2025,
+    "journal": "Advanced Healthcare Materials",
+    "doi": "10.1002/adhm.202404817",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

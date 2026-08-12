@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11051524",
+  "paper_id": "doi:10.3390/jfb15040101",
+  "pmcid": "PMC11051524",
+  "source_record_sha256": "7ceb184a8da24f643f0356eb4fe5531d945fe36f9c6974b57f1c0072be32512b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "966ab73c772724ef7350133bfa37c7af77fabda7e4bb0c96aabcadf0be60bc8f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Effects of Ti-Base Abutment Height on the Dental Implant System: A Finite Element Analysis",
+    "authors": "Beltrán-Guijarro M, Pérez-Pevida E, Chávarri-Prado D, Estrada-Martínez A, Diéguez-Pereira M, Sánchez-Lasheras F, Brizuela-Velasco A.",
+    "year": 2024,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb15040101",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

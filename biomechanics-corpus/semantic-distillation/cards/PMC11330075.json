@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11330075",
+  "paper_id": "doi:10.1186/s10020-024-00893-w",
+  "pmcid": "PMC11330075",
+  "source_record_sha256": "9c3660ff68040f3480a1a8b72eca842aa21adf070ba02efe391b1ba1475614bd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "43fb152a33aa0be2b2e5dbb572d1c859d55363106f9708e3ccf909c06e27e679",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Epimedin A inhibits the PI3K/AKT/NF-κB signalling axis and osteoclast differentiation by negatively regulating TRAF6 expression",
+    "authors": "Li J, Wei JJ, Wu CH, Zou T, Zhao H, Huo TQ, Wei CJ, Yang T.",
+    "year": 2024,
+    "journal": "Molecular Medicine",
+    "doi": "10.1186/s10020-024-00893-w",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

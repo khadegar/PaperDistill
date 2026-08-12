@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13081350",
+  "paper_id": "doi:10.1186/s12880-026-02296-1",
+  "pmcid": "PMC13081350",
+  "source_record_sha256": "9e9a7ad3e1ddd56145da98ec50164f8392b06dd334f2fce0061910b7e273dd9b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e766026cdb9281b1b369dd5d675ad7ce98cef1946d8ea788b5dd0b0e3c6a8f85",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigation of the effect of obesity on trabecular and cortical bone structure in the peri-implant region using fractal analysis and radiomorphometric indices",
+    "authors": "Beder M, Korkmaz MZ, Naralan ME, Keskin M.",
+    "year": 2026,
+    "journal": "BMC Medical Imaging",
+    "doi": "10.1186/s12880-026-02296-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

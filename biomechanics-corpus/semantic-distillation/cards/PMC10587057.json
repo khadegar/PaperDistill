@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10587057",
+  "paper_id": "doi:10.1038/s41467-023-42415-y",
+  "pmcid": "PMC10587057",
+  "source_record_sha256": "f0081b20232addb01013f64ecbebd1466eff1c0e7c55de52da1153cfbc865404",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0d35e932ffaceaca38852cd2eff557f6a177c3111de5a9267cb4fe8c84f57f6d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Machine learning-enabled constrained multi-objective design of architected materials",
+    "authors": "Peng B, Wei Y, Qin Y, Dai J, Li Y, Liu A, Tian Y, Han L, Zheng Y, Wen P.",
+    "year": 2023,
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-023-42415-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

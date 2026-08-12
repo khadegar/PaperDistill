@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8317600",
+  "paper_id": "doi:10.3389/fbioe.2021.680769",
+  "pmcid": "PMC8317600",
+  "source_record_sha256": "d679fd107ffef3a6c2ba71c372c9769ad1cfdec2ccae132fb66f57769d62d50c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cd4e9c824a57a42851bb8552ae261d9ba3631a58ba48648470dc65c13ac15843",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis of Cervical Artificial Disc Replacement Using Cervical Subtotal Discectomy Prosthesis",
+    "authors": "Wo J, Lv Z, Wang J, Shen K, Zhu H, Liu Y, Huang Y, Sun G, Li Z.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.680769",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

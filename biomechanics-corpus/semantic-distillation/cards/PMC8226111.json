@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8226111",
+  "paper_id": "doi:10.1093/rb/rbab021",
+  "pmcid": "PMC8226111",
+  "source_record_sha256": "d688ab655b3bb72ee312bd0a2bf52a461fbd8427c82ac91facaba38c1fa5a4c5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4766e660c35044e46c64683b2362f76cd77fe6ae81c2e7e5a5279d696982a00c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Microarchitecture of titanium cylinders obtained by additive manufacturing does not influence osseointegration in the sheep",
+    "authors": "Rony L, Aguado E, Verlee B, Pascaretti-Grizon F, Chappard D.",
+    "year": 2021,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbab021",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9739263",
+  "paper_id": "doi:10.3390/ma15238662",
+  "pmcid": "PMC9739263",
+  "source_record_sha256": "73f67a254de3fedb94eae962d5d8113451e7f0479b5ef15de462f2fa87d7ff09",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a4975a3bf3ccafd494efbcbc7f4e071cc95ebf685cafb41749113fa7bbcb93a8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Biomechanical Impact of Loss of an Implant in the Treatment with Mandibular Overdentures on Four Nonsplinted Mini Dental Implants: A Finite Element Analysis",
+    "authors": "Teodorescu C, Preoteasa E, Preoteasa CT, Murariu-Măgureanu C, Teodorescu IM.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15238662",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

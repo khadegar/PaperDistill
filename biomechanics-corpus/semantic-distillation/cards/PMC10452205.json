@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10452205",
+  "paper_id": "doi:10.3390/biomimetics8040336",
+  "pmcid": "PMC10452205",
+  "source_record_sha256": "453a560924600dfe37f890c647e4ad25f7f806a9fe80df6a1ccd88019a06f04d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "94711c9fc91faf0066b41383e6aa8722adc4fce1e22f502b5621e28a8abc3620",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis (FEA) of a Premaxillary Device: A New Type of Subperiosteal Implant to Treat Severe Atrophy of the Maxilla",
+    "authors": "Cipollina A, Ceddia M, Di Pietro N, Inchingolo F, Tumedei M, Romasco T, Piattelli A, Specchiulli A, Trentadue B.",
+    "year": 2023,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics8040336",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

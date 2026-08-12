@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9579782",
+  "paper_id": "doi:10.1016/j.jot.2022.07.013",
+  "pmcid": "PMC9579782",
+  "source_record_sha256": "614fbda3df72c8f2897e8e323757cdb83d40607faea7010348d2cd1db7751bce",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8f6b4d5c0b9a1ba1b88d069f5f7bd7157847fbdf9f81d2af639c0eb6c4506933",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dynamic finite element analyses to compare the influences of customised total talar replacement and total ankle arthroplasty on foot biomechanics during gait",
+    "authors": "Chen TL, Wang Y, Peng Y, Zhang G, Hong TT, Zhang M.",
+    "year": 2022,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2022.07.013",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

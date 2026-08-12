@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7574441",
+  "paper_id": "doi:10.1186/s13005-020-00236-0",
+  "pmcid": "PMC7574441",
+  "source_record_sha256": "81803d07235dfc3edfd13b9266380fde59c72597cae3a999fc4a4f6744f0c742",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "738e285fd6b0aa60a6a2f3bdc4579d10914e81059691f96ed27937c6e2b7a424",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of type p condylar head osteosynthesis using conventional small-fragment screws reinforced by a patient specific two-component plate",
+    "authors": "Pavlychuk T, Chernogorskyi D, Chepurnyi Y, Neff A, Kopchak A.",
+    "year": 2020,
+    "journal": "Head & Face Medicine",
+    "doi": "10.1186/s13005-020-00236-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

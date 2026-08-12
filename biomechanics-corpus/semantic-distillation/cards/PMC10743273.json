@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10743273",
+  "paper_id": "doi:10.3390/ijms242417139",
+  "pmcid": "PMC10743273",
+  "source_record_sha256": "1aac35e54903c351f96f22b66013ffb760dc0bc819661ad0db5ade4cfebf0650",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d1b9f4d8d13d3baf337c7422afd330f192dfec9dca9942ab0d57a6851cdaa2b9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Importance of Metalloproteinase Enzyme Group in Selected Skeletal System Diseases",
+    "authors": "Kulesza M, Kicman A, Motyka J, Guszczyn T, Ławicki S.",
+    "year": 2023,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms242417139",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

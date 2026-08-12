@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13229771",
+  "paper_id": "doi:10.3389/fimmu.2026.1856086",
+  "pmcid": "PMC13229771",
+  "source_record_sha256": "080e7d91737734926eacb1226f4359d006564bcdc35369a551f8729ccf7492e0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "421f79d17f9e46db833b6c12660240077ede5c6b79881c73bcb70654074973fe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomaterial physicochemical properties govern immune activation and bone regeneration: a titanium-focused design-oriented osteoimmunological framework",
+    "authors": "Mierzejewska ŻA, Borys J, Woźniak Ł, Lechien JR, Vaira LA, Łukaszuk K, Antonowicz B.",
+    "year": 2026,
+    "journal": "Frontiers in Immunology",
+    "doi": "10.3389/fimmu.2026.1856086",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

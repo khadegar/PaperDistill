@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5368973",
+  "paper_id": "doi:10.1038/srep45360",
+  "pmcid": "PMC5368973",
+  "source_record_sha256": "77da84f1b577f71c1850ca2f4048443233b8206f8a1cc727a837f36d24b493f5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "68d19b8c3f0b7fbc7e8915c982c23429d996efc4be39ba6fc6587ddda8020218",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Laser beam melting 3D printing of Ti6Al4V based porous structured dental implants: fabrication, biocompatibility analysis and photoelastic study",
+    "authors": "Yang F, Chen C, Zhou Q, Gong Y, Li R, Li C, Klämpfl F, Freund S, Wu X, Sun Y, Li X, Schmidt M, Ma D, Yu Y.",
+    "year": 2017,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep45360",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

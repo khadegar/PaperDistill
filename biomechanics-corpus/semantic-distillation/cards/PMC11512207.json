@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11512207",
+  "paper_id": "doi:10.1002/jeo2.70053",
+  "pmcid": "PMC11512207",
+  "source_record_sha256": "c209b2e53994efedd5156b6041c9b6c01c150c671b2a0c3e96157477f6132fc6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8c5635c48f3b289513fe2067993ac18c116e04a119dafac84e27a160cf23990c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of design and surgical parameters variations in mobile‐bearing versus fixed‐bearing unicompartmental knee arthroplasty: A finite element analysis",
+    "authors": "Luyckx T, Bori E, Saldari R, Fiore S, Altamore V, Innocenti B.",
+    "year": 2024,
+    "journal": "Journal of Experimental Orthopaedics",
+    "doi": "10.1002/jeo2.70053",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

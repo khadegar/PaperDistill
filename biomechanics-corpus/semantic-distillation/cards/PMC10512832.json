@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10512832",
+  "paper_id": "doi:10.3389/fbioe.2023.1241151",
+  "pmcid": "PMC10512832",
+  "source_record_sha256": "22d5e0caa9d246284886bc7697f0816b6c74ea292b9fe63ed3a21523def1ac3c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a62c7e48fb3fa50567fbfbd7ed1d34922f0d6e2ff36904d4e9d1f4026deb18e9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Inverse design of anisotropic bone scaffold based on machine learning and regenerative genetic algorithm",
+    "authors": "Liu W, Zhang Y, Lyu Y, Bosiakov S, Liu Y.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1241151",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

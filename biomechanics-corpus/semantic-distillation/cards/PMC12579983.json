@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12579983",
+  "paper_id": "doi:10.1093/bjro/tzaf025",
+  "pmcid": "PMC12579983",
+  "source_record_sha256": "f2f69f13f7c9e654579d1ddf54e95f97695f480e1df67fdfe87ae34930884289",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a424ab7d475d72d84bc8d106efb637a6082c1564a409464359d50ad98dd2e09e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The role of musculoskeletal radiologists in emergency and trauma settings: current and emerging imaging modalities",
+    "authors": "Ahmad MI, Liu L, Sheikh A, Nicolaou S.",
+    "year": 2025,
+    "journal": "BJR Open",
+    "doi": "10.1093/bjro/tzaf025",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

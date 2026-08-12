@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12660739",
+  "paper_id": "doi:10.1038/s41598-025-26395-1",
+  "pmcid": "PMC12660739",
+  "source_record_sha256": "e7be454825b1ad337f6b53c0e9c290a1e4943625a1ad2b2901cee3b3e6b018b6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "be39748aa567a59868548c4f22ea7b712d672bedc93b43d2d857ba770ff169eb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Heat reduction during bone drilling using a two-stage drilling strategy",
+    "authors": "Chen YC, Hsiao HY, Tu YK, Yen CY, Hong YY, Tsai YJ, Kao YH, Hsiao CK.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-26395-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

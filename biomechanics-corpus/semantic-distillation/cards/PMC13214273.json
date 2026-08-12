@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13214273",
+  "paper_id": "doi:10.1016/j.bioactmat.2026.05.012",
+  "pmcid": "PMC13214273",
+  "source_record_sha256": "2809ac1a0b1882672458feb4b43128c31a7957480b430f8405a339e5f5995424",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2b94d7d7d591afe3be029685b0467169a0468ed8a65845911267fb79fe225e94",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An immuno-chemotherapeutic bone scaffold for tumor eradication and bone regeneration in drug-resistant osteosarcoma",
+    "authors": "Yan Z, He Y, Zeng J, He T, Xu D, Wu X, Zhou H, Tan W, Zang X, Deng Y.",
+    "year": 2026,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2026.05.012",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

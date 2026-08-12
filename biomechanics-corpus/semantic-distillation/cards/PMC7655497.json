@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7655497",
+  "paper_id": "doi:10.1016/j.jgr.2020.05.003",
+  "pmcid": "PMC7655497",
+  "source_record_sha256": "1c79e964f41cffd13505d83318b434246075fe494718b8d7a1a23df2e84bc744",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3c98617098f680d5a58a4b19de71ef47c84481099d9551bedcc3727da4970ea3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone remodeling effects of Korean Red Ginseng extracts for dental implant applications",
+    "authors": "Kang MH, Lee SJ, Lee MH.",
+    "year": 2020,
+    "journal": "Journal of Ginseng Research",
+    "doi": "10.1016/j.jgr.2020.05.003",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

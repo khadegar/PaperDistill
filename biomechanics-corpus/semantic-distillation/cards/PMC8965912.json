@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8965912",
+  "paper_id": "doi:10.1016/j.bioactmat.2022.02.020",
+  "pmcid": "PMC8965912",
+  "source_record_sha256": "2edcdd0dcfd3ac041b60786ab8b066f7daae54547fb176ba497b1eb10cc31b7c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ee98489ae0298a5a7b7d419058f18fe6f8f1d74ef55f9f9feff77fa423fd0da7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biodegradable magnesium alloy WE43 porous scaffolds fabricated by laser powder bed fusion for orthopedic applications: Process optimization, in vitro and in vivo investigation",
+    "authors": "Liu J, Liu B, Min S, Yin B, Peng B, Yu Z, Wang C, Ma X, Wen P, Tian Y, Zheng Y.",
+    "year": 2022,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2022.02.020",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

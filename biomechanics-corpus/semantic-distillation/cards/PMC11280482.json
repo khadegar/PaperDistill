@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11280482",
+  "paper_id": "doi:10.3390/s24144594",
+  "pmcid": "PMC11280482",
+  "source_record_sha256": "c05176597b24e8fb043aa05658afc32abecb0aec4942232410a9063c7f5da7dd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4325d0b963e4823cefc5315d36c2519888b1cdff719a0f58991f8a96beac24e3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Detection of Total Hip Replacement Loosening Based on Structure-Borne Sound: Influence of the Position of the Sensor on the Hip Stem",
+    "authors": "Schumacher N, Geiger F, Spors S, Bader R, Haubelt C, Kluess D.",
+    "year": 2024,
+    "journal": "Sensors (Basel, Switzerland)",
+    "doi": "10.3390/s24144594",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

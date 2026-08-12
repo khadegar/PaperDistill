@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6636153",
+  "paper_id": "doi:10.1186/s13018-019-1269-8",
+  "pmcid": "PMC6636153",
+  "source_record_sha256": "aecbc2f1fffcf15e79808722da8939a32c0a8152c3ea7b745efa5a8beff30cbf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "aa3db963bcc602bbbadc5def57a2a21249fee8860dabc8bdb3a39be076e72b94",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design optimization of high tibial osteotomy plates using finite element analysis for improved biomechanical effect",
+    "authors": "Koh YG, Lee JA, Lee HY, Chun HJ, Kim HJ, Kang KT.",
+    "year": 2019,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-019-1269-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

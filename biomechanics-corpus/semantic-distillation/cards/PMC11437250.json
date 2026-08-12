@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11437250",
+  "paper_id": "doi:10.1016/j.jds.2024.02.018",
+  "pmcid": "PMC11437250",
+  "source_record_sha256": "4815fde71cfebeb0a82cc5c00ec6b8a1b9f9e99922d99a988497cd61eac4590b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9fd17d1fef91cc8a238ae0e471d8617a675489c0aac9bc38e35e488f6a5d163f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Analysis to evaluate novel separable dental implant stability: An experimental study in rabbits",
+    "authors": "Kwon IJ, Jeong JH, Lee SH, Pang K, Kim SM, Kim MY, Kim B, Han JJ, Lee JH.",
+    "year": 2024,
+    "journal": "Journal of Dental Sciences",
+    "doi": "10.1016/j.jds.2024.02.018",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

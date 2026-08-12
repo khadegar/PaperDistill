@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7699499",
+  "paper_id": "doi:10.3390/life10110294",
+  "pmcid": "PMC7699499",
+  "source_record_sha256": "20fc8379baba9076ffba54e51a93b19a6911a40af2cb959a70cc64c66383f561",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fd1af2c381a9cb5754f849b7a27994e959909b062fae6b3904404a79411cebee",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mouthguard Use Effect on the Biomechanical Response of an Ankylosed Maxillary Central Incisor during a Traumatic Impact: A 3-Dimensional Finite Element Analysis",
+    "authors": "Borges ALS, Dal Piva AMO, Concílio LRDS, Paes-Junior TJA, Tribst JPM.",
+    "year": 2020,
+    "journal": "Life",
+    "doi": "10.3390/life10110294",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

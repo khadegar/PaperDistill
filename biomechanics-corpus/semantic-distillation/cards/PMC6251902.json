@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6251902",
+  "paper_id": "doi:10.1038/s41405-018-0004-6",
+  "pmcid": "PMC6251902",
+  "source_record_sha256": "1544534989fbf548b6c2d6349405109405d0d8f82415a32679eb863ff88d9c87",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b71f8fc536e930efc15785cf9e202e9a6e4c7defcbde77f855c10faa7afb212b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Transcriptomic profiling of tantalum metal implant osseointegration in osteopenic patients",
+    "authors": "Hefni EK, Bencharit S, Kim SJ, Byrd KM, Moreli T, Nociti FH, Offenbacher S, Barros SP.",
+    "year": 2018,
+    "journal": "BDJ Open",
+    "doi": "10.1038/s41405-018-0004-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

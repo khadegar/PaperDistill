@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8038213",
+  "paper_id": "doi:10.3390/molecules26072042",
+  "pmcid": "PMC8038213",
+  "source_record_sha256": "9680ae3bdd6b4a3a5238cbf5fb759f6516d902b3b35fc200015df6b33b1c7702",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "10c526f82fc05fea9cccfc796cf5bd4765814fee3059ab9c27cbd0599203720e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Green Synthesis of Silver Nanoparticles Using Extract of Cilembu Sweet Potatoes ( Ipomoea batatas L var. Rancing ) as Potential Filler for 3D Printed Electroactive and Anti-Infection Scaffolds",
+    "authors": "Wibowo A, Tajalla GUN, Marsudi MA, Cooper G, Asri LATW, Liu F, Ardy H, Bartolo PJDS.",
+    "year": 2021,
+    "journal": "Molecules",
+    "doi": "10.3390/molecules26072042",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

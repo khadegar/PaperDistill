@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11222206",
+  "paper_id": "doi:10.1007/s10856-024-06795-x",
+  "pmcid": "PMC11222206",
+  "source_record_sha256": "d3849004bd5d4acf348feba6b1603dd39c74124b3dd2b24a021c9a3254d4fc50",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fa93dea71d007a2723a84a0dc70be4ae4efca5ddfcd43eba536021286c6421e1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vitro and in vivo dissolution of biocompatible S59 glass scaffolds",
+    "authors": "Aalto-Setälä L, Uppstu P, Björkenheim R, Strömberg G, Lindfors NC, Pajarinen J, Hupa L.",
+    "year": 2024,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-024-06795-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

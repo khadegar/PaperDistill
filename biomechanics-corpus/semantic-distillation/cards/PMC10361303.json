@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10361303",
+  "paper_id": "doi:10.1016/j.heliyon.2023.e17105",
+  "pmcid": "PMC10361303",
+  "source_record_sha256": "0cca091f6957702134c3fc4eb41005cc8bd7531e9d733dc41bc99fe640bf2e20",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c79e59c4602cbd085a21f859fec78936b883906901d8fcf60e2cbe6e095a9792",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osseointegration in additive-manufactured titanium implants: A systematic review of animal studies on the need for surface treatment",
+    "authors": "Calazans Neto JV, Reis ACD, Valente MLDC.",
+    "year": 2023,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2023.e17105",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

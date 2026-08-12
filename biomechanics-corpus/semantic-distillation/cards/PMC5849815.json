@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5849815",
+  "paper_id": "doi:10.1002/acm2.12278",
+  "pmcid": "PMC5849815",
+  "source_record_sha256": "36f50446ea71e80c3ddc75d3c8da99c2b02fa01d69755a889f6e6258f04c9546",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0b61bae50774515731d1e51441c7b9bbf28724055a58f752d41d9dccfd7049d4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three‐dimensional printing CT‐derived objects with controllable radiopacity",
+    "authors": "Hamedani BA, Melvin A, Vaheesan K, Gadani S, Pereira K, Hall AF.",
+    "year": 2018,
+    "journal": "Journal of Applied Clinical Medical Physics",
+    "doi": "10.1002/acm2.12278",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

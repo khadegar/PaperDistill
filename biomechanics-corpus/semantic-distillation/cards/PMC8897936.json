@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8897936",
+  "paper_id": "doi:10.1186/s12891-022-05150-x",
+  "pmcid": "PMC8897936",
+  "source_record_sha256": "a1e788182f84895c73288a6a7180af66873b43fa39a1e8436df4d0acbdd5cb30",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7bb380b7ae4e629d15a763803629ad3033a3ca8a975adf18006a48ff2903af38",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Oblique lateral interbody fusion combined with different internal fixations for the treatment of degenerative lumbar spine disease: a finite element analysis",
+    "authors": "Zhang S, Liu Z, Lu C, Zhao L, Feng C, Wang Y, Zhang Y.",
+    "year": 2022,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-022-05150-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12908320",
+  "paper_id": "doi:10.1186/s41065-026-00635-4",
+  "pmcid": "PMC12908320",
+  "source_record_sha256": "5464e8491aad5f332eff4fb3b9625565dd6693efc7026afb5270503d54d1d5cf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3ff7d769f6b3356799dcf9ccadc910b6be49814e80349e407997dcc4de686785",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Efficacy of nano-silver small intestine submucosa repair of osteochondral defect in rabbit model by the AMPK-mTOR-ULK1 pathway",
+    "authors": "Wang HS, Zhang C.",
+    "year": 2026,
+    "journal": "Hereditas",
+    "doi": "10.1186/s41065-026-00635-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

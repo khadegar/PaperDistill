@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8126804",
+  "paper_id": "doi:10.2147/cmar.s307586",
+  "pmcid": "PMC8126804",
+  "source_record_sha256": "d309ed518c196a1ff83bcde22739f46f3fa4ea1fdf1e18a814acd379940df38b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e59ba3fce6e9ff7548d30590da0399ce4e93fbc2f0c47b1d0e138bf47b5f2a5d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Prediction of Risk Factors for Pathological Fracture After Bone Tumor Biopsy Using Finite Element Analysis",
+    "authors": "Iwai T, Hoshi M, Oebisu N, Orita K, Shimatani A, Takada N, Nakamura H.",
+    "year": 2021,
+    "journal": "Cancer Management and Research",
+    "doi": "10.2147/cmar.s307586",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

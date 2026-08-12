@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10176806",
+  "paper_id": "doi:10.1186/s12903-023-02989-x",
+  "pmcid": "PMC10176806",
+  "source_record_sha256": "72399c91bc1e7f6c14ed5b0f34867873be31c0cc508ce93e47bccb0e42ee51e6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "61036c26b16db8f76ee50c80dcd1654dd923aca130bf375d731f62591235f7aa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of a new abutment design concept on the biomechanics of peri-implant bone, implant components, and microgap formation: a finite element analysis",
+    "authors": "Nie H, Tang Y, Yang Y, Wu W, Zhou W, Liu Z.",
+    "year": 2023,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-023-02989-x",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

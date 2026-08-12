@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11459389",
+  "paper_id": "doi:10.21037/acr-24-73",
+  "pmcid": "PMC11459389",
+  "source_record_sha256": "cfa5fcbc6c159b3ebf831457e7c3b7c3aec2e80504f02cdd0871b97ee103f4c8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e9cc01dacb55fd63e2bca6eb254abc14ec48597127ffc22ffea179cfcef0541d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Use of 3D-printed model to plan the surgical management of a patient with isolated orbital floor fracture: a case report",
+    "authors": "Stopa L, Papeczyc A, Stopa Z, Abed K.",
+    "year": 2024,
+    "journal": "AME Case Reports",
+    "doi": "10.21037/acr-24-73",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

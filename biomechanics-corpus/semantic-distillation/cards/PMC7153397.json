@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7153397",
+  "paper_id": "doi:10.3390/nano10030562",
+  "pmcid": "PMC7153397",
+  "source_record_sha256": "22886d9e4593c4cef1860e3302b704587e7164d9b274607fe78a7977bb96793d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "523990d299ba28f49bbb20af4bbd8cf43234dc5acaff63b5834c15907f8b9f35",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Use of Electrospun Organic and Carbon Nanofibers in Bone Regeneration",
+    "authors": "Aoki K, Haniu H, Kim YA, Saito N.",
+    "year": 2020,
+    "journal": "Nanomaterials",
+    "doi": "10.3390/nano10030562",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

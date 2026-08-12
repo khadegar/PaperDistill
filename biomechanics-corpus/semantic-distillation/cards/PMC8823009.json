@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8823009",
+  "paper_id": "pmcid:PMC8823009",
+  "pmcid": "PMC8823009",
+  "source_record_sha256": "b70ff2e8bc21988e33df0000ba4158b688e7e4db8e9fb4c4baaa3ee5aa43e812",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ee3613c8408adfe89b2a8f219e79573b7ed84c178cb0ce2a06bbf8f849bb7496",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "4414 Collagen Dermal Replacement Scaffold Mechanobiology in Treatment of Difficult-to-Heal Wounds",
+    "authors": "Sohutskay D, Tepole A, Voytik-Harbin S.",
+    "year": 2020,
+    "journal": "Journal of Clinical and Translational Science",
+    "doi": "10.1017/cts.2020.58",
+    "publication_type": "Abstract",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "other_substantive",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

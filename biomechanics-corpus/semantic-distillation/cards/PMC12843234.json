@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12843234",
+  "paper_id": "doi:10.3390/ma19020316",
+  "pmcid": "PMC12843234",
+  "source_record_sha256": "71a4a1597408229b514d36328699131fbca85faf2036172adcd2c2727c596a65",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a366c02214197348deadc97e087210d904f67fe28904c83649b412c43f766222",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Comparison of Two Surgical Treatment Methods for Atlantoaxial Instability in Dogs: Finite Element Analysis and a Canine Cadaver Study",
+    "authors": "Trębacz P, Pawlik M, Barteczko A, Kurkowska A, Piątek A, Bonecka J, Frymus J, Czopowicz M.",
+    "year": 2026,
+    "journal": "Materials",
+    "doi": "10.3390/ma19020316",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

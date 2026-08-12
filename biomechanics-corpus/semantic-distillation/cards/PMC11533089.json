@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11533089",
+  "paper_id": "doi:10.1016/j.jobcr.2024.10.003",
+  "pmcid": "PMC11533089",
+  "source_record_sha256": "a7948c8715e1a555f0f597962da82c152d2cfefdd1a49fa23168299c50a0de9a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "93f6e9ac3a5d929bf3c65a2b243e5b4f9bfb86f0a3987b29c6e21c3ff04111d3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional finite element analysis of stress distribution on different complex macro designs in commercially available implants: An in-vitro study",
+    "authors": "V S, Harris M, Abraham S, Venkitachalam R, Nair SS, Mathew A.",
+    "year": 2024,
+    "journal": "Journal of Oral Biology and Craniofacial Research",
+    "doi": "10.1016/j.jobcr.2024.10.003",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

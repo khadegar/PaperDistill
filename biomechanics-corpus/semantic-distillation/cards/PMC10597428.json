@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10597428",
+  "paper_id": "doi:10.1097/scs.0000000000009750",
+  "pmcid": "PMC10597428",
+  "source_record_sha256": "1069274a7d4441bbee1069e6f9ea46a3fc20a4f41c7ef3463afa32c964a3c0da",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "75582a2b2e2d82e355b3b00c020b457075c052b1793ab735c04f166b6d0e1fe1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Printed Poly (Lactic-co-Glycolic Acid)-Magnesium Composite Scaffolds for the Promotion of Osteogenesis Through Immunoregulation",
+    "authors": "Ren Y, Zheng Z, Yu Y, Hu R, Xu S.",
+    "year": 2023,
+    "journal": "The Journal of Craniofacial Surgery",
+    "doi": "10.1097/scs.0000000000009750",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

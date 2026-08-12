@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12997158",
+  "paper_id": "doi:10.1021/acsabm.5c02121",
+  "pmcid": "PMC12997158",
+  "source_record_sha256": "0e2dc342b5945bfaec969b43ee6bff5b8751db90527c76333e9abd2724a5aade",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2d05adacf4c68f034d1da4ae2fcc5dd1eed79ef9e597629bd1ab2d01fc4f4c09",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Engineering a Bioactive PMMA–Silica Hybrid Scaffold for Enhanced Bone Regeneration",
+    "authors": "Ramanathan S, Lin YC, Wang HY, Tseng CL, Li S, Liu WC, Dhawan U, Hu CC, Chung RJ.",
+    "year": 2026,
+    "journal": "ACS Applied Bio Materials",
+    "doi": "10.1021/acsabm.5c02121",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

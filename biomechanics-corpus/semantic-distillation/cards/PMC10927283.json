@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10927283",
+  "paper_id": "doi:10.1503/cjs.008223",
+  "pmcid": "PMC10927283",
+  "source_record_sha256": "fe33dc91eeac763e32cb0e83da5eab36d619638ac6acb2d64e6dec9cc438fd23",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "19a4c34a0e3a8a50ed589c96143cf3c8b752b1ac3c5bf0d760e010d8d47307e7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Gap patterns and radiographic follow-up of newer-generation cementless total knee arthroplasty designs",
+    "authors": "Frazer A, Lim JBT, Teeter MG, Howard J, Vasarhelyi EM, Lanting BA.",
+    "year": 2024,
+    "journal": "Canadian Journal of Surgery",
+    "doi": "10.1503/cjs.008223",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

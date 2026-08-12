@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5797129",
+  "paper_id": "doi:10.1038/s41598-018-20579-8",
+  "pmcid": "PMC5797129",
+  "source_record_sha256": "2e2464eeb875897d00b69b5e4b5d10f63eeef1edc404066a491a648b3bd937d5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "18ccf2eaf31fac6731c4ba1636ec195e3503a5160b5c35151a02a4fe46fd63ab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Broadband single-phase hyperbolic elastic metamaterials for super-resolution imaging",
+    "authors": "Dong HW, Zhao SD, Wang YS, Zhang C.",
+    "year": 2018,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-018-20579-8",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "topology_or_structural_optimization",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

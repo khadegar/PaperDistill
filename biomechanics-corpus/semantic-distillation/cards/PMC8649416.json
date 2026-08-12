@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8649416",
+  "paper_id": "doi:10.1177/09544119211021675",
+  "pmcid": "PMC8649416",
+  "source_record_sha256": "e781298c7dd76bb04421482c94fb3b491331071bac2f002ee230192660b82baf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a5445dab26f98f9173ffeb977d72e8813c59486a6c96994297576bb514a639b6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Endurance testing and finite element simulation of a modified hip stem for integration of an energy harvesting system",
+    "authors": "Lange HE, Bader R, Kluess D.",
+    "year": 2021,
+    "journal": "Proceedings of the Institution of Mechanical Engineers. Part H, Journal of Engineering in Medicine",
+    "doi": "10.1177/09544119211021675",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

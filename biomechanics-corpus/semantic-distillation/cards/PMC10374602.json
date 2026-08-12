@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10374602",
+  "paper_id": "doi:10.1016/j.mtbio.2023.100740",
+  "pmcid": "PMC10374602",
+  "source_record_sha256": "e4794618ccf79317ebdd8ba5c68b6c1d06c4a3ce54a97be4a61982d8b51c7497",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3a074ca19d9158c30332718b9ae76bceb5c525bde5d41d6e482904f944b255c2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Physical stimuli-emitting scaffolds: The role of piezoelectricity in tissue regeneration",
+    "authors": "Alvarez-Lorenzo C, Zarur M, Seijo-Rabina A, Blanco-Fernandez B, Rodríguez-Moldes I, Concheiro A.",
+    "year": 2023,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2023.100740",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

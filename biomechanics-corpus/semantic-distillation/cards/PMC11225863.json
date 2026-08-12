@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11225863",
+  "paper_id": "doi:10.1016/j.mtbio.2024.101118",
+  "pmcid": "PMC11225863",
+  "source_record_sha256": "4d735bd4cadfd4ed46c62824f2d33b39ce051e9e92f4ce4701d2afd5ebc8aae1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b104cd38fc691e0bd698779d39efe2c25b64305e61cfa23377220685479164b7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advanced topology of triply periodic minimal surface structure for osteogenic improvement within orthopedic metallic screw",
+    "authors": "Luo W, Wang Y, Wang Z, Jiao J, Yu T, Jiang W, Li M, Zhang H, Gong X, Chao B, Liu S, Wu X, Wang J, Wu M.",
+    "year": 2024,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2024.101118",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

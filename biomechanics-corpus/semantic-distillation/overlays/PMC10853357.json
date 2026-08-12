@@ -1,0 +1,257 @@
+{
+  "study": {
+    "article_kind": "original_research_additive_manufactured_scaffold_preclinical_study",
+    "design_features": [
+      "EBM_printed_porous_Ti6Al4V_scaffold",
+      "ADSC_loaded_leukocyte_poor_PRP_gel",
+      "in_vitro_rabbit_ADSC_and_HUVEC_assays",
+      "rabbit_distal_femur_critical_size_defect",
+      "microCT_histology_CD31_Runx2_immunofluorescence",
+      "mechanical_and_rheological_characterization"
+    ],
+    "research_problem": "Porous titanium implants can provide load-bearing architecture and space for ingrowth but have inert surfaces and poor retention/vascular support for transplanted cells. A carrier that keeps cells in pores while supplying osteogenic and angiogenic factors is needed for large bone-defect repair.",
+    "exact_gap": "The study addresses the untested combination of an electron-beam-melted porous Ti6Al4V scaffold with adipose-derived mesenchymal stem cells (ADSCs) retained in a leukocyte-poor platelet-rich plasma (PRP) gel, evaluating both vascular and osteogenic responses in vitro and bone-defect repair in rabbits.",
+    "objective_or_hypothesis": "Construct PTI/AP by filling a 3D-printed porous Ti6Al4V implant (PTI) with ADSC-loaded PRP gel and test whether the combined scaffold improves cell retention/viability, endothelial migration and tube formation, ADSC osteogenic differentiation, and rabbit femoral defect regeneration relative to PTI, PTI/A, and PTI/P controls.",
+    "study_design": "Original experimental additive-manufacturing/biomaterial study. EBM (Q10) produced 70% nominal-porosity Ti6Al4V scaffolds with 600 micrometre pores and 300 micrometre struts. Disk scaffolds (10 mm x 3 mm) were characterized in vitro; cylinders (5 mm diameter x 10 mm height) were implanted in 6 mm diameter x 10 mm distal-femur defects. Lp-PRP was prepared by sequential centrifugations, mixed with allogeneic rabbit ADSCs, gelled in pores with thrombin/CaCl2, and compared with empty PTI, ADSC-loaded PTI (PTI/A), and PRP-filled PTI (PTI/P) in vitro/in vivo.",
+    "sample_or_model": "PTI is Ti6Al4V Grade 23 powder (45-100 micrometres) printed by EBM; measured pore size was 602.66 +/- 11.08 micrometres. PTI/AP used 100 microlitres medium containing 2 x 10^4 rabbit ADSCs plus 100 microlitres PRP, 10 microlitres 1000 U/mL thrombin, and 20 microlitres 10% CaCl2 per scaffold. In vitro CON/PTI/PTI/AP experiments generally report n=3 independent experiments. Twenty-eight 5-month New Zealand rabbits received PTI, PTI/A, PTI/P, or PTI/AP in distal femoral defects; figures report n=3 for many in-vivo endpoints, so allocation and analysis unit are not fully reconciled.",
+    "comparators": [
+      "CON, empty PTI, and PTI/AP for ADSC viability, proliferation, morphology, endothelial scratch/tube assays, and osteogenic markers (S006:C01-S011:C01; S018:C01-S020:C01).",
+      "PTI, PTI/A, PTI/P, and PTI/AP for 12-week rabbit micro-CT, histological bone area, CD31 angiogenesis, and Runx2 immunofluorescence (S012:C01-S015:C01; S021:C01-S021:C02).",
+      "PTI versus PTI/AP for pore morphology and compressive strength/elastic modulus; PRP rheology and growth-factor concentrations characterize the gel carrier (S003:C01-S005:C01; S017:C01).",
+      "PTI/A versus PTI/P versus PTI/AP provide partial component contrasts for ADSCs and PRP, but no dose, cell-retention, factor-neutralization, or factorial interaction design is included (S012:C01; S021:C01-S021:C02)."
+    ],
+    "method_spine": [
+      "Print and clean nominal 600 micrometre-pore/300 micrometre-strut Ti6Al4V PTIs by EBM, using disk and cylindrical geometries for in-vitro and in-vivo studies (S003:C01).",
+      "Prepare leukocyte-poor PRP by three rabbit-blood centrifugations, quantify platelets/leukocytes/erythrocytes and PDGF/IGF-1/bFGF/VEGF by ELISA, and characterize gel rheology after thrombin/CaCl2 activation (S004:C01; S017:C01).",
+      "Load 2 x 10^4 ADSCs into PRP gel in PTI pores; measure SEM morphology, uniaxial compression and micro-indentation modulus (S005:C01; S017:C01).",
+      "Test ADSC viability/CCK8/F-actin, HUVEC scratch and Matrigel tube formation, ALP/ARS, RT-qPCR for HIF-1alpha/SDF-1alpha/RUNX2/ALP/OCN, and Runx2 immunofluorescence with CON/PTI/PTI/AP controls (S006:C01-S011:C01).",
+      "Implant PTI, PTI/A, PTI/P, and PTI/AP in rabbit distal femoral defects; at 12 weeks quantify BV/TV, BMD, Tb.N, Tb.Sp, Masson/VG bone-area staining, and CD31/Runx2 immunofluorescence (S012:C01-S015:C01; S021:C01).",
+      "Use mean +/- SD from three independent experiments and unpaired two-tailed t-tests at p<0.05; no repeated-measures, animal-cluster, or multiplicity model is described (S016:C01)."
+    ],
+    "validation_roles": {
+      "verification": [
+        "EBM geometry, cleaning, scaffold dimensions, PRP centrifugation, gel chemistry, assay timing, micro-CT settings (48 kV, 12 microA, 18.26 micrometre pixels), and section thicknesses are specified; direct dimensional or process-repeatability verification is not reported (S003:C01-S005:C01; S013:C01-S015:C01).",
+        "PTI/AP compressive strength and elastic modulus and PRP rheology verify a measured material-state baseline before biological interpretation (S005:C01; S017:C01)."
+      ],
+      "calibration": [
+        "No model fitting or independent calibration set is used. Human cortical/cancellous modulus ranges are contextual comparisons, not calibration of the rabbit implant (S017:C01).",
+        "RT-qPCR and immunofluorescence use reference controls/antibodies, but assay calibration, batch effects, and blinding are not detailed (S010:C01-S011:C01)."
+      ],
+      "validation": [
+        "In-vitro viability, angiogenic migration/tube formation, osteogenic staining/gene/protein assays, and 12-week rabbit micro-CT/histology/CD31/Runx2 provide orthogonal within-study checks for the proposed dual function (S018:C01-S021:C01).",
+        "No independent replication, direct mechanical fixation/push-out, quantified vascular perfusion, mature matrix quality, or clinical validation is included; bone-area and micro-CT endpoints are regenerative proxies (S013:C01-S015:C01; S021:C01)."
+      ],
+      "sensitivity": [
+        "PTI, PTI/A, PTI/P, and PTI/AP groups provide a limited component comparison, and 7/14-day in-vitro and 12-week in-vivo time points provide temporal context (S009:C01; S012:C01; S019:C01-S021:C01).",
+        "There is no formal porosity, PRP dose, cell dose, factor-neutralization, scaffold geometry, loading, or uncertainty sensitivity analysis; many in-vivo endpoints report n=3 despite 28 rabbits (S012:C01; S016:C01)."
+      ],
+      "application_prediction": [
+        "The claim that PTI/AP has clinical transformation prospects is a forward-looking translation hypothesis from rabbit defect and in-vitro proxies, not a clinical outcome (S001:C01; S022:C01).",
+        "Future use requires long-term fixation, vascular maturity, immune response, safety, reproducibility, and patient-specific loading studies beyond the present scaffold (S021:C02; S022:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "Lp-PRP was platelet-enriched and leukocyte-poor and contained PDGF, IGF-1, FGF/bFGF, and VEGF. Its storage modulus exceeded loss modulus below 245% strain, with network damage and sol-to-gel failure at higher strain; these are measured carrier properties (S004:C01; S017:C01).",
+      "PTI/AP pore size was 602.66 +/- 11.08 micrometres; PTI porosity was nominally 70%. PTI and PTI/AP compressive strengths were 49.55 +/- 0.86 and 50.41 +/- 0.75 MPa, and elastic moduli 1.69 +/- 0.06 and 1.64 +/- 0.11 GPa, respectively (S003:C01; S017:C01).",
+      "ADSC survival exceeded 90% in CON, PTI, and PTI/AP without a reported statistical difference; CCK8 proliferation was higher in PTI/AP on days 3 and 7, and PTI/AP cells were spherical within PRP with similar F-actin density (n=3; S018:C01).",
+      "HUVEC scratch migration and 6-hour tube mesh number were highest in PTI/AP (p<0.05); HIF-1alpha expression was 2.95 +/- 0.79 versus CON 0.98 +/- 0.12 and PTI 1.20 +/- 0.16, and SDF-1alpha 2.79 +/- 0.62 versus 1.02 +/- 0.17 and 1.14 +/- 0.20 (S019:C01).",
+      "After 7-day osteogenic induction, PTI/AP had highest ALP staining/activity; ARS mineralization was greater at 7 and 14 days. Relative RUNX2 was 3.04 +/- 0.60 versus CON 1.01 +/- 0.17 and PTI 1.42 +/- 0.19; ALP 2.14 +/- 0.34 versus 1.01 +/- 0.03 and 1.04 +/- 0.25; OCN 3.49 +/- 0.95 versus 1.06 +/- 0.50 and 1.01 +/- 0.25 (S020:C01).",
+      "At 12 weeks in rabbit distal femoral defects, BV/TV was 23.81 +/- 3.01% for PTI/AP versus PTI 12.99 +/- 2.08%, PTI/A 14.28 +/- 1.09%, and PTI/P 16.75 +/- 0.58%; BMD and Tb.N were highest or slightly higher in PTI/AP, and Tb.Sp was lowest in PTI/AP/PTI/P (reported n=3; S021:C01).",
+      "Masson/VG staining showed little bone at PTI/PTI/A interfaces or interiors, more bone in PTI/P, and the greatest interface/interior bone in PTI/AP; VG and Masson bone-area quantification agreed. CD31 signal ranked PTI/AP > PTI/P > PTI/PTI/A and Runx2 showed the same overall ranking (S021:C01).",
+      "The manuscript states PTI/P was better than PTI and PTI/AP in one sentence before stating its effect was inferior to PTI/AP; this internal comparator wording conflicts with the numeric and histologic results and is retained as an unresolved text inconsistency (S021:C01-S021:C02)."
+    ],
+    "highest_evidence_level_reached": "Additive-manufactured scaffold characterization plus in-vitro cell/endothelial assays and 12-week rabbit defect regeneration; no direct implant fixation, mature osseointegration, long-term durability, or clinical validation."
+  },
+  "argument_map": {
+    "central_claim": "Filling a porous EBM Ti6Al4V scaffold with ADSC-loaded PRP gel improved in-vitro cell retention/proliferation, endothelial angiogenic proxies, osteogenic markers, and 12-week rabbit defect bone-regeneration proxies relative to scaffold, ADSC-only, or PRP-only controls, but the combined-effect mechanism and clinical translation remain bounded.",
+    "data": [
+      "As-built PTI/PTI-AP morphology, PRP growth-factor/rheology data, and compressive properties establish the material and carrier state (S003:C01-S005:C01; S017:C01).",
+      "Three-group in-vitro viability, HUVEC migration/tubes, ADSC ALP/ARS, qPCR, and Runx2 immunofluorescence provide cell-level osteogenic/angiogenic proxies (S006:C01-S011:C01; S018:C01-S020:C01).",
+      "Four-group rabbit defect micro-CT, Masson/VG, CD31, and Runx2 outcomes support greater bone-area and vascular/osteogenic marker signal with PTI/AP at 12 weeks (S012:C01-S015:C01; S021:C01-S021:C02)."
+    ],
+    "warrant": "PRP gel can retain ADSCs and release growth factors while interconnected pores provide space and mechanical support; ADSCs and endothelial cells may exchange pro-osteogenic/pro-angiogenic signals. This provides a plausible combined mechanism, but an interaction cannot be claimed without a factorial or mechanistic perturbation design.",
+    "backing": [
+      "PTI/AP improved both HUVEC migration/tube mesh and ADSC osteogenic markers compared with PTI/CON, and PTI/AP exceeded PTI/P in rabbit BV/TV and marker staining (S019:C01-S021:C01).",
+      "The PTI/A group had little in-vivo treatment effect, while PTI/P improved over PTI, supporting retention/nutritional roles for PRP in the observed combination (S021:C01-S021:C02).",
+      "Mechanical properties of PTI/AP remained close to PTI, so the biological benefit was not explained by a gross loss of scaffold compressive strength (S017:C01)."
+    ],
+    "qualifier": "Results apply to nominal 70%-porous EBM Grade 23 Ti6Al4V, rabbit ADSCs/PRP, the stated gel formulation, distal-femur defects, 12-week healing, and n=3-style endpoint analyses; no patient-specific load or clinical outcome was assessed.",
+    "rebuttals_or_boundaries": [
+      "PTI/A alone did not significantly repair the defect, indicating that cell loading without a retaining/nutrient carrier is insufficient under this model (S021:C01).",
+      "PTI/P improved bone and vascular proxies but did not match PTI/AP, suggesting a combined effect is plausible; the exact contribution of ADSCs, PRP factors, retention, and host response remains unresolved and should be written as combined effect rather than synergy (S021:C01-S021:C02).",
+      "BV/TV, BMD, trabecular metrics, CD31, Runx2, Masson, and VG are regenerative or marker endpoints, not direct fixation, mature matrix quality, vascular perfusion, or functional outcome (S013:C01-S015:C01).",
+      "The manuscript's inconsistent PTI/P comparator sentence and the 28-rabbit versus n=3 reporting mismatch limit quantitative confidence and require adjudication before strong ranking (S016:C01; S021:C01-S021:C02)."
+    ],
+    "argument_coherence": "moderate_to_high for the preclinical combined-scaffold comparison; moderate for mechanism and clinical translation"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "EBM scaffold geometry/porosity, PRP cellular composition and growth-factor concentrations, gel rheology, PTI/PTI/AP compressive strength and modulus, and in-vitro cell/endothelial assays were measured in the stated material/biological states (S003:C01-S005:C01; S017:C01-S020:C01).",
+      "Rabbit 12-week micro-CT BV/TV/BMD/Tb.N/Tb.Sp, Masson/VG bone area, CD31, and Runx2 fluorescence were measured in defect specimens; the reported endpoint n is generally 3 (S012:C01-S015:C01; S021:C01).",
+      "Allogeneic rabbit ADSCs were characterized by tri-lineage staining and CD34-/CD45-/CD90+ flow cytometry, supporting cell identity but not clinical cell potency (S024:C01)."
+    ],
+    "predicted": [
+      "The study has no FE or algorithmic model; predicted statements are limited to prospective claims that angiogenesis and osteogenesis will improve clinical defect repair and that pore/mechanical matching will reduce stress shielding (S001:C01-S002:C01; S017:C01; S022:C01).",
+      "Pathway-level statements that PRP factors activate particular signaling routes or that ADSCs become endothelial cells are interpretations from prior literature, not direct perturbation measurements here (S019:C01; S021:C02)."
+    ],
+    "inferred": [
+      "The PTI/AP advantage is inferred to involve PRP growth-factor release, ADSC retention/viability, and endothelial–osteogenic crosstalk because PTI/P and PTI/A controls show intermediate or weak responses (S017:C01; S021:C01-S021:C02).",
+      "Bone and CD31/Runx2 signal inside pores is interpreted as enhanced bone regeneration/vascularization, but no direct perfused-vessel function, mature osseointegration, or implant interface strength was measured (S013:C01-S015:C01; S021:C01).",
+      "Mechanical similarity to cancellous bone is inferred to reduce stress shielding; this was not tested with in-vivo strain, remodeling, or longitudinal fixation (S017:C01)."
+    ],
+    "recommended": [
+      "Use factorial ADSC x PRP controls, growth-factor neutralization or release kinetics, labeled-cell retention, and immune/inflammatory profiling to test component attribution and interaction.",
+      "Reconcile animal allocation and endpoint denominators, randomization/blinding, within-animal clustering, multiple comparisons, and independent scaffold/build replication.",
+      "Add direct interface mechanics, vascular perfusion/quantification, mature bone matrix and BIC, degradation/gel persistence, fatigue, and longer follow-up before claiming osseointegration or clinical readiness.",
+      "Characterize as-built pore/strut deviations, roughness, residual stress, sterilization effects, and mechanical response under defect-relevant loading (S003:C01; S017:C01)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "CCK8, ALP, ARS, Runx2/ALP/OCN expression, and HUVEC scratch/tube assays are cell-level viability/angiogenic/osteogenic proxies; they do not establish mature bone, vascular perfusion, or patient function.",
+      "Micro-CT BV/TV/BMD/Tb.N/Tb.Sp and Masson/VG bone area indicate mineralized bone quantity/architecture in a rabbit defect; they do not establish implant fixation or direct bone–implant contact in the way a BIC or push-out assay would.",
+      "CD31 and Runx2 fluorescence indicate marker presence, not vessel patency or mature osteoblast function; growth-factor abundance does not prove the claimed pathway or causal cell crosstalk.",
+      "PTI/AP mechanical similarity to cancellous bone is a pre-implant material-state comparison and does not establish fatigue durability, in-vivo stress transfer, or clinical stability."
+    ],
+    "overclaim_risks": [
+      "The abstract and conclusion describe clinical transformation prospects and a dual-function scaffold that promotes bone repair, while evidence is limited to in-vitro markers and one 12-week rabbit model (S001:C01; S022:C01).",
+      "The phrase 'synergy' or direct ADSC–endothelial interaction would exceed the PTI/A/PTI/P comparisons without an interaction contrast or mechanistic perturbation (S021:C02).",
+      "Calling the defect response 'osseointegration' overstates micro-CT/histology because no implant BIC, push-out, or mature interface mechanics were measured (S014:C01; S021:C01).",
+      "A 28-rabbit methods statement and n=3 figure annotations create denominator uncertainty; the contradictory PTI/P sentence should not be silently resolved (S012:C01; S021:C01-S021:C02)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Connect porous-Ti mechanical mismatch and inert surfaces to the cell-retention/angiogenesis gap, then define the composite and controls.",
+      "execution": "The introduction moves from autograft/allograft limitations and PTI mechanics to ADSC transplantation, PRP as carrier/growth-factor source, and the PTI/AP design (S002:C01).",
+      "locator": "S002:C01",
+      "effectiveness": "high_for_problem_and_design_rationale",
+      "transferable_principle": "A scaffold introduction should state both the structural host problem and the biological delivery bottleneck before declaring a multifunctional design.",
+      "failure_mode": "Do not equate a bone-like modulus or pore size with successful ingrowth without a direct interface endpoint."
+    },
+    {
+      "section": "methods",
+      "move": "Report as-built architecture, carrier composition/gelation, cell dose, assay controls, defect geometry, and endpoint timing in one state ledger.",
+      "execution": "Methods specify EBM process/geometry, triple-centrifuged Lp-PRP, 2 x 10^4 ADSCs, thrombin/CaCl2 gelation, in-vitro assays, 6 x 10 mm defects, four in-vivo groups, and 12-week imaging/histology (S003:C01-S016:C01).",
+      "locator": "S003:C01",
+      "effectiveness": "moderate_to_high",
+      "transferable_principle": "Keep nominal design, as-built scaffold, processed gel, cell state, and in-vivo exposure distinct before comparing biology.",
+      "failure_mode": "A nominal 70% porosity or a PRP factor list does not document build-to-build geometry, retention, release, or animal allocation."
+    },
+    {
+      "section": "results",
+      "move": "Build the dual-function claim in evidence order: material/carrier properties, cell viability, endothelial proxies, osteogenic proxies, then defect bone.",
+      "execution": "Results progress from PRP rheology/PTI mechanics (S017) through ADSC viability (S018), HUVEC angiogenesis (S019), ADSC osteogenesis (S020), and rabbit bone/marker endpoints (S021).",
+      "locator": "S017:C01",
+      "effectiveness": "high_for_multiscale_argument",
+      "transferable_principle": "A multiscale scaffold Results section should preserve each arrow of design -> transport/mechanics -> cell -> tissue and label unmeasured arrows.",
+      "failure_mode": "Jumping from gene/protein markers to clinical bone repair hides missing perfusion, interface mechanics, and long-term durability."
+    },
+    {
+      "section": "discussion",
+      "move": "Use PTI/A and PTI/P outcomes to bound the combined effect and keep the internal comparator conflict visible.",
+      "execution": "The discussion interprets PRP retention and ADSC/endothelial crosstalk, notes the weak PTI/A response and intermediate PTI/P response, and contains an inconsistent PTI/P ranking sentence (S021:C01-S021:C02).",
+      "locator": "S021:C02",
+      "effectiveness": "moderate",
+      "transferable_principle": "When a combination arm wins, show what each component alone did and record any textual or numerical conflict rather than smoothing it away.",
+      "failure_mode": "Calling the combination synergistic or resolving a contradictory comparator sentence without an interaction design creates false certainty."
+    },
+    {
+      "section": "conclusion",
+      "move": "Conclude at the rabbit defect-regeneration rung and specify interface, durability, immune, and clinical tests needed next.",
+      "execution": "The conclusion calls PTI/AP promising for bone-defect treatment; a calibrated conclusion should preserve the 12-week rabbit and marker boundaries and list missing translational endpoints (S022:C01).",
+      "locator": "S022:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "A scaffold conclusion can propose translation while naming the exact tissue, fixation, safety, and durability evidence still absent.",
+      "failure_mode": "A defect BV/TV increase is not equivalent to osseointegration, restored load function, or human clinical benefit."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The authors note the challenge of maintaining transplanted-cell survival/retention and emphasize vascularization as necessary for tissue-engineering efficiency (S002:C01; S021:C02).",
+      "They present PTI/AP as a promising strategy but do not report long-term clinical, fatigue, or human safety outcomes; the conclusion is prospective (S022:C01)."
+    ],
+    "reader_identified": [
+      "The reported 28 rabbits, figure-level n=3, and four treatment groups are not reconciled; allocation, randomization, blinding, and within-animal clustering are unclear.",
+      "No direct BIC, push-out, implant migration, fatigue, or long-term fixation endpoint was measured; 'osseointegration' is used for bone-regeneration histology but should be bounded.",
+      "ADSC/PRP combination is not factorially or mechanistically isolated; growth-factor release, cell retention, immune response, and cell fate are incompletely measured.",
+      "No as-built EBM deviation, roughness, residual stress, sterilization effect, gel persistence/degradation, or independent build replication is reported.",
+      "Unpaired t-tests on multiple endpoints and possible clustered animal data may underestimate uncertainty; one discussion sentence contradicts the reported PTI/P ranking."
+    ],
+    "likely_bias_direction": [
+      "Positive selection of marker and bone-area endpoints with limited denominator/uncertainty reporting favors a strong dual-function narrative.",
+      "Short single-species follow-up favors early regeneration over late remodeling, degradation, fatigue, or interface failure.",
+      "Lack of immune/perfusion and cell-retention measurements favors attributing PTI/AP effects to PRP growth factors and ADSC crosstalk.",
+      "Nominal architecture and healthy rabbit defects may overstate reproducibility and clinical transfer to patient-specific load, defect, and vascular environments."
+    ],
+    "scope_boundary": "Evidence supports an EBM-printed 70%-porous Ti6Al4V scaffold filled with rabbit ADSC-loaded Lp-PRP gel for in-vitro marker assays and 12-week rabbit distal-femur defect regeneration. It does not establish synergy, mature osseointegration, direct fixation, long-term mechanical/biological durability, immune safety, or clinical bone-defect efficacy."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC10853357-01",
+      "capability": "Write a multiscale scaffold evidence chain that keeps as-built mechanics, cell viability, angiogenic/osteogenic proxies, and tissue regeneration in separate evidence states.",
+      "manuscript_use": "Scaffold Results architecture, mechanistic Discussion, and proxy audit.",
+      "applicable_domains": ["additive_manufacturing", "porous_scaffold", "bone_regeneration", "angiogenesis"],
+      "applicable_study_designs": ["in_vitro_in_vivo_scaffold", "biomaterial_preclinical"],
+      "supporting_locators": ["S017:C01", "S018:C01", "S019:C01", "S020:C01", "S021:C01"],
+      "counterexample_or_boundary": "Gene/protein, CD31, BV/TV, and histology results do not independently establish perfused vascular function, direct implant fixation, mature osseointegration, or patient benefit.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10853357-02",
+      "capability": "Use component-only arms to describe a combined scaffold effect while withholding synergy language until an interaction contrast or perturbation isolates ADSC–PRP contribution.",
+      "manuscript_use": "Combination-biomaterial comparator matrix, mechanism discussion, and translational recommendation.",
+      "applicable_domains": ["cell_scaffold", "PRP_biomaterials", "stem_cell_therapy", "bone_regeneration"],
+      "applicable_study_designs": ["factorial_biomaterial", "in_vitro_in_vivo_preclinical"],
+      "supporting_locators": ["S012:C01", "S020:C01", "S021:C01-S021:C02"],
+      "counterexample_or_boundary": "PTI/A, PTI/P, and PTI/AP provide partial attribution only; cell retention, growth-factor dose, immune response, and interaction are not directly measured.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10853357-03",
+      "capability": "Carry denominator and text conflicts into a preclinical synthesis, explicitly reconciling reported animal counts, figure n, statistical unit, and contradictory comparator wording.",
+      "manuscript_use": "Methods audit, Results uncertainty, and review-quality assessment.",
+      "applicable_domains": ["animal_biomaterials", "bone_defect_models", "biostatistics"],
+      "applicable_study_designs": ["rabbit_implant", "in_vivo_preclinical"],
+      "supporting_locators": ["S012:C01", "S016:C01", "S021:C01-S021:C02"],
+      "counterexample_or_boundary": "A reconciled independent-animal analysis could increase confidence; until then, ranking and p-values remain conditional on the reported n=3 summaries.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10853357-04",
+      "capability": "Bound a scaffold's clinical promise to the defect-regeneration rung by naming the missing fixation, perfusion, immune, degradation, fatigue, and patient-loading tests.",
+      "manuscript_use": "Discussion limitations, conclusion, and translational roadmap.",
+      "applicable_domains": ["bone_defect_scaffold", "osseointegration", "preclinical_translation"],
+      "applicable_study_designs": ["in_vivo_animal", "additive_manufactured_scaffold"],
+      "supporting_locators": ["S013:C01", "S014:C01", "S021:C01", "S022:C01"],
+      "counterexample_or_boundary": "A 12-week rabbit defect with increased BV/TV and marker staining does not demonstrate clinical fixation, restored function, or long-term safety.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_to_high",
+    "methods_transparency": "moderate",
+    "validation_credibility": "moderate_for_in_vitro_and_12_week_rabbit_regeneration_low_for_direct_interface_or_clinical_validation",
+    "outcome_uncertainty_reporting": "moderate_for_reported means and SDs_low_for_animal denominator and multiple testing",
+    "comparator_fairness": "moderate_for_PTIs_and_component_arms_low_for_interaction_attribution",
+    "conclusion_proportionality": "moderate_with_clinical-prospect_overreach",
+    "critical_weaknesses": [
+      "28-rabbit versus n=3 reporting and unclear allocation/independence.",
+      "No direct BIC, push-out, migration, fatigue, perfusion, immune, or long-term interface endpoint.",
+      "ADSC/PRP/growth-factor/cell-retention mechanism is not factorially or causally isolated.",
+      "As-built EBM geometry, build replication, gel persistence, and degradation are undercharacterized.",
+      "Contradictory PTI/P sentence and multiple unpaired t-tests weaken ranking certainty."
+    ],
+    "overall_credibility": "moderate for the reported scaffold characterization and short-term preclinical regeneration; low_to_moderate for combined mechanism, osseointegration, and clinical translation"
+  },
+  "summary_zh": "这是一项原始的增材制造前临床研究：用 EBM 制备名义孔隙率 70%、孔径约 600 μm 的多孔 Ti6Al4V（PTI），将兔 ADSC 装载到白细胞贫乏 PRP 凝胶并原位填入孔隙形成 PTI/AP。体外 PTI/AP 保持超过 90% 细胞存活，在 CCK8、HUVEC 划痕/成管、ALP/ARS、RUNX2/ALP/OCN 和 HIF-1α/SDF-1α 指标上总体优于空 PTI 或对照；12 周兔股骨缺损的 BV/TV 为 23.81 ± 3.01%，高于 PTI 12.99 ± 2.08%、PTI/A 14.28 ± 1.09% 和 PTI/P 16.75 ± 0.58%，CD31/Runx2 与 Masson/VG 骨面积也支持 PTI/AP 较高。PTI/AP 与 PTI 的压缩强度/弹性模量接近，但这些是材料和缺损再生端点，不是直接骨—植入物 BIC、推挤固定、成熟骨结合或临床功能。ADSC、PRP、增长因子、细胞保留和血管—成骨相互作用未被因子化或扰动，故应写 combined effect 而非 synergy；全文 S021:C01–C02 还存在 PTI/P 排名句与数值/组织学结果不一致的文字冲突。",
+  "reader_notes": [
+    "Primary Luna reader read every non-reference locator in order: S001:C01; S002:C01; S003:C01; S004:C01; S005:C01; S006:C01; S007:C01; S008:C01; S009:C01; S010:C01; S011:C01; S012:C01; S013:C01; S014:C01; S015:C01; S016:C01; S017:C01; S018:C01; S019:C01; S020:C01; S021:C01; S021:C02; S022:C01; S023:C01; S024:C01. No packet chunk was omitted.",
+    "Full-text adjudication confirms original additive-manufactured scaffold research with in-vitro rabbit ADSC/HUVEC assays and a rabbit distal-femur defect model; the metadata cues for finite-element and clinical study are not supported by the full text.",
+    "The semantic card keeps PTI/AP, PTI/A, PTI/P, and PTI controls distinct, records measured mechanical and biological endpoints, and treats angiogenic/osteogenic pathways and clinical prospects as inference or recommendation rather than direct evidence.",
+    "Self-review recorded the 28-rabbit versus n=3 denominator mismatch and the internally conflicting PTI/P sentence in S021:C01-S021:C02; these remain pending caveats rather than silently corrected results."
+  ]
+}

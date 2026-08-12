@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10583349",
+  "paper_id": "doi:10.1186/s13018-023-04287-2",
+  "pmcid": "PMC10583349",
+  "source_record_sha256": "e15146d1f691e46af35e62d94d265b5d4be0501c5c4064feca62bdd0eb6f382c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "11db8db7f73cc3d0ccb630d860a3082190ada2e6b1b6f80ca8636e56a8abd441",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of femoral prosthesis design on patellofemoral contact stresses in total knee arthroplasty: a case–control study with mid-term follow-up minimum 3-year follow-up",
+    "authors": "Kong L, Lin W, Kang H, Li M, Hao K, Chang B, Wang F.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-04287-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

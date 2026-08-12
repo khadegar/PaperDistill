@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7644785",
+  "paper_id": "doi:10.3389/fbioe.2020.557215",
+  "pmcid": "PMC7644785",
+  "source_record_sha256": "79b70cfc0db1f6fccc194dd82a6ea4ed9889cc54a4ea601b226272b56edeb99b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "05a893c32ba739aa1fb66715efbe3195561d76c84edf9ff7f80fe21159221fa9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed Polyurethane Scaffolds for the Repair of Bone Defects",
+    "authors": "Cooke ME, Ramirez-GarciaLuna JL, Rangel-Berridi K, Park H, Nazhat SN, Weber MH, Henderson JE, Rosenzweig DH.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.557215",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

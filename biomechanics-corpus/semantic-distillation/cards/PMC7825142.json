@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7825142",
+  "paper_id": "doi:10.3390/ijms22020485",
+  "pmcid": "PMC7825142",
+  "source_record_sha256": "7865e913bf18604f306a378834b91bc843b94507f3a4e8134921817076af8cef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "67481d730261c5760812258c52584bc3a9b3d23a780055abcf5b81117bfdf10d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of Raman Spectroscopic Imaging to Assess the Structural Changes at Cell-Scaffold Interface",
+    "authors": "Kalisz G, Przekora A, Kazimierczak P, Gieroba B, Jedrek M, Grudzinski W, Gruszecki WI, Ginalska G, Sroka-Bartnicka A.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms22020485",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

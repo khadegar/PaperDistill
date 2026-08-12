@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8452820",
+  "paper_id": "doi:10.1186/s11671-021-03602-2",
+  "pmcid": "PMC8452820",
+  "source_record_sha256": "bf8f8e826fd86b66b224988dad18e667e86619ebe0799013bc4c2c2ff833bcbb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fe4f62c061c77f2b3c84db7be4d62d931c302af97b955528b134d2a141326baa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteoblast Response to Copper-Doped Microporous Coatings on Titanium for Improved Bone Integration",
+    "authors": "Wang LJ, Ni XH, Zhang F, Peng Z, Yu FX, Zhang LB, Li B, Jiao Y, Li YK, Yang B, Zhu XY, Zhao QM.",
+    "year": 2021,
+    "journal": "Nanoscale Research Letters",
+    "doi": "10.1186/s11671-021-03602-2",
+    "publication_type": "brief-report; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

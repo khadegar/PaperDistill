@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9989215",
+  "paper_id": "doi:10.3389/fbioe.2023.1116976",
+  "pmcid": "PMC9989215",
+  "source_record_sha256": "0cf00787b0e08a1fe6ba6398de56263d341175ad9a3694be8d759332140fdf87",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dd89a5d87e59e957131afc622de0eec3bf9f43a4aea49d992321f329cecc749b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of two modified intramedullary fixation system for treating unstable femoral neck fractures: A finite element analysis",
+    "authors": "Huang Q, Zhang C, Bai H, Wang Q, Li Z, Lu Y, Ma T.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1116976",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

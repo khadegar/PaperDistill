@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8563681",
+  "paper_id": "doi:10.1016/j.mex.2021.101541",
+  "pmcid": "PMC8563681",
+  "source_record_sha256": "6956913fb60ff54762459f7bc499db55e256170c2c3236e2c5106d58a1f84234",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2cda4760faf5dfefdd1f45420699ade06d98a7d54af94d3f6b877ba98fa218ea",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Methodology for performing biomechanical push-out tests for evaluating the osseointegration of calvarial defect repair in small animal models",
+    "authors": "Lawson ZT, Han J, Saunders WB, Grunlan MA, Moreno MR, Robbins AB.",
+    "year": 2021,
+    "journal": "MethodsX",
+    "doi": "10.1016/j.mex.2021.101541",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7879644",
+  "paper_id": "doi:10.1186/s12891-021-04022-0",
+  "pmcid": "PMC7879644",
+  "source_record_sha256": "129cc05f2cd43f376f9654bd73e5d3ab0faa3c7dabee4ae6d169d57ae16f504d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2a9f6e6feff0b3017c3ad96e01c3589df5df14dc104f09536cf12b400137999a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive-manufactured Ti-6Al-4 V/Polyetheretherketone composite porous cage for Interbody fusion: bone growth and biocompatibility evaluation in a porcine model",
+    "authors": "Tsai PI, Wu MH, Li YY, Lin TH, Tsai JSC, Huang HI, Lai HJ, Lee MH, Chen CY.",
+    "year": 2021,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-021-04022-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

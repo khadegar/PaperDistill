@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8564922",
+  "paper_id": "pmcid:PMC8564922",
+  "pmcid": "PMC8564922",
+  "source_record_sha256": "3c2df7159b11dd3b76b10394b9c3860d2a943c58a06892002b0ea81649a42fd8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5ad02c1b8934f2f0b52351ae5d6feb9f07b9d41bf0cfc848e8ad0fdd8a238db6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Topography on 3D printed Titanium Foot and Ankle Implants",
+    "authors": "",
+    "year": 2020,
+    "journal": "Foot & Ankle Orthopaedics",
+    "doi": "10.1177/2473011420s00016",
+    "publication_type": "Abstract",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "other_substantive",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

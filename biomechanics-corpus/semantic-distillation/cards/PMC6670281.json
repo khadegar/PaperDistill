@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6670281",
+  "paper_id": "doi:10.2196/12845",
+  "pmcid": "PMC6670281",
+  "source_record_sha256": "9bbf35b89e17d568003d68c447c4547ad12563c6ca3116a694b1d5a0956cfc89",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8c36422eae02a5b43fb25eaa4d26f4e01068dbfa47a54246608dce45839734f9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design of Improved Intertrochanteric Fracture Treatment (DRIFT) Study: Protocol for Biomechanical Testing and Finite Element Analysis of Stable and Unstable Intertrochanteric Fractures Treated With Intramedullary Nailing or Dynamic Compression Screw",
+    "authors": "Panagopoulos A, Kyriakopoulos G, Anastopoulos G, Megas P, Kourkoulis SK.",
+    "year": 2019,
+    "journal": "JMIR Research Protocols",
+    "doi": "10.2196/12845",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "topology_or_structural_optimization",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

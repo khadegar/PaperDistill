@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:<PMCID>",
+  "paper_id": "doi:10.xxxx/example",
+  "pmcid": "PMC0000000",
+  "source_record_sha256": "",
+  "reading": {
+    "status": "pending",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": null,
+    "packet_sha256": "",
+    "section_locators_read": [],
+    "omissions": [],
+    "adjudication_status": "unreviewed"
+  },
+  "bibliography": {
+    "title": "",
+    "authors": "",
+    "year": null,
+    "journal": "",
+    "doi": null,
+    "publication_type": "",
+    "discovery_strata": []
+  },
+  "study": {
+    "article_kind": "",
+    "design_features": [],
+    "research_problem": "",
+    "exact_gap": "",
+    "objective_or_hypothesis": "",
+    "study_design": "",
+    "sample_or_model": "",
+    "comparators": [],
+    "method_spine": [],
+    "validation_roles": {
+      "verification": [],
+      "calibration": [],
+      "validation": [],
+      "sensitivity": [],
+      "application_prediction": []
+    },
+    "primary_outcomes": [],
+    "highest_evidence_level_reached": ""
+  },
+  "argument_map": {
+    "central_claim": "",
+    "data": [],
+    "warrant": "",
+    "backing": [],
+    "qualifier": "",
+    "rebuttals_or_boundaries": [],
+    "argument_coherence": "unclear"
+  },
+  "evidence_boundary": {
+    "measured": [],
+    "predicted": [],
+    "inferred": [],
+    "recommended": [],
+    "proxy_to_outcome_bridges": [],
+    "overclaim_risks": []
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "",
+      "execution": "",
+      "locator": "S000:C00",
+      "effectiveness": "unclear",
+      "transferable_principle": "",
+      "failure_mode": ""
+    }
+  ],
+  "limitations": {
+    "author_reported": [],
+    "reader_identified": [],
+    "likely_bias_direction": [],
+    "scope_boundary": ""
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-<PMCID>-01",
+      "capability": "",
+      "manuscript_use": "",
+      "applicable_domains": [],
+      "applicable_study_designs": [],
+      "supporting_locators": [],
+      "counterexample_or_boundary": "",
+      "confidence": "low",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "unclear",
+    "methods_transparency": "unclear",
+    "validation_credibility": "unclear",
+    "outcome_uncertainty_reporting": "unclear",
+    "comparator_fairness": "unclear",
+    "conclusion_proportionality": "unclear",
+    "critical_weaknesses": [],
+    "overall_credibility": "uncertain"
+  },
+  "summary_zh": "",
+  "reader_notes": []
+}

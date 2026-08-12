@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11344327",
+  "paper_id": "doi:10.1186/s12891-024-07796-1",
+  "pmcid": "PMC11344327",
+  "source_record_sha256": "dc8e3da80f8721f8bc3ca6acf867dc5a98910e45bafa2b4bebde784330887eca",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6a828507d95e50df075b2c6b3ad9b144a943cc656510d039ccf88ec636d416cc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical changes of oblique lumbar interbody fusion with different fixation techniques in degenerative spondylolisthesis lumbar spine: a finite element analysis",
+    "authors": "Tao EX, Zhang RJ, Zhang B, Wang JQ, Zhou LP, Shen CL.",
+    "year": 2024,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-024-07796-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

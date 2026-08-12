@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7723937",
+  "paper_id": "doi:10.1007/s10439-020-02666-y",
+  "pmcid": "PMC7723937",
+  "source_record_sha256": "d9f7c9aae1c47425c1fd9a41a1bcbb6650521677d54f76bc9404e16c1c1a8871",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cbd8958d80acc6e47dcd965b3b7070cdcdd16a8ad19233c458cdf881a1b27b9d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Rapid CT-based Estimation of Articular Cartilage Biomechanics in the Knee Joint Without Cartilage Segmentation",
+    "authors": "Mohammadi A, Myller KAH, Tanska P, Hirvasniemi J, Saarakkala S, Töyräs J, Korhonen RK, Mononen ME.",
+    "year": 2020,
+    "journal": "Annals of Biomedical Engineering",
+    "doi": "10.1007/s10439-020-02666-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

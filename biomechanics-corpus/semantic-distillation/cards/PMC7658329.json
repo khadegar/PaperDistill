@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7658329",
+  "paper_id": "doi:10.1016/j.bioactmat.2020.10.022",
+  "pmcid": "PMC7658329",
+  "source_record_sha256": "4f430a1c0bf970a45dd1ec706d5c7c179b46ec97fd2a5048888cc67da38b574e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e5013a003eff30055344a39d9fd5464a4163e4ee90f16bef3bf2fa6fe0ebbd60",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A 3D-bioprinted scaffold with doxycycline-controlled BMP2-expressing cells for inducing bone regeneration and inhibiting bacterial infection",
+    "authors": "Wang M, Li H, Yang Y, Yuan K, Zhou F, Liu H, Zhou Q, Yang S, Tang T.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2020.10.022",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

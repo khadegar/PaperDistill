@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7840776",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.01.012",
+  "pmcid": "PMC7840776",
+  "source_record_sha256": "2815186b782519e076ccb3a84fb42af61ae09873e1b0bc463fa312ce58b0d670",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "596783a8ea4d583f32cc2d1a61b08b680d70e5598e33e9fe5ea9a40ccbafc24d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Antibiotic-loaded amphora-shaped pores on a titanium implant surface enhance osteointegration and prevent infections",
+    "authors": "Ständert V, Borcherding K, Bormann N, Schmidmaier G, Grunwald I, Wildemann B.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.01.012",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

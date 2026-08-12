@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7141521",
+  "paper_id": "doi:10.3390/jcm9030855",
+  "pmcid": "PMC7141521",
+  "source_record_sha256": "a10c320af052afc2761d79d4576b6607ae6d59a522e1b55fa4802efd8b4a309b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0304b87bdbb65ba6449611f1934ac58ae8f0169c458e5f1fb0000d58ee14eb0f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multifunctional Properties of Quercitrin-Coated Porous Ti-6Al-4V Implants for Orthopaedic Applications Assessed In Vitro",
+    "authors": "Llopis-Grimalt MA, Arbós A, Gil-Mir M, Mosur A, Kulkarni P, Salito A, Ramis JM, Monjo M.",
+    "year": 2020,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm9030855",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

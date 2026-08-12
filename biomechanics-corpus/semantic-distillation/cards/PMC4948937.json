@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4948937",
+  "paper_id": "doi:10.2147/ijn.s105794",
+  "pmcid": "PMC4948937",
+  "source_record_sha256": "5c860bfaf4a02d00b47790927ea21cd9ec40fc68abc8a882644b4611243b8b1f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "143f8e555598b2cdc801b861d55d9d8694911119dd6bbbbff00505ae478ab54c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vitro and in vivo biocompatibility and osteogenesis of graphene-reinforced nanohydroxyapatite polyamide66 ternary biocomposite as orthopedic implant material",
+    "authors": "Zhang S, Yang Q, Zhao W, Qiao B, Cui H, Fan J, Li H, Tu X, Jiang D.",
+    "year": 2016,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s105794",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

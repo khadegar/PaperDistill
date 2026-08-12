@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12526349",
+  "paper_id": "doi:10.3390/ma18194561",
+  "pmcid": "PMC12526349",
+  "source_record_sha256": "1f3ded65e69b2383e07e191a3bc96cf8fd335b783d0d47737bc116af76c78b6e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "273a321d94e7e89b642ce33bb948e8d8658d5347502cf4856bd7e00ded2dd2d6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Effect of Varying Abutment Heights on Stress Distribution in Different Bone Densities: A Finite Element Analysis Study",
+    "authors": "Ceddia M, Romasco T, Marchioli G, Cipollina A, Comuzzi L, Piattelli A, Di Pietro N, Trentadue B.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18194561",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

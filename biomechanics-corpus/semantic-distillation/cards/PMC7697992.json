@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7697992",
+  "paper_id": "doi:10.3390/polym12112682",
+  "pmcid": "PMC7697992",
+  "source_record_sha256": "663b86c174781e6025d682603b9533aff0da12bfe83e861fa8456814124dc2d1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d8353f5af717f5f97b6d0f46046e58980989e45af0883f1d6c2072573b1e7aba",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing for Hip Implant Applications: A Review",
+    "authors": "Okolie O, Stachurek I, Kandasubramanian B, Njuguna J.",
+    "year": 2020,
+    "journal": "Polymers",
+    "doi": "10.3390/polym12112682",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

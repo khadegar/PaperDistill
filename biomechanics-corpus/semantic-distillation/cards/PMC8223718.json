@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8223718",
+  "paper_id": "doi:10.5312/wjo.v12.i6.376",
+  "pmcid": "PMC8223718",
+  "source_record_sha256": "fec1121c2a80649a106e52271551d9bb4a365357d797bf31c2f6047b9efd955b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d04e2db815f747f13cdb4106b4c76c657d06476e8d0d5be14efc3e45f6b554d6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Off-the-shelf 3D printed titanium cups in primary total hip arthroplasty",
+    "authors": "Castagnini F, Caternicchia F, Biondi F, Masetti C, Faldini C, Traina F.",
+    "year": 2021,
+    "journal": "World Journal of Orthopedics",
+    "doi": "10.5312/wjo.v12.i6.376",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10376284",
+  "paper_id": "doi:10.3390/bioengineering10070852",
+  "pmcid": "PMC10376284",
+  "source_record_sha256": "4a4dcc33e688ac045bc2e95c49ad16d89245fe0dc68cba6d39a49f55cd7f1c87",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1466059e23035c452b5dc961d1acf4d0296b9b9154b5ea58b90405324595917d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Allogenic Stem Cells Carried by Porous Silicon Scaffolds for Active Bone Regeneration In Vivo",
+    "authors": "Renaud M, Bousquet P, Macias G, Rochefort GY, Durand JO, Marsal LF, Cuisinier F, Cunin F, Collart-Dutilleul PY.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10070852",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

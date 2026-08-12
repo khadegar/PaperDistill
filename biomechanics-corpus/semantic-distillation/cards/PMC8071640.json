@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8071640",
+  "paper_id": "doi:10.1016/j.jot.2020.02.004",
+  "pmcid": "PMC8071640",
+  "source_record_sha256": "b0cf75ab637c86a4e415b622c33ce4c30516518f7b8b4da6f2d47817ae619803",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "89ee278273bf6919f5aa382d06476836b967523c8a02570d999c8914a46ef45c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of subtalar joint arthroereisis on adult-acquired flexible flatfoot deformity using customised sinus tarsi implant",
+    "authors": "Wong DW, Wang Y, Niu W, Zhang M.",
+    "year": 2020,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2020.02.004",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

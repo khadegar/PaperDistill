@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9596667",
+  "paper_id": "doi:10.1186/s40902-022-00364-4",
+  "pmcid": "PMC9596667",
+  "source_record_sha256": "afe4c507e749d059774b7daef0b9888d70ab1d5f687e9047dbc583406e93e8ae",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "35620f3c7f3f52d156ddb11a6ed57c3cb7f318dbf48d0069ba7bdc93e6cc3c2c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Accuracy of digital surgical guides for dental implants",
+    "authors": "Kim MJ, Jeong JY, Ryu J, Jung S, Park HJ, Oh HK, Kook MS.",
+    "year": 2022,
+    "journal": "Maxillofacial Plastic and Reconstructive Surgery",
+    "doi": "10.1186/s40902-022-00364-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

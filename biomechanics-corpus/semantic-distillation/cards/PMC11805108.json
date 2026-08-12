@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11805108",
+  "paper_id": "doi:10.4103/jpbs.jpbs_706_24",
+  "pmcid": "PMC11805108",
+  "source_record_sha256": "d83710100e11ce736bbeef0c05699c272249d09533c812cc5a08b28461b134a9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4ff5ab541b369154587ab01e9e85205c6015a73de2bb9f0bbc6350d91fc63985",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of Implant Angulation on Stress Distribution and Survival Rate of Implant-Supported Fixed Dental Prostheses: A Prospective Clinical Study",
+    "authors": "Gajbhiye OA, Parmar VB, Begum F, Hussaini SM, Chandra S, Sonikumari.",
+    "year": 2024,
+    "journal": "Journal of Pharmacy & Bioallied Sciences",
+    "doi": "10.4103/jpbs.jpbs_706_24",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

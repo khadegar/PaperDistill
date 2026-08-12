@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6095501",
+  "paper_id": "doi:10.1371/journal.pone.0201801",
+  "pmcid": "PMC6095501",
+  "source_record_sha256": "8e2475ade83dd78be83446f2e3c57398aa373390f31d5802ea4a70a17c12bd4d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c1e4730167d1abab9dc90cb9597d52de920abc339c2c14462ad3a901c9964c72",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of the screw type (S2-alar-iliac and iliac), screw length, and screw head angle on the risk of screw and adjacent bone failures after a spinopelvic fixation technique: A finite element analysis",
+    "authors": "Shin JK, Lim BY, Goh TS, Son SM, Kim HS, Lee JS, Lee CS.",
+    "year": 2018,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0201801",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Validation Study; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

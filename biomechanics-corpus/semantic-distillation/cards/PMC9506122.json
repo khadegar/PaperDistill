@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9506122",
+  "paper_id": "doi:10.3390/ma15186245",
+  "pmcid": "PMC9506122",
+  "source_record_sha256": "dc684a4e26d24de52aaf9a7aada7212e726848851af041b988e017a4f85f24d2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ff41ddb6f33af93d497f39375c6113b9b29be43260839a583c03140fc92b4abf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dicalcium Phosphate Dihydrate Mineral Loaded Freeze-Dried Scaffolds for Potential Synthetic Bone Applications",
+    "authors": "Iqbal N, Braxton TM, Anastasiou A, Raif EM, Chung CKY, Kumar S, Giannoudis PV, Jha A.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15186245",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

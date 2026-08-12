@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11393938",
+  "paper_id": "doi:10.1021/acsmaterialsau.4c00016",
+  "pmcid": "PMC11393938",
+  "source_record_sha256": "3d2f4e92bc79738c5d60083fa7a73b5ac8d61e1dfdd9620733d6370aa007dc90",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0cc9f1320a2aa2cf774e28f4450c43b2dfbf7da13d4c26602a30599706ce872e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vivo Assessment of a Triple Periodic Minimal Surface Based Biomimmetic Gyroid as an Implant Material in a Rabbit Tibia Model",
+    "authors": "Khan PA, Raheem A, Kalirajan C, Prashanth KG, Manivasagam G.",
+    "year": 2024,
+    "journal": "ACS Materials Au",
+    "doi": "10.1021/acsmaterialsau.4c00016",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

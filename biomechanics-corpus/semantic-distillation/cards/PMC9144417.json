@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9144417",
+  "paper_id": "doi:10.3390/mi13050712",
+  "pmcid": "PMC9144417",
+  "source_record_sha256": "4671f2e8f69eff22b00586d6315b1f694212248e51233eea81cd0f3bb5ca9851",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6b88fd2652450dc5e786e0d7fe129158fd65382f4740ead51457cfbf35a5061d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Microstructure and Corrosion Behavior of Iron Based Biocomposites Prepared by Laser Additive Manufacturing",
+    "authors": "Zhou Y, Xu L, Yang Y, Wang J, Wang D, Shen L.",
+    "year": 2022,
+    "journal": "Micromachines",
+    "doi": "10.3390/mi13050712",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

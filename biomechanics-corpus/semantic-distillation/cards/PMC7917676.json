@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7917676",
+  "paper_id": "doi:10.3390/polym13040545",
+  "pmcid": "PMC7917676",
+  "source_record_sha256": "a4b1a6447331a4b57892616ae2c8f06ad3feb860b5665cc695488e05d0955639",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "42e5f89917e343d242b2ab0613be59ac50ee303c3b7b6287d330eedf98d223de",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Direct 3D Printing of Functional PEEK/Hydroxyapatite Composites via a Fused Filament Fabrication Approach",
+    "authors": "Rodzeń K, Sharma PK, McIlhagger A, Mokhtari M, Dave F, Tormey D, Sherlock R, Meenan BJ, Boyd A.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13040545",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

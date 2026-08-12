@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9516407",
+  "paper_id": "doi:10.3389/fbioe.2022.928216",
+  "pmcid": "PMC9516407",
+  "source_record_sha256": "4d0b444bb94ad6b65a067df4828f4da8c9ac2a2e1ede02bac1ddf4b10dcc4a39",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "032cb7f9d46babc4ab79691b6a00930ab3ce31595c163b52489cedd5ce4c7b7a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vivo evaluation of osseointegration ability of sintered bionic trabecular porous titanium alloy as artificial hip prosthesis",
+    "authors": "Bai X, Li J, Zhao Z, Wang Q, Lv N, Wang Y, Gao H, Guo Z, Li Z.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.928216",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

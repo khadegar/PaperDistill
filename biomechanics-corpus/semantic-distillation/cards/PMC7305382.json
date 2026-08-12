@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7305382",
+  "paper_id": "doi:10.1016/j.mtbio.2020.100060",
+  "pmcid": "PMC7305382",
+  "source_record_sha256": "a5fcc09c250f4125db4453be053d77d59d56440f52a4f34f9442a62ce92264d5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d2cc20e03e0aff3d40a8a0cd15ea202d322d86bff4f06ed7021b82eea693343e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Functionality-packed additively manufactured porous titanium implants",
+    "authors": "van Hengel IAJ, Gelderman FSA, Athanasiadis S, Minneboo M, Weinans H, Fluit AC, van der Eerden BCJ, Fratila-Apachitei LE, Apachitei I, Zadpoor AA.",
+    "year": 2020,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2020.100060",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

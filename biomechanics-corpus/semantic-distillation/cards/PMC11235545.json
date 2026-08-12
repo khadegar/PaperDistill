@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11235545",
+  "paper_id": "doi:10.12998/wjcc.v12.i20.4108",
+  "pmcid": "PMC11235545",
+  "source_record_sha256": "1ac20109bf9a8d88956758fa59d245a08d63ff0081c8961abd35b3d4ce377a8d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8be56dfffdbc3c271a63bf84bd747cebe55ebce7ea09e0109ab60786769b6cfd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical effects of posterior lumbar interbody fusion with vertical placement of pedicle screws compared to traditional placement",
+    "authors": "Jiang JH, Zhao CM, Zhang J, Xu RM, Chen L.",
+    "year": 2024,
+    "journal": "World Journal of Clinical Cases",
+    "doi": "10.12998/wjcc.v12.i20.4108",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9388595",
+  "paper_id": "doi:10.1002/mp.15699",
+  "pmcid": "PMC9388595",
+  "source_record_sha256": "c9746f838bfe93d638e299c62aadb9a4b5f91c7b230579fbba1300b666c52669",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2c5c1c7423850519c2153ef787ec3095394b85aed3a8ae41fdb804d8008e4663",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Validation of Monte Carlo 131 I radiopharmaceutical dosimetry workflow using a 3D‐printed anthropomorphic head and neck phantom",
+    "authors": "Adam DP, Grudzinski JJ, Bormett I, Cox BL, Marsh IR, Bradshaw TJ, Harari PM, Bednarz BP.",
+    "year": 2022,
+    "journal": "Medical Physics",
+    "doi": "10.1002/mp.15699",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

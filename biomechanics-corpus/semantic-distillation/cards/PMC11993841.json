@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11993841",
+  "paper_id": "doi:10.1016/j.jot.2024.08.003",
+  "pmcid": "PMC11993841",
+  "source_record_sha256": "d87c5a419563a4a547eff026aa06bd8ce5380ab2c459f1ce5800c24ce8c20615",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "07967a876e6c6fd1dd66fec81e01d6c14ae34fb525ebb9f519ecbd0fdc4144f0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous metal materials for applications in orthopedic field: A review on mechanisms in bone healing",
+    "authors": "Ma Y, Wang Y, Tong S, Wang Y, Wang Z, Sui R, Yang K, Witte F, Yang S.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2024.08.003",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

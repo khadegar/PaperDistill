@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7727174",
+  "paper_id": "doi:10.1186/s13287-020-02042-6",
+  "pmcid": "PMC7727174",
+  "source_record_sha256": "16890ea4002eeb668c1418bb0b12b1763e01ebc6d29de05c45a9c1397d8254f4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "79d7fa69fa36abe0b248979d464e14e347b8fe865f03bd108d8cce4fe8354bf0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A smart scaffold composed of three-dimensional printing and electrospinning techniques and its application in rat abdominal wall defects",
+    "authors": "Yang Z, Song Z, Nie X, Guo K, Gu Y.",
+    "year": 2020,
+    "journal": "Stem Cell Research & Therapy",
+    "doi": "10.1186/s13287-020-02042-6",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9392247",
+  "paper_id": "doi:10.1186/s12891-022-05645-7",
+  "pmcid": "PMC9392247",
+  "source_record_sha256": "bffa879fc6597fe4de059f611413533d8f13fb73757aaed6c10acaea93097f25",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f66740f61c550103e195b7d26da3c2dacbbc76161c661961bd46a0aaa086d35c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of osteoporosis on the biomechanics of various supplemental fixations co-applied with oblique lumbar interbody fusion (OLIF): a finite element analysis",
+    "authors": "Liu ZX, Gao ZW, Chen C, Liu ZY, Cai XY, Ren YN, Sun X, Ma XL, Du CF, Yang Q.",
+    "year": 2022,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-022-05645-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

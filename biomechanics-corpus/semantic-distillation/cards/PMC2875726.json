@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC2875726",
+  "paper_id": "doi:10.2147/ijn.s9869",
+  "pmcid": "PMC2875726",
+  "source_record_sha256": "321b20055a08986a2de3d0104a4a429d75318819fc29087719386a70861ebb38",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "02b22c8b8023f809f15b22fa9a9d02309b3cf2f40f3c594694c599aad436b50f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tissue engineering scaffold material of porous nanohydroxyapatite/polyamide 66",
+    "authors": "Xu Q, Lu H, Zhang J, Lu G, Deng Z, Mo A.",
+    "year": 2010,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s9869",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

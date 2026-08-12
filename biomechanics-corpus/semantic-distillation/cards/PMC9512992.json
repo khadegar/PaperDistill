@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9512992",
+  "paper_id": "doi:10.1208/s12249-022-02419-1",
+  "pmcid": "PMC9512992",
+  "source_record_sha256": "31792559454f41528925f4e5403f5e5204be4a4fe17fba90d99564da7ac6afbd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c3d9144575b0e56a12e266d9a325f388916c8f52fe26f4c115c32c47eb072ee5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomaterials for Tissue Engineering Applications and Current Updates in the Field: A Comprehensive Review",
+    "authors": "Eldeeb AE, Salah S, Elkasabgy NA.",
+    "year": 2022,
+    "journal": "AAPS PharmSciTech",
+    "doi": "10.1208/s12249-022-02419-1",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

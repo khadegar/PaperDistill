@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10014549",
+  "paper_id": "doi:10.3389/fendo.2023.1076990",
+  "pmcid": "PMC10014549",
+  "source_record_sha256": "e3e9c60720c53462aedc955fc1eece6283c481779e3ecbf024b4e5b97e03e1f0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f34f7cc06e6e51dfcf163908ca5622169c82d34aa78c512ca12d02c49841fe3c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of image reconstruction kernel on computed tomography-based finite element analysis in the clinical opportunistic screening of osteoporosis—A preliminary result",
+    "authors": "Jiang C, Jin D, Ni M, Zhang Y, Yuan H.",
+    "year": 2023,
+    "journal": "Frontiers in Endocrinology",
+    "doi": "10.3389/fendo.2023.1076990",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

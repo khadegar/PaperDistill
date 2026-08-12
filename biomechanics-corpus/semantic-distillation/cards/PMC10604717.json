@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10604717",
+  "paper_id": "doi:10.3390/bioengineering10101233",
+  "pmcid": "PMC10604717",
+  "source_record_sha256": "160361999e90d8ec51d779e07b0048db3e35c6e22d6970ad4a6695886ce148e4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b354d5663301546a35346fd68a8cbb77c5292bdf9994fb7254d8dc40167f0517",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Comparison of In Vivo Bone Tissue Generation Using Calcium Phosphate Bone Substitutes in a Novel 3D Printed Four-Chamber Periosteal Bioreactor",
+    "authors": "Al Maruf DSA, Cheng K, Xin H, Cheung VKY, Foley M, Wise IK, Lewin W, Froggatt C, Wykes J, Parthasarathi K, Leinkram D, Howes D, Suchowerska N, McKenzie DR, Gupta R, Crook JM, Clark JR.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10101233",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

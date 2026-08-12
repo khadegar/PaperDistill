@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7943998",
+  "paper_id": "doi:10.4103/ams.ams_288_20",
+  "pmcid": "PMC7943998",
+  "source_record_sha256": "e950d3d2f6f234b7cc75afc53f3121077ccd76039cda31effdea8e899d592fba",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5f7151ebc04e293fde08ada451bc8a12b6e63df8510feabe326cf39266b64a82",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Bioprinting Using a Coaxial Needle with Viscous Inks in Bone Tissue Engineering - An In vitro Study",
+    "authors": "Walladbegi J, Schaefer C, Pernevik E, Sämfors S, Kjeller G, Gatenholm P, Sándor GK, Rasmusson L.",
+    "year": 2020,
+    "journal": "Annals of Maxillofacial Surgery",
+    "doi": "10.4103/ams.ams_288_20",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

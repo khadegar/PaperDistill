@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8289038",
+  "paper_id": "doi:10.1371/journal.pone.0254837",
+  "pmcid": "PMC8289038",
+  "source_record_sha256": "dad92ee20bbfc62124485e9b4e47c9aa8ef232aed85cde6a8d820cb0d3ec0ccf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f7aeaef177bbfbceee53b6e6e6c0dc3a67a9f5441eadc4ad7ecb0aa9e0bae1ae",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Beneficial osseointegration effect of hydroxyapatite coating on cranial implant – FEM investigation",
+    "authors": "Chamrad J, Marcián P, Cizek J.",
+    "year": 2021,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0254837",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

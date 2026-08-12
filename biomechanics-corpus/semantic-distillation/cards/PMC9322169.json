@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9322169",
+  "paper_id": "doi:10.3390/curroncol29070361",
+  "pmcid": "PMC9322169",
+  "source_record_sha256": "8e742e02495a5cb3b24306cdda23d9ca69936e2a559baa3699eb397982a887bd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ae523d44fa3cbc296bcd57b43d6b96abb0ea73b0f848e99dc451535c9aedafc0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimension-Printed Custom-Made Prosthetic Reconstructions in Bone Tumors: A Single Center Experience",
+    "authors": "Vitiello R, Matrangolo MR, El Motassime A, Perna A, Cianni L, Maccauro G, Ziranu A.",
+    "year": 2022,
+    "journal": "Current Oncology",
+    "doi": "10.3390/curroncol29070361",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

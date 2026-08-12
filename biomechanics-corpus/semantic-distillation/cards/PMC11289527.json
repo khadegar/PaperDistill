@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11289527",
+  "paper_id": "doi:10.1177/21925682221141874",
+  "pmcid": "PMC11289527",
+  "source_record_sha256": "d84279db164eca4be96111d28724634aa1fa65883c208293950a6ba7aa78f088",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fc290de2b50596bb0d9167d5a1991f98e8b36d5cf647e1d69e4bca16db1290b8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "High-Demand Spinal Deformity With Multi-Rod Constructs and Porous Fusion/Fixation Implants: A Finite Element Study",
+    "authors": "Panico M, Chande RD, Lindsey DP, Maria Tobia Villa T, Yerby SA, Brayda-Bruno M, Bassani T, Polly DW, Galbusera F.",
+    "year": 2022,
+    "journal": "Global Spine Journal",
+    "doi": "10.1177/21925682221141874",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

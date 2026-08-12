@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10198465",
+  "paper_id": "doi:10.3389/fbioe.2023.1153801",
+  "pmcid": "PMC10198465",
+  "source_record_sha256": "3dfd4db4dfd85ce8a34758cdefa9ae628ebd39836c5c418d47dfa8887e2554f6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b14cc6c78b20664cafe73f9b01459daf52a3ca8063b3335e91b8fcd3d7360939",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A novel three dimensional-printed biomechanically evaluated patient-specific sacral implant in spinopelvic reconstruction after total en bloc sacrectomy",
+    "authors": "Lv Z, Li J, Yang Z, Li X, Yang Q, Li Z.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1153801",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

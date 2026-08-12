@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9493251",
+  "paper_id": "doi:10.3389/fbioe.2022.991676",
+  "pmcid": "PMC9493251",
+  "source_record_sha256": "96fc04ff680dd65ec0ff295ce5256c8fe1944e1b067b6a23273afb88033aeb7e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "642c5c1ddfdf1cd2ead21476bca95dbe0c1dc9671474aaa71cf6f6fe80f2d0fd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Digital chain for pelvic tumor resection with 3D-printed surgical cutting guides",
+    "authors": "Biscaccianti V, Fragnaud H, Hascoët JY, Crenn V, Vidal L.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.991676",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

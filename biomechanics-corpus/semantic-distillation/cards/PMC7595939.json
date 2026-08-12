@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7595939",
+  "paper_id": "doi:10.1016/j.bioactmat.2020.10.007",
+  "pmcid": "PMC7595939",
+  "source_record_sha256": "20d78e941f918a2bb037a2d892f14033e986db64b18cb1160d43f15d7ea20b7a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a99ce1284e9f7dc1f3dceb612a146b1b4579a15021b8b0c32907b9b47888cd2e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Construction of tantalum/poly(ether imide) coatings on magnesium implants with both corrosion protection and osseointegration properties",
+    "authors": "Cheon KH, Park C, Kang MH, Kang IG, Lee MK, Lee H, Kim HE, Jung HD, Jang TS.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2020.10.007",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

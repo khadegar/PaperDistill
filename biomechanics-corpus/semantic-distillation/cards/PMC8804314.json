@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8804314",
+  "paper_id": "doi:10.3389/fbioe.2021.748151",
+  "pmcid": "PMC8804314",
+  "source_record_sha256": "4e8aaee2163e1c9f7960894a37a80feaa8af991a5c673eb70bd851ddd00a6ad3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "43c3e4f6ebde74829a309ce70341e7ba0d7d37215c4887fecfdd03c6f8eef090",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cryogenic 3D Printing of ß -TCP/PLGA Composite Scaffolds Incorporated With BpV (Pic) for Treating Early Avascular Necrosis of Femoral Head",
+    "authors": "Li F, Cao Z, Li K, Huang K, Yang C, Li Y, Zheng C, Ye Y, Zhou T, Peng H, Liu J, Wang C, Xie K, Tang Y, Wang L.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.748151",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

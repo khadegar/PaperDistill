@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12566269",
+  "paper_id": "doi:10.3390/mi16101098",
+  "pmcid": "PMC12566269",
+  "source_record_sha256": "b0409e7039a10e0f54b49f05bf2a0021c0440a412134ceac84b9defa3de47bc1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7c6a7baf46d203ee675670f07e07bc080dc2c9fd5e7bc0d48f3a7d361609f6d6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Coupling CFD and Machine Learning to Assess Flow Properties in Porous Scaffolds for Tissue Engineering",
+    "authors": "Rodríguez-Guerra J, González-Mederos P, Amigo N.",
+    "year": 2025,
+    "journal": "Micromachines",
+    "doi": "10.3390/mi16101098",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

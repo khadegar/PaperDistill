@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9917875",
+  "paper_id": "doi:10.3390/jcm12030805",
+  "pmcid": "PMC9917875",
+  "source_record_sha256": "cc4f97339c23dee06a3207bfd55b1a3f4ab88881b7dd0ad07166e9d633d70589",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fbf2e25d4e602297029578ba9f6d0b3542c24855c40597c0a9b1bc7832aaf2a0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of the Tibial Tunnel Angle and Posterior Tibial Slope on “Killer Turn” during Posterior Cruciate Ligament Reconstruction: A Three-Dimensional Finite Element Analysis",
+    "authors": "Yang F, Yokoe T, Ouchi K, Tajima T, Chosa E.",
+    "year": 2023,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm12030805",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

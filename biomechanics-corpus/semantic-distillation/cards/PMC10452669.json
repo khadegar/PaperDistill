@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10452669",
+  "paper_id": "doi:10.3390/biomedicines11082274",
+  "pmcid": "PMC10452669",
+  "source_record_sha256": "3af40f224b3823571aec3b7cd0d59f6f4aeae46dc37a35c163413f28f01777a9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "65f4a93a4a979af2a2bbf481d7908a204d97fcd1ff7f0e2f7b33350be487377c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Alveolar Ridge Augmentation with a Novel Combination of 3D-Printed Scaffolds and Adipose-Derived Mesenchymal Stem Cells—A Pilot Study in Pigs",
+    "authors": "Lau CS, Chua J, Prasadh S, Lim J, Saigo L, Goh BT.",
+    "year": 2023,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines11082274",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

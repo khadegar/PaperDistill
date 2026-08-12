@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11848601",
+  "paper_id": "doi:10.1002/advs.202411602",
+  "pmcid": "PMC11848601",
+  "source_record_sha256": "9e852006a844a68efeb4b122c1535b9a211618116d7dc714a05e26ad5492348b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0b3e77f91c6f3d5fb3af073cfc70b71725e0151c7d9336a13794c97dc31289a9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Chirality‐Induced Hydroxyapatite Manipulates Enantioselective Bone‐Implant Interactions Toward Ameliorative Osteoporotic Osseointegration",
+    "authors": "Yang L, Du J, Jin S, Yang S, Chen Z, Yu S, Fan C, Zhou C, Ruan H.",
+    "year": 2024,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202411602",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

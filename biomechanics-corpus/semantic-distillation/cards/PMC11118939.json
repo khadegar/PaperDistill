@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11118939",
+  "paper_id": "doi:10.3390/bioengineering11050507",
+  "pmcid": "PMC11118939",
+  "source_record_sha256": "59902dedbf415df69c1564e3ec8d68f17bd1450c74f9d6d97d53037ff0f5d082",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b8cecb88b2a637fa7fd67748193730cb0dbab35b467be93d7e0aa3380e700c76",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigation of the Role of Osteoporotic Vertebra Degeneration on the Stability of the Lumbar Spine: In Silico Modelling under Compressive Loading",
+    "authors": "Chabarova O, Selivonec J, Menendez Hurtado A.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11050507",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

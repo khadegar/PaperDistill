@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8249788",
+  "paper_id": "doi:10.1111/cpr.13043",
+  "pmcid": "PMC8249788",
+  "source_record_sha256": "c894414606ac7144cf538493ec5932ff42bd970cc111439e5db4c4ef5a2646b1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6bc516b594fdc5bdd7fabbee40a365245592b9071d0c2e853617f5dcf97554ba",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Naringin‐inlaid silk fibroin/hydroxyapatite scaffold enhances human umbilical cord‐derived mesenchymal stem cell‐based bone regeneration",
+    "authors": "Zhao ZH, Ma XL, Zhao B, Tian P, Ma JX, Kang JY, Zhang Y, Guo Y, Sun L.",
+    "year": 2021,
+    "journal": "Cell Proliferation",
+    "doi": "10.1111/cpr.13043",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

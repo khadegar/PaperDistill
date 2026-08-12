@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8628790",
+  "paper_id": "doi:10.3390/gels7040184",
+  "pmcid": "PMC8628790",
+  "source_record_sha256": "3e34ada86269e9212e382ed9c761fa661fee072f18996522752d724e3ffe1147",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5f8de09841aa1589d287fe1b5ad9f59631468cfec367a347efbead2eb8007e7d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reinforcement of Alginate-Gelatin Hydrogels with Bioceramics for Biomedical Applications: A Comparative Study",
+    "authors": "Avila-Ramirez A, Catzim-Ríos K, Guerrero-Beltrán CE, Ramírez-Cedillo E, Ortega-Lara W.",
+    "year": 2021,
+    "journal": "Gels",
+    "doi": "10.3390/gels7040184",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

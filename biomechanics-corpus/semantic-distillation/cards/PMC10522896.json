@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10522896",
+  "paper_id": "doi:10.1016/j.ohx.2023.e00474",
+  "pmcid": "PMC10522896",
+  "source_record_sha256": "dc2dbd72823c937f13d6b5008e4c4f6396921a631899e8757c11a5d1713fa4d9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e1df08b7cdcf55df01c1bcbfaa4b5905d2eb570f2a47994316972933731a2eb2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Low-speed instrumented drill press for bone screw insertion",
+    "authors": "Betts JL, Brinkley FM, Priddy LB, Priddy MW.",
+    "year": 2023,
+    "journal": "HardwareX",
+    "doi": "10.1016/j.ohx.2023.e00474",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

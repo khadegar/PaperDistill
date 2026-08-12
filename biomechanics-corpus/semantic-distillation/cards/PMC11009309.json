@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11009309",
+  "paper_id": "doi:10.1038/s41467-024-47189-5",
+  "pmcid": "PMC11009309",
+  "source_record_sha256": "8dd6a83fbd384560b0af49abd76a35c00636a41c0ada33bb4077c6c89cb4b9a1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6f883e68e369e025fa027a00002007d67677b2ebec736176e714e03140a276bf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multiscale architecture design of 3D printed biodegradable Zn-based porous scaffolds for immunomodulatory osteogenesis",
+    "authors": "Li S, Yang H, Qu X, Qin Y, Liu A, Bao G, Huang H, Sun C, Dai J, Tan J, Shi J, Guan Y, Pan W, Gu X, Jia B, Wen P, Wang X, Zheng Y.",
+    "year": 2024,
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-024-47189-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

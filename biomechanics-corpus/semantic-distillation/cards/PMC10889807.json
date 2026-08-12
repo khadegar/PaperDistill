@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10889807",
+  "paper_id": "doi:10.3390/jcm13040969",
+  "pmcid": "PMC10889807",
+  "source_record_sha256": "a1e4528cd88dfe5827f38d42891d0569b65635ec556ff6204fb9232b98915097",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1dc1b878fe15f04de13c9fd7a9e139e4d7fafbc26a8306265192f92f5c023777",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Short- to Mid-Term Clinical and Radiological Results of Selective Laser Melting Highly Porous Titanium Cup in Primary Total Hip Arthroplasty",
+    "authors": "Familiari F, Barone A, De Gori M, Banci L, Palco M, Simonetta R, Gasparini G, Mercurio M, Calafiore G.",
+    "year": 2024,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm13040969",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

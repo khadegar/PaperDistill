@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7864368",
+  "paper_id": "doi:10.4317/jced.57389",
+  "pmcid": "PMC7864368",
+  "source_record_sha256": "e688f795a0a96be4b1ed7d7d7903b2f5782577a6e520d5a1cb3b36f434a395a3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bb9f200ac092b0b31781ea5217a233334883ec2638031939af7df403e10f9444",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vitro assessment of a novel additive manufactured titanium implant abutment",
+    "authors": "Kalman L.",
+    "year": 2021,
+    "journal": "Journal of Clinical and Experimental Dentistry",
+    "doi": "10.4317/jced.57389",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

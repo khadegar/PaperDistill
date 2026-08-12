@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11593412",
+  "paper_id": "doi:10.3390/gels10110745",
+  "pmcid": "PMC11593412",
+  "source_record_sha256": "dec02b83ddc815cb85b0f4d155e851c33ef79c6657f0b3dc3da5057cc5889842",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e3c53cda90af78e193e58890103bcacddd2c4dbd8ff6d55685915cf85fbc4c48",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro Investigation of 3D Printed Hydrogel Scaffolds with Electrospun Tidemark Component for Modeling Osteochondral Interface",
+    "authors": "Effanga VE, Akilbekova D, Mukasheva F, Zhao X, Kalyon DM, Erisken C.",
+    "year": 2024,
+    "journal": "Gels",
+    "doi": "10.3390/gels10110745",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

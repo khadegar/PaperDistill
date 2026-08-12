@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8770436",
+  "paper_id": "doi:10.3389/fnins.2021.727715",
+  "pmcid": "PMC8770436",
+  "source_record_sha256": "83638824843303f5adf8803922017717b84a60628126d88f4b76491251365450",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c6c27c4d7ca7dba5bcca56aa8f897443250bb318778f2a3894ae9dca37f55a80",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Modeling of Magnitude and Location of Brain Micromotion Induced Strain for Intracortical Implants",
+    "authors": "Al Abed A, Amatoury J, Khraiche M.",
+    "year": 2022,
+    "journal": "Frontiers in Neuroscience",
+    "doi": "10.3389/fnins.2021.727715",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

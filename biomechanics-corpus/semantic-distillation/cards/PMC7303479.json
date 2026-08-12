@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7303479",
+  "paper_id": "doi:10.3389/fbioe.2020.00544",
+  "pmcid": "PMC7303479",
+  "source_record_sha256": "6bc0bd4b7854df6144119b1efb9e4ee3db314edfb4a34445b3f998a1c37e4f3b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3dfb7d16d1345e7118bb4b2f78bdce417f95572586591d1778ff2abb0080360a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Linear Momenta Transferred to the Dental Implant-Bone and Natural Tooth—PDL-Bone Constructs Under Impact Loading: A Comparative in-vitro and in-silico Study",
+    "authors": "Karimi Dastgerdi A, Rouhi G, Dehghan MM, Farzad-Mohajeri S, Barikani HR.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.00544",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

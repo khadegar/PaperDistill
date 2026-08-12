@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8151920",
+  "paper_id": "doi:10.3390/biomedicines9050531",
+  "pmcid": "PMC8151920",
+  "source_record_sha256": "afb89543c8692a08680b8a8a92d26367c29008d846c4052f05443b352ffe6a4e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "905df5e75e41a89fb6c0db5c5159e493abf608577ee9f6fbb4696ad42e665f71",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Vancomycin-Loaded Collagen/Hydroxyapatite Layers Electrospun on 3D Printed Titanium Implants Prevent Bone Destruction Associated with S. epidermidis Infection and Enhance Osseointegration",
+    "authors": "Suchý T, Vištejnová L, Šupová M, Klein P, Bartoš M, Kolinko Y, Blassová T, Tonar Z, Pokorný M, Sucharda Z, Žaloudková M, Denk F, Ballay R, Juhás Š, Juhásová J, Klapková E, Horný L, Sedláček R, Grus T, Čejka Z, Čejka Z, Chudějová K, Hrabák J.",
+    "year": 2021,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines9050531",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

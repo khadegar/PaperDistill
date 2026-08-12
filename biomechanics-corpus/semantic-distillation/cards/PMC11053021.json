@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11053021",
+  "paper_id": "doi:10.1038/s41598-024-59347-2",
+  "pmcid": "PMC11053021",
+  "source_record_sha256": "8df6d3abf8135271aa72e138719c3c5addb5e23f0a3a3ee9c95613f617ec98e2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cf26426ba7f4d40d01c030f084b2b09a577655f87eb345e08d27d35284af5f43",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Understanding the impact of modiolus porosity on stimulation of spiral ganglion neurons by cochlear implants",
+    "authors": "Sriperumbudur KK, Appali R, Gummer AW, van Rienen U.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-59347-2",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

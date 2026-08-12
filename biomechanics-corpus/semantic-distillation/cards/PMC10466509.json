@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10466509",
+  "paper_id": "doi:10.4103/jpbs.jpbs_524_22",
+  "pmcid": "PMC10466509",
+  "source_record_sha256": "5b512459666be5a4e75fad260870c061bcf2080357766c572df090f9b11f103e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3fdbb526faef9855502845717b7acd2408b495b034a16ebbf62055bba2c2278e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Three-Dimensional Finite Element Analysis of the Stress Distribution Around the Bone Mini-Implant Interface Based on the Mini-Implant Angle of Insertion, Diameter, and Length",
+    "authors": "Sarika K, Kumaran NK, Seralathan S, Sathishkumar RK, Preethi SK.",
+    "year": 2023,
+    "journal": "Journal of Pharmacy & Bioallied Sciences",
+    "doi": "10.4103/jpbs.jpbs_524_22",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

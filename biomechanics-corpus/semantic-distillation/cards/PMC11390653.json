@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11390653",
+  "paper_id": "doi:10.3389/fchem.2024.1452670",
+  "pmcid": "PMC11390653",
+  "source_record_sha256": "ca9cbac3ab88452a3c535517c12f3048333b4651ac222ff7f516814ea891bdfa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8cf7ce8973ef7fb575d0e483d49eb5c03446bef28ab3cc143f725fe694df2a84",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous titanium scaffolds modified with Zeolitic Imidazolate Framework (ZIF-8) with enhanced osteogenic activity for the prevention of implant-associated infections",
+    "authors": "Di Matteo V, Di Filippo MF, Ballarin B, Bonvicini F, Iaquinta MR, Panzavolta S, Mazzoni E, Cassani MC.",
+    "year": 2024,
+    "journal": "Frontiers in Chemistry",
+    "doi": "10.3389/fchem.2024.1452670",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

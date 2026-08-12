@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7662749",
+  "paper_id": "doi:10.3390/ma13214819",
+  "pmcid": "PMC7662749",
+  "source_record_sha256": "7b0e0f08b360d0d2c089d48c7390634c607adde6ff70a8b8ca41b6446fac95fc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b51890893f1dd26284be85054142f5fd1cb32ca5aa0a2b1f977a8414315d1e7f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing and NIR Fluorescence Imaging Techniques for the Fabrication of Implants",
+    "authors": "Suh YJ, Lim TH, Choi HS, Kim MS, Lee SJ, Kim SH, Park CH.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13214819",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

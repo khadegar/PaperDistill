@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7985105",
+  "paper_id": "doi:10.1007/s10856-021-06500-2",
+  "pmcid": "PMC7985105",
+  "source_record_sha256": "22acbd60706452361d0cb6595a50048c8a4720ce3620deb14b36ca4e51914135",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f7a76621cff7d794189c951b13d482dea4ab7dcfabd7eb721d70ff94df04f670",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The corticospinal tract structure of collagen/silk fibroin scaffold implants using 3D printing promotes functional recovery after complete spinal cord transection in rats",
+    "authors": "Li XH, Zhu X, Liu XY, Xu HH, Jiang W, Wang JJ, Chen F, Zhang S, Li RX, Chen XY, Tu Y.",
+    "year": 2021,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-021-06500-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

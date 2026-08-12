@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10932275",
+  "paper_id": "doi:10.3390/jcm13051503",
+  "pmcid": "PMC10932275",
+  "source_record_sha256": "5d1ee6c02a08789d2ff55912fec6182b5c1b3783a429ff1b69d1193ec3e03a08",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6de107079216a47ad9eb8733a9518f8eecd387c7283c7d522e0b28f1f682f278",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Remodeling of Maxilla after Retraction of Incisors during Orthodontic Treatment with Extraction of Premolars Based on CBCT Study: A Systematic Review",
+    "authors": "Kuc AE, Kotuła J, Nawrocki J, Kulgawczyk M, Kawala B, Lis J, Sarul M.",
+    "year": 2024,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm13051503",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

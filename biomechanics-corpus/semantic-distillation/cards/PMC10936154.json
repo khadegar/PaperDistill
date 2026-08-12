@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10936154",
+  "paper_id": "doi:10.1097/oi9.0000000000000320",
+  "pmcid": "PMC10936154",
+  "source_record_sha256": "0c0ce70e2c055e1d551257e39fff26fa6c7481e1416a7989a58002f2e4ded43b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2d0e8bbe8545c7938e33d0e29b33a27a6a492d731e314a98e6ce83a3d01ac5aa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Distal femur fractures: basic science and international perspectives",
+    "authors": "Nauth A, Haller J, Augat P, Anderson DD, McKee MD, Shearer D, Jenkinson R, Pape HC.",
+    "year": 2024,
+    "journal": "OTA International",
+    "doi": "10.1097/oi9.0000000000000320",
+    "publication_type": "other; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

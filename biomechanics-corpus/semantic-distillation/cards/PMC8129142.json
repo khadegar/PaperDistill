@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8129142",
+  "paper_id": "doi:10.1038/s41598-021-89961-3",
+  "pmcid": "PMC8129142",
+  "source_record_sha256": "e0ce0745c9698a181e68577cd44976a1f2acf711c08afa1ce022c1ca0778154a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fbf3fb6137d396bbbfa55a776b6720186a32d2622ca9009528b531025643e568",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The impact of surface treatment in 3-dimensional printed implants for early osseointegration: a comparison study of three different surfaces",
+    "authors": "Lee J, Lee JB, Yun J, Rhyu IC, Lee YM, Lee SM, Lee MK, Kim B, Kim P, Koo KT.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-89961-3",
+    "publication_type": "Comparative Study; Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

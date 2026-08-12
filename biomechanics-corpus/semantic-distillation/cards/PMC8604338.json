@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8604338",
+  "paper_id": "doi:10.1371/journal.pone.0256528",
+  "pmcid": "PMC8604338",
+  "source_record_sha256": "5138fc15aad713fda462bf3559c9ef47ccde9afd5f0d6943cdee17c3448116f5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "68b1e4f4fdd7148b923b0b7745620d4f2faca5fdfd85f65147d069b15538beac",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of the performance of additively manufactured scaffolds for scapholunate ligament reconstruction",
+    "authors": "Perevoshchikova N, Moerman KM, Akhbari B, Bindra R, Maharaj JN, Lloyd DG, Gomez Cerezo M, Carr A, Vaquette C, Saxby DJ.",
+    "year": 2021,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0256528",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10181173",
+  "paper_id": "doi:10.3390/polym15092129",
+  "pmcid": "PMC10181173",
+  "source_record_sha256": "356cc8a7d8aa4248a0eee906506c0ca4a6b06d9f49bc2a3bcddb99efc960dd75",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ea8915fd9ae34b9a95c4fdff343674e9ff0ab39ceda74a2bb61efd825c052c09",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Novel Approach for Design and Manufacturing of Curvature-Featuring Scaffolds for Osteochondral Repair",
+    "authors": "Marcelino P, Silva JC, Moura CS, Meneses J, Cordeiro R, Alves N, Pascoal-Faria P, Ferreira FC.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15092129",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

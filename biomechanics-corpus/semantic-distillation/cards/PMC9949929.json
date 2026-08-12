@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9949929",
+  "paper_id": "doi:10.1055/s-0042-1747955",
+  "pmcid": "PMC9949929",
+  "source_record_sha256": "b10e356692f875c7acf2c25cbc9f6d27f250b4c14e92e1888ba955b2c0446694",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6bc26f5f42f6757c13b282fd97ba967fec94f67776ef70f1350e32ccfc3aa302",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Different Restoring Materials on Stress Distribution in Prosthesis on Implants: A Review of Finite Element Studies",
+    "authors": "Vieira FR, Bitencourt SB, Rosa CDDRD, Vieira AB, Santos DMD, Goiato MC.",
+    "year": 2022,
+    "journal": "European Journal of Dentistry",
+    "doi": "10.1055/s-0042-1747955",
+    "publication_type": "review-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7557476",
+  "paper_id": "doi:10.3390/pharmaceutics12090784",
+  "pmcid": "PMC7557476",
+  "source_record_sha256": "1e106bb7d6a19024073ba562f3ce12a340eab94e1a549f191a7f71094b31f155",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "564c980bffa1eaed986a312c834c09364191c1f3ddb6a11e58d3296fe4ea5d9a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Chitosan/Polycyclodextrin (CHT/PCD)-Based Sponges Delivering VEGF to Enhance Angiogenesis for Bone Regeneration",
+    "authors": "Palomino-Durand C, Lopez M, Marchandise P, Martel B, Blanchemain N, Chai F.",
+    "year": 2020,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics12090784",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

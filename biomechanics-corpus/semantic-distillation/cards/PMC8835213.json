@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8835213",
+  "paper_id": "doi:10.3390/ijerph19031750",
+  "pmcid": "PMC8835213",
+  "source_record_sha256": "722c7308d3e497fbb0cbb03b785a8a9b59ae7fed44cdc6785df88a4a4cd6b859",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "05415e32e8400576294a3fbb6e21bc8793ef0bb750c4201dc2039a63487ccccb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Marginal Bone Loss around Implant-Retaining Overdentures versus Implant-Supported Fixed Prostheses 12-Month Follow-Up: A Retrospective Study",
+    "authors": "Dorj O, Lin CK, Salamanca E, Pan YH, Wu YF, Hsu YS, Lin JC, Lin HK, Chang WJ.",
+    "year": 2022,
+    "journal": "International Journal of Environmental Research and Public Health",
+    "doi": "10.3390/ijerph19031750",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

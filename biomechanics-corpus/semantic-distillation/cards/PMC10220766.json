@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10220766",
+  "paper_id": "doi:10.3390/pharmaceutics15051340",
+  "pmcid": "PMC10220766",
+  "source_record_sha256": "97a6c1528b12248a6032238aa90b11aa221814b119a422ed97d32dcf073ed9c2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fbddd3afdeead202eba88b6eff78f213c1f820288abf5ad66a89a7a6fa230d41",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Microporous/Macroporous Polycaprolactone Scaffolds for Dental Applications",
+    "authors": "Shabab T, Bas O, Dargaville BL, Ravichandran A, Tran PA, Hutmacher DW.",
+    "year": 2023,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics15051340",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

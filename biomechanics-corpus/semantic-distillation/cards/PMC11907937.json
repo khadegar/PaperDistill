@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11907937",
+  "paper_id": "doi:10.1186/s13018-025-05678-3",
+  "pmcid": "PMC11907937",
+  "source_record_sha256": "bab3412e121305a373d591d651a9c520dd4e4bf33adaea743f7e2eb662d7c4e0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5c3671def0912b08c44c05e60c61f2a45bae8994ea9f1dc0004c1db25687bf67",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Robot-assisted total knee arthroplasty is more precise than conventional total knee arthroplasty in restoring knee, but not ankle alignment: a retrospective study based on imaging data",
+    "authors": "Li H, Liu H, Zhou Y, Wang B, Ma J.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-05678-3",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

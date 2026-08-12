@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9462677",
+  "paper_id": "doi:10.1371/journal.pone.0272529",
+  "pmcid": "PMC9462677",
+  "source_record_sha256": "51198c50816dd6828d01edc21061dfcb6d91744fca050c514c190105cec00c52",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fd6c599023c63c6376a5e5da29dddca6fb57387f5874d7d15d17d657c3ceca53",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Experimental validation of a subject-specific finite element model of lumbar spine segment using digital image correlation",
+    "authors": "Garavelli C, Curreli C, Palanca M, Aldieri A, Cristofolini L, Viceconti M.",
+    "year": 2022,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0272529",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

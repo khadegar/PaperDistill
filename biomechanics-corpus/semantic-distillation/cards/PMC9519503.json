@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9519503",
+  "paper_id": "doi:10.1016/j.heliyon.2022.e10706",
+  "pmcid": "PMC9519503",
+  "source_record_sha256": "dec6390b0fd081f1c6b17cdf2627b13dad5470e0821b9514da02a6631f759722",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "868ee08b69d43041ab00ae14363ef2b583f7d00725798291beb89b45bad67e6b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surgical planning and finite element analysis for the neurocraneal protection in cranioplasty with PMMA: A case study",
+    "authors": "Moncayo-Matute FP, Peña-Tapia PG, Vázquez-Silva E, Torres-Jara PB, Moya-Loaiza DP, Abad-Farfán G, Andrade-Galarza AF.",
+    "year": 2022,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2022.e10706",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

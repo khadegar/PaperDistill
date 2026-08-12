@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11930443",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101628",
+  "pmcid": "PMC11930443",
+  "source_record_sha256": "9b351c6bddf4b07dfc8dad6b4a77cb9868adad9cb8699e4bcbecf4ab9dc481f1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b389cf711ae377c85d0e3509b099fd4462221375d4f4692026f0f6431ef99d4b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Microenvironment-responsive nanoparticles functionalized titanium implants mediate redox balance and immunomodulation for enhanced osseointegration",
+    "authors": "Chen W, Pan Y, Chu CH, Dong S, Wang M, Wang L, Wang L, Lin X, Tang C.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101628",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

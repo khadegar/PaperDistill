@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7240703",
+  "paper_id": "doi:10.3390/polym12040905",
+  "pmcid": "PMC7240703",
+  "source_record_sha256": "c6adb06874e32ce69ec497c07110a71b108c6c25683e5a59892497a441c23819",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fc8752dbcca44364c068d8ff78f9db544de92a0b94b6ecf7404f6dc0f1546c7e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Natural and Synthetic Polymers for Bone Scaffolds Optimization",
+    "authors": "Donnaloja F, Jacchetti E, Soncini M, Raimondi MT.",
+    "year": 2020,
+    "journal": "Polymers",
+    "doi": "10.3390/polym12040905",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

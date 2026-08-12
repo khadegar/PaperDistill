@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10288704",
+  "paper_id": "doi:10.1186/s12903-023-03106-8",
+  "pmcid": "PMC10288704",
+  "source_record_sha256": "cebae831b9321770fdbb3629a9b62689a58952cdcde63349bf56ab47d51edc76",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "76458b77184b5056803f5621e0a58e998b02ac25f7a234b09138e5088ed82ca2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of different designs of orthodontic clear aligners on the maxillary central incisors in the tooth extraction cases: a biomechanical study",
+    "authors": "Meng X, Wang C, Xu W, Wang R, Zheng L, Wang C, Aversa R, Fan Y.",
+    "year": 2023,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-023-03106-8",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

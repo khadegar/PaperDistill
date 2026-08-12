@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9086255",
+  "paper_id": "doi:10.1039/c8ra05615c",
+  "pmcid": "PMC9086255",
+  "source_record_sha256": "92a6a4b440771eaae5171a5f6a4661f2c7cf2d02572ac20585abceb3847eac6c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5a517b99f4aca023d43ecd618a06f4b22dffecaa7a6d0e8b5ac78f2f74d1cb10",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The enhanced osteogenesis and osteointegration of 3-DP PCL scaffolds via structural and functional optimization using collagen networks",
+    "authors": "Wang J, Lin C, Gao X, Zheng Z, Lv M, Sun J, Zhang Z.",
+    "year": 2018,
+    "journal": "RSC Advances",
+    "doi": "10.1039/c8ra05615c",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

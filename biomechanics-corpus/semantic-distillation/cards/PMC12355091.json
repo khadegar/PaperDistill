@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12355091",
+  "paper_id": "doi:10.1016/j.artd.2025.101778",
+  "pmcid": "PMC12355091",
+  "source_record_sha256": "79dae12e568cf99e29cd688bde22341e72b40bb11cb0b297c5758a2bfc1979a0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a29ead7f9ef3011ce7243a63c6a1c01ec4b9c0f8064e81973a0fd1cf6d6af4be",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Femoral Component Loosening is the Predominant Mode of Early Failure in Contemporary Cementless Total Knee Arthroplasty",
+    "authors": "Chenard SW, Mulvey HE, Mika AP, Baker CE, Pelt CE, Polkowski GG, Martin JR.",
+    "year": 2025,
+    "journal": "Arthroplasty Today",
+    "doi": "10.1016/j.artd.2025.101778",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

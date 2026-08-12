@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9099494",
+  "paper_id": "doi:10.3390/ma15092969",
+  "pmcid": "PMC9099494",
+  "source_record_sha256": "0b005af066a3d8758974231dbd3f60a58e85eca1a77ec3047c8bb47c4d0da3a0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5d3c2c08cd38227b7edf1616bb14a815efa967380c2b68ec469793354dd3a4b6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Femtosecond Laser Modification on Biomechanical and Biofunctional Behavior of Porous Titanium Substrates",
+    "authors": "Beltrán AM, Giner M, Rodríguez Á, Trueba P, Rodríguez-Albelo LM, Vázquez-Gámez MA, Godinho V, Alcudia A, Amado JM, López-Santos C, Torres Y.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15092969",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8186800",
+  "paper_id": "doi:10.1371/journal.pone.0253002",
+  "pmcid": "PMC8186800",
+  "source_record_sha256": "a7e998c8a12f467658fe025601658859a6545538745a7a8bc2ecaa45bae03fc7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cbf626cb2043049d4a0dd15478f9e9f61228c63911b16ed6c067524c38136bcd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Improving mandibular reconstruction by using topology optimization, patient specific design and additive manufacturing?—A biomechanical comparison against miniplates on human specimen",
+    "authors": "Lang JJ, Bastian M, Foehr P, Seebach M, Weitz J, von Deimling C, Schwaiger BJ, Micheler CM, Wilhelm NJ, Grosse CU, Kesting M, Burgkart R.",
+    "year": 2021,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0253002.r006",
+    "publication_type": "Comparative Study; Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

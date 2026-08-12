@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10106349",
+  "paper_id": "doi:10.1007/s00223-022-01058-9",
+  "pmcid": "PMC10106349",
+  "source_record_sha256": "08781c2ca915152911e06f1f12d71bbd0d9907211f98aee7b81e78c891367707",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7bb3fec717a454ece4cf51d59d2d63abe3c9bfa2089fb52aaf2c1b72244f2fe5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Contributions of Resin Cast Etching to Visualising the Osteocyte Lacuno-Canalicular Network Architecture in Bone Biology and Tissue Engineering",
+    "authors": "Sato M, Shah FA.",
+    "year": 2023,
+    "journal": "Calcified Tissue International",
+    "doi": "10.1007/s00223-022-01058-9",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

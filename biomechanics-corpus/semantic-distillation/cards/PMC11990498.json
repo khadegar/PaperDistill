@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11990498",
+  "paper_id": "doi:10.3390/ma18071652",
+  "pmcid": "PMC11990498",
+  "source_record_sha256": "1e8c40b734174507685df2bda42e4ee70f6fcd67e8b4b12826c6e445501a44ee",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "41ae698e729afdd9f13061598496331fe0cc7a0fbd6783f6380dfbab74699e48",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of Patellar Groove Prostheses in Veterinary Medicine: Review of Technological Advances, Technical Aspects, and Quality Standards",
+    "authors": "Pawlik M, Trębacz P, Barteczko A, Kurkowska A, Piątek A, Paszenda Z, Basiaga M.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18071652",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

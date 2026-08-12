@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9605549",
+  "paper_id": "doi:10.3390/ma15207084",
+  "pmcid": "PMC9605549",
+  "source_record_sha256": "dcacf929465774b2e0f635c43a74e44da42c7b440ab6776efec51e7a4262ae86",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "93afdeb98cc9a951eda9602816d1d34495519ddde222604f2209d9fb2c79e2c0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additively Manufactured Scaffolds with Optimized Thickness Based on Triply Periodic Minimal Surface",
+    "authors": "Zhu J, Zou S, Mu Y, Wang J, Jin Y.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15207084",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

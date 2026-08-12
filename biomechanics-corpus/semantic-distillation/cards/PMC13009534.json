@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13009534",
+  "paper_id": "doi:10.34133/cbsystems.0542",
+  "pmcid": "PMC13009534",
+  "source_record_sha256": "0212f10d69d0a142578208a6540033be21d40b8b001995ec88f7379f3ecae4a4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "586cde6099855bde359128d0de867790ce34574dae78971eb28cff20c471ce3f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Humanoid Robotic Loading Enhances Mechanotransduction in Tendon Tissue Engineering",
+    "authors": "Liu Z, Lin J, Machain TC, Nadhif MH, Wei Y, Dvorak N, Yeo D, Chan YKV, Kharchenko A, Hostettler R, Jerusalem A, Waters S, Snelling S, Mouthuy PA.",
+    "year": 2026,
+    "journal": "Cyborg and Bionic Systems",
+    "doi": "10.34133/cbsystems.0542",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

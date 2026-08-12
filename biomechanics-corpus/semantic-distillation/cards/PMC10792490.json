@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10792490",
+  "paper_id": "doi:10.1016/j.mtbio.2023.100934",
+  "pmcid": "PMC10792490",
+  "source_record_sha256": "35d3be4d634cddd16be275e25a65b2c9c6b62a234fcfa226d56f144510c4437c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b036e1bd5ed3e064dab1fd6b2ac66787b1c6129a781d45c3bb755a0abf22a888",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Integrated evaluation of biomechanical and biological properties of the biomimetic structural bone scaffold: Biomechanics, simulation analysis, and osteogenesis",
+    "authors": "Li J, Yang Y, Sun Z, Peng K, Liu K, Xu P, Li J, Wei X, He X.",
+    "year": 2024,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2023.100934",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

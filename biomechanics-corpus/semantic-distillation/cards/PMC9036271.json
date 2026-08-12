@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9036271",
+  "paper_id": "doi:10.3390/biomimetics7020046",
+  "pmcid": "PMC9036271",
+  "source_record_sha256": "fe40eb0b908f4784cd0b27d5d3729bb877d24b08ecdaf63835c8e043bbeaff70",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "26090a312bd7a6770c9d886db651cf90aa1b221d9ebd879e59689d1cdb88cb7b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Review of Biomimetic Topographies and Their Role in Promoting Bone Formation and Osseointegration: Implications for Clinical Use",
+    "authors": "Berger MB, Slosar P, Schwartz Z, Cohen DJ, Goodman SB, Anderson PA, Boyan BD.",
+    "year": 2022,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics7020046",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

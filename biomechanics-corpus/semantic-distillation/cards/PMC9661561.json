@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9661561",
+  "paper_id": "doi:10.1177/21514593221135117",
+  "pmcid": "PMC9661561",
+  "source_record_sha256": "2e0c389f2949bbb5b732cc2355b142c1a917cf534ad672419e3d1184d342d8a7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bcc433e2ce5ab3cf3fa679800a926f56d99afad0023cf7a1cb74c1f139010394",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Evaluation of the Femoral Neck System as Prophylactic Fixation to Prevent Contralateral Hip Fractures",
+    "authors": "LaMonica JN, Rhee B, Milligan K, Leslie M, Tommasini SM, Wiznia DH.",
+    "year": 2022,
+    "journal": "Geriatric Orthopaedic Surgery & Rehabilitation",
+    "doi": "10.1177/21514593221135117",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

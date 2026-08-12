@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11047886",
+  "paper_id": "doi:10.3390/bioengineering11040308",
+  "pmcid": "PMC11047886",
+  "source_record_sha256": "865cfe8a462f8cbf66efb23e232d9a6e43ad24a1dce2d5ddf6fc6d78b4d75e44",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8077de2eee118fe621e452e319cc955452fafe382bdb88e232d6b18b5a1a4b7b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design, Manufacture, and Characterization of a Critical-Sized Gradient Porosity Dual-Material Tibial Defect Scaffold",
+    "authors": "Lee MC, Pan CT, Chen WF, Lin MC, Shiue YL.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11040308",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

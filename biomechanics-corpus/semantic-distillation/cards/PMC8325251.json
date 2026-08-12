@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8325251",
+  "paper_id": "doi:10.1186/s13018-021-02619-8",
+  "pmcid": "PMC8325251",
+  "source_record_sha256": "3c18f77f36882e8d938dac6a62b746e4750cda4daab921bca9750acfb9abbc8d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ae2ced8472e513e3c86076f9bbb0471919eed126d5bed77e694276d5d0bbbf70",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced interfragmentary stability and improved clinical prognosis with use of the off-axis screw technique to treat vertical femoral neck fractures in nongeriatric patients",
+    "authors": "Jiang D, Zhan S, Cai Q, Hu H, Jia W, Jia W.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-021-02619-8",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

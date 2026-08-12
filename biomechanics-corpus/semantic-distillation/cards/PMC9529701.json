@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9529701",
+  "paper_id": "doi:10.1007/s10856-022-06686-z",
+  "pmcid": "PMC9529701",
+  "source_record_sha256": "6963f2e64344a1b93d173d660ea9dcaab50a196dabc03bbb697b05885209c657",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3e918c0a15dddbdd4223c9e42061dd7b4ef8e817106e33e1810b49ee8c457d53",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional printed polylactic acid and hydroxyapatite composite scaffold with urine-derived stem cells as a treatment for bone defects",
+    "authors": "Zhang X, Chen JL, Xing F, Duan X.",
+    "year": 2022,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-022-06686-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

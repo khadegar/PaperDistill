@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5978077",
+  "paper_id": "doi:10.3390/ma11050700",
+  "pmcid": "PMC5978077",
+  "source_record_sha256": "9398097540787f9e930314af39f3d490a935a17d2748472a7f9f2533a3685185",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2dae019151fd997b6b6bfa08c17f86ad2fb398223ac0c2faf0e536912ebc860f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Type I Collagen and Strontium-Containing Mesoporous Glass Particles as Hybrid Material for 3D Printing of Bone-Like Materials",
+    "authors": "Montalbano G, Fiorilli S, Caneschi A, Vitale-Brovarone C.",
+    "year": 2018,
+    "journal": "Materials",
+    "doi": "10.3390/ma11050700",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

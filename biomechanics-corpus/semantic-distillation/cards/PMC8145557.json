@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8145557",
+  "paper_id": "doi:10.3390/jpm11050351",
+  "pmcid": "PMC8145557",
+  "source_record_sha256": "dc630f285022999ae3c9c6b06d1681f21fae4f37f58687324bf600174c610eb8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "88c1f9763184573e78c713160e411bf455c25f538336a95b0d2c7b1bfea07a57",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Highly Cancellous Titanium Alloy (TiAl 6 V 4 ) Surfaces on Three-Dimensionally Printed, Custom-Made Intercalary Tibia Prostheses: Promising Short- to Intermediate-Term Results",
+    "authors": "Guder WK, Hardes J, Nottrott M, Podleska LE, Streitbürger A.",
+    "year": 2021,
+    "journal": "Journal of Personalized Medicine",
+    "doi": "10.3390/jpm11050351",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

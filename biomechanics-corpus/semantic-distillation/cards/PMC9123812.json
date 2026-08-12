@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9123812",
+  "paper_id": "doi:10.1186/s12938-022-01000-y",
+  "pmcid": "PMC9123812",
+  "source_record_sha256": "39b779a4d3c803092ce2f5c9ac8fbf5c95a8f84af7424712dd18af41d4a9f376",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b0e5b9f3db4f535f1790735a5c9c77ae566e05e0565ef16fa3c0e645658684c5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional finite element analysis of the effect of alveolar cleft bone graft on the maxillofacial biomechanical stabilities of unilateral complete cleft lip and palate",
+    "authors": "Tian T, Huang HY, Wang W, Shi B, Zheng Q, Li CH.",
+    "year": 2022,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-022-01000-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

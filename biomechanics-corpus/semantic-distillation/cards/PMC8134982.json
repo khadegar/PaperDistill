@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8134982",
+  "paper_id": "doi:10.1016/j.ijscr.2021.105941",
+  "pmcid": "PMC8134982",
+  "source_record_sha256": "cb83ec47f7b67494e8e74fbc42ef6b738673a260a1f688ca854f0807822d3d58",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dbd429a38b55bd44ef9403566b469a13373d1b9d487e87de7bec95de73d2ca3d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone ingrowth observed in a cup removed during revision surgery for early dislocation after primary THA: A case report",
+    "authors": "Kitajima H, Kaneuji A, Soma D, Fukui M, Kawahara N.",
+    "year": 2021,
+    "journal": "International Journal of Surgery Case Reports",
+    "doi": "10.1016/j.ijscr.2021.105941",
+    "publication_type": "Journal Article; case-report",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

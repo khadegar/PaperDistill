@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10956756",
+  "paper_id": "doi:10.1371/journal.pone.0299012",
+  "pmcid": "PMC10956756",
+  "source_record_sha256": "d396e05254651288f4c257f9c9856f680ee9f544a0f31cb41e6676342da203f1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d9f7a0cd695530c63f0d1ff3f65210c079819f4af9d03b997c7d72a1d3015a6e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mobility analysis of a posterior sacrospinous fixation using a finite element model of the pelvic system",
+    "authors": "Lallemant M, Shimojyo AA, Mayeur O, Ramanah R, Rubod C, Kerbage Y, Cosson M.",
+    "year": 2024,
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0299012",
+    "publication_type": "Clinical Trial; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4322353",
+  "paper_id": "doi:10.1038/srep08304",
+  "pmcid": "PMC4322353",
+  "source_record_sha256": "7f279b527e13cd9d1fe00abd016400ac0f3a114125f0ad8109a9dfe9d73afadd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6c62e8b9b4eed5471ebe786200e518d45b0891787edc303d20f1eed658456c5f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "FGF23 neutralization improves bone quality and osseointegration of titanium implants in chronic kidney disease mice",
+    "authors": "Sun N, Guo Y, Liu W, Densmore M, Shalhoub V, Erben RG, Ye L, Lanske B, Yuan Q.",
+    "year": 2015,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep08304",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11831100",
+  "paper_id": "doi:10.1039/d4ra07573k",
+  "pmcid": "PMC11831100",
+  "source_record_sha256": "c27f3c41406edaaabb307e3a2f3cc60d6c96978c0354adf679c5389d3895b188",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3be0132707c5e53b556de84f67d9bcce77c901bc2b20e4515f4bae46f9d0e9da",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Personalised 3D-printed bioactive peek bone plate scaffold for treating femoral defects †",
+    "authors": "Zhang W, Shi D, Huang S, Li S, Zeng M, Wei Y.",
+    "year": 2025,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d4ra07573k",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

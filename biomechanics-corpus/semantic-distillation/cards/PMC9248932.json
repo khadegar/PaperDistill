@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9248932",
+  "paper_id": "doi:10.3389/fbioe.2022.862395",
+  "pmcid": "PMC9248932",
+  "source_record_sha256": "878eb365b22d1289561fba7711f4a515df6fe0d557ce143a37a0e49390aee6d1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "399b2d67ae083cc0faca02668862c91b6e4d6e44f5698fe2d63d6346e8e2ef9f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of the 3D-Microstructure Between Alveolar and Iliac Bone for Enhanced Bioinspired Bone Graft Substitutes",
+    "authors": "Rothweiler R, Gross C, Bortel E, Früh S, Gerber J, Boller E, Wüster J, Stricker A, Fretwurst T, Iglhaut G, Nahles S, Schmelzeisen R, Hesse B, Nelson K.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.862395",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

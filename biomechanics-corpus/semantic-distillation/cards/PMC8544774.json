@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8544774",
+  "paper_id": "doi:10.1177/2473974x211046598",
+  "pmcid": "PMC8544774",
+  "source_record_sha256": "e9691c998e330fac7a06fb44262ea521050897eef6c81cbe560637181f92b9da",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4b81d2d76967b71d4def2484ec09782fad70771d6596ce53e9db600affc2fbaa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of a 3-Dimensional Middle Ear Model to Teach Anatomy and Endoscopic Ear Surgical Skills",
+    "authors": "Jenks CM, Patel V, Bennett B, Dunham B, Devine CM.",
+    "year": 2021,
+    "journal": "OTO Open",
+    "doi": "10.1177/2473974x211046598",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

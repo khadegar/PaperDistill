@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9306745",
+  "paper_id": "doi:10.1002/jbm.b.35025",
+  "pmcid": "PMC9306745",
+  "source_record_sha256": "f7fd83ff7075386e887f7d500ec2fe88d24cf45288b53418c55ad0007a3b18ba",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dac37578a16ac04c15aeb89f7b5e0bd8de0ac63d2afd62a372751628b7b17a60",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "How surface coatings on titanium implants affect keratinized tissue: A systematic review",
+    "authors": "Van den Borre CE, Zigterman BGR, Mommaerts MY, Braem A.",
+    "year": 2022,
+    "journal": "Journal of Biomedical Materials Research. Part B, Applied Biomaterials",
+    "doi": "10.1002/jbm.b.35025",
+    "publication_type": "Research Support, Non-U.S. Gov't; Systematic Review; review-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

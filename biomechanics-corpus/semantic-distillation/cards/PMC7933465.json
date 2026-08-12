@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7933465",
+  "paper_id": "doi:10.3389/fbioe.2021.613787",
+  "pmcid": "PMC7933465",
+  "source_record_sha256": "ec7667c11a18e547ef2846a129dec4a4b4f82209e2b2d6e765c2c437afd26eb1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "30cc788d77ab5484cacb401ba135caf4259687d70d0e101b0210fc7e5a0127cc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioactive Materials for Soft Tissue Repair",
+    "authors": "Mazzoni E, Iaquinta MR, Lanzillotti C, Mazziotta C, Maritati M, Montesi M, Sprio S, Tampieri A, Tognon M, Martini F.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.613787",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

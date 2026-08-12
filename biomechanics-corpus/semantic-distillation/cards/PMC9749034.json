@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9749034",
+  "paper_id": "doi:10.2147/ijn.s389471",
+  "pmcid": "PMC9749034",
+  "source_record_sha256": "30d49bc14d2804dab30c86bc14d38bad1bd200d36c524dfea79b79673b7fd70d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "299953fa7b84739e022afaeb7c339f76c00f1b96fc04594e872271cdfb1a8050",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Small Extracellular Vesicles Released from Bioglass/Hydrogel Scaffold Promote Vascularized Bone Regeneration by Transferring miR-23a-3p",
+    "authors": "Hu H, Zhang H, Bu Z, Liu Z, Lv F, Pan M, Huang X, Cheng L.",
+    "year": 2022,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s389471",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

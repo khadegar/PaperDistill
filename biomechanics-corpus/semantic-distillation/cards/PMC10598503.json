@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10598503",
+  "paper_id": "doi:10.1016/j.bioactmat.2023.10.014",
+  "pmcid": "PMC10598503",
+  "source_record_sha256": "a5c196627912a28412d4fb7297903bc81d85bae4f571ada2804ec154fa04859b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fb4cd282cf7d4f2986ddc7c2845d88702bcdd8dc3410507e2ffd868ed1ac1fcb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Full-thickness osteochondral defect repair using a biodegradable bilayered scaffold of porous zinc and chondroitin sulfate hydrogel",
+    "authors": "Yang F, Li Y, Wang L, Che H, Zhang X, Jahr H, Wang L, Jiang D, Huang H, Wang J.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2023.10.014",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

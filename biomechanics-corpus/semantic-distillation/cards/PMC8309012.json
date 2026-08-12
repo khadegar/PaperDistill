@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8309012",
+  "paper_id": "doi:10.3390/pharmaceutics13070983",
+  "pmcid": "PMC8309012",
+  "source_record_sha256": "b83f932291dacb201f6412081a983b2c87a0c68f132caaf7b85e7a118593723b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f2a53cee19f01bb5432f71c159484837e2c45a3a5d4440e2f14cd1c558d509b4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteochondral Tissue Engineering: The Potential of Electrospinning and Additive Manufacturing",
+    "authors": "Gonçalves AM, Moreira A, Weber A, Williams GR, Costa PF.",
+    "year": 2021,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics13070983",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

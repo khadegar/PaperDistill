@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12292215",
+  "paper_id": "doi:10.3390/biomimetics10070475",
+  "pmcid": "PMC12292215",
+  "source_record_sha256": "1d99f7baf9a26864e2f42e3807a09c97c39814e9e69123b9fb1697c7bef0cc4f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "171572637d06438a88dd33d46352f521e83d31ee51ae08add2836e740fecff26",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multi-Objective Machine Learning Optimization of Cylindrical TPMS Lattices for Bone Implants",
+    "authors": "Rezapourian M, Cheloee Darabi A, Khoshbin M, Hussainova I.",
+    "year": 2025,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics10070475",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

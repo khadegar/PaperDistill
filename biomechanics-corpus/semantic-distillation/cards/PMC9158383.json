@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9158383",
+  "paper_id": "doi:10.1186/s40824-022-00265-7",
+  "pmcid": "PMC9158383",
+  "source_record_sha256": "fd559ce66d6dbb31751549e28a94c73f94f6a7b25389424a666f29b641f99365",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5194337843dfa0c5718dd8d6e6b7e575d9ae7a31954bfd4efe329275f5735802",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preparation of gamma poly-glutamic acid/hydroxyapatite/collagen composite as the 3D-printing scaffold for bone tissue engineering",
+    "authors": "Nguyen TT, Hu CC, Sakthivel R, Nabilla SC, Huang YW, Yu J, Cheng NC, Kuo YJ, Chung RJ.",
+    "year": 2022,
+    "journal": "Biomaterials Research",
+    "doi": "10.1186/s40824-022-00265-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

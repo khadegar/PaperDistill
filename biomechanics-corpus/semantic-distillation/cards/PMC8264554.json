@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8264554",
+  "paper_id": "doi:10.3389/fbioe.2021.682133",
+  "pmcid": "PMC8264554",
+  "source_record_sha256": "bc7aadaffc99f0ec57783f2f440f18b42759c37df357a900907fde565996e080",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "69be0bb45f4c45692d8db1395cf153bf3e2da1a58a74b5493c4a504a5019f4dc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Review on Computer-Aided Design and Manufacturing of Drug Delivery Scaffolds for Cell Guidance and Tissue Regeneration",
+    "authors": "Salerno A, Netti PA.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.682133",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

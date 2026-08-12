@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11016829",
+  "paper_id": "doi:10.31661/jbpe.v0i0.2304-1612",
+  "pmcid": "PMC11016829",
+  "source_record_sha256": "c8029df9a1e5ead1dbf6c916de7e6726ab4556ac5b644defb91ac74d8ebd2474",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "11e2d6bce3c9d1575a814ec2e1b1f069dcd155aacbf236af8d69f0ef1fe54b75",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modeling of a New Percutaneous Orthopedic Implant System to Control the Post-surgery Osseointegration Process",
+    "authors": "Faoussi M, Bounou S, Wahbi M.",
+    "year": 2024,
+    "journal": "Journal of Biomedical Physics & Engineering",
+    "doi": "10.31661/jbpe.v0i0.2304-1612",
+    "publication_type": "other; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

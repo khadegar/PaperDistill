@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9107565",
+  "paper_id": "doi:10.1007/s12178-022-09757-4",
+  "pmcid": "PMC9107565",
+  "source_record_sha256": "94a825634ae6e08edf46451188375e227d647d2ea70d0effa939bde36250bcd2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "579a28e4eca8e5e08c3742ff61c5c45e60337dddfdbca02240a05c0da666f0c9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Novel Approaches Guiding the Future of Spinal Biologics for Bone Regeneration",
+    "authors": "Phan EN, Hsu WK.",
+    "year": 2022,
+    "journal": "Current Reviews in Musculoskeletal Medicine",
+    "doi": "10.1007/s12178-022-09757-4",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

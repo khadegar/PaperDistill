@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12859556",
+  "paper_id": "doi:10.1016/j.mtbio.2025.102295",
+  "pmcid": "PMC12859556",
+  "source_record_sha256": "aa04c2d600b3f3e1a6950bc94f4a088022bfb80ad0c6f396e80f5149add0b9ae",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b4408b314cf01b088edeecce12751c00de34a51b8a2ed5c39f486b19397b454a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A H 2 -bioreactor for mitochondrial rehabilitation in infected bone defects regeneration",
+    "authors": "Kong C, Si C, Liu H, Wang Y, Qiao J, Tang X, Sun H, Zhang J, Chang B.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.102295",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

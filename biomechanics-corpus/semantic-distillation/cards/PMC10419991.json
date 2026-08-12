@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10419991",
+  "paper_id": "doi:10.3390/jcm12155023",
+  "pmcid": "PMC10419991",
+  "source_record_sha256": "53a78bd0160730799fc69f0d44a6e88ba7cbf7f720f941ea188f2736bbea77d2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4c00f7331bf09c93e449aef3d576be15a965154a233cdef340d6d976634b8247",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "CBCT-Based Design of Patient-Specific 3D Bone Grafts for Periodontal Regeneration",
+    "authors": "Verykokou S, Ioannidis C, Angelopoulos C.",
+    "year": 2023,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm12155023",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

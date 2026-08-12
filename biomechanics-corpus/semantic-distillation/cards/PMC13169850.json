@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13169850",
+  "paper_id": "doi:10.1186/s12903-026-08199-5",
+  "pmcid": "PMC13169850",
+  "source_record_sha256": "bb741177556634f4d147667b91c539b1beec6f0edb27080896623e3a95595f11",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4869b642e2de5b85f0fcd19e0c1b4ee3871c2f7d0642cec221d8d1d4f3f780bf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The application of 3D digitization technology and 3D printing in the treatment of mandibular fractures in pediatric population",
+    "authors": "Liu L, Wang Y, Wang X, Ya Q, Wang C, Yang H, Liu X.",
+    "year": 2026,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-026-08199-5",
+    "publication_type": "research-article; Journal Article; Case Reports",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

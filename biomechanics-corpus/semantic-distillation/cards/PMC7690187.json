@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7690187",
+  "paper_id": "doi:10.1186/s13018-020-02108-4",
+  "pmcid": "PMC7690187",
+  "source_record_sha256": "0020372605142ef202d115988c1d69a415c8faa89a6aeca5f6303cd1a0885bc4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "490de79aedb4a7e08d3220b46d9db7c26073981a123a83c86c1ac42583e93657",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative analysis of titanium coating on cobalt-chrome alloy in vitro and in vivo direct metal fabrication vs. plasma spraying",
+    "authors": "Suh D, Jo WL, Kim SC, Kim YS, Kwon SY, Lim YW.",
+    "year": 2020,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-020-02108-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

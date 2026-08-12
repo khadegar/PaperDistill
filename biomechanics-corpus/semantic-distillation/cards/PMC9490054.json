@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9490054",
+  "paper_id": "doi:10.3389/fbioe.2022.973389",
+  "pmcid": "PMC9490054",
+  "source_record_sha256": "88448d614cec96243efa0d25e7af1174a3f0b0a2b8c1970d11e399919e29843c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "180b417554b35ff9ab0974bb5e320f7a0507c87ca6cd67349792ef793a052374",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stability of internal fixation systems based on different subtypes of Schatzker II fracture of the tibial plateau: A finite element analysis",
+    "authors": "Zeng C, Ren X, Xu C, Hu M, Li J, Zhang W.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.973389",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

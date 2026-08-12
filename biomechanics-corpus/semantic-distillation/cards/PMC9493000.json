@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9493000",
+  "paper_id": "doi:10.3389/fbioe.2022.989729",
+  "pmcid": "PMC9493000",
+  "source_record_sha256": "142ed8d10963a6623e85b8599a55b396ac54108a4a5dc7e522cc7e447058336e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "849d5ff94beee393dd885b57020dfaa800fe790376332770969e215d2811f016",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimetic, mussel-inspired surface modification of 3D-printed biodegradable polylactic acid scaffolds with nano-hydroxyapatite for bone tissue engineering",
+    "authors": "Chi M, Li N, Cui J, Karlin S, Rohr N, Sharma N, Thieringer FM.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.989729",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9056099",
+  "paper_id": "doi:10.2147/mder.s360297",
+  "pmcid": "PMC9056099",
+  "source_record_sha256": "8243bb2828c89d1825969f17dc626214f16dfa8b2bc3febd9ad2ce29b7753b16",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7009096a72f4fdfbbe99c36af824d2ab3aa6da1efba98a27055474ab533f7432",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of Titanium Implant Surface Topology on Bone Cell Attachment and Proliferation in vitro",
+    "authors": "Levin M, Spiro RC, Jain H, Falk MM.",
+    "year": 2022,
+    "journal": "Medical Devices (Auckland, N.Z.)",
+    "doi": "10.2147/mder.s360297",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

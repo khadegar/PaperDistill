@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11651477",
+  "paper_id": "doi:10.1097/md.0000000000040850",
+  "pmcid": "PMC11651477",
+  "source_record_sha256": "a2314265032a194cd8fd4944368a13649a97ef82c049f9d0cca68b2677674475",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d97f0fa036b6410fb07bec82ad1ce4136c94f16d603620f3c2eed106a6079b2c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fractures of the quadrilateral plate treated with a reconstruction plate and trans-plate quadrilateral screws: An experimental study on cadaveric specimens and finite element analysis",
+    "authors": "Lan S, Meng C, Yuan G, Wang G, Liu X, Cai X.",
+    "year": 2024,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000040850",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

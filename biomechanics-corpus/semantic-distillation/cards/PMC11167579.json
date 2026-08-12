@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11167579",
+  "paper_id": "doi:10.7759/cureus.60201",
+  "pmcid": "PMC11167579",
+  "source_record_sha256": "fd25ec3af8c9771666b2b8853b522df877400fd72e0d7ae134281d58d930f43f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "95677b0b848d3b891ac7584c91d48015ff13c268552b6535f4c6bbf15ce19161",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhancing Hip Arthroplasty Outcomes: The Multifaceted Advantages, Limitations, and Future Directions of 3D Printing Technology",
+    "authors": "Barakeh W, Zein O, Hemdanieh M, Sleem B, Nassereddine M.",
+    "year": 2024,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.60201",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

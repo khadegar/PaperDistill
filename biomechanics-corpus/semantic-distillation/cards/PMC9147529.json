@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9147529",
+  "paper_id": "doi:10.3390/ma15103413",
+  "pmcid": "PMC9147529",
+  "source_record_sha256": "28620e5a91c3eb1c736ffc509ada5b84b4444a6482db0c28859a252e4dba00b5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c0a9fddec2e0285791d697b4db2e6dd2db2443b68dededa68e6a4524a8023b4e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Marine Plankton-Derived Whitlockite Powder-Based 3D-Printed Porous Scaffold for Bone Tissue Engineering",
+    "authors": "Baek JW, Park H, Kim KS, Chun SK, Kim BS.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15103413",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

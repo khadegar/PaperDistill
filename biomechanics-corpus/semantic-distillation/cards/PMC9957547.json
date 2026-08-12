@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9957547",
+  "paper_id": "doi:10.3390/gels9020105",
+  "pmcid": "PMC9957547",
+  "source_record_sha256": "8cbecdb399e9b8aa47db8b35885707afd5fbb278f078073641124d23a92a99a7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f96cac834eb2f53b059c06319aed4f4bc8a18c33f8f9707e99ded81c17ce0d51",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Oligo (Poly (Ethylene Glycol) Fumarate)-Based Multicomponent Cryogels for Neural Tissue Replacement",
+    "authors": "Zoughaib M, Dayob K, Avdokushina S, Kamalov MI, Salakhieva DV, Savina IN, Lavrov IA, Abdullin TI.",
+    "year": 2023,
+    "journal": "Gels",
+    "doi": "10.3390/gels9020105",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

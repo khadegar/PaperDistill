@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8706779",
+  "paper_id": "doi:10.3390/nano11123215",
+  "pmcid": "PMC8706779",
+  "source_record_sha256": "8986385e134572cb18505cc8e7650b878a9381a6c7d7317494b64ea301ce5711",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "978cb0d1237d653842b2f4fb9e74a0cac637db575e0219f24a9be78fa3fff77b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biodegradable 3D Printed Scaffolds of Modified Poly (Trimethylene Carbonate) Composite Materials with Poly (L-Lactic Acid) and Hydroxyapatite for Bone Regeneration",
+    "authors": "Kang H, Jiang X, Liu Z, Liu F, Yan G, Li F.",
+    "year": 2021,
+    "journal": "Nanomaterials",
+    "doi": "10.3390/nano11123215",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

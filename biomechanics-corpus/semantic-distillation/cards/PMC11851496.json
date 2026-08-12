@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11851496",
+  "paper_id": "doi:10.3390/bioengineering12020172",
+  "pmcid": "PMC11851496",
+  "source_record_sha256": "da21a6e6448c3367ddefdfa434d9a7eac12d01efdaa086783b0e6a2411f5d978",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ebae8f3a39958276c62fe6d5eeded758114486c8fc470f2bfe6cc3b2639cb3d7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimization of Tibial Stem Geometry in Total Knee Arthroplasty Using Design of Experiments: A Finite Element Analysis",
+    "authors": "Lee HH, Hong HT, Kim JK, Koh YG, Park KK, Kang KT.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12020172",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11273417",
+  "paper_id": "doi:10.3390/bioengineering11070665",
+  "pmcid": "PMC11273417",
+  "source_record_sha256": "b9b4b7634405abe3cc111729a9c21db5a320aa7f042e4f7fdb78f6046a472186",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fb0c0594b40ade0770fb49e4afc13db46a896823e931c3fc4bcccba83cc584b5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Alveolar Ridge Preservation Using a Novel Species-Specific Collagen-Enriched Deproteinized Bovine Bone Mineral: Histological Evaluation of a Prospective Case Series",
+    "authors": "van Orten A, Goetz W, Bilhan H.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11070665",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

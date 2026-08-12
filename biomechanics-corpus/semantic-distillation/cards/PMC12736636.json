@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12736636",
+  "paper_id": "doi:10.3390/s25247505",
+  "pmcid": "PMC12736636",
+  "source_record_sha256": "6dafcb12ac7c5c3d30a147025dd8f10f3eaf33dbe3cc656e5264fa1b276da1a1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f26e06d973ea3b25f7249d99b8d0f15c7fff31e133ae483f8e0bd6a9a87681bf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and Testing of an Emg-Controlled Semi-Active Knee Prosthesis",
+    "authors": "Ozhikenov K, Nurgizat Y, Ayazbay AA, Uzbekbayev A, Sultan A, Nussibaliyeva A, Zhetenbayev N, Kalykpaeva R, Sergazin G.",
+    "year": 2025,
+    "journal": "Sensors (Basel, Switzerland)",
+    "doi": "10.3390/s25247505",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "topology_or_structural_optimization",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

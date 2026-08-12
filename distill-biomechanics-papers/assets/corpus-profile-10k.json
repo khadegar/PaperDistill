@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "profile_id": "biomechanics-fulltext-10k-v1",
+  "target_unique_fulltexts": 10000,
+  "language": "English",
+  "source": "europe_pmc_open_access",
+  "selection_policy": {
+    "require_pmcid": true,
+    "require_open_access": true,
+    "require_full_text": true,
+    "deduplicate_order": ["doi", "pmcid", "pmid", "normalized_title_year"],
+    "venue_whitelist": false,
+    "prefer_research_articles": true,
+    "retain_reviews_for_taxonomy": true,
+    "retain_unselected_candidates_as_reserve": true,
+    "replace_permanent_fulltext_failures": true
+  },
+  "completion_policy": {
+    "required_parsed_records": 10000,
+    "require_index_reconciliation": true,
+    "require_structural_audit": true,
+    "permanent_failure_codes": [404, 410]
+  },
+  "strata": [
+    {
+      "id": "biomechanics_fe_bone",
+      "selection_quota": 2400,
+      "candidate_limit": 4200,
+      "query": "TITLE_ABS:(biomechan* OR \"finite element\") AND TITLE_ABS:(bone OR implant OR orthopaedic OR orthopedic) AND OPEN_ACCESS:Y AND HAS_FT:Y"
+    },
+    {
+      "id": "bone_implants_fixation",
+      "selection_quota": 1100,
+      "candidate_limit": 1519,
+      "query": "TITLE_ABS:(\"bone implant\" OR \"orthopedic implant\" OR \"orthopaedic implant\" OR \"fixation plate\" OR \"spinal cage\" OR \"hip stem\") AND OPEN_ACCESS:Y AND HAS_FT:Y"
+    },
+    {
+      "id": "topology_optimization",
+      "selection_quota": 100,
+      "candidate_limit": 300,
+      "query": "TITLE_ABS:(\"topology optimization\" OR \"topological optimization\") AND TITLE_ABS:(bone OR implant OR scaffold OR biomedical) AND OPEN_ACCESS:Y AND HAS_FT:Y"
+    },
+    {
+      "id": "porous_tpms_scaffold",
+      "selection_quota": 1100,
+      "candidate_limit": 1682,
+      "query": "TITLE_ABS:(porous OR lattice OR TPMS OR gyroid) AND TITLE_ABS:(scaffold OR implant) AND TITLE_ABS:(bone OR orthopedic OR orthopaedic) AND OPEN_ACCESS:Y AND HAS_FT:Y"
+    },
+    {
+      "id": "additive_manufacturing",
+      "selection_quota": 1500,
+      "candidate_limit": 2500,
+      "query": "TITLE_ABS:(\"additive manufacturing\" OR \"3D printing\" OR \"three-dimensional printing\" OR \"laser powder bed fusion\" OR \"selective laser melting\" OR \"electron beam melting\") AND TITLE_ABS:(bone OR implant OR scaffold) AND OPEN_ACCESS:Y AND HAS_FT:Y"
+    },
+    {
+      "id": "mechanobiology_remodeling",
+      "selection_quota": 500,
+      "candidate_limit": 657,
+      "query": "TITLE_ABS:(mechanobiolog* OR \"bone remodeling\" OR \"bone remodelling\") AND TITLE_ABS:(implant OR scaffold OR fixation OR prosthesis) AND OPEN_ACCESS:Y AND HAS_FT:Y"
+    },
+    {
+      "id": "osseointegration_bone_ingrowth",
+      "selection_quota": 1800,
+      "candidate_limit": 3000,
+      "query": "TITLE_ABS:(osseointegration OR osteogenesis OR \"bone ingrowth\") AND TITLE_ABS:(porous OR scaffold OR implant) AND OPEN_ACCESS:Y AND HAS_FT:Y"
+    },
+    {
+      "id": "patient_specific_implants",
+      "selection_quota": 900,
+      "candidate_limit": 1800,
+      "query": "TITLE_ABS:(\"patient-specific\" OR \"patient specific\" OR spinal OR dental OR hip OR knee) AND TITLE_ABS:(implant OR scaffold OR fixation OR prosthesis) AND TITLE_ABS:(biomechan* OR \"finite element\" OR porous OR \"3D printing\") AND OPEN_ACCESS:Y AND HAS_FT:Y"
+    },
+    {
+      "id": "bone_regeneration_biomaterials",
+      "selection_quota": 1600,
+      "candidate_limit": 3500,
+      "query": "TITLE_ABS:(\"bone tissue engineering\" OR \"bone regeneration\" OR \"bone defect\") AND TITLE_ABS:(scaffold OR implant OR biomaterial) AND OPEN_ACCESS:Y AND HAS_FT:Y"
+    }
+  ],
+  "retrieval": {
+    "requests_per_second": 2.0,
+    "workers": 4,
+    "max_retries": 5,
+    "timeout_seconds": 60,
+    "store_raw_jats_gzip": true,
+    "store_section_json_gzip": true
+  }
+}

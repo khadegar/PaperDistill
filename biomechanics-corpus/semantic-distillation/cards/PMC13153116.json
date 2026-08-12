@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13153116",
+  "paper_id": "doi:10.3389/fbioe.2026.1825326",
+  "pmcid": "PMC13153116",
+  "source_record_sha256": "2eae2555544f12fbb08f7005e94efcce0ce053b03f3b53fce41e90f2bd498b4e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bca204626bfcf9cd0257a59547ff82534cdff2e20efa440974e584b8b9337610",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bifunctional scaffolds: strategic bridges coordinating osteosarcoma therapy and bone regeneration",
+    "authors": "Xu N, Xu Y, Ma W, Yang F.",
+    "year": 2026,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2026.1825326",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

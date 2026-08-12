@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12455202",
+  "paper_id": "doi:10.1016/j.tcr.2025.101245",
+  "pmcid": "PMC12455202",
+  "source_record_sha256": "517507181a87d5875baa0ec141c3fe05aff53293f4c567be854875bb137b0030",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a3135e0aae65cf1436ede3c11360e815b431214e98f9a1d30c3816bb10da52ef",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Quantitative assessment of fracture healing using patient-specific CT finite element analysis: A novel approach to external fixation management",
+    "authors": "Matsuura Y, Yamazaki T, Ohtori S.",
+    "year": 2025,
+    "journal": "Trauma Case Reports",
+    "doi": "10.1016/j.tcr.2025.101245",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

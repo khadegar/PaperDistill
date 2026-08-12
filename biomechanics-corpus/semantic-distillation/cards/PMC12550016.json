@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12550016",
+  "paper_id": "doi:10.1038/s41598-025-21129-9",
+  "pmcid": "PMC12550016",
+  "source_record_sha256": "aa9cbea22d8d10ed9497e73d824271d670421469f529ae33869f530ee9f3c088",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6b010d249c8cec69687f50c29951dcae0bc9261896acb9814d7c51548b12add1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Structural influence on titanium ion dissolution in 3D-printed Ti6Al4V orthopedic implants",
+    "authors": "Seo E, Lee YN, Shin WY, Kim KH, Jung SH, Kang HG, Kim R, Sung H, Jung ID, Park JW.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-21129-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

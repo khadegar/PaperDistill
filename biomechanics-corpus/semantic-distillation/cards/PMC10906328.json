@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10906328",
+  "paper_id": "doi:10.1016/j.heliyon.2024.e26294",
+  "pmcid": "PMC10906328",
+  "source_record_sha256": "bd6ad3d59578db9c8103baa90b25170613bac5a3eafb6211a678e04c086b9141",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "660e53d35592170dcd594769a5453cf867a8af78d8f8375a3770fa85546bad17",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hybrid cortical bone trajectory and modified cortical bone trajectory techniques in transforaminal lumbar interbody fusion at L4-L5 segment: A finite element analysis",
+    "authors": "Wang Y, Maimaiti A, Xiao Y, Tuoheti A, Zhang R, Maitusong M, Chen Q, Rexiti P.",
+    "year": 2024,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2024.e26294",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

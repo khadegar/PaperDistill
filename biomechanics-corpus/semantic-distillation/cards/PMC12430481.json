@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12430481",
+  "paper_id": "doi:10.3390/polym17172285",
+  "pmcid": "PMC12430481",
+  "source_record_sha256": "079fba3294694ae22e210e7ac822a77e8f94ca3f3cb63270e675255cce01b24b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "520d7d92746a184af90c794614abe407cae48026ea5186acdbe8651f150ea9b9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Lattice Structures in Additive Manufacturing for Biomedical Applications: A Systematic Review",
+    "authors": "Polo S, García-Domínguez A, Rubio EM, Claver J.",
+    "year": 2025,
+    "journal": "Polymers",
+    "doi": "10.3390/polym17172285",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

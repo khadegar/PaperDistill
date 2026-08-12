@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11279083",
+  "paper_id": "doi:10.3390/medicina60071094",
+  "pmcid": "PMC11279083",
+  "source_record_sha256": "d4f7424318243db26c48bb1a7f6afe772f88d4b05903391fa6da2806d1c91749",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8eaddc776144e9ba84a68e286961a6968e3c93fa0115a73b705e9960894b572e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Different Administered Doses of Capsaicin and Titanium Implant Osseointegration",
+    "authors": "Bingül MB, Gul M, Dündar S, Sökmen K, Artas G, Polat ME, Tanrisever M, Ozcan EC.",
+    "year": 2024,
+    "journal": "Medicina",
+    "doi": "10.3390/medicina60071094",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

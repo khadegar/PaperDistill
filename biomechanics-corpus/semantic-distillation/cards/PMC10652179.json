@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10652179",
+  "paper_id": "doi:10.1002/jbm4.10833",
+  "pmcid": "PMC10652179",
+  "source_record_sha256": "cd6a7f5d093e970ac4101f1a0e2af49acdbc55263edf3e67f30e649c89bb2a5e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b1d8b9f0bb5e73b6b8f98dc27236187b69d5a85027207de8b211edeeb7414e56",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Pharmacologic Inhibition of Myostatin With a Myostatin Antibody Improves the Skeletal Muscle and Bone Phenotype of Male Insulin‐Deficient Diabetic Mice",
+    "authors": "Bunn RC, Adatorwovor R, Smith RR, Ray PD, Fields SE, Keeble AR, Fry CS, Uppuganti S, Nyman JS, Fowlkes JL, Kalaitzoglou E.",
+    "year": 2023,
+    "journal": "JBMR Plus",
+    "doi": "10.1002/jbm4.10833",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

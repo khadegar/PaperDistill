@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9745192",
+  "paper_id": "doi:10.3389/fchem.2022.1066103",
+  "pmcid": "PMC9745192",
+  "source_record_sha256": "e027c395261e11b98c5de3acf8267706c9e408e5088a6736cdd4e626fae62918",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c869be4f33c5530905d665a7733be6fcf4448ad3460342d7013d9ba5f06e331a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comprehensive review of additively manufactured biodegradable magnesium implants for repairing bone defects from biomechanical and biodegradable perspectives",
+    "authors": "Wang Z, Liu B, Yin B, Zheng Y, Tian Y, Wen P.",
+    "year": 2022,
+    "journal": "Frontiers in Chemistry",
+    "doi": "10.3389/fchem.2022.1066103",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

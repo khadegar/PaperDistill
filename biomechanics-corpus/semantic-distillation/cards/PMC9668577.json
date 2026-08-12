@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9668577",
+  "paper_id": "doi:10.18063/ijb.v8i4.615",
+  "pmcid": "PMC9668577",
+  "source_record_sha256": "dc8c0a2d1fcc3381cdb1925bed89027b1095f617cfba35eb91e0afd23d677d55",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3fa4354bb5409587ebff94ee008f06fa42ac5ea7fa7adfe2201cf420927f8a48",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fused Deposition Modeling PEEK Implants for Personalized Surgical Application: From Clinical Need to Biofabrication",
+    "authors": "Wang L, Yang C, Sun C, Yan X, He J, Shi C, Liu C, Li D, Jiang T, Huang L.",
+    "year": 2022,
+    "journal": "International Journal of Bioprinting",
+    "doi": "10.18063/ijb.v8i4.615",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

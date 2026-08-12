@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10502685",
+  "paper_id": "doi:10.1002/advs.202303650",
+  "pmcid": "PMC10502685",
+  "source_record_sha256": "c1ea10566e9d37d6f88b3a6c174acc9b1f5682d36967899dac1f4bc63da28774",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bde36b8949ee182b61a6ae7f9e1ffe43446795ce3429610f603512874ffa7b63",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing of Microenvironment‐Specific Bioinspired and Exosome‐Reinforced Hydrogel Scaffolds for Efficient Cartilage and Subchondral Bone Regeneration",
+    "authors": "Li Q, Yu H, Zhao F, Cao C, Wu T, Fan Y, Ao Y, Hu X.",
+    "year": 2023,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202303650",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

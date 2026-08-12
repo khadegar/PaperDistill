@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12565026",
+  "paper_id": "doi:10.3390/jfb16100358",
+  "pmcid": "PMC12565026",
+  "source_record_sha256": "17a93ccd54154632981cbc4096276a6586df344b688a8a7ecc8fcad87d0bdec4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "16f85a05fa5bdf2231cbf1dc514ddc08f39c192dc6efd5f7312ed61d24bc2ed2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of Bioceramic Bone-Inspired Scaffolds Through Single-Step Melt-Extrusion 3D Printing for Segmental Defect Treatment",
+    "authors": "Dedeloudi A, Bertelli PM, Martinez-Marcos L, Quinten T, Lengyel I, Andersen SK, Lamprou DA.",
+    "year": 2025,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb16100358",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

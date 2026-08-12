@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8236543",
+  "paper_id": "doi:10.1016/j.sdentj.2020.12.006",
+  "pmcid": "PMC8236543",
+  "source_record_sha256": "50bf396bc835c5162f3d623887c220a4dcb6ba38b1c6017f9d42354df0462923",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e2fc4621a22c42a0bf78378a1e37548611dd823508d7d4ab6206c2301d3b7449",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Peri-Implant bone response around porous-surface dental implants: A preclinical meta-analysis",
+    "authors": "Ahmed A, Al-Rasheed A, Badwelan M, Alghamdi HS.",
+    "year": 2021,
+    "journal": "The Saudi Dental Journal",
+    "doi": "10.1016/j.sdentj.2020.12.006",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9025296",
+  "paper_id": "doi:10.3390/mi13040528",
+  "pmcid": "PMC9025296",
+  "source_record_sha256": "bf1f7c01bb38f1aea8671c57087a93e27e5ee51c062bb285bbca77f6caf84d75",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d77f8553d70bfb370588b9e5137432f86fbbe1df90dfae139445a7d594b276cb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Review of 3D Printed Bone Implants",
+    "authors": "Li Z, Wang Q, Liu G.",
+    "year": 2022,
+    "journal": "Micromachines",
+    "doi": "10.3390/mi13040528",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

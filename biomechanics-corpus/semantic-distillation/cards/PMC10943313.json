@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10943313",
+  "paper_id": "doi:10.1016/j.jot.2023.10.008",
+  "pmcid": "PMC10943313",
+  "source_record_sha256": "99ca0a18eb30723816b30aa3b579aebbecbb69acd449c602f2b72309b7c731ac",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "989063fa16034243b22afc6cefa892e4d0601827be81758b57000be53272fa9b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Pip5k1c expression in osteocytes regulates bone remodeling in mice",
+    "authors": "Lin S, Tao C, Yan Q, Gao H, Qin L, Zhong Y, Yao Q, Zhang P, Yang J, Zou X, Xiao G.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2023.10.008",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

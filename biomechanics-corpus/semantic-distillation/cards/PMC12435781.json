@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12435781",
+  "paper_id": "doi:10.1371/journal.pcbi.1012705",
+  "pmcid": "PMC12435781",
+  "source_record_sha256": "ee3c7dd7141d809d8b8abcd46f817f1fba91904f6dfd8595badeeab9d6925e5c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d72bed0881b0d16b5616abfe8c6cc9d51cf13b0fdc636915d5a7a3fcaace4d27",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In silico biophysics and rheology of blood and red blood cells in Gaucher Disease",
+    "authors": "Chai Z, Li G, Ndour PA, Connes P, Buffet PA, Franco M, Karniadakis GE.",
+    "year": 2025,
+    "journal": "PLOS Computational Biology",
+    "doi": "10.1371/journal.pcbi.1012705",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9840144",
+  "paper_id": "doi:10.1016/j.isci.2022.105898",
+  "pmcid": "PMC9840144",
+  "source_record_sha256": "7e5189ac3d199ad7ed0b51a4de1239fcbefaf4b21f7dd571cb4a42dad616de71",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ed870139d4e9cf3e114ff94974f24d552831c00716367b91bd89866798354635",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Generation of dorsoventral human spinal cord organoids via functionalizing composite scaffold for drug testing",
+    "authors": "Xue W, Li B, Liu H, Xiao Y, Li B, Ren L, Li H, Shao Z.",
+    "year": 2022,
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2022.105898",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

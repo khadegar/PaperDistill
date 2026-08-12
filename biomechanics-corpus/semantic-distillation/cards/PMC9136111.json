@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9136111",
+  "paper_id": "doi:10.3389/fbioe.2022.895288",
+  "pmcid": "PMC9136111",
+  "source_record_sha256": "28c45e171fbd2bf039cac5584f5087377b824189831c637f8c1db3f2d98d536f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "facc3e9cede395ad87dd331ed35b9b528ba030f7a8cd17be7cea38a3303c2082",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Approaches to Biofunctionalize Polyetheretherketone for Antibacterial: A Review",
+    "authors": "Wang Y, Zhang S, Nie B, Qu X, Yue B.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.895288",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

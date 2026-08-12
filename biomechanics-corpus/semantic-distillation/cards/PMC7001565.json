@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7001565",
+  "paper_id": "doi:10.4103/1735-3327.276231",
+  "pmcid": "PMC7001565",
+  "source_record_sha256": "6b9ba7f3293db647b8b602d173820619f6d6d616dad4fb599f180d158157e003",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8afda02bfbfff21c5daa897a689fb6765f13d1e4dd34a0716eb9c2aede72d214",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of stress distribution around short and long implants in mandibular overdenture treatment",
+    "authors": "Memari Y, Fattahi P, Fattahi A, Eskandarion S, Rakhshan V.",
+    "year": 2020,
+    "journal": "Dental Research Journal",
+    "doi": "10.4103/1735-3327.276231",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

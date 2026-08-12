@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10673873",
+  "paper_id": "doi:10.1038/s41405-023-00177-1",
+  "pmcid": "PMC10673873",
+  "source_record_sha256": "a45d93c6ba43852d51533afe2446a8e8d12553ea236086f4de41264f33bc6909",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ea6509101243c1b9dd888a328d546391e5609da0c920a6bae79f0bcc8ee7afd5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed TCP-HA scaffolds delivering MicroRNA-302a-3p improve bone regeneration in a mouse calvarial model",
+    "authors": "Limlawan P, Insin N, Marger L, Freudenreich M, Durual S, Vacharaksa A.",
+    "year": 2023,
+    "journal": "BDJ Open",
+    "doi": "10.1038/s41405-023-00177-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

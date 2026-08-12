@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4716015",
+  "paper_id": "doi:10.1186/s40510-016-0117-1",
+  "pmcid": "PMC4716015",
+  "source_record_sha256": "c1808257fd4a9d99086eb76dc2e319af2fd5c902fbb2bd8bfaf1d2de8de04247",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "043340b98e5341d32bee43caa99d80d3359c0b49d260b892fdfd2ca8a5474393",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stress distribution patterns at mini-implant site during retraction and intrusion—a three-dimensional finite element study",
+    "authors": "Sivamurthy G, Sundari S.",
+    "year": 2016,
+    "journal": "Progress in Orthodontics",
+    "doi": "10.1186/s40510-016-0117-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

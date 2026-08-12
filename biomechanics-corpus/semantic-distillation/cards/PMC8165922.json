@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8165922",
+  "paper_id": "doi:10.1177/2192568220939902",
+  "pmcid": "PMC8165922",
+  "source_record_sha256": "951b42cd03bcb3f4321f56df6bf04cd96910c2e7e5c45a2d831c098e841a224b",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T10:49:39Z",
+    "packet_sha256": "aef740c981a6f23427083e3cb318413fed7be169f34b46138bb9cf893c114766",
+    "section_locators_read": [
+      "S001:C01",
+      "S001:C02",
+      "S002:C01",
+      "S002:C02",
+      "S003:C01",
+      "S004:C01",
+      "S005:C01",
+      "S006:C01",
+      "S007:C01",
+      "S007:C02",
+      "S007:C03",
+      "S007:C04",
+      "S008:C01",
+      "S008:C02",
+      "S009:C01",
+      "S010:C01",
+      "S011:C01",
+      "S012:C01",
+      "S012:C02",
+      "S012:C03",
+      "S012:C04",
+      "S012:C05",
+      "S012:C06",
+      "S012:C07",
+      "S013:C01",
+      "S014:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "A Systematic Review of Treatment Strategies for the Prevention of Junctional Complications After Long-Segment Fusions in the Osteoporotic Spine",
+    "authors": "Echt M, Ranson W, Steinberger J, Yassari R, Cho SK.",
+    "year": 2020,
+    "journal": "Global Spine Journal",
+    "doi": "10.1177/2192568220939902",
+    "publication_type": "review-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "clinical_prevention",
+      "osteoporotic_spine",
+      "long_segment_fusion",
+      "qualitative_synthesis",
+      "risk_of_bias_assessment"
+    ],
+    "research_problem": "Osteoporotic long-segment fusion fails through ligament, adjacent-fracture, and bone–implant-interface pathways, yet medication, cement, rods, and tethers have no standardized comparative prevention strategy.",
+    "exact_gap": "Preventive interventions specific to osteoporotic adult deformity surgery had not been systematically appraised with radiographic, failure, revision, patient-reported, and adverse-event outcomes separated.",
+    "objective_or_hypothesis": "Systematically review clinical preventive strategies for PJK/PJF in osteoporotic long fusions and calibrate recommendations to study design and evidence level.",
+    "study_design": "PRISMA-guided two-database systematic review with dual screening, Cochrane Back Review Group bias assessment, and qualitative synthesis of seven level II-IV studies; meta-analysis was precluded by sparse heterogeneous data.",
+    "sample_or_model": "Seven prospective or retrospective studies of older osteopenic/osteoporotic patients with at least three instrumented levels and approximately one-year or longer mean/median follow-up.",
+    "comparators": [
+      "Teriparatide versus no teriparatide",
+      "Strategic versus all-level cement augmentation and uncontrolled cement cohorts",
+      "Multirod versus two-rod constructs",
+      "Tether/band augmentation versus no augmentation or uncontrolled cohorts",
+      "PJK versus PJF/revision/PROM/adverse events"
+    ],
+    "method_spine": [
+      "Define osteoporosis, construct length, follow-up, and prevention eligibility.",
+      "Extract deformity correction, PJK/PJF definitions, revision, clinical outcomes, and harms.",
+      "Group interventions by failure mechanism rather than pool incomparable designs.",
+      "Rank conclusions by design/evidence and retain statistical nulls and adverse events."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Dual screening, adjudication, PRISMA counts, and a specified bias rule check review process (S003:C01-S006:C01)."
+      ],
+      "calibration": [],
+      "validation": [
+        "The review validates no intervention itself; it appraises sparse clinical studies."
+      ],
+      "sensitivity": [
+        "No search, definition, or inclusion-threshold sensitivity analysis; meta-analysis was not feasible (S005:C01)."
+      ],
+      "application_prediction": [
+        "BMD-adjusted alignment goals are a research recommendation, not an established preventive target (S012:C05-S013:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "Only seven low-level heterogeneous studies met eligibility (S006:C01-S007:C04).",
+      "Nonrandomized teriparatide was associated with higher BMD and lower PJF, but not significantly lower PJK or better two-year clinical outcomes (S011:C01).",
+      "Cement cohorts suggested possible prevention but lacked adequate controls and showed serious pulmonary complications, particularly with all-level augmentation (S008:C01-S008:C02).",
+      "Multirods did not significantly reduce PJK/PJF or clinical outcomes; tether evidence was mixed/low and included procedure-related complications (S009:C01-S010:C01).",
+      "Radiographic PJK often did not correspond to revision or worse function, underscoring outcome-definition dependence (S012:C05-S012:C06)."
+    ],
+    "highest_evidence_level_reached": "Low-certainty heterogeneous clinical evidence, strongest for a nonrandomized prospective teriparatide comparison; no randomized trial or pooled effect."
+  },
+  "argument_map": {
+    "central_claim": "Perioperative teriparatide has the strongest available—but still nonrandomized—preventive evidence; cement, tethers, and multirods remain insufficient for broad recommendation and must be judged with harms and clinically meaningful outcomes.",
+    "data": [
+      "Study-level PJK/PJF, BMD, PROM, revision, and adverse events are retained in tables and narrative (S007:C01-S011:C01).",
+      "Evidence is sparse and mechanistically heterogeneous (S012:C01-S012:C02)."
+    ],
+    "warrant": "A preventive recommendation should require controlled evidence on clinically important failure, not merely radiographic kyphosis or an uncontrolled low event rate, and must include intervention harms.",
+    "backing": [
+      "The review distinguishes radiographic PJK from severe PJF/revision and shows they can diverge from PROMs (S005:C01; S012:C05-S012:C06)."
+    ],
+    "qualifier": "Strongest among seven low-level studies, not high-certainty superiority.",
+    "rebuttals_or_boundaries": [
+      "Teriparatide allocation was nonrandomized and follow-up differed between groups (S007:C02; S011:C01).",
+      "Cement series were often uncontrolled and pulmonary embolic complications occurred (S008:C01-S008:C02).",
+      "Tether odds estimates crossed null or did not reduce revision (S010:C01).",
+      "PJK definitions and clinical significance vary."
+    ],
+    "argument_coherence": "high"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "The review directly measures corpus counts/designs and extracts reported clinical/radiographic outcomes and harms (S006:C01-S011:C01)."
+    ],
+    "predicted": [],
+    "inferred": [
+      "Teriparatide is ranked strongest from relative design quality and one significant PJF result, not randomized comparative certainty (S011:C01-S012:C02).",
+      "Strategic cement is inferred safer from a small comparison with no junctional events and fewer pulmonary complications (S008:C01-S008:C02)."
+    ],
+    "recommended": [
+      "Run higher-quality trials, quantify BMD cutoffs, reduce cement harm, and study BMD-adjusted alignment goals (S012:C06-S013:C01)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Radiographic PJK is not equivalent to symptomatic failure, revision, or worse quality of life.",
+      "BMD increase is mechanistic support, not itself prevention of junctional failure.",
+      "A low event rate in an uncontrolled cohort is not comparative efficacy."
+    ],
+    "overclaim_risks": [
+      "'Strongest evidence' can be misread as high-quality evidence unless the nonrandomized level and null outcomes remain attached.",
+      "The Discussion advises referral for teriparatide despite sparse nonrandomized data (S012:C02).",
+      "Automated in-vivo-animal cue is false; included studies are clinical observational cohorts."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "results",
+      "move": "Preserve nulls, harms, and endpoint discordance",
+      "execution": "The review reports nonsignificant PJK/PROM effects beside significant PJF/BMD effects and cement/tether complications (S008:C02-S011:C01).",
+      "locator": "S011:C01",
+      "effectiveness": "high",
+      "transferable_principle": "A synthesis sentence must carry every co-primary benefit, null, and harm that changes interpretation.",
+      "failure_mode": "Avoid reducing a mixed result to 'effective'."
+    },
+    {
+      "section": "discussion",
+      "move": "Organize interventions by failure mechanism",
+      "execution": "Medication/cement target bone/fracture/interface, whereas tethers/construct/alignment target transition mechanics (S012:C01-S012:C05).",
+      "locator": "S012:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Group fixation interventions by the failure pathway they address, then compare evidence only within compatible mechanisms/outcomes.",
+      "failure_mode": "Mechanistic plausibility must not replace controlled clinical evidence."
+    },
+    {
+      "section": "discussion",
+      "move": "Separate radiographic and patient-important failure",
+      "execution": "The paper shows stable asymptomatic PJK and notes limited association with HRQoL, contrasting it with PJF/revision (S012:C05-S012:C06).",
+      "locator": "S012:C06",
+      "effectiveness": "high",
+      "transferable_principle": "Define radiographic change, symptomatic failure, revision, and PROM as separate outcomes and do not collapse them into one complication rate.",
+      "failure_mode": "Threshold choice and follow-up still influence classifications."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "No randomized trials, methodological heterogeneity, short follow-up in some patients, subjective screening, and possible missed trials (S012:C06-S012:C07)."
+    ],
+    "reader_identified": [
+      "Only two databases, seven studies, no effect-size synthesis/certainty grading, and diverse uncontrolled designs.",
+      "Outcome definitions, deformity correction, confounding by indication, and exposure selection limit comparison.",
+      "Review-level conflicts of interest should be considered (S014:C01)."
+    ],
+    "likely_bias_direction": [
+      "Uncontrolled prevention cohorts and confounding by indication may exaggerate benefit.",
+      "Sparse events and selective outcome reporting reduce precision.",
+      "Radiographic endpoints may inflate apparent clinically important complication burden."
+    ],
+    "scope_boundary": "The review supports a low-certainty hierarchy and identifies outcome/mechanism gaps; it does not establish a universally effective drug, augmentation, construct, or BMD-adjusted alignment target."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC8165922-01",
+      "capability": "Separate radiographic proxy, symptomatic failure, revision, patient-reported outcome, and adverse event in implant/fixation evidence.",
+      "manuscript_use": "Outcome definitions, Results tables, and Discussion.",
+      "applicable_domains": [
+        "bone_implant",
+        "fixation",
+        "clinical_biomechanics"
+      ],
+      "applicable_study_designs": [
+        "clinical_study",
+        "systematic_review"
+      ],
+      "supporting_locators": [
+        "S005:C01",
+        "S010:C01",
+        "S011:C01",
+        "S012:C05",
+        "S012:C06"
+      ],
+      "counterexample_or_boundary": "A statistically different radiograph is not automatically clinically meaningful; a clinically severe failure may be rare but decisive.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC8165922-02",
+      "capability": "Write an evidence hierarchy with an attached design label, null outcomes, harms, and residual confounding rather than a naked 'strongest evidence' claim.",
+      "manuscript_use": "Review synthesis and recommendations.",
+      "applicable_domains": [
+        "all_domains"
+      ],
+      "applicable_study_designs": [
+        "systematic_review"
+      ],
+      "supporting_locators": [
+        "S007:C01",
+        "S008:C02",
+        "S011:C01",
+        "S013:C01"
+      ],
+      "counterexample_or_boundary": "Best available evidence can still be low certainty; state both facts in the same sentence.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high",
+    "methods_transparency": "high",
+    "validation_credibility": "low_to_moderate",
+    "outcome_uncertainty_reporting": "moderate",
+    "comparator_fairness": "low_due_to_observational_heterogeneity",
+    "conclusion_proportionality": "high",
+    "critical_weaknesses": [
+      "Seven low-level studies.",
+      "No meta-analysis/certainty grade.",
+      "Confounding and endpoint heterogeneity."
+    ],
+    "overall_credibility": "high_for_gap_mapping_moderate_for_relative_evidence_ranking_low_for_treatment_effect"
+  },
+  "summary_zh": "这篇综述最值得写入 Skill 的是“终点不能折叠”：影像学 PJK、严重 PJF、再次手术、PROM 和治疗并发症必须分开。特立帕肽只是七篇低等级研究中证据相对最强，且 PJK 与临床结局并未显著改善；水泥强化的低事件率还伴随肺部并发症。正确写法应把研究设计标签、显著结果、阴性结果、伤害与残余混杂放在同一句证据判断中。",
+  "reader_notes": [
+    "已阅读全文全部非参考文献章节。",
+    "该综述为临床观察性证据，不是动物研究。"
+  ],
+  "selection": {
+    "selection_reason": "explicit_include",
+    "primary_stratum": "bone_implants_fixation",
+    "stratum_rank": 1,
+    "reading_order": 11
+  },
+  "source": {
+    "record_path": "records/PMC8165922.json.gz",
+    "source_record": "records/PMC8165922.json.gz",
+    "source_record_sha256": "951b42cd03bcb3f4321f56df6bf04cd96910c2e7e5c45a2d831c098e841a224b",
+    "source_hash": "951b42cd03bcb3f4321f56df6bf04cd96910c2e7e5c45a2d831c098e841a224b"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11762762",
+  "paper_id": "doi:10.3390/bioengineering12010051",
+  "pmcid": "PMC11762762",
+  "source_record_sha256": "41d6db583563a26efc52f73a72484890d26f11b5a5cbbf07fa773cf8c3431405",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8c3b954d9ffcc0cb04b5611aecca0018f305b3f22aefd29aec4791dd2b703f13",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of One-Drill Protocol to Sequential Drilling In Vitro and In Vivo",
+    "authors": "Rugova S, Abboud M.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12010051",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

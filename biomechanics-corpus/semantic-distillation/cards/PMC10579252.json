@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10579252",
+  "paper_id": "doi:10.1038/s41598-023-44940-8",
+  "pmcid": "PMC10579252",
+  "source_record_sha256": "954ace2d05fd82074b4d2075e344a52f3f708695c83b68062a3ab5ceb520cf84",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8dc5c124f4c0823ce15c89377b6aa47766951b2d20e96701460af81c6b128c57",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical causes for failure of the Physiomesh/Securestrap system",
+    "authors": "Zamkowski M, Tomaszewska A, Lubowiecka I, Śmietański M.",
+    "year": 2023,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-023-44940-8",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

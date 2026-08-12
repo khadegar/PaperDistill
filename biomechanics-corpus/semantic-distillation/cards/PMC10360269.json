@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10360269",
+  "paper_id": "doi:10.1186/s12938-023-01135-6",
+  "pmcid": "PMC10360269",
+  "source_record_sha256": "c47e22b535196db86713867b936ebd4ad36c7248086f889538c4e19207d9161d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "417e567d277df7f30ec28d8575273d646a694fb46af5213b4258ade548ded561",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Printing tissue-engineered scaffolds made of polycaprolactone and nano-hydroxyapatite with mechanical properties appropriate for trabecular bone substitutes",
+    "authors": "Yazdanpanah Z, Sharma NK, Raquin A, Cooper DML, Chen X, Johnston JD.",
+    "year": 2023,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-023-01135-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

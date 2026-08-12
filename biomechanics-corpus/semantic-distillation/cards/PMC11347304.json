@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11347304",
+  "paper_id": "doi:10.3389/fbioe.2024.1410837",
+  "pmcid": "PMC11347304",
+  "source_record_sha256": "202ce74dd132cf461358a34b08b27d60cfdad46b62b7e6fa2afd9090c0522d41",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bf63fd8766fa7fd8b173227651fc835c59ac78257c94d84f6b45e9067a13cff3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparing ceramic Fischer-Koch-S and gyroid TPMS scaffolds for potential in bone tissue engineering",
+    "authors": "Baumer V, Isaacson N, Kanakamedala S, McGee D, Kaze I, Prawel D.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1410837",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

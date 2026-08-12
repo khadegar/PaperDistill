@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10031026",
+  "paper_id": "doi:10.3389/fbioe.2023.931202",
+  "pmcid": "PMC10031026",
+  "source_record_sha256": "5ad4ea0fe916ad5bcb1584e7585a98e1ef344663f8b735bf500c7c70acd78a77",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "324a1c5b0df6e3628d8b027f8f8dc111eed4e0fd734ae028fafbc254d4e12120",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical performance of the novel assembled uncovertebral joint fusion cage in single-level anterior cervical discectomy and fusion: A finite element analysis",
+    "authors": "Zhang X, Yang Y, Shen YW, Zhang KR, Ma LT, Ding C, Wang BY, Meng Y, Liu H.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.931202",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

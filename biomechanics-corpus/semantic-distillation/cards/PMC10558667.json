@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10558667",
+  "paper_id": "doi:10.1002/advs.202302539",
+  "pmcid": "PMC10558667",
+  "source_record_sha256": "399023345f560d96dcd26d0216eb89c0a3f0b238815e632f3e839dac8e341450",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7d7da89962e8aaba7f499ce1bf7871353e36e48687dd85243507c85bd2eee8db",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Regulation of Osteoimmune Microenvironment and Osteogenesis by 3D‐Printed PLAG/black Phosphorus Scaffolds for Bone Regeneration",
+    "authors": "Long J, Yao Z, Zhang W, Liu B, Chen K, Li L, Teng B, Du XF, Li C, Yu XF, Qin L, Lai Y.",
+    "year": 2023,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202302539",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3030147",
+  "paper_id": "doi:10.7150/ijbs.7.112",
+  "pmcid": "PMC3030147",
+  "source_record_sha256": "3293ecb5acec3be95308e163022dfbee084542074b2454ca0ab2f215636237a0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "304d1e99cc554a9d4a5e86e520230fd3384ac2bb492077cfd22048d97a144622",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Method (FEM), Mechanobiology and Biomimetic Scaffolds in Bone Tissue Engineering",
+    "authors": "Boccaccio A, Ballini A, Pappalettere C, Tullo D, Cantore S, Desiate A.",
+    "year": 2011,
+    "journal": "International Journal of Biological Sciences",
+    "doi": "10.7150/ijbs.7.112",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

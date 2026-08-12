@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9864206",
+  "paper_id": "doi:10.3390/pharmaceutics15010088",
+  "pmcid": "PMC9864206",
+  "source_record_sha256": "8611ebb46005e0e7f78cc345f4606cc6aafdcb300071e8c31b01aae9eb3b89d5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7137efa0c2c28b8212e9edef909477d6f1907c2d38c2a4497d15f167b1f8a861",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "LL-37-Coupled Porous Composite Scaffold for the Treatment of Infected Segmental Bone Defect",
+    "authors": "Li X, Huang X, Li L, Wu J, Yi W, Lai Y, Qin L.",
+    "year": 2022,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics15010088",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12924520",
+  "paper_id": "doi:10.1186/s12938-026-01517-6",
+  "pmcid": "PMC12924520",
+  "source_record_sha256": "d33fe7613161cc9c6526dc505deda964569bd078acf33c2dc8d3da2f8a174d60",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d085badea4fc411cea49761047f446f84c3f627f6e89852464af169bc38c64dd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A systematic review of the biomechanical and biological impacts of ultrasound waves on skeletal tissues",
+    "authors": "Montazeri A, Esnaasharieh M, Hajizadeh R.",
+    "year": 2026,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-026-01517-6",
+    "publication_type": "Systematic Review; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

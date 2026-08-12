@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10525081",
+  "paper_id": "doi:10.3390/bioengineering10091042",
+  "pmcid": "PMC10525081",
+  "source_record_sha256": "094248115ba618dcaf9bc4fe24657183ef4bdecdee5ce3e5305782764b48911c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4527558736a5307abc185d5038ceccfee968de328d90112c44bdebb6d7a24840",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Simulated State of Disc Degeneration and Axial Stiffness of Coupler in a Hybrid Performance Stabilisation System on the Biomechanics of a Spine Segment Model",
+    "authors": "Hsiao CK, Hsiao HY, Tsai YJ, Hsu CM, Tu YK.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10091042",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7795456",
+  "paper_id": "doi:10.3390/ma14010156",
+  "pmcid": "PMC7795456",
+  "source_record_sha256": "18bf6d501bc3dc132f4372a00506d697e96c85427cc68fca6b29a49c6d616082",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "206d1c163cbe17c9ae02b15b4d84da3c286f8dee7a878f9b1619f4dd38b190d2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive Manufacturing of β-Tricalcium Phosphate Components via Fused Deposition of Ceramics (FDC)",
+    "authors": "Esslinger S, Grebhardt A, Jaeger J, Kern F, Killinger A, Bonten C, Gadow R.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma14010156",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

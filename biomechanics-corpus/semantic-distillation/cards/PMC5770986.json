@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5770986",
+  "paper_id": "doi:10.3390/gels3030026",
+  "pmcid": "PMC5770986",
+  "source_record_sha256": "4da4b1bc46c443a5f3e789684edca0eb1a33fa1ff77d7b2e17e87f9bb5f0da1a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f257f2ba60d2ab3ad36d8f998c8ebd9f9dbc5862d4b596963b5d5999345c603d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Bioactive Hydrogel and 3D Printed Polycaprolactone System for Bone Tissue Engineering",
+    "authors": "Hernandez I, Kumar A, Joddar B.",
+    "year": 2017,
+    "journal": "Gels",
+    "doi": "10.3390/gels3030026",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

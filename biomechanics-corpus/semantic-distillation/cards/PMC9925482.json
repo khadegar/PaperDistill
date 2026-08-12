@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9925482",
+  "paper_id": "doi:10.1007/s00402-022-04382-9",
+  "pmcid": "PMC9925482",
+  "source_record_sha256": "7139821e437bae7e29cda2de6ee95d008bf6f9485f3bf72fedc15bdde933836a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "304f49c9036b68f230d71ae03be0551dcc8a8af29ad7ed1d6fdbb20838c8e40a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone tunnel placement influences shear stresses at the coracoid process after coracoclavicular ligament reconstruction: a finite element study and radiological analysis",
+    "authors": "Bockmann B, Dankl L, Kucinskaite G, Kumar A, Timothy JJ, Meschke G, Venjakob AJ, Schulte TL.",
+    "year": 2022,
+    "journal": "Archives of Orthopaedic and Trauma Surgery",
+    "doi": "10.1007/s00402-022-04382-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

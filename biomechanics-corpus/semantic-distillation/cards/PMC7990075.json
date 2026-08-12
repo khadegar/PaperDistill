@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7990075",
+  "paper_id": "doi:10.3389/fbioe.2021.643154",
+  "pmcid": "PMC7990075",
+  "source_record_sha256": "87ea2f9cd0ecddceb386b340fa26dcd1d1f94f621bdfbf5746da7f620495e355",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "816d31847b8dc7b7dfdea0be8ca73f96ad18cafebb133d1732f0ae669e5fe860",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient-Specific Finite Element Models of Posterior Pedicle Screw Fixation: Effect of Screw’s Size and Geometry",
+    "authors": "Sensale M, Vendeuvre T, Schilling C, Grupp T, Rochette M, Dall'Ara E.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.643154",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

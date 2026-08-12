@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4096512",
+  "paper_id": "doi:10.1371/journal.pone.0102359",
+  "pmcid": "PMC4096512",
+  "source_record_sha256": "bbbaf0e1b84ee3bbc53903f00cd958d51fc6807968f7ba96476ba06ac815c1d1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "97eabd67926c2d7e78805e085dd5eae716553f3902ad9e7884955a74026e8731",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Expansion of Human Mesenchymal Stromal Cells from Fresh Bone Marrow in a 3D Scaffold-Based System under Direct Perfusion",
+    "authors": "Papadimitropoulos A, Piccinini E, Brachat S, Braccini A, Wendt D, Barbero A, Jacobi C, Martin I.",
+    "year": 2014,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0102359",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

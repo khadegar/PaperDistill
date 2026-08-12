@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9986429",
+  "paper_id": "doi:10.3389/fbioe.2023.1054391",
+  "pmcid": "PMC9986429",
+  "source_record_sha256": "944948e3a98f8afc181554b31c7e56ab3ebd775fb67d2ee0718238690a9caba7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "836cf3e58e25a159d767a797ee4da65604ce829dc2d4f51e47f8ae7d5ffad4b0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioreactor analyses of tissue ingrowth, ongrowth and remodelling around implants: An alternative to live animal testing",
+    "authors": "Kohli N, Theodoridis K, Hall TAG, Sanz-Pena I, Gaboriau DCA, van Arkel RJ.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1054391",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11304101",
+  "paper_id": "doi:10.21037/aoj-23-59",
+  "pmcid": "PMC11304101",
+  "source_record_sha256": "d74d9b07007bb33dbf990b20d457b2e5ca5128ddcaba6187f75e54e919dcabb8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "12c46f2b34a73c3b08e9c1266d555f50cb38c528a89bac6143f438bb58507949",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Inflammatory biomarkers and state of the tibiofemoral joint in the osteoarthritic knee: a narrative review",
+    "authors": "Kennedy MI, Olson CP, DePhillipo NN, Tagliero AJ, LaPrade RF, Kennedy NI.",
+    "year": 2024,
+    "journal": "Annals of Joint",
+    "doi": "10.21037/aoj-23-59",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

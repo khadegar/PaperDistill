@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10376300",
+  "paper_id": "doi:10.3390/bioengineering10070875",
+  "pmcid": "PMC10376300",
+  "source_record_sha256": "15cceaa0100a9badc137f433f684c4af3373320ff6111603affa8d647880683a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "086c02d960abe65d7dd3a68b457e75b7d3bf0e087c2abf155ca891a037266fc2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Fabrication Technology on the Accuracy of Surgical Guides for Dental-Implant Surgery",
+    "authors": "Lo Russo L, Guida L, Mariani P, Ronsivalle V, Gallo C, Cicciù M, Laino L.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10070875",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

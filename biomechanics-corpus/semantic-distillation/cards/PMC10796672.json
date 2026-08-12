@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10796672",
+  "paper_id": "doi:10.1038/s41598-024-51429-5",
+  "pmcid": "PMC10796672",
+  "source_record_sha256": "c5a52adc32dc717fefa2eb7ff47294f1ec8e2287163d68dbb5340ff9c6a378fc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4de2d03e7b3055b6deeb54ba6d4775b1334aede68a6fbcb99f0d65c22a566444",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of porous compliance bushings in a dental implant on the distribution of occlusal loads",
+    "authors": "Młynarek-Żak K, Żmudzki J.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-51429-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

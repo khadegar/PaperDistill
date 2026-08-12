@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6255055",
+  "paper_id": "doi:10.2147/ijn.s181855",
+  "pmcid": "PMC6255055",
+  "source_record_sha256": "54ebcd1fe7712bf85f5a98d0ca49fe501cbb502814404609c7706ae35fb0b58f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b0e67639c7aaa5f82e66ac62ba5c33c9afbe6dde9de064d96b5dd2beab9e4daf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanism research on a bioactive resveratrol– PLA–gelatin porous nano-scaffold in promoting the repair of cartilage defect",
+    "authors": "Yu F, Li M, Yuan Z, Rao F, Fang X, Jiang B, Wen Y, Zhang P.",
+    "year": 2018,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s181855",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

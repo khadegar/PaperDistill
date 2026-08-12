@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8913624",
+  "paper_id": "doi:10.1038/s41598-022-08177-1",
+  "pmcid": "PMC8913624",
+  "source_record_sha256": "6a48c58ef4f6e2ffadc0d67a5fe1beee5b69b34c4e2854c2860197e339b5dfa4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "80f3de2b3b469e2b88c8d67b4d90e9a2d8789a15d0a64b3a1074568b36204f28",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Inter-strides variability affects internal foot tissue loadings during running",
+    "authors": "Van Waerbeke C, Jacques A, Berton E, Rao G.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-08177-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

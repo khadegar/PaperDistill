@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9130111",
+  "paper_id": "doi:10.1016/j.mtbio.2022.100285",
+  "pmcid": "PMC9130111",
+  "source_record_sha256": "ba4bdaebea8a90cd726fee70535ced757035052346afdebc5e10749b3cb53377",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "57b0fbd8d37758620a4de8fe277ca5aa0a6938e27e95cb8278ccb6e5a956dd64",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous thermosensitive coating with water-locking ability for enhanced osteogenic and antibacterial abilities",
+    "authors": "Hao X, Zhou J, Xie J, Zou X, Li B, Liang C, Zhang Y, Peng F, Wang D.",
+    "year": 2022,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2022.100285",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

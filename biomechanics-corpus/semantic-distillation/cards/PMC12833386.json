@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12833386",
+  "paper_id": "doi:10.3389/fbioe.2025.1730260",
+  "pmcid": "PMC12833386",
+  "source_record_sha256": "303f2ac29127e05a69e121d5aeb5c4514ea0c524e4528209694cbac741597a22",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a7d10b3f2f6228bf483e5bc516a86a2726b1d652a6e9f42d20b0b57ef8f95204",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vivo prediction of intervertebral disc strains and segmental kinematics from clinical MRI during lumbar extension",
+    "authors": "Raftery KA, Tavana S, Davis B, Thomas B, Lee J, Leong J, Freedman BA, Newell N.",
+    "year": 2026,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1730260",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

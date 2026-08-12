@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12370390",
+  "paper_id": "doi:10.1155/aort/6257188",
+  "pmcid": "PMC12370390",
+  "source_record_sha256": "2c25ddb461950a78d704fd5f40ed3af0e95b71335420c3ff6ede5922f9c46c21",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "daa2584994831d663b29a0d8bca6e900d01c3544bae9752a3d82c928a1cff843",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Novel Approach by Integrating CT-Based Imaging Data and Machine Learning to Predict Patient-Specific Young's Modulus Values",
+    "authors": "S L R, V H, Mohammed J, P N D.",
+    "year": 2025,
+    "journal": "Advances in Orthopedics",
+    "doi": "10.1155/aort/6257188",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9598158",
+  "paper_id": "doi:10.3390/bioengineering9100513",
+  "pmcid": "PMC9598158",
+  "source_record_sha256": "c68945c817704c9a2b56cf88a76b65bc16979aa53e136742fd03d019c2ff87b3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "472e835e729d19d11ee339667bf84f1ec635235ffe06f62df3780e7e9b3aed0b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Platelet-Rich Plasma Lysate-Incorporating Gelatin Hydrogel as a Scaffold for Bone Reconstruction",
+    "authors": "Nadra M, Niu W, Kurisawa M, Rousson D, Spector M.",
+    "year": 2022,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering9100513",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

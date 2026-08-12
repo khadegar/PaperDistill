@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5618576",
+  "paper_id": "doi:10.3390/ijms18091927",
+  "pmcid": "PMC5618576",
+  "source_record_sha256": "378bc4c127c5443d4e0a0de443381cc83290360f9456a2fbf9a44a6d803bdbaa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f030f2ad45edef36000c09061d9a3d53fa72a6455b535a8aad8d73f131a34fe9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed, Microgroove Pattern-Driven Generation of Oriented Ligamentous Architectures",
+    "authors": "Park CH, Kim KH, Lee YM, Giannobile WV, Seol YJ.",
+    "year": 2017,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms18091927",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

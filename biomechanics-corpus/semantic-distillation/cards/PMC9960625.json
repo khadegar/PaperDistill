@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9960625",
+  "paper_id": "doi:10.3390/jpm13020350",
+  "pmcid": "PMC9960625",
+  "source_record_sha256": "1b9c8fae9a1e84db8bb191bbeb1eec0b59d57d816015731688bdcd2d1939b56f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ba6c44c5a2300e1a02b6a99aa0efef517171923138cdec9bf09f56dad6e0db4f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Outcome Evaluation of Distal Femoral Fractures Following Surgical Management: A Retrospective Cohort Study",
+    "authors": "Neumann-Langen MV, Sontheimer V, Borchert GH, Izadpanah K, Schmal H, Kubosch EJ.",
+    "year": 2023,
+    "journal": "Journal of Personalized Medicine",
+    "doi": "10.3390/jpm13020350",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

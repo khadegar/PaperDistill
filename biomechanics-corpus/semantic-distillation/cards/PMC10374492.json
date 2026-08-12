@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10374492",
+  "paper_id": "doi:10.1093/rb/rbad062",
+  "pmcid": "PMC10374492",
+  "source_record_sha256": "def8588d5e9d4954e591036e407deb40db81464aa98a66ce3c3e7ac38512905c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4e22cf7ef0a57410c60c48afa45fba7d6f4e25d6f8f09a33899a694f6b394d0c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed porous functional composite scaffolds with polydopamine decoration for bone regeneration",
+    "authors": "Qi J, Wang Y, Chen L, Chen L, Wen F, Huang L, Rueben P, Zhang C, Li H.",
+    "year": 2023,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbad062",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

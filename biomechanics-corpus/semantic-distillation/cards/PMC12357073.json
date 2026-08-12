@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12357073",
+  "paper_id": "doi:10.1177/11795476251357427",
+  "pmcid": "PMC12357073",
+  "source_record_sha256": "65b18ce78847fde247de8af232e4ff742e3a9b015ae841246193d17816779769",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bdd93930f7d0bd89af3c3899f2d89d3756c166c954af0431d48b5002950db3d0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of Biocomposite Hydrogel With Developed Trabecular Cage in Lumbar Interbody Fusion: A Clinical Case Report",
+    "authors": "Baidarbekov MU, Bekarisov OS, Ipmagambetov ZN, Abdigalikov MS, Akimbekov AA.",
+    "year": 2025,
+    "journal": "Clinical Medicine Insights. Case Reports",
+    "doi": "10.1177/11795476251357427",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

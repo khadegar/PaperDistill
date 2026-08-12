@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8908151",
+  "paper_id": "doi:10.21037/atm-22-93",
+  "pmcid": "PMC8908151",
+  "source_record_sha256": "9c25d84f1296b16805155f42eb703fb685045d84df7d21f5753084b0fb2e061f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6b9ced34429911f5851e806d42484bb491cd6cd6c6fdec0af10718aecc661fa7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical study of extramedullary and intramedullary fixation in the treatment of unstable intertrochanteric reversed-tilt fractures of the femur",
+    "authors": "Lu GL, Li SJ, Li WX.",
+    "year": 2022,
+    "journal": "Annals of Translational Medicine",
+    "doi": "10.21037/atm-22-93",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

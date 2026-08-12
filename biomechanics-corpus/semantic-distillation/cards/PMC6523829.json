@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6523829",
+  "paper_id": "doi:10.3390/nano9040644",
+  "pmcid": "PMC6523829",
+  "source_record_sha256": "07e1b759e31a593133c85acb4523937a72dd4980b373fc33f64286416c9a16e9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0474332bf716421f7018537a99dc7e0d85e60983d8d382776641e0ebe9bd7a2a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Electrospun Fiber Mat Thickness and Support Method on Cell Morphology",
+    "authors": "Calhoun MA, Chowdhury SS, Nelson MT, Lannutti JJ, Dupaix RB, Winter JO.",
+    "year": 2019,
+    "journal": "Nanomaterials",
+    "doi": "10.3390/nano9040644",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

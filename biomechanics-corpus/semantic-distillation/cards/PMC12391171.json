@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12391171",
+  "paper_id": "doi:10.1007/s10856-025-06918-y",
+  "pmcid": "PMC12391171",
+  "source_record_sha256": "c6af7d477ae2f43a981bd984c898e1b902c2f28eda86c7369a7034e69c50b960",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "413a564c0bd8566a9a5d142499acfd6213a9ef551334c6b4d8a5a6304cb52887",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Human bone marrow derived stem cell differentiation on 3D printed bioactive glass scaffolds",
+    "authors": "Li S, Mohammed AA, Nommeots-Nomm A, Shi X, Barrak F, Heyraud A, Jones JR.",
+    "year": 2025,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-025-06918-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

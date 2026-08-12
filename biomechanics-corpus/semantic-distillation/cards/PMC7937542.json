@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7937542",
+  "paper_id": "doi:10.1302/2046-3758.102.bjr-2020-0072.r2",
+  "pmcid": "PMC7937542",
+  "source_record_sha256": "a50afbbb1590d5cff84dc9bf456f461f00114801fcf23bf5580934d1bb7257ba",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d138ce23860a4188e0e2f9963c8710354cddd84dd7a5c4207ec3c23c23210be5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Can barb thread design improve the pullout strength of bone screws?",
+    "authors": "Feng X, Qi W, Fang CX, Lu WW, Leung FKL, Chen B.",
+    "year": 2021,
+    "journal": "Bone & Joint Research",
+    "doi": "10.1302/2046-3758.102.bjr-2020-0072.r2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

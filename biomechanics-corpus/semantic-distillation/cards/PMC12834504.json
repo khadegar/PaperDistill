@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12834504",
+  "paper_id": "doi:10.1002/cre2.70277",
+  "pmcid": "PMC12834504",
+  "source_record_sha256": "9dea4ad97a25c42b5ffc6a4e29c3d1514c8b8194f26369ab75b2ddfebef76c8e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "48070d1d0863f5143dc30b0f5f6d182d8f14ce30ee8f249d894a8e37776ea639",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Evaluation of Framework Materials in All‐on‐Four Versus All‐on‐Six Prostheses: A Finite Element Study",
+    "authors": "Cabbarova L, Tunçdemir AR, Mohammadi R.",
+    "year": 2026,
+    "journal": "Clinical and Experimental Dental Research",
+    "doi": "10.1002/cre2.70277",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

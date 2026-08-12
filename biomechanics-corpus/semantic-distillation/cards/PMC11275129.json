@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11275129",
+  "paper_id": "doi:10.3390/biomimetics9070409",
+  "pmcid": "PMC11275129",
+  "source_record_sha256": "1776ee7ee8d41f7c957c80419b444b0efa7498bdbcfbf13720abb96354819691",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0a58a9e00feb5f106881cfccc23547af01616b6d0f84ed430b56293eaeeb6d6b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication Strategies for Bioceramic Scaffolds in Bone Tissue Engineering with Generative Design Applications",
+    "authors": "Cinici B, Yaba S, Kurt M, Yalcin HC, Duta L, Gunduz O.",
+    "year": 2024,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics9070409",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10191950",
+  "paper_id": "doi:10.1007/s00402-022-04551-w",
+  "pmcid": "PMC10191950",
+  "source_record_sha256": "5685f1063a7bcc9d920f0d511cb4e94a243eb75ed5f2ee3c5a9645abca1fdc3a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "285f7a55c132ca39bb43f36499ff06feaf9385601a82263316a669e5a69e3605",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Is new always better: comparison of the femoral neck system and the dynamic hip screw in the treatment of femoral neck fractures",
+    "authors": "Schuetze K, Burkhardt J, Pankratz C, Eickhoff A, Boehringer A, Degenhart C, Gebhard F, Cintean R.",
+    "year": 2022,
+    "journal": "Archives of Orthopaedic and Trauma Surgery",
+    "doi": "10.1007/s00402-022-04551-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

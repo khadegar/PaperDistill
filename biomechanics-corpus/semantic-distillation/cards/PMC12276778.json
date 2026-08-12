@@ -1,0 +1,244 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12276778",
+  "paper_id": "doi:10.7759/cureus.86340",
+  "pmcid": "PMC12276778",
+  "source_record_sha256": "dd7e37843ff6eeb7eeb68009f80a708f51399a1b6da2edc455e14773fad058af",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T10:38:16Z",
+    "packet_sha256": "275d2315e75571867e619342629103795cb06c758621e6658ec4e2cb57e93776",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S003:C01",
+      "S003:C02",
+      "S003:C03",
+      "S003:C04",
+      "S003:C05",
+      "S003:C06",
+      "S004:C01",
+      "S005:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "An Intramedullary Approach to the Management of Pathological Distal Femur Fracture in Genochondromatosis: A Case Report",
+    "authors": "Kabra A, Jyoti NJ, Mittal S, Trikha V.",
+    "year": 2025,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.86340",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "rare_disease",
+      "pathological_fracture",
+      "patient_specific_planning",
+      "intramedullary_fixation",
+      "longitudinal_followup"
+    ],
+    "research_problem": "A pathological distal-femur fracture in genochondromatosis combines weak lytic bone, a flared metaphysis, absent landmarks, poor plate-screw purchase, and almost no prior management evidence.",
+    "exact_gap": "No documented fixation/healing pathway existed for this rare dysplasia-associated fracture, and standard extramedullary geometry was unsuitable.",
+    "objective_or_hypothesis": "Describe the imaging-constrained choice and execution of retrograde nailing with a poller pin and report one-year union and function.",
+    "study_design": "Single-patient descriptive case report with pre/intraoperative decision narrative and serial clinical/radiographic follow-up.",
+    "sample_or_model": "One 22-year-old male with genetically suggestive genochondromatosis and a pathological distal-femur fracture; no control, computational model, bench test, or statistical analysis.",
+    "comparators": [
+      "Plating/endoprosthetic options considered but not tested",
+      "Injured versus contralateral anatomy for planning",
+      "Serial postoperative time points"
+    ],
+    "method_spine": [
+      "Define disease distribution and altered anatomy with skeletal survey/bilateral CT.",
+      "Explain why conventional plate fixation is poorly matched to bone geometry/quality.",
+      "Choose a load-sharing retrograde nail and use a poller pin/finger reducer to compensate for the flared canal and lost landmarks.",
+      "Track alignment, callus, union, weight bearing, range of motion, and symptoms to 12 months."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Serial radiographs and functional examinations verify the course of this individual case."
+      ],
+      "calibration": [],
+      "validation": [
+        "There is no comparative or independent validation of the fixation rationale."
+      ],
+      "sensitivity": [],
+      "application_prediction": [
+        "Applicability to similar dysmorphic or metastatic fractures is hypothesis-generating only (S005:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "A poller pin restored alignment during nail passage through the flared distal fragment (S003:C03-S003:C04).",
+      "Alignment was maintained with callus at six weeks, union at three months, remodeling by six months, full weight bearing, 0-130-degree motion, and no major complaint at 12 months (S003:C05-S003:C06)."
+    ],
+    "highest_evidence_level_reached": "One successful longitudinal clinical case; no causal or comparative effectiveness evidence."
+  },
+  "argument_map": {
+    "central_claim": "A retrograde intramedullary nail augmented by a poller pin can be technically adapted to one genochondromatosis-related dysmorphic distal-femur fracture and was followed by union and functional recovery.",
+    "data": [
+      "Bilateral imaging defined the abnormal canal and lesion distribution (S003:C01-S003:C03).",
+      "Intraoperative images document loss and restoration of alignment with the poller pin (S003:C03-S003:C04).",
+      "Serial imaging and examination document this patient's recovery (S003:C05-S003:C06)."
+    ],
+    "warrant": "When plate purchase/geometry is poor, a spanning load-sharing device plus guided canal control may preserve length/alignment/rotation while limiting soft-tissue disruption.",
+    "backing": [
+      "The rationale invokes established fracture-fixation principles but is not directly mechanically tested (S003:C03-S004:C01)."
+    ],
+    "qualifier": "Technically feasible and successful in this single patient.",
+    "rebuttals_or_boundaries": [
+      "No counterfactual fixation, FE, fatigue, or cohort comparison exists.",
+      "Disease rarity and individual anatomy sharply limit generalization.",
+      "Healing may reflect patient biology, reduction, rehabilitation, and natural course as well as the implant."
+    ],
+    "argument_coherence": "high_as_case_narrative_low_as_general_effect_evidence"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Individual imaging, alignment, callus/union, weight-bearing progression, range of motion, and symptoms (S003:C01-S003:C06)."
+    ],
+    "predicted": [],
+    "inferred": [
+      "Load sharing, stress-riser reduction, and refracture protection are biomechanical rationales, not measured findings (S003:C03).",
+      "The poller pin is inferred to cause alignment control from the intraoperative sequence without a comparator."
+    ],
+    "recommended": [
+      "Use detailed contralateral/CT planning and consider intramedullary/poller adaptations in similarly constrained anatomy, subject to further cases (S004:C01-S005:C01)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Union and function show a successful course but do not isolate device superiority or the proposed mechanical mechanism."
+    ],
+    "overclaim_risks": [
+      "'Biomechanical benefits' in the abstract may be read as measured mechanics (S001:C01).",
+      "The conclusion extrapolates to other benign/metastatic lesions from one case (S005:C01).",
+      "Automated FE, experimental, and animal cues are false; none of those designs is present."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "case_presentation",
+      "move": "Write an imaging constraint → device choice → intraoperative compensation chain",
+      "execution": "The report links flared anatomy/weak plate purchase to nail selection, then shows why a poller pin and special guidewire tools were needed (S003:C02-S003:C04).",
+      "locator": "S003:C04",
+      "effectiveness": "high",
+      "transferable_principle": "In patient-specific device reports, describe the exact geometric/biological constraint, rejected option, chosen mechanism, and intraoperative correction.",
+      "failure_mode": "Label mechanical benefits as rationale unless measured."
+    },
+    {
+      "section": "results",
+      "move": "Use a time-ordered recovery sequence",
+      "execution": "The case separates early motion, six-week callus/alignment, three-month union, six-month remodeling/function, and twelve-month symptoms (S003:C05-S003:C06).",
+      "locator": "S003:C05",
+      "effectiveness": "high",
+      "transferable_principle": "Report observation type and time point separately so readers can distinguish process, union, and function.",
+      "failure_mode": "A favorable trajectory remains one uncontrolled observation."
+    },
+    {
+      "section": "conclusion",
+      "move": "Extract a design principle while bounding extrapolation",
+      "execution": "The conclusion identifies the poller-pin adaptation and intramedullary framework but extends it to other pathologies (S005:C01).",
+      "locator": "S005:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "Separate the reproducible technical principle from the untested claim of broader effectiveness.",
+      "failure_mode": "Do not turn first-case novelty into general treatment guidance."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The rarity and scarcity of prior management literature are discussed (S004:C01)."
+    ],
+    "reader_identified": [
+      "Single case, no comparator, no validated diagnosis/genetic testing detail in the packet, no PROM scale, no standardized union adjudication, no mechanics, and only 12-month follow-up."
+    ],
+    "likely_bias_direction": [
+      "Successful-case publication and author-managed outcome assessment favor positive interpretation.",
+      "Mechanistic rationale is likely over-attributed to the selected device."
+    ],
+    "scope_boundary": "The paper supports technical feasibility and an observed one-patient recovery trajectory; it does not establish implant superiority, mechanical mechanism, recurrence/refracture risk, or general effectiveness in dysplasia/metastatic fractures."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC12276778-01",
+      "capability": "Write patient-specific device decisions as geometry/biology constraint → rejected option → chosen mechanical rationale → intraoperative compensation → timed outcomes.",
+      "manuscript_use": "Case report and patient-specific implant paper.",
+      "applicable_domains": [
+        "bone_implant",
+        "patient_specific_implant",
+        "clinical_biomechanics"
+      ],
+      "applicable_study_designs": [
+        "case_report"
+      ],
+      "supporting_locators": [
+        "S003:C02",
+        "S003:C03",
+        "S003:C04",
+        "S003:C05"
+      ],
+      "counterexample_or_boundary": "The rationale remains inferred unless tested; one success does not prove comparative superiority.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12276778-02",
+      "capability": "Separate serial imaging, function, and biomechanical inference in case-report Results.",
+      "manuscript_use": "Results and Discussion.",
+      "applicable_domains": [
+        "bone_implant",
+        "clinical_biomechanics"
+      ],
+      "applicable_study_designs": [
+        "case_report",
+        "case_series"
+      ],
+      "supporting_locators": [
+        "S003:C05",
+        "S003:C06",
+        "S004:C01"
+      ],
+      "counterexample_or_boundary": "Use 'was followed by' rather than causal efficacy language when no comparator exists.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_case_description",
+    "methods_transparency": "moderate",
+    "validation_credibility": "low",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "not_applicable_no_comparator",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "Single uncontrolled success.",
+      "Mechanical claims unmeasured.",
+      "Broad extrapolation."
+    ],
+    "overall_credibility": "moderate_for_technical_feasibility_low_for_general_effect"
+  },
+  "summary_zh": "该病例最有用的不是证明髓内钉更优，而是展示患者特异性器械决策如何写清：异常几何和骨质约束→排除钢板→选择跨段载荷分担的髓内钉→用 poller pin 纠正扩张髓腔中的导向问题→按时间报告对位、骨痂、愈合和功能。所有“载荷分担、降低应力集中”等仍是机械 rationale；单病例只支持技术可行性与假设生成。",
+  "reader_notes": [
+    "已阅读全文全部非参考文献章节。",
+    "作为 case-report evidence ladder 与自动误分类反例保留。"
+  ],
+  "selection": {
+    "selection_reason": "balanced_stratum",
+    "primary_stratum": "biomechanics_fe_bone",
+    "stratum_rank": 5,
+    "reading_order": 10
+  },
+  "source": {
+    "record_path": "records/PMC12276778.json.gz",
+    "source_record": "records/PMC12276778.json.gz",
+    "source_record_sha256": "dd7e37843ff6eeb7eeb68009f80a708f51399a1b6da2edc455e14773fad058af",
+    "source_hash": "dd7e37843ff6eeb7eeb68009f80a708f51399a1b6da2edc455e14773fad058af"
+  }
+}

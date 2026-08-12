@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9358908",
+  "paper_id": "doi:10.1186/s12903-022-02375-z",
+  "pmcid": "PMC9358908",
+  "source_record_sha256": "972f61026c75bb8ad0db7321119b3cc7d0c157d1e63789246188241eaa2201d4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c5b708d515e61061bb39af5ed3bb2086818f02de87ab74777d9d066181105d08",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Timing selection for loosened tooth fixation based on degree of alveolar bone resorption: a finite element analysis",
+    "authors": "Ye ZY, Ye H, Yu XX, Wang Y, Wu LJ, Ding X.",
+    "year": 2022,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-022-02375-z",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9446756",
+  "paper_id": "doi:10.3389/fbioe.2022.954837",
+  "pmcid": "PMC9446756",
+  "source_record_sha256": "d0fdbd014924b45d71f43ecc3fef83e45a0574b3a9934e0c79e6cc1ebeb66ab0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a333c09b0d79c91db3ed16218cd525402d03184eb4ab02120977b685210816e1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Ligament mechanics of ageing and osteoarthritic human knees",
+    "authors": "Peters AE, Geraghty B, Bates KT, Akhtar R, Readioff R, Comerford E.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.954837",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

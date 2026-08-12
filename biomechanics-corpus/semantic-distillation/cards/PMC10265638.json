@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10265638",
+  "paper_id": "doi:10.3389/fbioe.2023.1210786",
+  "pmcid": "PMC10265638",
+  "source_record_sha256": "9b5da0c110527615f12a5056f6e34d04cffccfba93d0fa967f7db4550466d3e9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2931535616bc9949fb711f19d2fcab51f38cadc654363a1b283ca9e60f9f8e46",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D bioprinted hydrogel/polymer scaffold with factor delivery and mechanical support for growth plate injury repair",
+    "authors": "Fan M, Qiang L, Wang Y, Liu Y, Zhuang H, Guo R, Ben Y, Li Q, Zheng P.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1210786",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7081319",
+  "paper_id": "doi:10.1038/s41598-020-61915-1",
+  "pmcid": "PMC7081319",
+  "source_record_sha256": "0826c6b7900f18242a9269dd2afd7e90828b36b9061524b70f912a20df14123b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "00faa6909be513931e01a420086f50034b8df3be85fbb9cf2d5966ccee8762d2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Gait Cycle Loads on Stress Distribution at The Residual Limb/Socket Interface of Transfemoral Amputees: A Finite Element Analysis",
+    "authors": "Henao SC, Orozco C, Ramírez J.",
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-61915-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

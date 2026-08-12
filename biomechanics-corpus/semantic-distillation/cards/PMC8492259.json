@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8492259",
+  "paper_id": "doi:10.1155/2021/2899043",
+  "pmcid": "PMC8492259",
+  "source_record_sha256": "37ba8a3bf06c9392d66c4b7dcef1b085a71f932e8e58a0b521386f708c8c69dd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "415032c92bb63b7aab40055a3f6367d2ac965b83bb101ef2c1a8a8d82742f165",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Highly Porous 3D Printed Tantalum Scaffolds Have Better Biomechanical and Microstructural Properties than Titanium Scaffolds",
+    "authors": "Fan H, Deng S, Tang W, Muheremu A, Wu X, He P, Tan C, Wang G, Tang J, Guo K, Yang L, Wang F.",
+    "year": 2021,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2021/2899043",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

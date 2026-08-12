@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12354757",
+  "paper_id": "doi:10.1038/s41598-025-03588-2",
+  "pmcid": "PMC12354757",
+  "source_record_sha256": "9b66526f9094b6eb2d69fe483441cb97727bce8bf5c2f06e49684f90eaf835d2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7f5647f436dbe6603a3ea8e887c8fa9beef330d808c449f4396e0f77a474cc8d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Predicting cortical bone resorption in the mouse tibia under disuse conditions caused by transient muscle paralysis",
+    "authors": "Shekhar H, Singh S, Prasad J.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-03588-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9966348",
+  "paper_id": "doi:10.3390/ma16041499",
+  "pmcid": "PMC9966348",
+  "source_record_sha256": "15a052a55bc39bbecdec1680deaff6e15a37f7fece0be2ec267794b53b99566b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7d241abc46d38b6466fd89419b429779f67b9401494bff0424ffd5b2966aca82",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and Development of Tantalum and Strontium Ion Doped Hydroxyapatite Composite Coating on Titanium Substrate: Structural and Human Osteoblast-like Cell Viability Studies",
+    "authors": "Dommeti VK, Roy S, Pramanik S, Merdji A, Ouldyerou A, Özcan M.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16041499",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

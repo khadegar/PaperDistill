@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12960563",
+  "paper_id": "doi:10.3389/fbioe.2026.1771800",
+  "pmcid": "PMC12960563",
+  "source_record_sha256": "62ccfbafe036d9d02fd43ab6211fbafb6a7a9b92ba78330cc2712b5238d6b3ee",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5fcef0b26361f2c0e5342dcfd14923ab030a265262ea3527e0098ff64f19df8e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical polarity as a driver of bone regeneration: a multiscale framework linking tension, mechanotransduction and cortical apposition",
+    "authors": "Kuc AE, Kotuła J, Kuc N, Lis J, Kawala B, Sarul M, Sulewska M.",
+    "year": 2026,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2026.1771800",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

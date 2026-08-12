@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12290304",
+  "paper_id": "doi:10.1002/jsp2.70087",
+  "pmcid": "PMC12290304",
+  "source_record_sha256": "bd44d697624a38471436499480f7b06929adfb5e52abc008c59499d5b3ead8c0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c650116a9652e93aba40d829fa70bffdc47c1741d2ab89571073b02ec872a02d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of a Force‐Control Experimental Method to Perform Unconstrained Load‐Induced Subsidence Testing of Spinal Interbody Implants",
+    "authors": "Benais R, Barina R, McLachlin S.",
+    "year": 2025,
+    "journal": "JOR Spine",
+    "doi": "10.1002/jsp2.70087",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

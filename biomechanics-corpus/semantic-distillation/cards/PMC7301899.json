@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7301899",
+  "paper_id": "doi:10.7717/peerj.9349",
+  "pmcid": "PMC7301899",
+  "source_record_sha256": "e75ecebbbcace23ce674394e6ce6a12d9d5c4c8074aba102564608ac056f4a02",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "65c42990aac80bd633f222e69919e6b9d69ccf62efd93e78166ac2f5ad354cbc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Quantitatively assessing mekosuchine crocodile locomotion by geometric morphometric and finite element analysis of the forelimb",
+    "authors": "Stein MD, Hand SJ, Archer M, Wroe S, Wilson LAB.",
+    "year": 2020,
+    "journal": "PeerJ",
+    "doi": "10.7717/peerj.9349",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

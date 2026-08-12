@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9962303",
+  "paper_id": "doi:10.3390/ma16041466",
+  "pmcid": "PMC9962303",
+  "source_record_sha256": "f1eb081af166d0178e5bef90073acc3ed6e5b663390e389a82cd1106c26dadc4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ab2c79f5a95f81be63f97921c61cf94f25f2f205f1bd4c962924f84a1c8043fd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and Performance Evaluation of a Novel Spiral Head-Stem Trunnion for Hip Implants Using Finite Element Analysis",
+    "authors": "Soliman MM, Chowdhury MEH, Islam MT, Musharavati F, Mahmud S, Hafizh M, Ayari MA, Khandakar A, Alam MK, Nezhad EZ.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16041466",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

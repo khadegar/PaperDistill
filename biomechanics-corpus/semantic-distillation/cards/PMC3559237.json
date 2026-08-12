@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3559237",
+  "paper_id": "doi:10.1089/biores.2012.0231",
+  "pmcid": "PMC3559237",
+  "source_record_sha256": "d56f15682e91a7a47b2fc7c2abd0da919f59663a9103de702b37bc45a6522e1e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "faa7c7222548975fe7c16fbd1e114e4740b76576bc654cbc1a94910c9fe10d60",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Methods for Producing Scaffold-Free Engineered Cartilage Sheets from Auricular and Articular Chondrocyte Cell Sources and Attachment to Porous Tantalum",
+    "authors": "Whitney GA, Mera H, Weidenbecher M, Awadallah A, Mansour JM, Dennis JE.",
+    "year": 2012,
+    "journal": "BioResearch Open Access",
+    "doi": "10.1089/biores.2012.0231",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

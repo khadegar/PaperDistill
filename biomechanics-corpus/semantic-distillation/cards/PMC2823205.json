@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC2823205",
+  "paper_id": "doi:10.3109/17453670903074467",
+  "pmcid": "PMC2823205",
+  "source_record_sha256": "f31ad652647576190fe3f30b7411e8dd63f48bbd4abffc7cbe4a3cfaa430366c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0106b11e428a3ae3af82cc890f0d982e4eb47af0d8aa65e993fd76e12ba34f60",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Periprosthetic DXA after total hip arthroplasty with short vs. ultra-short custom-made femoral stems",
+    "authors": "Albanese CV, Santori FS, Pavan L, Learmonth ID, Passariello R.",
+    "year": 2009,
+    "journal": "Acta Orthopaedica",
+    "doi": "10.3109/17453670903074467",
+    "publication_type": "Comparative Study; Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

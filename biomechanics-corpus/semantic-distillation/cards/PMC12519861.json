@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12519861",
+  "paper_id": "doi:10.1186/s13018-025-06315-9",
+  "pmcid": "PMC12519861",
+  "source_record_sha256": "40942637240fd78655049e5bc69e8c57816fd6b900352fcf117cd04a29c2e56a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dd13a4817e3d8c046b88786e887a05e316b0ab05a5640f26cf46e9da000c37a3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Ferroptosis-mediated osteoclast-osteoblast crosstalk: signaling pathways governing bone remodeling in osteoporosis",
+    "authors": "Yang D, Gong G, Song J, Chen J, Wang S, Li J, Wang G.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-06315-9",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

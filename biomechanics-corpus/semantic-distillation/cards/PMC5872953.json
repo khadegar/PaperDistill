@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5872953",
+  "paper_id": "doi:10.3390/ma11030374",
+  "pmcid": "PMC5872953",
+  "source_record_sha256": "b4cb155d8ced854db4a4b2dc4b85e7ef4a6dffa5b34c57f7619e76537e45f4ae",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3b75abd7693b24172272d462acc5380653e11724fecadfae5d74b96fbb026c52",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical Properties of Optimized Diamond Lattice Structure for Bone Scaffolds Fabricated via Selective Laser Melting",
+    "authors": "Liu F, Zhang DZ, Zhang P, Zhao M, Jafar S.",
+    "year": 2018,
+    "journal": "Materials",
+    "doi": "10.3390/ma11030374",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

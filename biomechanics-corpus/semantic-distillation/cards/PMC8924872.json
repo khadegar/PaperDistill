@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8924872",
+  "paper_id": "doi:10.1021/acs.biomac.1c01417",
+  "pmcid": "PMC8924872",
+  "source_record_sha256": "052c1d1359067eba0d4616a12713541153486d2f0a9f8aa4f6dd48430ac0cf20",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "212df3050d940ed7701cb05aa55890e7599eb092162a3c4eb554c96397c7d6b0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive Manufacturing of α-Amino Acid Based Poly(ester amide)s for Biomedical Applications",
+    "authors": "Ansari V, Calore A, Zonderland J, Harings JAW, Moroni L, Bernaerts KV.",
+    "year": 2022,
+    "journal": "Biomacromolecules",
+    "doi": "10.1021/acs.biomac.1c01417",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

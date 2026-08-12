@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12621443",
+  "paper_id": "doi:10.1016/j.ijscr.2025.112074",
+  "pmcid": "PMC12621443",
+  "source_record_sha256": "3a057df46143026346afcaa4c170b1d45a4191e3adb1c23c52eda8de60d97809",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3d08e4e3aed7571408bd30081bf1433111f055f7d9e09b59a1ffad07459a39f4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Sagittal biplanar ‘L’-shaped tibial osteotomy associated with osteochondral allograft for symptomatic varus knee and low patella",
+    "authors": "Firman EJ, Río EM, Sirio AN.",
+    "year": 2025,
+    "journal": "International Journal of Surgery Case Reports",
+    "doi": "10.1016/j.ijscr.2025.112074",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

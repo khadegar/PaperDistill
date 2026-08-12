@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9469197",
+  "paper_id": "doi:10.18063/ijb.v8i3.591",
+  "pmcid": "PMC9469197",
+  "source_record_sha256": "c71aa5e6d7b1075320959b595f06fd5d7f0ad29238ef7a39d9489b719d210538",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b088356e92aaec481e8a3897ed6b87881bdd142a75b72a2dbc6b4542e45f54aa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Sialoprotein Immobilized in Collagen Type I Enhances Bone Regeneration In vitro and In vivo",
+    "authors": "Kriegel A, Schlosser C, Habeck T, Dahmen C, Götz H, Clauder F, Armbruster FP, Baranowski A, Drees P, Rommens PM, Ritz U.",
+    "year": 2022,
+    "journal": "International Journal of Bioprinting",
+    "doi": "10.18063/ijb.v8i3.591",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

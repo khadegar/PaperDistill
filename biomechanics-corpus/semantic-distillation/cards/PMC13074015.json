@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13074015",
+  "paper_id": "doi:10.3390/jcm15072685",
+  "pmcid": "PMC13074015",
+  "source_record_sha256": "d1cd995a43e82be07bc490650cee6a22cce7077c474c61e8d881eebab60700a2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9d0a7c72e2c77fa3b136f36db66c58fe2c85d41599516cafe594cb1ead35817a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Total Hip Arthroplasty with Subtrochanteric Femoral Shortening Osteotomy for Crowe Type IV Post-Dysplastic Hip Osteoarthritis: Clinical and Radiological Outcomes",
+    "authors": "Rovnak M, Melisik M, Hrubina M, Cabala J, Cabala J, Feranec M, Cibula Z.",
+    "year": 2026,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm15072685",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

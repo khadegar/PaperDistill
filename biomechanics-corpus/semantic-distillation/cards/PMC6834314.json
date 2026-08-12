@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6834314",
+  "paper_id": "doi:10.3390/ijms20204987",
+  "pmcid": "PMC6834314",
+  "source_record_sha256": "b72bcf3ed54315576547b6ab622617ff6ac04daa0fa83778732e12dba02911ae",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f0b1c2e4459d3a9b6f177c418f1b975c2567066b21c5204c29f3325de3aebb8f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Human Oral Stem Cells, Biomaterials and Extracellular Vesicles: A Promising Tool in Bone Tissue Repair",
+    "authors": "Trubiani O, Marconi GD, Pierdomenico SD, Piattelli A, Diomede F, Pizzicannella J.",
+    "year": 2019,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms20204987",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

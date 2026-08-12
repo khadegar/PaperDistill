@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10294892",
+  "paper_id": "doi:10.3390/bioengineering10060736",
+  "pmcid": "PMC10294892",
+  "source_record_sha256": "97a924388dcb2f2f98317abdeaaa820eb8dc6d4fdf33a820b5e4d16fe1f1162b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a703fd438f2f3ebbfaf31a3c1f36ba53860c45fc326726406f7fe3fc97178736",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An Integrated Method of Biomechanics Modeling for Pelvic Bone and Surrounding Soft Tissues",
+    "authors": "Kou W, Liang Y, Wang Z, Liang Q, Sun L, Kuang S.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10060736",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8279401",
+  "paper_id": "doi:10.1371/journal.pone.0253786",
+  "pmcid": "PMC8279401",
+  "source_record_sha256": "2ee0baf793f334bfa219b3c6a93ac7f6a3b27387a3ea12cbc3ac4cc1deae9655",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3e2f769d0f6625f0be281debe471f12512abbad419c14401acc40dbed356692d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additively manufactured patient-specific prosthesis for tumor reconstruction: Design, process, and properties",
+    "authors": "Tilton M, Lewis GS, Hast MW, Fox E, Manogharan G.",
+    "year": 2021,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0253786",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article; Case Reports",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

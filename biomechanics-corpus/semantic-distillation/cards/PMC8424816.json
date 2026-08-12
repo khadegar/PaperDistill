@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8424816",
+  "paper_id": "doi:10.1186/s12951-021-01015-y",
+  "pmcid": "PMC8424816",
+  "source_record_sha256": "9385c7a4b57f55e6bd19e8073ff06ac596640d94f55fbf98cf72095a65f37370",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "76ccdf186649005b0393592632caf6beb4bb8602ab82a06e36bb02a441c6ddd9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A novel delivery nanobiotechnology: engineered miR-181b exosomes improved osteointegration by regulating macrophage polarization",
+    "authors": "Liu W, Yu M, Chen F, Wang L, Ye C, Chen Q, Zhu Q, Xie D, Shao M, Yang L.",
+    "year": 2021,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-021-01015-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

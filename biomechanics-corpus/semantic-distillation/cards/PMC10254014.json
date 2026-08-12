@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10254014",
+  "paper_id": "doi:10.3390/ma16113946",
+  "pmcid": "PMC10254014",
+  "source_record_sha256": "00c57dd96e1b01e7746da527561245e11142b7fdb38f00135c7855916866caa1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b9d938f415dd6f9f5a07cda59a802342f614560c2cb3d57d01f70e7cfc53c21d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advances in Computational Techniques for Bio-Inspired Cellular Materials in the Field of Biomechanics: Current Trends and Prospects",
+    "authors": "Pais AI, Belinha J, Alves JL.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16113946",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

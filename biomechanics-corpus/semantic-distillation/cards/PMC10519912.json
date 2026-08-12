@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10519912",
+  "paper_id": "doi:10.1007/s13770-023-00569-2",
+  "pmcid": "PMC10519912",
+  "source_record_sha256": "a8919683de5e65a706e53f01a1f3a36bb9c398aa90f8d7b81abacc3952fcfe4d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "656bac43b5a515376c30a55b47460fe89b7ce361d8e3461fd6e48dd3a73a204b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Injectable and Cell-Laden Hydrogel in the Contained Bone Defect Animal Model: A Systematic Review",
+    "authors": "Wang C, Min S, Tian Y.",
+    "year": 2023,
+    "journal": "Tissue Engineering and Regenerative Medicine",
+    "doi": "10.1007/s13770-023-00569-2",
+    "publication_type": "Research Support, Non-U.S. Gov't; Systematic Review; review-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

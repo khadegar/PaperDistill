@@ -1,0 +1,358 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12584384",
+  "paper_id": "doi:10.1186/s12903-025-06923-1",
+  "pmcid": "PMC12584384",
+  "source_record_sha256": "86cac208f8a6e49b31f7a103e12efb502c204b85d3ad28e3c98f3c6550c96f7a",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T11:50:35Z",
+    "packet_sha256": "8aa45184d8136f3416762c26648a429e8d18ee74d90a784995568fc33b9a6ddd",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S002:C02",
+      "S002:C03",
+      "S003:C01",
+      "S003:C02",
+      "S004:C01",
+      "S005:C01",
+      "S006:C01",
+      "S006:C02",
+      "S007:C01",
+      "S007:C02",
+      "S007:C03",
+      "S007:C04",
+      "S008:C01",
+      "S008:C02",
+      "S009:C01",
+      "S009:C02",
+      "S010:C01",
+      "S011:C01",
+      "S011:C02",
+      "S012:C01",
+      "S012:C02",
+      "S012:C03",
+      "S013:C01",
+      "S014:C01",
+      "S015:C01",
+      "S015:C02",
+      "S015:C03",
+      "S015:C04",
+      "S016:C01",
+      "S016:C02"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "The topology optimization design and processing of 3D-printed bio-fixed bone plate applied to the mandible",
+    "authors": "Zhou X, Zhang G, Huang A, Zhou H.",
+    "year": 2025,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-025-06923-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "anatomy_model_FE_topology_lattice_and_SLM_feasibility_study",
+    "design_features": [
+      "mandible_database_geometry",
+      "simulated_molar_fracture",
+      "eight_static_bite_locations",
+      "single_case_topology_optimization",
+      "manual_topology_reconstruction",
+      "hexahedral_lattice_infill",
+      "SLM_Ti6Al4V",
+      "qualitative_surface_and_dimensional_metrology",
+      "PLA_mandible_fit_test",
+      "no_mechanical_or_biological_validation"
+    ],
+    "research_problem": "Prefabricated mandibular plates may fit poorly and remain overly stiff, motivating an anatomy-conforming, lighter and porous SLM plate designed through an auditable digital workflow.",
+    "exact_gap": "Existing workflows incompletely integrate anatomical reconstruction, multi-condition FE, topology optimization, lattice parameterization, manufacturability repair, SLM production, and fit checking; claims of stress-shielding mitigation and biofixation require evidence at each transition (S002:C01-S004:C01).",
+    "objective_or_hypothesis": "Reconstruct a mandible, simulate eight 100 N tooth-load cases, optimize the plate under the highest-stress case with 50% volume reduction, repair the topology, compare three hexahedral-lattice porosities, print the selected Ti6Al4V plate, and inspect geometry/surface/fit (S001:C01-S004:C01).",
+    "study_design": "Computational-manufacturing feasibility pipeline using a Mimics database mandible with an artificial R6 transverse fracture, homogeneous linear-elastic materials, simplified point-coupled supports, bound plate/screw contact, one topology load case, designed lattice geometry, one SLM specimen, and assembly to an FDM PLA mandible (S005:C01-S014:C01).",
+    "sample_or_model": "One database-derived mandibular model rather than a documented patient CT; one 4-hole Ti6Al4V plate and printed PLA jaw model; no cadaver, animal, or patient.",
+    "comparators": [
+      "Eight single-tooth 100 N load locations",
+      "Initial solid plate versus raw topology output versus manually refined plate",
+      "60%, 70%, and 80% designed hexahedral lattice porosity",
+      "Final SLM dimensions versus CAD dimensions",
+      "Final plate versus PLA mandible fit",
+      "No experimental load/fatigue, biological, animal, or clinical comparator"
+    ],
+    "method_spine": [
+      "Document image/geometry source, segmentation, simulated pathology, plate dimensions, and screw layout.",
+      "Define mesh, material, contact, support, and a load-case matrix.",
+      "Select an optimization load case and report objective, volume constraint, frozen regions, and raw topology.",
+      "Repair sub-resolution/unsupported features and rerun FE to quantify reconstruction loss.",
+      "Parameterize lattice type, cell/strut/pore/porosity and evaluate each geometry.",
+      "Print and distinguish CAD values from as-built dimensions, roughness, internal architecture, mechanics, and biological evidence."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Eight static load cases are compared, and both manually refined and lattice-filled geometries are rerun under the selected R5 condition (S007:C01-S012:C03).",
+        "CAD-to-part outer dimensions, surface roughness, qualitative morphology, and fit to a PLA model are checked (S013:C01-S014:C01).",
+        "No explicit mesh-convergence criterion, optimizer convergence history, geometry-deviation map, or internal micro-CT verification is reported."
+      ],
+      "calibration": [
+        "Material values and the 100 N load are literature assigned; no patient bite force, construct stiffness, or material/process calibration is performed (S007:C01-S007:C04)."
+      ],
+      "validation": [
+        "Dimensional and fit checks validate gross manufacturability/assembly of one part, not stress, displacement, fatigue, screw fixation, stress shielding, or bone ingrowth.",
+        "No mechanical test, cell assay, animal model, or clinical implantation validates the computational or biofixation claims (S015:C02-S015:C04)."
+      ],
+      "sensitivity": [
+        "Load location and designed porosity are varied (S008:C01-S012:C03).",
+        "Load magnitude/direction, multi-tooth chewing, contacts, screws, materials, mesh, topology objective, cell type, as-built defect, fatigue, and patient anatomy are not varied (S015:C03-S015:C04)."
+      ],
+      "application_prediction": [
+        "Stress-shielding reduction, bone growth, biocompatibility, and clinical personalization are inferred applications; the study reaches only modeled and benchtop fit feasibility."
+      ]
+    },
+    "primary_outcomes": [
+      "The R5 single-tooth condition produced the largest assembly stress, 214.1 MPa on the screw, and was selected as the only topology load case (S008:C01-S009:C01).",
+      "Raw topology output had 184.1 MPa maximum stress and 0.6967 mm displacement but contained sub-0.1 mm walls, slender beams, large overhangs, and support-removal risks; after manual repair the plate mass was 2.689 g, stress 337.3 MPa, and displacement 0.9897 mm (S009:C02-S010:C01).",
+      "Designed 60%, 70%, and 80% lattice variants produced increasing maximum stress of 350.9, 413.4, and 430.4 MPa; 60% was selected for its modeled mechanical response and highest calculated surface-to-volume ratio (S011:C01-S012:C03).",
+      "Relative to the initial plate, the final 60% lattice design was about 49% lighter but had 64% higher maximum stress and 45.78% higher maximum displacement, demonstrating a trade-off rather than across-the-board improvement (S001:C01; S012:C01-S012:C03).",
+      "The printed plate's outer dimensions differed by at most about 0.07 mm, roughness was reported near Ra 10 micrometers, qualitative pore connectivity appeared acceptable, and fit clearance to the PLA jaw was at most 0.02 mm (S013:C01-S014:C01)."
+    ],
+    "highest_evidence_level_reached": "One-model FE/topology/lattice study plus gross SLM dimensional and PLA-model fit feasibility; no internal as-built, mechanical, biological, animal, or clinical validation."
+  },
+  "argument_map": {
+    "central_claim": "The pipeline can produce a lighter anatomy-conforming SLM plate that fits a printed jaw model, but modeled flexibility and surface area do not demonstrate reduced stress shielding, adequate fixation/fatigue, bone ingrowth, biocompatibility, or patient-specific clinical performance.",
+    "data": [
+      "Geometry/load/optimization/lattice FE outputs and one printed part's caliper dimensions, Ra, qualitative morphology, and fit clearance (S005:C01-S014:C01)."
+    ],
+    "warrant": "A digital-to-physical feasibility chain is useful only when every raw-topology, reconstructed-CAD, designed-lattice, as-built, mechanical, biological, and clinical state is labeled and tested at its own level.",
+    "backing": [
+      "The authors explicitly document raw topology printability failures and acknowledge single-load, fixed screw layout, narrow lattice space, and missing animal validation (S009:C02; S015:C03-S015:C04)."
+    ],
+    "qualifier": "Static computational and one-part manufacturing/fit feasibility for the stated database geometry and process.",
+    "rebuttals_or_boundaries": [
+      "The geometry comes from a software database file, not a documented patient's CT, so personalization is demonstrated as a workflow concept rather than patient validation (S005:C01).",
+      "The paper inconsistently describes the objective as maximum-stress minimization and strain-energy minimization (S004:C01; S009:C01).",
+      "Only the R5 condition drives topology; multi-tooth, direction-changing and cyclic chewing are absent.",
+      "Manual repair erases part of the raw topology advantage and raises stress substantially.",
+      "Designed porosity/pore size and qualitative SEM do not quantify as-built 3D porosity, strut thickness, defects, or connectivity.",
+      "Static von Mises below bulk tensile/yield values does not establish fatigue, screw pullout, contact damage, or cortical-bone safety.",
+      "Greater condylar displacement is not fracture-gap micromotion or evidence of beneficial bone loading."
+    ],
+    "argument_coherence": "high_for_workflow_feasibility_moderate_for_static_tradeoff_low_for_stress_shielding_biofixation_or_clinical_claims"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Powder/process metadata, printed outer dimensions, roughness, qualitative surface/pore morphology, screw assembly, and clearance to the PLA jaw model (S003:C01-S003:C02; S013:C01-S014:C01)."
+    ],
+    "predicted": [
+      "All stresses, displacement, mass, strain energy, stress distribution, designed porosity/pore size/surface ratio, and safety comparisons are CAD/FE outputs (S007:C01-S012:C03)."
+    ],
+    "inferred": [
+      "Reduced stress shielding, more bone growth, higher biocompatibility, biofixation, strength adequacy, and personalized clinical use are inferred from flexibility, surface area, geometry, and static stress (S010:C01-S016:C01)."
+    ],
+    "recommended": [
+      "Resolve the objective definition; optimize weighted multi-load/fatigue and fracture-gap metrics; micro-CT as-built lattice; mechanically test static/fatigue/screw fixation; and validate cells, animal bone ingrowth, surgical fit, and clinical outcomes."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Higher calculated surface area is not bone ingrowth or biocompatibility.",
+      "Higher global displacement is not reduced stress shielding and may reduce fracture stability.",
+      "Static peak stress below bulk tensile strength is not fatigue or construct safety.",
+      "Caliper dimensions and PLA-model fit are not internal architecture or patient fit.",
+      "Database anatomy is not patient-specific validation."
+    ],
+    "overclaim_risks": [
+      "The abstract/conclusion say increased displacement effectively mitigates stress shielding without measuring bone stress relative to an intact/reference condition (S001:C01; S016:C01).",
+      "The Results claim porous filling markedly improves biocompatibility and topology enhances biological properties without biological tests (S012:C02).",
+      "The part is called smooth and free of defects from visual/SEM inspection despite Ra about 10 micrometers and no internal metrology (S013:C01).",
+      "The conclusion says assembly/use requirements are met without mechanical, fatigue, biological, or clinical criteria (S013:C01-S016:C01)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Build an auditable digital-to-physical chain",
+      "execution": "The paper follows geometry source, simulated fracture, plate/screws, mesh/load cases, topology, repair, lattice, SLM, morphology, and fit (S004:C01-S014:C01).",
+      "locator": "S004:C01",
+      "effectiveness": "high_as_workflow",
+      "transferable_principle": "Write every CAD-to-device transition with its input, algorithm, manual decision, output file/state, verification metric, and downstream evidence gate.",
+      "failure_mode": "A complete workflow diagram can conceal weak validation if states are not evidence-labeled."
+    },
+    {
+      "section": "methods",
+      "move": "Reconcile optimization objective and load selection",
+      "execution": "The workflow says maximum-stress minimization, whereas the detailed module minimizes strain energy under 50% volume and one R5 load (S004:C01; S009:C01).",
+      "locator": "S009:C01",
+      "effectiveness": "low_as_consistency_high_as_counterexample",
+      "transferable_principle": "Use identical objective/constraint terminology in abstract, Methods, figures, and code; justify load weights and protected regions before optimization.",
+      "failure_mode": "Stress and compliance optimization are not interchangeable and may select different designs."
+    },
+    {
+      "section": "results",
+      "move": "Report raw-to-repaired topology loss",
+      "execution": "Sub-resolution walls/overhangs are described, and repaired geometry is rerun, revealing a large stress/displacement increase (S009:C02-S010:C01).",
+      "locator": "S009:C02",
+      "effectiveness": "high",
+      "transferable_principle": "Show raw topology, reason-coded edits, volume/geometry difference, and every critical metric before and after manufacturability repair.",
+      "failure_mode": "Hiding the repaired state makes an unmanufacturable numerical optimum look physically achieved."
+    },
+    {
+      "section": "results",
+      "move": "Present mass-stress-displacement-biology as a trade-off",
+      "execution": "Final mass falls 49% while maximum stress and displacement rise 64% and 45.78%; biological benefit is not measured (S001:C01; S012:C01-S012:C03).",
+      "locator": "S012:C02",
+      "effectiveness": "high_as_tradeoff_low_as_interpretation",
+      "transferable_principle": "A topology paper should report a Pareto table and prohibit 'performance improved' unless all claimed axes have directionally favorable evidence.",
+      "failure_mode": "Lower mass plus greater flexibility does not prove stress shielding reduction or fixation adequacy."
+    },
+    {
+      "section": "results",
+      "move": "Separate external fit from internal as-built validation",
+      "execution": "Calipers, Ra, qualitative microscopy, and feeler-gauge fit are reported for one part (S013:C01-S014:C01).",
+      "locator": "S013:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "Report outer dimensions/fit, internal lattice metrology, surface/chemistry, residual stress, static/fatigue mechanics, and biology in separate validation blocks.",
+      "failure_mode": "Good external fit does not validate hidden lattice defects or function."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Only one extreme load, fixed plate/screw layout, one lattice family and 60-80% porosity, software-dominated mechanics/fit, and no animal experiment; multi-load, parametric, gradient/hybrid and biodegradable designs remain future work (S015:C02-S015:C04)."
+    ],
+    "reader_identified": [
+      "Database rather than documented patient geometry and no segmentation/fit uncertainty.",
+      "Objective inconsistency and no optimizer convergence/filter/manufacturing-constraint detail beyond manual repair.",
+      "Simplified supports, homogeneous materials, bound interfaces, single 100 N static load, and no fracture-gap metric.",
+      "No mesh/material/contact/load sensitivity or experimental FE calibration.",
+      "No micro-CT internal architecture, strut/porosity statistics, density, residual stress, or dimensional sample replication.",
+      "No static/fatigue/screw pullout/contact/bench test and no cell/animal/clinical validation.",
+      "Powder percentile and standard-table labeling should be checked for internal consistency (S003:C01)."
+    ],
+    "likely_bias_direction": [
+      "Single-load optimization and ideal material/contact likely overstate safety/performance.",
+      "Qualitative metrology likely understates internal AM defects.",
+      "Surface-area and displacement proxies inflate biofixation/stress-shielding claims."
+    ],
+    "scope_boundary": "The study demonstrates one database-geometry CAD-to-SLM and fit workflow with static FE trade-offs; it does not establish patient-specific accuracy, internal as-built quality, fatigue/fixation safety, stress-shielding reduction, bone ingrowth, biocompatibility, or clinical performance."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC12584384-01",
+      "capability": "Write topology-to-implant work as geometry source to load matrix to optimization contract to reconstruction to lattice to SLM to distinct as-built validation gates.",
+      "manuscript_use": "Methods workflow, Results traceability table, and figure sequence.",
+      "applicable_domains": [
+        "topology_optimization",
+        "bone_implant",
+        "additive_manufacturing",
+        "porous_scaffold"
+      ],
+      "applicable_study_designs": [
+        "finite_element",
+        "manufacturing_feasibility"
+      ],
+      "supporting_locators": [
+        "S004:C01",
+        "S005:C01",
+        "S006:C01",
+        "S007:C01",
+        "S009:C01",
+        "S009:C02",
+        "S011:C01",
+        "S013:C01",
+        "S014:C01"
+      ],
+      "counterexample_or_boundary": "A digital closed loop is not an evidence closed loop unless each transition is measured.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12584384-02",
+      "capability": "Quantify raw-topology reconstruction loss and present mass, stress, displacement, manufacturability, and biology as separate Pareto axes.",
+      "manuscript_use": "Topology Results and trade-off Discussion.",
+      "applicable_domains": [
+        "topology_optimization",
+        "additive_manufacturing",
+        "bone_implant"
+      ],
+      "applicable_study_designs": [
+        "topology_optimization",
+        "finite_element"
+      ],
+      "supporting_locators": [
+        "S009:C02",
+        "S010:C01",
+        "S011:C01",
+        "S012:C01",
+        "S012:C02",
+        "S012:C03"
+      ],
+      "counterexample_or_boundary": "A 49% mass reduction accompanied by 64% stress and 45.78% displacement increases is a trade-off, not universal enhancement.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12584384-03",
+      "capability": "Keep designed lattice geometry, external part fit, internal as-built metrology, mechanics, and biological fixation as independent evidence layers.",
+      "manuscript_use": "AM validation matrix and claim audit.",
+      "applicable_domains": [
+        "additive_manufacturing",
+        "porous_scaffold",
+        "bone_implant"
+      ],
+      "applicable_study_designs": [
+        "manufacturing_feasibility",
+        "device_validation"
+      ],
+      "supporting_locators": [
+        "S011:C01",
+        "S011:C02",
+        "S012:C01",
+        "S012:C02",
+        "S013:C01",
+        "S014:C01",
+        "S015:C02",
+        "S015:C04"
+      ],
+      "counterexample_or_boundary": "Caliper/fit and qualitative SEM do not demonstrate nominal porosity, fatigue, bone growth, or biocompatibility.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_for_integrated_feasibility",
+    "methods_transparency": "moderate_to_high",
+    "validation_credibility": "moderate_for_outer_geometry_and_model_fit_low_for_mechanics_or_biology",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "moderate_with_single_load_selection",
+    "conclusion_proportionality": "low",
+    "critical_weaknesses": [
+      "Database anatomy, objective inconsistency, and one topology load case.",
+      "No internal as-built metrology or mechanical/fatigue validation.",
+      "Stress-shielding, biofixation, biocompatibility, and clinical claims rely on proxies."
+    ],
+    "overall_credibility": "moderate_to_high_for_CAD_SLM_fit_feasibility_low_for_functional_or_biological_performance"
+  },
+  "summary_zh": "该研究完成了下颌模型—八个单牙工况—拓扑优化—人工修复—六面体晶格—SLM—PLA模型装配的完整流程。原始拓扑含小于0.1 mm薄壁和大悬垂；人工修复后应力由184.1升至337.3 MPa。最终60%晶格板相对初始板减重49%，但最大应力和位移分别增加64%和45.78%，应写成权衡。实体验证只有外形尺寸、Ra约10 μm、定性形貌和0.02 mm模型间隙；没有micro-CT、静力/疲劳、螺钉固定、细胞或动物数据。几何还来自Mimics数据库而非明确患者CT。因此Skill将把raw topology、修复CAD、设计晶格、as-built、构件力学、骨长入和临床拟合逐层分开，并禁止用位移或表面积直接证明应力遮挡降低和生物固定。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference section, all eight load cases, optimization/reconstruction, lattice variants, SLM metrology, fit test, and limitations.",
+    "Biological/mechanobiological cues are design motivations; the study contains no biological experiment.",
+    "The article is valuable as an integrated workflow and reconstruction-loss counterexample."
+  ],
+  "selection": {
+    "selection_reason": "explicit_include",
+    "primary_stratum": "topology_optimization",
+    "stratum_rank": 4,
+    "reading_order": 44
+  },
+  "source": {
+    "record_path": "records/PMC12584384.json.gz",
+    "source_record": "records/PMC12584384.json.gz",
+    "source_record_sha256": "86cac208f8a6e49b31f7a103e12efb502c204b85d3ad28e3c98f3c6550c96f7a",
+    "source_hash": "86cac208f8a6e49b31f7a103e12efb502c204b85d3ad28e3c98f3c6550c96f7a"
+  }
+}

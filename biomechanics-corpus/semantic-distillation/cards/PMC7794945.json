@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7794945",
+  "paper_id": "doi:10.3390/ma14010224",
+  "pmcid": "PMC7794945",
+  "source_record_sha256": "f069729ed975ee449d7d3bc172a8067855f3538b44ade945b857d2df50e9930e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bfd9a49ae413929e1d5d4a004987a3b07e8d8d81d83e1603fa4ba2615ca16bc2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Topological, Mechanical and Biological Properties of Ti6Al4V Scaffolds for Bone Tissue Regeneration Fabricated with Reused Powders via Electron Beam Melting",
+    "authors": "Gatto ML, Groppo R, Bloise N, Fassina L, Visai L, Galati M, Iuliano L, Mengucci P.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14010224",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

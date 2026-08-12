@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8156807",
+  "paper_id": "doi:10.3390/polym13101584",
+  "pmcid": "PMC8156807",
+  "source_record_sha256": "429442792db94f0fddf89b1921d032e1d8c760660b1c2d6b9e1064cef5133287",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7d6c8a33c9dbb7e73864e2e9da42fa27ef8a214c61cb9500e4a4ddd6fd8219a9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of Computational Method in Designing a Unit Cell of Bone Tissue Engineering Scaffold: A Review",
+    "authors": "Mustafa NS, Akhmal NH, Izman S, Ab Talib MH, Shaiful AIM, Omar MNB, Yahaya NZ, Illias S.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13101584",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

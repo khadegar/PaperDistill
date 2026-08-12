@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13022701",
+  "paper_id": "doi:10.1016/j.bioactmat.2026.03.028",
+  "pmcid": "PMC13022701",
+  "source_record_sha256": "be132fbad37356d8ca78bfd878b704d7f3f5b378ce527def2953cd85d7ef03be",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6d655f97f5367f9a806beacc64376dc5638d790d30759445f4507e8b475ed266",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional niche-like porous structure locoregionally regulating macrophage immunosenescence rejuvenates aged bone repair",
+    "authors": "Zhao DW, Fei X, Zhai H, Zhang Y, Hu R, Liu H, Li S, Kong X, Zhang Y, Zhang Z, Cheng L.",
+    "year": 2026,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2026.03.028",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

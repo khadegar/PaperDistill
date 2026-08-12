@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10493156",
+  "paper_id": "doi:10.2147/ijn.s417929",
+  "pmcid": "PMC10493156",
+  "source_record_sha256": "fbf8d0715d0ca6bfd3a99e24b44460bffabd4f41d505b735c64e116f83198d2a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ab795447f481b01a54204b476226ae0f7f3b7fb861065cd75a207e94635f7096",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Doped Multiple Nanoparticles with Hydroxyapatite Coating Show Diverse Health Effects in vivo",
+    "authors": "Li X, Yang B, Xu M, Li F, Geng Z, Cui W, Sun X, Li Y, Liu Y.",
+    "year": 2023,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s417929",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

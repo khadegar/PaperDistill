@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9324223",
+  "paper_id": "doi:10.1002/jbmr.4551",
+  "pmcid": "PMC9324223",
+  "source_record_sha256": "ab242592ced5a97acf8933b577f3ae45d597a313d88757cf2da54445aa4f4a74",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7673a352669f9fe07aced81acfde0799a60670ff851cf734c9a0024ef3b7688c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Denosumab Compared With Risedronate on Bone Strength in Patients Initiating or Continuing Glucocorticoid Treatment",
+    "authors": "Geusens P, Bevers MS, van Rietbergen B, Messina OD, Lespessailles E, Oliveri B, Chapurlat R, Engelke K, Chines A, Huang S, Saag KG, van den Bergh JP.",
+    "year": 2022,
+    "journal": "Journal of Bone and Mineral Research",
+    "doi": "10.1002/jbmr.4551",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Randomized Controlled Trial; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

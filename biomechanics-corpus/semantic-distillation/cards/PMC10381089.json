@@ -1,0 +1,354 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10381089",
+  "paper_id": "doi:10.3390/ijms241411644",
+  "pmcid": "PMC10381089",
+  "source_record_sha256": "f69465696b559df085c12cb9eabe7f1ca6508e19cfc0c4e200297f6597ef90f1",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T11:17:48Z",
+    "packet_sha256": "0b8bf6b9ec267d081439f9965613e457b2365f6e2acee784a64dcf2e6d660a70",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S002:C02",
+      "S002:C03",
+      "S002:C04",
+      "S002:C05",
+      "S003:C01",
+      "S004:C01",
+      "S005:C01",
+      "S006:C01",
+      "S007:C01",
+      "S008:C01",
+      "S009:C01",
+      "S010:C01",
+      "S011:C01",
+      "S012:C01",
+      "S012:C02",
+      "S012:C03",
+      "S012:C04",
+      "S012:C05",
+      "S012:C06",
+      "S012:C07",
+      "S012:C08",
+      "S012:C09",
+      "S012:C10",
+      "S013:C01",
+      "S014:C01",
+      "S015:C01",
+      "S015:C02",
+      "S016:C01",
+      "S017:C01",
+      "S018:C01",
+      "S019:C01",
+      "S020:C01",
+      "S021:C01",
+      "S022:C01",
+      "S022:C02",
+      "S023:C01",
+      "S024:C01",
+      "S025:C01",
+      "S026:C01",
+      "S027:C01",
+      "S028:C01",
+      "S029:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Titanium Particles Modulate Lymphocyte and Macrophage Polarization in Peri-Implant Gingival Tissues",
+    "authors": "Kheder W, Bouzid A, Venkatachalam T, Talaat IM, Elemam NM, Raju TK, Sheela S, Jayakumar MN, Maghazachi AA, Samsudin AR, Hamoudi R.",
+    "year": 2023,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms241411644",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "cross_sectional_clinical_transcriptomic_study_with_in_vitro_macrophage_experiment",
+    "design_features": [
+      "failed_successful_no_implant_groups",
+      "peri_implant_gingival_tissue",
+      "targeted_whole_transcriptome_rna_seq",
+      "pathway_enrichment",
+      "cibersort_deconvolution",
+      "histology_and_ihc",
+      "thp_1_macrophage_tio2_exposure",
+      "cytokine_assays"
+    ],
+    "research_problem": "Titanium particles are found in peri-implant tissues and may influence immune responses, but the immune-cell composition and cytokine signals associated with particles, peri-implantitis, and implant failure are not well resolved.",
+    "exact_gap": "The study combines human gingival-tissue transcriptomics from failed, early successful, and no-implant sites with histology/IHC and a macrophage TiO2 exposure experiment; it seeks mechanistic plausibility, not direct bone-interface or longitudinal osseointegration evidence (S002:C04-S002:C05).",
+    "objective_or_hypothesis": "Compare gene expression and inferred immune composition across failed, successful, and no-implant gingival tissues, identify titanium-like particles and immune cells histologically, and test whether commercial TiO2 micro/nanoparticles stimulate selected cytokines in THP-1-derived macrophages (S002:C05).",
+    "study_design": "Cross-sectional three-group clinical tissue study (11 failed, 6 early successful, 3 no-implant patients) using AmpliSeq RNA profiling, DEG/enrichment/network/deconvolution analyses and CD3/CD68 histology, followed by 24-hour THP-1 M0 macrophage exposure to 20 or 100 micrograms per millilitre of commercial TiO2 nanoparticles/microparticles (S013:C01-S028:C01).",
+    "sample_or_model": "Twenty selected adults: failed peri-implantitis explantation tissue 1-5 years after loading, successful-implant uncovering tissue roughly 3-6 months after placement, and peri-coronal tissue from impacted wisdom teeth; plus THP-1-derived macrophages and commercial TiO2 particles (S014:C01-S015:C02; S024:C01-S026:C01).",
+    "comparators": [
+      "Failed implant gingiva versus no-implant gingiva",
+      "Early successful implant gingiva versus no-implant gingiva",
+      "Limited direct failed versus successful IHC comparison",
+      "Untreated THP-1 macrophages versus 20 and 100 micrograms per millilitre TiO2 nanoparticles or microparticles",
+      "No patient-level particle-burden gradient, longitudinal success/failure, microbial, bone-interface, or clinical intervention comparator"
+    ],
+    "method_spine": [
+      "Define clinical groups and harvest timing/site before interpreting molecular differences.",
+      "Profile bulk tissue and distinguish DEGs, pathways, and computational cell fractions.",
+      "Use histology/IHC to localize broad immune-cell classes and visually identify particle-like material.",
+      "Use a simplified particle-exposure cell model for selected cytokine plausibility.",
+      "Separate association, computational inference, morphology-based particle identification, and causal particle exposure.",
+      "Stop before osteoclast/bone-resorption/osseointegration claims that were not directly tested."
+    ],
+    "validation_roles": {
+      "verification": [
+        "RNA quality/read thresholds, DESeq2 FDR filtering, pathway tools, positive tonsil IHC controls, two pathologists, THP-1 differentiation check, and TiO2 DLS/SEM support technical execution (S017:C01-S028:C01).",
+        "Particle identity in human H&E was based on black-spot morphology without elemental confirmation, size quantification, or patient-level burden measurement (S008:C01; S012:C04-S012:C06)."
+      ],
+      "calibration": [
+        "No clinical particle-dose calibration links commercial TiO2 exposures to particle composition, size, concentration, or surface chemistry in patient tissue (S012:C06; S025:C01)."
+      ],
+      "validation": [
+        "CD68/CD3 IHC confirms broad macrophage/lymphocyte infiltration, while THP-1 cytokine responses support particle-inflammatory plausibility; neither validates CIBERSORT M1/M2 fractions, patient-specific causation, osteoclast activation, bone loss, or osseointegration failure (S009:C01-S010:C01).",
+        "The commercial TiO2 cell experiment is not a validation of particles visually observed in human tissue because composition, dose, morphology, and chronic exposure are unmatched."
+      ],
+      "sensitivity": [
+        "Two particle sizes and two nominal concentrations reveal dose/size response for selected cytokines; no time-course, agglomeration/delivered dose, endotoxin, viability, surface chemistry, patient covariate, microbial, or tissue-composition sensitivity is reported.",
+        "The human groups differ structurally in time since implantation, disease, anatomy, sampling indication, and exposure history, preventing a clean sensitivity attribution to particle presence (S012:C09-S015:C02)."
+      ],
+      "application_prediction": [
+        "Early particle detection, diagnostic biomarkers, and immune-targeted therapies are future hypotheses; diagnostic accuracy, prospective failure prediction, and treatment response were not studied (S012:C10; S029:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "Bulk RNA profiles differed between failed/no-implant and successful/no-implant tissues, with 2185 and 5375 DEGs and enrichment of several immune/stress pathways (S003:C01-S005:C01).",
+      "CIBERSORT estimated differing M1/M2 and T-cell fractions, including M2 22.3% in failed versus 18.7% in successful tissues and M1 9.4% versus 9.9%, but these were computational estimates from small bulk-tissue groups (S006:C01).",
+      "H&E showed visually identified particle-like black material in both failed and successful implant tissue and more chronic inflammatory-cell infiltration in failed samples; CD68 and CD3 IHC were higher in failed than successful tissue (S008:C01-S009:C01).",
+      "At 100 micrograms per millilitre, commercial TiO2 nano- and microparticles increased IL-1beta, IL-8, and IL-18 secretion from THP-1-derived macrophages; TNF-alpha was not significantly changed, and several dose contrasts were significant (S010:C01).",
+      "STRING/PPI connected selected cytokines with known network neighbors, providing hypothesis organization rather than experimental interaction validation (S011:C01)."
+    ],
+    "highest_evidence_level_reached": "Small cross-sectional human soft-tissue molecular association plus simplified in-vitro macrophage exposure; no quantified human titanium burden, direct bone-interface biology, longitudinal failure prediction, or causal osseointegration evidence."
+  },
+  "argument_map": {
+    "central_claim": "Failed peri-implant tissues contain greater broad immune-cell infiltration than early successful/no-implant tissues, and high-dose commercial TiO2 can stimulate selected macrophage cytokines in vitro, supporting a particle-associated inflammatory hypothesis; the data do not show that patient titanium particles caused the molecular differences, macrophage polarization, bone resorption, or implant failure.",
+    "data": [
+      "Small-group bulk transcriptomic/enrichment/deconvolution results, morphology-based H&E particle observations, CD3/CD68 IHC, and TiO2-exposed THP-1 cytokines (S003:C01-S011:C01).",
+      "Clinical group definitions expose large differences in tissue site, disease state, and time since placement/loading (S014:C01-S015:C02)."
+    ],
+    "warrant": "Convergence of clinical-tissue immune association and a controlled particle-exposure response supports biological plausibility, but causal attribution requires confirmed particle identity/burden, temporally comparable groups, microbial/confounder control, patient-particle matching, and direct bone outcomes.",
+    "backing": [
+      "Particles appear in both successful and failed tissues, and the authors acknowledge microbial factors, small samples, unavailable patient macrophages, and unrecognized particle size (S012:C04-S012:C10)."
+    ],
+    "qualifier": "Hypothesis-generating association in selected gingival tissues with short in-vitro particle exposure.",
+    "rebuttals_or_boundaries": [
+      "Successful samples are early uncovering tissue at about 3-6 months, failed samples are diseased tissue 1-5 years after loading, and no-implant samples come from wisdom-tooth sites; group differences are not exposure-matched (S012:C09; S015:C01-S015:C02).",
+      "Titanium identity and quantity in patient tissue were not confirmed by SEM-EDS/ICP or correlated with cytokines/outcome; black H&E spots are not element-specific (S008:C01; S012:C04-S012:C06).",
+      "Peri-implantitis infection/biofilm, reverse causality, crown micro-gap, corrosion, intervention, and inflammation-driven wear remain alternative explanations (S012:C05-S012:C09).",
+      "CD68 is pan-macrophage and CD3 is broad T-cell staining; neither directly validates M1/M2 polarization, and proposed CD86/CD163 work was future (S012:C02).",
+      "Commercial TiO2 doses/particles may not match patient wear debris, and no osteoblast, osteoclast, bone resorption, BIC, fixation, or implant survival was measured."
+    ],
+    "argument_coherence": "moderate_for_hypothesis_low_for_causal_osseointegration_claim"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Clinical group/tissue data, targeted RNA counts, CD3/CD68 staining, morphology-based H&E observations, commercial particle characterization, and THP-1 cytokine concentrations (S003:C01-S010:C01; S013:C01-S028:C01)."
+    ],
+    "predicted": [
+      "CIBERSORT cell fractions, enriched pathways, leading-edge genes, and STRING interaction networks are computational inferences from bulk expression/reference databases rather than directly counted cell subtypes or measured protein interactions (S004:C01-S006:C01; S011:C01)."
+    ],
+    "inferred": [
+      "Distinct group transcriptomes are attributed to titanium-particle impact despite unmeasured particle burden and major group/time/site confounding (S012:C01).",
+      "Common immune pathways in both implant groups are treated as evidence of particle-triggered immunity, although implantation/surgery/tissue location and other exposures also differ (S012:C03).",
+      "CD68/CD3 infiltration plus TiO2 cytokines is extended to macrophage polarization, osteoclast activation, bone resorption, and failed osseointegration without direct measurement (S012:C05-S012:C10).",
+      "Bioinformatics tools are described as overcoming small sample size; they can organize signals but do not restore power or eliminate selection/confounding bias (S012:C10)."
+    ],
+    "recommended": [
+      "Confirm human particle identity, composition, size, and tissue burden; use time/site-matched longitudinal groups, microbiome/confounder measures, direct M1/M2 markers and spatial methods, patient-derived cells/particles, delivered-dose controls, and bone-interface outcomes."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Bulk RNA pathway enrichment is not direct immune-cell function or causal pathway activation.",
+      "CIBERSORT percentages are model-derived cell-composition estimates, not histological counts.",
+      "CD68/CD3 and cytokines do not establish osteoclast activity or bone resorption.",
+      "Gingival soft-tissue inflammation is not direct bone-implant osseointegration failure.",
+      "Commercial TiO2 macrophage exposure is not patient wear-particle causality.",
+      "Particle presence in successful and failed tissue means presence alone is not a failure discriminator."
+    ],
+    "overclaim_risks": [
+      "The title and conclusion say titanium particles modulate lymphocyte/macrophage polarization, but clinical exposure is cross-sectional/unquantified and direct polarization markers are absent (S001:C01; S029:C01).",
+      "The paper repeatedly connects cytokines to osteoblast-osteoclast imbalance and failure of osseointegration without bone-interface measurements (S011:C01-S012:C10).",
+      "H&E black spots are called titanium particles based on morphology rather than element-specific analysis (S008:C01).",
+      "A STRING network is presented as functional interconnection, not experimental molecular interaction or causal validation (S011:C01).",
+      "The finite-element and in-vivo-animal cues are false; this study is clinical cross-sectional plus in-vitro."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Map every evidence modality to the question it can answer",
+      "execution": "Bulk RNA identifies associations, deconvolution predicts cell fractions, IHC localizes broad cell classes, and THP-1 exposure tests selected cytokine plausibility (S017:C01-S026:C01).",
+      "locator": "S022:C01",
+      "effectiveness": "high_in_design",
+      "transferable_principle": "For multimodal mechanobiology, state the inferential role of each modality and prohibit one assay from validating a different latent construct.",
+      "failure_mode": "IHC for CD68/CD3 does not validate M1/M2 deconvolution or bone-resorption mechanisms."
+    },
+    {
+      "section": "results",
+      "move": "Preserve the successful-implant counterexample",
+      "execution": "Particle-like material and immune pathways occur in both successful and failed implant tissues, while infiltration is greater in failures (S007:C01-S009:C01).",
+      "locator": "S008:C01",
+      "effectiveness": "high",
+      "transferable_principle": "When an exposure appears in both outcome groups, write burden, timing, context, and moderator hypotheses rather than treating presence as sufficient causation.",
+      "failure_mode": "Particle presence alone cannot classify failure."
+    },
+    {
+      "section": "discussion",
+      "move": "Expose temporal and anatomical comparator mismatch",
+      "execution": "The discussion explains why successful tissue came from early uncovering, failed tissue from later explantation, and no-implant tissue from wisdom-tooth sites (S012:C09; S015:C01-S015:C02).",
+      "locator": "S012:C09",
+      "effectiveness": "high",
+      "transferable_principle": "In clinical tissue omics, report site, disease state, procedure, time since implantation/loading, and sampling indication as comparator-defining variables, not background details.",
+      "failure_mode": "Cross-sectional group omics cannot isolate an implant-particle effect when tissue histories differ."
+    },
+    {
+      "section": "discussion",
+      "move": "Build a mechanism ladder and stop at the missing bone link",
+      "execution": "The paper connects particles to macrophage cytokines and literature osteoclast pathways, but lacks direct osteoclast/bone outcomes (S012:C06-S012:C10).",
+      "locator": "S012:C10",
+      "effectiveness": "moderate",
+      "transferable_principle": "Write exposure-to-failure chains link by link—particle burden, cell uptake, cytokine, polarization, osteoclast, resorption, fixation—and label each measured, predicted, inferred, or missing.",
+      "failure_mode": "Do not collapse cytokine plausibility into demonstrated osseointegration failure."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The authors acknowledge small clinical groups, use of THP-1 rather than patient macrophages, inability to recognize particle size in tissue, and the need to assess titanium content and microbial factors (S012:C05-S012:C10)."
+    ],
+    "reader_identified": [
+      "Severe group mismatch in sampling time, anatomical site, disease status, surgical indication, and exposure history.",
+      "Human particle identity/burden is morphology-based and unquantified; no within-patient particle-inflammation/outcome association.",
+      "No direct FI-versus-SI transcriptomic model is emphasized, and very small n with many genes/pathways risks unstable estimates; GSEA uses nominal p-value language.",
+      "CIBERSORT appears applied to DEG lists and reports precise fractions without uncertainty; M1/M2 is not directly stained with subtype markers.",
+      "Commercial TiO2 exposure lacks patient-particle matching, delivered-dose/agglomeration/endotoxin/viability/time-course controls.",
+      "No microbial, osteoclast, osteoblast, bone-resorption, BIC, micro-motion, or longitudinal implant outcome measurement.",
+      "Network database analysis is hypothesis generation, not interaction validation."
+    ],
+    "likely_bias_direction": [
+      "Late diseased failure tissue versus early successful tissue likely exaggerates failure-associated immune differences.",
+      "Morphological particle assignment and unmeasured microbial confounding favor a titanium-causal narrative.",
+      "Multiple bioinformatics layers may make a small, confounded sample appear more validated than it is."
+    ],
+    "scope_boundary": "The study supports an association between failed peri-implant gingival tissue and greater immune infiltration plus the capacity of commercial TiO2 to stimulate selected macrophage cytokines. It does not establish patient titanium-particle causality, M1/M2 polarization, bone resorption, or failed osseointegration."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC10381089-01",
+      "capability": "Write multimodal clinical mechanobiology as separate measured, computationally predicted, and inferred layers, with each validation modality tied to its actual target.",
+      "manuscript_use": "Methods evidence map, Results ordering, Discussion, and claim audit.",
+      "applicable_domains": [
+        "osseointegration",
+        "mechanobiology",
+        "bone_implant"
+      ],
+      "applicable_study_designs": [
+        "clinical_omics",
+        "in_vitro_validation",
+        "multimodal_study"
+      ],
+      "supporting_locators": [
+        "S006:C01",
+        "S009:C01",
+        "S010:C01",
+        "S021:C01",
+        "S022:C01"
+      ],
+      "counterexample_or_boundary": "CIBERSORT, CD68/CD3, and THP-1 cytokines answer different questions and do not jointly prove polarization or bone failure.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10381089-02",
+      "capability": "Audit clinical tissue comparators by anatomical site, disease state, sampling indication, time since implantation/loading, and exposure history before causal interpretation.",
+      "manuscript_use": "Cohort table, comparator-fairness paragraph, and limitations.",
+      "applicable_domains": [
+        "osseointegration",
+        "clinical_biomechanics",
+        "bone_implant"
+      ],
+      "applicable_study_designs": [
+        "cross_sectional",
+        "case_control",
+        "clinical_omics"
+      ],
+      "supporting_locators": [
+        "S012:C09",
+        "S014:C01",
+        "S015:C01",
+        "S015:C02"
+      ],
+      "counterexample_or_boundary": "Early uncovering tissue, late peri-implantitis explant tissue, and wisdom-tooth gingiva are not exchangeable controls.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10381089-03",
+      "capability": "Trace particle-to-failure claims as an explicit causal ladder and require exposure identity/burden, cellular response, bone-resorption, and fixation links before writing osseointegration failure.",
+      "manuscript_use": "Mechanism figure, Discussion, and translational conclusion.",
+      "applicable_domains": [
+        "osseointegration",
+        "wear_debris",
+        "bone_implant",
+        "mechanobiology"
+      ],
+      "applicable_study_designs": [
+        "clinical_observational",
+        "in_vitro"
+      ],
+      "supporting_locators": [
+        "S008:C01",
+        "S010:C01",
+        "S012:C05",
+        "S012:C07",
+        "S012:C10"
+      ],
+      "counterexample_or_boundary": "Soft-tissue cytokines after commercial TiO2 exposure do not demonstrate patient-particle-driven osteoclast resorption or implant loosening.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_for_hypothesis_generation",
+    "methods_transparency": "moderate_to_high",
+    "validation_credibility": "low_to_moderate",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "low",
+    "conclusion_proportionality": "low",
+    "critical_weaknesses": [
+      "Small, temporally and anatomically mismatched clinical groups.",
+      "Human titanium exposure and macrophage polarization are not directly quantified/validated.",
+      "No bone-interface or longitudinal evidence bridges inflammation to osseointegration failure."
+    ],
+    "overall_credibility": "moderate_for_failure_associated_immune_infiltration_and_tio2_cytokine_plausibility_low_for_particle_causality_polarization_or_osseointegration_failure"
+  },
+  "summary_zh": "这项研究把 11 例失败植体、6 例早期成功植体和 3 例无植体牙龈组织的 bulk RNA、计算去卷积、H&E/IHC 与 THP-1 颗粒暴露串联起来。可重复的信号是失败组 CD68/CD3 浸润更高，商业 TiO2 在高剂量下可提高部分巨噬细胞细胞因子；但因果链远未闭合。成功组是植入后约 3–6 个月的二期暴露组织，失败组是负载 1–5 年后的炎症组织，无植体组又来自智齿区，比较器在时间、部位和疾病状态上严重不匹配。人体所谓钛颗粒仅按 H&E 黑点形态判断，没有元素确认或负荷定量；CD68/CD3 也不验证 M1/M2。最重要的 Skill 规则是逐段标注：bulk RNA/细胞因子为 measured，CIBERSORT/PPI 为 predicted，颗粒导致极化—破骨—骨丧失—骨整合失败则是 inferred/missing。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section, including all ten Discussion chunks and the complete clinical/in-vitro methods.",
+    "The finite-element and in-vivo-animal cues are false.",
+    "The paper's strongest evidence is failure-associated broad immune infiltration plus TiO2 cytokine plausibility, not titanium-particle causation or direct osseointegration failure."
+  ],
+  "selection": {
+    "selection_reason": "explicit_include",
+    "primary_stratum": "osseointegration_bone_ingrowth",
+    "stratum_rank": 2,
+    "reading_order": 27
+  },
+  "source": {
+    "record_path": "records/PMC10381089.json.gz",
+    "source_record": "records/PMC10381089.json.gz",
+    "source_record_sha256": "f69465696b559df085c12cb9eabe7f1ca6508e19cfc0c4e200297f6597ef90f1",
+    "source_hash": "f69465696b559df085c12cb9eabe7f1ca6508e19cfc0c4e200297f6597ef90f1"
+  }
+}

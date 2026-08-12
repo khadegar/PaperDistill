@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8591809",
+  "paper_id": "doi:10.1186/s13287-021-02642-w",
+  "pmcid": "PMC8591809",
+  "source_record_sha256": "e72b61420ac0c39cef6f883b30d2a28b6876c990bd4824b3631ae6712315acb4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "237c123a7c07ed6fd89cbe8d40c216021382cfc5fdbfab76f4dd796021ae60c2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone regeneration in rat calvarial defects using dissociated or spheroid mesenchymal stromal cells in scaffold-hydrogel constructs",
+    "authors": "Shanbhag S, Suliman S, Mohamed-Ahmed S, Kampleitner C, Hassan MN, Heimel P, Dobsak T, Tangl S, Bolstad AI, Mustafa K.",
+    "year": 2021,
+    "journal": "Stem Cell Research & Therapy",
+    "doi": "10.1186/s13287-021-02642-w",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

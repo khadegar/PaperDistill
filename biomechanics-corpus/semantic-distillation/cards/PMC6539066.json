@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6539066",
+  "paper_id": "doi:10.3390/molecules24091669",
+  "pmcid": "PMC6539066",
+  "source_record_sha256": "ea87116976420b66ffe7cee06f52dc9ebdc62546a0cdd84a4984f0ae5daeb3fe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "993db50e7acf31c3f611bf30a0dd9d0bddefc75bb16ee766723d35f906bed04d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication and Application of Novel Porous Scaffold in Situ-Loaded Graphene Oxide and Osteogenic Peptide by Cryogenic 3D Printing for Repairing Critical-Sized Bone Defect",
+    "authors": "Zhang Y, Wang C, Fu L, Ye S, Wang M, Zhou Y.",
+    "year": 2019,
+    "journal": "Molecules",
+    "doi": "10.3390/molecules24091669",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

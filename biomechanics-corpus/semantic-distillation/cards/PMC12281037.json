@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12281037",
+  "paper_id": "doi:10.1016/j.ijscr.2025.111657",
+  "pmcid": "PMC12281037",
+  "source_record_sha256": "d2d1cda018d493031a95441e1133abfb64f3adb0f7a7eeefb3ef6927b2c588da",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "998b8efca9c6201a074ae066a94d73b11f1fd877de723369eb80e22376b70809",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mesh application enhances osteoinduction following proximal femur chondrosarcoma resection and Total hip arthroplasty: A case report and novel technique",
+    "authors": "Hammad A, Abdelnour J.",
+    "year": 2025,
+    "journal": "International Journal of Surgery Case Reports",
+    "doi": "10.1016/j.ijscr.2025.111657",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

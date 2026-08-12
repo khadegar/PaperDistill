@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10390278",
+  "paper_id": "doi:10.12701/jyms.2022.00612",
+  "pmcid": "PMC10390278",
+  "source_record_sha256": "0167880466be021f871848923eda2cc1701ebd9a8efdca6601dac176bc30f11c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e55c459fc787ff213e2dc72bfe7274f534222cbaa9f0e48105b3b158b2cc3aa1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional printing of temporary crowns with polylactic acid polymer using the fused deposition modeling technique: a case series",
+    "authors": "Kim EK, Park EY, Kang S.",
+    "year": 2023,
+    "journal": "Journal of Yeungnam Medical Science",
+    "doi": "10.12701/jyms.2022.00612",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

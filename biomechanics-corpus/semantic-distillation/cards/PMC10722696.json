@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10722696",
+  "paper_id": "doi:10.1186/s13036-023-00395-z",
+  "pmcid": "PMC10722696",
+  "source_record_sha256": "12a8373982f063d4cfe2552bf8b52cc946c11f7154a8b7c4338d7c19f996a779",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "73ea6f73fee2e5b76040af6f3c9b3356e41985ab06b981635a5fdfb1afb03874",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Microfluidic device for enhancement and analysis of osteoblast differentiation in three-dimensional cell cultures",
+    "authors": "Killinger M, Kratochvilová A, Reihs EI, Matalová E, Klepárník K, Rothbauer M.",
+    "year": 2023,
+    "journal": "Journal of Biological Engineering",
+    "doi": "10.1186/s13036-023-00395-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

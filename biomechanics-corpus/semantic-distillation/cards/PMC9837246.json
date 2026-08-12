@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9837246",
+  "paper_id": "doi:10.1111/os.13554",
+  "pmcid": "PMC9837246",
+  "source_record_sha256": "f308b41203fb36b2350cc24b7eb1545814fa21b5a18d34ffb992e859a598eb9b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0f4a6044f2405d794a7d03728270d9ecbd2d74f8d35ad880be23c7bb1c06685b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Efficacy of 3D Printing Model in the Intraarticular Osteotomy in the Treatment of Malunion of Tibial Plateau Fracture",
+    "authors": "Jiang L, Li H, Huang L.",
+    "year": 2022,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13554",
+    "publication_type": "other; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

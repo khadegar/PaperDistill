@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8260695",
+  "paper_id": "doi:10.3389/fmolb.2021.666295",
+  "pmcid": "PMC8260695",
+  "source_record_sha256": "38de953c68a5b158f610e0083a2600ce3b11875548ebe1caa78216f879aac088",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b5cf2cf387c286dd7f99caf33e23a3ddb8b26c223744d0c40bff040fc59519c7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Sclerostin-Mediated Impaired Osteogenesis by Fibroblast-Like Synoviocytes in the Particle-Induced Osteolysis Model",
+    "authors": "Jagga S, Sharma AR, Lee YH, Nam JS, Lee SS.",
+    "year": 2021,
+    "journal": "Frontiers in Molecular Biosciences",
+    "doi": "10.3389/fmolb.2021.666295",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

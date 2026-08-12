@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10179528",
+  "paper_id": "doi:10.3390/ma16093349",
+  "pmcid": "PMC10179528",
+  "source_record_sha256": "4b05f4cd41f86af24d022ec1d331bed7976dce1a5b4aaa429af4ca7a05fb93c3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fa229555a1ee75b02cc4551c14a88fc5b5f6b29e11f86c387022618ea558ea28",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A New Microarchitecture-Based Parameter to Predict the Micromechanical Properties of Bone Allografts",
+    "authors": "Xiong Z, Rouquier L, Chappard C, Bachy M, Huang X, Potier E, Bensidhoum M, Hoc T.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16093349",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

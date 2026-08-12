@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12576340",
+  "paper_id": "doi:10.1002/jeo2.70482",
+  "pmcid": "PMC12576340",
+  "source_record_sha256": "d23b0b61d0a44244f0e658810bcbbdbd23a776d7d218ce3ebf027e5ddfcb6753",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3a803bb3678216f4dd08af52f6b4588f41065d2f60ae4aaba62675c16889026a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Increased varus deformity requires greater personalisation of alignment: A finite element biomechanical study",
+    "authors": "Russo A, Sisella M, Carrara A, Giacoppo N, Costa GG, Zocco G, Innocenti B.",
+    "year": 2025,
+    "journal": "Journal of Experimental Orthopaedics",
+    "doi": "10.1002/jeo2.70482",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

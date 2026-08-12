@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12736681",
+  "paper_id": "doi:10.4103/jisp.jisp_148_25",
+  "pmcid": "PMC12736681",
+  "source_record_sha256": "b42ba10e6c733bd63cd167690b2e626d8ea9d28c35c96594ad10dc6d95b4d41e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b3fe608ac155a85927069c70bca2f061d7a7527cd704dea466ae90e73caeaee1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous Ti6Al4V with controlled oxidation toward improved osseointegration of dental implant",
+    "authors": "Ganguly R, Das S, Sussela SV, Vaidya PV, Dogra N, Pal TK, Majumdar M, Dhara S.",
+    "year": 2025,
+    "journal": "Journal of Indian Society of Periodontology",
+    "doi": "10.4103/jisp.jisp_148_25",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

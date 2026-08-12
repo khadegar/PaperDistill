@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9576491",
+  "paper_id": "doi:10.1016/j.artd.2022.08.002",
+  "pmcid": "PMC9576491",
+  "source_record_sha256": "cf3c5fc256b361f9e737cff3f29dd6b3815854237ce5d064918f1e7b32e0ec99",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d4c796037564cd717fb6a8285c0f0744bb5aa6962ee223b0929461fd2e1ad449",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Early Tibial Component Fractures in a Cementless, 3D-Printed, Titanium Implant",
+    "authors": "Lam AD, Duffy GP.",
+    "year": 2022,
+    "journal": "Arthroplasty Today",
+    "doi": "10.1016/j.artd.2022.08.002",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

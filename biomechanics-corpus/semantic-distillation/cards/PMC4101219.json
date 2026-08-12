@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4101219",
+  "paper_id": "doi:10.1155/2014/353690",
+  "pmcid": "PMC4101219",
+  "source_record_sha256": "debcdf75267cb0240f9f343a481cfbd1078bc7bc94ee6521eaebb046a4cdaec2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "167ca8e0ccf84b4b14258788df8e11445907b43c0a703f8569c795686198b28b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Assessment of a Patient-Specific Knee Implant Design Using Finite Element Method",
+    "authors": "Rong Q, Bai J, Huang Y, Lin J.",
+    "year": 2014,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2014/353690",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

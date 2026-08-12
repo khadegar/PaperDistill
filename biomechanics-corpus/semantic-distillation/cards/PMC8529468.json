@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8529468",
+  "paper_id": "doi:10.1002/advs.202101778",
+  "pmcid": "PMC8529468",
+  "source_record_sha256": "f77673e3adadd2614ae8a3a9c641bf97ab8419883f051ffa6386808ecbf38857",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0f63a5016c55b5f22db84781d20a8ffb7832468957ccf42856a17b3830ceb154",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Nutrient Element Decorated Polyetheretherketone Implants Steer Mitochondrial Dynamics for Boosted Diabetic Osseointegration",
+    "authors": "Wang H, Fu X, Shi J, Li L, Sun J, Zhang X, Han Q, Deng Y, Gan X.",
+    "year": 2021,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202101778",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

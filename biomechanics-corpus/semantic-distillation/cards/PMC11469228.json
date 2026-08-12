@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11469228",
+  "paper_id": "doi:10.1002/adhm.202002082",
+  "pmcid": "PMC11469228",
+  "source_record_sha256": "f414f12b05903acbf8998a76f3f540bc09242a2283dc530abf8060f2bca3aa9c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "970ba328b3b354f5b335e399c7c474d299b38d607482e59750dd5e4f134b3631",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mimicking the Human Tympanic Membrane: The Significance of Scaffold Geometry",
+    "authors": "Anand S, Stoppe T, Lucena M, Rademakers T, Neudert M, Danti S, Moroni L, Mota C.",
+    "year": 2021,
+    "journal": "Advanced Healthcare Materials",
+    "doi": "10.1002/adhm.202002082",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

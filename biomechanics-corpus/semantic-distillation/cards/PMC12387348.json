@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12387348",
+  "paper_id": "doi:10.3390/jfb16080271",
+  "pmcid": "PMC12387348",
+  "source_record_sha256": "f677b240194f55fcf86cb1f344fd5a8c633da7c5bae7ecef1401e29f36f9e959",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "28fff0f8765ec3b7fa17038b69c3552ccf170f721b041bb33ed80e41b9dcc18a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional-Printed Biomimetic Scaffolds for Investigating Osteoblast-Like Cell Interactions in Simulated Microgravity: An In Vitro Platform for Bone Tissue Engineering Research",
+    "authors": "Zenobi E, Gramigna G, Scatena E, Panizza L, Achille C, Pecci R, Convertino A, Del Gaudio C, Lisi A, Ledda M.",
+    "year": 2025,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb16080271",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

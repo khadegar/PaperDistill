@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9993297",
+  "paper_id": "doi:10.4314/ahs.v22i3.41",
+  "pmcid": "PMC9993297",
+  "source_record_sha256": "f41c621b830b9593649148dfcb534e8567b67409154905f27c0744d1b102cbe6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "777340571f0b274580bb26888794e07f54123d350c87a2673f1f690861158d1a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3d cranial reconstruction using titanium implant – a case report",
+    "authors": "Selvaraj S, Dorairaj J, Shivasankar N.",
+    "year": 2022,
+    "journal": "African Health Sciences",
+    "doi": "10.4314/ahs.v22i3.41",
+    "publication_type": "research-article; Journal Article; Case Reports",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

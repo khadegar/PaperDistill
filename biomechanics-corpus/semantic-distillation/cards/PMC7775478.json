@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7775478",
+  "paper_id": "doi:10.3389/fbioe.2020.610284",
+  "pmcid": "PMC7775478",
+  "source_record_sha256": "88acd6c8789f7b6d4b72e2dbb8bb1c84fb56e7c88b0f75d319e9144081490571",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "65bbfc99ab24050b9f75d5b2f16db505efee28cb59db4542a63171d04be23853",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Customized Borosilicate Bioglass Scaffolds With Excellent Biodegradation and Osteogenesis for Mandible Reconstruction",
+    "authors": "Zhang P, Yang K, Zhou Z, Zhu X, Li W, Cao C, Zhou K, Liao L, Ai F.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.610284",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

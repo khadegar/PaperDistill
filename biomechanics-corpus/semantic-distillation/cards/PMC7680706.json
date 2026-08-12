@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7680706",
+  "paper_id": "doi:10.1016/j.bioactmat.2020.11.004",
+  "pmcid": "PMC7680706",
+  "source_record_sha256": "7db5f72137d21dd754be7201af6741661d6dc453bc33d0709ac9b2c0a9d563e1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b93c97b94a10384790223d7586206d923e53e809e981b87422f508ded7cef5ae",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioinspired mineralized collagen scaffolds for bone tissue engineering",
+    "authors": "Li Z, Du T, Ruan C, Niu X.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2020.11.004",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

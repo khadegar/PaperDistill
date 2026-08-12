@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9978187",
+  "paper_id": "doi:10.3389/fbioe.2023.1111449",
+  "pmcid": "PMC9978187",
+  "source_record_sha256": "9f41c4d5db8a7170af1407350bf8fe4fdcef7537c191a230bc07c70372dc8706",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "78f198fe4cdd04a4415a1f3f58acd8f204a3b3bb56c92d7bec65c18ed8358fe7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Material sensitivity of patient-specific finite element models in the brace treatment of scoliosis",
+    "authors": "Wei W, Zhang T, Yang J, Qian Y, Dong Y.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1111449",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

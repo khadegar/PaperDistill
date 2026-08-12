@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11504968",
+  "paper_id": "doi:10.3390/biomimetics9100587",
+  "pmcid": "PMC11504968",
+  "source_record_sha256": "2d9cbeb10465ab655b5464963458fc07ee92966c6572db6fb8942cc1c9d8e7a7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8fe5c347a9b689c6d594784caac155e47f9b0b1af7b4fd4ea33e0edefaee6e3f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Leveraging Machine Learning for Optimized Mechanical Properties and 3D Printing of PLA/cHAP for Bone Implant",
+    "authors": "Omigbodun FT, Osa-Uwagboe N, Udu AG, Oladapo BI.",
+    "year": 2024,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics9100587",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

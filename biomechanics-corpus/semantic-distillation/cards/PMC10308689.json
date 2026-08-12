@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10308689",
+  "paper_id": "doi:10.1186/s13018-023-03954-8",
+  "pmcid": "PMC10308689",
+  "source_record_sha256": "65237a3a2d1167d680268bdc9dae2c1e8f30ed16fb2b8b548a055f3171f8d288",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "674f9d36e1a673efe244f069d8162a5c066b7482aa4b26b061e427108b2dee48",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed custom-made short stem with porous structure for fixation of massive endoprosthesis in joint‐preserving reconstruction after tumor resection",
+    "authors": "Li Z, Lu M, Zhang Y, Gong T, Min L, Zhou Y, Luo Y, Tu C.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-03954-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

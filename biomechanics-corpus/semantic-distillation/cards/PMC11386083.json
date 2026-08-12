@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11386083",
+  "paper_id": "doi:10.1186/s12891-024-07846-8",
+  "pmcid": "PMC11386083",
+  "source_record_sha256": "7d1249b10bdd74fa66db56f84c9a7a68cf799fd8b84e101ef36aadc23e9bc617",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4e2cc5afccd20f65717aaea0bd664ac8de9ef89d4d558f5e2b343358b60b4ccb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of bisphosphonate on bone microstructure, mechanical strength in osteoporotic rats by ovariectomy",
+    "authors": "Wang Y, Wu Z, Li C, Ma C, Chen J, Wang M, Gao D, Wu Y, Wang H.",
+    "year": 2024,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-024-07846-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

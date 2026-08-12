@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10707220",
+  "paper_id": "doi:10.3390/ma16237320",
+  "pmcid": "PMC10707220",
+  "source_record_sha256": "4b731662cb59a9384ef692e51c78551f0946c5f934d2cf0e1bf6bd1bda549d7b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "96e19b6c6e6bdd261f8cc4e11271ea5c02a1a4e25c3fcd966c2168b6a6a34f16",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Simulation of the Influence of the Radial Graded Porosity Distribution on Elastic Modulus of γ/β Phase Ti-Based Alloy Foams for Bone Implant",
+    "authors": "Aguilar C, Alfonso I, González D, Pio E, Neves GO, De Barbieri F, Sancy M, Muñoz L.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16237320",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6209352",
+  "paper_id": "doi:10.2147/orr.s99614",
+  "pmcid": "PMC6209352",
+  "source_record_sha256": "d948c9df5bcb94809b1e0d7d8c04c16e3dd71af8910a8b658864696d6744fe6d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a002a2df7915d25fb82146268bca39171c1785a9d3213b37de121c641fdd4200",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed patient-specific applications in orthopedics",
+    "authors": "Wong KC.",
+    "year": 2016,
+    "journal": "Orthopedic Research and Reviews",
+    "doi": "10.2147/orr.s99614",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

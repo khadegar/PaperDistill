@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11121616",
+  "paper_id": "doi:10.3390/gels10050336",
+  "pmcid": "PMC11121616",
+  "source_record_sha256": "a291571c34cc76658376c16d1addafa1c66194eec4bc6607fab5b70e3a61534e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c3750c219ca819482b91f732862b91c1267b3487ccd883edaf1bf2f422b72bfd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Sequential Fabrication of a Three-Layer Retina-like Structure",
+    "authors": "Shechter Y, Cohen R, Namestnikov M, Shapira A, Barak A, Barzelay A, Dvir T.",
+    "year": 2024,
+    "journal": "Gels",
+    "doi": "10.3390/gels10050336",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8035842",
+  "paper_id": "doi:10.4103/ccd.ccd_366_19",
+  "pmcid": "PMC8035842",
+  "source_record_sha256": "778f610cebc1432d06d844bf8a594e2054da7697f9d820976be9997a01944a03",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "18ddc9451f72e875cda6c972cd3e56fc6787adb9e4e929e72755e9dd16880b9b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Implant Dimensions in the Resorbed and Bone Augmented Mandible: A Finite Element Study",
+    "authors": "Forna DA, Forna NC, Butnaru Moldoveanu SA.",
+    "year": 2020,
+    "journal": "Contemporary Clinical Dentistry",
+    "doi": "10.4103/ccd.ccd_366_19",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5415127",
+  "paper_id": "doi:10.1016/j.sjbs.2016.05.001",
+  "pmcid": "PMC5415127",
+  "source_record_sha256": "4a300a272c62693d858c57de73f37cb4b932ea15a327a42222beddc76b741062",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "143a8be2d4d6c30d8e16ed50eefab85b371f1d429c8fc9d75979b8ffd88ecbc5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preliminary fabrication and characterization of electron beam melted Ti–6Al–4V customized dental implant",
+    "authors": "Ramakrishnaiah R, Al Kheraif AA, Mohammad A, Divakar DD, Kotha SB, Celur SL, Hashem MI, Vallittu PK, Rehman IU.",
+    "year": 2016,
+    "journal": "Saudi Journal of Biological Sciences",
+    "doi": "10.1016/j.sjbs.2016.05.001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

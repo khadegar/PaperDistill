@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10676527",
+  "paper_id": "doi:10.34172/bi.2023.23809",
+  "pmcid": "PMC10676527",
+  "source_record_sha256": "c3d9b8eb2db64ca66de9784f034324b9e702a601d60f6b013f4ae7ac499dd4c1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1282c2965f7cf14860fce6dd6445ecc2c16086bbab1a2d4b93beee20e3d0fc98",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Towards modeling of phonation and its recovery in unilateral vocal fold paralysis by fluid-structure interaction",
+    "authors": "Naseri M, Razavi SE.",
+    "year": 2023,
+    "journal": "BioImpacts : BI",
+    "doi": "10.34172/bi.2023.23809",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

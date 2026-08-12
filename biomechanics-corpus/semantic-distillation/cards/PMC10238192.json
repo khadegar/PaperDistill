@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10238192",
+  "paper_id": "doi:10.1002/advs.202207089",
+  "pmcid": "PMC10238192",
+  "source_record_sha256": "750d5a1eaaaacdb2f44d2452dcd9044930ce49f5c53990c5bf3bc247f608aa9f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ea88852318fd192b3d0943a617d079f348add190d44d8fc697a4e23ed1f646d1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Biomimetic Calcified Cartilaginous Callus that Induces Type H Vessels Formation and Osteoclastogenesis",
+    "authors": "Qiu M, Li C, Cai Z, Li C, Yang K, Tulufu N, Chen B, Cheng L, Zhuang C, Liu Z, Qi J, Cui W, Deng L.",
+    "year": 2023,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202207089",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

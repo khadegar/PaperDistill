@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10004464",
+  "paper_id": "doi:10.3390/ma16051988",
+  "pmcid": "PMC10004464",
+  "source_record_sha256": "ef14572899de2bf89d636a90c916ae2bb60b4fde885bd0ad38f827faf5e02f34",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7729031bd694a272307fb9e031497c08369b37e1f21e96d333c06262a8ec8b15",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Different Conical Angle Connection of Implant and Abutment Behavior: A Static and Dynamic Load Test and Finite Element Analysis Study",
+    "authors": "Körtvélyessy G, Szabó ÁL, Pelsőczi-Kovács I, Tarjányi T, Tóth Z, Kárpáti K, Matusovits D, Hangyási BD, Baráth Z.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16051988",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

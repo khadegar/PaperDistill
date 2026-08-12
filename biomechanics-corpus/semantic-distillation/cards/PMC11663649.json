@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11663649",
+  "paper_id": "doi:10.3389/fbioe.2024.1445806",
+  "pmcid": "PMC11663649",
+  "source_record_sha256": "ca8140d7ab3ee3dedeea7622961058f6516f09859b05342204ddb37a9ed69371",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b02f76a11d240a9a3dfa498028a90ff11970455d44bd717ff06f17db871473d8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical and clinical evaluation of PSO, modified PSO and VCR treating OVCF kyphosis: a finite element analysis",
+    "authors": "Li J, Xu L, Wang H, Liu Y, Sun Z, Wang Y, Yu M, Li W, Zeng Y.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1445806",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

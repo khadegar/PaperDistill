@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6969672",
+  "paper_id": "doi:10.2147/ijn.s172916",
+  "pmcid": "PMC6969672",
+  "source_record_sha256": "069d53c2aaca5da583c4434cf824595f6cd77dfa3c2e686e65f7d351530215e5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6279e8e73f41bc302cbc495ab197a5569ec4e0ce49f456123d92788bac3ab05c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Nanoscale 3D Bioprinting for Osseous Tissue Manufacturing",
+    "authors": "Wang Y, Gao M, Wang D, Sun L, Webster TJ.",
+    "year": 2020,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s172916",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

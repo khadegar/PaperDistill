@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7599662",
+  "paper_id": "doi:10.3390/polym12102210",
+  "pmcid": "PMC7599662",
+  "source_record_sha256": "886f1cb19aa76cb5736951d54c9d31261a6c4eb4d0ef0dfa51cf07a4d0cc4624",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f28d27f80d2eb3e792503e5ffa24ad6f7efe589d043d67e6b28356bd47b5c24d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of Scaffolds Fabricated via 3D Printing and Salt Leaching: In Vivo Imaging, Biodegradation, and Inflammation",
+    "authors": "Kwon DY, Park JY, Lee BY, Kim MS.",
+    "year": 2020,
+    "journal": "Polymers",
+    "doi": "10.3390/polym12102210",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

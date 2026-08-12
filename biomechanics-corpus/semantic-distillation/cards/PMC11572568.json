@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11572568",
+  "paper_id": "doi:10.1111/os.14191",
+  "pmcid": "PMC11572568",
+  "source_record_sha256": "d006a75668485af3ef232e7b2daacd555b66d3987b1666333632921d95ff0800",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9172acbf4b413618cd3fc74cd31f5d4ab40fe3ab6d67a45cee6afc6923a8b1cf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Gradual Transverse Transport of Naturally Tibialized Fibula Using Hexapod Frames to Treat Neglected Type V Tibial Segmental Defects",
+    "authors": "Du H, Li H, He X, Wu Y.",
+    "year": 2024,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.14191",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

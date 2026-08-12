@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9537346",
+  "paper_id": "doi:10.3389/fbioe.2022.962483",
+  "pmcid": "PMC9537346",
+  "source_record_sha256": "73e830ad287151ab9be10ebf050f157f2adc042dc38ae8ba96f64dedd68a9a29",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0797594b98c8800bf14f0e95acd512623b0a861ee6b16b66426e575f52e4239d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Femtosecond laser treatment promotes the surface bioactivity and bone ingrowth of Ti 6 Al 4 V bone scaffolds",
+    "authors": "Wang S, Zhang M, Liu L, Xu R, Huang Z, Shi Z, Liu J, Li Z, Li X, Hao P, Hao Y.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.962483",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

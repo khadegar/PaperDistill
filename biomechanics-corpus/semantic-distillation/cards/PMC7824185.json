@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7824185",
+  "paper_id": "doi:10.3390/biom11010035",
+  "pmcid": "PMC7824185",
+  "source_record_sha256": "1ee2bbfe6e7c12772cfd58c08ad62383973d96012c2614a56dd833b2ea280785",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "06614a351ad9093537833bc23fe6edcac0ba86b1087064a8b388d7c959793826",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cytocompatibility of Modified Silk Fibroin with Glycidyl Methacrylate for Tissue Engineering and Biomedical Applications",
+    "authors": "Hong H, Lee OJ, Lee YJ, Lee JS, Ajiteru O, Lee H, Suh YJ, Sultan MT, Kim SH, Park CH.",
+    "year": 2020,
+    "journal": "Biomolecules",
+    "doi": "10.3390/biom11010035",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

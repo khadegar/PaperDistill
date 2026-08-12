@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8636709",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.09.009",
+  "pmcid": "PMC8636709",
+  "source_record_sha256": "7cfa205f9cf10970a77aa829b45adf70bea01c74f31d7743f532369ed8cb2f54",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "430244e67d48691fa79c27c26c7ad2b74a643a958026577eeea9a52b709df8bf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Experimental study of a 3D printed permanent implantable porous Ta-coated bone plate for fracture fixation",
+    "authors": "Liu B, Ma Z, Li J, Xie H, Wei X, Wang B, Tian S, Yang J, Yang L, Cheng L, Li L, Zhao D.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.09.009",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12902847",
+  "paper_id": "doi:10.1021/acsomega.5c07955",
+  "pmcid": "PMC12902847",
+  "source_record_sha256": "d9a306e035872720ef48d16257eebab101ab458be144b39e0de0d5d133ed1665",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f75561795907c75ab1295002dbe2a114555828c9f4f154319cc759e0cb04e804",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing of Hydrophobic API-Infused Alginate–Gelatin Porous Scaffolds Reinforced with TiO 2 and β‑TCP for Tissue Regeneration and Drug Delivery",
+    "authors": "Urruela-Barrios R, García-Ávila J, Alvarez AJ, Ortega-Lara W, Ramírez-Cedillo E.",
+    "year": 2026,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.5c07955",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

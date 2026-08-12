@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9966125",
+  "paper_id": "doi:10.3390/polym15040879",
+  "pmcid": "PMC9966125",
+  "source_record_sha256": "f1228f0d318882c1143cd4ae97bfb8e67f6bdf0bd95aa9964031984075fd3eb7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "46c35ad748c71e5cdb532455256bc96e021220fa5d05006e79f2175de1594d71",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "FEM Analysis of Individualized Polymeric 3D Printed Guide for Orthodontic Mini-Implant Insertion as Temporary Crown Support in the Anterior Maxillary Area",
+    "authors": "Nagib R, Farkas AZ, Szuhanek C.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15040879",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11362348",
+  "paper_id": "doi:10.12336/biomatertransl.2024.01.007",
+  "pmcid": "PMC11362348",
+  "source_record_sha256": "8ff40ad8a894b5f4bc4eb92bf1cb40ee17d3731f71c95ddb1fd5e1e1ae950f6d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "90081cea20952624aa16a11e7c365d07d5bef7e972118412338c0ef65c6a0974",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Meticulously engineered three-dimensional-printed scaffold with microarchitecture and controlled peptide release for enhanced bone regeneration",
+    "authors": "Yang J, Fatima K, Zhou X, He C.",
+    "year": 2024,
+    "journal": "Biomaterials Translational",
+    "doi": "10.12336/biomatertransl.2024.01.007",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13292368",
+  "paper_id": "doi:10.7759/cureus.109595",
+  "pmcid": "PMC13292368",
+  "source_record_sha256": "c07526ac4b50233f59965f6d852351e26890067a7b1cd8562e62688b2d910529",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1b91632a13d1f10466cfe5422c3d5ddb786752b5632b1d490594348b33dafede",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Complex Charcot Spine Reconstruction in a Young Paraplegic Patient: A Case Report",
+    "authors": "Krall T, Saunders JA, Bauer IL, Nosova K, Sivakanthan S.",
+    "year": 2026,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.109595",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

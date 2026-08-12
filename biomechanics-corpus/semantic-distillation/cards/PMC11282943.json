@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11282943",
+  "paper_id": "doi:10.1016/j.jot.2024.06.013",
+  "pmcid": "PMC11282943",
+  "source_record_sha256": "635a6bcd7af087e5ce3fe365fcf23fd64e49a38f2d6677960e781a778628bcf5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "16946adb6fe5011508cd3236e5cc797b80f967d3068fdacce3226fc49afbd57f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Localized delivery of metformin via 3D printed GelMA-Nanoclay hydrogel scaffold for enhanced treatment of diabetic bone defects",
+    "authors": "Li H, Mao B, Zhong J, Li X, Sang H.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2024.06.013",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

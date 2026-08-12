@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9915259",
+  "paper_id": "doi:10.3390/ijms24031827",
+  "pmcid": "PMC9915259",
+  "source_record_sha256": "04904bf2093cc8f01875d1daeb5c453fabd51ac55902a29b330ee74aa9cd27f2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1bbdf74b1c7a9cf2fa64cba6ec568836f91a4fb69013f37ea0592279d4a4e9d3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Interactions between Dental MSCs and Biomimetic Composite Scaffold during Bone Remodeling Followed by In Vivo Real-Time Bioimaging",
+    "authors": "Costa AC, Alves PM, Monteiro FJ, Salgado C.",
+    "year": 2023,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms24031827",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

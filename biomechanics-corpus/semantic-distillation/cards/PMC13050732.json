@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13050732",
+  "paper_id": "doi:10.3389/fonc.2026.1811290",
+  "pmcid": "PMC13050732",
+  "source_record_sha256": "73ffcbff3f00f810c79c9bd721db24b2aadcc7aa7b58c879ba9e556f5e92bd3b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "28f53b6704c910794046818fcf9444815d4227e02d695dc1ba04d18ef14afdbc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Ferroptosis in orthopedic implant integration after oncologic surgery",
+    "authors": "Karbonowski PO, Lim GY, Lach K, Skrzycki M, Mielczarek-Puta M.",
+    "year": 2026,
+    "journal": "Frontiers in Oncology",
+    "doi": "10.3389/fonc.2026.1811290",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

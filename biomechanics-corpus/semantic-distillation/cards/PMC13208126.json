@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13208126",
+  "paper_id": "doi:10.3390/jfb17050256",
+  "pmcid": "PMC13208126",
+  "source_record_sha256": "a7421db018c53711ca7429f2e806be1118fb5b44c1b2159b24b712abd5025391",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "15b9f447cd75176a20fec497a761f37386827d1fd8dc3da00f6ff74cde07b2de",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Structural Behavior Analysis of a Bone-Scaffold System According to the Elastic Modulus of Bone Cement and Pore Size in the Proximal Femur",
+    "authors": "Lee HK, Choi JW, Kim JJ.",
+    "year": 2026,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb17050256",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

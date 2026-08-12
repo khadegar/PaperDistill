@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5487355",
+  "paper_id": "doi:10.1038/s41598-017-04149-y",
+  "pmcid": "PMC5487355",
+  "source_record_sha256": "dd1a4dad686e57aa64ff1709352485653c51d21d34bc0045320db73de4dc9812",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "016b35767011d9c01d1289b2ef9e3b92c6ed174a396043ec32753e972248d144",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Gelatin-sulfonated Silk Composite Scaffold based on 3D Printing Technology Enhances Skin Regeneration by Stimulating Epidermal Growth and Dermal Neovascularization",
+    "authors": "Xiong S, Zhang X, Lu P, Wu Y, Wang Q, Sun H, Heng BC, Bunpetch V, Zhang S, Ouyang H.",
+    "year": 2017,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-017-04149-y",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

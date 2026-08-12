@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7796183",
+  "paper_id": "doi:10.3390/ma14010109",
+  "pmcid": "PMC7796183",
+  "source_record_sha256": "382df992967f524ba7557ffc8f5845ea248441cbd6ef9467d4339efc27001a3f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "26e6aa3ec19abbc7f4f8b867a0001a71d90863d65b310ec2142d906a4417c71b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Numerical Analysis of the Influence of Porosity and Pore Geometry on Functionality of Scaffolds Designated for Orthopedic Regenerative Medicine",
+    "authors": "Prochor P, Gryko A.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma14010109",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

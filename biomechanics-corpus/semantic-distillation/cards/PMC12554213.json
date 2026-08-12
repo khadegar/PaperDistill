@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12554213",
+  "paper_id": "doi:10.1016/j.mtbio.2025.102422",
+  "pmcid": "PMC12554213",
+  "source_record_sha256": "940dca07981cd79c46b88d45aeb91a252287b3c1ddf43865111491307ca3ad17",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fa2fc8b5572633abfd1ac2796763dad97bf5954c7c9b73d445db4890feef8888",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed GelMA-Alginate microsphere scaffold with staged dual-growth factor release for enhanced bone regeneration",
+    "authors": "Zhou E, He P, Yang Z, Li C, Fang G, Wu J, Zhuang W, Sang H.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.102422",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

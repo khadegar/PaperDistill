@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13295213",
+  "paper_id": "doi:10.5152/j.aott.2026.25345",
+  "pmcid": "PMC13295213",
+  "source_record_sha256": "a7848905610fdd35470edf1f2e2dcd603ff854f6f36a85fed66fc42350807771",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ead8e3125f7815d451ca45c2355ec93d58a93aedc33818f739981706a7775ff8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Which implant for Pauwels type 2 femoral neck fractures: a biomechanical study",
+    "authors": "Aydın O, Kazez M, Say Y, Belhan O.",
+    "year": 2026,
+    "journal": "Acta Orthopaedica et Traumatologica Turcica",
+    "doi": "10.5152/j.aott.2026.25345",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

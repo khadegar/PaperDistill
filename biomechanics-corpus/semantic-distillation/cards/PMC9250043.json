@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9250043",
+  "paper_id": "doi:10.1016/j.mtbio.2022.100330",
+  "pmcid": "PMC9250043",
+  "source_record_sha256": "0b8c5d41ad638554f672915a95d19f7fe3cac4e8e3eff0abf9481be5eeffb775",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ea9f5bf0563250c06512662b1dafbe02ba396663c5bb3a010b633a98507425b1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A two-phase and long-lasting multi-antibacterial coating enables titanium biomaterials to prevent implants-related infections",
+    "authors": "Lin R, Wang Z, Li Z, Gu L.",
+    "year": 2022,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2022.100330",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

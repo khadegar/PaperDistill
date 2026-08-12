@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7902099",
+  "paper_id": "doi:10.1055/s-0040-1715550",
+  "pmcid": "PMC7902099",
+  "source_record_sha256": "9fd5158427c7dc6c79320945f18ca8dae0f1693b2fbbf64f497538b770a019e0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "df815a21fc8223ed6da0b8f7b0ddfba457194aa707de7c361bf04cef3aa0490b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "FEM Analysis Applied to OT Bridge Abutment with Seeger Retention System",
+    "authors": "Cervino G, Cicciù M, Fedi S, Milone D, Fiorillo L.",
+    "year": 2020,
+    "journal": "European Journal of Dentistry",
+    "doi": "10.1055/s-0040-1715550",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

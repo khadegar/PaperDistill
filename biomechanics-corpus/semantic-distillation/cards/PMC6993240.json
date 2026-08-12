@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6993240",
+  "paper_id": "doi:10.7150/thno.40103",
+  "pmcid": "PMC6993240",
+  "source_record_sha256": "5d093e96e014107d5b0e7e29974fff616cf9ab9bd421cbab7cb6a6edca2c5998",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fd5c2539093f0f27a5e550eb62963fd8591b426192fde3dbb52084146792d63b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A bioceramic scaffold composed of strontium-doped three-dimensional hydroxyapatite whiskers for enhanced bone regeneration in osteoporotic defects",
+    "authors": "Zhao R, Chen S, Zhao W, Yang L, Yuan B, Ioan VS, Iulian AV, Yang X, Zhu X, Zhang X.",
+    "year": 2020,
+    "journal": "Theranostics",
+    "doi": "10.7150/thno.40103",
+    "publication_type": "Comparative Study; Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

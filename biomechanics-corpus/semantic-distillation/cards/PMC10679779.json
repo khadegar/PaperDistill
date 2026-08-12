@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10679779",
+  "paper_id": "doi:10.1016/j.mtbio.2023.100858",
+  "pmcid": "PMC10679779",
+  "source_record_sha256": "8bc4576c8a183a608835d7fbcd7088344395bfbf802b3c41dabb275e619b3d56",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9039aa1614672a643b69a57a68a928d18d9c8b171e66b39536dc2b77c56be359",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent advancement in vascularized tissue-engineered bone based on materials design and modification",
+    "authors": "Liu H, Chen H, Han Q, Sun B, Liu Y, Zhang A, Fan D, Xia P, Wang J.",
+    "year": 2023,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2023.100858",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

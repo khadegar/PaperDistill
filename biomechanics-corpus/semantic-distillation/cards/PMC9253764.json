@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9253764",
+  "paper_id": "doi:10.3389/fvets.2022.916171",
+  "pmcid": "PMC9253764",
+  "source_record_sha256": "570aca8c375d8bce75101208b054982fa89b7a6d31c89dacb78541af32b8087d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bf679204d1e98b90547e00f7b4b4bbddaacdeb8b23510f37823ca0d9b2caa189",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Treatment of Naturally Occurring Periodontitis in Dogs With a New Bio-Absorbable Regenerative Matrix",
+    "authors": "Gawor JP, Strøm P, Nemec A.",
+    "year": 2022,
+    "journal": "Frontiers in Veterinary Science",
+    "doi": "10.3389/fvets.2022.916171",
+    "publication_type": "brief-report; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

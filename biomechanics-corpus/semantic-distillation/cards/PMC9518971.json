@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9518971",
+  "paper_id": "doi:10.1097/scs.0000000000008513",
+  "pmcid": "PMC9518971",
+  "source_record_sha256": "af806e455999ea539ab628a4618afe0e36ac5a407aad9723a00c56f8dd2cab84",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3d0849d4d9e3ce49330107c49d980acdf52c86bb5f768b76a6e134b68c254e48",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reconstruction of Mandibular Contour Defect Using Patient-Specific Titanium Implant Manufactured by Selective Laser Melting Method",
+    "authors": "Yang HJ, Oh JH.",
+    "year": 2022,
+    "journal": "The Journal of Craniofacial Surgery",
+    "doi": "10.1097/scs.0000000000008513",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

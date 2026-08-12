@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10131313",
+  "paper_id": "doi:10.1186/s12984-023-01166-z",
+  "pmcid": "PMC10131313",
+  "source_record_sha256": "dbd9b062163d45d23dc67556592087e8411965f3431c6dd59728a57de32ece95",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "45aec8dbeb7125e8b015230b70410ab2f66594771f43839372428cd7af273372",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "After scaling to body size hip strength of the residual limb exceeds that of the intact limb among unilateral lower limb prosthesis users",
+    "authors": "Sawers A, Fatone S.",
+    "year": 2023,
+    "journal": "Journal of NeuroEngineering and Rehabilitation",
+    "doi": "10.1186/s12984-023-01166-z",
+    "publication_type": "research-article; Research Support, U.S. Gov't, Non-P.H.S.; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

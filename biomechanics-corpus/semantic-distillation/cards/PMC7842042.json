@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7842042",
+  "paper_id": "doi:10.1186/s41205-021-00093-w",
+  "pmcid": "PMC7842042",
+  "source_record_sha256": "dd859df7bd6cba24de82494daa06f91dd6c48e19fcff718ed76d58901bd84864",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "561d2093046ba3d1151394715ee4f8e24616a1203f1cfb2f04856e16d335f79f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Precision of computed tomography and cartilage-reproducing image reconstruction method in generating digital model for potential use in 3D printing of patient-specific radial head prosthesis: a human cadaver study",
+    "authors": "Luenam S, Bantuchai T, Kosiyatrakul A, Chanpoo M, Phakdeewisetkul K, Puncreobutr C.",
+    "year": 2021,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-021-00093-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

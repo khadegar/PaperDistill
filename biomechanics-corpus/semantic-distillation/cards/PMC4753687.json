@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4753687",
+  "paper_id": "doi:10.1038/srep21704",
+  "pmcid": "PMC4753687",
+  "source_record_sha256": "4d5115b373565c48e22d2ad1bfa800438346762af800406a6f520980aa7728ad",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9c499423abdecee6b5c8825ee3445387b1e0a2a76c3328fc467e6259b79b709a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing Surgical Implants at the clinic: A Experimental Study on Anterior Cruciate Ligament Reconstruction",
+    "authors": "Liu A, Xue GH, Sun M, Shao HF, Ma CY, Gao Q, Gou ZR, Yan SG, Liu YM, He Y.",
+    "year": 2016,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep21704",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

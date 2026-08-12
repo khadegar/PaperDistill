@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11418715",
+  "paper_id": "doi:10.1177/21925682231170613",
+  "pmcid": "PMC11418715",
+  "source_record_sha256": "90a5d5377d83d4b6a34573cb431574423809583b04f066bcaa9dce656a23a6d4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "214e9ecc4435acc9f8b57ec87e9c49f70fc567d10335a8a0ff84405b61a702df",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Trabecular Bone Remodeling After Posterior Lumbar Interbody Fusion: Comparison of Three-Dimensional Porous Tantalum and Titanium-Coated Polyetheretherketone Interbody Cages",
+    "authors": "Segi N, Nakashima H, Shinjo R, Kagami Y, Machino M, Ito S, Ouchida J, Morishita K, Oishi R, Yamauchi I, Imagama S.",
+    "year": 2023,
+    "journal": "Global Spine Journal",
+    "doi": "10.1177/21925682231170613",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

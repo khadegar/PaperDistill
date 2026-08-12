@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9805454",
+  "paper_id": "doi:10.1038/s41598-022-26809-4",
+  "pmcid": "PMC9805454",
+  "source_record_sha256": "b25249d9ac39b05b3285b2f38cb667280b3ed765764a2dba7a2f4af214701fb9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2055e995acb5bac48326a7558844a23681e0474e47165fd0f69ff235bd288bdf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of a high-performance open-source 3D bioprinter",
+    "authors": "Tashman JW, Shiwarski DJ, Feinberg AW.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-26809-4",
+    "publication_type": "research-article; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

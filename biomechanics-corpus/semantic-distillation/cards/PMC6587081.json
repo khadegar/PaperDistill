@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6587081",
+  "paper_id": "pmcid:PMC6587081",
+  "pmcid": "PMC6587081",
+  "source_record_sha256": "e2f34e5aaec98127a1b989d699ce085e3ce24af081ce2ea2213da9a904c54187",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "37aff51464e33ec2f828658272428f1b8f700c1b3b9108e013e64265079b91c4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteogenic benefits of low-intensity pulsed ultrasound and vibration in a rodent osseointegration model",
+    "authors": "Ruppert DS, Harrysson O, Marcellin-Little DJ, Bollenbecker S, Weinhold PS.",
+    "year": 2019,
+    "journal": "Journal of Musculoskeletal & Neuronal Interactions",
+    "doi": null,
+    "publication_type": "research-article; Research Support, U.S. Gov't, Non-P.H.S.; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9861825",
+  "paper_id": "doi:10.3390/jfb14010028",
+  "pmcid": "PMC9861825",
+  "source_record_sha256": "5af89dc09cbf70d0f539cb662f92e54c34af7535f2fcd7bbed346614c0a8fcb9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fd31bc6b3b09c977c76a564164640e10776337fd68805632aa9242af5ab4e6d8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of Compressive and Permeability Behaviors of Trabecular-Like Porous Structure with Mixed Porosity Based on Mechanical Topology",
+    "authors": "Chao L, He Y, Gu J, Xie D, Yang Y, Shen L, Wu G, Wang L, Tian Z.",
+    "year": 2023,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb14010028",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

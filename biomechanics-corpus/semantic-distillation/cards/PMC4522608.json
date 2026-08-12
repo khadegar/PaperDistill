@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4522608",
+  "paper_id": "doi:10.1038/srep12721",
+  "pmcid": "PMC4522608",
+  "source_record_sha256": "8ac89f92ac6c57310d6c6d6a0175f2cf4686d784af1000abf868d9a57afaff17",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9fe35b447c98de0b7ea085848c6de8f4389753ed23811718bc5b97df6bff7627",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A computer-designed scaffold for bone regeneration within cranial defect using human dental pulp stem cells",
+    "authors": "Kwon DY, Kwon JS, Park SH, Park JH, Jang SH, Yin XY, Yun JH, Kim JH, Min BH, Lee JH, Kim WD, Kim MS.",
+    "year": 2015,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep12721",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

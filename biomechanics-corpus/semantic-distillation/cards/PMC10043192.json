@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10043192",
+  "paper_id": "doi:10.3389/fbioe.2023.1148342",
+  "pmcid": "PMC10043192",
+  "source_record_sha256": "33829a98d399ad8460db3b60a28c6935b64d6214ac7551b4e6549f2dc53c6a46",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "62721c86916e1fb18256018e2181707606d7c16103fd909997381f2058d974b1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of multiple pelvic screws and multirod construct for the augmentation of lumbosacral junction in long spinal fusion surgery",
+    "authors": "Yang H, Pan A, Hai Y, Cheng F, Ding H, Liu Y.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1148342",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

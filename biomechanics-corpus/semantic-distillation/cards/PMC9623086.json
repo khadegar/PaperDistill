@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9623086",
+  "paper_id": "doi:10.3389/fbioe.2022.950970",
+  "pmcid": "PMC9623086",
+  "source_record_sha256": "3b991d22b62265c3da780cc2855dc4d6b5ea495d6fab964d1d0af9958e321e4f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "555567a2fdd0118bbba8434ac043a278aaa4338a884d00b9221df3964f6cbc6e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed mesoporous bioactive glass/GelMA biomimetic scaffolds for osteogenic/cementogenic differentiation of periodontal ligament cells",
+    "authors": "Mei N, Wu Y, Chen B, Zhuang T, Yu X, Sui B, Ding T, Liu X.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.950970",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

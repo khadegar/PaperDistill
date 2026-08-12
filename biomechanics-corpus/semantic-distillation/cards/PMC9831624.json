@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9831624",
+  "paper_id": "doi:10.2176/jns-nmc.2022-0172",
+  "pmcid": "PMC9831624",
+  "source_record_sha256": "5d017076960f38a6a1f619b03591e63179c8932d06bc28432f074b73183a8055",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4ba5877ef5fb676650f6072efca218e29856eba67cb9e55e17266a74a171f03b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cervical Lift-up Basket Laminoplasty after Resection of Spinal Intramedullary Tumors: A Finite Element Analysis and Clinical Image Evaluation",
+    "authors": "Naito K, Nakanishi Y, Takami T.",
+    "year": 2022,
+    "journal": "Neurologia medico-chirurgica",
+    "doi": "10.2176/jns-nmc.2022-0172",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

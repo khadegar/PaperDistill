@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7241017",
+  "paper_id": "doi:10.1021/acsomega.0c00727",
+  "pmcid": "PMC7241017",
+  "source_record_sha256": "61f69b00487d09f7fa8b9e1147ad610db293ba59d53ec9195fd0a85dfc2f27b1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a3ce82650d7d8124cb35c4213b5f0756aac867baa8aaa25c18c8096b0b510b5b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hydroxyethyl Chitosan-Reinforced Polyvinyl Alcohol/Biphasic Calcium Phosphate Hydrogels for Bone Regeneration",
+    "authors": "Nie L, Deng Y, Li P, Hou R, Shavandi A, Yang S.",
+    "year": 2020,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.0c00727",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

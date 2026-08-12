@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9235223",
+  "paper_id": "doi:10.1186/s12891-022-05477-5",
+  "pmcid": "PMC9235223",
+  "source_record_sha256": "472c6956efceb84f5dfb668482e9e4d4a3ac3d61a2e177a1e33d0ef94762d52a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "04a5a333263d83c99c39cb30c5f9f98cc9edce728956d725e6015146110f4128",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A parametric investigation on traditional and cortical bone trajectory screws for transpedicular fixation",
+    "authors": "Chung TT, Chu CL, Hueng DY, Lin SC.",
+    "year": 2022,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-022-05477-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

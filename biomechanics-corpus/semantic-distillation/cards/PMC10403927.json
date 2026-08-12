@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10403927",
+  "paper_id": "doi:10.1186/s42836-023-00197-0",
+  "pmcid": "PMC10403927",
+  "source_record_sha256": "c0e6906ef2c526f5f334cd3699f4741f168714827e343d412d4ce516f2500e20",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1657afa08e1683d2b67c841a78b3c3c457d34c02fca76705b7b63b880558f910",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Factors that impact the patellofemoral contact stress in the TKA: a review",
+    "authors": "Yu Z, Cai H, Liu Z.",
+    "year": 2023,
+    "journal": "Arthroplasty",
+    "doi": "10.1186/s42836-023-00197-0",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

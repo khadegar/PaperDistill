@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8257657",
+  "paper_id": "doi:10.1038/s41467-021-23956-6",
+  "pmcid": "PMC8257657",
+  "source_record_sha256": "32214a73c44ea7c2a585af130f347cc5948bc166b09aa961c33509ed3ce8b142",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "23984291bbd46576fa6cc2fb59e6855d1a5df2f3c46cd963fa79949445ffc09b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "4D polycarbonates via stereolithography as scaffolds for soft tissue repair",
+    "authors": "Weems AC, Arno MC, Yu W, Huckstepp RTR, Dove AP.",
+    "year": 2021,
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-021-23956-6",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

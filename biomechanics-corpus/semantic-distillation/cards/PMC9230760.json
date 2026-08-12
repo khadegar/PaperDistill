@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9230760",
+  "paper_id": "doi:10.3390/pharmaceutics14061244",
+  "pmcid": "PMC9230760",
+  "source_record_sha256": "bf9b48e9539a09639c072acf1ed9f1fad81e3f7e771c17f3326a940a035acfb5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b46b709f97c031c1a8a392f9c8a8e9138bcc1af3effdf39e7ffa8ec46268d933",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Novel Utilization of Therapeutic Coatings Based on Infiltrated Encapsulated Rose Bengal Microspheres in Porous Titanium for Implant Applications",
+    "authors": "Accioni F, Rassu G, Begines B, Rodríguez-Albelo LM, Torres Y, Alcudia A, Gavini E.",
+    "year": 2022,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics14061244",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

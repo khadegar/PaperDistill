@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8958422",
+  "paper_id": "doi:10.1016/j.bioactmat.2022.03.005",
+  "pmcid": "PMC8958422",
+  "source_record_sha256": "e3fbe26858ca1cced58a218d4d97688887e7a5cdbb061a975d36c213975d072d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f54d61c5923e923ef7184467239ea5d3cfe23557f9eb28b0ece1fe672bae3136",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanobiologically optimized Ti–35Nb–2Ta–3Zr improves load transduction and enhances bone remodeling in tilted dental implant therapy",
+    "authors": "Mao C, Yu W, Jin M, Wang Y, Shang X, Lin L, Zeng X, Wang L, Lu E.",
+    "year": 2022,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2022.03.005",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

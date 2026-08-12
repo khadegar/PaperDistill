@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10834755",
+  "paper_id": "doi:10.3389/fbioe.2024.1328078",
+  "pmcid": "PMC10834755",
+  "source_record_sha256": "6d1496b768228d693fcf28d6b27356b1e550f5e4a82af057e71c0f2f3f706a0a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "81661e9a4e5166f783580b5c2a1ece14b5e338339eaf2d3e3eb502109ac44cfe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D bioprinting technology to construct bone reconstruction research model and its feasibility evaluation",
+    "authors": "Lv X, Zhang C, Liu X, Li P, Yang Y.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1328078",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

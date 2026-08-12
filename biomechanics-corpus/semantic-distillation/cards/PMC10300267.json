@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10300267",
+  "paper_id": "doi:10.4103/1735-3327.377577",
+  "pmcid": "PMC10300267",
+  "source_record_sha256": "9e88eba5e41cdf1ad5c22c43d2ac93c1bd1290c408e51c78a564a1f5c516da1a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "467bcfe48a00cd959de46aa261bcba59d76d72ea331fdacbdf1c39a5d7335eaa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of stress and deformation in bone with titanium, CFR-PEEK and zirconia ceramic implants by finite element analysis",
+    "authors": "Mahalakshmi G, Gasthi A, Hosain Almansour HM, Babaji P, Madhusudhana Rao U, Haseeb SA, Venkata Ramaiah V.",
+    "year": 2023,
+    "journal": "Dental Research Journal",
+    "doi": "10.4103/1735-3327.377577",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

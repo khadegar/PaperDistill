@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9314407",
+  "paper_id": "doi:10.1038/s41598-022-16480-0",
+  "pmcid": "PMC9314407",
+  "source_record_sha256": "df94830b5b4c64c3fba09347932d70186f9bacc761478bab932d769024681f44",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c30b38c3de1f342b457910a13d06d120d6468a64f84ab56c6184462a3732d399",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element and in vitro study on biomechanical behavior of endodontically treated premolars restored with direct or indirect composite restorations",
+    "authors": "Maravić T, Comba A, Mazzitelli C, Bartoletti L, Balla I, di Pietro E, Josić U, Generali L, Vasiljević D, Blažić L, Breschi L, Mazzoni A.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-16480-0",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

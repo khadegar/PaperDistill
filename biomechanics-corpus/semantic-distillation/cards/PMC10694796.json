@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10694796",
+  "paper_id": "doi:10.3389/fbioe.2023.1285565",
+  "pmcid": "PMC10694796",
+  "source_record_sha256": "58e06bb69a47a2a03ded7f6af5e8765d304be73fd4cfbf996c323304ef8c6a64",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5e8c4e0426be4f8b05f4145816fe84a0517a577e4b7338080d39d857e174ffd4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Polymeric reinforcements for cellularized collagen-based vascular wall models: influence of the scaffold architecture on the mechanical and biological properties",
+    "authors": "Pien N, Di Francesco D, Copes F, Bartolf-Kopp M, Chausse V, Meeremans M, Pegueroles M, Jüngst T, De Schauwer C, Boccafoschi F, Dubruel P, Van Vlierberghe S, Mantovani D.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1285565",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

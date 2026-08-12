@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12747601",
+  "paper_id": "doi:10.1002/ksa.70145",
+  "pmcid": "PMC12747601",
+  "source_record_sha256": "197b5872ee4180c9e31bafc245c6a2c227b807d74d52b20444121169249900a2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cc1fbc23dbd453841a38ac1be8ae121844feb9576bef5dba6389451adf878255",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Is orthopaedics entering the age of generative AI?—A narrative review of current applications challenges and future directions",
+    "authors": "Oettl FC, Pruneski JA, Zsidai B, Yu Y, Cong T, Tischer T, Hirschmann MT, Samuelsson K.",
+    "year": 2025,
+    "journal": "Knee Surgery, Sports Traumatology, Arthroscopy",
+    "doi": "10.1002/ksa.70145",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

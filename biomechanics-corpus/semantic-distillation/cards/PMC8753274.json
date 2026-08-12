@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8753274",
+  "paper_id": "doi:10.1016/j.mtbio.2021.100202",
+  "pmcid": "PMC8753274",
+  "source_record_sha256": "a0382d7429f94e7c6c2f2e6adc58335cc8db7b7c600fe751166c127809a487f1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c8effa359da8d3cb4a2dcef882e4561a56051a37dcd9c0d3969e3f7763632840",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed PCL/Zn scaffolds for bone regeneration with a dose-dependent effect on osteogenesis and osteoclastogenesis",
+    "authors": "Wang S, Gu R, Wang F, Zhao X, Yang F, Xu Y, Yan F, Zhu Y, Xia D, Liu Y.",
+    "year": 2022,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2021.100202",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

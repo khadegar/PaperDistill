@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11876142",
+  "paper_id": "doi:10.3389/fbioe.2025.1541114",
+  "pmcid": "PMC11876142",
+  "source_record_sha256": "7521376426aa87ab1a6e3ef7b364346de1a2ca2952ca8b215ae0ac9837ebca31",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4b44d54497817a7f0799e51f090d675b1b10b4b048fa22b5ca5d0c51d04b30f2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical impact of cortical bone vs. traditional pedicle screw trajectories: a finite element study on lumbar spinal instrumentation",
+    "authors": "Li X, Abdel-Latif KHA, Schwab J, Zhou X, Yang J, Ritter ZM, Schilling AF, Reinhold M.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1541114",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

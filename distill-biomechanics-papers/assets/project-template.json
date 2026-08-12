@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "title": "{{TITLE}}",
+  "research_question": "",
+  "manuscript_mode": "original",
+  "analysis_language": "zh-CN",
+  "manuscript_language": "en",
+  "date_range": {
+    "from": null,
+    "to": null
+  },
+  "domains": [],
+  "target_journal": null,
+  "citation_style": "journal-specific",
+  "writing_profile": "biomechanics-distilled-10k-v1",
+  "source_layers": [
+    "external_fulltext_corpus",
+    "web_evidence",
+    "web_calibration",
+    "zotero_calibration"
+  ],
+  "created_at": "{{CREATED_AT}}",
+  "updated_at": "{{CREATED_AT}}"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11439863",
+  "paper_id": "doi:10.1007/s40820-024-01524-z",
+  "pmcid": "PMC11439863",
+  "source_record_sha256": "8891bd0796e66bc82ad5243a920088b4dc89b1f4858893097ef812c2640ab827",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d534eba0079c077618778aba0b191b21e408098cbab58548a9199a975bfe78a0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing of Tough Hydrogel Scaffolds with Functional Surface Structures for Tissue Regeneration",
+    "authors": "Yao K, Hong G, Yuan X, Kong W, Xia P, Li Y, Chen Y, Liu N, He J, Shi J, Hu Z, Zhou Y, Xie Z, He Y.",
+    "year": 2024,
+    "journal": "Nano-Micro Letters",
+    "doi": "10.1007/s40820-024-01524-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

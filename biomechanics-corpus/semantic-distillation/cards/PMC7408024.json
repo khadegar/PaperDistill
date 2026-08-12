@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7408024",
+  "paper_id": "doi:10.3390/polym12071546",
+  "pmcid": "PMC7408024",
+  "source_record_sha256": "78cc36e5711f45de2abe5e26ab5dd2c7271a78b85194941a8232bea6b28f1cfc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ff9898058ff103f97d2e24cfc012a3d133da3c7252b2f019210daf5f0dfec5b5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design of Thermoplastic 3D-Printed Scaffolds for Bone Tissue Engineering: Influence of Parameters of “Hidden” Importance in the Physical Properties of Scaffolds",
+    "authors": "Cubo-Mateo N, Rodríguez-Lorenzo LM.",
+    "year": 2020,
+    "journal": "Polymers",
+    "doi": "10.3390/polym12071546",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

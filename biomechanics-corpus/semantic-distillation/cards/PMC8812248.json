@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8812248",
+  "paper_id": "doi:10.1186/s13018-022-02960-6",
+  "pmcid": "PMC8812248",
+  "source_record_sha256": "659ad0e02a98b0bdf9a4e31242db8f21e443ecd9dad34493652c6db19e2c2e7a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4b2e98c6be624a2e710b80d841bb2b20968554b68249061f920e338b74a9c548",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed porous Ti6Al4V scaffolds for long bone repair in animal models: a systematic review",
+    "authors": "Gu Y, Sun Y, Shujaat S, Braem A, Politis C, Jacobs R.",
+    "year": 2022,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-022-02960-6",
+    "publication_type": "Systematic Review; review-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

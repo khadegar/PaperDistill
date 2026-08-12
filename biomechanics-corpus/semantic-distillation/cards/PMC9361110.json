@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9361110",
+  "paper_id": "doi:10.52312/jdrs.2022.676",
+  "pmcid": "PMC9361110",
+  "source_record_sha256": "f23dadad241f2e21c5d289be682f9ea557d4ba3904f0c17cf476dff12f51091d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "86dc07df5cfc77708dd193070d1fc4d2893a9466e8df63dee15f516a75850c2f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative finite element analysis of four different internal fixation implants for Pauwels type III femoral neck fractures in various fracture angles in the sagittal plane",
+    "authors": "Özer A, Öner K, Okutan AE, Ayas MS.",
+    "year": 2022,
+    "journal": "Joint Diseases and Related Surgery",
+    "doi": "10.52312/jdrs.2022.676",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

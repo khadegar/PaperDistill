@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11759179",
+  "paper_id": "doi:10.3390/bioengineering12010046",
+  "pmcid": "PMC11759179",
+  "source_record_sha256": "d2d7c4d333d6e3fa48f84d36e21fd6049a981949881c5f48b31136cb5a8c45b4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b6a905b0f64ce58b7a64f680034b7bdf49be7247353d837d826964708f31aee4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Polycaprolactone for Hard Tissue Regeneration: Scaffold Design and In Vivo Implications",
+    "authors": "Ramírez-Ruiz F, Núñez-Tapia I, Piña-Barba MC, Alvarez-Pérez MA, Guarino V, Serrano-Bello J.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12010046",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

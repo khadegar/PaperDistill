@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7596231",
+  "paper_id": "doi:10.1038/s41598-020-75819-7",
+  "pmcid": "PMC7596231",
+  "source_record_sha256": "43806d4758d45058846151bb8a3463bc22e928ad187484e3ff49cad4e2d9101a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "151af88d01883c2681a91391e523ecd6ceabf87617c9312d19d4b7c9f2970ea9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comprehensive biomechanical analysis of three clinically used fixation constructs for posterior malleolar fractures using cadaveric and finite element analysis",
+    "authors": "Anwar A, Hu Z, Adnan A, Gao Y, Li B, Nazir MU, Tian C, Wang Y, Lv D, Zhao Z, Zhang Z, Zhang H, Tong C, Lv G.",
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-75819-7",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

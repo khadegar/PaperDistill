@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11595637",
+  "paper_id": "doi:10.3390/ma17225511",
+  "pmcid": "PMC11595637",
+  "source_record_sha256": "cd5b9cc899ef2d3e4fe362c2bb7aef7292c9c1a7e325d46d0c22eed00bb4f321",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "088863e67de752b15a300ded097fe6a7f03270dd9d59913bd1cbd361c08c6d33",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Gradient Titanium Alloy with Bioactive Hydroxyapatite Porous Structures for Potential Biomedical Applications",
+    "authors": "Sadlik J, Kosińska E, Bańkosz M, Tomala A, Bruzda G, Jampilek J, Sobczak-Kupiec A.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17225511",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

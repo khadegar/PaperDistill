@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8787357",
+  "paper_id": "doi:10.3389/fmolb.2021.783268",
+  "pmcid": "PMC8787357",
+  "source_record_sha256": "6e91e9a9816f1f1ed59fe6f1fda4f4ba60ef5fe5f544a43c98efe19785962feb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8fca9b4d78f620b2c700b4dd034c24fbe99ac60e1804681d42e10f16eb5c0887",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Minireview of Microfluidic Scaffold Materials in Tissue Engineering",
+    "authors": "Tong A, Voronov R.",
+    "year": 2022,
+    "journal": "Frontiers in Molecular Biosciences",
+    "doi": "10.3389/fmolb.2021.783268",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

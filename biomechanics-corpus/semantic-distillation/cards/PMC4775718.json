@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4775718",
+  "paper_id": "doi:10.1186/s40064-016-1885-2",
+  "pmcid": "PMC4775718",
+  "source_record_sha256": "087cbb0acd42b8ab8e940a53736d79f75360bd3bb60977ead35a35dbdcdd3d1a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6237c6e97b49ebc87b91836121309baee20a513c72344d3dbb449bb260d7e2a8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Histological and micro-computed tomographic observations after maxillary sinus augmentation with porous hydroxyapatite alloplasts: a clinical case series",
+    "authors": "Nakata H, Kuroda S, Tachikawa N, Okada E, Akatsuka M, Kasugai S, Kondo H.",
+    "year": 2016,
+    "journal": "SpringerPlus",
+    "doi": "10.1186/s40064-016-1885-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

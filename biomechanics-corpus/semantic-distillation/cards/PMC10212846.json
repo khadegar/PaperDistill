@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10212846",
+  "paper_id": "doi:10.1007/s10856-023-06727-1",
+  "pmcid": "PMC10212846",
+  "source_record_sha256": "52ceeba79951de97a71b9c896bc99453216e6ffa419eb11d2d1af3762addfb39",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1485fdc999690474796772ad8de12e51607f2c4e6c71ebe2b2ec41d8c0efd64d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impacts of residual 3D printing metal powders on immunological response and bone regeneration: an in vivo study",
+    "authors": "Tang J, Sang Z, Zhang X, Song C, Tang W, Luo X, Yan M.",
+    "year": 2023,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-023-06727-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

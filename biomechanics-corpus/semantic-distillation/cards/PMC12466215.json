@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12466215",
+  "paper_id": "doi:10.3389/fsurg.2025.1644737",
+  "pmcid": "PMC12466215",
+  "source_record_sha256": "6cc10fe96eb0bc07360f9f0cecf98f6999cb4ac5e9083ab7339054ef5d219fd2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d7411de0cce20f540f85daeef570d2818af31e51fd57f23f5000ff0d6a6d20d1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Research progress and clinical application of all-inside reconstruction techniques: narrative review",
+    "authors": "Jiang Y, Qian D, Lu Q, Cao Y, Ren Y, Su J.",
+    "year": 2025,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2025.1644737",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

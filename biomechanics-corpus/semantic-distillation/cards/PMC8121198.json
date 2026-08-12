@@ -1,0 +1,301 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8121198",
+  "paper_id": "doi:10.7759/cureus.14515",
+  "pmcid": "PMC8121198",
+  "source_record_sha256": "ce2c3e1916e5ec6fb0d933462e4a74c02fd572a842d625934fe25cae046ebb4f",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T11:35:43Z",
+    "packet_sha256": "819751f755b118a78c11a6c613d8e96af067bccf4b30676b70b1e8c1caa16466",
+    "section_locators_read": [
+      "S001:C01",
+      "S001:C02",
+      "S002:C01",
+      "S002:C02",
+      "S003:C01",
+      "S003:C02",
+      "S003:C03",
+      "S004:C01",
+      "S004:C02",
+      "S005:C01",
+      "S006:C01",
+      "S007:C01",
+      "S008:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Treatment of a Complex Pressure Ulcer Using a Synthetic Hybrid-Scale Fiber Matrix",
+    "authors": "Herron K.",
+    "year": 2021,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.14515",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "single_patient_case_report_with_multimodal_concurrent_treatment",
+    "design_features": [
+      "chronic_sacral_pressure_ulcer",
+      "exposed_spine_and_polymicrobial_infection",
+      "electrospun_hybrid_scale_fiber_matrix",
+      "nine_matrix_applications",
+      "negative_pressure_wound_therapy",
+      "concurrent_systemic_antibiotics",
+      "serial_clinical_observation",
+      "no_control_or_long_term_closure_endpoint"
+    ],
+    "research_problem": "A 16-year refractory sacral pressure ulcer with exposed L4/L5, polymicrobial infection, heavy exudate, fistula drainage, and multiple failed therapies required a durable wound-bed scaffold strategy in a medically complex patient.",
+    "exact_gap": "Evidence for a fully synthetic resorbable electrospun matrix in extremely chronic, infected, highly exudative pressure wounds with exposed bone was limited, particularly after flap and negative-pressure treatment failure (S001:C01-S003:C02).",
+    "objective_or_hypothesis": "Describe the wound course after adding a synthetic hybrid-scale fiber matrix to negative-pressure wound therapy and systemic antibiotics in one refractory case (S002:C01-S003:C03).",
+    "study_design": "Single-patient descriptive case report with nine clinician-directed matrix applications over 11 weeks, concurrent NPWT and meropenem, prior vancomycin, and serial qualitative/selected dimensional wound observations; no protocolized comparator, blinded assessment, or attribution design.",
+    "sample_or_model": "A 63-year-old man with diabetes, paralysis, prior hemipelvectomy/urostomy/colostomy, rectal fistula/abscess, a 15 x 11 x 5 cm sacral wound present for more than 16 years, exposed L4/L5, heavy exudate, and MRSA, Pseudomonas, E. coli, and Proteus (S003:C01-S003:C02).",
+    "comparators": [
+      "Historical nonhealing during wet-to-dry dressings, three weeks of NPWT alone, multiple failed flaps, and 45 days of vancomycin",
+      "No concurrent matrix-free NPWT plus meropenem comparator",
+      "No alternative synthetic/biologic matrix comparator",
+      "No dose/application schedule comparison"
+    ],
+    "method_spine": [
+      "Document wound chronicity, anatomy, dimensions, exposed structures, organisms, exudate, comorbidities, and prior treatment failures.",
+      "Apply the matrix in full contact with the wound bed and secure it under NPWT.",
+      "Repeat applications by clinician discretion while systemic meropenem is administered.",
+      "Track granulation coverage, wound size/depth, exudate, epithelialization, complications, antibiotic transition, and discharge.",
+      "Separate observed time course from causal attribution to any component of the bundle."
+    ],
+    "validation_roles": {
+      "verification": [
+        "The report provides baseline dimensions, exposed structures, organism list, prior treatment history, application count/duration, selected percentage changes, photographs, and consent (S003:C01-S003:C03; S008:C01).",
+        "No standardized wound planimetry, microbial quantification, histology, independent assessor, or predefined application/assessment schedule is reported."
+      ],
+      "calibration": [],
+      "validation": [
+        "Serial clinical observation demonstrates that this patient's wound improved during the combined regimen; it does not validate matrix efficacy or mechanism independently.",
+        "Tissue coverage over exposed bone is wound-bed granulation, not bone regeneration, bone-scaffold integration, or osseointegration."
+      ],
+      "sensitivity": [
+        "No component-withdrawal, dose, timing, NPWT-setting, antibiotic, wound-location, comorbidity, or patient sensitivity analysis is possible in one case."
+      ],
+      "application_prediction": [
+        "Use in other difficult pressure ulcers is hypothesis-generating; comparative cohorts/trials and full-closure/recurrence follow-up are required (S005:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "After three matrix applications during NPWT and meropenem, granulation covered exposed bone/spine and filled wound depth; exudate was reported to fall about 50% and wound size about 20% (S003:C02-S003:C03).",
+      "Subsequent applications were associated with resolution of undermining and about 2 cm of new epithelium at/around the wound (S003:C03).",
+      "The report attributes rectal-fistula healing and infection management to the combined course; IV antibiotics were stopped at week nine and changed to oral therapy (S003:C03).",
+      "No new complications were reported, and the patient was discharged after 135 hospital days, but complete closure, standardized microbial clearance, recurrence, durability, function, or later follow-up is not reported (S003:C03-S005:C01)."
+    ],
+    "highest_evidence_level_reached": "One clinically compelling but uncontrolled, concurrently treated case with short-course wound observations; hypothesis-generating evidence only."
+  },
+  "argument_map": {
+    "central_claim": "The case documents a favorable wound trajectory after a synthetic matrix was added to NPWT and systemic antibiotics, but the matrix's independent contribution, mechanism, and general efficacy remain unresolved.",
+    "data": [
+      "Detailed baseline wound history and anatomy, nine matrix applications over 11 weeks, concurrent NPWT/antibiotics, serial photographs, approximate exudate/size changes, epithelialization, antibiotic transition, and discharge (S003:C01-S003:C03)."
+    ],
+    "warrant": "Improvement after years of nonhealing makes the treatment bundle noteworthy, but temporal association in a single complex case does not isolate the active component.",
+    "backing": [
+      "The wound previously failed dressings, short NPWT alone, multiple flaps, and vancomycin, providing a historical context rather than a controlled counterfactual (S003:C01-S003:C02)."
+    ],
+    "qualifier": "Single refractory case treated with a multimodal bundle.",
+    "rebuttals_or_boundaries": [
+      "Matrix initiation coincided with meropenem and continued NPWT, making treatment-component effects inseparable.",
+      "Application timing was based on clinician discretion rather than a prespecified protocol.",
+      "Historical failures differed in duration, infection state, co-interventions, and wound-bed condition.",
+      "Reported size/exudate changes lack a standardized measurement schedule and uncertainty.",
+      "Discharge is a health-system outcome influenced by infection control and overall care, not a direct scaffold efficacy endpoint.",
+      "No complete closure, recurrence, long-term safety, microbial eradication, histology, or comparator outcome is shown."
+    ],
+    "argument_coherence": "high_as_case_timeline_low_for_component_causality_or_general_efficacy"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Baseline wound dimensions/anatomy, clinical organism identification, application count and duration, visual granulation/epithelialization, approximate wound/exudate changes, antibiotic course, absence of reported complications, and discharge timing (S003:C01-S003:C03)."
+    ],
+    "predicted": [],
+    "inferred": [
+      "Cellular infiltration, vascularization, hydrolytic resorption, resistance to enzymatic/bacterial degradation, and antimicrobial material behavior are product/previous-literature rationales rather than mechanisms measured in this patient (S001:C01-S002:C02; S004:C01-S004:C02).",
+      "The matrix is inferred to have caused granulation, infection management, fistula healing, and discharge despite concurrent NPWT and antibiotics (S003:C03-S005:C01)."
+    ],
+    "recommended": [
+      "Prospectively standardize wound measurements, co-interventions, application schedule, microbial and patient-reported endpoints, complete closure/recurrence follow-up, harms, and comparative treatment groups before estimating efficacy."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Granulation over exposed bone is soft-tissue coverage, not bone regeneration or bone integration.",
+      "Reduced exudate is a wound-state observation, not proof of microbial eradication.",
+      "No new sign of infection during treatment is not equivalent to culture-confirmed cure or long-term recurrence prevention.",
+      "Hospital discharge is not complete wound healing.",
+      "A chronic pre/post trajectory does not isolate the matrix from meropenem, NPWT, and concurrent care."
+    ],
+    "overclaim_risks": [
+      "The stated goal to evaluate clinical efficacy exceeds what a single uncontrolled case can estimate (S002:C02).",
+      "The discussion calls the matrix an excellent tool and attributes infection/wound improvement to it despite concurrent interventions (S004:C01-S004:C02).",
+      "The conclusion says the matrix should be included in treatment regimens, stronger than the evidence supports (S005:C01).",
+      "The automatic animal cue is false, and porous-scaffold terminology here concerns wound repair rather than bone-implant scaffolding."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "case_presentation",
+      "move": "Build a clinical decision timeline before interpreting response",
+      "execution": "The report gives comorbidities, wound duration/dimensions, exposed anatomy, organisms, prior failures, antibiotics, matrix/NPWT timing, applications, response, and discharge (S003:C01-S003:C03).",
+      "locator": "S003:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For device or scaffold case reports, write patient/wound geometry, microbiology, prior failures, concurrent interventions, application timing, serial endpoints, and follow-up as a dated timeline.",
+      "failure_mode": "A vivid timeline still provides no causal comparator."
+    },
+    {
+      "section": "results",
+      "move": "Report each observed endpoint separately",
+      "execution": "Bone coverage, depth filling, exudate, wound size, undermining, epithelialization, fistula course, antibiotic change, complications, and discharge are described as distinct observations (S003:C03).",
+      "locator": "S003:C03",
+      "effectiveness": "moderate",
+      "transferable_principle": "Separate wound geometry, tissue coverage, microbial evidence, symptoms, harms, treatment burden, and disposition; do not collapse them into 'healing'.",
+      "failure_mode": "Approximate unblinded observations without measurement protocol remain vulnerable to reporting bias."
+    },
+    {
+      "section": "discussion",
+      "move": "Audit attribution in a treatment bundle",
+      "execution": "The paper discusses the matrix while NPWT and systemic antibiotics were applied concurrently (S003:C02-S004:C02).",
+      "locator": "S004:C01",
+      "effectiveness": "low_as_causal_attribution_high_as_teaching_counterexample",
+      "transferable_principle": "Name every concurrent intervention and use 'during the combined regimen' unless a factorial, withdrawal, or controlled comparison isolates component effects.",
+      "failure_mode": "Prior failure plus later improvement is not sufficient to assign efficacy to the newly added component."
+    },
+    {
+      "section": "conclusion",
+      "move": "Match the claim to a case-report evidence unit",
+      "execution": "The observed case supports further investigation, while the prescriptive 'should be included' clause overreaches (S005:C01).",
+      "locator": "S005:C01",
+      "effectiveness": "moderate_with_overclaim",
+      "transferable_principle": "Conclude a case report with feasibility, observed trajectory, uncertainties, and the next comparative study; avoid treatment recommendations or efficacy language.",
+      "failure_mode": "One successful course cannot estimate response probability, comparative benefit, or rare harms."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The conclusion states that the approach is worthy of further investigation, but the report does not provide a substantive limitations section (S005:C01)."
+    ],
+    "reader_identified": [
+      "Single patient, no concurrent control, no protocolized application schedule, and multiple inseparable co-interventions.",
+      "Historical comparators were not treated under the same infection, wound-bed, duration, and care conditions.",
+      "No standardized blinded planimetry, volumetry, exudate scale, microbiological clearance, histology, perfusion/vascularization, or patient-reported outcome.",
+      "No report of complete closure, time to closure, later recurrence, readmission, longer-term adverse events, or matrix resorption in this patient.",
+      "Extensive comorbidity and unique anatomy sharply limit generalization.",
+      "No direct bone healing, osseointegration, implant mechanics, or bone-scaffold outcome despite exposed bone."
+    ],
+    "likely_bias_direction": [
+      "Temporal attribution and publication of an unusual success likely inflate perceived matrix efficacy.",
+      "Clinician-discretion application and unblinded outcome description may favor positive interpretation.",
+      "Discharge and infection-management language may overstate wound closure and durable microbial cure."
+    ],
+    "scope_boundary": "The report supports feasibility and a favorable short-term trajectory of one chronic pressure wound during matrix plus NPWT plus antibiotic therapy; it does not establish the matrix's independent efficacy, antimicrobial mechanism, bone regeneration, complete healing, recurrence prevention, or general treatment indication."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC8121198-01",
+      "capability": "Write complex scaffold/device case reports as an auditable patient-anatomy-microbiology-treatment-time-outcome timeline.",
+      "manuscript_use": "Case presentation, timeline figure, and serial outcome table.",
+      "applicable_domains": [
+        "clinical_device",
+        "wound_scaffold",
+        "bone_exposure"
+      ],
+      "applicable_study_designs": [
+        "case_report"
+      ],
+      "supporting_locators": [
+        "S003:C01",
+        "S003:C02",
+        "S003:C03"
+      ],
+      "counterexample_or_boundary": "Chronology improves transparency but does not create a counterfactual.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC8121198-02",
+      "capability": "For multimodal treatment, label outcomes as occurring during the combined regimen unless the added component is experimentally isolated.",
+      "manuscript_use": "Results attribution and Discussion causal-language audit.",
+      "applicable_domains": [
+        "clinical_device",
+        "wound_scaffold",
+        "implant_infection"
+      ],
+      "applicable_study_designs": [
+        "case_report",
+        "observational_study"
+      ],
+      "supporting_locators": [
+        "S003:C02",
+        "S003:C03",
+        "S004:C01",
+        "S004:C02"
+      ],
+      "counterexample_or_boundary": "Matrix, NPWT, meropenem, wound care, and time were inseparable in this case.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC8121198-03",
+      "capability": "Separate granulation, epithelialization, geometry, exudate, microbial evidence, complications, disposition, complete closure, and recurrence instead of calling all endpoints healing.",
+      "manuscript_use": "Clinical Results and conclusion proportionality.",
+      "applicable_domains": [
+        "clinical_device",
+        "wound_scaffold"
+      ],
+      "applicable_study_designs": [
+        "case_report",
+        "clinical_cohort"
+      ],
+      "supporting_locators": [
+        "S003:C03",
+        "S004:C02",
+        "S005:C01"
+      ],
+      "counterexample_or_boundary": "Tissue coverage and discharge do not show complete closure, durable infection cure, or bone regeneration.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "appropriate_for_descriptive_case_inappropriate_for_efficacy",
+    "methods_transparency": "moderate",
+    "validation_credibility": "high_for_observed_case_course_low_for_component_effect",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "historical_and_poor",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "Single uncontrolled case with NPWT and antibiotics concurrent with matrix.",
+      "No standardized measurement, complete-closure/recurrence endpoint, or long-term follow-up.",
+      "Causal and prescriptive language exceeds the case-report evidence unit."
+    ],
+    "overall_credibility": "high_for_documenting_this_timeline_low_for_efficacy_mechanism_or_generalization"
+  },
+  "summary_zh": "这是一例极端复杂的慢性压疮病例：63 岁患者的骶部创面已存在 16 年，大小约 15×11×5 cm，暴露 L4/L5，并伴多菌感染、重度渗出、瘘管和多次治疗失败。九次合成电纺纤维矩阵应用持续 11 周，同时使用负压和美罗培南；期间出现肉芽覆盖、渗出和创面缩小、上皮形成、静脉抗生素停用及出院。论文可以作为清晰病例时间线的范例，却不能把改善单独归因于矩阵：负压、抗生素、同期护理和时间均未隔离。写作时必须把肉芽覆盖、创面尺寸、渗出、微生物、并发症、完全闭合、复发和出院分开；其中暴露骨表面的软组织覆盖并不是骨再生或骨整合证据。结论应定位为单病例可行性和进一步比较研究的依据。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section, including the complete treatment timeline and outcomes.",
+    "The automatic animal cue is incorrect; porous scaffold here is a wound matrix, not a bone implant or lattice scaffold study.",
+    "The key writing lesson is component-attribution discipline in a concurrent treatment bundle."
+  ],
+  "selection": {
+    "selection_reason": "balanced_stratum",
+    "primary_stratum": "porous_tpms_scaffold",
+    "stratum_rank": 5,
+    "reading_order": 40
+  },
+  "source": {
+    "record_path": "records/PMC8121198.json.gz",
+    "source_record": "records/PMC8121198.json.gz",
+    "source_record_sha256": "ce2c3e1916e5ec6fb0d933462e4a74c02fd572a842d625934fe25cae046ebb4f",
+    "source_hash": "ce2c3e1916e5ec6fb0d933462e4a74c02fd572a842d625934fe25cae046ebb4f"
+  }
+}

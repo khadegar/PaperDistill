@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7468597",
+  "paper_id": "doi:10.1155/2020/4809013",
+  "pmcid": "PMC7468597",
+  "source_record_sha256": "3f770952bb272b0f7d7fe930cc2ba0a2750f418164a657493e2d91c873813953",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fc17edaa97e4148bfb8a7ddd002f81f800d7b39539762747bdab85f3852d0361",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Acetabular Bone Defect in Total Hip Arthroplasty for Crowe II or III Developmental Dysplasia of the Hip: A Finite Element Study",
+    "authors": "Du Y, Fu J, Sun J, Zhang G, Chen J, Ni M, Zhou Y.",
+    "year": 2020,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2020/4809013",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

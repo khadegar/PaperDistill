@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12960451",
+  "paper_id": "doi:10.31616/asj.2025.0268",
+  "pmcid": "PMC12960451",
+  "source_record_sha256": "f1d937015812e0e37e6168319579ddcc877e015d8476f8e63862332c665e6961",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "58dc3caf1c722552b9f9d54245b83205c3fb77c859f55ab95b09e0b8d6da6812",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Verification of ideal screw size, trajectory, and shape for single and double endplate penetrating screw trajectories using osteoporotic vertebral body models based on the finite element method",
+    "authors": "Takeuchi T, Jinnai K, Kawano Y, Konishi K, Takahashi M, Kono H, Hosogane N.",
+    "year": 2026,
+    "journal": "Asian Spine Journal",
+    "doi": "10.31616/asj.2025.0268",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

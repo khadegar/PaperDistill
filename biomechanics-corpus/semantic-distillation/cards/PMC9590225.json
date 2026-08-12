@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9590225",
+  "paper_id": "doi:10.1186/s13063-022-06843-3",
+  "pmcid": "PMC9590225",
+  "source_record_sha256": "4b0143bc6d66f7651504d6b2c2e626f75a8d376e5376412305432d7bcd69a554",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "871e1d9cbef9b16d59e8dfe3958ca21b8fb4a75ad7f5254bcfeb0968b7ae535d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The use of 3D ceramic block graft compared with autogenous block graft for rehabilitation of the atrophic maxilla: a randomized controlled clinical trial",
+    "authors": "de Almeida Malzoni CM, Gonçalves V, Possari J, Junior EM.",
+    "year": 2022,
+    "journal": "Trials",
+    "doi": "10.1186/s13063-022-06843-3",
+    "publication_type": "research-article; Randomized Controlled Trial; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

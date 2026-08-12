@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11264942",
+  "paper_id": "doi:10.1186/s12891-024-07695-5",
+  "pmcid": "PMC11264942",
+  "source_record_sha256": "82b1871aa38512e904f78b6de85bc6b55aeb9b3c201f9e736834ee7d84f1e1ee",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dffed509ef5a7d55b66e79617ec0c108851bf4de044bce3e2cd6672eb3367c78",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Screw placement through a higher medial portal provides better initial stability in arthroscopic ACL tibial avulsion fracture fixation: a finite element analysis",
+    "authors": "Xiao Y, Shi C, Deng G, Ding Z, Xu J, Chen B.",
+    "year": 2024,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-024-07695-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

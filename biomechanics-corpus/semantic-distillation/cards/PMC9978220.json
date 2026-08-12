@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9978220",
+  "paper_id": "doi:10.3389/fbioe.2023.1096525",
+  "pmcid": "PMC9978220",
+  "source_record_sha256": "28eaee4f58d78e94174a842a1adddcd406da3ed1c758dc099861b0d22ffba6ee",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ac18c72337fa9b9880a9f511f6951fddf0812423a79e9d1d7608767e0d04a2bc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Synthetic biodegradable polymer materials in the repair of tumor-associated bone defects",
+    "authors": "Yu H, Liu H, Shen Y, Ao Q.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1096525",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

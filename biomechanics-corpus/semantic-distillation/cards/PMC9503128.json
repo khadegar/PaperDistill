@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9503128",
+  "paper_id": "doi:10.3390/polym14183780",
+  "pmcid": "PMC9503128",
+  "source_record_sha256": "12b2ee633b8722574cf83a7e47ee608a8cff8b3390b7bc7760cee797b681b753",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "83576ef40d9db4c37bb9b3b4128bb9ce9b5ec3eb5ba21af907cb4a850eca1b09",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Electrospun Collagen Scaffold Bio-Functionalized with Recombinant ICOS-Fc: An Advanced Approach to Promote Bone Remodelling",
+    "authors": "Melo P, Montalbano G, Boggio E, Gigliotti CL, Dianzani C, Dianzani U, Vitale-Brovarone C, Fiorilli S.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14183780",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

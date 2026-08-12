@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6812411",
+  "paper_id": "doi:10.1016/j.bioactmat.2019.09.001",
+  "pmcid": "PMC6812411",
+  "source_record_sha256": "f40cd62092168be0d2acbfee2e047c484cb4320209e4d3ff313114c0fb0673ab",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "edb6c86cda073dc2726be654be058a11db10f39fa89fe7d462001dad5f28232e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing of silk fibroin-based hybrid scaffold treated with platelet rich plasma for bone tissue engineering",
+    "authors": "Wei L, Wu S, Kuss M, Jiang X, Sun R, Reid P, Qin X, Duan B.",
+    "year": 2019,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2019.09.001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

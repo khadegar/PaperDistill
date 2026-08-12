@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5467297",
+  "paper_id": "doi:10.1155/2017/2827953",
+  "pmcid": "PMC5467297",
+  "source_record_sha256": "a28db55fc0c5fd36245e05bc2433a46b411c4cb9409540031f5f730046a45a9c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3ad3f75df3f57cec716d9ea7f7e921dbaf6877f4c0025f5e8fa28ad1272f2eee",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Deformation and Stress between Bone and Implant from Various Bite Forces by Numerical Simulation Analysis",
+    "authors": "Cheng HC, Peng BY, Chen MS, Huang CF, Lin Y, Shen YK.",
+    "year": 2017,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2017/2827953",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11356274",
+  "paper_id": "doi:10.3390/ma17164040",
+  "pmcid": "PMC11356274",
+  "source_record_sha256": "c99faab6c7b861775d642dd1f7e557936551c6326aec68907391819fa4ff60c1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "43431fb82dfbfb7a58f700420c28c99b95402c85fa52bf68b5abe4fd651819fa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact Testing in Implant-Supported Prostheses and Natural Teeth: A Systematic Review of Properties and Performance",
+    "authors": "Martí-Vigil J, Casamitjana J, Marimon X, Cerrolaza M, Medina-Gálvez R, Cantó-Navés O, Ferrer M, Cabratosa-Termes J.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17164040",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

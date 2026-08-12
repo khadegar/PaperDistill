@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9399250",
+  "paper_id": "doi:10.1038/s41413-022-00224-x",
+  "pmcid": "PMC9399250",
+  "source_record_sha256": "da7ae1dd0741e8d33b638414f2573bb949e95a0621161c30ab95e29e3e500a5a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dffcb62e965a94c20af6e9a43c172fc75bae3fe55d9724e8f7788548c6d5bd31",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Strontium-incorporated bioceramic scaffolds for enhanced osteoporosis bone regeneration",
+    "authors": "Wu Q, Hu L, Yan R, Shi J, Gu H, Deng Y, Jiang R, Wen J, Jiang X.",
+    "year": 2022,
+    "journal": "Bone Research",
+    "doi": "10.1038/s41413-022-00224-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

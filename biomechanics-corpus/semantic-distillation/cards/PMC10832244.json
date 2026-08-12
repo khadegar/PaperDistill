@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10832244",
+  "paper_id": "doi:10.1186/s13018-024-04567-5",
+  "pmcid": "PMC10832244",
+  "source_record_sha256": "af375e66f7a7d1ad931893e17326f5c3117fc0ed443821a1024ef45616c38e7a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a5a4f5a23f2db8f6eb32203b8983171a1e868adddb55a559e18f66e56831165a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of the novel assembled internal fixed system in C2–C3 anterior cervical discectomy and fusion: a finite element analysis",
+    "authors": "Chen H, Sun H, Cao L, Xia H, Tu Q.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-04567-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4570216",
+  "paper_id": "doi:10.1186/s12891-015-0699-7",
+  "pmcid": "PMC4570216",
+  "source_record_sha256": "f895a2a02af53bdb7cd48726761ef655ab745e91169ae611ecd1bfddc3bb38cd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b3a3582a90a273a1346fe8480fd4d2ee8ef89caf87768766468020b2b5548679",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of a hematogenous implant-related infection in a rat model",
+    "authors": "Shiels SM, Bedigrew KM, Wenke JC.",
+    "year": 2015,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-015-0699-7",
+    "publication_type": "research-article; Research Support, U.S. Gov't, Non-P.H.S.; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

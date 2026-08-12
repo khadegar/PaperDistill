@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9369952",
+  "paper_id": "doi:10.3390/ma15155365",
+  "pmcid": "PMC9369952",
+  "source_record_sha256": "d7d496e1e25234f13a31f42dc659e0dbf5c655c04295d63396bdec4605a73326",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3a4ad9f769d89dfe26c945c368f2b7d9e0523a88f8386f8e22e68d430760941b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Structural Porosity and Martensite Evolution on Mechanical Characteristics of Nitinol via In-Silico Finite Element Approach",
+    "authors": "Chekotu JC, Kinahan D, Goodall R, Brabazon D.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15155365",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

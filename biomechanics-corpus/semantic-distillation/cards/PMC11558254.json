@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11558254",
+  "paper_id": "doi:10.1016/j.bonr.2024.101790",
+  "pmcid": "PMC11558254",
+  "source_record_sha256": "25062ce9721a5edaa7fcd0631a23fcfb3bfb1a2fa684ffe7ddd2d392450a5fbb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fd507cb75252a1fa68cf48438f2742a4f633ab162bc0930311936caf8d5a6894",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Combination treatment with whole body vibration and simvastatin improves the early osseointegration in aged rats",
+    "authors": "Qiao ZB, Gu MZ, Wang YW, Ma BB, Pang SS.",
+    "year": 2024,
+    "journal": "Bone Reports",
+    "doi": "10.1016/j.bonr.2024.101790",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

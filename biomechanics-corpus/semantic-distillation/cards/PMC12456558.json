@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12456558",
+  "paper_id": "doi:10.5435/jaaosglobal-d-25-00255",
+  "pmcid": "PMC12456558",
+  "source_record_sha256": "19ea12f4f3569afb5659fcdca7f1956d0bb6de28afe85cb2834e1bf1b42cd08a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "83a74952144e0a8c233621d4b841e18e26ae69b8bf26c00258375120d7a01c9c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Ancient Principles, Modern Impact: Increased Femoral Offset Demonstrates Decreased Load to Failure in Total Hip Arthroplasty",
+    "authors": "Sherman WF, Tate JP, Reinhart NM, Kim J, Gabig AM, Verma A, Patel AH.",
+    "year": 2025,
+    "journal": "JAAOS Global Research & Reviews",
+    "doi": "10.5435/jaaosglobal-d-25-00255",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

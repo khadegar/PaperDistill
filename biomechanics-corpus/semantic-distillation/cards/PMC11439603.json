@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11439603",
+  "paper_id": "doi:10.18999/nagjms.86.3.487",
+  "pmcid": "PMC11439603",
+  "source_record_sha256": "88c8160f793aafabf220ef7a0bf1e8c200cf96f5891b748c0dfbc107a6605f26",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3efa72f4e8c995297ccf844f6cafe703dd275597c859db900e7c22d5154e71e0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A novel technique for C1-C2 posterior screw insertion using patient-specific guides created by CT-based 3D printing",
+    "authors": "Kagami Y, Nakashima H, Segi N, Ito S, Ouchida J, Shinjo R, Imagama S.",
+    "year": 2024,
+    "journal": "Nagoya Journal of Medical Science",
+    "doi": "10.18999/nagjms.86.3.487",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

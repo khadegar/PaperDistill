@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4598804",
+  "paper_id": "doi:10.3389/fbioe.2015.00151",
+  "pmcid": "PMC4598804",
+  "source_record_sha256": "a6f26443c6ca3312221c26347f60e636be3aa487f68d441d54c544f740e76445",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "22b50a4b56d2fe8ff6a174993974bd750bd79a635416ebf72fe44e38573f3dcd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Ceramic Scaffold Architectural Parameters on Biological Response",
+    "authors": "Gariboldi MI, Best SM.",
+    "year": 2015,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2015.00151",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

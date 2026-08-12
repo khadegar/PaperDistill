@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10222618",
+  "paper_id": "doi:10.3390/ma16103869",
+  "pmcid": "PMC10222618",
+  "source_record_sha256": "488fa522ba53518599d0050d3112c12d93c179123f0e2659b302856299893759",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fa0fda8be9006c6d89907d4db8235efa4db457ea9f496246f519eb382bd8bd35",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Strategies for the Covalent Anchoring of a BMP-2-Mimetic Peptide to PEEK Surface for Bone Tissue Engineering",
+    "authors": "Cassari L, Zamuner A, Messina GML, Marsotto M, Chang HC, Coward T, Battocchio C, Iucci G, Marletta G, Di Silvio L, Dettin M.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16103869",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

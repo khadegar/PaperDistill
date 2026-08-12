@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8556326",
+  "paper_id": "doi:10.1038/s41467-021-26491-6",
+  "pmcid": "PMC8556326",
+  "source_record_sha256": "cf5cbaaafe1106f4c332f9f926281d9c2708214a8cefb4efc4a3f94f74df7d9c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cea95fb12056f0d508b6c31f9524288def537bdd911cd9deb39fecdff71f64e6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed biomimetic cochleae and machine learning co-modelling provides clinical informatics for cochlear implant patients",
+    "authors": "Lei IM, Jiang C, Lei CL, de Rijk SR, Tam YC, Swords C, Sutcliffe MPF, Malliaras GG, Bance M, Huang YYS.",
+    "year": 2021,
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-021-26491-6",
+    "publication_type": "Video-Audio Media; Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

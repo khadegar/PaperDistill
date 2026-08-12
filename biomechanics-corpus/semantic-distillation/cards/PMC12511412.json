@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12511412",
+  "paper_id": "doi:10.1038/s41598-025-19260-8",
+  "pmcid": "PMC12511412",
+  "source_record_sha256": "657df964cf287308c5cd183f5c63cdabfeb3b434d2d96800ed6e3bc75610bb1a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c4e8d596c33fa870143c729598dd9189324474400937572f517f76014bb32196",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of implant selection and screw positioning in proximal femoral basicervical fractures",
+    "authors": "Yang T, Noraddin F, Liu B, Zhang Z, Gu HL.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-19260-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

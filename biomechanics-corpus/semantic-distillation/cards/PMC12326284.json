@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12326284",
+  "paper_id": "doi:10.7759/cureus.87407",
+  "pmcid": "PMC12326284",
+  "source_record_sha256": "d7241f505bf370e027f44eacc8385146a906b0630ac76906c6abe5bb9a38b17a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "01610650e319cc5c2bc6522b58702ca4bc09e0051180b51aafbaabe454b4d30b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Conversion of Post-traumatic Hip Fusion to Total Hip Arthroplasty: A Case Report",
+    "authors": "Abuzeyad N, Al Khalifa A, Falamarzi F, Al Khalifa F.",
+    "year": 2025,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.87407",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

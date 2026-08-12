@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9456137",
+  "paper_id": "doi:10.3390/ijms23179722",
+  "pmcid": "PMC9456137",
+  "source_record_sha256": "add8a1c7b4493845992eb2478f8b781b2ffb6c2942a9328b62511ea5d29628bb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0b03caa8c72d3147a5be4489fd4054237755e3807209d17fb2d616104451dbcc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cryogenic 3D Printing of w/o Pickering Emulsions Containing Bifunctional Drugs for Producing Hierarchically Porous Bone Tissue Engineering Scaffolds with Antibacterial Capability",
+    "authors": "Ye X, He Z, Liu Y, Liu X, He R, Deng G, Peng Z, Liu J, Luo Z, He X, Wang X, Wu J, Huang X, Zhang J, Wang C.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms23179722",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7550599",
+  "paper_id": "doi:10.1038/s41598-020-73863-x",
+  "pmcid": "PMC7550599",
+  "source_record_sha256": "3530eec9f4d25c45c1ce216789d0dae32aef29394a3627d8fd3c5a62e47ed5c0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a2a68380edb2537d612b1343c5840a9254c1f4e3468267e40c17d22881b11b3b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A tri-component knee plug for the 3rd generation of autologous chondrocyte implantation",
+    "authors": "Tayebi L, Cui Z, Ye H.",
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-73863-x",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7539379",
+  "paper_id": "doi:10.1186/s12891-020-03675-7",
+  "pmcid": "PMC7539379",
+  "source_record_sha256": "fd8c835e75cbd7cfacb553f347840fbde6dc938c1ebe1ff527c9cc3a1b7b901d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8bba1afa7e64b7e728a8570ec2803c913778fafc7f38609d1f97353d692cd044",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Peri-acetabular bone remodelling after uncemented total hip arthroplasty with monoblock press-fit cups: an observational study",
+    "authors": "Anderl C, Mattiassich G, Ortmaier R, Steinmair M, Hochreiter J.",
+    "year": 2020,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-020-03675-7",
+    "publication_type": "research-article; Journal Article; Observational Study",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11226618",
+  "paper_id": "doi:10.1038/s41598-024-66638-1",
+  "pmcid": "PMC11226618",
+  "source_record_sha256": "2e37f0bf49c6ea1ba3933d5cab537e6ace00356092b35c4a269a79967d07ec62",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a2577ccafd7fa8640a1998c0d8951dbfabafc53327d40900b75bee1ca6fb429b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluating three internal fixation techniques for Pauwels III femoral neck fractures via finite element analysis",
+    "authors": "Li N, Cheng KY, Fan J, Li Y, Yang M, Zhu S, Jiang X.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-66638-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

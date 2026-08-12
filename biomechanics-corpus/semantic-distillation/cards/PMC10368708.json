@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10368708",
+  "paper_id": "doi:10.1038/s41598-023-38772-9",
+  "pmcid": "PMC10368708",
+  "source_record_sha256": "8e858877a554e6812b43c678d3fa60f0890a2b16e73bf992a7eeee8a96d3972a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6cce62c0164dfe8a23ba0a11ace13fd4e42949f275b8b573f1f0bb07d980bc79",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Custom-made 3D printing-based cranioplasty using a silicone mould and PMMA",
+    "authors": "Csámer L, Csernátony Z, Novák L, Kővári VZ, Kovács ÁÉ, Soósné Horváth H, Manó S.",
+    "year": 2023,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-023-38772-9",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

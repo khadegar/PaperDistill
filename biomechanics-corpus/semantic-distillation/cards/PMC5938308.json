@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5938308",
+  "paper_id": "doi:10.1007/s10856-018-6068-y",
+  "pmcid": "PMC5938308",
+  "source_record_sha256": "bfa9f5d36e276bb7c98c0478053c91dcd49c2675dcb0c366d8414b0855c60501",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6b9c171daa1805d4b27edfbd34304122240ee681b69502b83b7b8e73a0013479",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A multiscale analytical approach to evaluate osseointegration",
+    "authors": "Palmquist A.",
+    "year": 2018,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-018-6068-y",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

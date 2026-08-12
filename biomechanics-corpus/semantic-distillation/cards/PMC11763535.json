@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11763535",
+  "paper_id": "doi:10.1016/j.jds.2024.10.016",
+  "pmcid": "PMC11763535",
+  "source_record_sha256": "6858f726b314b5a9f3d8d4a4a9198f95d5a66e018aeb3e3dcdf90cd0964ebb39",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3f036dd0e1a825dcf763cbfbefadabfa3445012307d601e9aaa9db199656835d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigation of the cushioning mechanism of a novel dental implant system with composite hydrogel",
+    "authors": "Chi CW, Chung TW, Wu YS, Chen WP, Lin CP.",
+    "year": 2025,
+    "journal": "Journal of Dental Sciences",
+    "doi": "10.1016/j.jds.2024.10.016",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

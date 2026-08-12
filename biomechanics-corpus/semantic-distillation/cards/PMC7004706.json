@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7004706",
+  "paper_id": "doi:10.1097/md.0000000000018983",
+  "pmcid": "PMC7004706",
+  "source_record_sha256": "b1824efde49ae8bbaa978f5538501f6bd5fe0bf6fad00d58097c1d6e2f5734a7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6eab37e1711a50a8e715b3060c0d1e72a001eb061b25801aa3632a6e850b03d9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Occipitocervical fusion combined with 3-dimensional navigation and 3-dimensional printing technology for the treatment of atlantoaxial dislocation with basilar invagination",
+    "authors": "Yuan T, Jia G, Yang L, Xu D, Zhang J, Liu Q.",
+    "year": 2020,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000018983",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

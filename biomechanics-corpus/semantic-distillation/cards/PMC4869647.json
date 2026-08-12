@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4869647",
+  "paper_id": "doi:10.2147/ijn.s102844",
+  "pmcid": "PMC4869647",
+  "source_record_sha256": "600be5149c2fbde9c64ddb8fa9a51171da554f729b2ea8f66b1b46000b6abdb1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d2a985b8b93405834f8928d7816baa95b040dcdf9932869912082ac67715abd6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Synergistic intrafibrillar/extrafibrillar mineralization of collagen scaffolds based on a biomimetic strategy to promote the regeneration of bone defects",
+    "authors": "Wang Y, Van Manh N, Wang H, Zhong X, Zhang X, Li C.",
+    "year": 2016,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s102844",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8911586",
+  "paper_id": "doi:10.3390/ma15051887",
+  "pmcid": "PMC8911586",
+  "source_record_sha256": "1f09262434c1e745205a5e0474fba8b7678b8618e613c35d7afdb47786bb1c30",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0716572ec5172d9e6d55eaa8ca2c6e4e2821be69d5f8ad18bc91adc011a93628",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Using Cu as a Spacer to Fabricate and Control the Porosity of Titanium Zirconium Based Bulk Metallic Glass Foams for Orthopedic Implant Applications",
+    "authors": "Wong PC, Song SM, Tsai PH, Maqnun MJ, Wang WR, Wu JL, Jang SJ.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15051887",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

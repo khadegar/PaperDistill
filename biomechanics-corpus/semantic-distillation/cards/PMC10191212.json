@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10191212",
+  "paper_id": "doi:10.3389/fbioe.2023.1182187",
+  "pmcid": "PMC10191212",
+  "source_record_sha256": "2dcc2e121e97f6a31af3f02fcb44699129f6429e0f9599580045793f5f8b90f7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2ae19e40d353cb9aef9c632db21a448b4d47a7f4bd9798cb3c180f0dd7d65422",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Coating of manganese functional polyetheretherketone implants for osseous interface integration",
+    "authors": "Yang X, Xiong S, Zhou J, Zhang Y, He H, Chen P, Li C, Wang Q, Shao Z, Wang L.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1182187",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

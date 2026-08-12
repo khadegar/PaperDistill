@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10627288",
+  "paper_id": "doi:10.1093/rb/rbad084",
+  "pmcid": "PMC10627288",
+  "source_record_sha256": "477958a309818ed7b322bd259f941d8876ffce0f3b5389e4335e63d2c1cdabd5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "723cb6951cf92b180b0cff1870722e5441d19dc0610a187f1252495f26a8c14d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Micro-porous PLGA/ β -TCP/TPU scaffolds prepared by solvent-based 3D printing for bone tissue engineering purposes",
+    "authors": "Hatt LP, Wirth S, Ristaniemi A, Ciric DJ, Thompson K, Eglin D, Stoddart MJ, Armiento AR.",
+    "year": 2023,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbad084",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

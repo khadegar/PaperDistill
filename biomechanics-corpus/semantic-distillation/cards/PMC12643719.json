@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12643719",
+  "paper_id": "doi:10.1097/md.0000000000046205",
+  "pmcid": "PMC12643719",
+  "source_record_sha256": "a2353ab8c7bed0611848f7836334ee6a27aadde3da3705f1a34c85f25dfe0f83",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "db0e4c207d304396f9044310186d50e0be045d01893b2bd951753300cc0f8b32",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical efficacy and finite element analysis of dynamic crossing screw system in the treatment of non-displaced femoral neck fractures in elderly patients with osteoporosis",
+    "authors": "Sheng X, Qian J, Xu Z, Zhu Y, Sha W, Tian S, Huang Y, Ge J.",
+    "year": 2025,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000046205",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8482249",
+  "paper_id": "doi:10.3390/jfb12030049",
+  "pmcid": "PMC8482249",
+  "source_record_sha256": "b8d919386e1f2e19b28ffbb2049481880061ff7a17a34403438a881801fd820d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e153f3f0e64a974adf79fd4631476eed01c07d5f4d1cea5457b40cf07e90388e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Prediction of Bone Mineral Density (BMD) Adaptation in Pelvis–Femur Model with Hip Arthroplasties",
+    "authors": "Abdullah AH, Todo M.",
+    "year": 2021,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb12030049",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12400724",
+  "paper_id": "doi:10.1186/s12891-025-09083-z",
+  "pmcid": "PMC12400724",
+  "source_record_sha256": "2d28f9ed0a201c38476c4b9e3b7a776a7f49c0a6c877b88cfd230d3a11156cd5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "70a372ca9950ade84112caad2565fc137f85599325e2bf87561d69c1564e0cc7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical comparison of patellar cementing techniques in total knee arthroplasty: a biomechanical study",
+    "authors": "Dikici AE, Eken G, Atici T.",
+    "year": 2025,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-025-09083-z",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

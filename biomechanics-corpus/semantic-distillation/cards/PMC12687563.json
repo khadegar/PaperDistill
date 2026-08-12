@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12687563",
+  "paper_id": "doi:10.1002/jsp2.70147",
+  "pmcid": "PMC12687563",
+  "source_record_sha256": "47a7a027171590a707f55be92023175360b9ebe18048407d3620cec529d262d2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0c5e207d89df632db505c2f906f36de56942bb7129468993f357e35be46704e0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative Finite Element Analysis of Denosumab and Bazedoxifene on Pedicle Screw Stability in Osteoporotic Spines",
+    "authors": "Asada T, Tani S, Towatari T, Ishikawa M, Varnadore P, Kudo Y, Passias PG, Alman BA, Ishikawa K.",
+    "year": 2025,
+    "journal": "JOR Spine",
+    "doi": "10.1002/jsp2.70147",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

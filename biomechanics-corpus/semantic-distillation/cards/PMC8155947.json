@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8155947",
+  "paper_id": "doi:10.3390/ma14102598",
+  "pmcid": "PMC8155947",
+  "source_record_sha256": "4fefeeaa914dbf5fdc9ffda9ce654d8ba44db37fccd10b9d79a9b372576996da",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f99067f58aeaf530491056c214da3751089fc48e2207baa82767d074c2eddded",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Comparison of Biomechanical Properties of Implant-Retained Overdenture Based on Precision Attachment Type",
+    "authors": "Idzior-Haufa M, Pilarska AA, Hędzelek W, Boniecki P, Pilarski K, Dorocka-Bobkowska B.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14102598",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

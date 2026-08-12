@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10559935",
+  "paper_id": "doi:10.1016/j.heliyon.2023.e20128",
+  "pmcid": "PMC10559935",
+  "source_record_sha256": "d0a607944c9c81b2471df8ac4305244c3a59240ef22ad1789e3c0d72a681af23",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "43178896ec60a9ae8537da0594dac4eb6d1e40226305e2551d356cbb8a976490",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biocompatibility and interaction of porous alumina-zirconia scaffolds with adipose-derived mesenchymal stem cells for bone tissue regeneration",
+    "authors": "Vidane AS, Nunes FC, Ferreira JA, Fukumasu H, Freitas SH, Pallone EM, Ambrósio CE.",
+    "year": 2023,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2023.e20128",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

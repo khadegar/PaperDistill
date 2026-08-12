@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8467079",
+  "paper_id": "doi:10.3390/ma14185308",
+  "pmcid": "PMC8467079",
+  "source_record_sha256": "e17e0cd1b49a7a4040ce9eb911a3ef7e193a9a4a9556c7f43705566908cd6544",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "44e750c945a15110a01d2ba16633084b2a09896761fd059eb7ada4bb8756acf0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Open Cell Form of 3D-Printed Titanium Improves Osteconductive Properties and Adhesion Behavior of Dental Pulp Stem Cells",
+    "authors": "Gallorini M, Zara S, Ricci A, Mangano FG, Cataldi A, Mangano C.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14185308",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

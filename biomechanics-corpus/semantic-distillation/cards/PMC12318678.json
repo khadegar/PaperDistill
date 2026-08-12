@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12318678",
+  "paper_id": "doi:10.1111/os.70099",
+  "pmcid": "PMC12318678",
+  "source_record_sha256": "115daa57d5994095d0fec632e6c2e2e8834ccd12ff20a56f68e50216537ed0f3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "36637345182429b532b8229401bce538abfce93aa9443bb958e4dc5e2d2bee29",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Risk Factors of Aseptic Loosening After Total Hip Arthroplasty With Collum Femoris Preserving Stem: A Long‐Term Follow‐Up Study",
+    "authors": "Ma Y, Liu Y, Liu Z, Chang J, Li M, Wu T.",
+    "year": 2025,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.70099",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

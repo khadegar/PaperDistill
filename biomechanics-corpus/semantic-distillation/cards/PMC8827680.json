@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8827680",
+  "paper_id": "pmcid:PMC8827680",
+  "pmcid": "PMC8827680",
+  "source_record_sha256": "fd7e329d959b0829676dc7810fb569c064e5fe1b32c6bd975c1a61ddd162219d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ad1fa0d9a7f1eb066ffb735b2ae9a9c19f4900baa0dfd3973d9e3142b406aafd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "20184 A Hypothesis-Driven Parametric Study of a Computational Dermal Replacement Model",
+    "authors": "Sohutskay D, Tepole A, Voytik-Harbin S.",
+    "year": 2021,
+    "journal": "Journal of Clinical and Translational Science",
+    "doi": "10.1017/cts.2021.517",
+    "publication_type": "Abstract",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "other_substantive",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

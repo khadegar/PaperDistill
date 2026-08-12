@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11082046",
+  "paper_id": "doi:10.1007/s10439-024-03488-y",
+  "pmcid": "PMC11082046",
+  "source_record_sha256": "938b5400c80f1a9eee0c46f8af6169ddf17065bac05cb5c60444d2ba708be70f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "023b603b690cf3d795f0a810f04fea371f1e57425bac69858a35444b819d8a0f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Wnt16 Increases Bone-to-Implant Contact in an Osteopenic Rat Model by Increasing Proliferation and Regulating the Differentiation of Bone Marrow Stromal Cells",
+    "authors": "Berger MB, Bosh K, Deng J, Jacobs TW, Cohen DJ, Boyan BD, Schwartz Z.",
+    "year": 2024,
+    "journal": "Annals of Biomedical Engineering",
+    "doi": "10.1007/s10439-024-03488-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

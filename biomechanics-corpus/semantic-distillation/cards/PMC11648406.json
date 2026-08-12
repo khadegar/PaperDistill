@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11648406",
+  "paper_id": "doi:10.20517/evcna.2023.19",
+  "pmcid": "PMC11648406",
+  "source_record_sha256": "7dfd98fe20245af4f9371628ae4dba76d1d43ce2e47e53c78dbf9a817fb9257c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "77de54d781e4d31b09b49e528c4da506b6d53139384a63e69d1e7c501de4c28d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioprinting extracellular vesicles as a \"cell-free\" regenerative medicine approach",
+    "authors": "Jiao K, Liu C, Basu S, Raveendran N, Nakano T, Ivanovski S, Han P.",
+    "year": 2023,
+    "journal": "Extracellular Vesicles and Circulating Nucleic Acids",
+    "doi": "10.20517/evcna.2023.19",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

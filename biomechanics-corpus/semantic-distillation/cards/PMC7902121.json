@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7902121",
+  "paper_id": "doi:10.1055/s-0040-1715915",
+  "pmcid": "PMC7902121",
+  "source_record_sha256": "8223a3bc2af0bf7877f9132ffa86e20c26649a254e6f79fd76e56331a09cceb2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "25e69bb5581cc2db0b3b5612771a4021ef168fc17aff084cb7a24991b0bd7f84",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Pediatric Stainless-Steel Crown Cementation Finite Element Study",
+    "authors": "Waly AS, Souror YR, Yousief SA, Alqahtani WMS, El-Anwar MI.",
+    "year": 2020,
+    "journal": "European Journal of Dentistry",
+    "doi": "10.1055/s-0040-1715915",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

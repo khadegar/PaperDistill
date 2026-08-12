@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9307762",
+  "paper_id": "doi:10.1038/s41598-022-16895-9",
+  "pmcid": "PMC9307762",
+  "source_record_sha256": "07587f1a6a5cc986aa2c21d4de565c7a2d88a7bda3815ed25d3e4abe03370d81",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f83694e65e168f7b3d96ad1996339ca7c07276df098f32b5746d21a3b6a66c72",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of the contact surface between vertebral endplate and 3D printed patient-specific cage vs commercial cage",
+    "authors": "Fernandes RJR, Gee A, Kanawati AJ, Siddiqi F, Rasoulinejad P, Zdero R, Bailey CS.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-16895-9",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

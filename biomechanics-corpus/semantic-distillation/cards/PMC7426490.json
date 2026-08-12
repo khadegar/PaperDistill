@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7426490",
+  "paper_id": "doi:10.1016/j.bioactmat.2020.07.007",
+  "pmcid": "PMC7426490",
+  "source_record_sha256": "fea26f7c4a89aef86d3380ed0e77c747208a3c0116e380a482ff6471435fe2f8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "14287bc159a48327ab4acf1e341d855534e4e4a53d8d3c70e766d02280b70ccc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cryogenic 3D printing of dual-delivery scaffolds for improved bone regeneration with enhanced vascularization",
+    "authors": "Wang C, Lai J, Li K, Zhu S, Lu B, Liu J, Tang Y, Wei Y.",
+    "year": 2020,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2020.07.007",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

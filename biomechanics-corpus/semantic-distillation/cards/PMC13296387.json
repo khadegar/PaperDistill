@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13296387",
+  "paper_id": "doi:10.3390/biomimetics11060433",
+  "pmcid": "PMC13296387",
+  "source_record_sha256": "7181c0d9f51f0851876df35db2afc78e1adfa9b957fad71f521b56b11a2d219b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "18d969a01fc6d18ba4c960431b3112f9193758bdd846ae08f366f735e5ff07c8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Rehabilitation of the Severely Atrophic Maxilla with Subperiosteal Implants: A Biomechanical and Decision Analysis of Material and Configuration Choices",
+    "authors": "Türk BE, Bedirhandede B, Doğan DG, Güney B.",
+    "year": 2026,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics11060433",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

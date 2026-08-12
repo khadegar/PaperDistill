@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7364611",
+  "paper_id": "doi:10.1021/acsomega.0c01168",
+  "pmcid": "PMC7364611",
+  "source_record_sha256": "2abbf8a2318d89729aa61d013a47f356d0f24aec9949569b10f00df8fce3c717",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4f4e60194e9ca312ee7cae45f00c6f9453195f21ae82bf8a0547aa62539d56b2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development and Characterization of a Biocomposite Material from Chitosan and New Zealand-Sourced Bovine-Derived Hydroxyapatite for Bone Regeneration",
+    "authors": "Huang J, Ratnayake J, Ramesh N, Dias GJ.",
+    "year": 2020,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.0c01168",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

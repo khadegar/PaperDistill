@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11059701",
+  "paper_id": "doi:10.1186/s12896-024-00848-3",
+  "pmcid": "PMC11059701",
+  "source_record_sha256": "0aa178b67b5876a044c3a01a911544844f62d65759305b3717ec3bc290ebc90c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a7a0068ddd874bbe8be5d7bc6dd27296c2dfe1494aba4c40f5a4a2fd1457c621",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing of Ceffe-infused scaffolds for tailored nipple-like cartilage development",
+    "authors": "Ding J, Wei C, Xu Y, Dai W, Chen R.",
+    "year": 2024,
+    "journal": "BMC Biotechnology",
+    "doi": "10.1186/s12896-024-00848-3",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

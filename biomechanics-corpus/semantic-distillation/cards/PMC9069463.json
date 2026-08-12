@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9069463",
+  "paper_id": "doi:10.1039/c9ra03641e",
+  "pmcid": "PMC9069463",
+  "source_record_sha256": "31a03f581715147b2b7a672b5a63d5095c2d923094d3f62281ce711b35f6597d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2c213cc2e863cb9912959dfdda6f6b2d84189caf0619d18203e8e55e362cf53b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printable SiO 2 nanoparticle ink for patient specific bone regeneration †",
+    "authors": "Roopavath UK, Soni R, Mahanta U, Deshpande AS, Rath SN.",
+    "year": 2019,
+    "journal": "RSC Advances",
+    "doi": "10.1039/c9ra03641e",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10059040",
+  "paper_id": "doi:10.3390/jfb14030125",
+  "pmcid": "PMC10059040",
+  "source_record_sha256": "80c0e8ac6a69a2df128c58dbc33f7263ab90f88e308eab16a11c676d159dce37",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f21ed07245e25d3a8c70f72a07765c9a27907f97108d370261b490e6de162f54",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Titanium Lattice Structures Produced via Additive Manufacturing for a Bone Scaffold: A Review",
+    "authors": "Distefano F, Pasta S, Epasto G.",
+    "year": 2023,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb14030125",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

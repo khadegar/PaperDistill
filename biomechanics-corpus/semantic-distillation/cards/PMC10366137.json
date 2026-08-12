@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10366137",
+  "paper_id": "doi:10.1038/s41536-023-00308-0",
+  "pmcid": "PMC10366137",
+  "source_record_sha256": "4c44c88ce2c7226fa548ce940d4036d81ebf014a390bf4bddc65f8be94bbf0a0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "65bc71bf2d400ba7c212598842381e8b7548f31f62e48a9ccffcd923f15dc98b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing titanium grid scaffold facilitates osteogenesis in mandibular segmental defects",
+    "authors": "Li Y, Liu H, Wang C, Yan R, Xiang L, Mu X, Zheng L, Liu C, Hu M.",
+    "year": 2023,
+    "journal": "NPJ Regenerative Medicine",
+    "doi": "10.1038/s41536-023-00308-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

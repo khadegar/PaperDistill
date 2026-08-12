@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5597279",
+  "paper_id": "doi:10.3390/bioengineering3040036",
+  "pmcid": "PMC5597279",
+  "source_record_sha256": "4df13cd95a9b4c50d8b742d8ca93635c5b6de9e14c16f08c9f4e961c2c9db465",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "671eeb25f800a53ad05e93c262dfff5e2ca0c80b7578dad00b13c7ecefc280bd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Simulation and Additive Manufacturing of Stiffness-Matched NiTi Fixation Hardware for Mandibular Reconstruction Surgery",
+    "authors": "Jahadakbar A, Shayesteh Moghaddam N, Amerinatanzi A, Dean D, Karaca HE, Elahinia M.",
+    "year": 2016,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering3040036",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7805124",
+  "paper_id": "doi:10.1186/s13018-020-02177-5",
+  "pmcid": "PMC7805124",
+  "source_record_sha256": "75ff974919f66a1df9a7f330b42b404c836eece9abb297e30058a0258a9b0726",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6f93565e08e599a45b16c5c636be2a35a234d983ccbf554f47d5bb1bcc742e82",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Nerve growth factor-chondroitin sulfate/hydroxyapatite-coating composite implant induces early osseointegration and nerve regeneration of peri-implant tissues in Beagle dogs",
+    "authors": "Ye J, Huang B, Gong P.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-020-02177-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

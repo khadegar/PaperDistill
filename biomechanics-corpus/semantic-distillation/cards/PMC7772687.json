@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7772687",
+  "paper_id": "doi:10.1016/j.bonr.2020.100711",
+  "pmcid": "PMC7772687",
+  "source_record_sha256": "3708c2fea6d01f9c819f8b0eb0586080f6254dfc46e96aebf834f5afe851bbeb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f9f54d9a8639d6bb33881a561eab429c3597b99bc5564539ca4b36f1904fea9c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Validation of HR-pQCT against micro-CT for morphometric and biomechanical analyses: A review",
+    "authors": "Ohs N, Collins CJ, Atkins PR.",
+    "year": 2020,
+    "journal": "Bone Reports",
+    "doi": "10.1016/j.bonr.2020.100711",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

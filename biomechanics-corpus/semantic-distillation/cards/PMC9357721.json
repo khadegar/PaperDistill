@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9357721",
+  "paper_id": "doi:10.1155/2022/1081957",
+  "pmcid": "PMC9357721",
+  "source_record_sha256": "f2b10136465694c69739cc28e890613881a083d2712227837df5ed0fd8c16560",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "77e77289c843d27e19cb0705f13a96628ddc21f1f09f184e172340d5d384bc3a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preparation of 3D Printing PLGA Scaffold with BMP-9 and P-15 Peptide Hydrogel and Its Application in the Treatment of Bone Defects in Rabbits",
+    "authors": "Wang X, Chen W, Chen Z, Li Y, Wu K, Song Y.",
+    "year": 2022,
+    "journal": "Contrast Media & Molecular Imaging",
+    "doi": "10.1155/2022/1081957",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

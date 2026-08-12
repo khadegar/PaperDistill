@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12327404",
+  "paper_id": "doi:10.3390/sym14112334",
+  "pmcid": "PMC12327404",
+  "source_record_sha256": "f0a76ec3c13f131fb5d6571f9822bf76df7560e9152ceb414bb5aa63690ca0e5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6e8e628cf7b3e8c92ac662b2633cc49120d3daee6178acc7fca9605d2e7add94",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of an Implant-Supported FDP with Different Connector Heights",
+    "authors": "Alberto LHJ, Kalluri L, Esquivel-Upshaw JF, Duan Y.",
+    "year": 2022,
+    "journal": "Symmetry",
+    "doi": "10.3390/sym14112334",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

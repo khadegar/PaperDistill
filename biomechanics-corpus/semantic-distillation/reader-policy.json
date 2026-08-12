@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "policy_id": "luna-remainder-2026-08-10",
+  "start_reading_order": 46,
+  "expected_reader_provenance": {
+    "reader_role": "luna_primary",
+    "reader_model": "gpt-5.6-luna",
+    "reasoning_effort": "max"
+  },
+  "legacy_completed_range": {
+    "start_reading_order": 1,
+    "end_reading_order": 45,
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max"
+  }
+}

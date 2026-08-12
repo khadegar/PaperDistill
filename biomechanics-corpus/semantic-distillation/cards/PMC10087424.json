@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10087424",
+  "paper_id": "doi:10.1002/jbm.b.35165",
+  "pmcid": "PMC10087424",
+  "source_record_sha256": "ba20e9f14990d7e4a25d6fef26e461451d5280656f8d81d63cefe76e97a216d2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4e9d534e5c04efb8e5a1e7052e6ad373b2ef4f3d1fd0ef0fa3748844c2d6e213",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Novel nano‐hydroxyapatite coating of additively manufactured three‐dimensional porous implants improves bone ingrowth and initial fixation",
+    "authors": "Watanabe R, Takahashi H, Matsugaki A, Uemukai T, Kogai Y, Imagama T, Yukata K, Nakano T, Sakai T.",
+    "year": 2022,
+    "journal": "Journal of Biomedical Materials Research. Part B, Applied Biomaterials",
+    "doi": "10.1002/jbm.b.35165",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

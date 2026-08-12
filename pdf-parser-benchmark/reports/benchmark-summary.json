@@ -1,0 +1,218 @@
+{
+  "schema_version": "1.0",
+  "benchmark_id": "pdf-markdown-a100-v1",
+  "run_label": "main",
+  "generated_at": "2026-08-11T19:10:34Z",
+  "tools": [
+    {
+      "tool": "mineru",
+      "version": "3.4.4",
+      "score_rows": 50,
+      "process_successes": 50,
+      "clean_successes": 50,
+      "fallback_attempts": 0,
+      "fallback_successes": 0,
+      "silent_truncations": 0,
+      "identifier_integrity_risks": 49,
+      "systematic_identifier_alteration": true,
+      "automatic_fidelity_0_80": 55.36,
+      "manual_fidelity_0_20": 14.6533,
+      "manual_scores_present": 15,
+      "total_fidelity_0_100": 70.0134,
+      "median_pages_per_second": 0.049397,
+      "median_peak_vram_mib": 13981.0,
+      "median_peak_ram_gib": 5.983,
+      "median_cold_start_seconds": 304.141,
+      "median_steady_state_seconds": 246.891,
+      "strata": [
+        {
+          "stratum": "layout_stress",
+          "rows": 10,
+          "process_successes": 10,
+          "clean_successes": 10,
+          "automatic_fidelity_0_80": 52.1062,
+          "median_pages_per_second": 0.062968
+        },
+        {
+          "stratum": "formula_fe_topology",
+          "rows": 10,
+          "process_successes": 10,
+          "clean_successes": 10,
+          "automatic_fidelity_0_80": 55.1644,
+          "median_pages_per_second": 0.046729
+        },
+        {
+          "stratum": "table_review_clinical",
+          "rows": 10,
+          "process_successes": 10,
+          "clean_successes": 10,
+          "automatic_fidelity_0_80": 59.6544,
+          "median_pages_per_second": 0.048196
+        },
+        {
+          "stratum": "figure_am_biomaterial",
+          "rows": 10,
+          "process_successes": 10,
+          "clean_successes": 9,
+          "automatic_fidelity_0_80": 52.4449,
+          "median_pages_per_second": 0.047649
+        },
+        {
+          "stratum": "standard_born_digital",
+          "rows": 10,
+          "process_successes": 10,
+          "clean_successes": 10,
+          "automatic_fidelity_0_80": 57.4302,
+          "median_pages_per_second": 0.044111
+        }
+      ],
+      "gate_blockers": [
+        "systematic scientific-identifier integrity risk"
+      ],
+      "eligible": false
+    },
+    {
+      "tool": "marker",
+      "version": "2.0.0",
+      "score_rows": 50,
+      "process_successes": 48,
+      "clean_successes": 46,
+      "fallback_attempts": 0,
+      "fallback_successes": 0,
+      "silent_truncations": 2,
+      "identifier_integrity_risks": 37,
+      "systematic_identifier_alteration": true,
+      "automatic_fidelity_0_80": 51.579,
+      "manual_fidelity_0_20": 13.22,
+      "manual_scores_present": 15,
+      "total_fidelity_0_100": 64.799,
+      "median_pages_per_second": 0.087863,
+      "median_peak_vram_mib": 5318.0,
+      "median_peak_ram_gib": 9.257,
+      "median_cold_start_seconds": 495.532,
+      "median_steady_state_seconds": 154.047,
+      "strata": [
+        {
+          "stratum": "layout_stress",
+          "rows": 10,
+          "process_successes": 10,
+          "clean_successes": 10,
+          "automatic_fidelity_0_80": 55.1937,
+          "median_pages_per_second": 0.128014
+        },
+        {
+          "stratum": "formula_fe_topology",
+          "rows": 10,
+          "process_successes": 9,
+          "clean_successes": 8,
+          "automatic_fidelity_0_80": 49.7303,
+          "median_pages_per_second": 0.030158
+        },
+        {
+          "stratum": "table_review_clinical",
+          "rows": 10,
+          "process_successes": 9,
+          "clean_successes": 9,
+          "automatic_fidelity_0_80": 47.5203,
+          "median_pages_per_second": 0.123552
+        },
+        {
+          "stratum": "figure_am_biomaterial",
+          "rows": 10,
+          "process_successes": 10,
+          "clean_successes": 9,
+          "automatic_fidelity_0_80": 51.8585,
+          "median_pages_per_second": 0.087863
+        },
+        {
+          "stratum": "standard_born_digital",
+          "rows": 10,
+          "process_successes": 10,
+          "clean_successes": 10,
+          "automatic_fidelity_0_80": 53.5921,
+          "median_pages_per_second": 0.046033
+        }
+      ],
+      "gate_blockers": [
+        "clean completions 46/48 required",
+        "silent truncations 2/0 allowed",
+        "systematic scientific-identifier integrity risk"
+      ],
+      "eligible": false
+    },
+    {
+      "tool": "docling",
+      "version": "2.114.0",
+      "score_rows": 50,
+      "process_successes": 47,
+      "clean_successes": 47,
+      "fallback_attempts": 0,
+      "fallback_successes": 0,
+      "silent_truncations": 0,
+      "identifier_integrity_risks": 45,
+      "systematic_identifier_alteration": true,
+      "automatic_fidelity_0_80": 54.7459,
+      "manual_fidelity_0_20": 15.2667,
+      "manual_scores_present": 15,
+      "total_fidelity_0_100": 70.0125,
+      "median_pages_per_second": 0.043204,
+      "median_peak_vram_mib": 4474.0,
+      "median_peak_ram_gib": 4.362,
+      "median_cold_start_seconds": 356.703,
+      "median_steady_state_seconds": 290.984,
+      "strata": [
+        {
+          "stratum": "layout_stress",
+          "rows": 10,
+          "process_successes": 9,
+          "clean_successes": 9,
+          "automatic_fidelity_0_80": 53.1991,
+          "median_pages_per_second": 0.058873
+        },
+        {
+          "stratum": "formula_fe_topology",
+          "rows": 10,
+          "process_successes": 9,
+          "clean_successes": 9,
+          "automatic_fidelity_0_80": 53.2805,
+          "median_pages_per_second": 0.043204
+        },
+        {
+          "stratum": "table_review_clinical",
+          "rows": 10,
+          "process_successes": 9,
+          "clean_successes": 9,
+          "automatic_fidelity_0_80": 53.0387,
+          "median_pages_per_second": 0.047858
+        },
+        {
+          "stratum": "figure_am_biomaterial",
+          "rows": 10,
+          "process_successes": 10,
+          "clean_successes": 10,
+          "automatic_fidelity_0_80": 56.7426,
+          "median_pages_per_second": 0.042617
+        },
+        {
+          "stratum": "standard_born_digital",
+          "rows": 10,
+          "process_successes": 10,
+          "clean_successes": 10,
+          "automatic_fidelity_0_80": 57.4684,
+          "median_pages_per_second": 0.042264
+        }
+      ],
+      "gate_blockers": [
+        "clean completions 47/48 required",
+        "systematic scientific-identifier integrity risk"
+      ],
+      "eligible": false
+    }
+  ],
+  "manual_review_complete": true,
+  "recommendation_status": "NO_TOOL_PASSED_GATE",
+  "winner": null,
+  "best_observed_candidate": "mineru",
+  "report_path": "D:\\CodeX\\PaperDistill\\pdf-parser-benchmark\\reports\\benchmark-report.md",
+  "report_sha256": "1584defad6f7463852b464566f732501adac79524a5437cecbfe93694031c49d"
+}

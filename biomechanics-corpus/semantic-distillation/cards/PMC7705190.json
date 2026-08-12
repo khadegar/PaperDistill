@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7705190",
+  "paper_id": "doi:10.1177/2041731420967791",
+  "pmcid": "PMC7705190",
+  "source_record_sha256": "ae972b0a730c23c52069e35f9a329d11ace48d87d3bbe1d4cdcc363df514d806",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "725a3fbbd0e7b1b6c3c44fa6021b1cc035b526a4acb3fa55ad741b8cc1796255",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimetic and osteogenic 3D silk fibroin composite scaffolds with nano MgO and mineralized hydroxyapatite for bone regeneration",
+    "authors": "Wu Z, Meng Z, Wu Q, Zeng D, Guo Z, Yao J, Bian Y, Gu Y, Cheng S, Peng L, Zhao Y.",
+    "year": 2020,
+    "journal": "Journal of Tissue Engineering",
+    "doi": "10.1177/2041731420967791",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12478118",
+  "paper_id": "doi:10.1016/j.mtbio.2025.102315",
+  "pmcid": "PMC12478118",
+  "source_record_sha256": "ee15ae407036a63c425c1b7de971858a90fd46188a2e359cb579a6f2ead448b1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6e91e076ef047e2eb7963ae9341bb6f97e02bca09ce4ae8bb68cbb8ada8cb829",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed nHA/PA66 porous scaffold: Regulating immune balance and vascularization synergistically promotes bone regeneration ☆ ☆☆",
+    "authors": "Yan C, Zhu F, Liang H, Liu C, He B, Wang T, Tan H, Li H, Jiang D, Qiao B.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.102315",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

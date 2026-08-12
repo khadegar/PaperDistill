@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9917976",
+  "paper_id": "doi:10.3390/ma16030974",
+  "pmcid": "PMC9917976",
+  "source_record_sha256": "70c41cac07c9ffe0de68517cb8e74ccbc08ac1c10fd0019629f51a9e2bb77328",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5eabb9ed76a4a69eb253b9a8333c61e9f88d6b4a1075f840e9b080cdf5a4bec0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "On the Various Numerical Techniques for the Optimization of Bone Scaffold",
+    "authors": "Wu J, Zhang Y, Lyu Y, Cheng L.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16030974",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

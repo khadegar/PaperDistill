@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8861007",
+  "paper_id": "doi:10.1038/s41598-022-06908-y",
+  "pmcid": "PMC8861007",
+  "source_record_sha256": "6d019de886fdba90ab85d1d5b9d2a2926983259be2a29d7609e54e015b4019b7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "469d9a637b2260395ee4ae80789d37f005e39a47de4a42698bdb688bbdb233cf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Sealing mechanism study of laryngeal mask airways via 3D modelling and finite element analysis",
+    "authors": "Liao H, Chen L, Liu M, Chen J.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-06908-y",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

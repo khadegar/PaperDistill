@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8697638",
+  "paper_id": "doi:10.1039/d1ra01193f",
+  "pmcid": "PMC8697638",
+  "source_record_sha256": "9fd950c4e1e55ea35d73c5eb89e0d6c3fb63d07dde4e4f183d75384f93b19ebd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "889774cc30acfa325c01a79d5d1d2a26172429a0e2e4935f0906ff55b0b6650a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Polydopamine functionalized VEGF gene-activated 3D printed scaffolds for bone regeneration †",
+    "authors": "Chakka JL, Acri T, Laird NZ, Zhong L, Shin K, Elangovan S, Salem AK.",
+    "year": 2021,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d1ra01193f",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

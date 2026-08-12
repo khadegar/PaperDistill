@@ -1,0 +1,261 @@
+{
+  "study": {
+    "article_kind": "narrative_review_with_unspecified_search_protocol",
+    "design_features": [
+      "secondary_literature_synthesis",
+      "orthodontic_TAD_and_mini_implant_stability",
+      "periapical_panoramic_and_CBCT_review",
+      "microCT_and_spectral_imaging_review",
+      "AI_radiomics_and_dynamic_imaging_review",
+      "osseointegration_endpoint_boundary_review"
+    ],
+    "research_problem": "Adult orthodontic temporary anchorage devices (TADs) and mini-implants require mechanical primary stability and later biologic adaptation, but routine mobility checks are subjective and radiographic modalities differ in dimensionality, resolution, dose, artifact burden, and ability to show peri-implant bone. The review asks how imaging can inform stability and osseointegration assessment.",
+    "exact_gap": "The authors aim to synthesize radiographic techniques used for implant stability and osseointegration in adult orthodontic patients, including conventional films, CBCT, micro-CT, emerging spectral/dynamic methods, AI, and radiomics. The full text does not provide a reproducible systematic-search protocol, screening flow, or formal evidence-quality appraisal.",
+    "objective_or_hypothesis": "Summarize biomechanical phases of implant stability, factors affecting primary/secondary stability, strengths and limitations of current radiographic techniques, and emerging computational/imaging approaches for orthodontic implant assessment.",
+    "study_design": "Narrative review/secondary synthesis, not a primary clinical cohort, FE study, animal study, or systematic review. It organizes cited evidence into stability biomechanics; periapical, panoramic, CBCT, and micro-CT modalities; clinical workflow/artifacts; AI/ML; spectral/photon-counting CT; artifact reduction; radiomics; and dynamic radiography/4D CBCT. It reports no new patient images, measurements, experiments, or pooled effect estimates.",
+    "sample_or_model": "No new sample or model. The evidence base is heterogeneous cited studies involving orthodontic TADs/mini-screws, conventional dental implants, phantom/technical imaging, ex-vivo micro-CT, AI datasets, and radiomics cohorts; populations, implant types, reference standards, and outcomes are not systematically enumerated or weighted.",
+    "comparators": [
+      "Primary mechanical stability at insertion versus secondary biologic remodeling/osseointegration over time (S003:C01-S004:C01).",
+      "Periapical radiography versus panoramic radiography versus CBCT for 2D/3D peri-implant bone assessment (S006:C01-S010:C01).",
+      "Clinical CBCT versus research micro-CT, with micro-CT higher resolution but ex-vivo/radiation-limited (S012:C01).",
+      "Conventional CT/CBCT versus dual-energy, photon-counting, AI-MAR, and other artifact-reduction approaches (S013:C01-S014:C01).",
+      "Visual radiographic reading versus AI/ML and radiomic quantitative biomarkers (S011:C01; S015:C01).",
+      "Static imaging versus experimental dynamic digital radiography and time-resolved/4D CBCT (S016:C01)."
+    ],
+    "method_spine": [
+      "Define implant stability and the transition from mechanical primary engagement to biologic secondary stability, including cortical thickness, bone quality, insertion torque, micromotion, and remodeling (S003:C01-S005:C01).",
+      "Compare periapical, panoramic, CBCT, and micro-CT by dimensionality, resolution, dose, artifacts, and clinical applicability using narrative tables (S006:C01-S012:C01).",
+      "Discuss clinical workflow barriers, observer variability, metal artifacts, gray-value calibration, and dose/image-quality trade-offs (S010:C01).",
+      "Summarize cited AI/ML accuracy ranges, spectral/photon-counting CT, AI denoising/MAR, and radiomics as emerging quantitative methods while noting validation and standardization needs (S011:C01; S013:C01-S015:C01).",
+      "Close with dynamic radiographic concepts and a recommendation for prospective, cross-platform clinical validation; no formal meta-analysis or risk-of-bias synthesis is performed (S016:C01-S017:C01)."
+    ],
+    "validation_roles": {
+      "verification": [
+        "The review reproduces modality descriptions, stability concepts, cited thresholds, and technical ranges; it does not independently verify image performance, torque thresholds, or algorithms (S003:C01-S016:C01).",
+        "No new phantom, calibration, observer, or segmentation experiment is reported by the review authors (S001:C01-S002:C01)."
+      ],
+      "calibration": [
+        "The review explicitly notes that CBCT/digital gray values are not directly comparable across machines/settings and that no universal acquisition/calibration standard exists (S010:C01).",
+        "AI, radiomics, and spectral methods are described without a review-level calibration dataset or cross-platform harmonization analysis (S011:C01; S013:C01; S015:C01)."
+      ],
+      "validation": [
+        "Cited studies reportedly provide modality-specific diagnostic or AI metrics, but the review does not identify independent reference standards, external validation, dataset splits, or risk-of-bias for each study (S010:C01-S011:C01).",
+        "Dynamic digital radiography and 4D CBCT remain experimental, with no clinical orthodontic-implant application reported (S016:C01)."
+      ],
+      "sensitivity": [
+        "The narrative compares radiation dose, resolution, field of view, artifact burden, observer variability, and workflow across imaging modalities (S006:C01-S010:C01).",
+        "There is no controlled review-level sensitivity or heterogeneity analysis by implant type, site, bone quality, dose, scanner, reference standard, or time point."
+      ],
+      "application_prediction": [
+        "The review predicts that CBCT, AI, spectral/photon-counting CT, radiomics, and dynamic imaging may improve implant planning or earlier bone-change detection; these are prospective applications rather than demonstrated orthodontic outcomes (S001:C01; S013:C01-S017:C01).",
+        "Clinical adoption is conditioned on dose justification, artifact correction, cross-platform calibration, and prospective validation (S010:C01; S014:C01; S017:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "Primary stability is described as initial mechanical engagement governed by bone quality, cortical thickness, implant geometry, and insertion technique; secondary stability develops through remodeling/osseointegration. Orthodontic mini-implants often rely on mechanical retention without complete osseointegration, unlike many endosseous dental implants (S003:C01-S004:C01).",
+      "The review cites insertion torque >10 Ncm as associated with improved primary stability but warns that excessive torque can cause microdamage; cited micromotion above approximately 50-150 micrometres is associated with fibrous-interface risk. These are secondary literature thresholds, not review measurements (S004:C01).",
+      "Periapical radiographs provide high-resolution 2D crestal-bone monitoring with low cost/dose but lack buccolingual information; panoramic radiographs offer broad coverage with distortion and lower local resolution (S006:C01-S008:C01).",
+      "CBCT provides volumetric bone thickness/volume and buccal/lingual defect visualization, but the review calls it a gold standard while also noting metal artifacts, variable dose, gray-value calibration limits, and inability to resolve the microscopic first millimetres of bone contact on clinical images (S001:C01; S009:C01-S010:C01).",
+      "Clinical radiographic measurement differences of approximately 0.3-0.5 mm or more may approach a cited minimal clinically important change of >=0.2 mm/year bone loss, so observer variability can mask or mimic early change (S010:C01).",
+      "The review reports cited AI performance ranges of 61.0-94.74% accuracy, 0.63-100% precision, 67.0-94.44% sensitivity, and 87.0-100% specificity; dataset, task, reference standard, and external-validation heterogeneity are not resolved, and the unusually low precision figure should remain attributed rather than generalized (S011:C01).",
+      "Micro-CT offers high-resolution ex-vivo assessment of BV/TV, trabecular thickness, and BIC but is costly, high-dose, and generally confined to research/preclinical specimens (S012:C01).",
+      "Dual-energy/photon-counting methods and AI/MAR may reduce metal artifacts; cited photon-counting work reports approximately 100 micrometre spatial resolution in technical/clinical systems, but dental implant outcome validation and routine availability remain open (S013:C01-S014:C01).",
+      "Radiomics can cluster CBCT bone quality and may predict insertion torque or resonance frequency, but acquisition/feature standardization is required before clinical adoption (S015:C01).",
+      "Dynamic digital radiography and 4D CBCT are proposed for micro-motion or remodeling under load; the review states that no clinical study has yet applied them specifically to orthodontic anchorage implants and dose limits routine 4D use (S016:C01)."
+    ],
+    "highest_evidence_level_reached": "Narrative secondary synthesis of heterogeneous imaging, biomechanics, AI, and technical literature; no new patient data, pooled estimate, formal risk-of-bias grading, or direct proof that radiographic proxies establish true osseointegration or clinical success."
+  },
+  "argument_map": {
+    "central_claim": "Radiographic modalities can complement clinical stability assessment, with CBCT and emerging AI/spectral/quantitative methods offering richer three-dimensional or automated information than 2D films, but artifacts, dose, calibration, observer variability, incomplete reference standards, and the distinction between radiographic bone proxies and actual implant fixation/osseointegration limit clinical conclusions.",
+    "data": [
+      "The review separates primary mechanical and secondary biologic stability and notes that TADs may function without complete osseointegration (S003:C01-S004:C01).",
+      "Modality tables compare 2D radiographs, CBCT, micro-CT, dynamic radiography, and spectral CT by use, strengths, limitations, and clinical applicability (S006:C01; S012:C01-S013:C01).",
+      "Narrative sections preserve cited observer error, AI performance ranges, artifact reduction, radiomics, and the absence of clinical dynamic-imaging studies (S010:C01-S016:C01)."
+    ],
+    "warrant": "Imaging can visualize bone volume, cortical engagement, peri-implant defects, or radiographic changes that are relevant to mechanical/biologic stability, but each measure is a proxy with modality-specific resolution, dose, calibration, and reference-standard constraints.",
+    "backing": [
+      "CBCT adds buccolingual and volumetric information absent from planar films; micro-CT resolves finer ex-vivo architecture (S006:C01-S009:C01; S012:C01).",
+      "AI, radiomics, and spectral/MAR methods may reduce observer burden or metal artifacts, while the review explicitly calls for standardized datasets and robust validation (S011:C01; S013:C01-S015:C01).",
+      "The primary/secondary stability distinction and TAD-specific reliance on mechanical retention prevent automatic translation of a radiographic contact change into complete osseointegration (S003:C01-S004:C01)."
+    ],
+    "qualifier": "This is a narrative review of cited studies, not a new comparative diagnostic study; numerical ranges and thresholds retain the source study's implant type, anatomy, scanner, dose, reference standard, time point, and uncertainty, which are not pooled here.",
+    "rebuttals_or_boundaries": [
+      "The abstract calls CBCT a gold standard, but the body notes that clinical CBCT cannot resolve microscopic bone contact and is affected by metal artifacts, dose, gray-value noncomparability, and observer variability (S001:C01; S009:C01-S010:C01).",
+      "Radiographic bone level/volume or AI success prediction does not equal mechanical stability, histologic osseointegration, mature matrix quality, fatigue durability, symptoms, or revision-free survival (S003:C01-S004:C01; S010:C01-S016:C01).",
+      "TADs and conventional implants differ in their reliance on mechanical retention versus complete osseointegration; pooled language across them can be misleading (S004:C01; S005:C01).",
+      "Dynamic imaging, spectral CT, AI, and radiomics are promising but largely emerging/technical; no prospective orthodontic-implant endpoint confirms improved patient outcomes (S011:C01; S013:C01-S017:C01)."
+    ],
+    "argument_coherence": "moderate_for_taxonomy_and_workflow; low_to_moderate_for_comparative_diagnostic_accuracy_or_clinical_outcome"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "The review authors report no new patient, animal, phantom, or algorithm data. All modality performance ranges, thresholds, observer differences, and technical resolutions are secondary reports from cited studies (S001:C01-S017:C01).",
+      "Cited AI accuracy/precision/sensitivity/specificity ranges, observer differences of 0.3-0.5 mm or more, and approximately 100 micrometre photon-counting resolution are reported values whose study-level denominators and reference standards are not enumerated in this review (S010:C01-S011:C01; S013:C01).",
+      "The review's modality table records clinical applicability categories, dose/artifact limitations, and whether dynamic methods have been clinically applied; these are review-level classifications, not direct measurements (S006:C01; S016:C01)."
+    ],
+    "predicted": [
+      "Statements that AI, spectral CT, radiomics, or dynamic imaging will predict implant success, detect earlier bone change, or improve outcomes are forward-looking predictions from cited technical studies, not measured clinical effects in this review (S001:C01; S011:C01; S013:C01-S017:C01).",
+      "The review's claim that high insertion torque or low micromotion improves stability is a synthesis of cited associations and thresholds, not a new causal experiment (S004:C01-S005:C01)."
+    ],
+    "inferred": [
+      "The review infers that higher-dimensional imaging and artifact reduction should improve visualization of bone-implant interactions; actual improvement in fixation or patient outcomes is not demonstrated (S006:C01-S010:C01; S013:C01-S014:C01).",
+      "Radiographic bone adaptation is treated as evidence relevant to secondary stability, but complete osseointegration remains an endpoint vector requiring direct interface/tissue/function evidence (S003:C01-S004:C01; S009:C01-S012:C01).",
+      "The review's cross-modality hierarchy is an inference across heterogeneous cited studies rather than a controlled head-to-head diagnostic ranking (S006:C01-S012:C01)."
+    ],
+    "recommended": [
+      "Report a reproducible review search, selection flow, study-level reference standards, risk of bias, and heterogeneity stratification before making modality-ranking or consensus claims.",
+      "Pair radiographic endpoints with insertion torque/ISQ, mobility, histology or micro-CT where feasible, interface mechanics, longitudinal failure, and patient function; label each proxy-to-outcome bridge.",
+      "Standardize scanner acquisition, gray-value calibration, artifact correction, segmentation, radiomic features, AI dataset splits, and external validation across platforms and implant types.",
+      "Evaluate low-dose CBCT/spectral/dynamic methods in prospective orthodontic cohorts with dose, observer, and clinically meaningful change analyses (S010:C01; S013:C01-S017:C01)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Periapical/panoramic bone levels, CBCT thickness/volume, and radiolucency are imaging proxies; they do not directly demonstrate microscopic bone contact, interface strength, or full osseointegration.",
+      "BIC/BV/TV from research micro-CT can quantify bone architecture/contact in ex-vivo specimens but do not replace in-vivo fixation, function, fatigue, or clinical survival.",
+      "AI/radiomics accuracy, sensitivity, specificity, and predicted torque/ISQ are algorithmic diagnostic endpoints; without external validation and a clinically meaningful reference they do not establish improved outcomes.",
+      "Insertion torque, ISQ, or radiographic stability measures describe primary/secondary stability dimensions; they should not be merged with symptoms, tissue quality, revision, or patient-reported function."
+    ],
+    "overclaim_risks": [
+      "Calling CBCT the gold standard can imply complete osseointegration assessment despite the review's own statement that clinical images cannot resolve the microscopic bone interface (S001:C01; S009:C01-S010:C01).",
+      "The AI performance range (especially precision as low as 0.63%) is too heterogeneous to support a general diagnostic superiority claim without dataset/task attribution (S011:C01).",
+      "Phrases that radiography predicts implant success or that advanced methods reduce failure rates exceed a narrative review with no pooled clinical endpoint or prospective validation (S001:C01; S010:C01; S017:C01).",
+      "Mixing TAD mechanical retention with conventional implant osseointegration can make radiographic adaptation sound like complete functional bone integration (S004:C01-S005:C01).",
+      "Dynamic/spectral/radiomic methods remain emerging or ex-vivo/technical; proposed clinical benefit should remain recommended rather than demonstrated (S012:C01-S016:C01)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Define primary versus secondary stability and motivate imaging as a complement to subjective mobility testing before cataloguing modalities.",
+      "execution": "The introduction connects TAD/mini-implant success to mechanical engagement, remodeling, and radiographic assessment, then states the review objective (S002:C01).",
+      "locator": "S002:C01",
+      "effectiveness": "high_for_problem_and_scope",
+      "transferable_principle": "A diagnostic review should end its introduction with the exact endpoint distinction and modality question, not just the importance of imaging.",
+      "failure_mode": "Do not define osseointegration broadly and then let a radiographic proxy silently represent all stability dimensions."
+    },
+    {
+      "section": "background",
+      "move": "Separate mechanical insertion stability, biologic remodeling, and implant-class differences before listing torque/micromotion thresholds.",
+      "execution": "The review describes primary/secondary phases, cortical engagement, torque and micromotion thresholds, and the fact that orthodontic mini-implants may not require complete osseointegration (S003:C01-S004:C01).",
+      "locator": "S004:C01",
+      "effectiveness": "moderate_to_high",
+      "transferable_principle": "Keep implant class, time, load, and endpoint attached to each threshold or stability claim.",
+      "failure_mode": "Thresholds from conventional endosseous implants should not be generalized to TADs without checking fixation mechanism and reference study."
+    },
+    {
+      "section": "results",
+      "move": "Use a modality matrix that preserves dimensionality, resolution, dose, artifact, calibration, reference standard, and clinical availability.",
+      "execution": "Tables and modality sections contrast periapical, panoramic, CBCT, micro-CT, spectral, AI/MAR, radiomic, and dynamic approaches, with explicit limitations and emerging status (S006:C01-S016:C01).",
+      "locator": "S006:C01",
+      "effectiveness": "high_for_taxonomy; low_for_ranked_efficacy",
+      "transferable_principle": "A cross-modality synthesis should compare like with like and keep technical performance distinct from clinical benefit.",
+      "failure_mode": "A broad modality table can imply a universal hierarchy when studies use different implants, scanners, doses, and reference standards."
+    },
+    {
+      "section": "discussion",
+      "move": "Place emerging AI/spectral/dynamic opportunities beside artifact, dose, observer, and calibration barriers and state the missing validation.",
+      "execution": "The review discusses metal-artifact reduction, gray-value noncomparability, 0.3-0.5 mm observer differences, AI ranges, and the need for prospective/cross-platform validation (S010:C01-S017:C01).",
+      "locator": "S010:C01",
+      "effectiveness": "high_for_boundary_setting",
+      "transferable_principle": "Pair every claimed diagnostic improvement with the failure mode, reference standard, dose cost, and validation experiment that would test it.",
+      "failure_mode": "Reporting accuracy or cleaner images without clinical reference standards can turn technical gains into unsupported outcome claims."
+    },
+    {
+      "section": "conclusion",
+      "move": "Conclude with a staged imaging-validation agenda rather than declaring a modality clinically definitive.",
+      "execution": "The conclusion supports multimodal/AI/spectral advances but calls for prospective trials and standardization before routine adoption (S017:C01).",
+      "locator": "S017:C01",
+      "effectiveness": "high_for_translation_boundary",
+      "transferable_principle": "A diagnostic review conclusion should name the next study needed to cross from visualization to clinically meaningful stability or osseointegration.",
+      "failure_mode": "Do not compress radiographic potential into lower failure rates or patient benefit without validated longitudinal endpoints."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The review explicitly notes 2D overlap/distortion, CBCT dose, metal artifacts, gray-value calibration limits, observer variability, workflow barriers, and lack of routine dynamic-imaging validation (S006:C01-S010:C01; S016:C01).",
+      "It emphasizes that AI, spectral/photon-counting, artifact reduction, and radiomics require standardized datasets, prospective or cross-platform validation, and clinical testing before adoption (S011:C01; S013:C01-S017:C01)."
+    ],
+    "reader_identified": [
+      "No database names, search dates/strings, screening counts, inclusion/exclusion flow, duplicate handling, or formal risk-of-bias/credibility assessment are reported; article kind is narrative review despite a generic review cue.",
+      "No study-level denominator, implant class, reference standard, scanner/dose, uncertainty, or external-validation details support pooling the cited AI ranges or thresholds.",
+      "The review mixes TADs, conventional dental implants, phantom/technical studies, ex-vivo micro-CT, and clinical workflows without a structured population/intervention/comparator/time matrix.",
+      "CBCT is called a gold standard while its inability to resolve microscopic contact and gray-value noncomparability are acknowledged; this conceptual tension needs explicit endpoint qualification.",
+      "Radiographic and algorithmic proxies receive more discussion than direct interface mechanics, histology, implant survival, patient function, and revision outcomes."
+    ],
+    "likely_bias_direction": [
+      "Unspecified narrative search and absent risk-of-bias appraisal can favor accessible, positive, or technologically novel studies.",
+      "A modality/AI-forward framing may overrepresent technical improvements relative to null, failed, dose-limited, or clinically unvalidated approaches.",
+      "Mixing implant classes and endpoint definitions can make radiographic adaptation appear more comparable to true osseointegration than evidence supports.",
+      "Threshold and performance ranges without denominator/context can encourage false precision or generalization across scanners and patients."
+    ],
+    "scope_boundary": "This is a narrative overview for radiographic assessment of orthodontic and dental implant stability, with emerging AI, spectral, radiomic, and dynamic methods. It supports taxonomy, proxy interpretation, and a validation agenda; it does not establish comparative diagnostic superiority, complete osseointegration, long-term fixation, failure reduction, or patient benefit."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC12503028-01",
+      "capability": "Construct a radiographic endpoint vector that separates primary mechanical stability, secondary remodeling, bone quantity/contact, interface mechanics, function, and revision, and labels which modality can observe each element.",
+      "manuscript_use": "Diagnostic review framing, methods endpoint map, and clinical interpretation.",
+      "applicable_domains": ["dental_implant", "orthodontic_TAD", "radiographic_biomechanics", "osseointegration"],
+      "applicable_study_designs": ["narrative_review", "diagnostic_accuracy", "clinical_imaging"],
+      "supporting_locators": ["S003:C01", "S004:C01", "S006:C01", "S009:C01", "S012:C01"],
+      "counterexample_or_boundary": "Clinical CBCT or radiographic bone level cannot resolve microscopic contact, interface strength, fatigue, or patient function without independent endpoints.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12503028-02",
+      "capability": "Compare imaging modalities with a matrix of dimensionality, resolution, dose, artifact, calibration, observer error, reference standard, and clinical availability before making a ranking claim.",
+      "manuscript_use": "Review Results tables, modality selection, and evidence audit.",
+      "applicable_domains": ["radiology", "CBCT", "microCT", "implant_imaging"],
+      "applicable_study_designs": ["narrative_review", "diagnostic_comparison", "imaging_validation"],
+      "supporting_locators": ["S006:C01", "S009:C01", "S010:C01", "S012:C01-S014:C01"],
+      "counterexample_or_boundary": "Heterogeneous scanners, implant classes, doses, and reference standards do not support a universal modality hierarchy or pooled accuracy.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12503028-03",
+      "capability": "Report AI/radiomics performance as study-attributed ranges with task, denominator, reference standard, and external-validation status, not as a single diagnostic accuracy.",
+      "manuscript_use": "Emerging-methods synthesis, reproducibility audit, and clinical adoption recommendation.",
+      "applicable_domains": ["medical_AI", "radiomics", "CBCT_analysis"],
+      "applicable_study_designs": ["diagnostic_AI", "radiomics", "narrative_review"],
+      "supporting_locators": ["S011:C01", "S014:C01", "S015:C01"],
+      "counterexample_or_boundary": "The review's 61.0-94.74% accuracy and 0.63-100% precision span is too heterogeneous to imply generalizable clinical performance.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12503028-04",
+      "capability": "Close a diagnostic review with a staged validation plan that moves from artifact/gray-value calibration and observer agreement to reference-standard, longitudinal fixation and patient-outcome studies.",
+      "manuscript_use": "Discussion limitations, translational roadmap, and conclusion.",
+      "applicable_domains": ["implant_imaging", "clinical_validation", "radiographic_biomechanics"],
+      "applicable_study_designs": ["diagnostic_validation", "prospective_cohort", "narrative_review"],
+      "supporting_locators": ["S010:C01", "S013:C01-S017:C01"],
+      "counterexample_or_boundary": "Cleaner images or higher technical resolution alone do not establish less loosening, better osseointegration, or improved orthodontic outcome.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate",
+    "methods_transparency": "low",
+    "validation_credibility": "low_for_review-level_direct_validation_moderate_for_taxonomy_and_technical_context",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "moderate_for_modality_descriptions_low_for_cross-study_accuracy_or_clinical_ranking",
+    "conclusion_proportionality": "moderate_with_emerging-technology_overreach",
+    "critical_weaknesses": [
+      "Search, screening, selection, and risk-of-bias methods are not reproducible from the full text.",
+      "Cited imaging/AI numbers lack a structured denominator, implant class, reference standard, scanner/dose, and external-validation ledger.",
+      "TAD mechanical retention and conventional implant osseointegration are discussed together without a formal stratified synthesis.",
+      "CBCT gold-standard wording conflicts with acknowledged microscopic-resolution and calibration limits.",
+      "Radiographic/algorithmic proxies are not connected to direct fixation, histology, fatigue, failure, or patient-reported outcomes."
+    ],
+    "overall_credibility": "moderate for modality taxonomy and hypothesis generation; low for comparative diagnostic efficacy, complete osseointegration assessment, and clinical outcome claims"
+  },
+  "summary_zh": "这是一篇叙述性综述，不是新的临床队列、有限元或动物实验。全文按正畸 TAD/微种植体的初期机械稳定与继发性骨改建、根尖片/全景片/CBCT/微 CT、金属伪影与观察者差异、AI/机器学习、能谱/光子计数 CT、伪影校正、影像组学和动态影像组织证据。作者称 CBCT 可提供三维骨厚度/体积信息，但同时承认临床 CBCT 不能分辨微观骨—植入物接触，且受金属伪影、剂量、灰度跨平台不可比和观察者差异（约 0.3–0.5 mm）限制；微 CT 更高分辨率但主要限于离体/研究。文中二手引用的 AI 性能范围为准确率 61.0–94.74%、精确率 0.63–100%、敏感性 67.0–94.44%、特异性 87.0–100%，异质性和外部验证未被分层，不能合并为普遍诊断优势。必须区分影像骨量/骨边缘等 proxy、机械稳定、组织学骨结合、界面力学、功能和失败/修订；TAD 常依靠机械固位而非完整 osseointegration。综述缺少可复现检索、筛选流程和正式偏倚评价，结论应停留在分类、假设和分阶段验证路线。",
+  "reader_notes": [
+    "Primary Luna reader read every non-reference locator in order: S001:C01; S002:C01; S003:C01; S004:C01; S005:C01; S006:C01; S007:C01; S008:C01; S009:C01; S010:C01; S011:C01; S012:C01; S013:C01; S014:C01; S015:C01; S016:C01; S017:C01; S018:C01. No packet chunk was omitted.",
+    "Full-text adjudication corrects the metadata design cue: this is a narrative review of radiographic and computational-imaging evidence, not finite-element, experimental-mechanical, animal, or clinical primary research; no reproducible systematic-review protocol is reported.",
+    "The card separates review-level synthesis from cited-study measurements/predictions and explicitly distinguishes radiographic stability proxies, BIC/micro-CT, interface mechanics, functional outcomes, and true osseointegration. TAD mechanical retention versus conventional implant biologic integration is retained.",
+    "Self-review preserved the CBCT gold-standard versus microscopic-resolution tension, AI range heterogeneity (including the unusually low cited precision), dose/artifact/calibration limitations, and the absence of clinical dynamic-imaging validation."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12446114",
+  "paper_id": "doi:10.1007/s11701-025-02772-w",
+  "pmcid": "PMC12446114",
+  "source_record_sha256": "ceee54d775d8df7a99602c2651cca8a7e0d846cb40d4a9684452cacbe60ed3fe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a1bf31fdf5bf7cb321ffd66fbcc789606ca1ea62953dd4a749868c3982c11565",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Revolutionizing spine surgery with emerging AI–FEA integration",
+    "authors": "Franceschini C, Ahmadi M, Zhang X, Wu K, Lin M, Weston R, Rodio A, Tang Y, Engeberg E, Pires G, Cheema TS, Vrionis FD.",
+    "year": 2025,
+    "journal": "Journal of Robotic Surgery",
+    "doi": "10.1007/s11701-025-02772-w",
+    "publication_type": "research-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

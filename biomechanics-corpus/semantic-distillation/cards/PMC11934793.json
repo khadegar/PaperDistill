@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11934793",
+  "paper_id": "doi:10.1186/s12951-025-03325-x",
+  "pmcid": "PMC11934793",
+  "source_record_sha256": "912b739c559b09d53f4793f1f43321f6d2543f6cb95feb483d1de0c7f42530d8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e0c3199ed8d6d5acd0ddd05fcd47bfa537eca92b2aef6d0b571b41d2fd076533",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed shape-memory piezoelectric scaffolds with in-situ self-power properties for bone defect repair",
+    "authors": "Li B, Ma Y, Fatima K, Zhou X, Gu X, Chen S, He C.",
+    "year": 2025,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-025-03325-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

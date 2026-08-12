@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12757364",
+  "paper_id": "doi:10.3389/fbioe.2025.1736027",
+  "pmcid": "PMC12757364",
+  "source_record_sha256": "b554542a2f56a53e4683c63d686e7a1118f89910e094423a3c7b8bd29ba091e0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "929a7db34b75e4028ce60257442e755e0c4bdda1d4973c04a693260c2fdf5cd5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhancing radial strength and expansion uniformity of iron-based vascular scaffolds: a numerical and experimental investigation on topological optimization",
+    "authors": "Qiu J, Tang L, Fu W, Qin L, Zhang D, Wang S, Song J.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1736027",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

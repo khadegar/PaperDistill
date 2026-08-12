@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7362474",
+  "paper_id": "doi:10.1186/s12891-020-03437-5",
+  "pmcid": "PMC7362474",
+  "source_record_sha256": "ccd0dd330f93f4f7daa959da507ef215ac98668b1559ee51d4260e8979bdaaab",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f9730d5c98a47105d0d95d9bf10e723eac778cd62cbc07f5975cb30c71d6a247",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Traditional and cortical trajectory screws of static and dynamic lumbar fixation- a finite element study",
+    "authors": "Liu CW, Wang LL, Xu YK, Chen CM, Wang JC, Tsai WT, Lin SC.",
+    "year": 2020,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-020-03437-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4501071",
+  "paper_id": "doi:10.1186/s13287-015-0114-1",
+  "pmcid": "PMC4501071",
+  "source_record_sha256": "e4d3c2de1334720ea7dd7b13a8bcd598cb7be2b5f23eded82389f2e36084ebbe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ce58f0bc314f810a3ed51abc03a741f201e2e434c209612d8e202a6ac4d3dd48",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A new application of cell-free bone regeneration: immobilizing stem cells from human exfoliated deciduous teeth-conditioned medium onto titanium implants using atmospheric pressure plasma treatment",
+    "authors": "Omori M, Tsuchiya S, Hara K, Kuroda K, Hibi H, Okido M, Ueda M.",
+    "year": 2015,
+    "journal": "Stem Cell Research & Therapy",
+    "doi": "10.1186/s13287-015-0114-1",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

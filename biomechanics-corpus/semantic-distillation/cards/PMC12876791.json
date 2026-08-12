@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12876791",
+  "paper_id": "doi:10.1016/j.identj.2025.109397",
+  "pmcid": "PMC12876791",
+  "source_record_sha256": "fe24900872153c7036530e1afe8c8cecee4d66bfb1780b96e29189af759866c3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e7c1524171e4856dda1c95d28835118949064a02d01579d05011e3a41289e784",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Quality in Resorbed Posterior Maxilla Affects Osteogenesis After Sinus Floor Augmentation: A Retrospective Analysis",
+    "authors": "Zhou W, Fan S, Cafferata EA, Shen Y, Wu Y.",
+    "year": 2026,
+    "journal": "International Dental Journal",
+    "doi": "10.1016/j.identj.2025.109397",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

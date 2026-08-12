@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7839840",
+  "paper_id": "doi:10.1016/j.addr.2020.11.012",
+  "pmcid": "PMC7839840",
+  "source_record_sha256": "f704731ddb1ca8588ebfeea81b860d60fac11bdae0d2aff268236a3e67f718c7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c52988d48607315eb238d2c7c4aa1933e4c341d2453be38489b97124dbc8907d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Turning Nature’s own processes into design strategies for living bone implant biomanufacturing: a decade of Developmental Engineering",
+    "authors": "Papantoniou I, Nilsson Hall G, Loverdou N, Lesage R, Herpelinck T, Mendes L, Geris L.",
+    "year": 2021,
+    "journal": "Advanced Drug Delivery Reviews",
+    "doi": "10.1016/j.addr.2020.11.012",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

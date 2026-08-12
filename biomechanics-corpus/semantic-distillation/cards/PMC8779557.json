@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8779557",
+  "paper_id": "doi:10.3390/ma15020461",
+  "pmcid": "PMC8779557",
+  "source_record_sha256": "37a9a448c4705a309c762eb7ec9e5d469732166878696124b74460646b77d40e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "93fc7c2201bad8d23016f7479fdee46f4719d40c22daf7a1546a52abb5da2e11",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Electrical Impedance of Surface Modified Porous Titanium Implants with Femtosecond Laser",
+    "authors": "Navarro P, Olmo A, Giner M, Rodríguez-Albelo M, Rodríguez Á, Torres Y.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15020461",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

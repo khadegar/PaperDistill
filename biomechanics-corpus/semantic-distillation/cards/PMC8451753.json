@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8451753",
+  "paper_id": "doi:10.1002/jor.24881",
+  "pmcid": "PMC8451753",
+  "source_record_sha256": "1ad176ce0434409fca6fd6737f8ef54aa7c36364a0b478599087f41fc5fc9542",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8b42ebc2f8b594e585286bb423fadab0ba3dd9ac58bed966685337f56d8b9290",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical comparison of five cannulated screw fixation strategies for young vertical femoral neck fractures",
+    "authors": "Jiang D, Zhan S, Wang L, Shi LL, Ling M, Hu H, Jia W, Jia W.",
+    "year": 2020,
+    "journal": "Journal of Orthopaedic Research",
+    "doi": "10.1002/jor.24881",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

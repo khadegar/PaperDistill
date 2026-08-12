@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8703935",
+  "paper_id": "doi:10.3390/polym13244303",
+  "pmcid": "PMC8703935",
+  "source_record_sha256": "8d31e164cf1e213152d43014e73d25975e28fbffefc9faf2a086e5de187d1fea",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9a59c8261f5275d73d0eb1386d879e465e18371f76d97a122ec2153e0a40e373",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioactive Coatings Loaded with Osteogenic Protein for Metallic Implants",
+    "authors": "Gherasim O, Grumezescu AM, Grumezescu V, Andronescu E, Negut I, Bîrcă AC, Gălățeanu B, Hudiță A.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13244303",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

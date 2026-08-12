@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7923127",
+  "paper_id": "doi:10.3390/ma14040946",
+  "pmcid": "PMC7923127",
+  "source_record_sha256": "9aee7b784d7f3e54b9906cc503162776d7ca7af279c45843121a944f20557010",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "372a818f78d580c4973b9442ab3e8af1fc7ae5b03f3cbc20f118024a865816b3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In-Vivo Degradation Behavior and Osseointegration of 3D Powder-Printed Calcium Magnesium Phosphate Cement Scaffolds",
+    "authors": "Kowalewicz K, Vorndran E, Feichtner F, Waselau AC, Brueckner M, Meyer-Lindenberg A.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14040946",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

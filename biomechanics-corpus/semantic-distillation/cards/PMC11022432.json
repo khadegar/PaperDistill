@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11022432",
+  "paper_id": "doi:10.1186/s13063-024-08097-7",
+  "pmcid": "PMC11022432",
+  "source_record_sha256": "8b4c3bcf9fd979892cf94b0eb4b9052d6ea3a54a674aed4d9820fe4db9dc724d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "76fa4c4743a4e4793c3c5bfd7062f1fec5a74986a29bf77052481c645b8e28dc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing vs traditional workflow for the fabrication of mandibular implant overdentures: study protocol for a mixed-methods cross-over RCT",
+    "authors": "Jafarpour D, El-Amier N, Feine J, Bedos C, Abi-Nader S, Esfandiari S, Shuster T, Zimmermann E, de Souza R.",
+    "year": 2024,
+    "journal": "Trials",
+    "doi": "10.1186/s13063-024-08097-7",
+    "publication_type": "Clinical Trial Protocol; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

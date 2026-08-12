@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4086264",
+  "paper_id": "doi:10.1186/1754-9493-8-27",
+  "pmcid": "PMC4086264",
+  "source_record_sha256": "7e3e0f13fafe28d37967382c1174768e258b623b460798d6c359c1fc73dc8c59",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "afdde78a611498a6eedfaf5e41bbdf99aba07d77b96fa6ae3531805925ab90e3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Does a mobile laminar airflow screen reduce bacterial contamination in the operating room? A numerical study using computational fluid dynamics technique",
+    "authors": "Sadrizadeh S, Tammelin A, Nielsen PV, Holmberg S.",
+    "year": 2014,
+    "journal": "Patient Safety in Surgery",
+    "doi": "10.1186/1754-9493-8-27",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

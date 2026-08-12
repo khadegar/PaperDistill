@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12182742",
+  "paper_id": "doi:10.2147/tcrm.s521755",
+  "pmcid": "PMC12182742",
+  "source_record_sha256": "3adf59d369c91e42e188cba772a0226ff51bf0b3c45a7cf311aa0498b43b8b54",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9801b78dbe7351f9147bd059017778211910bfb011a06ef76d101b620ef65a43",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "AI-Assisted 3D Planning of CT Parameters for Personalized Femoral Prosthesis Selection in Total Hip Arthroplasty",
+    "authors": "Yang TJ, Qian W.",
+    "year": 2025,
+    "journal": "Therapeutics and Clinical Risk Management",
+    "doi": "10.2147/tcrm.s521755",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

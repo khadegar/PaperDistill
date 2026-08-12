@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11469182",
+  "paper_id": "doi:10.1002/adhm.202300128",
+  "pmcid": "PMC11469182",
+  "source_record_sha256": "634f4da656b74d4f491404e5d8e8c97146f63ed999ebc7747974b76a1a67ace1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "82c90bc3982be3d35a5beaa6ad7c77073d7f7905fed80968ca08390d09646c96",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Regeneration of Critical‐Sized Mandibular Defects Using 3D‐Printed Composite Scaffolds: A Quantitative Evaluation of New Bone Formation in In Vivo Studies",
+    "authors": "Dalfino S, Savadori P, Piazzoni M, Connelly ST, Giannì AB, Del Fabbro M, Tartaglia GM, Moroni L.",
+    "year": 2023,
+    "journal": "Advanced Healthcare Materials",
+    "doi": "10.1002/adhm.202300128",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

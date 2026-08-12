@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10166339",
+  "paper_id": "doi:10.1097/oi9.0000000000000256",
+  "pmcid": "PMC10166339",
+  "source_record_sha256": "5bc703f1c781c7443f7826be7633bf3d89a80ec69e78a06c99acbb89a6a18189",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6128a7075caedc357c8e889db5ea6abbd076232a894868b838af7619f420266f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparing the volume of vascular intersection of two femoral neck fracture fixation implants using an In silico technique",
+    "authors": "Putnam MD, Rau A, Frohbergh M, Ong K, Bushelow M, Blauth M.",
+    "year": 2023,
+    "journal": "OTA International",
+    "doi": "10.1097/oi9.0000000000000256",
+    "publication_type": "other; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

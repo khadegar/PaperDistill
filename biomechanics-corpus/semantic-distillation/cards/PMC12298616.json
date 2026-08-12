@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12298616",
+  "paper_id": "doi:10.3390/ma18143420",
+  "pmcid": "PMC12298616",
+  "source_record_sha256": "9991b2a8e8d992215631b3b9d2d5cf67ae03562da8c6e905778bb9f4dc2a3998",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8773188936d1bfd380431913709aff6273899db720471602a959981c67574bc4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fatigue Resistance of Customized Implant-Supported Restorations",
+    "authors": "Lenz U, Dos Santos RB, Satpathy M, Griggs JA, Della Bona A.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18143420",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

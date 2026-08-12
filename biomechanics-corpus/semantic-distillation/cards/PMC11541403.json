@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11541403",
+  "paper_id": "doi:10.1007/s11548-024-03206-y",
+  "pmcid": "PMC11541403",
+  "source_record_sha256": "7241181a6bd4405add4b97f0dfefe2ae3b6381008410913bb3d0bd09a6fd572a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e60162a96110442df1ae5e150598f5a35d67573df038e7c8118f1658732a8846",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Computer-aided design and fabrication of nasal prostheses: a semi-automated algorithm using statistical shape modeling",
+    "authors": "Bannink T, de Ridder M, Bouman S, van Alphen MJA, van Veen RLP, van den Brekel MWM, Karakullukçu MB.",
+    "year": 2024,
+    "journal": "International Journal of Computer Assisted Radiology and Surgery",
+    "doi": "10.1007/s11548-024-03206-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12927539",
+  "paper_id": "doi:10.1002/cnm.70143",
+  "pmcid": "PMC12927539",
+  "source_record_sha256": "fe77998ba8c0a396b64274ba6de87d61367ee67f2fda3a6ea76976184b90ada0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8b00a0a9fa6387f980546df63d3d5d704904a6fa34bf73d5c93e9e298a6ce260",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reducing Complexity in Muscle‐Tendon Kinematics Parameterization Improves Convergence Speed in Musculoskeletal Simulations",
+    "authors": "Harba M, Badia J, Serrancolí G.",
+    "year": 2026,
+    "journal": "International Journal for Numerical Methods in Biomedical Engineering",
+    "doi": "10.1002/cnm.70143",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

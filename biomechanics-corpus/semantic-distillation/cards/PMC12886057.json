@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12886057",
+  "paper_id": "doi:10.1016/j.ocarto.2026.100750",
+  "pmcid": "PMC12886057",
+  "source_record_sha256": "c536d0c770d1d18b1706b24ad53f9d43ec88568427f867f633e4475639d0b807",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "88fe3541df3313058ee608c5ccefc0d6bf4e57772a99e55edd6fd997740046b3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A small lipidated peptide targeting Na V 1.8 channels attenuates osteoarthritic pain behavior and prevents bone erosion",
+    "authors": "Rodriguez R, Bhattacharjee A.",
+    "year": 2026,
+    "journal": "Osteoarthritis and Cartilage Open",
+    "doi": "10.1016/j.ocarto.2026.100750",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

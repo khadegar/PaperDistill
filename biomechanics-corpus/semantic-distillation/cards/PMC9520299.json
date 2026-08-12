@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9520299",
+  "paper_id": "doi:10.3389/fbioe.2022.1011482",
+  "pmcid": "PMC9520299",
+  "source_record_sha256": "475fc77ba28bbd11efeb6f9dc0ac15e77891551d4532d1425aceb8f2e3aa4f99",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "891428d41ff3174fd7df33cf241fdc679ff8a626be9fc564b307e744cd24f2e8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Strontium-doping promotes bone bonding of titanium implants in osteoporotic microenvironment",
+    "authors": "Geng T, Wang Y, Lin K, Zhang C, Wang J, Liu Y, Yuan C, Wang P.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1011482",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

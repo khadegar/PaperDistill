@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8468468",
+  "paper_id": "doi:10.3390/ma14185425",
+  "pmcid": "PMC8468468",
+  "source_record_sha256": "fc66a0160b8dd2d45d9da3e07e8538bdbc9318f831c18114f24eeeb89a987991",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "26ede7caced4a509c1d2fcab888874937431db9cb706537cc43cf66be3e00ada",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Selective Laser Melting of Hydroxyapatite: Perspectives for 3D Printing of Bioresorbable Ceramic Implants",
+    "authors": "Bulina NV, Baev SG, Makarova SV, Vorobyev AM, Titkov AI, Bessmeltsev VP, Lyakhov NZ.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14185425",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC2100040",
+  "paper_id": "doi:10.1186/1471-2474-8-91",
+  "pmcid": "PMC2100040",
+  "source_record_sha256": "be61108007e414a0e217d0d4f88b57b1043a495ae8a15339bf332cf3dfcfb9be",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b3ce194f9d12e364d99e17ff95beabb367c7e6184bbd9ea3161409a23960e816",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Custom-designed orthopedic implants evaluated using finite element analysis of patient-specific computed tomography data: femoral-component case study",
+    "authors": "Harrysson OL, Hosni YA, Nayfeh JF.",
+    "year": 2007,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/1471-2474-8-91",
+    "publication_type": "research-article; Evaluation Study; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

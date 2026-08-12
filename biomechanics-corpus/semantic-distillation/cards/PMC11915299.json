@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11915299",
+  "paper_id": "doi:10.1177/11795972251321307",
+  "pmcid": "PMC11915299",
+  "source_record_sha256": "b45513a41f3888f901f1dbbef8416ab9d5819965f87faadcd444576b2e2739dc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b869a3197eae0d77000e4ed1d433e526f634b0565310c9a727ec096505d111ae",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Evaluation of Cervical Interbody Fusion Cages for Anterior Cervical Discectomy and Fusion With Variations in Morphology: A Finite Element Analysis",
+    "authors": "Manickam PS, Dhason R, Bock R, Bal S, Roy S, Datta S.",
+    "year": 2025,
+    "journal": "Biomedical Engineering and Computational Biology",
+    "doi": "10.1177/11795972251321307",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

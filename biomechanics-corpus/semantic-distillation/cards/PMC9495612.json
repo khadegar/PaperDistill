@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9495612",
+  "paper_id": "doi:10.3389/fbioe.2022.978917",
+  "pmcid": "PMC9495612",
+  "source_record_sha256": "2b19f961152ac114fa018146aae4c03769bde9a8f48966a35cc19072b93f86ec",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "183bcf740c7104e972f471c5ba10bbdaa9f6066e76eba8e8638a698d58de5978",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical comparison between unilateral and bilateral percutaneous vertebroplasty for osteoporotic vertebral compression fractures: A finite element analysis",
+    "authors": "Dai H, Liu Y, Han Q, Zhang A, Chen H, Qu Y, Wang J, Zhao J.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.978917",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

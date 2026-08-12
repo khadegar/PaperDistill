@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10177115",
+  "paper_id": "doi:10.3390/cells12091289",
+  "pmcid": "PMC10177115",
+  "source_record_sha256": "1134f88be217d67fc3b64a2ff5e99652a4063eea3295b81a4962db78739e44f7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f32cf670ebf344c55a50097ac9bde0da8b534138c5fb1e622c24ca2867494892",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "One Stage Masquelets Technique: Evaluation of Different Forms of Membrane Filling with and without Bone Marrow Mononuclear Cells (BMC) in Large Femoral Bone Defects in Rats",
+    "authors": "Söhling N, Heilani M, Fremdling C, Schaible A, Schröder K, Brune JC, Eras V, Nau C, Marzi I, Henrich D, Verboket RD.",
+    "year": 2023,
+    "journal": "Cells",
+    "doi": "10.3390/cells12091289",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

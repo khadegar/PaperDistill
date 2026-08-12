@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12122989",
+  "paper_id": "doi:10.1007/s13770-025-00718-9",
+  "pmcid": "PMC12122989",
+  "source_record_sha256": "28ea234e4ec48407f088743e11c443da1900dedae9eb2cc6142e3c28829d7c1a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5efc3aae5fd0093921a5ce3ac1c2a3a7ab346efd8183bf2c2371449fdca5fc72",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Feasibility Assessment of 3D Printing-Based Tubular Tissue Flap in a Porcine Model for Long Segmental Tracheal Reconstruction",
+    "authors": "Park JH, Brown NE, Tucker SJ, Temenoff JS, El-Deiry M, Park HJ, Tkaczuk AT, Hollister SJ.",
+    "year": 2025,
+    "journal": "Tissue Engineering and Regenerative Medicine",
+    "doi": "10.1007/s13770-025-00718-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

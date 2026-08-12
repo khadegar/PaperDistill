@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7753250",
+  "paper_id": "doi:10.31661/jbpe.v0i0.2005-1123",
+  "pmcid": "PMC7753250",
+  "source_record_sha256": "a6a8a7d797a4c02ad0276775433f30c06c3b611a6b68565913285c30a2fcb144",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "da243eabf625f8b6d946de5dfd1aed6cea6df6af54958b5a64eafdaba0ff4e91",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative Evaluation of Carbon Reinforced Polyetherketone Acetabular Cup using Finite Element Analysis",
+    "authors": "A A, R N, G C.",
+    "year": 2020,
+    "journal": "Journal of Biomedical Physics & Engineering",
+    "doi": "10.31661/jbpe.v0i0.2005-1123",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

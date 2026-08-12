@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8943934",
+  "paper_id": "doi:10.1186/s12891-022-05168-1",
+  "pmcid": "PMC8943934",
+  "source_record_sha256": "82d8b376599cf2070c6d724b43d2ceeaadd396c437ddd3e5b27f1b09fd94153a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "524e36f68b205c24d1ce714dba41bc046c16e56c18b9e6978112e79df0422173",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical effect of metal augment and bone graft on cup stability for acetabular reconstruction of total hip arthroplasty in hip dysplasia: a finite element analysis",
+    "authors": "Wang Y, Wang M, Li C, Nakamura Y, Deng L, Yamako G, Chosa E, Pan C.",
+    "year": 2022,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-022-05168-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

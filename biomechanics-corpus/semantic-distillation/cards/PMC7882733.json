@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7882733",
+  "paper_id": "doi:10.3389/fphar.2020.620485",
+  "pmcid": "PMC7882733",
+  "source_record_sha256": "f8bf21338b72ac63652877e3e6ddee18b59fe7814c8a63747e3a898a46f6dd01",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2e7b3a487294a2aba8aa4bba3e24311f3c042f799d6d1ea728461707fe0570e3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modeling Complex Orthopedic Trauma in Rodents: Bone, Muscle and Nerve Injury and Healing",
+    "authors": "Shen H, Gardner AM, Vyas J, Ishida R, Tawfik VL.",
+    "year": 2021,
+    "journal": "Frontiers in Pharmacology",
+    "doi": "10.3389/fphar.2020.620485",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

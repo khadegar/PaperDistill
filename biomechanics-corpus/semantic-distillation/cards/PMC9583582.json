@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9583582",
+  "paper_id": "doi:10.1016/j.mtbio.2022.100458",
+  "pmcid": "PMC9583582",
+  "source_record_sha256": "c14af29bfcd4131aeb617035b4281c2a2e230d6349178d4600eea15f23abb57d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b24347393eadefca770b52c5ffb852c1de347d26f528e96a54c45a935aee8a66",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioinspired sandwich-like hybrid surface functionalized scaffold capable of regulating osteogenesis, angiogenesis, and osteoclastogenesis for robust bone regeneration",
+    "authors": "Wu M, Chen F, Liu H, Wu P, Yang Z, Zhang Z, Su J, Cai L, Zhang Y.",
+    "year": 2022,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2022.100458",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

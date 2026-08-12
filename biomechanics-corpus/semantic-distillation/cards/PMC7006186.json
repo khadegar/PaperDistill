@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7006186",
+  "paper_id": "doi:10.1186/s13018-019-1489-y",
+  "pmcid": "PMC7006186",
+  "source_record_sha256": "16c818945e405dfa5b3a5a6ffbf3839122b48be01a469700ef42aabfa4345434",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "12348095ac52ba673df02dbf45e2f52b4b83091ac6caa9e480201d8d06a2d8cc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical behavior of a titanium alloy scaffold mimicking trabecular structure",
+    "authors": "Zhang C, Zhang L, Liu L, Lv L, Gao L, Liu N, Wang X, Ye J.",
+    "year": 2020,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-019-1489-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

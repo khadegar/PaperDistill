@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9775039",
+  "paper_id": "doi:10.3390/biom12121738",
+  "pmcid": "PMC9775039",
+  "source_record_sha256": "b2dfff1984b49b16c3a420064207940b65f011b06ef52a57265230394f27f1a6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "aa4b9a8b37f74cbfc0ba66c16b12c7c2b541f5d16d74c4a4f6f5688e06ae8993",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Histological and Immunohistochemical Analysis of the Effects of Topical Melatonin Treatment Associated with Collagen Sponge and rhBMP-2 Protein on Bone Remodeling",
+    "authors": "Montarele LF, Pitol DL, Pereira BF, Feldman S, Fazan VPS, Issa JPM.",
+    "year": 2022,
+    "journal": "Biomolecules",
+    "doi": "10.3390/biom12121738",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

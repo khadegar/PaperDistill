@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11613615",
+  "paper_id": "doi:10.1186/s13018-024-05304-8",
+  "pmcid": "PMC11613615",
+  "source_record_sha256": "05a90aa455554a04a15376fb569df4596a394d1f194b57a24bdbba84cf27b760",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d96239105a7be9441fe5da753a919fa086189730903558ccfb556ebd1cfe46d5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanisms of tendon-bone interface healing: biomechanics, cell mechanics, and tissue engineering approaches",
+    "authors": "Xu Z, Xu W, Zhang T, Luo L.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-05304-8",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

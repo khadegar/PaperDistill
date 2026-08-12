@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13027549",
+  "paper_id": "doi:10.3390/jfb17030143",
+  "pmcid": "PMC13027549",
+  "source_record_sha256": "c4cee8c83cd7b636a7714a9c62d70218aac88080d93ecc03f991a43d64ed795e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9633683074d602fa90f3ff3bc85a8822d822bde1a8283d2f97a132812e6efb20",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Printing of a Spinal Interbody: Design Principles, Biomaterials, and Translational Considerations",
+    "authors": "Garg S, Young P, Franquemont C, Conley R, Gill S.",
+    "year": 2026,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb17030143",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

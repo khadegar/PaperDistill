@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9699973",
+  "paper_id": "doi:10.1016/j.heliyon.2022.e11701",
+  "pmcid": "PMC9699973",
+  "source_record_sha256": "dd57f1bc1962d20aa1c335ec3f5b884f0cd79b1df173b2fae0efd2a065c56aa0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "972e05f8b14a8ab094b26e4eb5a3c1139bb946be4d698ac7e5490ccd651ba2bb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of fused deposition modeling (FDM) on bone scaffold manufacturing process: A review",
+    "authors": "Winarso R, Anggoro PW, Ismail R, Jamari J, Bayuseno AP.",
+    "year": 2022,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2022.e11701",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

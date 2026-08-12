@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7865467",
+  "paper_id": "doi:10.3390/ijms22031128",
+  "pmcid": "PMC7865467",
+  "source_record_sha256": "f5c01229ab725c3ec5e868cdc27c442647a3728754b8a3403da083519d2d84c8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1a0cb2d2214f1ddb4729ea88d121bcc7f6a7312b574f22e408e65f4d1517aac0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Strategies for Bone Regeneration: From Graft to Tissue Engineering",
+    "authors": "Battafarano G, Rossi M, De Martino V, Marampon F, Borro L, Secinaro A, Del Fattore A.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms22031128",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

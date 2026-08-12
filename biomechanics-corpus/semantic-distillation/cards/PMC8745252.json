@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8745252",
+  "paper_id": "doi:10.3390/ijms23010539",
+  "pmcid": "PMC8745252",
+  "source_record_sha256": "3054f42d52eb4d07b003b2dc1aaba8e21451bf8000b664662f0b3dab9c20d41a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "014d816ba56f75202dccf86eb474856eff17f932e4552e370f9ebbd1b6063ad2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Bioprinting of Gelatin–Xanthan Gum Composite Hydrogels for Growth of Human Skin Cells",
+    "authors": "Piola B, Sabbatini M, Gino S, Invernizzi M, Renò F.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms23010539",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

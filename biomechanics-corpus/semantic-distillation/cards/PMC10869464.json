@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10869464",
+  "paper_id": "doi:10.3389/fbioe.2024.1356412",
+  "pmcid": "PMC10869464",
+  "source_record_sha256": "5a89ffb537b19e08a5d9f316b76a66cfa9d0ab409bb29bcd19809f81e9539857",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8e99bbc6dc841e03cf5d8b2adba0684f1159fb027e7f434964b141a72b4aa128",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluate the effects of low-intensity pulsed ultrasound on dental implant osseointegration under type II diabetes",
+    "authors": "Wang Y, Cao X, Shen Y, Zhong Q, Wu Z, Wu Y, Weng W, Xu C.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1356412",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

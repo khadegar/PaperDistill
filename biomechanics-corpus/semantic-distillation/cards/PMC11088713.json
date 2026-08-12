@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11088713",
+  "paper_id": "doi:10.7759/cureus.58078",
+  "pmcid": "PMC11088713",
+  "source_record_sha256": "2b54e94e2781e705df857361fa96cd779cd9d1197cf2b1dd82f350c8033e180a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cc876e99fd12d9a54ed6a8a7afa41a824f7eee05e62819caea7fe37b08a0ae31",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effectiveness of Proximal Femur Nail in the Management of Unstable Per-Trochanteric Fractures: A Retrospective Cohort Study",
+    "authors": "Rashid RH, Zahid M, Mariam F, Ali M, Moiz H, Mohib Y.",
+    "year": 2024,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.58078",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

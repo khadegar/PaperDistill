@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5742337",
+  "paper_id": "doi:10.1007/s10266-017-0296-3",
+  "pmcid": "PMC5742337",
+  "source_record_sha256": "42107f7478a1fa3f14338fa0a2a717278bd52fbda7b08f3c99c180e548c5b80e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3f4f5cb1d9562dc438c8da7f0b9e7ec94021db0b9ac405868a57950904d28864",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A comparative study of the bone contact to zirconium and titanium implants after 8 weeks of implantation in rabbit femoral condyles",
+    "authors": "AlFarraj AA, Sukumaran A, Al Amri MD, Van Oirschot AB, Jansen JA.",
+    "year": 2017,
+    "journal": "Odontology",
+    "doi": "10.1007/s10266-017-0296-3",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

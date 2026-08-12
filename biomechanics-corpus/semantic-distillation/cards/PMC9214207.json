@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9214207",
+  "paper_id": "doi:10.3389/fbioe.2022.910475",
+  "pmcid": "PMC9214207",
+  "source_record_sha256": "7dd0398f5e5e723bde2f524301761d83940c9a9068356b41905bb0c8e988e32e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ee7682419f0ba4860afec9ac26ad5e311d926cad39c6a12f3e0fda5f97974d84",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Pore Strategy Design of a Novel NiTi-Nb Biomedical Porous Scaffold Based on a Triply Periodic Minimal Surface",
+    "authors": "Lv Y, Liu G, Wang B, Tang Y, Lin Z, Liu J, Wei G, Wang L.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.910475",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

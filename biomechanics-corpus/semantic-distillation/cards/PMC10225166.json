@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10225166",
+  "paper_id": "doi:10.7759/cureus.38257",
+  "pmcid": "PMC10225166",
+  "source_record_sha256": "da2da4f74fddfd95b6131547b6b67d0bc278abdf1f03d48e95ad07a8cb87d1f9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "831a824368752638e62d56270c02738ee246eb757e269770097a31bd87af3caa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of Acetabular Screws on the Initial Stability of Porous Coated Acetabular Implants in Revision Total Hip Arthroplasty",
+    "authors": "Kaplan NB, Barra MF, Jubril A, Knapp E, Awad H, Ginnetti J.",
+    "year": 2023,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.38257",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

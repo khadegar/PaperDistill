@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11874660",
+  "paper_id": "doi:10.1186/s12951-025-03222-3",
+  "pmcid": "PMC11874660",
+  "source_record_sha256": "fc5206168e8bea82f7a6b6231b2ee04f7f94068caffb771bbaa088683b30f9fa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d92f96116f326e734b5958c6486c933e9fb5191895b181f4ec04279ce20ef2e3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed porous magnesium metal scaffolds with bioactive coating for bone defect repair: enhancing angiogenesis and osteogenesis",
+    "authors": "Ye J, Miao B, Xiong Y, Guan Y, Lu Y, Jia Z, Wu Y, Sun X, Guan C, He R, Xiong X, Jia H, Jiang H, Liu Z, Zhang Y, Wei Y, Lin W, Wang A, Wang Y, Meng H, Xu W, Yuan G, Peng J.",
+    "year": 2025,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-025-03222-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

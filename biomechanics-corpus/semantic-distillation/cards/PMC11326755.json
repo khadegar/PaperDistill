@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11326755",
+  "paper_id": "doi:10.7759/cureus.64638",
+  "pmcid": "PMC11326755",
+  "source_record_sha256": "130d224733400cc2af41e907438cfb7afb931e4ffad57ff17d1d9c8b1e25bd6e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bdbb8bcf953abef774605f7b82b2ce1e229a856e6465ec113ca7efa2fb344284",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Total Hip Replacement and Femoral Nail Lengthening for Hip Dysplasia and Limb Length Discrepancy: A Literature Review",
+    "authors": "Athanasiou V, Papagiannis S, Antzoulas P, Papathanidis V, Stavropoulos T, Charalampous-Kefalas C, Bitas V.",
+    "year": 2024,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.64638",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

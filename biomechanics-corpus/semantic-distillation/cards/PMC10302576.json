@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10302576",
+  "paper_id": "doi:10.3390/ma16124372",
+  "pmcid": "PMC10302576",
+  "source_record_sha256": "484aad91defceb31b1dd9b52df5434199e810f777edabbac2f7ce7ee830680de",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1914264c45860d9893c9c2ce9b5372beb023c7132fcdce19b6e77ae267e86669",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design of Ti64/Ta Hybrid Materials by Powder Metallurgy Mimicking Bone Structure",
+    "authors": "Alvarado-Hernández F, Mihalcea E, Jimenez O, Macías R, Olmos L, López-Baltazar EA, Guevara-Martinez S, Lemus-Ruiz J.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16124372",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

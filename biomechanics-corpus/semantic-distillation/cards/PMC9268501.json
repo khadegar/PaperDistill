@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9268501",
+  "paper_id": "doi:10.3390/nano12132190",
+  "pmcid": "PMC9268501",
+  "source_record_sha256": "c91190ccb5e2f1b1d3832a0f1f8a29f53b3bc1b447b84fcc3f1414cacd906919",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "708502d77f643f1465d3d2c42e9bea0b273ad9f758e81f972a7c2bb9a77c47e3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Alginate-Lysozyme Nanofibers Hydrogels with Improved Rheological Behavior, Printability and Biological Properties for 3D Bioprinting Applications",
+    "authors": "Teixeira MC, Lameirinhas NS, Carvalho JPF, Valente BFA, Luís J, Pires L, Oliveira H, Oliveira M, Silvestre AJD, Vilela C, Freire CSR.",
+    "year": 2022,
+    "journal": "Nanomaterials",
+    "doi": "10.3390/nano12132190",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

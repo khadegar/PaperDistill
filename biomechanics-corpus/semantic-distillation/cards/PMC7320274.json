@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7320274",
+  "paper_id": "doi:10.1155/2020/8707389",
+  "pmcid": "PMC7320274",
+  "source_record_sha256": "ee4eeecf91d87167dec98d2a2a2f8f7b49f2eed80b245861ab746d7616adcc7f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bc39d7c69a633cd6dd468db27f9b400769fdb1020dd90b81d12883fab88b8a22",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigation of a Modified Novel Technique in Bilateral Sagittal Splitting Osteotomy Fixation: Finite Element Analysis and In Vitro Biomechanical Test",
+    "authors": "Chang LR, Chen CC, Jeng SF, Chen YR, Hwang LC, Lin TS.",
+    "year": 2020,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2020/8707389",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8182627",
+  "paper_id": "doi:10.1177/09636897211021003",
+  "pmcid": "PMC8182627",
+  "source_record_sha256": "623bc66bbfdf0c29c642512229a73bc07c584cd1c194eb240c2a90bbb7c06599",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4753237a261e6c56d06f6ba2d2a67b55eb3b9cac88e90a6be3a08dd6405f35de",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro Characterization of Poly(Lactic Acid)/ Poly(Hydroxybutyrate)/ Thermoplastic Starch Blends for Tissue Engineering Application",
+    "authors": "Culenova M, Birova I, Alexy P, Galfyova P, Nicodemou A, Moncmanova B, Plavec R, Tomanova K, Mencik P, Ziaran S, Danisovic L.",
+    "year": 2021,
+    "journal": "Cell Transplantation",
+    "doi": "10.1177/09636897211021003",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

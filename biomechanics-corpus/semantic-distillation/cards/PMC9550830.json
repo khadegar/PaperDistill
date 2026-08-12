@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9550830",
+  "paper_id": "doi:10.1038/s41598-022-21013-w",
+  "pmcid": "PMC9550830",
+  "source_record_sha256": "c9b83412238fe20d4672670711006d7f526aaff55323fc61fa5b85049c013aca",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a5eab7a4411f87516538746e4634ee0fd745f8e72217e68e15b9dc4a90f5fbaa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Inclusion of calcium phosphate does not further improve in vitro and in vivo osteogenesis in a novel, highly biocompatible, mechanically stable and 3D printable polymer",
+    "authors": "Owji N, Mandakhbayar N, Cha JR, Padalhin AR, Erdogan ZK, Aldaadaa A, Shakouri T, Sawadkar P, Frost O, Kim HW, García-Gareta E, Knowles JC.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-21013-w",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

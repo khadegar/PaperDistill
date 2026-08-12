@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10229860",
+  "paper_id": "doi:10.3389/fbioe.2023.1176818",
+  "pmcid": "PMC10229860",
+  "source_record_sha256": "550118d0713618a4f2d46b5b215c914ce9cdd3a9a876dbc569789f93a8abdac9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b03759eaaa003635a07fe2c27f90ae34bb67012cc69c4eea8da28c0930d54278",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Can we reposition finite element human body model like dummies?",
+    "authors": "Tang J, Zhou Q, Shen W, Chen W, Tan P.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1176818",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

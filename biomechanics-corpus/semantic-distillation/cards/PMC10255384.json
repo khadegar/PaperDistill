@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10255384",
+  "paper_id": "doi:10.3390/polym15112572",
+  "pmcid": "PMC10255384",
+  "source_record_sha256": "b32d6678b090cefeb05ceee5d018a0d9f492cfaf836eeb042fd32b8267a6feef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2bb2ce2e2eca4823bd6efc11d3e582724c78cf4ce54cdd616489e738ab05e14b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printable PLA/Mg Composite Filaments for Potential Bone Tissue Engineering Applications",
+    "authors": "Kalva SN, Ali F, Velasquez CA, Koç M.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15112572",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

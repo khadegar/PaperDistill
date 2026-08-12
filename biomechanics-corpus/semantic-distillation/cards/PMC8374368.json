@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8374368",
+  "paper_id": "doi:10.1016/j.mex.2021.101352",
+  "pmcid": "PMC8374368",
+  "source_record_sha256": "c39a1e51da8304da7cf318803b5aa444817a1d5483762e84950df09079495ceb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3fe983340978693d4b4aaf31e24c1063b00c55615d30ae79ed33b5c1e04d22cb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Considerations on the animal model and the biomechanical test arrangements for assessing the osseous integration of orthopedic and dental implants",
+    "authors": "Frosch S, Buchhorn GH.",
+    "year": 2021,
+    "journal": "MethodsX",
+    "doi": "10.1016/j.mex.2021.101352",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

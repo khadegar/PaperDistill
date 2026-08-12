@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8510093",
+  "paper_id": "doi:10.3390/ma14195791",
+  "pmcid": "PMC8510093",
+  "source_record_sha256": "cde471b5ffcd908e04a3721d18f009233936c18308fb52c7a0423881cb20ecc6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f66e66b491b6dec63c507c807dd6111102c0785072c50e112379f63caf0b7553",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "MDCT-Based Finite Element Analysis for the Prediction of Functional Spine Unit Strength—An In Vitro Study",
+    "authors": "Rayudu NM, Baum T, Kirschke JS, Subburaj K.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14195791",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

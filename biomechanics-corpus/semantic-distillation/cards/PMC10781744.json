@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10781744",
+  "paper_id": "doi:10.1038/s41598-023-50255-5",
+  "pmcid": "PMC10781744",
+  "source_record_sha256": "8d838ad9cf8e67ddc25e0a3006268b23380fe69ccae1f28ecd794024323633dc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "467a5dad75fd84ddcc27c80306d0712124528d8f669db5332c6a4ccb69678de9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Micro-CT imaging and finite element models reveal how sintering temperature affects the microstructure and strength of bioactive glass-derived scaffolds",
+    "authors": "De Cet A, D'Andrea L, Gastaldi D, Baino F, Verné E, Örlygsson G, Vena P.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-023-50255-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

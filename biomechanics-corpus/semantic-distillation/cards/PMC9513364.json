@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9513364",
+  "paper_id": "doi:10.3389/fbioe.2022.983695",
+  "pmcid": "PMC9513364",
+  "source_record_sha256": "bc7cd46aadc562e0ca3581c31e857bf92d69ba05b743b6443ccc73dcbe7e6f40",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5cde19232d8b3e11573affc3fb5f3c8a8b1575c05fc7c46d28bcf72fde4be616",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advances in surface modification of tantalum and porous tantalum for rapid osseointegration: A thematic review",
+    "authors": "Wang X, Liu W, Yu X, Wang B, Xu Y, Yan X, Zhang X.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.983695",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

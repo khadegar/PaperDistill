@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6447520",
+  "paper_id": "doi:10.1007/s00113-019-0626-8",
+  "pmcid": "PMC6447520",
+  "source_record_sha256": "3bc9a8ee58ae863918082ae2fdde632a0dcc11f3a2866afa566398cae07423e4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b5516fc42f8f9e7a5a0e402bc31365783ac60856eb4cf1c99654495d46cb745c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surgical applications of three-dimensional printing in the pelvis and acetabulum: from models and tools to implants",
+    "authors": "Fang C, Cai H, Kuong E, Chui E, Siu YC, Ji T, Drstvenšek I.",
+    "year": 2019,
+    "journal": "Der Unfallchirurg",
+    "doi": "10.1007/s00113-019-0626-8",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

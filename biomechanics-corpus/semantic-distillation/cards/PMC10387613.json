@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10387613",
+  "paper_id": "doi:10.1016/j.mtbio.2023.100719",
+  "pmcid": "PMC10387613",
+  "source_record_sha256": "fd3c6605a14dde38b1d765f7eb0b4c44dfa85033c4ad73d6ddf5b25a4e56dc4a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "869a43d36af6e8042628d030c4c537ee2b16e26a67d87bc88a243463e5f75269",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing of piezoelectric and bioactive barium titanate-bioactive glass scaffolds for bone tissue engineering",
+    "authors": "Polley C, Distler T, Scheufler C, Detsch R, Lund H, Springer A, Schneidereit D, Friedrich O, Boccaccini AR, Seitz H.",
+    "year": 2023,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2023.100719",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8706922",
+  "paper_id": "doi:10.3390/ijms222413676",
+  "pmcid": "PMC8706922",
+  "source_record_sha256": "f94ba2ab749b695fc054adc6fda4b19bb952eab98cd0893dbf7c7b5096466d46",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e03f7e2e14abdb73ea5c3f3e226c66642446c8aefa6fcbd67b6f17437be6da0a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed SiOC(N) Ceramic Scaffolds for Bone Tissue Regeneration: Improved Osteogenic Differentiation of Human Bone Marrow-Derived Mesenchymal Stem Cells",
+    "authors": "Yang Y, Kulkarni A, Soraru GD, Pearce JM, Motta A.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms222413676",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

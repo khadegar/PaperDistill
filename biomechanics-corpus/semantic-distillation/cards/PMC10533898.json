@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10533898",
+  "paper_id": "doi:10.1038/s41598-023-43183-x",
+  "pmcid": "PMC10533898",
+  "source_record_sha256": "da5eb6d600c8eae4a1725a118a068f39d583800a64446b489b3c4e90cbfec869",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "00571c7f0646044f0c58c7a8c3347bf4372168795513beaa316b76cbb4943c2d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical performance evaluation of a modified proximal humerus locking plate for distal humerus shaft fracture using finite element analysis",
+    "authors": "Lee JS, Kim KG, Yoon YC.",
+    "year": 2023,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-023-43183-x",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

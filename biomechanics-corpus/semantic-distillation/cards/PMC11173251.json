@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11173251",
+  "paper_id": "doi:10.3390/ma17112533",
+  "pmcid": "PMC11173251",
+  "source_record_sha256": "d33f8484f25ccf54fe3ef083f95b17775a0451ae945d09777b5ba8a05991bf8a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fdc757c6f810ac1529a980cca33e3b3ae92c31fcde92a9a7572cfe423189ebf5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "TPMS Microarchitectures for Vertical Bone Augmentation and Osteoconduction: An In Vivo Study",
+    "authors": "Maevskaia E, Ghayor C, Bhattacharya I, Guerrero J, Weber FE.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17112533",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

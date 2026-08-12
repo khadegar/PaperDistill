@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12226590",
+  "paper_id": "doi:10.3389/fbioe.2025.1532207",
+  "pmcid": "PMC12226590",
+  "source_record_sha256": "dd6187a06b6001864f6e0c6c087df8e2f596722c5ea9257e964f8e4a28a90557",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dcf026906b120251125baf53c9f9c83ba066662d867c28a73868c02815b9b643",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A finite element study for tibial fractures: analyze the biomechanical condition of the tibial fracture area to provide guidance for subsequent treatment",
+    "authors": "Zhang KR, Luo B, Tu J, Li YQ, Wen J, Shen CY, Jia XH, Deng Y, Ma LT, Yang Y.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1532207",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

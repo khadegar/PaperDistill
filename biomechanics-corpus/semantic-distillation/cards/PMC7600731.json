@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7600731",
+  "paper_id": "doi:10.3390/nano10101986",
+  "pmcid": "PMC7600731",
+  "source_record_sha256": "f522d502299ea4111f0590dcded78220b7f5ef097cd8998c9b9ad4b356e787b0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c8357696a6bd687300de281ba3fe213798bad4bfb0ba9a32f03bc4a6306f0b10",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Information-Driven Design as a Potential Approach for 3D Printing of Skeletal Muscle Biomimetic Scaffolds",
+    "authors": "Baiguera S, Del Gaudio C, Carotenuto F, Di Nardo P, Teodori L.",
+    "year": 2020,
+    "journal": "Nanomaterials",
+    "doi": "10.3390/nano10101986",
+    "publication_type": "other; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

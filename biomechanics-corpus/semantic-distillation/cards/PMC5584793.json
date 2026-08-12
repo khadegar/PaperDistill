@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5584793",
+  "paper_id": "doi:10.1371/journal.pone.0183755",
+  "pmcid": "PMC5584793",
+  "source_record_sha256": "59eaf6821e2cb3d908abec8843c8f78bc154dc1476efff6094346a26ad19560d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "36ce1c1adb2724dec9372a953689aff5406d35943367ebbba768910681f92c04",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Machine learning techniques for the optimization of joint replacements: Application to a short-stem hip implant",
+    "authors": "Cilla M, Borgiani E, Martínez J, Duda GN, Checa S.",
+    "year": 2017,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0183755",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational"
+    ]
+  },
+  "status": "blank"
+}

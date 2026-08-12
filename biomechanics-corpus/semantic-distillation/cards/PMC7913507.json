@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7913507",
+  "paper_id": "doi:10.3390/ma14040712",
+  "pmcid": "PMC7913507",
+  "source_record_sha256": "27a8a707ae47eb6ec6a36fc24c321f10bbccfa56b37b31a0fcea1829ed5af5f7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c4bbd63822f2dbd5b598362342478fa6a0855573b71e32107536ae4904767e88",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Structural and Material Determinants Influencing the Behavior of Porous Ti and Its Alloys Made by Additive Manufacturing Techniques for Biomedical Applications",
+    "authors": "Dziaduszewska M, Zieliński A.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14040712",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

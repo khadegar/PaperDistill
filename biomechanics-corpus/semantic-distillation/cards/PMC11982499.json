@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11982499",
+  "paper_id": "doi:10.1016/j.isci.2025.112193",
+  "pmcid": "PMC11982499",
+  "source_record_sha256": "4cd6103186199b98b89f7bf579ecce460d7d00183d73bd9fa4d0d5870a0e06e5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c44356f167f7e43a93c55a2a8a3445df49587f39fc0e10049a1ff7a7fc2b30da",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Spinal implant wear particles: Generation, characterization, biological impacts, and future considerations",
+    "authors": "Ganko R, Madhavan A, Hamouda W, Muthu S, Jain A, Yoon ST, El-Rozz H, Cyril D, Pabbruwe M, Tipper JL, Tavakoli J.",
+    "year": 2025,
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2025.112193",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

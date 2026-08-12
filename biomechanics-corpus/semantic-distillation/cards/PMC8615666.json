@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8615666",
+  "paper_id": "doi:10.3390/biomedicines9111553",
+  "pmcid": "PMC8615666",
+  "source_record_sha256": "39174674a9b71cfca7b5bd1c084ac1928ad05c28c8d137d52274a626e2d90064",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "eb8e963426b48a7d0bf3f63ba2fff0cabc3d1678f0a382d84d077c7b0f2fac96",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Challenge of 3D Bioprinting of Composite Natural Polymers PLA/Bioglass: Trends and Benefits in Cleft Palate Surgery",
+    "authors": "Brézulier D, Chaigneau L, Jeanne S, Lebullenger R.",
+    "year": 2021,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines9111553",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

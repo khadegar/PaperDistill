@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13111777",
+  "paper_id": "doi:10.1002/jper.70003",
+  "pmcid": "PMC13111777",
+  "source_record_sha256": "2f491d6c8297984c32740af5a054e71404501b1e229bc2408386c88b483ad687",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f630c95e8f5046967e5f3423a78a4d65d5c92e4f744fb291bfdfff7c34b24cb8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Titanium migration and bone response in loaded osseointegrated implants: ESEM‐EDX analysis in Macaca fascicularis",
+    "authors": "Zamparini F, Spinelli A, Gandolfi MG, Chersoni S, Tarsitano A, Badiali G, Toh CG, Prati C, Romanos G.",
+    "year": 2025,
+    "journal": "Journal of Periodontology",
+    "doi": "10.1002/jper.70003",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

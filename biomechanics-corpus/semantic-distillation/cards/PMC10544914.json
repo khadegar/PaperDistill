@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10544914",
+  "paper_id": "doi:10.3389/fbioe.2023.1268049",
+  "pmcid": "PMC10544914",
+  "source_record_sha256": "dbed8efaa62ae1fd3e80e088c3f71819c73b48fd1fbf3ed924ec9718fc2a3290",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d69904922718efe58ed444da3650ef017ae554ef7d2c5965cd11eaf7db6a0d23",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Extrusion-based 3D printing of osteoinductive scaffolds with a spongiosa-inspired structure",
+    "authors": "Kühl J, Gorb S, Kern M, Klüter T, Kühl S, Seekamp A, Fuchs S.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1268049",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

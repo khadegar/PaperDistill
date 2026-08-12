@@ -1,0 +1,334 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12883651",
+  "paper_id": "doi:10.3389/fsurg.2026.1705131",
+  "pmcid": "PMC12883651",
+  "source_record_sha256": "0863cb5f25a80bf669523e5b0dcfa225c2910ebdc5c42ec0ff60b2bfeba45946",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T11:25:10Z",
+    "packet_sha256": "aef900d94b92e63ace4ff008f130f029c598828b43358cb2bef9a72312df76bd",
+    "section_locators_read": [
+      "S001:C01",
+      "S001:C02",
+      "S002:C01",
+      "S002:C02",
+      "S003:C01",
+      "S003:C02",
+      "S004:C01",
+      "S004:C02",
+      "S005:C01",
+      "S005:C02",
+      "S006:C01",
+      "S007:C01",
+      "S007:C02",
+      "S007:C03",
+      "S007:C04",
+      "S008:C01",
+      "S009:C01",
+      "S009:C02",
+      "S010:C01",
+      "S011:C01",
+      "S012:C01",
+      "S013:C01",
+      "S013:C02",
+      "S014:C01",
+      "S014:C02",
+      "S015:C01",
+      "S016:C01",
+      "S016:C02",
+      "S016:C03",
+      "S016:C04",
+      "S016:C05",
+      "S016:C06",
+      "S016:C07",
+      "S017:C01",
+      "S018:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Combining 3D printing technology with customized metal plates for the treatment of long segment femoral shaft comminuted fractures",
+    "authors": "Xu R, Liang Y, Liu H, Li J, Zhou X, Sun M, Tu H, Zhang Z, Duan S, Cai Z.",
+    "year": 2026,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2026.1705131",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "retrospective_nonrandomized_comparative_clinical_cohort",
+    "design_features": [
+      "patient_specific_fracture_reconstruction",
+      "ct_segmentation_and_virtual_reduction",
+      "physical_3d_printed_models",
+      "custom_titanium_plate",
+      "intramedullary_nail_comparator",
+      "clinical_and_radiographic_follow_up",
+      "additive_manufacturing_assisted_workflow",
+      "no_finite_element_analysis"
+    ],
+    "research_problem": "Long-segment comminuted femoral fractures are difficult to reduce anatomically, and standard plates or intramedullary nails may not control multiple fragments, alignment, and rotation in the same way as a patient-specific plate workflow.",
+    "exact_gap": "Clinical evidence for CT-based virtual reduction, 1:1 printed fracture models, and a customized plate in long-segment comminuted femoral shaft fractures is limited (S002:C01-S002:C02).",
+    "objective_or_hypothesis": "Compare a 3D-print-assisted custom-plate pathway with limited open reduction and intramedullary nailing for operative efficiency, reduction, healing, function, pain, and complications (S001:C01-S002:C02).",
+    "study_design": "Retrospective single-center comparison of 36 patients treated from 2020 to 2023, with 18 in each treatment group and at least 12 months of follow-up or follow-up to union (S003:C01-S003:C02).",
+    "sample_or_model": "Adults with fresh closed Winquist-Hansen II-IV femoral shaft fractures whose fracture-line length exceeded half the shaft; assignment reflected actual treatment selection rather than randomization (S003:C01-S003:C02).",
+    "comparators": [
+      "CT/virtual reduction plus 1:1 PLA models and an open custom TA3 plate procedure",
+      "Limited-open or open-assisted reduction plus intramedullary nailing, cables, reaming, and proximal/distal locking",
+      "The comparison changes planning technology, implant, surgical approach, reduction exposure, fixation mechanics, and rehabilitation constraints simultaneously"
+    ],
+    "method_spine": [
+      "Segment CT fragments and perform virtual anatomical reduction.",
+      "Print fractured and reduced 1:1 PLA models.",
+      "Design plate curvature, length, screw locations/angles, and screw lengths; print/reverse-scan a trial plate and manufacture a TA3 plate.",
+      "Perform either open custom-plate fixation or intramedullary nail fixation.",
+      "Track workflow time, surgery, fluoroscopy, blood loss, weight bearing, union, function, pain, complications, alignment, and mRUST.",
+      "Interpret group differences as cohort associations because treatment packages and allocation differ."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Virtual placement, transparent-bone visualization, screw-length measurements, reverse scanning, physical fit to the reduced model, intraoperative fluoroscopy, and directional motion testing check geometric/design realization (S004:C01-S005:C02; S007:C02).",
+        "Radiographic geometry was measured three times and averaged, but no inter-rater reliability or blinded multi-reader assessment is reported (S009:C01-S009:C02)."
+      ],
+      "calibration": [],
+      "validation": [
+        "Static four-point bending, bending fatigue, and screw pull-out tests are said to have been performed, but no specimen number, protocol, comparator, numerical result, failure mode, or acceptance criterion appears in the packet; they therefore do not provide auditable mechanical validation (S005:C01-S005:C02).",
+        "Clinical/radiographic follow-up demonstrates feasibility and associated outcomes, not isolation of the custom plate's mechanical effect."
+      ],
+      "sensitivity": [
+        "No sensitivity analysis addresses segmentation, reduction, plate geometry, screw placement, material, loading, or measurement repeatability.",
+        "The discussion identifies fracture complexity, treatment allocation, different approaches, and only two proximal/two distal nail screws as important confounders (S016:C03-S016:C06)."
+      ],
+      "application_prediction": [
+        "Use in urgent care is limited by approximately 17 hours for model production and 34 hours for plate customization, specialized infrastructure, and cost (S013:C01-S013:C02; S016:C06-S016:C07)."
+      ]
+    },
+    "primary_outcomes": [
+      "The custom-plate group had shorter reported operative time (68.83 versus 91.72 minutes) and fewer fluoroscopy exposures (4.39 versus 21.22), while blood loss, time to surgery, and hospital stay were not significantly different (S013:C01-S013:C02).",
+      "Partial/full weight bearing and fracture healing occurred earlier in the custom-plate group; knee/hip ROM and HSS/Harris scores were higher at three months and final follow-up, while VAS and complication incidence were not significantly different (S014:C01-S014:C02).",
+      "At final follow-up, the custom-plate group showed lower lateral displacement, angulation, and shortening and higher mRUST, although the authors acknowledge that absolute radiographic differences may have modest clinical significance (S015:C01; S016:C04).",
+      "One conventional-group nonunion required nail dynamization; other adverse events resolved, and the small sample was underpowered for uncommon complications (S014:C01)."
+    ],
+    "highest_evidence_level_reached": "Small retrospective comparative clinical cohort showing feasibility and treatment-package associations; no randomized allocation, isolated technology effect, reported mechanical-validation dataset, or long-term fatigue/safety evidence."
+  },
+  "argument_map": {
+    "central_claim": "A CT-based 3D planning and custom-plate treatment package was associated with better reduction metrics, less fluoroscopy, earlier weight bearing/healing, and higher short-term function than the intramedullary-nail pathway in this cohort, but the effect cannot be attributed specifically to 3D printing or the plate because allocation, approach, fixation, and rehabilitation differed.",
+    "data": [
+      "Thirty-six retrospectively selected patients, baseline demographics/fracture classification, workflow and perioperative metrics, serial function/pain, complications, and final imaging outcomes (S012:C01-S015:C01).",
+      "A documented CT-to-model-to-custom-plate workflow with qualitative fit verification (S004:C01-S005:C02)."
+    ],
+    "warrant": "Better geometric planning and a patient-matched fixation construct can plausibly reduce intraoperative adjustment and alignment error, but causal attribution requires a comparator that holds approach and fixation mechanics constant or a factorial design.",
+    "backing": [
+      "The authors explicitly state that group differences may reflect surgical approach and patient-specific fixation and that allocation bias/fracture complexity confound direct comparison (S016:C03-S017:C01)."
+    ],
+    "qualifier": "Association within a small, selected, short-follow-up cohort.",
+    "rebuttals_or_boundaries": [
+      "The custom group uses an open plate operation; the comparison group uses a nail-centered procedure with different exposure, reaming, cables, locking pattern, and weight-bearing constraints (S007:C01-S007:C02; S016:C05).",
+      "Eligibility included voluntary acceptance of the custom treatment, and surgeon selection may have depended on fracture complexity (S003:C01; S016:C06).",
+      "Baseline age, sex, BMI, injury mechanism, and Winquist class do not control unmeasured morphology, surgeon preference, temporal learning, or rehabilitation decisions.",
+      "Mechanical tests are named but unreported, so claims of more uniform stress or construct stability are mechanisms, not measured results (S005:C02; S016:C02-S016:C04).",
+      "mRUST is adapted from tibial scoring and no blinded reliability is reported (S009:C02).",
+      "At least 12 months is insufficient for long-term plate fatigue, refracture, or durable functional comparison."
+    ],
+    "argument_coherence": "moderate_to_high_when_framed_as_treatment_package_association"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "CT-derived geometry, workflow times, surgical time, fluoroscopy count, blood loss, time to weight bearing/union, ROM, HSS/Harris/VAS, complications, displacement, angulation, shortening, and mRUST (S004:C01-S005:C02; S009:C01-S015:C01)."
+    ],
+    "predicted": [
+      "Virtual reduction, planned plate/screw geometry, and physical-model fit are design predictions/checks rather than finite-element predictions (S004:C01-S005:C02)."
+    ],
+    "inferred": [
+      "Uniform stress distribution, greater fixation stability, minimized soft-tissue damage, and accelerated healing through precise fit are proposed mechanisms without reported stress/strain, micromotion, or mechanical-test results (S016:C02-S016:C04).",
+      "Clinical group differences are interpreted as benefits of 3D printing/customization, although the whole surgical package differs."
+    ],
+    "recommended": [
+      "Use larger randomized multicenter studies, equivalent fixation/approach comparators, preregistered clinical outcomes, complete mechanical reports, cost/time analysis, and longer follow-up (S017:C01)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Physical fit to a PLA model does not validate in-vivo load transfer or fatigue safety.",
+      "Lateral displacement and mRUST are imaging proxies, not direct construct stiffness, micromotion, or long-term patient benefit.",
+      "Earlier permitted weight bearing may partly reflect treatment protocol rather than faster biological healing.",
+      "Shorter surgery/fluoroscopy does not isolate customization from the different reduction approach.",
+      "Statistical differences in millimeters/degrees need clinical-importance interpretation, as the authors acknowledge (S016:C04)."
+    ],
+    "overclaim_risks": [
+      "Calling the custom pathway superior or causal exceeds the retrospective, treatment-package comparison (S001:C02; S018:C01).",
+      "The automatic finite-element and animal cues are false; the article contains neither FE analysis nor animal experimentation.",
+      "Mentioning four-point bending/fatigue/pull-out without results can create an appearance of validation that readers cannot audit."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Make the patient-specific geometry-to-device chain auditable",
+      "execution": "The paper reports CT segmentation, fragment labeling, virtual reduction, STL export, 1:1 PLA models, NX plate design, reverse scanning, screw planning, TA3 manufacture, and physical fit (S004:C01-S005:C02).",
+      "locator": "S005:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Describe patient-specific work as source imaging, segmentation, virtual transformation, manufacturing state, fit verification, and operative registration; specify which steps are geometric rather than mechanical validation.",
+      "failure_mode": "A visible fit is not evidence of stress distribution, strength, fatigue, or clinical causality."
+    },
+    {
+      "section": "results",
+      "move": "Report workflow burden with intraoperative benefit",
+      "execution": "Model and plate production times are presented beside surgical time, fluoroscopy, blood loss, time to surgery, and hospital stay (S013:C01-S013:C02).",
+      "locator": "S013:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For patient-specific manufacturing, report preoperative labor/latency and cost alongside intraoperative savings so efficiency is not defined only inside the operating room.",
+      "failure_mode": "Shorter surgery can coexist with a longer end-to-end treatment workflow."
+    },
+    {
+      "section": "discussion",
+      "move": "Audit comparator contamination",
+      "execution": "The authors acknowledge that approach, implant, locking configuration, early weight-bearing eligibility, fracture complexity, and treatment selection differ between groups (S016:C03-S016:C06).",
+      "locator": "S016:C06",
+      "effectiveness": "high",
+      "transferable_principle": "Before attributing benefit to customization, list every co-intervention changed by the comparator and recast causal language as treatment-package association.",
+      "failure_mode": "Demographic balance does not repair non-equivalent procedures or allocation bias."
+    },
+    {
+      "section": "discussion",
+      "move": "Separate statistical and clinical significance",
+      "execution": "The paper notes that statistically significant alignment differences are small in absolute terms and may have modest effect on long-term prognosis (S016:C04).",
+      "locator": "S016:C04",
+      "effectiveness": "high",
+      "transferable_principle": "For geometric endpoints, report absolute difference, measurement error/reliability, clinical threshold, and patient outcome rather than relying on P values.",
+      "failure_mode": "A small angular or millimetric difference is not automatically clinically meaningful."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Retrospective nonrandomized design, association rather than causality, short follow-up, small sample, possible treatment-selection/fracture-complexity confounding, cost, equipment/personnel, and production delay (S016:C06-S017:C01)."
+    ],
+    "reader_identified": [
+      "Comparator simultaneously changes planning, surgical approach, implant class, fixation mechanics, and rehabilitation.",
+      "Voluntary treatment acceptance and surgeon selection allow strong allocation bias.",
+      "No full mechanical-test dataset despite a claim that bending, fatigue, and screw pull-out were evaluated.",
+      "No blinding, inter-rater reliability, sample-size justification, effect-size confidence intervals, or multiplicity control is reported.",
+      "Earlier weight bearing may be protocol-mediated and complicates interpretation of healing time and function.",
+      "mRUST adaptation to femur and repeated-measure averaging need reliability/validity support.",
+      "No end-to-end cost-effectiveness or long-term device survival analysis."
+    ],
+    "likely_bias_direction": [
+      "Selection, performance, assessor, and rehabilitation differences likely favor the custom-treatment package.",
+      "Many correlated outcomes and a small sample may inflate the apparent consistency of benefit.",
+      "Unreported mechanical results encourage stronger construct claims than available evidence supports."
+    ],
+    "scope_boundary": "The study supports feasibility and short-term cohort associations for one CT/printed-model/custom-plate workflow; it does not isolate the effect of 3D printing, validate plate mechanics, or establish superiority over optimized intramedullary nailing."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC12883651-01",
+      "capability": "Describe patient-specific device work as an explicit imaging-to-segmentation-to-virtual-reduction-to-manufacture-to-registration-to-follow-up chain.",
+      "manuscript_use": "Methods workflow, figure legend, reproducibility checklist, and validation section.",
+      "applicable_domains": [
+        "patient_specific_implant",
+        "bone_implant",
+        "additive_manufacturing"
+      ],
+      "applicable_study_designs": [
+        "clinical_cohort",
+        "device_development"
+      ],
+      "supporting_locators": [
+        "S004:C01",
+        "S004:C02",
+        "S005:C01",
+        "S005:C02",
+        "S007:C02"
+      ],
+      "counterexample_or_boundary": "Geometric fit checks do not establish mechanical or clinical validation.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12883651-02",
+      "capability": "Audit a custom-device comparator for simultaneous changes in approach, fixation mechanics, surgeon workflow, and rehabilitation before writing causal superiority.",
+      "manuscript_use": "Study design, Results interpretation, Discussion, and limitations.",
+      "applicable_domains": [
+        "patient_specific_implant",
+        "clinical_biomechanics",
+        "bone_implant"
+      ],
+      "applicable_study_designs": [
+        "retrospective_cohort",
+        "comparative_clinical_study"
+      ],
+      "supporting_locators": [
+        "S007:C01",
+        "S007:C02",
+        "S016:C03",
+        "S016:C05",
+        "S016:C06",
+        "S017:C01"
+      ],
+      "counterexample_or_boundary": "Two treatment packages cannot isolate the contribution of 3D printing or customization.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12883651-03",
+      "capability": "Pair preoperative manufacturing time and resource burden with intraoperative time/fluoroscopy savings and clinical effect size.",
+      "manuscript_use": "Results resource table and translational Discussion.",
+      "applicable_domains": [
+        "additive_manufacturing",
+        "patient_specific_implant"
+      ],
+      "applicable_study_designs": [
+        "clinical_cohort",
+        "workflow_evaluation"
+      ],
+      "supporting_locators": [
+        "S013:C01",
+        "S013:C02",
+        "S016:C03",
+        "S016:C06",
+        "S016:C07"
+      ],
+      "counterexample_or_boundary": "Operating-room efficiency is not total workflow efficiency, especially for urgent surgery.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate",
+    "methods_transparency": "high_for_geometry_workflow_moderate_for_clinical_allocation",
+    "validation_credibility": "low_for_mechanics_moderate_for_short_term_feasibility",
+    "outcome_uncertainty_reporting": "low_to_moderate",
+    "comparator_fairness": "low",
+    "conclusion_proportionality": "moderate_in_final_conclusion_lower_in_abstract",
+    "critical_weaknesses": [
+      "Non-equivalent treatment packages and nonrandom allocation.",
+      "Unreported mechanical-test results.",
+      "Small sample, short follow-up, and limited uncertainty/reliability reporting."
+    ],
+    "overall_credibility": "moderate_for_workflow_feasibility_low_to_moderate_for_comparative_effectiveness"
+  },
+  "summary_zh": "这不是有限元研究，而是 36 例回顾性临床队列：18 例接受 CT 分割、虚拟复位、1:1 PLA 模型和定制 TA3 钛板，18 例接受髓内钉路径。定制组在手术时间、透视、早期负重、影像对位和功能评分上更好，但比较器同时改变了手术入路、植入物、固定机制、锁定方式和康复条件，且分组非随机，因此只能写成治疗包之间的关联。论文说做了四点弯曲、疲劳和螺钉拔出试验，却没有报告样本、协议、结果或失效模式，不能视为可审查的机械验证。最值得写入 Skill 的能力是：把患者特异工作流拆成几何来源—虚拟变换—制造—配准—验证，并在任何‘优于常规’结论前强制审查比较器污染、端到端时间成本及统计差异的临床意义。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section, including the complete operative techniques, workflow timing, outcome tables, and confounding discussion.",
+    "The automatic finite-element and animal cues are incorrect.",
+    "The paper is a strong workflow-description example and a strong comparator-contamination counterexample."
+  ],
+  "selection": {
+    "selection_reason": "explicit_include",
+    "primary_stratum": "patient_specific_implants",
+    "stratum_rank": 1,
+    "reading_order": 31
+  },
+  "source": {
+    "record_path": "records/PMC12883651.json.gz",
+    "source_record": "records/PMC12883651.json.gz",
+    "source_record_sha256": "0863cb5f25a80bf669523e5b0dcfa225c2910ebdc5c42ec0ff60b2bfeba45946",
+    "source_hash": "0863cb5f25a80bf669523e5b0dcfa225c2910ebdc5c42ec0ff60b2bfeba45946"
+  }
+}

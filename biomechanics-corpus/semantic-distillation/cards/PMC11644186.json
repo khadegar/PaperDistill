@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11644186",
+  "paper_id": "doi:10.3390/polym16233379",
+  "pmcid": "PMC11644186",
+  "source_record_sha256": "4eefd212f9a899d92768c07cd4099c299f0dffe20755dd7c289929261e5b586e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "605fff574bc6990d847f30d94d5199831610b0f2348d9796dbc8b0562c4188aa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Antibacterial Properties of PCL@45s5 Composite Biomaterial Scaffolds Based on Additive Manufacturing",
+    "authors": "Zhang C, Ru Y, You J, Lin R, Chen S, Qi Y, Li D, Zhang C, Qiu Z.",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16233379",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

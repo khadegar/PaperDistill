@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11280941",
+  "paper_id": "doi:10.3390/polym16142027",
+  "pmcid": "PMC11280941",
+  "source_record_sha256": "9bde3a540386e5a08a78233ee76cce87ad6f7ed84a38edd40ab3209d5778295c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "965d9acfa631a3fce94edf2b70cd33a4822c8d28e4fa9fe1a4dbbe452694cd60",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Systematic Review on the Generation of Organic Structures through Additive Manufacturing Techniques",
+    "authors": "Bernadi-Forteza A, Mallon M, Velasco-Gallego C, Cubo-Mateo N.",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16142027",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

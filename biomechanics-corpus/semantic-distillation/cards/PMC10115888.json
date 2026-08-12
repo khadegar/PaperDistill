@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10115888",
+  "paper_id": "doi:10.1038/s41598-023-33183-2",
+  "pmcid": "PMC10115888",
+  "source_record_sha256": "636374f5932edd9baa3fb35a2be7478eca03f8816b452f3e9c10e44897286447",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "be414936f3551a94c66880dc4e25dc46e481002cc2a5d3ebe9a6eff56a85bb37",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Excessive flexed position of the femoral component causes abnormal kinematics and joint contact/ ligament forces in total knee arthroplasty",
+    "authors": "Nishitani K, Kuriyama S, Nakamura S, Song YD, Morita Y, Ito H, Matsuda S.",
+    "year": 2023,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-023-33183-2",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

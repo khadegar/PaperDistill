@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8820641",
+  "paper_id": "doi:10.1371/journal.pone.0263458",
+  "pmcid": "PMC8820641",
+  "source_record_sha256": "ef5d0f5795155dd1a160c1ec640fa1fbb194c8565eba93849c048d4bb9bb9bfc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "31613cb8162efff04d8c5449ca19cfc2220b8183019f7e96c6b7cac16761b609",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of osteoporosis-related reduction in the mechanical properties of bone on the acetabular fracture during a sideways fall: A parametric finite element approach",
+    "authors": "Khakpour S, Esrafilian A, Tanska P, Mononen ME, Korhonen RK, Jämsä T.",
+    "year": 2022,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0263458.r004",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

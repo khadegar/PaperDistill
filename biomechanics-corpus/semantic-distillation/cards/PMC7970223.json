@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7970223",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.02.033",
+  "pmcid": "PMC7970223",
+  "source_record_sha256": "8152dad7d9f1d2f8cbb42ab158f6a86c22ba5032c32aee494ddb63f819115704",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "11da590c2dd8cbda9a9be1f6db0b42c01441967e8a27bf6f0a2bd32eddcdb35a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Construction of nanofibrous scaffolds with interconnected perfusable microchannel networks for engineering of vascularized bone tissue",
+    "authors": "Gu J, Zhang Q, Geng M, Wang W, Yang J, Khan AUR, Du H, Sha Z, Zhou X, He C.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.02.033",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

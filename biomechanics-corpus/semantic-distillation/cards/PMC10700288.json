@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10700288",
+  "paper_id": "doi:10.1186/s40634-023-00708-7",
+  "pmcid": "PMC10700288",
+  "source_record_sha256": "76f0071afed0968efb858092073ffe04954aa40ac85d161328f9e0c477d84604",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6670e0e41e93ae3149111452e0460fe4a47fbe6e9f9bd723e71b08d4f914ae3e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A systematic approach to managing complications after proximal tibial osteotomies of the knee",
+    "authors": "Valcarenghi J, Vittone G, Mouton C, Coelho Leal A, Ibañez M, Hoffmann A, Pape D, Ollivier M, Seil R.",
+    "year": 2023,
+    "journal": "Journal of Experimental Orthopaedics",
+    "doi": "10.1186/s40634-023-00708-7",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

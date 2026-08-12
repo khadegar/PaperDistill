@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10166750",
+  "paper_id": "doi:10.4103/1735-3327.372650",
+  "pmcid": "PMC10166750",
+  "source_record_sha256": "abb5beb90d3c5e5127630e931041df30a2443a7d69cd30c262f7cb5f337a096a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6f43e9367ff2726b5252cd7d187a45f82c3a3891db81de7e1159bdcb29463228",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stress distribution in bone around an implant-supported three-unit fixed dental prosthesis using two different computer-aided designing/computer-aided milling provisional crown materials: Milled polymethylmethacrylate and milled polyetheretherketone – A finite element analysis",
+    "authors": "Barua SL, Poduval TS, Rani S, Jain N, Thakur S.",
+    "year": 2023,
+    "journal": "Dental Research Journal",
+    "doi": "10.4103/1735-3327.372650",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

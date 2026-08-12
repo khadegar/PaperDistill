@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11547793",
+  "paper_id": "doi:10.3390/ma17215305",
+  "pmcid": "PMC11547793",
+  "source_record_sha256": "7e75a35788780db8a0711e689330003c1fc37cb29f956a3f6593c4875443f67c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6e80e3f29a809ab68e5a65ae614bff7a212fef64133396558abdc59e0dea125b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Novel Triad of Bio-Inspired Design, Digital Fabrication, and Bio-Derived Materials for Personalised Bone Repair",
+    "authors": "Dei Rossi G, Vergani LM, Buccino F.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17215305",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

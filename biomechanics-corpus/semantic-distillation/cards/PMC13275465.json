@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13275465",
+  "paper_id": "doi:10.3389/fbioe.2026.1717769",
+  "pmcid": "PMC13275465",
+  "source_record_sha256": "b72645f5b32b6817fb0103de704fc1f0a9cfd7adb4d414d13088d5bec127080c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "795bf4ee6752a41e74986579e30aa5a8df2ad511b51ba60339f94a7cb65cf580",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanobiology-based strategies for the maturation of biofabricated cartilage constructs",
+    "authors": "López-González I, Campillo N, Baena JM.",
+    "year": 2026,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2026.1717769",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

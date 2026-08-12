@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5865554",
+  "paper_id": "doi:10.2147/ijn.s150786",
+  "pmcid": "PMC5865554",
+  "source_record_sha256": "ec8cbe4d9845cf731579c4f092b437a9ef5fdc6f6f31345ece08db3ec2a12e34",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "71358173b8c5b23b5b2fb0cf26aafd59c6661a9b494f2348a62c8c5c84f96061",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Kaempferol-immobilized titanium dioxide promotes formation of new bone: effects of loading methods on bone marrow stromal cell differentiation in vivo and in vitro",
+    "authors": "Tsuchiya S, Sugimoto K, Kamio H, Okabe K, Kuroda K, Okido M, Hibi H.",
+    "year": 2018,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s150786",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

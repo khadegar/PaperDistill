@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9964593",
+  "paper_id": "doi:10.3390/ijms24044224",
+  "pmcid": "PMC9964593",
+  "source_record_sha256": "b4f1943f9b2ea6f2332b7fdd22a60d18beb320202fb147b69d2c57594fd29b2d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4af4271737625ed68ff6719fc4839f790f22b28716573a52dca2d852cad58753",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Polydopamine Incorporation Enhances Cell Differentiation and Antibacterial Properties of 3D-Printed Guanosine-Borate Hydrogels for Functional Tissue Regeneration",
+    "authors": "Merino-Gómez M, Gil J, Perez RA, Godoy-Gallardo M.",
+    "year": 2023,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms24044224",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10514715",
+  "paper_id": "doi:10.5312/wjo.v14.i9.682",
+  "pmcid": "PMC10514715",
+  "source_record_sha256": "c92b7af9acf8ebf927c114015d928922cf07745fa8633333daa60cbfe3e45c5c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4125b2f34bd3cc1f4e4e369e97ec7e9ce425938cf1ec0a6636f1d9768cb4a53a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative study in vivo of the osseointegration of 3D-printed and plasma-coated titanium implants",
+    "authors": "Bondarenko S, Filipenko V, Ashukina N, Maltseva V, Ivanov G, Lazarenko I, Sereda D, Schwarzkopf R.",
+    "year": 2023,
+    "journal": "World Journal of Orthopedics",
+    "doi": "10.5312/wjo.v14.i9.682",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

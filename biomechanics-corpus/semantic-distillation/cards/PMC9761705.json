@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9761705",
+  "paper_id": "doi:10.1016/j.heliyon.2022.e12101",
+  "pmcid": "PMC9761705",
+  "source_record_sha256": "499ef08f1006ffd9a87835134f1014055311734fc8cd1dba9185e703ec905a8a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1255fe01d23a77ac7c849aed0a181e5bed44110e1c22b42a0bc5ded9177c9b23",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed trabeculae conditionally reproduce the mechanical properties of the actual trabeculae - A preliminary study",
+    "authors": "Zheng L, Huang X, Li C, Li P, Lin Z, Huang S.",
+    "year": 2022,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2022.e12101",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

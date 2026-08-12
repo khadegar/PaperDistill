@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11327044",
+  "paper_id": "doi:10.3389/fbioe.2024.1438839",
+  "pmcid": "PMC11327044",
+  "source_record_sha256": "7c77ea1ae793c22da69468a8656188bd28c3b39c653c4474a1302f3ede943c13",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "842a7a603a9b3bd918a48efa79088a29723a00b1c2e94fa2295970b8382dd08f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of anterior cruciate ligament reconstruction techniques: A comparison of the mechanical properties of all-inside fixation and traditional fixation",
+    "authors": "Chen X, Xue C, Li K, Mu K, Yao C, Wang Z, Chen H, Zhang J.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1438839",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

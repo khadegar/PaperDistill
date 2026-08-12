@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8914554",
+  "paper_id": "doi:10.1016/j.mtbio.2022.100237",
+  "pmcid": "PMC8914554",
+  "source_record_sha256": "0947ed3172dfccf4c3cfc8cac9738ef76eb60ece7422aacfa26036991590c164",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1ac9006492c6c42e9d0f841206b99c6c3932ca95b95eca6bd9c7dda294395af4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Efficacy of treating segmental bone defects through endochondral ossification: 3D printed designs and bone metabolic activities",
+    "authors": "Hara K, Hellem E, Yamada S, Sariibrahimoglu K, Mølster A, Gjerdet NR, Hellem S, Mustafa K, Yassin MA.",
+    "year": 2022,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2022.100237",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

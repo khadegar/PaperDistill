@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9751052",
+  "paper_id": "doi:10.3389/fbioe.2022.1004849",
+  "pmcid": "PMC9751052",
+  "source_record_sha256": "9ef2a22201e64f2c89f67f83ce45bfebc5b9d26d13cf6585535aa7b191e48116",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "24b42490a78ce99b480094a7aba259d4031f60264b25adbb5c72788676e72abc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Novel axial compressive endoprosthesis ACE can enhance metaphyseal fixation and facilitate osseointegration: A biomechanical study",
+    "authors": "Huang S, Ji T, Tang X, Guo W.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1004849",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

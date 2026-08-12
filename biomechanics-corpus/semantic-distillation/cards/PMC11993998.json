@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11993998",
+  "paper_id": "doi:10.1186/s13018-025-05773-5",
+  "pmcid": "PMC11993998",
+  "source_record_sha256": "0db21f959933905eaacf2c2696eec57117393357e2d83f4133e45e22757082e0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "04978d0f87bcbcc0c7311012fe47d7d0be613b39fa102ee942608ac33654cc7b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Functional morphology of trabecular system in human proximal femur: a perspective from P45 sectional plastination and 3D reconstruction finite element analysis",
+    "authors": "Shah MAA, Lü SJ, Zhang JF, Wang JW, Tang W, Luo WC, Lai HX, Yu SB, Sui HJ.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-05773-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

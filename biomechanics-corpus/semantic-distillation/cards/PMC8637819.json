@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8637819",
+  "paper_id": "doi:10.3389/fbioe.2021.772539",
+  "pmcid": "PMC8637819",
+  "source_record_sha256": "473700a4dce93de9cc3c47566cf8ac41fa8e88176991e8db068bf78e00cc990e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "49360bc9d056d45234d03acecb9c3f0060069847f03540a0a8588f6ff7d09891",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Femoral Stems With Porous Lattice Structures: A Review",
+    "authors": "Liu B, Wang H, Zhang N, Zhang M, Cheng CK.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.772539",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

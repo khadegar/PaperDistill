@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13279471",
+  "paper_id": "doi:10.1007/s00402-026-06388-z",
+  "pmcid": "PMC13279471",
+  "source_record_sha256": "6cb845a7b23e3f5086c922dcc29ec6c70058a0c674c9799048d52aca2287565f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9fe9265626bd3069e28ddb9f0d66e3dc2bdfb1cd507d075116916a8c0c3cfd29",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surgical treatment of varus unicompartmental knee osteoarthritis: indications, trends, and outcomes—a narrative review",
+    "authors": "Burgio C, Bosco F, Cobisi C, Zepeda K, Giustra F, Capella M, Mayman D, Debbi E, Vigdorchik J.",
+    "year": 2026,
+    "journal": "Archives of Orthopaedic and Trauma Surgery",
+    "doi": "10.1007/s00402-026-06388-z",
+    "publication_type": "research-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

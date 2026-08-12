@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10765239",
+  "paper_id": "doi:10.1016/j.mtbio.2023.100871",
+  "pmcid": "PMC10765239",
+  "source_record_sha256": "d0bb54924c7390b5ba68eff16bfb54494707e32c31a707319c60d1044118882d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "41d897c68a8694c7977a9c557f5bd6a9fd2907f769eb88414306489650e321b8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed strontium-doped calcium phosphate ceramic scaffold enhances early angiogenesis and promotes bone repair through the regulation of macrophage polarization",
+    "authors": "Miao Q, Yang X, Diao J, Ding H, Wu Y, Ren X, Gao J, Ma M, Yang S.",
+    "year": 2023,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2023.100871",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

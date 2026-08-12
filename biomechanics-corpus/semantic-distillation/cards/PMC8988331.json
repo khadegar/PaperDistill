@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8988331",
+  "paper_id": "doi:10.1186/s41205-022-00135-x",
+  "pmcid": "PMC8988331",
+  "source_record_sha256": "11258ebacdc81bc9010d3fe48ed7949a638f2d669d0b164996cc260be7128828",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9d5f9ed098265604127f00ad60e6733bce4a84d68760013e54b7fe4427fb8d1a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A robust, autonomous, volumetric quality assurance method for 3D printed porous scaffolds",
+    "authors": "Zhang N, Singh S, Liu S, Zbijewski W, Grayson WL.",
+    "year": 2022,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-022-00135-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

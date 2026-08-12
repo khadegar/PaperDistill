@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10607882",
+  "paper_id": "doi:10.3390/jfb14100489",
+  "pmcid": "PMC10607882",
+  "source_record_sha256": "8d9e501492c6fab969de8103ffc5274f55df1c79ae42821248ea32476868f2cb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "925468d32451f9716a1388c027bdce983b3b4bd4f56ca81bca6c8ae029076a4e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "On the Biomechanical Performances of Duplex Stainless Steel Graded Scaffolds Produced by Laser Powder Bed Fusion for Tissue Engineering Applications",
+    "authors": "Gatto ML, Cerqueni G, Groppo R, Tognoli E, Santoni A, Cabibbo M, Mattioli-Belmonte M, Mengucci P.",
+    "year": 2023,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb14100489",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

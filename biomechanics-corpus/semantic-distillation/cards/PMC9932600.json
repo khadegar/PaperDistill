@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9932600",
+  "paper_id": "doi:10.3389/fbioe.2023.1140393",
+  "pmcid": "PMC9932600",
+  "source_record_sha256": "5f16bcb0350ffa41f4e56ef48f2cea9951a48d1e17f6a43361e93f15e7af3d46",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "48b6be9a7bf1938bd5a66dd6edd7c415813741b585bcd244dc151a7ee8199a17",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomaterial scaffolds regulate macrophage activity to accelerate bone regeneration",
+    "authors": "Liu Z, Zhu J, Li Z, Liu H, Fu C.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1140393",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

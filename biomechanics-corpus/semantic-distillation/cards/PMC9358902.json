@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9358902",
+  "paper_id": "doi:10.1186/s12903-022-02362-4",
+  "pmcid": "PMC9358902",
+  "source_record_sha256": "ce5e184182f79049514cea126de128466390c0b46fde01514a6df772b9acaadf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a54c0578d55e6ec30837e1fc972a37e2cc6564e05ba3dd895c41b9642a3bc7de",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed scaffold for repairing bone defects in apical periodontitis",
+    "authors": "Li C, Xu X, Gao J, Zhang X, Chen Y, Li R, Shen J.",
+    "year": 2022,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-022-02362-4",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

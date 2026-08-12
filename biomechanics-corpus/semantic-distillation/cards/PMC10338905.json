@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10338905",
+  "paper_id": "doi:10.1016/j.jot.2023.05.001",
+  "pmcid": "PMC10338905",
+  "source_record_sha256": "bfe5241a9eacf8182b3dae9d8bfa65d5fd4ca708d54a8128d256ea0aa368e523",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f0c1dd4e9b063016f7240a9f56e0f45cafd5d031b6aba3f070bbef6050878922",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteocyte β3 integrin promotes bone mass accrual and force-induced bone formation in mice ☆",
+    "authors": "Qin L, Chen Z, Yang D, He T, Xu Z, Zhang P, Chen D, Yi W, Xiao G.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2023.05.001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

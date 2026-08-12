@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12446874",
+  "paper_id": "doi:10.1002/cre2.70223",
+  "pmcid": "PMC12446874",
+  "source_record_sha256": "312a2f6bab9874a5229d6b679a36a438dab7bdbe35bfcf7a17350fcfd184d150",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "58c526598113b4da642a9bdec5c88b5dd32ad8f331b2912b0c69192f05818154",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Low Intensity Thermal Stimulation to Enhance Early Osteointegration in Implants: A Preclinical Study in Rabbits",
+    "authors": "Xiufeng Z, Miao W, Huixia Z, Boya X, Xiaofeng C, Longlong H.",
+    "year": 2025,
+    "journal": "Clinical and Experimental Dental Research",
+    "doi": "10.1002/cre2.70223",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

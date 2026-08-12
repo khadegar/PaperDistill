@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12531630",
+  "paper_id": "doi:10.34133/bmr.0266",
+  "pmcid": "PMC12531630",
+  "source_record_sha256": "9258d8f728156e75bb28b4b0e1c06c633d8ac5f8f26006fb992aa820a0864fb2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b3b52e247e37dd7064c0591a033267abb2216be62a9bd746637324f81d2e0fb2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimetic Gradient Microporous Scaffold with a Triply Periodic Minimal Surface Enhances Osseointegration by Modulating Macrophage Polarization",
+    "authors": "Liu L, Chen H, Zhang A, Zhang W, Liu Y, Li Y, Gao L, Han Q, Chen B, Wang J.",
+    "year": 2025,
+    "journal": "Biomaterials Research",
+    "doi": "10.34133/bmr.0266",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

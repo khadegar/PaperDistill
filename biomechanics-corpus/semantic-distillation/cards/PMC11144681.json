@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11144681",
+  "paper_id": "doi:10.1007/s10006-023-01175-1",
+  "pmcid": "PMC11144681",
+  "source_record_sha256": "11a52642ef957e471000421bbbbc70e432c1fcd7b768f0854898878d7f1c8c7c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4f96cc23ceac590fca7b579127552dc0718e7407af0be64f0aa8a6015f36d100",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mineralization and morphology of peri-implant bone around loaded and unloaded dental implants retrieved from the human mandible",
+    "authors": "Zamparini F, Gandolfi MG, Spinelli A, Ferri M, Iezzi G, Botticelli D, Prati C.",
+    "year": 2023,
+    "journal": "Oral and Maxillofacial Surgery",
+    "doi": "10.1007/s10006-023-01175-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

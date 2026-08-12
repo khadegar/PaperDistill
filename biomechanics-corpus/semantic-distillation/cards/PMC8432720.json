@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8432720",
+  "paper_id": "doi:10.3390/ma14174834",
+  "pmcid": "PMC8432720",
+  "source_record_sha256": "e0abd22b1bb3d092cddc7b710f109801d833b0b25ad9f4cbe910cf35ce5cb2ed",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "610f011c76fde0ca849eeb04b03e69b25a8b1605ec10bca727861ec088201dac",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dissolution of Amorphous S53P4 Glass Scaffolds in Dynamic In Vitro Conditions",
+    "authors": "Aalto-Setälä L, Uppstu P, Sinitsyna P, Lindfors NC, Hupa L.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14174834",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

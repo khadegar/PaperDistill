@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13027616",
+  "paper_id": "doi:10.3390/medsci14010149",
+  "pmcid": "PMC13027616",
+  "source_record_sha256": "6b2a82d74ec1fda6bce654d83e5d062cadad44264762b6284980ae6737b9fdbd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6c2257bd8b73ff39b427a86979d7804ad2c8052dab297604552f691b9c4f77b0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanobiological Implications of Low–Young’s Modulus TiNbSn Alloy Plates for Fracture Fixation: A Focused Review",
+    "authors": "Mori Y, Tanaka H, Kamimura M, Mori N, Aizawa T.",
+    "year": 2026,
+    "journal": "Medical Sciences",
+    "doi": "10.3390/medsci14010149",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

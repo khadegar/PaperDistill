@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12366061",
+  "paper_id": "doi:10.1186/s12891-025-09065-1",
+  "pmcid": "PMC12366061",
+  "source_record_sha256": "6855054af55cd36117308946486aa240b9097fc2ade23ae062cf505180ddf4bb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2c5f620cd6eb741407ae9481c5a7176e126a79d1f4699cf5d6b2b6bf86d4669b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of short-segment fixation combined with expandable polyetheretherketone vertebral body replacement in osteoporotic vertebrae",
+    "authors": "Chen L, Wang X, Kröber M, Abdelmonem E, Wan X.",
+    "year": 2025,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-025-09065-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

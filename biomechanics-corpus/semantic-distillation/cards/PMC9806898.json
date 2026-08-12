@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9806898",
+  "paper_id": "doi:10.1186/s13018-022-03480-z",
+  "pmcid": "PMC9806898",
+  "source_record_sha256": "efe89524fa7b6b398e651948afb4538b775db1de837db65a8daec4df437a3d47",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b988df2f7f28d1161a3f25f42205aa4dcd9aa73933566efda14b37d10b2f5d56",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Computational comparison of anterior lumbar interbody fusion and oblique lumbar interbody fusion with various supplementary fixation systems: a finite element analysis",
+    "authors": "Ouyang P, Tan Q, He X, Zhao B.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-022-03480-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

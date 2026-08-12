@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11525158",
+  "paper_id": "doi:10.1016/j.ijscr.2024.110433",
+  "pmcid": "PMC11525158",
+  "source_record_sha256": "da695a2e52fbebff8a81b133c5677fcc628ff8c692aae37a2a8cd3fcaac239f2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c8de7b888c914bbc8f3353527b23bbfe89fe6325a0958c78f29dbf2de0963b97",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Prosthetic rehabilitation of segmental mandibulectomy patient using a free fibula flap and Corticobasal implant supported prosthesis: A Case report",
+    "authors": "Akifuddin S, Awadalkreem F.",
+    "year": 2024,
+    "journal": "International Journal of Surgery Case Reports",
+    "doi": "10.1016/j.ijscr.2024.110433",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

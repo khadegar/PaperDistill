@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10766723",
+  "paper_id": "doi:10.3389/fbioe.2023.1337709",
+  "pmcid": "PMC10766723",
+  "source_record_sha256": "56afddd8f20cc00ddee9fe96d105d567b20af2d7fac17b35799325e11605a3ab",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5ac19d4006a9e4c82a3cf1ed8edaf4a567279fd812a6b9ede43756f9c61b0274",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stability, biomechanics and biocompatibility analysis following different preparation strategies of hierarchical zeolite coatings on titanium alloy surfaces",
+    "authors": "Liu C, Zhang J, Zhao X, Xu M, Liu H, Zhou H.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1337709",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

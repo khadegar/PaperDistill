@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11378151",
+  "paper_id": "doi:10.1021/acsami.4c08047",
+  "pmcid": "PMC11378151",
+  "source_record_sha256": "0f7ad20dedf517003bbf49b3c789b8be5771c3278a390b6371d6ec0f7cc1ebd0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ba40ecd3dbc0f5e82bec9e28c38b0c96dfaf15fee830c108b9157a6a105eebb1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Carbonate Apatite Honeycomb Scaffold-Based Drug Delivery System for Repairing Osteoporotic Bone Defects",
+    "authors": "Hayashi K, Zhang C, Taleb Alashkar AN, Ishikawa K.",
+    "year": 2024,
+    "journal": "ACS Applied Materials & Interfaces",
+    "doi": "10.1021/acsami.4c08047",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

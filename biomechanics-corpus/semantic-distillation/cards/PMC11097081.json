@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11097081",
+  "paper_id": "doi:10.1016/j.mtbio.2024.101080",
+  "pmcid": "PMC11097081",
+  "source_record_sha256": "666b35cf722e1604815ff5c961e1614b793a9e588a4d1246cc4c1eb3a71e77b9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c89fabda692f3962fff6b26d50566d52c9fab608fbec9e57b3c9a313b7277d07",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced hyaline cartilage formation and continuous osteochondral regeneration via 3D-Printed heterogeneous hydrogel with multi-crosslinking inks",
+    "authors": "Wu Z, Yao H, Sun H, Gu Z, Hu X, Yang J, Shi J, Yang H, Dai J, Chong H, Wang DA, Lin L, Zhang W.",
+    "year": 2024,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2024.101080",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12495239",
+  "paper_id": "doi:10.1016/j.mtbio.2025.102333",
+  "pmcid": "PMC12495239",
+  "source_record_sha256": "34cafcc053a3e470943e35f9dce6e8b045d3d9c05f3ab064f8797feac2174808",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d8fde33fc7eb62be331c310448d40b3f5814721eed6f3cce5ca0c95c33d1cba6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Innovative 3D-printed porous piezoelectric poly(vinylidene fluoride) cages with accelerated spinal fusion",
+    "authors": "Zhang H, Gao G, Wang L, Li C, Xu C, Dong X, Sang L.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.102333",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

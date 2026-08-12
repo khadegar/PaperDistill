@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12403283",
+  "paper_id": "doi:10.1186/s40001-025-03112-2",
+  "pmcid": "PMC12403283",
+  "source_record_sha256": "42dde9d06477d5b460ea8b364962417ef514638f759946f7db7ec4b80921fd5c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fb8149030dec097460b20a7af1704d0dc409757d89d9e01a502e61609eb9b00a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Coronal axis deviations in medial unicompartmental knee arthroplasty failures: an imaging study of patients revised for aseptic loosening",
+    "authors": "Migliorini F, Maffulli N, Kämmer D, Hofmann UK, Eschweiler J, Bell A.",
+    "year": 2025,
+    "journal": "European Journal of Medical Research",
+    "doi": "10.1186/s40001-025-03112-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

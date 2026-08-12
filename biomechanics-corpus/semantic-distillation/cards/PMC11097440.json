@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11097440",
+  "paper_id": "doi:10.1186/s13018-024-04784-y",
+  "pmcid": "PMC11097440",
+  "source_record_sha256": "ff13854a23e89e2d0c2488c59fb298ea09e13be0165b178401a27ff318f26710",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f7d40f1cad88e8cb312f05a60609db55af24edddd90d50428438ae90633e8e50",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation optimum ratio of synthetic bone graft material and platelet rich fibrin mixture in a metal 3D printed implant to enhance bone regeneration",
+    "authors": "Wong KW, Chen YS, Lin CL.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-04784-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10907665",
+  "paper_id": "doi:10.1016/j.heliyon.2024.e26621",
+  "pmcid": "PMC10907665",
+  "source_record_sha256": "35d52ec193cd297194a8388dce7e8cf1018ab51ee439149244f6cef33cb2bd65",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f402f49e4ecbeebf8e211b6bc25c384b9f3cd7df7f02dde825d9cd770f72a844",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surface micropatterning of 3D printed PCL scaffolds promotes osteogenic differentiation of BMSCs and regulates macrophage M2 polarization",
+    "authors": "Huang W, Cai X, Xiao C, Song W, Yin H, Xu W.",
+    "year": 2024,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2024.e26621",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7825691",
+  "paper_id": "doi:10.3390/ijms22020528",
+  "pmcid": "PMC7825691",
+  "source_record_sha256": "a2bc393abdcd0dd923f4ced11ae6b52b596e2c4c0adcc699fbdb503698ea6940",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a3599e37b042044d38ef22bf44784608b5df37f9173ee762b5e60e03003692ed",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Electroless Palladium-Coated Polymer Scaffolds for Electrical Stimulation of Osteoblast-Like Saos-2 Cells",
+    "authors": "Careta O, Salicio-Paz A, Pellicer E, Ibáñez E, Fornell J, García-Lecina E, Sort J, Nogués C.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms22020528",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

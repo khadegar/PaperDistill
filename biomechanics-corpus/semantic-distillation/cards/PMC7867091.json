@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7867091",
+  "paper_id": "doi:10.3390/ijms22031441",
+  "pmcid": "PMC7867091",
+  "source_record_sha256": "43bef2e71958dcc76561c4655661f1a449a4e0211917aedcae026e9f7cd9f935",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "addec190d25750af02090fc5f0c38967ea44282e9e30c13ce1629337cabc67d0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Graphene-Doped Poly (Methyl-Methacrylate) (Pmma) Implants: A Micro-CT and Histomorphometrical Study in Rabbits",
+    "authors": "Scarano A, Orsini T, Di Carlo F, Valbonetti L, Lorusso F.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms22031441",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

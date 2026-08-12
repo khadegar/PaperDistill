@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11989868",
+  "paper_id": "doi:10.3390/jcm14072479",
+  "pmcid": "PMC11989868",
+  "source_record_sha256": "d7ab7ef48ad90315f405976609cd818715a0dfb9d3889ac4c5901b7d7ec8a48e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "652b341815e2a5802762b023de03603ae5edc6eeb636a0beb0a7d7d21b831ca6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Overcoming Barriers in Neurosurgical Education: Introducing a Simulator for Insular Glioma Resection with Fluorescence Imaging (SIGMA)",
+    "authors": "Al-Hamid S, Swiatek VM, Reiser J, Taskaya F, Amini A, Stein KP, Rashidi A, Sandalcioglu IE, Neyazi B.",
+    "year": 2025,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm14072479",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

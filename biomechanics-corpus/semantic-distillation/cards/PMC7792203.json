@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7792203",
+  "paper_id": "doi:10.1186/s12891-020-03892-0",
+  "pmcid": "PMC7792203",
+  "source_record_sha256": "b76711c93b24036306e43b131ac69224d3ba4c70c2b8284dbfb452ff70f03540",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c2e13c7af944fb851bd33b4921ee8665bf9de9968fc2cf6c5e9deaf8a9facaa1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Is preoperative glenoid bone mineral density associated with aseptic glenoid implant loosening in anatomic total shoulder arthroplasty?",
+    "authors": "Mariaux S, Obrist R, Farron A, Becce F, Terrier A.",
+    "year": 2021,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-020-03892-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

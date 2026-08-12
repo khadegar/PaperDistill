@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7584072",
+  "paper_id": "doi:10.3389/fbioe.2020.567647",
+  "pmcid": "PMC7584072",
+  "source_record_sha256": "22850b93646294170a4e8830fa07c11888bded7d044e08a5752d1a3289e9cec5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "47a2f693d3d35ada54f95a8750cf72e14baa2fda7b75a6244e78d0d0d5807cef",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Characterization of an Acute Rodent Osteomyelitis Infectious Model Using a Tibial Intramedullary Implant Inoculation",
+    "authors": "Assad M, Downey AM, Cluzel C, Trudel Y, Doyle N, Authier S.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.567647",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

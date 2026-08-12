@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12043575",
+  "paper_id": "doi:10.3389/fbioe.2025.1576305",
+  "pmcid": "PMC12043575",
+  "source_record_sha256": "2269f622230c39ef47e2e059b1128ea3c808102b603530b72f304de22f421a9e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "eb3044248b923d1ff12e77a5e8f781ad82f6e0e4eaec32c061e27a803a2e2a7c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Case Report: 3D printing of customized combined guides assisting total hip arthroplasty for treatment of fused hip: a case report",
+    "authors": "Wang X, Jiang Y, Wang Z, Zeng Y, Chen J, Li H, Liao G, Dong X.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1576305",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

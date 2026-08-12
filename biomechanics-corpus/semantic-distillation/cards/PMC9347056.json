@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9347056",
+  "paper_id": "doi:10.21037/atm-21-5315",
+  "pmcid": "PMC9347056",
+  "source_record_sha256": "8362f67b544bc8bb273dd45f64ce0551c85b2d817c465f6c6903ea63606697b4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2daeb09cb559da5c1daab7796644296d375f81597a46a94f22342c1f446c23b8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Direct electromagnetic coupling to determine diagnostic bone fracture stiffness",
+    "authors": "Wolynski JG, Ilić MM, Labus KM, Notaroš BM, Puttlitz CM, McGilvray KC.",
+    "year": 2022,
+    "journal": "Annals of Translational Medicine",
+    "doi": "10.21037/atm-21-5315",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,340 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8878354",
+  "paper_id": "doi:10.3390/jpm12020235",
+  "pmcid": "PMC8878354",
+  "source_record_sha256": "853123f39f7f2bbea9843e4140526a0b55f06db77a82b214faa8b4917d779b7f",
+  "reading": {
+    "status": "completed",
+    "access_level": "full_text_read",
+    "reader_role": "primary_codex",
+    "reader_model": "gpt-5.6-sol",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T11:06:16Z",
+    "packet_sha256": "cea84ea182731e89877d0249dd28ba5e338cd6833d6a7f9ca04fc729770fd0e2",
+    "section_locators_read": [
+      "S001:C01",
+      "S001:C02",
+      "S002:C01",
+      "S002:C02",
+      "S002:C03",
+      "S003:C01",
+      "S004:C01",
+      "S005:C01",
+      "S006:C01",
+      "S006:C02",
+      "S006:C03",
+      "S007:C01",
+      "S007:C02",
+      "S008:C01",
+      "S009:C01",
+      "S009:C02",
+      "S009:C03",
+      "S009:C04",
+      "S009:C05",
+      "S010:C01",
+      "S011:C01",
+      "S011:C02",
+      "S011:C03",
+      "S012:C01",
+      "S012:C02",
+      "S013:C01",
+      "S013:C02",
+      "S014:C01",
+      "S015:C01",
+      "S015:C02",
+      "S015:C03",
+      "S016:C01",
+      "S016:C02",
+      "S016:C03",
+      "S017:C01",
+      "S018:C01",
+      "S019:C01",
+      "S020:C01",
+      "S021:C01",
+      "S022:C01",
+      "S023:C01",
+      "S024:C01"
+    ],
+    "omissions": [],
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "From Bench to Bedside in Precision Medicine: Diabetes Mellitus and Peri-Implantitis Clinical Indices with a Short-Term Follow-Up: A Systematic Review and Meta-Analysis",
+    "authors": "Dioguardi M, Cantore S, Scacco S, Quarta C, Sovereto D, Spirito F, Alovisi M, Troiano G, Aiuto R, Garcovich D, Crincoli V, Laino L, Covelli M, Malcangi A, Lo Muzio L, Ballini A, Di Cosola M.",
+    "year": 2022,
+    "journal": "Journal of Personalized Medicine",
+    "doi": "10.3390/jpm12020235",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review_and_meta_analysis_of_prospective_clinical_studies",
+    "design_features": [
+      "prisma",
+      "prospero_registration",
+      "picos",
+      "diabetes_vs_non_diabetes",
+      "short_term_peri_implant_indices",
+      "random_effects_meta_analysis",
+      "heterogeneity_and_sensitivity_analysis",
+      "grade"
+    ],
+    "research_problem": "Diabetes may impair peri-implant tissue health, but short-term differences in marginal bone loss and inflammatory indices are difficult to interpret because glycaemic definitions, patients, implants, and measurement protocols vary across clinical studies.",
+    "exact_gap": "The review sought a time-specific synthesis of prospective DM-versus-non-DM implant studies reporting MBL, BOP, probing depth, or plaque index at 6 or 12 months, rather than mixing longer follow-up windows (S002:C03).",
+    "objective_or_hypothesis": "Test whether peri-implant indices are already worse in patients with diabetes during the first 6-12 months after implant treatment and explore whether HbA1c strata explain differences (S001:C01; S002:C03).",
+    "study_design": "PRISMA-reported, PROSPERO-registered systematic review of English-language prospective clinical studies, followed by outcome- and time-specific meta-analyses, heterogeneity assessment, selected sensitivity exclusions, HbA1c subgroup analyses, Newcastle-Ottawa appraisal, and GRADE for MBL outcomes (S003:C01-S007:C02).",
+    "sample_or_model": "Seven prospective studies published from 2014-2021, totaling 280 participants with diabetes and 166 without diabetes and 343 versus 212 implants; study arms differed in HbA1c, age, implant counts/specifications, and outcome measurement (S008:C01-S009:C05).",
+    "comparators": [
+      "Patients with diabetes versus patients without diabetes after dental implantation",
+      "Six-month versus twelve-month outcome windows",
+      "Exploratory lower versus higher HbA1c subgroups",
+      "Full meta-analysis versus post-hoc/sensitivity exclusion of heterogeneous studies"
+    ],
+    "method_spine": [
+      "Pre-register a short-term PICOS question and reproducible search.",
+      "Screen and extract with three reviewers and report agreement.",
+      "Keep patient, implant, HbA1c, measurement, and follow-up units visible.",
+      "Pool each clinical index at each time point with effect estimate, interval, and heterogeneity.",
+      "Report sensitivity and subgroup analyses without treating them as causal explanations.",
+      "Use risk-of-bias and GRADE to constrain conclusions to association and short-term proxies."
+    ],
+    "validation_roles": {
+      "verification": [
+        "The review reports registration, databases/dates, full search strategies, a 992-to-7 flow, three-reviewer screening/extraction, and kappa around 0.85 (S003:C01-S008:C01).",
+        "Forest/funnel plots and sensitivity analyses are used to inspect calculations, but no independent data/code replication or duplicate meta-analysis audit is reported."
+      ],
+      "calibration": [],
+      "validation": [
+        "The synthesis is contextualized against earlier reviews, but this is comparison of secondary syntheses rather than external validation of a patient-level causal or predictive model (S016:C01-S016:C03)."
+      ],
+      "sensitivity": [
+        "For MBL, graphically selected exclusion of one or two studies reduces I-squared substantially; BOP, PD, and PI remain extremely heterogeneous and no unique source is found (S011:C01-S014:C01).",
+        "HbA1c subgroup analyses are exploratory, highly heterogeneous, and do not clearly demonstrate subgroup differences (S015:C01-S016:C01)."
+      ],
+      "application_prediction": [
+        "The review may support individualized risk discussion and closer follow-up, but it does not validate an implant-selection rule, HbA1c threshold, intervention, or long-term failure prediction (S017:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "Twelve-month MBL favored non-DM groups with reported SMD 0.81 [0.45, 1.17], I-squared 81%; excluding one study gave 0.66 [0.38, 0.94], I-squared 66% (S011:C01-S011:C02).",
+      "Six-month MBL favored non-DM groups with reported SMD 1.82 [0.53, 3.10], I-squared 94%; after excluding two studies the paper reports MD 2.84 [2.35, 3.30], I-squared 24%, an effect-unit/interpretation that requires checking against the forest plot (S011:C02-S011:C03).",
+      "BOP at 12 and 6 months had reported SMDs 2.84 [1.34, 4.34] and 3.44 [1.41, 5.50], with I-squared 98% and 96% (S012:C01-S012:C02).",
+      "PD at 12 and 6 months had reported SMDs 1.14 [0.60, 1.68] and 2.24 [0.66, 3.83], with I-squared 90% and 96%; twelve-month PI was 2.83 [0.09, 5.57], I-squared 99% (S013:C01-S014:C01).",
+      "HbA1c subgroup results were imprecise/internally inconsistently labelled and did not clearly establish different effects between glycaemic strata; GRADE rated the MBL evidence low (S015:C01-S015:C03; S016:C01)."
+    ],
+    "highest_evidence_level_reached": "Low-certainty meta-analytic association for short-term peri-implant clinical/radiographic proxy indices from seven heterogeneous prospective observational studies; no causal intervention, long-term failure, direct osseointegration, or patient-level prediction evidence."
+  },
+  "argument_map": {
+    "central_claim": "Short-term MBL, BOP, PD, and PI estimates generally favor non-diabetic groups, but very high heterogeneity, inconsistent glycaemic and outcome definitions, observational confounding, and low GRADE certainty mean the review supports a context-dependent association rather than a causal diabetes effect, HbA1c threshold, osseointegration failure, or long-term implant prognosis.",
+    "data": [
+      "Seven prospective studies with outcome/time-specific pooled estimates, confidence intervals, I-squared values, and limited sensitivity/subgroup analyses (S009:C01-S015:C03).",
+      "Risk-of-bias scoring and low GRADE certainty for MBL (S010:C01; S015:C03)."
+    ],
+    "warrant": "Consistent direction across several short-term peri-implant indices can indicate a diabetes-associated risk signal, while causal and clinical generalization depend on comparable definitions, appropriate units, confounder control, heterogeneity explanation, and longitudinal outcomes.",
+    "backing": [
+      "The paper itself concludes that findings must be individualized and calls for standardized definitions, repeated glucose monitoring, and longitudinal studies (S017:C01)."
+    ],
+    "qualifier": "Low-certainty, short-term association across heterogeneous prospective clinical cohorts.",
+    "rebuttals_or_boundaries": [
+      "I-squared is 81-99% for most pooled outcomes, so the average effect may not describe any one clinical setting.",
+      "HbA1c bands, diabetes definitions, age, oral hygiene, smoking, periodontal history, BMI, implant dimensions, site-level measurements, and follow-up differ across studies (S009:C01-S009:C05; S016:C03-S017:C01).",
+      "Some participants contribute multiple implants and each implant contributes several probing sites, creating potential clustering/unit-of-analysis concerns not clearly modeled (S009:C04).",
+      "MBL/BOP/PD/PI are short-term proxy indices; implant failure, revision, mechanical fixation, direct bone-implant contact, and long-term survival were not pooled.",
+      "Graphical exclusion after inspecting confidence intervals/funnel plots is not a definitive identification of biological heterogeneity sources."
+    ],
+    "argument_coherence": "moderate"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "The review itself measured search/screening counts and computed pooled estimates, intervals, heterogeneity, sensitivity, subgroup, and certainty summaries from published clinical data (S008:C01-S015:C03)."
+    ],
+    "predicted": [],
+    "inferred": [
+      "Worse short-term indices are attributed to high blood glucose, although the included comparisons are observational and residual confounding remains (S016:C01-S016:C03).",
+      "Short-term inflammatory indices are suggested to contribute to failure over subsequent years, but long-term implant failure was not a pooled endpoint (S016:C02).",
+      "A study is identified as the 'source' of heterogeneity by graphical/sensitivity exclusion, which demonstrates influence rather than a verified causal source (S011:C01-S011:C03).",
+      "Funnel plots with few studies are used to identify dispersion/source patterns, but their diagnostic reliability is limited.",
+      "HbA1c subgroup trends are discussed despite inconsistent labels and no clear formal interaction result (S015:C01-S016:C01)."
+    ],
+    "recommended": [
+      "Standardize peri-implant disease definitions and measurement units, report patient/implant/site clustering, prespecify confounders and HbA1c exposure, monitor glycaemia longitudinally, and collect long-term failure/function outcomes (S017:C01)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Marginal bone loss is a radiographic clinical indicator, not direct histological osseointegration or mechanical fixation.",
+      "Bleeding, probing depth, and plaque index are inflammatory/hygiene proxies, not implant survival.",
+      "A statistically different short-term proxy does not establish a clinically important long-term effect.",
+      "Study count and prospective design do not remove confounding or measurement heterogeneity.",
+      "A pooled group association does not yield an individual HbA1c decision threshold."
+    ],
+    "overclaim_risks": [
+      "The discussion moves from association to wording that high glucose 'leads to' worse indices and contributes to later failure (S016:C01-S016:C02).",
+      "The review frames short-term indices through osseointegration failure even though direct integration/failure was not the pooled outcome (S016:C02-S016:C03).",
+      "The reported use of MD versus SMD is internally inconsistent, and the post-exclusion six-month effect changes metric label; numerical reuse requires forest-plot verification (S007:C01; S011:C02-S011:C03).",
+      "BOP/PI site ratios are transformed into continuous outcomes while hierarchical patient-implant-site dependence is not clearly handled (S009:C04).",
+      "Automated FE and animal cues are false; this is a secondary clinical synthesis."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Make a time-specific clinical review auditable",
+      "execution": "PICOS, registration, search dates/strings, reviewer roles, agreement, and a 992-to-7 flow are reported explicitly (S002:C03-S008:C01).",
+      "locator": "S006:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For systematic reviews, bind population, comparator, exact time window, endpoint unit, study design, search, and reviewer process before pooling.",
+      "failure_mode": "Transparent retrieval does not resolve downstream effect-unit or confounding problems."
+    },
+    {
+      "section": "results",
+      "move": "Report effect, interval, heterogeneity, and sensitivity together",
+      "execution": "Each outcome is paired with pooled estimate, confidence interval, I-squared, and when possible an exclusion analysis (S011:C01-S014:C01).",
+      "locator": "S011:C02",
+      "effectiveness": "high_in_structure_moderate_in_execution",
+      "transferable_principle": "Never report a pooled effect without its uncertainty, inconsistency, model, number of studies, and prespecified sensitivity result; verify that the metric remains the same after exclusion.",
+      "failure_mode": "A lower I-squared after removing influential studies does not automatically justify the reduced set or identify causation."
+    },
+    {
+      "section": "results",
+      "move": "Use subgroup analysis as an uncertainty probe, not a dose-response conclusion",
+      "execution": "HbA1c strata are shown, but high within-subgroup heterogeneity and lack of clear differences temper the interpretation (S015:C01-S016:C01).",
+      "locator": "S015:C03",
+      "effectiveness": "moderate",
+      "transferable_principle": "For moderator claims, report subgroup definitions, within-group heterogeneity, interaction test, study count, and label consistency before describing a gradient.",
+      "failure_mode": "Different subgroup point estimates are not evidence of effect modification."
+    },
+    {
+      "section": "discussion",
+      "move": "Finish with a proxy-to-clinical boundary and executable standardization needs",
+      "execution": "The conclusion limits relevance to individualized interpretation and requests common definitions, longitudinal design, and repeated glucose monitoring (S017:C01).",
+      "locator": "S017:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Close heterogeneous clinical syntheses by distinguishing the observed proxy signal, the unmeasured clinical outcome, and the design changes needed to bridge them.",
+      "failure_mode": "Do not call short-term MBL/BOP/PD/PI a demonstrated long-term osseointegration or survival effect."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The review acknowledges high heterogeneity, inconsistent HbA1c ranges, age differences, nonuniform disease/indicator definitions, residual risk factors, and low certainty, and calls for standardized longitudinal research (S016:C01-S017:C01)."
+    ],
+    "reader_identified": [
+      "Only seven studies are pooled; several outcomes/time points include still fewer studies, limiting funnel-plot and subgroup reliability.",
+      "Prospective observational designs remain confounded by smoking, BMI, periodontal history, oral hygiene, comorbidities, site, and treatment differences.",
+      "Potential clustering across patients, multiple implants, and multiple probing sites is not clearly incorporated.",
+      "MD/SMD terminology and at least one confidence-interval value are internally inconsistent; source forest plots should be checked before numerical citation.",
+      "Sensitivity exclusions appear graphically/data-driven rather than prespecified and may induce selection bias.",
+      "NOS scoring language is confusing (one labelled low and three high while higher totals are called higher quality), and the criterion excluding high-risk studies is not fully reconciled with included scores (S007:C01; S010:C01).",
+      "GRADE table counts/units are difficult to reconcile with seven included studies and should be verified.",
+      "No long-term implant failure, revision, function, direct integration, or intervention effect is synthesized."
+    ],
+    "likely_bias_direction": [
+      "Data-driven exclusion may make the remaining MBL estimate appear more homogeneous and certain.",
+      "Ignoring hierarchical clustering may understate uncertainty.",
+      "Causal and osseointegration framing likely overstates the observational proxy evidence."
+    ],
+    "scope_boundary": "The review supports a low-certainty association between diabetes and worse short-term peri-implant proxy indices in heterogeneous prospective cohorts. It does not establish causality, an HbA1c threshold, direct osseointegration failure, implant survival effects, or a clinical decision rule."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC8878354-01",
+      "capability": "Write every meta-analytic result as an inseparable bundle of effect metric, interval, study/time unit, heterogeneity, model, and sensitivity result.",
+      "manuscript_use": "Systematic-review Results, abstract, evidence table, and numerical audit.",
+      "applicable_domains": [
+        "all_domains"
+      ],
+      "applicable_study_designs": [
+        "systematic_review",
+        "meta_analysis"
+      ],
+      "supporting_locators": [
+        "S011:C01",
+        "S011:C02",
+        "S012:C01",
+        "S013:C01",
+        "S014:C01"
+      ],
+      "counterexample_or_boundary": "Do not reuse a pooled number until MD/SMD, direction, CI, and exclusion set are verified against the forest plot.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC8878354-02",
+      "capability": "Distinguish short-term peri-implant clinical proxies from direct osseointegration, mechanical fixation, long-term failure, and patient-level prognosis.",
+      "manuscript_use": "Discussion evidence ladder, conclusion calibration, and citation entailment audit.",
+      "applicable_domains": [
+        "osseointegration",
+        "bone_implant",
+        "clinical_biomechanics"
+      ],
+      "applicable_study_designs": [
+        "clinical_observational",
+        "systematic_review"
+      ],
+      "supporting_locators": [
+        "S009:C05",
+        "S016:C02",
+        "S016:C03",
+        "S017:C01"
+      ],
+      "counterexample_or_boundary": "MBL, BOP, PD, and PI at 6-12 months do not demonstrate histological integration or long-term implant survival.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC8878354-03",
+      "capability": "Treat heterogeneity and subgroup analysis as model limitations requiring moderator evidence, not as noise removable by graphical exclusion.",
+      "manuscript_use": "Meta-analysis Methods, Results, and uncertainty paragraph.",
+      "applicable_domains": [
+        "all_domains"
+      ],
+      "applicable_study_designs": [
+        "systematic_review",
+        "meta_analysis"
+      ],
+      "supporting_locators": [
+        "S011:C01",
+        "S011:C03",
+        "S012:C01",
+        "S015:C01",
+        "S015:C03"
+      ],
+      "counterexample_or_boundary": "A reduction in I-squared after excluding an influential study does not by itself validate the reduced model or prove a glycaemic moderator.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_to_high",
+    "methods_transparency": "moderate_to_high",
+    "validation_credibility": "low_to_moderate_due_to_heterogeneity_and_observational_inputs",
+    "outcome_uncertainty_reporting": "moderate",
+    "comparator_fairness": "low_to_moderate_residual_confounding",
+    "conclusion_proportionality": "moderate",
+    "critical_weaknesses": [
+      "Extreme heterogeneity and few studies per outcome.",
+      "Potential unit-of-analysis, metric-label, and data-driven sensitivity problems.",
+      "Short-term proxy outcomes do not establish integration or survival."
+    ],
+    "overall_credibility": "moderate_for_short_term_association_low_for_causality_hba1c_threshold_osseointegration_or_long_term_prognosis"
+  },
+  "summary_zh": "这篇系统综述最值得蒸馏的不是‘糖尿病一定导致种植失败’，而是如何把异质临床证据写清。7 项前瞻性研究的短期 MBL、BOP、PD、PI 总体方向对非糖尿病组更有利，但多数 I² 达 81%–99%，MBL 的敏感性剔除也带有明显的数据驱动色彩，GRADE 仅为低。写作时每个效应量必须与 95%CI、I²、时间点、研究数、效应指标和敏感性结果绑定；本文 MD/SMD 标签及个别区间还需回查森林图。更重要的是，6–12 个月的边缘骨丧失、出血、探诊深度和菌斑只是临床代理指标，不能直接写成组织学骨整合、机械固定或长期植体生存失败，也不能从高度异质的亚组结果推出 HbA1c 决策阈值。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section, including the full study-characteristics and risk-of-bias tables.",
+    "The finite-element and in-vivo-animal cues are false; the clinical observations belong to included primary studies.",
+    "Numerical claims from this paper should be checked against the original forest plots because the text contains effect-metric and interval inconsistencies."
+  ],
+  "selection": {
+    "selection_reason": "explicit_include",
+    "primary_stratum": "mechanobiology_remodeling",
+    "stratum_rank": 3,
+    "reading_order": 23
+  },
+  "source": {
+    "record_path": "records/PMC8878354.json.gz",
+    "source_record": "records/PMC8878354.json.gz",
+    "source_record_sha256": "853123f39f7f2bbea9843e4140526a0b55f06db77a82b214faa8b4917d779b7f",
+    "source_hash": "853123f39f7f2bbea9843e4140526a0b55f06db77a82b214faa8b4917d779b7f"
+  }
+}

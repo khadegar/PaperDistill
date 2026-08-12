@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5327545",
+  "paper_id": "doi:10.1186/s12880-017-0190-z",
+  "pmcid": "PMC5327545",
+  "source_record_sha256": "058ab61042a93eb377eb481a594ad5425915100c8a4f37eb0afe76543b611a8c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "516eebd96f251429e946d064f2fbc6e457fdf15943ac4441c68cfbd2722dc2ea",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Distal radius plate of CFR-PEEK has minimal effect compared to titanium plates on bone parameters in high-resolution peripheral quantitative computed tomography: a pilot study",
+    "authors": "de Jong JJ, Lataster A, van Rietbergen B, Arts JJ, Geusens PP, van den Bergh JP, Willems PC.",
+    "year": 2017,
+    "journal": "BMC Medical Imaging",
+    "doi": "10.1186/s12880-017-0190-z",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12141868",
+  "paper_id": "doi:10.1016/j.bioactmat.2025.05.010",
+  "pmcid": "PMC12141868",
+  "source_record_sha256": "3d9684d5b94d4aea9a23e6c9ba45483726bc4087a8514e033d3aaa487a598f00",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ea797510358f8524c51586b74cce6e28ca5f6122f0000f897e32cec34ed33c25",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dose-dependent osteoimmunomodulatory effects of amorphous calcium phosphate nanoparticles promote 3D-printed scaffold-mediated bone regeneration",
+    "authors": "Yan M, Xiao B, Yosick A, Liu B, Awad HA.",
+    "year": 2025,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2025.05.010",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

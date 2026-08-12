@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11457813",
+  "paper_id": "doi:10.1530/eor-23-0182",
+  "pmcid": "PMC11457813",
+  "source_record_sha256": "4ecb58271979df09bd2eb7c46584102af2355c5a357507f15f245571234e1b73",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "78dc66d41c5e63111941867ec690f4fd53864310e4a56e76f10aaca9de78d8f6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Characterisation of 3D-printed acetabular hip implants",
+    "authors": "Nicum A, Hothi H, Henckel J, di Laura A, Schlueter-Brust K, Hart A.",
+    "year": 2024,
+    "journal": "EFORT Open Reviews",
+    "doi": "10.1530/eor-23-0182",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

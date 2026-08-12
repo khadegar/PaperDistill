@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11786797",
+  "paper_id": "doi:10.1016/j.radcr.2025.01.019",
+  "pmcid": "PMC11786797",
+  "source_record_sha256": "2d79209692d8c235908483fcf91887a98e0dfb4451ceff26f0bd14f7660802bd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "acf1853c4bcf0c34920b2f620c6f7652eb58f1313e0f4e3d20de40f50c659715",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A case of aseptic loosening after total knee replacement with porous-coated mega prosthesis despite progression of extra bone growth",
+    "authors": "Miyamoto R, Goto Y, Fujito T, Abe H, Kunugiza Y.",
+    "year": 2025,
+    "journal": "Radiology Case Reports",
+    "doi": "10.1016/j.radcr.2025.01.019",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8367833",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.05.025",
+  "pmcid": "PMC8367833",
+  "source_record_sha256": "554dbe6e0245139812ec2887a2f029e1647c72150a8bff2455ffe299f6edf8ae",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d835825da32d19be39c2dcd54f19004caaeabe676cc57657430d570aefcd5e57",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous tantalum structure integrated on Ti6Al4V base by Laser Powder Bed Fusion for enhanced bony-ingrowth implants: In vitro and in vivo validation",
+    "authors": "Lei P, Qian H, Zhang T, Lei T, Hu Y, Chen C, Zhou K.",
+    "year": 2022,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.05.025",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

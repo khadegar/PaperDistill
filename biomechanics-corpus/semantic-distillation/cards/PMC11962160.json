@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11962160",
+  "paper_id": "doi:10.1038/s41368-025-00354-y",
+  "pmcid": "PMC11962160",
+  "source_record_sha256": "5e7fc6a40ee89b8a3c7ffee4e0c37d1f628151881b44505cd9ddae50bbe8d347",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2934ecf895d2527c4ab92bde181bab8275e70a9f3c1dd443bed8e12741c4409d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Exploring the mechanical and biological interplay in the periodontal ligament",
+    "authors": "Wen X, Pei F, Jin Y, Zhao Z.",
+    "year": 2025,
+    "journal": "International Journal of Oral Science",
+    "doi": "10.1038/s41368-025-00354-y",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

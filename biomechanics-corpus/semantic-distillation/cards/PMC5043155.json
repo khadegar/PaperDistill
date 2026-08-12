@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5043155",
+  "paper_id": "doi:10.1093/rb/rbw031",
+  "pmcid": "PMC5043155",
+  "source_record_sha256": "c61628f7ec9d8de6c90f8d55ad8508f1b956325aeb77dad7d0b6d5e81ca24b03",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9d65f76a6c47970de11b1c9e5eff84ef888ccb79468e8ed68cf5a98b1e0e54be",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Ectopic osteogenesis and angiogenesis regulated by porous architecture of hydroxyapatite scaffolds with similar interconnecting structure in vivo",
+    "authors": "Li J, Zhi W, Xu T, Shi F, Duan K, Wang J, Mu Y, Weng J.",
+    "year": 2016,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbw031",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

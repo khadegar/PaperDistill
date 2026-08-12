@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5866725",
+  "paper_id": "doi:10.2147/ijn.s154605",
+  "pmcid": "PMC5866725",
+  "source_record_sha256": "736baef058f1c4f16533f319f2727d6fdc62ab1d5aff8c3078684287d86ad489",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c5b3777a411a3ca2d05735c1a0f225b675bdeccda79e236ceecefdfa3739622d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimetic mineralized strontium-doped hydroxyapatite on porous poly( l -lactic acid) scaffolds for bone defect repair",
+    "authors": "Ge M, Ge K, Gao F, Yan W, Liu H, Xue L, Jin Y, Ma H, Zhang J.",
+    "year": 2018,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s154605",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

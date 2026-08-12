@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8926351",
+  "paper_id": "doi:10.3389/fbioe.2022.816250",
+  "pmcid": "PMC8926351",
+  "source_record_sha256": "6e61aa957fd991f7a5221bcc89b96cabda1a6e7f78e2d9d70a17bae413ad609e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "07e5907d194adab1de4de98af41d2859eb92e1ff0b5dabd5f3cd1d776be7cb0f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A New Augmentation Method for Improved Screw Fixation in Fragile Bone",
+    "authors": "Raina DB, Markevičiūtė V, Stravinskas M, Kok J, Jacobson I, Liu Y, Sezgin EA, Isaksson H, Zwingenberger S, Tägil M, Tarasevičius Š, Lidgren L.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.816250",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

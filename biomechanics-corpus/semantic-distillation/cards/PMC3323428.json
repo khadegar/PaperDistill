@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3323428",
+  "paper_id": "doi:10.1186/1471-2474-13-42",
+  "pmcid": "PMC3323428",
+  "source_record_sha256": "b24df5ad344456f9156467b43ef5e75d4c60ec5f741b0cdd3b8ec20d0f6cb9ea",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5fb55ad80d5070f8dbda4ec39f3a89442d0047b331068d006b99fda3c0f4e6b6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of local zoledronate on implant osseointegration in a rat model",
+    "authors": "Back DA, Pauly S, Rommel L, Haas NP, Schmidmaier G, Wildemann B, Greiner SH.",
+    "year": 2012,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/1471-2474-13-42",
+    "publication_type": "Comparative Study; Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

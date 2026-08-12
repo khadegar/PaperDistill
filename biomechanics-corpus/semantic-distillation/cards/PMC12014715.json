@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12014715",
+  "paper_id": "doi:10.3389/fbioe.2025.1562367",
+  "pmcid": "PMC12014715",
+  "source_record_sha256": "51d1346f96e627e08a06981989709b02c67c44749a0d87e06f64114f0102c2bf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "62748142167972c0fe8dc25ddfe8ddf56c1ca77d564e1892931f85b12da078cd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An integrated experimental and analytical approach for the analysis of the mechanical interaction between metal porous scaffolds and bone: implications for stress shielding in orthopedic implants",
+    "authors": "Ramaglia Amadasi R, Rogati G, Liverani E, Leardini A, Caravaggi P.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1562367",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

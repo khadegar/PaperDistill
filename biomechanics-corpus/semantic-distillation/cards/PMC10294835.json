@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10294835",
+  "paper_id": "doi:10.3390/bioengineering10060672",
+  "pmcid": "PMC10294835",
+  "source_record_sha256": "9aa0cd8dbb592ff0c3e311ae953c68df8477d7f44cd0e979b9284c6671ba0d16",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1dc3dcc09a68209df2692a91d731b5fe06147d53c3703d5d4c21bbf104d0b4bf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive Manufacturing of Bioactive Glass and Its Polymer Composites as Bone Tissue Engineering Scaffolds: A Review",
+    "authors": "He L, Yin J, Gao X.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10060672",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

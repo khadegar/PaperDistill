@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11181004",
+  "paper_id": "doi:10.1210/jendso/bvae112",
+  "pmcid": "PMC11181004",
+  "source_record_sha256": "4ef99bacde8d2c0e26d33e53d60573915bc5a1ca0c87467841db65a50aec6bf2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "899c118e88fb0d7ecd4342982e873263f66e95c2570184902cb3808884b2a2ec",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Health in Patients With Type 2 Diabetes",
+    "authors": "Forner P, Sheu A.",
+    "year": 2024,
+    "journal": "Journal of the Endocrine Society",
+    "doi": "10.1210/jendso/bvae112",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

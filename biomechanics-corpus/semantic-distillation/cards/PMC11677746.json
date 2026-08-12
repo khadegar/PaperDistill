@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11677746",
+  "paper_id": "doi:10.3390/ma17246220",
+  "pmcid": "PMC11677746",
+  "source_record_sha256": "6f5e03e0ff4e03f1e73c230e0379cd6c6bdc1799b5da8f207e8e51120b61cb64",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0298d957333bf70df65184947f2417b2a3adbfe195bcd9d5366ca9571b2465da",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Review of Additive Manufacturing of Biodegradable Fe and Zn Alloys for Medical Implants Using Laser Powder Bed Fusion (LPBF)",
+    "authors": "Limón I, Bedmar J, Fernández-Hernán JP, Multigner M, Torres B, Rams J, Cifuentes SC.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17246220",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

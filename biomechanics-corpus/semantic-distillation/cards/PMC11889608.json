@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11889608",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101577",
+  "pmcid": "PMC11889608",
+  "source_record_sha256": "337bf31d36ec4b547e72b518ad8f812b7c175f067cc2769fafac90e4fd793f45",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fed6d5d2f86aef6615936ca55898deef7879c244501e4d2ec371016a6548fc07",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed CoSi/PCL composite scaffold with NIR-II photothermal ability and enhanced adipogenic activity for breast reconstruction after mastectomy",
+    "authors": "Zhang J, Xia H, Zhou X, Meng Z, Jin Q, Chen D, Xia X, Jiao Y, Chang J, Dong Z, Zeng Z, Ma H, Yang C.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101577",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

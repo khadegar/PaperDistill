@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12796164",
+  "paper_id": "doi:10.1038/s41598-025-31217-5",
+  "pmcid": "PMC12796164",
+  "source_record_sha256": "0e951af87e9b8deb108b3fa1da878791aad2d2bbb6b3f6b3d2db5d39678e04cc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "47af81819aca6a00df56a59a1bde711ada6d1fcfda9527db4b882efa3d518b23",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical behavior of two different surface treatments on dental implants with healing chambers in osteoporotic rabbits: an experimental study",
+    "authors": "Gehrke SA, Scarano A, Lorusso F, Júnior JA, Treichel TLE, Lijnev A, de Val JEMS, da Costa EM.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-31217-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11889618",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101576",
+  "pmcid": "PMC11889618",
+  "source_record_sha256": "d190157cd5b1a2017a5be39183ab6784834f4a0c862d8b8c57783f85aabec4c3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "895967d6257499489fdfcc875c30ebd1c2020bdaa42bd41f9a279dabab281f3c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Innovative 3D-printed porous tantalum cage with non-window design to accelerate spinal fusion: A proof-of-concept study",
+    "authors": "Liang H, Tu J, Wang B, Song Y, Wang K, Zhao K, Hua W, Li S, Tan L, Feng X, Yang C.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101576",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

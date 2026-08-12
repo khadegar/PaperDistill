@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9811790",
+  "paper_id": "doi:10.1186/s42836-022-00157-0",
+  "pmcid": "PMC9811790",
+  "source_record_sha256": "78c958a454da79077ecd8b213de05c6fa51bf8d982f9a74576d21e895a674a6a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2560b742e2500186b0a2aaf95afebc04c9de3c638f65c865ef509daa01b84a93",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical analysis of different levels of constraint in TKA during daily activities",
+    "authors": "Castellarin G, Bori E, Rapallo L, Pianigiani S, Innocenti B.",
+    "year": 2023,
+    "journal": "Arthroplasty",
+    "doi": "10.1186/s42836-022-00157-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

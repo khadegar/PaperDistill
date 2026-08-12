@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11308563",
+  "paper_id": "doi:10.1016/j.jscai.2022.100405",
+  "pmcid": "PMC11308563",
+  "source_record_sha256": "1e34272f4382107509eebb1fc474041acfcd8006ac324d21c7a1d590fc6e7705",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "80aa9ce0e0e034df92e8f949e8d2fdbd21342b0f927b3e72259894a23b2f9ff8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Left Atrial Appendage Occlusion: Current Stroke Prevention Strategies and a Shift Toward Data-Driven, Patient-Specific Approaches",
+    "authors": "Mendez K, Kennedy DG, Wang DD, O'Neill B, Roche ET.",
+    "year": 2022,
+    "journal": "Journal of the Society for Cardiovascular Angiography & Interventions",
+    "doi": "10.1016/j.jscai.2022.100405",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

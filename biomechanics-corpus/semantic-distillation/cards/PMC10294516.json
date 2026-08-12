@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10294516",
+  "paper_id": "doi:10.1186/s40824-023-00407-5",
+  "pmcid": "PMC10294516",
+  "source_record_sha256": "8d0820b84c005c5a96796bc9be774aaf5f49f85800cc83d76643acc43fd92096",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8ec2dfd839142f6390db945fd2ce7430505d6f32878ec4d2b7c568044a17e302",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Polyetheretherketone implants with hierarchical porous structure for boosted osseointegration",
+    "authors": "Chen Z, Chen Y, Wang Y, Deng J, Wang X, Wang Q, Liu Y, Ding J, Yu L.",
+    "year": 2023,
+    "journal": "Biomaterials Research",
+    "doi": "10.1186/s40824-023-00407-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

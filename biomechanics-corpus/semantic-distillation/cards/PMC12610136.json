@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12610136",
+  "paper_id": "doi:10.3390/ma18214963",
+  "pmcid": "PMC12610136",
+  "source_record_sha256": "8608a0ab8389339fed5436557afa2680c5a590dad7d269f2621f16640e6a3056",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bce38e2adf47de45c7c4e495afe4eb907b94cd37504c9d522c6579a6dce6a8a5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Influence of Placement Angle and Loading Direction of Orthodontic Miniscrews on Orthotropic Mandible",
+    "authors": "Li YC, Hwang JR, Fung CP, Chung CY.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18214963",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

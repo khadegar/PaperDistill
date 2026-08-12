@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12884270",
+  "paper_id": "doi:10.13107/jocr.2026.v16.i02.6836",
+  "pmcid": "PMC12884270",
+  "source_record_sha256": "28f8f9ebb6fb592dfd84c162eca965d021a48866558c8ecd719ee3495e14a5f6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1b2ecc6534eb3adfd9eca09cfa0227331a3c6d128cba109f50e657bb02ef2395",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Functional and Radiological Outcomes of Proximal Femoral Nailing in Unstable Peritrochanteric Fractures: A Prospective Observational Study",
+    "authors": "Shira JD, Parihar YS, Bairagi M.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Case Reports",
+    "doi": "10.13107/jocr.2026.v16.i02.6836",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

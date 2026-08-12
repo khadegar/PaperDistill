@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8585206",
+  "paper_id": "doi:10.3390/ma14216556",
+  "pmcid": "PMC8585206",
+  "source_record_sha256": "de886f8ae039cdbf7c33685dd499b7825afb9d7c63f19cb12bee14f93472972e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "260c27a8387a8f268984fcce32035c0820a72c63770dc5d19a91a332bfb2b0cb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Custom-Made Titanium Mesh Tray for Mandibular Reconstruction Using an Electron Beam Melting System",
+    "authors": "Hoshi I, Kawai T, Kurosu S, Minamino T, Onodera K, Miyamoto I, Yamada H.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14216556",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

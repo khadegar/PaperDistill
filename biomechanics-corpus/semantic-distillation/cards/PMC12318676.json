@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12318676",
+  "paper_id": "doi:10.1111/os.70121",
+  "pmcid": "PMC12318676",
+  "source_record_sha256": "30da77c9f461b98b39691b275a6cb34591d50171849374b3cdd1e66cd56724d1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6daaaa3147663f74bf150f6df094da44a0ce5d02b528810d76f18cb50a51f2bb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Advantages of Novel Duet Screws Plus Bilateral Satellite Rods Fixation in the Correction Surgery for Adult Spinal Deformity",
+    "authors": "He Z, Chen Y, Liu Z, Yang B, Shi B, Wang Y, Feng Z, Zhang T, Chen X, Qiu Y, Qin X, Zhu Z.",
+    "year": 2025,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.70121",
+    "publication_type": "Clinical Trial; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

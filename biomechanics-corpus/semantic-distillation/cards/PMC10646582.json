@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10646582",
+  "paper_id": "doi:10.3389/fbioe.2023.1268557",
+  "pmcid": "PMC10646582",
+  "source_record_sha256": "cf4271b98dddd618db6b9d41cbaf505e84b4eec15afd7729c1109add8864bc03",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7cc5f2a6d19e47421782e898993b0346300061c7399e99b330debe3bae43d2af",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of different posterior fixation techniques for treating thoracolumbar burst fractures of osteoporosis old patients: a finite element analysis",
+    "authors": "Zhang G, Du Y, Jiang G, Kong W, Li J, Zhu Z, Xi Y.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1268557",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

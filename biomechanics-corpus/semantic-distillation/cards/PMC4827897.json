@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4827897",
+  "paper_id": "doi:10.2147/ijn.s100424",
+  "pmcid": "PMC4827897",
+  "source_record_sha256": "f20bc4241859f3bb759e77cb5aa2c2206e9a2548db352deaac44c333d434bbea",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "515bb26521f943bb903ba87d03dd9dbd24d714dcdab7dc6d1e2956461a80f685",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Polyether ether ketone implants achieve increased bone fusion when coated with nano-sized hydroxyapatite: a histomorphometric study in rabbit bone",
+    "authors": "Johansson P, Jimbo R, Naito Y, Kjellin P, Currie F, Wennerberg A.",
+    "year": 2016,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s100424",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

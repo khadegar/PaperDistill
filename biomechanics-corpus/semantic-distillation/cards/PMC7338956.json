@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7338956",
+  "paper_id": "doi:10.14245/ns.1938100.050",
+  "pmcid": "PMC7338956",
+  "source_record_sha256": "1146203daa62cb0eca9a5a21590e2511f6c6ef508b89b918e6a1f44e400484d0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "986e52de6246263cb52ca9ea8a76312ecb013ec40127322cc5162ce0a2b95b64",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bicortical Screw Purchase at Upper Instrumented Vertebra (UIV) Can Cause UIV Fracture After Adult Spinal Deformity Surgery: A Finite Element Analysis Study",
+    "authors": "Wui SH, Hyun SJ, Kang B, Kim KJ, Jahng TA, Kim HJ.",
+    "year": 2019,
+    "journal": "Neurospine",
+    "doi": "10.14245/ns.1938100.050",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

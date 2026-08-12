@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10058649",
+  "paper_id": "doi:10.3390/nano13061063",
+  "pmcid": "PMC10058649",
+  "source_record_sha256": "9db13d350b49f3fe734adc86c1689cbcd5b4d9a5d1e44b01004f135e4afbb14c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c64039071535b100af867cda2cdbb130519e4c307a84da9ffbde36b994743eab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Emerging Trends in Nanotechnology: Aerogel-Based Materials for Biomedical Applications",
+    "authors": "Bakhori NM, Ismail Z, Hassan MZ, Dolah R.",
+    "year": 2023,
+    "journal": "Nanomaterials",
+    "doi": "10.3390/nano13061063",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

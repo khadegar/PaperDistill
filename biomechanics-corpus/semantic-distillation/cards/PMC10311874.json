@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10311874",
+  "paper_id": "doi:10.1186/s41205-023-00183-x",
+  "pmcid": "PMC10311874",
+  "source_record_sha256": "7e00fefccff6014d21cbb5fa36013ec60f568360270de601882e9a4fe50655ad",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "560b65def0433a6eeb055fa6e34ef12eb8acc30048663aef725774b4771d70b2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of 3D printed patient-specific skull implants based on 3d surface scans",
+    "authors": "Kropla F, Winkler D, Lindner D, Knorr P, Scholz S, Grunert R.",
+    "year": 2023,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-023-00183-x",
+    "publication_type": "Journal Article; case-report",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

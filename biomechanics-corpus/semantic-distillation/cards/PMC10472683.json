@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10472683",
+  "paper_id": "doi:10.1186/s13018-023-04142-4",
+  "pmcid": "PMC10472683",
+  "source_record_sha256": "7b2095da3aef8b38064b2d09db6814fda5cf5cee64f6c782571d76a58b908bc7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3291db0cc3c9cab29f562de1c3f9f76c6c256ef65f56b3202c48d118e2cf9415",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Treatment of pelvic giant cell tumor by wide resection with patient-specific bone-cutting guide and reconstruction with 3D-printed personalized implant",
+    "authors": "Li Z, Lu M, Min L, Luo Y, Tu C.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-04142-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12801991",
+  "paper_id": "doi:10.1186/s13018-025-06527-z",
+  "pmcid": "PMC12801991",
+  "source_record_sha256": "86b6efdffc7abf871a95864de4a966016002e5e4712adceafa4ae06165692d97",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ea308252ad2549827b261c8fcf254ed889cc6b11759523819429060cef01bd19",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Intra-osseous and coverage fixation for inferior pole fracture of the patella: a comparative finite element analysis and retrospective cohort study",
+    "authors": "Liu CD, Hu SJ, Chang SM, Zhang CQ, Huang YG.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-06527-z",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

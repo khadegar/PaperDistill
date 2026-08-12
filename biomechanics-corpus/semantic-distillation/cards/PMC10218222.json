@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10218222",
+  "paper_id": "doi:10.3390/ijms24108762",
+  "pmcid": "PMC10218222",
+  "source_record_sha256": "cd979d449ebf47189ee8a87b96efc16e459863e4beb192d6262815864dd65e3c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "74afdcdd2b6a705b285bd6c37b6747c8b59a146082b0f7f4aa50c363988dd811",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dual-Action Effect of Gallium and Silver Providing Osseointegration and Antibacterial Properties to Calcium Titanate Coatings on Porous Titanium Implants",
+    "authors": "Rodríguez-Contreras A, Torres D, Piñera-Avellaneda D, Pérez-Palou L, Ortiz-Hernández M, Ginebra MP, Calero JA, Manero JM, Rupérez E.",
+    "year": 2023,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms24108762",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10056841",
+  "paper_id": "doi:10.3390/ma16062475",
+  "pmcid": "PMC10056841",
+  "source_record_sha256": "5f06ca26f2f37108f9115991ccc9c114055df3fb7353a5ffd8eb2266293ba8cb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4a4462b3bbb1f42751820c6852524dc1e0ba4d0238b01423651d7edb857d8c47",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Material Extrusion 3D Printing (ME3DP) Process Simulations of Polymeric Porous Scaffolds for Bone Tissue Engineering",
+    "authors": "Imran R, Al Rashid A, Koç M.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16062475",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

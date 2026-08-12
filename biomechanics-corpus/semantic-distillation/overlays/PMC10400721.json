@@ -1,0 +1,212 @@
+{
+  "study": {
+    "article_kind": "bibliometric_secondary_research",
+    "design_features": [
+      "bibliometric_analysis",
+      "coauthorship_network",
+      "keyword_cooccurrence",
+      "thematic_mapping",
+      "citation_burst_analysis"
+    ],
+    "research_problem": "The publication structure, collaboration network, conceptual clusters, and temporal attention patterns of 3D-printing bioink research in bone tissue engineering had not been quantitatively mapped.",
+    "exact_gap": "Prior papers discussed bioinks and bone repair, but the authors identify no field-level bibliometric evaluation covering countries, institutions, journals, documents, keywords, thematic development, and emerging terms from 2010 to 2022.",
+    "objective_or_hypothesis": "Use Web of Science metadata and three bibliometric toolchains to describe the 2010-2022 knowledge structure and generate cautious hypotheses about emerging research attention.",
+    "study_design": "Single-database bibliometric study of 682 Web of Science articles/reviews retrieved on 8 January 2023, analyzed with bibliometrix, VOSviewer, and CiteSpace using full counting, coauthorship/co-occurrence networks, thematic/factorial analysis, and two-year burst slices.",
+    "sample_or_model": "Six hundred eighty-two English-language articles and reviews retained from 961 Web of Science SCI-EXPANDED records for 2010-2022; unpublished, ongoing, non-English, and non-indexed work is outside the frame.",
+    "comparators": [
+      "Publication and collaboration counts across countries and institutions",
+      "Local citation counts across journals and documents",
+      "Keyword clusters, centrality/density quadrants, average publication year, and burst intervals",
+      "Citing and cited journal disciplines"
+    ],
+    "method_spine": [
+      "Freeze the database retrieval to one stated day and screen records by type/year/category.",
+      "Export a fixed corpus and analyze descriptive bibliographic fields with bibliometrix.",
+      "Build country coauthorship and keyword co-occurrence networks with VOSviewer.",
+      "Use CiteSpace for two-year time slices, journal overlays, and the strongest keyword bursts.",
+      "Interpret measured attention/network indicators as hypotheses about field structure, not as intervention effects."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Database date, corpus counts, software versions, counting method, network units, and time-slice settings are reported, enabling partial computational reproduction (S005:C01-S006:C02)."
+      ],
+      "calibration": [],
+      "validation": [
+        "No external database replication, search-recall validation, manual cluster adjudication, or stability test is reported."
+      ],
+      "sensitivity": [
+        "No sensitivity to database, query syntax, counting method, cluster resolution, time window, or language restriction is tested."
+      ],
+      "application_prediction": [
+        "Claims that chitosan, endothelial cells, microspheres, bioactive glass, or customized composites will be future hotspots are attention forecasts, not efficacy or adoption predictions (S017:C01; S019:C01-S019:C04)."
+      ]
+    },
+    "primary_outcomes": [
+      "The retrieval yielded 682 articles/reviews from 961 records, with China leading corresponding-author output/SCP and the United States showing stronger MCP in the reported analysis (S005:C01; S009:C01-S011:C01).",
+      "Local citation analysis identified Biomaterials and a 2016 Biofabrication article as influential within the corpus, although a 4,198 value is ambiguously described as article count despite a 682-document corpus (S007:C01-S008:C01).",
+      "Keyword co-occurrence produced five broad clusters centered on in-vitro work, hydrogels, mesenchymal cells/ECM, differentiation/angiogenesis, and bone/cartilage (S012:C01-S013:C02).",
+      "Thematic and burst analyses classified scaffold/osteogenesis as central-developed and identified recent attention to chitosan and endothelial cells (S014:C01-S014:C02; S017:C01).",
+      "The journal overlay indicated that the mapped field was dominated by materials/physics/chemistry citation paths with an additional molecular/biology/genetics contribution (S015:C01)."
+    ],
+    "highest_evidence_level_reached": "Descriptive bibliometric evidence about indexed publication attention and networks; no study-quality appraisal, treatment effect, material performance, or clinical evidence."
+  },
+  "argument_map": {
+    "central_claim": "A reproducibly time-stamped bibliometric corpus can reveal who publishes, how topics co-occur, and which terms are gaining attention in 3D-printing bioink research, but it maps research activity rather than technical or clinical effectiveness.",
+    "data": [
+      "Corpus, software, and analysis settings are stated (S005:C01-S006:C02).",
+      "Publication, affiliation, country-collaboration, and local-citation indicators are reported (S007:C01-S011:C01).",
+      "Co-word clusters, thematic centrality/density, factorial groups, and citation bursts describe conceptual attention (S012:C01-S017:C01)."
+    ],
+    "warrant": "Bibliographic metadata and co-occurrence structure provide observable proxies for publication volume, collaboration, influence within the indexed corpus, and topic attention over time.",
+    "backing": [
+      "Multiple established tools are applied to complementary descriptive/network tasks (S006:C01-S006:C02).",
+      "The conclusion acknowledges indexing lag, language/publication exclusions, and the need to examine translational research separately (S020:C02)."
+    ],
+    "qualifier": "Valid only for the specified query, database, dates, document types, counting rules, and bibliometric indicators.",
+    "rebuttals_or_boundaries": [
+      "Web of Science coverage and English/publication restrictions omit part of the field (S020:C02).",
+      "Citation and keyword frequency reflect visibility and attention, not methodological quality, biological effect, or clinical value.",
+      "The search expression is ambiguously parenthesized and may not apply the 3D/bone constraints uniformly (S005:C01).",
+      "Cluster and trend conclusions are not stress-tested under alternative preprocessing or parameter choices."
+    ],
+    "argument_coherence": "moderate_for_descriptive_mapping_low_for_future_or_effect_claims"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Record counts, indexed citation counts, affiliations, corresponding-author countries, coauthorship links, keyword occurrences, cluster assignments, centrality/density positions, journal paths, and burst intervals are bibliometric measurements (S005:C01-S017:C01)."
+    ],
+    "predicted": [
+      "Recent keyword bursts and lower-right thematic positions are used to predict possible future attention, not future clinical or technical success (S014:C01-S014:C02; S017:C01)."
+    ],
+    "inferred": [
+      "High output is interpreted as research capability, high MCP as international cooperation capacity, and local citation as authority; these are contestable interpretations of metadata proxies (S007:C01; S009:C01-S010:C01).",
+      "The discussion infers promising bioink materials and applications by combining bibliometric signals with selected narrative examples (S018:C01-S019:C04)."
+    ],
+    "recommended": [
+      "Attend to translational outcomes, regulatory issues, integration with native bone, balanced mechanics/biocompatibility, and economic reconstruction time rather than publication activity alone (S019:C03-S020:C02)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Citation count is a visibility/influence proxy, not a quality or efficacy measure.",
+      "Keyword frequency/burst is an attention proxy, not proof that a topic is scientifically superior or will translate.",
+      "Publication volume and affiliation counts do not directly measure research quality or clinical impact."
+    ],
+    "overclaim_risks": [
+      "Calling a journal's citation total an 'authoritative super-status' overinterprets a corpus-dependent metric (S007:C01).",
+      "Calling highly cited papers 'optimal articles' conflates popularity with evidentiary quality (S008:C01).",
+      "Future-hotspot language can be mistaken for a forecast of efficacy or adoption (S017:C01; S019:C01-S019:C04).",
+      "The automated systematic-review and in-vivo-animal cues are false: this is a bibliometric study with no intervention appraisal or animal experiment."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Define the bibliometric gap after the domain motivation",
+      "execution": "After describing bone tissue engineering and bioink, the paper states the missing field-level bibliometric evaluation and the exact 13-year mapping objective (S004:C01-S004:C02).",
+      "locator": "S004:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For bibliometrics, formulate the gap as missing knowledge about the literature system—not as a missing biological treatment effect.",
+      "failure_mode": "The domain introduction contains broad clinical/material claims not evaluated by the bibliometric design."
+    },
+    {
+      "section": "methods",
+      "move": "Freeze provenance and analysis parameters",
+      "execution": "The database, retrieval day, years, query, inclusion count, software versions, full-counting rule, analysis types, and time slices are reported (S005:C01-S006:C02).",
+      "locator": "S006:C01",
+      "effectiveness": "moderate_to_high",
+      "transferable_principle": "A bibliometric Methods section should be executable: database snapshot, exact query, deduplication/screening, software/version, normalization/counting, thresholds, and time slices.",
+      "failure_mode": "Ambiguous query parentheses and missing preprocessing/parameter-stability details limit reproducibility."
+    },
+    {
+      "section": "results",
+      "move": "Pair each topic claim with the indicator that generated it",
+      "execution": "Clusters are tied to co-occurring keywords, thematic quadrants to density/centrality, and emerging attention to explicit burst intervals (S013:C01-S014:C02; S017:C01).",
+      "locator": "S017:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "Write bibliometric findings as indicator → observed pattern → cautious interpretation; never omit the metric or analysis window.",
+      "failure_mode": "Several interpretations use evaluative labels such as authoritative, high standard, or future hotspot without uncertainty."
+    },
+    {
+      "section": "conclusion",
+      "move": "Disclose corpus exclusions and separate translation from attention",
+      "execution": "The conclusion notes indexing lag, unpublished/ongoing/non-English omissions and explicitly calls for attention to translational results (S020:C02).",
+      "locator": "S020:C02",
+      "effectiveness": "high",
+      "transferable_principle": "End bibliometric work by naming what the database omits and what non-bibliometric evidence is required to judge scientific or clinical progress.",
+      "failure_mode": "Some earlier hotspot and authority language remains stronger than this final boundary."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Bibliometric analysis lags the underlying research and omits unpublished, ongoing, and non-English work (S020:C02).",
+      "Translational outcomes require attention beyond basic publication mapping (S020:C02)."
+    ],
+    "reader_identified": [
+      "Only Web of Science is used; no Scopus, PubMed, Crossref/OpenAlex, or database-overlap sensitivity is performed.",
+      "The query's Boolean grouping is ambiguous and its recall/precision are not manually validated.",
+      "Articles and reviews are mixed without study-type or quality weighting.",
+      "Author, institution, journal, and keyword normalization procedures are not described.",
+      "Full counting and cluster/burst settings are not compared with alternatives.",
+      "The 4,198 Biomaterials value is mislabeled or at least ambiguous relative to a 682-document corpus."
+    ],
+    "likely_bias_direction": [
+      "Database/language restriction favors highly indexed English-language venues and regions.",
+      "Citation accumulation favors older and visible papers; full counting can inflate contributions in multi-author/multi-country records.",
+      "Optimistic narrative interpretation likely overstates the predictive value of attention signals."
+    ],
+    "scope_boundary": "The paper supports claims about indexed publication volume, visibility, collaboration, and topic attention during 2010-2022 under one Web of Science query; it does not support claims about material superiority, treatment efficacy, evidence quality, animal outcomes, clinical translation, or future success."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC10400721-01",
+      "capability": "Write bibliometric Results in an indicator–pattern–interpretation sequence and retain the database/time/counting scope in every trend claim.",
+      "manuscript_use": "Bibliometric Results, figure captions, Discussion, and abstract.",
+      "applicable_domains": ["all_domains"],
+      "applicable_study_designs": ["bibliometric_analysis"],
+      "supporting_locators": ["S006:C01", "S013:C01", "S014:C01", "S017:C01"],
+      "counterexample_or_boundary": "Citation, occurrence, or burst metrics describe attention; avoid evaluative terms such as best, authoritative, effective, or clinically promising without independent evidence.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10400721-02",
+      "capability": "Make a bibliometric pipeline reproducible by freezing the source snapshot and specifying query, screening, normalization, software/version, counting rule, thresholds, and temporal slicing.",
+      "manuscript_use": "Methods and reproducibility checklist.",
+      "applicable_domains": ["all_domains"],
+      "applicable_study_designs": ["bibliometric_analysis", "evidence_mapping"],
+      "supporting_locators": ["S005:C01", "S006:C01", "S006:C02"],
+      "counterexample_or_boundary": "A single frozen query is reproducible but not necessarily valid; add recall/precision checks and database/parameter sensitivity.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10400721-03",
+      "capability": "Separate literature-system evidence from scientific-effect evidence and explicitly state the non-bibliometric evidence needed for translation.",
+      "manuscript_use": "Discussion limitations and conclusion.",
+      "applicable_domains": ["all_domains"],
+      "applicable_study_designs": ["bibliometric_analysis", "review"],
+      "supporting_locators": ["S019:C03", "S019:C04", "S020:C02"],
+      "counterexample_or_boundary": "High output, collaboration, or citation cannot replace material tests, animal studies, trials, cost analyses, or regulatory evidence.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_descriptive_mapping",
+    "methods_transparency": "moderate",
+    "validation_credibility": "low_due_to_no_external_or_sensitivity_checks",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "moderate_for_descriptive_counts",
+    "conclusion_proportionality": "moderate_with_hotspot_overreach",
+    "critical_weaknesses": [
+      "Single database/query with ambiguous Boolean syntax.",
+      "No normalization, parameter sensitivity, or quality appraisal.",
+      "Attention metrics are repeatedly translated into authority, capability, or future scientific promise."
+    ],
+    "overall_credibility": "moderate_for_corpus_specific_bibliometric_description_low_for_effect_or_forecast_claims"
+  },
+  "summary_zh": "该研究对 2010–2022 年 Web of Science 中 682 篇 3D 打印生物墨水/骨组织工程文献做了文献计量映射。它可以回答“谁在发表、哪些词共现、哪些主题最近受到关注”，但不回答“哪种材料有效或可临床转化”。最值得写入 Skill 的规则是：每个热点句必须写成指标（如共现/突发/中心性）→观察模式→谨慎解释，并保留数据库、时间窗和计数规则；引用量、发文量和关键词突发都只是注意力代理。查询布尔括号、单数据库、缺少术语归一化与参数敏感性，以及将高被引称为权威/最优，是应当反向学习的写作风险。",
+  "reader_notes": [
+    "本文是 bibliometric secondary research，不是系统疗效综述，也没有动物或体外实验。",
+    "全文所有非参考文献章节已阅读；论文的被引研究内容未被提升为该文自身的直接证据。"
+  ]
+}

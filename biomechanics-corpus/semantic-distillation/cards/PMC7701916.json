@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7701916",
+  "paper_id": "doi:10.1016/j.bioactmat.2020.11.019",
+  "pmcid": "PMC7701916",
+  "source_record_sha256": "33554c1d526c0c15697ec36b7f0c7928b9b458070ef5d2c269d0462be490ce08",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2d3bcef26e44e92dc83be1e38d5e2ec4cbb6418c4db63d60d20bffa3b7cb23cd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Lotus seedpod-inspired internal vascularized 3D printed scaffold for bone tissue repair",
+    "authors": "Han X, Sun M, Chen B, Saiding Q, Zhang J, Song H, Deng L, Wang P, Gong W, Cui W.",
+    "year": 2020,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2020.11.019",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

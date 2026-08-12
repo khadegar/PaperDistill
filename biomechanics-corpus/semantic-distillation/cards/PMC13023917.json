@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13023917",
+  "paper_id": "doi:10.3390/biomimetics11030185",
+  "pmcid": "PMC13023917",
+  "source_record_sha256": "4d7245c81296f951b42b5ba3269790af2d95d6d3a37a8005a1170f27a8de3243",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0a50e777dc649d23c3db29cde5517c023c3d70687d5efc9cae73b329e1a91f8f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advancements and Challenges in Tissue-Engineered Heart Valves: Integrating Biomechanics, Biomaterials, and Biomimetic Design for Functional Maturity",
+    "authors": "Guidi L, Rosellini E, Riccio G, Cascone MG.",
+    "year": 2026,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics11030185",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

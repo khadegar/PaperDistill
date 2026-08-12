@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12279412",
+  "paper_id": "doi:10.7759/cureus.86506",
+  "pmcid": "PMC12279412",
+  "source_record_sha256": "2c8efaa101769e8374d987d7769b09c15feaaaff5f358a64dcf798c611569da3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6db5b89e9cc0f954962e20ab13a1b2587464588c3352a93ed04520c603fb4c4c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigating the Influence of Oxford Unicompartmental Knee Arthroplasty Keel on Sagittal Plane Stresses: A Finite Element Analysis",
+    "authors": "Imada T, Hanada M, Murase K, Matsuyama Y.",
+    "year": 2025,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.86506",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

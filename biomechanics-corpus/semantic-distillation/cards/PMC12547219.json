@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12547219",
+  "paper_id": "doi:10.1016/j.bioactmat.2025.09.018",
+  "pmcid": "PMC12547219",
+  "source_record_sha256": "2a9ab5f2e8f932d7e62f2dc6107aaa2eabf76eea35a6d488bac5b647ef3f45df",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d1ae4923ead05140351dad23f8bcfdeffa41aeef56a799e73517f7e1885ca54c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Integrated 3D printing of topologically hierarchical mechanical hydrogel for accelerating osteochondral regeneration",
+    "authors": "Zha XJ, Ling TX, Xiao Q, Chen ZX, Zhang Y, Huang JG, Zhou ZK.",
+    "year": 2026,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2025.09.018",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

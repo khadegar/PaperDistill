@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12027784",
+  "paper_id": "doi:10.3390/jfb16040134",
+  "pmcid": "PMC12027784",
+  "source_record_sha256": "5df38fd54adc29981f05c10f37bdcfec1b92776c51d9ffe613aaf32ba82194a6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "565224e3c3c1425565fcb4c84d8cf036582613d8b31b39a049fab42777bf5924",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of Biomechanical Effects of Mandible Arch Types in All-on-4 and All-on-5 Dental Implant Design: A 3D Finite Element Analysis",
+    "authors": "Sevinç Gül SN, Murat F, Şensoy AT.",
+    "year": 2025,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb16040134",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

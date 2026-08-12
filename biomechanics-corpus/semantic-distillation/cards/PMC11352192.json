@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11352192",
+  "paper_id": "doi:10.3390/bioengineering11080769",
+  "pmcid": "PMC11352192",
+  "source_record_sha256": "bc99a096690e2ede5335491a5188b70163fb7145ff34df5a7fca152e4edd2fdc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3ee644ca38da6e7fa1f7e21de52cb13d8065b38f3a9666a532015bab78f7c286",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "On the Fused Deposition Modelling of Personalised Bio-Scaffolds: Materials, Design, and Manufacturing Aspects",
+    "authors": "Sousa HC, Ruben RB, Viana JC.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11080769",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12137528",
+  "paper_id": "doi:10.1007/s13346-024-01744-1",
+  "pmcid": "PMC12137528",
+  "source_record_sha256": "40de8179ce0873aa8e83a9fc5e649c1f30c06402d3667b900565486a53f61821",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "257a3c7fc6d5b3ec8a1c63dd430b463f6fbdf4581a214fc0b5cda98d0d74bcdf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printing of dipyridamole/thermoplastic polyurethane materials for bone regeneration",
+    "authors": "Adhami M, Dastidar AG, Anjani QK, Detamornrat U, Tarrés Q, Delgado-Aguilar M, Acheson JG, Manda K, Clarke SA, Moreno-Castellanos N, Larrañeta E, Domínguez-Robles J.",
+    "year": 2024,
+    "journal": "Drug Delivery and Translational Research",
+    "doi": "10.1007/s13346-024-01744-1",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

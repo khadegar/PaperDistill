@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10744214",
+  "paper_id": "doi:10.3390/ijms242417410",
+  "pmcid": "PMC10744214",
+  "source_record_sha256": "20c2bf3893594c326cef32f60f904e97ba0c5c8e2c5c1ee79adb13642e872af8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cec0304f278a550e25c4ef238e0a4282d8a97d01b1e6d6ff4512d7545686beb5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surface Modification of Polylactic Acid Bioscaffold Fabricated via 3D Printing for Craniofacial Bone Tissue Engineering",
+    "authors": "Liu YC, Lo GJ, Shyu VB, Tsai CH, Chen CH, Chen CT.",
+    "year": 2023,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms242417410",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

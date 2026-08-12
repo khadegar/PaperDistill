@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13133197",
+  "paper_id": "doi:10.1007/s11517-026-03546-8",
+  "pmcid": "PMC13133197",
+  "source_record_sha256": "8a8868820257630aa97cc7f60b8ecfc040dcc7ad0ca62e85635d86e5ba203cef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "255734f9ccf663ad1af58f3dd52aac6c2ed8f45d1b16b6bd910e127f00fa972c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design of 3D-printed hydroxyapatite intervertebral fusion cages in a patient specific framework",
+    "authors": "De Cet A, Colombo M, D'Andrea L, Rota I, La Barbera L, Vena P, Gastaldi D.",
+    "year": 2026,
+    "journal": "Medical & Biological Engineering & Computing",
+    "doi": "10.1007/s11517-026-03546-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

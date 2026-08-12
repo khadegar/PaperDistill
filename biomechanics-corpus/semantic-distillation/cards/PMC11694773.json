@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11694773",
+  "paper_id": "doi:10.1126/sciadv.adp8496",
+  "pmcid": "PMC11694773",
+  "source_record_sha256": "cbe0cefffc71646539a08c92b90158d1259c9626c3fed11737352ca3cd917230",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "58ade053f12f80337289d6698093185e10407d3bab5ff646a8c77525cae0eb3e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Spatial transcriptomics in bone mechanomics: Exploring the mechanoregulation of fracture healing in the era of spatial omics",
+    "authors": "Mathavan N, Singh A, Marques FC, Günther D, Kuhn GA, Wehrle E, Müller R.",
+    "year": 2025,
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.adp8496",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

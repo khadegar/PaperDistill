@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10707552",
+  "paper_id": "doi:10.3390/ma16237315",
+  "pmcid": "PMC10707552",
+  "source_record_sha256": "d219aa7325a4f211c205670116982a864085a1c19a36b3b0146dc04eda97cd5a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "25466b9e6dad10ef21f3cb194c34cf1c584f9281b29f0cfa9b52ccbdb11b9ed0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and Structural Factors’ Influence on the Fatigue Life of Steel Products with Additive Manufacturing",
+    "authors": "Kazantseva N, Il'inikh M, Kuznetsov V, Koemets Y, Bakhrunov K, Karabanalov M.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16237315",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

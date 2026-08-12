@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8377410",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.05.043",
+  "pmcid": "PMC8377410",
+  "source_record_sha256": "85465a92693d453162773c9f42b3f3f1b111bfbd5f5e920ebfe23f82f13dd22b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9ced6ce2511cc5ff6f5089dcb028bc67808e80e5846c387ed81313b9a9359ba2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surface treatment of 3D printed porous Ti6Al4V implants by ultraviolet photofunctionalization for improved osseointegration",
+    "authors": "Yin C, Zhang T, Wei Q, Cai H, Cheng Y, Tian Y, Leng H, Wang C, Feng S, Liu Z.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.05.043",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

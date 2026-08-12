@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12145538",
+  "paper_id": "doi:10.1016/j.artd.2025.101709",
+  "pmcid": "PMC12145538",
+  "source_record_sha256": "c868e3fbb236fabc06bb3b09bef058d0d09c707f29a525c9c0166293ad6cfba4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7794557da90e7458213b0cdb7530522cc9a3a89ee2ab4ba64fc3a52aab128534",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Highly Porous Tantalum Acetabular Components Without Ancillary Screws Are Non-inferior at 7 Years When Compared With Titanium Components With Ancillary Screw Fixation: A Randomized Controlled Trial",
+    "authors": "Robertson TS, Solomon LB, Howie DW, Holubowycz OT, Cho CH, Callary SA.",
+    "year": 2025,
+    "journal": "Arthroplasty Today",
+    "doi": "10.1016/j.artd.2025.101709",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

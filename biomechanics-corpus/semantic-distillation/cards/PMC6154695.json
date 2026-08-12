@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6154695",
+  "paper_id": "doi:10.5301/hip.2012.9103",
+  "pmcid": "PMC6154695",
+  "source_record_sha256": "44c170de340e16ff93ce35f37743ffc3d86a2ff48e8cb401366b40043984d791",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "581a9bffd1b031943ef5aa41f2347ad210102b9bce0a8b5c4c8d100e04e14a04",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Randomised Trial Comparing Bone Remodelling around Two Uncemented Stems Using Modified Gruen Zones",
+    "authors": "ten Broeke RH, Hendrickx RP, Leffers P, Jutten LM, Geesink RG.",
+    "year": 2018,
+    "journal": "Hip International",
+    "doi": "10.5301/hip.2012.9103",
+    "publication_type": "Comparative Study; Research Support, Non-U.S. Gov't; research-article; Randomized Controlled Trial; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

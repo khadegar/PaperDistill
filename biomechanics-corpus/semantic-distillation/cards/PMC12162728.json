@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12162728",
+  "paper_id": "doi:10.1007/s10237-025-01953-8",
+  "pmcid": "PMC12162728",
+  "source_record_sha256": "f16e067eb41bfed2b8194874904255278fb0c48466e9d50d5afe02c2314d8573",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c0ebe8593cf301d78bb6186f0d3ef0f47a4752baf8dce0ecd36725f52e394acf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tuning the trabecular orientation of Voronoi-based scaffold to optimize the micro-environment for bone healing",
+    "authors": "D'Andrea L, Goretti G, Magrini G, Vena P.",
+    "year": 2025,
+    "journal": "Biomechanics and Modeling in Mechanobiology",
+    "doi": "10.1007/s10237-025-01953-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

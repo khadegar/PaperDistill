@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7667590",
+  "paper_id": "doi:10.2147/ijn.s280957",
+  "pmcid": "PMC7667590",
+  "source_record_sha256": "fcd2c77e1786a6688640d89aac3f0bb7ddd10a03ba777a2a316af213c1389493",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3169c2cdf40407f7d5c1d0af4de59b68dad6b7ade819b0fe8c7008777f0740ef",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Influence of Nanostructured Hydroxyapatite Surface in the Early Stages of Osseointegration: A Multiparameter Animal Study in Low-Density Bone",
+    "authors": "Sartoretto SC, Calasans-Maia J, Resende R, Câmara E, Ghiraldini B, Barbosa Bezerra FJ, Granjeiro JM, Calasans-Maia MD.",
+    "year": 2020,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s280957",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

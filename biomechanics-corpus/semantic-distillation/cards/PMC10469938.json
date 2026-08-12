@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10469938",
+  "paper_id": "doi:10.3389/fbioe.2023.1237919",
+  "pmcid": "PMC10469938",
+  "source_record_sha256": "7c16c0f5f2498624abada0e8a059ce8bbb1efa611b5dd44a08566120cc4ca5eb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "40e9f217afdf674faa1bed0de664162ee26cd0b02bd210576472ab3b05524dd3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vitro and in silico methods for the biomechanical assessment of osseointegrated transfemoral prostheses: a systematic review",
+    "authors": "Galteri G, Cristofolini L.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1237919",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

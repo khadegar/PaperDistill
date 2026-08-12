@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11342074",
+  "paper_id": "doi:10.1016/j.jot.2024.07.007",
+  "pmcid": "PMC11342074",
+  "source_record_sha256": "cd8c2765630f2e5f6a0fca532bd68d8c75dcc95e973f43eb07f3392fc74a6df4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "17d57a5cc0f9715be055b514dc11f3a70d2ab30d540d2f6b56c4e702381e6281",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Structure, ingredient, and function-based biomimetic scaffolds for accelerated healing of tendon-bone interface",
+    "authors": "Dong Y, Li J, Jiang Q, He S, Wang B, Yi Q, Cheng X, Gao X, Bai Y.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2024.07.007",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

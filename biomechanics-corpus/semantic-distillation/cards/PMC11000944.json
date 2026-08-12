@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11000944",
+  "paper_id": "doi:10.4103/jpbs.jpbs_1103_23",
+  "pmcid": "PMC11000944",
+  "source_record_sha256": "a05d5e4f648b66f46b6b8aa6836cbb5f5f0eca848070abc307c37d5685a3bd3a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7a5c4ee76cf5e9bf5c6af46b03ef7b65af7bce6602bb70e7adccb83c163f22ff",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of the Influence of Implant Tilting and the Direction of Loading on the Displacement and Micromotion of Immediately Loaded Implants",
+    "authors": "Sahoo NR, Sahany SK, Pandey V, Das AC, Choudhury P, Panda S, Sahoo R.",
+    "year": 2024,
+    "journal": "Journal of Pharmacy & Bioallied Sciences",
+    "doi": "10.4103/jpbs.jpbs_1103_23",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8694689",
+  "paper_id": "doi:10.1039/d0ra10215f",
+  "pmcid": "PMC8694689",
+  "source_record_sha256": "99f04eeb88231b9929ca6555b52c378f7fb7ded37b6558034fbcf82ee535a494",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c04b21c090e0a9f0b03c8550fc10a2997596f0ccb82d0514498777c1f354bd5d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced regeneration of bone defects using sintered porous Ti6Al4V scaffolds incorporated with mesenchymal stem cells and platelet-rich plasma †",
+    "authors": "Li J, Wang K, Bai X, Wang Q, Lv N, Li Z.",
+    "year": 2021,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d0ra10215f",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

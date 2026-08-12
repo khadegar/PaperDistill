@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12467983",
+  "paper_id": "doi:10.3390/biomedicines13092266",
+  "pmcid": "PMC12467983",
+  "source_record_sha256": "d858cdd948f3603c48154b8fed88daf01ffc6719e5d4c80c97406436c96cb205",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6b4d61efee6c729a618988344844dd3170e040c7bce2d27b7ce6bbc35ef74f8e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Use of Platelet-Rich Fibrin in Combination with Synthetic Bone Grafting: A Systematic Review",
+    "authors": "Costa R, Carvalho A, López-Jarana P, Costa V, Relvas M, Salazar F, Infante da Câmara T, Nunes Vasques M, Infante da Câmara M.",
+    "year": 2025,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines13092266",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

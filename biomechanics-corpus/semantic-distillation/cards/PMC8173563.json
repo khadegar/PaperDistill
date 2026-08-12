@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8173563",
+  "paper_id": "doi:10.1021/acsomega.1c00881",
+  "pmcid": "PMC8173563",
+  "source_record_sha256": "5e043c1a8c0423bb9555c461da5dc5d09ac5b6361ced27504fec778de783f22e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9c7213aa2dbe8d70f95ca45bbcba379de357967a4fb2519fb552a55e0989647c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cyclic Adenosine Monophosphate-Enhanced Calvarial Regeneration by Bone Marrow-Derived Mesenchymal Stem Cells on a Hydroxyapatite/Gelatin Scaffold",
+    "authors": "Ju T, Zhao Z, Ma L, Li W, Li S, Zhang J.",
+    "year": 2021,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.1c00881",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

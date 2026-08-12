@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6125746",
+  "paper_id": "doi:10.1097/01.blo.0000534692.41467.02",
+  "pmcid": "PMC6125746",
+  "source_record_sha256": "4d260d7eab435d34f4d0dad7bccedc2361902b3a0b8be70b9a8a18f9181eb5b5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1ebd7f113ed8f68e703c3a7186e57fbf929b664187acb8ae3798bfa256834054",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Vitamin E Phosphate Coating Stimulates Bone Deposition in Implant-related Infections in a Rat Model",
+    "authors": "Lovati AB, Bottagisio M, Maraldi S, Violatto MB, Bortolin M, De Vecchi E, Bigini P, Drago L, Romanò CL.",
+    "year": 2018,
+    "journal": "Clinical Orthopaedics and Related Research",
+    "doi": "10.1097/01.blo.0000534692.41467.02",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

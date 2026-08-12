@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8362253",
+  "paper_id": "doi:10.1186/s13018-021-02651-8",
+  "pmcid": "PMC8362253",
+  "source_record_sha256": "5d492fdbbd8537784855137b6d89b97a8275525cbb7ffd2d17028d78f20c12b2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9aa8a208df599c7d0d1a9e20cbd7ee8816d2d56d8344b04418019a463f902914",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Temporal response of an injectable calcium phosphate material in a critical size defect",
+    "authors": "Landeck JT, Walsh WR, Oliver RA, Wang T, Gordon MR, Ahn E, White CD.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-021-02651-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

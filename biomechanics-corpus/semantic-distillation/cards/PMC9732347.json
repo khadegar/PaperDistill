@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9732347",
+  "paper_id": "doi:10.1038/s41598-022-25652-x",
+  "pmcid": "PMC9732347",
+  "source_record_sha256": "ac7a8f4c391eda675919ee9249dd6564b8c32a5d85b23c2a613590b11ae143f3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3bc56b53d402e69a7799f48d4bcb5040db8c49cd86a4e80f97c2ad6e694f18f2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing of cellulose nanocrystals based composites to build robust biomimetic scaffolds for bone tissue engineering",
+    "authors": "N'Gatta KM, Belaid H, El Hayek J, Assanvo EF, Kajdan M, Masquelez N, Boa D, Cavaillès V, Bechelany M, Salameh C.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-25652-x",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

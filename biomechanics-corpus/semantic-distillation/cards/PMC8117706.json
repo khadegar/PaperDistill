@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8117706",
+  "paper_id": "doi:10.5114/jcb.2021.103582",
+  "pmcid": "PMC8117706",
+  "source_record_sha256": "2178c910d42c6895c0f6eed019e21a7c46cba4120a5c602a517951f7b180c4b3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c865e2fdc86b8b15dc44752ff2475c6a04b9a196295ab73882b2ad3252053593",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dosimetric comparison of computed tomography-guided iodine-125 seed implantation assisted with and without three-dimensional printing non-coplanar template in locally recurrent rectal cancer: a propensity score matching study",
+    "authors": "Wang L, Wang H, Jiang Y, Ji Z, Guo F, Jiang P, Qiu B, Sun H, Fan J, Li W, Wang J.",
+    "year": 2021,
+    "journal": "Journal of Contemporary Brachytherapy",
+    "doi": "10.5114/jcb.2021.103582",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

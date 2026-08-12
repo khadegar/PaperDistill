@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7967868",
+  "paper_id": "doi:10.3892/etm.2021.9882",
+  "pmcid": "PMC7967868",
+  "source_record_sha256": "2e228946d2ef2b816c804deafb8c7797e94f47f3b4b7f6861736ee10cb082617",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5dba6f57596e9f8100ffc6f561b3e58cead327b68be89eff3fdf8842ac081f90",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Adipose-derived stem cell sheets combined with β-tricalcium phosphate/collagen-I fiber scaffold improve cell osteogenesis",
+    "authors": "Wang Y, Song X, Lei R, Zhang N, Zhang L, Xiao W, Xu J, Lin J.",
+    "year": 2021,
+    "journal": "Experimental and Therapeutic Medicine",
+    "doi": "10.3892/etm.2021.9882",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

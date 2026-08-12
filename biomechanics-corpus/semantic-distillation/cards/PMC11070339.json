@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11070339",
+  "paper_id": "doi:10.1016/j.mtbio.2024.101076",
+  "pmcid": "PMC11070339",
+  "source_record_sha256": "c85f92eecafd128b8f49d337e29669e028604d82b5bf90d29230a292197fec46",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7f0a27958db8346c2fbe60bd52b6a93ff400137bd5bfd0fc3fecb5558fd72d42",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A multifunctional ionic liquid coating on 3D-Printed prostheses: Combating infection, promoting osseointegration",
+    "authors": "Li Z, Jin L, Yang X, Liu H, Qian S, Wang Z, Liu J, Wang J, Chen J, Su B, Peng C, Wang J, Shi Z.",
+    "year": 2024,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2024.101076",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

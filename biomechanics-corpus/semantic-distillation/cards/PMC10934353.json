@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10934353",
+  "paper_id": "doi:10.3390/ma17051107",
+  "pmcid": "PMC10934353",
+  "source_record_sha256": "8feba0115d35b3d0f680cbabb992c653cc6656cd59c2a2f80006817da1db2cd8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d6f184024f23e75bc0fdf19dedf0eb0d285af09097427843a549582e54e8f943",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Porous Fluoride-Substituted Bovine-Derived Hydroxyapatite Scaffold Constructed for Applications in Bone Tissue Regeneration",
+    "authors": "Ratnayake J, Gould M, Ramesh N, Mucalo M, Dias GJ.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17051107",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

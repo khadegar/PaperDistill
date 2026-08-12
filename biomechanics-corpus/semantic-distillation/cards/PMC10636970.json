@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10636970",
+  "paper_id": "doi:10.1186/s12891-023-06999-2",
+  "pmcid": "PMC10636970",
+  "source_record_sha256": "313f27eaf0d04cf23470da9f9e894863592c3a51c7fbe6ba6d501ac3b5bcf3cb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dff372a79f1704b130bfab4b9313bfd4dd4110b49b2d95dcc05e811b4ddbbffb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preliminary exploration of the biomechanical properties of three novel cervical porous fusion cages using a finite element study",
+    "authors": "Xu Z, Li Y, Huang W, Wang Z, Xu X, Tian S.",
+    "year": 2023,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-023-06999-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

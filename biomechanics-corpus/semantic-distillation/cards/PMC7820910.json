@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7820910",
+  "paper_id": "doi:10.1016/j.reth.2021.01.001",
+  "pmcid": "PMC7820910",
+  "source_record_sha256": "be22abeb516c47b0be1820db44f77573524e423822d0cac9e7ed8e8c7f9afb3e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ac963817ba72d2a4012cf12cad3560548a2a1cc6c4d5822a064c2d22ffb021bf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Low-temperature extrusion-based 3D printing of icariin-laden scaffolds for osteogenesis enrichment",
+    "authors": "Zhang JT, Zhang SS, Liu CG, Kankala RK, Chen AZ, Wang SB.",
+    "year": 2021,
+    "journal": "Regenerative Therapy",
+    "doi": "10.1016/j.reth.2021.01.001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

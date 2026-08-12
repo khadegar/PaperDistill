@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5062138",
+  "paper_id": "doi:10.4103/0972-4052.191283",
+  "pmcid": "PMC5062138",
+  "source_record_sha256": "b83e1ffa8f14d6b3336b9d54a8e3f787492d1e321e0262612c3612ede1ff6052",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d6f09030e711a2ed5a50908769f4f54c0712a2e0d34a14124b767279d66d8a9c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of three different implant thread designs on stress distribution: A three-dimensional finite element analysis",
+    "authors": "Oswal MM, Amasi UN, Oswal MS, Bhagat AS.",
+    "year": 2016,
+    "journal": "The Journal of the Indian Prosthodontic Society",
+    "doi": "10.4103/0972-4052.191283",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

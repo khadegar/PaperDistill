@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10582225",
+  "paper_id": "doi:10.1002/cre2.788",
+  "pmcid": "PMC10582225",
+  "source_record_sha256": "ce3cc39d098dbfd5419aebfb337308c038fb6fa3406c5510bd5954581c1f8eb4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8431aa631a045d87fa78dbcce1ac9abb82d8407bbaf2a76a1650cbb02aa1e892",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A conceptual review on reconstructive peri‐implantitis therapy: Challenges and opportunities",
+    "authors": "Chan HL, Rodriguez Betancourt A, Liu CC, Chiang YC, Schmidlin PR.",
+    "year": 2023,
+    "journal": "Clinical and Experimental Dental Research",
+    "doi": "10.1002/cre2.788",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

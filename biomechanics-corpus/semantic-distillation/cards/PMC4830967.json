@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4830967",
+  "paper_id": "doi:10.1038/srep24305",
+  "pmcid": "PMC4830967",
+  "source_record_sha256": "036a6fff3f94b51bb4470de6ac53bb7897e2195bbf0c8f51ab2f72cab5577982",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "235292f5ae607eede4ec576d74f89dadf49f7d1ce6ee28225ade49b9873b069d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Ultra-Porous Nanoparticle Networks: A Biomimetic Coating Morphology for Enhanced Cellular Response and Infiltration",
+    "authors": "Nasiri N, Ceramidas A, Mukherjee S, Panneerselvan A, Nisbet DR, Tricoli A.",
+    "year": 2016,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep24305",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

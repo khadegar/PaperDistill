@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7701322",
+  "paper_id": "doi:10.1016/j.bonr.2020.100733",
+  "pmcid": "PMC7701322",
+  "source_record_sha256": "22326988c1a3014a656b3b0c9227ba31a413042af5845285836d371105269b7a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2159864da20fcba79e61594885e88a9800d6e31c18452a738de16488bf7d68b9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reduced cortical bone thickness increases stress and strain in the female femoral diaphysis analyzed by a CT-based finite element method: Implications for the anatomical background of fatigue fracture of the femur",
+    "authors": "Endo D, Ogami-Takamura K, Imamura T, Saiki K, Murai K, Okamoto K, Tsurumoto T.",
+    "year": 2020,
+    "journal": "Bone Reports",
+    "doi": "10.1016/j.bonr.2020.100733",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

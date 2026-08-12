@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7892967",
+  "paper_id": "doi:10.3389/fbioe.2021.630488",
+  "pmcid": "PMC7892967",
+  "source_record_sha256": "784e9ae5ab22f06dcfa3b04fdc208b4f245ef3911d2c9ba1bad04edab0ead67f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1668a4b4706a79b34e9f1184827356e44bfa0624b6633dfc3ae0783612aeb88d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioink Formulations for Bone Tissue Regeneration",
+    "authors": "Li N, Guo R, Zhang ZJ.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.630488",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

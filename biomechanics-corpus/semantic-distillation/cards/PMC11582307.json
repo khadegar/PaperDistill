@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11582307",
+  "paper_id": "doi:10.1186/s10195-024-00803-0",
+  "pmcid": "PMC11582307",
+  "source_record_sha256": "ac239ee251cc02783bfb49cb0cebce372719bbb70343c9461e8166ebde8eb91f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "64d019e3e3e669e8c5392c11ab23401ec18d13633599613702188099fd863e35",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Magnesium degradation-induced variable fixation plates promote bone healing in rabbits",
+    "authors": "Wen J, Zeng Y, Su S, Song M, Wang Z, Chen X, Dong X.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedics and Traumatology : Official Journal of the Italian Society of Orthopaedics and Traumatology",
+    "doi": "10.1186/s10195-024-00803-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

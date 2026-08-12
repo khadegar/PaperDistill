@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12933821",
+  "paper_id": "doi:10.1016/j.mtbio.2026.102903",
+  "pmcid": "PMC12933821",
+  "source_record_sha256": "1da9e33ca79f00492b270f4a2eb42ec234363c287474c8dfa3b74662d501799a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "060b52c7656271fdf4fb06cf581fc32e1f58af3b359eace9261577a321b9600b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "VEGF-sustained regulation and hydrogel-activated graded porous titanium scaffold for functional regeneration of the tendon-bone interface",
+    "authors": "Lin T, Li J, Luo L, Sang H, Vashisth MK, Shen J, Luo X, Xu L, Pan J, Huang W.",
+    "year": 2026,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2026.102903",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

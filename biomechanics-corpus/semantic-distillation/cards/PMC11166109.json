@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11166109",
+  "paper_id": "doi:10.1039/d4na00098f",
+  "pmcid": "PMC11166109",
+  "source_record_sha256": "72b8e151e05eb824c1f912784d737894abe4c0bd546eb1afbf5f8268dc7aecd9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "53d70b67e192fd7b68bbdb0e9578867f3ba4c498be706c2be8ab7fa71aedba6d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An integrated design strategy coupling additive manufacturing and matrix-assisted pulsed laser evaporation (MAPLE) towards the development of a new concept 3D scaffold with improved properties for tissue regeneration",
+    "authors": "Russo T, Peluso V, Gloria A, Gargiulo V, Alfe M, Ausanio G.",
+    "year": 2024,
+    "journal": "Nanoscale Advances",
+    "doi": "10.1039/d4na00098f",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

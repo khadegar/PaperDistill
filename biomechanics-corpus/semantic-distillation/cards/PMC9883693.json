@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9883693",
+  "paper_id": "doi:10.1515/biol-2022-0530",
+  "pmcid": "PMC9883693",
+  "source_record_sha256": "12fd2ffe67895620d7e5421c24215d9c146ebe94c199d6df8615573c885fa002",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dbe7afb26b21c2c4d0e8987f446092a50497ce0a36f091a49ee58fa24c52da7c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biocompatibility and osteointegration capability of β-TCP manufactured by stereolithography 3D printing: In vitro study",
+    "authors": "Li J, Li J, Yang Y, He X, Wei X, Tan Q, Wang Y, Xu S, Chang S, Liu W.",
+    "year": 2023,
+    "journal": "Open Life Sciences",
+    "doi": "10.1515/biol-2022-0530",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

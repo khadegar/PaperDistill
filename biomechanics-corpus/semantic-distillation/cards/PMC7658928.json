@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7658928",
+  "paper_id": "doi:10.1021/acsomega.0c03824",
+  "pmcid": "PMC7658928",
+  "source_record_sha256": "ba547826cd2bb1a302e3221676729053bbc6803986e200ef9966086f014d9f39",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "16d7ce28c05e6a6df6d26b78cb1d09d02013215f8cb4da0019591155c0fdfe90",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Pore Size on the Physicochemical Properties and Osteogenesis of Ti6Al4V Porous Scaffolds with Bionic Structure",
+    "authors": "Wang C, Xu D, Li S, Yi C, Zhang X, He Y, Yu D.",
+    "year": 2020,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.0c03824",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

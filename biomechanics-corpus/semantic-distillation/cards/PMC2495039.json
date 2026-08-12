@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC2495039",
+  "paper_id": "doi:10.1098/rsif.2008.0064",
+  "pmcid": "PMC2495039",
+  "source_record_sha256": "58485cc3657a54068dafe2f366629831f20d8bef7ce06bda10e3e1947ec0ef67",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "225ad2c650618c0c11e5d2ec3ed9b0ac62f2fbb2b69e5eaf913544dda0943473",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of geometry on three-dimensional tissue growth",
+    "authors": "Rumpler M, Woesz A, Dunlop JW, van Dongen JT, Fratzl P.",
+    "year": 2008,
+    "journal": "Journal of the Royal Society Interface",
+    "doi": "10.1098/rsif.2008.0064",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

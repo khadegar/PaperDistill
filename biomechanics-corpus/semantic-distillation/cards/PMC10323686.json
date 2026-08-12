@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10323686",
+  "paper_id": "doi:10.3389/fbioe.2023.1204972",
+  "pmcid": "PMC10323686",
+  "source_record_sha256": "326f76b781b04efa4257c799f2a55a99cb642ebaf6a208e2baf39b9ad2bf6fc3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6243be22ac190573cc91fa09cb165ce5f3516a89c240f077515d3939edfda38c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical effect of reconstructed shapes of autologous ossicles on middle ear acoustic transmission",
+    "authors": "Asakura T, Ito R, Hirabayashi M, Kurihara S, Kurashina Y.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1204972",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

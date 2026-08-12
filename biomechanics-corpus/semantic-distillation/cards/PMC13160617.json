@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13160617",
+  "paper_id": "doi:10.1055/s-0045-1814774",
+  "pmcid": "PMC13160617",
+  "source_record_sha256": "064e7649b333415360125c0ec727eb7133f0aa2c21b2fd3ae479f06e700f378f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "40ad7fba6e37459220e8fd104e157c4c20c48a9cd4ac47064c33255b71ca33ee",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Behavior of Endodontically Treated Abutment Teeth with Periapical Lesions: A 3D Finite Element Analysis",
+    "authors": "Kırmalı Ö, Zeynallı A, Akar T, Celik HK.",
+    "year": 2026,
+    "journal": "European Journal of Dentistry",
+    "doi": "10.1055/s-0045-1814774",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

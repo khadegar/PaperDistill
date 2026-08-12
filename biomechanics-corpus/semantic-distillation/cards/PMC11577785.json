@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11577785",
+  "paper_id": "doi:10.1186/s12951-024-02886-7",
+  "pmcid": "PMC11577785",
+  "source_record_sha256": "4cb883b965b66d12323d98a3b62b4056b11a3ac3120769e219c17d349556667d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a4f0414927b822bf66f9a65c7152278d8127da59d39e510c06c3129837f4d679",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Microenvironment-optimized gastrodin-functionalized scaffolds orchestrate asymmetric division of recruited stem cells in endogenous bone regeneration",
+    "authors": "Pan S, Li Y, Wang L, Guan Y, Xv K, Li Q, Feng G, Hu Y, Lan X, Qin S, Gui L, Li L.",
+    "year": 2024,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-024-02886-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

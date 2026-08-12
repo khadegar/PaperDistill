@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11010800",
+  "paper_id": "doi:10.1016/j.jds.2023.12.017",
+  "pmcid": "PMC11010800",
+  "source_record_sha256": "9026ecfe7bb1f2e4ce507cb2d889e9a76608c2bb23740cab59d3846eef3eb49f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c0e57dedca2c07dcc1e1e5b8c6b71e0512440f620878f27d0c4bfc8c2a98bd04",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Interactions of neural-like cells with 3D-printed polycaprolactone with different inner diameters for neural regeneration",
+    "authors": "Javkhlan Z, Hsu SH, Chen RS, Chen MH.",
+    "year": 2024,
+    "journal": "Journal of Dental Sciences",
+    "doi": "10.1016/j.jds.2023.12.017",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

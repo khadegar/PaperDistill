@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8715559",
+  "paper_id": "doi:10.4317/jced.58930",
+  "pmcid": "PMC8715559",
+  "source_record_sha256": "5c194c01a35eba508cdf8eb61fa90ef7da78b20c4be94d8f4d32f54c358b18a7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "74673571d2f4ef9b439eddbf12deed1f6486d4d83df19afe8289bb67057a3da3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Implant insertion angle and depth: Peri-implant bone stress analysis by the finite element method",
+    "authors": "Rito-Macedo F, Barroso-Oliveira M, Paranhos LR, Rodrigues-Brum J, Pereira-Lima IF, Gomes-França FM, de Brito-Junior RB.",
+    "year": 2021,
+    "journal": "Journal of Clinical and Experimental Dentistry",
+    "doi": "10.4317/jced.58930",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical"
+    ]
+  },
+  "status": "blank"
+}

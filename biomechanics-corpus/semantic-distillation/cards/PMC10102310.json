@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10102310",
+  "paper_id": "doi:10.1111/os.13664",
+  "pmcid": "PMC10102310",
+  "source_record_sha256": "f833a4ba9c5c31d75e08f1bee17d0be420649bd776476ec7cf3fb1de207bbe05",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8bbc71fab43b57d2070852aace6e4016905add178f91a9a52cf7f17d27e9e32f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Anatomical and Biomechanical Stability of Single/Double Screw‐Cancellous Bone Fixations of Regan–Morry Type III Ulnar Coronoid Fractures in Adults: CT Measurement and Finite Element Analysis",
+    "authors": "Ye H, Yang Y, Xing T, Tan G, Jin S, Zhao Z, Zhang W, Li Y, Zhang L, Wang J, Zheng R, Lu Y, Wu L.",
+    "year": 2023,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13664",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

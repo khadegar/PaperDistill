@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11527424",
+  "paper_id": "doi:10.1051/sicotj/2024039",
+  "pmcid": "PMC11527424",
+  "source_record_sha256": "abbb57cf4173a2e675f190eb1c3578ec5ad4d43c272114161020e93c48dd84ea",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b4200098a787a77e1335722a6f16653678784559f25cc8b0961399227376df27",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of the knee joint: a computational tool to analyze the combined behavior after treatment of torn ligaments and menisci in the human knee joint",
+    "authors": "Vasiliadis AV, Giovanoulis V, Maris A, Chytas D, Katakalos K, Paraskevas G, Noussios G, Vassiou A.",
+    "year": 2024,
+    "journal": "SICOT-J",
+    "doi": "10.1051/sicotj/2024039",
+    "publication_type": "review-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

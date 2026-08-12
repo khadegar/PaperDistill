@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11787969",
+  "paper_id": "doi:10.1111/os.14297",
+  "pmcid": "PMC11787969",
+  "source_record_sha256": "0ccb7495a6d93b74796d694c5423cb5dd5cd1b87c933a384fe5609a244c09fb7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bc6377116cb7ecaad19270aa52cbe9aa18fd7044d1a49f4863db59d46025051f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced Biomechanical Stability in Proximal Humeral Fractures: Finite Element Analysis of a Novel Endosteal Anatomical Support Nail for Improved Fixation in Elderly Patients",
+    "authors": "Chen J, Wang Z, Li C, He P, Chen Z, Sun L, Cao X, Tian N, Dong X, Tang P, Chen H.",
+    "year": 2024,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.14297",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

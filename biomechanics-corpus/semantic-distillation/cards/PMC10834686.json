@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10834686",
+  "paper_id": "doi:10.3389/fbioe.2023.1252636",
+  "pmcid": "PMC10834686",
+  "source_record_sha256": "e130dc2b0f59605e142f7f849f3baa6765b4cf3da9230de6e2cab600e35c2919",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1b35494f13648c19b04cc9a6cd20d793f517976baf11612d551facf84e1e021a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additively manufactured porous scaffolds by design for treatment of bone defects",
+    "authors": "Toosi S, Javid-Naderi MJ, Tamayol A, Ebrahimzadeh MH, Yaghoubian S, Mousavi Shaegh SA.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1252636",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

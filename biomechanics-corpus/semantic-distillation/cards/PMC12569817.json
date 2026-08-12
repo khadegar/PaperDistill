@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12569817",
+  "paper_id": "doi:10.1016/j.mtbio.2025.102427",
+  "pmcid": "PMC12569817",
+  "source_record_sha256": "b22b8c061276280e5f7920d73bdcd137fe5ee8edc90fa7c11c9c07d5e40c2627",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "69d977b3ca9112b323dd3f0c9eec7eff1d83ad2aa6cc8016cb09e02fed6458e6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Zaotang-inspired pull-folding approach to fabricate oriented multifunctional scaffolds for bone repair",
+    "authors": "Zhang Z, Qi H, Xuan F, Wang D, Kong Q, Ai Z, Xing D, Geng Z.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.102427",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

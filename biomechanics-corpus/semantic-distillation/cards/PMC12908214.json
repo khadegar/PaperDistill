@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12908214",
+  "paper_id": "doi:10.1002/adhm.202501823",
+  "pmcid": "PMC12908214",
+  "source_record_sha256": "ca8f82eddad769fcfd302e41b1ede4cf515bfac0855c233249dc5ae786d35fd0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "705301f6151e2269f79b0fb64078596e35cbc22ab6ecd935b0a67724d71dba0d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Ultrasound‐Triggered Gelation for Restoring Biomechanical Properties of Degenerated Functional Spinal Units",
+    "authors": "Brans VA, Constantinou AP, Kibble MJ, Nele V, Reumann D, Bau L, Callens SJP, Armstrong JPK, Newell N, Coussios CC, Stevens MM, Gray MD.",
+    "year": 2025,
+    "journal": "Advanced Healthcare Materials",
+    "doi": "10.1002/adhm.202501823",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

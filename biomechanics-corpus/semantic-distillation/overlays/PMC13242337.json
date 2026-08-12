@@ -1,0 +1,228 @@
+{
+  "study": {
+    "article_kind": "retrospective_consecutive_case_series",
+    "design_features": [
+      "revision_total_hip_arthroplasty",
+      "Paprosky_2B_2C_3A_3B_defects",
+      "structural_homologous_allograft",
+      "cemented_polyethylene_cup",
+      "defect_specific_graft_shaping",
+      "radiographic_follow_up",
+      "Harris_Hip_Score",
+      "Kaplan_Meier_with_two_failures",
+      "resource_limited_context"
+    ],
+    "research_problem": "Major acetabular bone loss in revision THA requires immediate structural support and restoration of bone stock, but advanced porous-metal/cup-cage constructs may be inaccessible in resource-limited systems.",
+    "exact_gap": "The short- to mid-term performance and failure conditions of defect-shaped structural allograft blocks fixed with screws and supporting a cemented cup remain uncertain, especially for severe Paprosky type 3 defects (S001:C01-S002:C02).",
+    "objective_or_hypothesis": "Describe clinical and radiographic outcomes of structural homologous block allograft plus a cemented acetabular component in 13 consecutive major acetabular revisions (S001:C01-S003:C01).",
+    "study_design": "Level-IV retrospective case series of 13 hips revised from 2016-2021, with standardized radiographs, final HHS, predefined radiographic failure, Kaplan-Meier survival, and exploratory graft-origin log-rank analysis (S003:C01; S007:C01-S008:C01).",
+    "sample_or_model": "Thirteen heterogeneous Paprosky 2B, 2C, 3A, or 3B defects; structural graft source depended on bone-bank availability, and every case also underwent an individualized femoral revision (S003:C01-S004:C02).",
+    "comparators": [
+      "No concurrent modern porous-metal, cup-cage, or other reconstruction control",
+      "Preoperative versus final HHS within the same patients",
+      "Exploratory femoral-condyle versus other graft-source survival comparison with only two failures",
+      "Failure versus nonfailure case interpretation across different defect severities"
+    ],
+    "method_spine": [
+      "Classify acetabular defect and select available structural allograft.",
+      "Shape graft to defect, screw it to ilium, add morselized interface graft, ream the construct, and cement a cup through host-graft containment purchase.",
+      "Use partial weight bearing for six weeks and scheduled radiographic/clinical follow-up.",
+      "Define migration/radiolucency failure a priori and report HHS with uncertainty.",
+      "Analyze failures as mechanism-generating cases while limiting subgroup inference.",
+      "Frame value relative to resource constraints rather than untested superiority."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Five to six intraoperative cultures per case were negative, and follow-up/rehabilitation schedules and radiographic failure thresholds were prespecified (S006:C01-S007:C01).",
+        "One specialized surgeon, blinded to final HHS, assessed graft incorporation/migration; no inter-observer reliability or advanced migration measurement was available (S007:C01)."
+      ],
+      "calibration": [],
+      "validation": [
+        "Observed radiographic consolidation, absence of loosening, and HHS improvement in 11 cases support short- to mid-term clinical feasibility, not mechanical validation of graft strength or comparative effectiveness (S009:C01-S013:C01).",
+        "Conventional radiographs cannot validate subtle micromotion, actual graft revascularization, bone-stock restoration, or load sharing."
+      ],
+      "sensitivity": [
+        "The authors examine defect severity and graft source descriptively, but only two failures make log-rank/subgroup findings unstable and highly confounded (S010:C01-S011:C01; S014:C03-S014:C05).",
+        "No sensitivity analysis varies failure definition, censoring, imaging interpretation, graft coverage, screw pattern, cup position, or weight-bearing protocol."
+      ],
+      "application_prediction": [
+        "Use as a lower-cost reconstruction and as a bridge to future revision is an application rationale; durability beyond the observed follow-up and equivalence to modern constructs are unknown (S014:C04-S015:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "Mean follow-up was about 54 months; 11 of 13 cases showed radiographic consolidation without defined failure, while two severe defects failed early at seven and nine months through graft fragmentation and cup migration (S009:C01-S012:C01).",
+      "Five-year construct survival was estimated at 84% with a very wide 95% CI of approximately 55-95%, reflecting only two events (S011:C01).",
+      "Mean HHS increased from 34.5 to 70.1, an average improvement of 35.6 points (95% CI 28.1-43.2); without a control, improvement cannot be assigned solely to the acetabular technique (S009:C01; S013:C01).",
+      "Both failures used femoral-condyle grafts, but also occurred in Paprosky 3A/3B high-instability defects; the apparent graft-origin association is hypothesis-generating and vulnerable to Type-I error/confounding (S010:C01-S011:C01; S014:C03-S014:C05)."
+    ],
+    "highest_evidence_level_reached": "Small uncontrolled short- to mid-term clinical case series with documented early mechanical failures and broad survival uncertainty; no comparative, long-term, or direct mechanical evidence."
+  },
+  "argument_map": {
+    "central_claim": "Defect-shaped structural allograft plus a cemented cup can provide a practical medium-term reconstruction for selected major acetabular defects where advanced implants are unavailable, but severe type-3 defects showed early mechanical failure and the series cannot establish durability, comparative value, or graft-source effects.",
+    "data": [
+      "Thirteen consecutive reconstructions with defect/graft/technique details, serial conventional radiographs, HHS, two early failures, and wide-CI survival (S003:C01-S013:C01).",
+      "Failure-case descriptions linking severe defect instability, graft fragmentation, and migration (S010:C01-S014:C03)."
+    ],
+    "warrant": "Clinical function plus maintained component position and radiographic graft consolidation are consistent with feasibility, while fragmentation/migration in high-demand defects exposes a structural-support boundary requiring dedicated testing and comparison.",
+    "backing": [
+      "The paper contextualizes allograft as an accessible bone-stock option and modern reinforcement constructs as costly/unavailable in its health system (S002:C01-S002:C02; S014:C01)."
+    ],
+    "qualifier": "Selected-case, resource-contextual, short- to mid-term feasibility.",
+    "rebuttals_or_boundaries": [
+      "No control group distinguishes the technique from other revision constructs or natural postoperative recovery.",
+      "Only two failures make Kaplan-Meier and log-rank subgroup estimates extremely imprecise (S011:C01; S014:C03-S014:C05).",
+      "Defect severity, pelvic discontinuity, graft origin, graft geometry, coverage, fixation, and patient factors are confounded.",
+      "All patients also had femoral revision, contributing to HHS and complications.",
+      "Conventional radiography and single-reader assessment cannot detect subtle migration or verify biological incorporation.",
+      "Mean 54 months is shorter than the reported 6-10-year window in which structural allograft failures may rise (S014:C04)."
+    ],
+    "argument_coherence": "high_for_failure_informed_feasibility_low_for_mandatory_reinforcement_or_graft_source_causality"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Defect class, graft source, technique, cultures, rehabilitation, serial radiographs, migration/radiolucency, graft fragmentation, HHS, follow-up, and re-revision status (S003:C01-S013:C01)."
+    ],
+    "predicted": [],
+    "inferred": [
+      "Restored bone stock, future-revision facilitation, load sharing, initial mechanical resistance, and protection during incorporation are plausible rationales not directly quantified (S002:C02; S014:C01-S014:C04).",
+      "The authors attribute failure mainly to severe structural deficiency and infer that reinforcement rings/cup-cage constructs are mandatory, but only two uncontrolled failures support this claim (S014:C02-S014:C03)."
+    ],
+    "recommended": [
+      "Prospective multicenter comparisons, defect-stratified cohorts, CT/radiostereometric migration, mechanical testing/modeling, longer than ten-year follow-up, and transparent cost/resource analysis are needed (S014:C04-S015:C01)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Conventional radiographic density/consolidation is not histological incorporation, revascularization, or restored mechanical bone stock.",
+      "HHS improvement is a whole-patient functional outcome affected by acetabular and femoral revision, rehabilitation, and baseline severity.",
+      "Two early failures can reveal a failure mode but cannot estimate a stable subgroup effect or prove graft-source causality.",
+      "Five-year survival with a 55-95% CI is too imprecise for strong comparative claims.",
+      "Resource accessibility is an implementation advantage, not evidence of biomechanical equivalence."
+    ],
+    "overclaim_risks": [
+      "The discussion says type-3 failures confirm that constrained load-sharing implants are mandatory and consistently superior, stronger than this uncontrolled series permits (S014:C02-S014:C03).",
+      "A log-rank P value of 0.04 with two events can be overread unless event count, CI, confounding, and Type-I-error warning accompany it (S011:C01-S012:C01; S014:C03-S014:C05).",
+      "The automatic case-report, porous/lattice, and animal cues are incorrect; this is a 13-patient clinical case series without a porous-device experiment."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Connect defect classification to a reproducible reconstruction chain",
+      "execution": "The paper describes graft source/availability, defect shaping, screw fixation, interface morselized graft, reaming, containment hole, cement pressurization, cup implantation, and rehabilitation (S003:C01-S007:C01).",
+      "locator": "S004:C02",
+      "effectiveness": "high",
+      "transferable_principle": "For complex reconstructions, write anatomy/defect class, biological material, mechanical fixation, interface preparation, load progression, and failure definition as one method spine.",
+      "failure_mode": "Technical completeness does not substitute for a comparator or direct mechanical validation."
+    },
+    {
+      "section": "results",
+      "move": "Make failures first-class evidence",
+      "execution": "The two failures are described by timing, defect class, fragmentation, migration, infection status, and lack of re-revision rather than being hidden in a success percentage (S010:C01).",
+      "locator": "S010:C01",
+      "effectiveness": "high",
+      "transferable_principle": "In small implant series, report every failure as anatomy/configuration, time, observation, plausible mechanism, alternative explanation, and subsequent management.",
+      "failure_mode": "A failure narrative can generate mechanisms but not prove them."
+    },
+    {
+      "section": "results",
+      "move": "Report survival with event count and confidence interval",
+      "execution": "The series reports 84% five-year survival with a broad 95% CI and explicitly notes only two events (S011:C01).",
+      "locator": "S011:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Always place Kaplan-Meier estimate, CI, number at risk/events, censoring, and follow-up distribution together; avoid subgroup inference when events are sparse.",
+      "failure_mode": "A nominal subgroup P value cannot overcome two-event instability."
+    },
+    {
+      "section": "discussion",
+      "move": "Use resource context as a separate decision axis",
+      "execution": "The paper contrasts accessible certified bone-bank grafts with unavailable high-cost porous-metal/cup-cage systems and frames the technique as a pragmatic option (S014:C01-S014:C05).",
+      "locator": "S014:C04",
+      "effectiveness": "high",
+      "transferable_principle": "Discuss effectiveness, failure boundary, resource availability, and future revision value as separate axes rather than treating affordability as efficacy.",
+      "failure_mode": "Implementation necessity does not prove equal durability."
+    },
+    {
+      "section": "discussion",
+      "move": "Turn subgroup association into a bounded hypothesis",
+      "execution": "Although both failures used femoral-condyle grafts and log-rank P was 0.04, the authors repeatedly flag two-event confounding and Type-I error (S011:C01; S014:C03-S014:C05).",
+      "locator": "S014:C03",
+      "effectiveness": "high",
+      "transferable_principle": "For sparse-event exploratory subgroups, state event count, competing explanation, uncertainty, and the exact prospective comparison needed; use hypothesis language.",
+      "failure_mode": "Do not rank graft sources or prescribe constructs from a nominal P value."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Retrospective design, 13 heterogeneous cases, short follow-up, two failures/low power and Type-I-error risk, variable graft source, no modern-device control, and conventional radiography only (S014:C04-S014:C05)."
+    ],
+    "reader_identified": [
+      "No sample-size rationale, prospective protocol, standardized CT/RSA, inter-rater reliability, or independent outcome assessment.",
+      "HHS before-after improvement is confounded by femoral revision, rehabilitation, selection, and survivorship.",
+      "No direct measurement of load transfer, graft strength, fixation micromotion, biological incorporation, or restored bone stock.",
+      "Paprosky severity and pelvic discontinuity confound graft-source and failure interpretations.",
+      "Kaplan-Meier estimates and log-rank P values are unstable with only two events and very small risk sets.",
+      "No comparative cost-effectiveness, patient-reported quality of life, or long-term re-revision outcome.",
+      "Four-to-five-year averages may precede the main late failure window."
+    ],
+    "likely_bias_direction": [
+      "Survivor and selection bias likely inflate feasibility and functional outcomes.",
+      "Retrospective salience of the two failures may overstate a single mechanical explanation or the need for a specific reinforcement construct.",
+      "Resource-context advocacy may favor benefit interpretation despite absent comparator."
+    ],
+    "scope_boundary": "The series documents an accessible reconstruction's medium-term course and a severe-defect failure signal; it does not establish comparative durability, graft-source effects, biological incorporation, or a universal type-3 fixation mandate."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC13242337-01",
+      "capability": "Write complex reconstruction Methods as defect classification to graft/device configuration to interface/fixation to rehabilitation to failure definition.",
+      "manuscript_use": "Clinical Methods, device configuration table, and reproducibility figure.",
+      "applicable_domains": ["bone_implant", "patient_specific_implant", "clinical_biomechanics"],
+      "applicable_study_designs": ["case_series", "clinical_cohort"],
+      "supporting_locators": ["S003:C01", "S004:C01", "S004:C02", "S005:C01", "S006:C01", "S007:C01"],
+      "counterexample_or_boundary": "Defect-shaped grafting is patient-adapted surgery, not digitally validated patient-specific implant engineering.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC13242337-02",
+      "capability": "Treat every implant failure as a mechanism-generating case with configuration, timing, observation, competing mechanisms, and management.",
+      "manuscript_use": "Results failure table and Discussion mechanism paragraph.",
+      "applicable_domains": ["bone_implant", "clinical_biomechanics", "fixation"],
+      "applicable_study_designs": ["case_series", "device_registry"],
+      "supporting_locators": ["S010:C01", "S011:C01", "S014:C02", "S014:C03"],
+      "counterexample_or_boundary": "Two failures identify a warning signal but do not prove a universal mechanism or treatment rule.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC13242337-03",
+      "capability": "Write sparse-event survival/subgroup results with event count, CI, confounding, Type-I-error risk, and hypothesis-only language.",
+      "manuscript_use": "Statistical Results, subgroup paragraph, and limitations.",
+      "applicable_domains": ["bone_implant", "clinical_device"],
+      "applicable_study_designs": ["case_series", "survival_analysis"],
+      "supporting_locators": ["S011:C01", "S012:C01", "S014:C03", "S014:C04", "S014:C05"],
+      "counterexample_or_boundary": "A log-rank P value from two failures is not a reliable graft-source effect.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "appropriate_for_feasibility_case_series",
+    "methods_transparency": "high",
+    "validation_credibility": "moderate_for_observed_medium_term_course_low_for_mechanics_or_comparison",
+    "outcome_uncertainty_reporting": "moderate_to_high_for_small_series",
+    "comparator_fairness": "none",
+    "conclusion_proportionality": "moderate_to_high",
+    "critical_weaknesses": [
+      "Thirteen uncontrolled heterogeneous cases and only two failures.",
+      "Conventional radiography/single assessor and no direct mechanical or biological incorporation measures.",
+      "Short follow-up relative to late allograft failure and unstable subgroup statistics."
+    ],
+    "overall_credibility": "high_for_describing_this_series_moderate_for_selected_feasibility_low_for_comparative_or_causal_claims"
+  },
+  "summary_zh": "这不是单病例、动物或多孔支架研究，而是 13 例翻修髋臼的回顾性病例系列。结构性同种异体骨块按 Paprosky 缺损塑形、螺钉固定、界面加颗粒骨并承托骨水泥杯；11 例在平均约 54 个月时影像稳定，2 例严重 3A/3B 缺损在 7/9 个月出现骨块碎裂和杯迁移。5 年生存 84%，但 95% CI 约 55–95%，只有两个事件。两例均用股骨髁移植物且 log-rank P=0.04，但缺损严重度和骨盆连续性严重混杂，因此只能生成假设。论文最值得蒸馏的是把失败当成主证据：配置—时间—失效观察—竞争机制—处置；同时任何稀疏事件生存/亚组结果都必须同报事件数、CI、混杂和 I 类错误。资源可及性应作为独立决策轴，不能代替机械等效或长期耐久证据。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section, including the full patient table, technique, radiographic criteria, both failures, survival/HHS analyses, and resource-context discussion.",
+    "The automatic case-report, porous/lattice, and animal cues are incorrect.",
+    "The paper is a strong failure-analysis and sparse-event reporting exemplar, not a comparative device-efficacy study."
+  ]
+}

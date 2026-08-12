@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10184017",
+  "paper_id": "doi:10.1002/jbm4.10725",
+  "pmcid": "PMC10184017",
+  "source_record_sha256": "917e91b9b1856e20619eef9b3bf9880caf9cc066ecf7d856142a46b8f0f56eb1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c229ef6a6d2fa015eb294c9210b0d8dbac91b3e80a27d294981999dbd3f45c54",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Skeletal Microstructure in Caribbean Hispanic Women",
+    "authors": "Agarwal S, Germosen C, Bucovsky M, Colon I, Kil N, Walker M.",
+    "year": 2023,
+    "journal": "JBMR Plus",
+    "doi": "10.1002/jbm4.10725",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

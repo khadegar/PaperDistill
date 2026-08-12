@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12080587",
+  "paper_id": "doi:10.7150/ijms.111111",
+  "pmcid": "PMC12080587",
+  "source_record_sha256": "bb01f34a381f01e535b2cfd5e59c3a513186c5a01851b2371646f8d1678f65f2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "801d5752605cce59cae7555648ef7b239e6c87f716cff328833a9b93946b1e74",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of Load Distribution in Subperiosteal Implants and Mini Plates in Orthognathic Surgery",
+    "authors": "Kasapoglu MB, Az ZAA.",
+    "year": 2025,
+    "journal": "International Journal of Medical Sciences",
+    "doi": "10.7150/ijms.111111",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

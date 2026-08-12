@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9614622",
+  "paper_id": "doi:10.2196/36111",
+  "pmcid": "PMC9614622",
+  "source_record_sha256": "e482607a40dee73ed9df9f8b1c992151fec639036a937e18526b37512fff0e68",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "36952560520890f3dd8eca30a895eca20b10fcc0e2e459deb58cb6d5ee10decd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Medical-Grade Polycaprolactone and Tricalcium Phosphate Scaffold System With Corticoperiosteal Tissue Transfer for the Reconstruction of Acquired Calvarial Defects in Adults: Protocol for a Single-Arm Feasibility Trial",
+    "authors": "Gonzalez Matheus I, Hutmacher DW, Olson S, Olson S, Redmond M, Sutherland A, Wagels M.",
+    "year": 2022,
+    "journal": "JMIR Research Protocols",
+    "doi": "10.2196/36111",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9864166",
+  "paper_id": "doi:10.3390/pharmaceutics15010242",
+  "pmcid": "PMC9864166",
+  "source_record_sha256": "ddccbe4385dda9731cad47c96180ec8595cefb67fc8724f5797c15fd715df35e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5e4f24ade6d800f60634c36fbf2e7181c79fa66741da20668b52be6dab1e7960",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Nano-Hydroxyapatite/PLGA Mixed Scaffolds as a Tool for Drug Development and to Study Metastatic Prostate Cancer in the Bone",
+    "authors": "Dozzo A, Chullipalliyalil K, McAuliffe M, O'Driscoll CM, Ryan KB.",
+    "year": 2023,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics15010242",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11205119",
+  "paper_id": "doi:10.3390/jfb15060150",
+  "pmcid": "PMC11205119",
+  "source_record_sha256": "9be3ae04543ab28dd5d0be0057fcfb45ee3925ef59202fc3a8366986473c9e8d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0fe68e0baf51a052ac5d470408a13b13f08f0315f96f47b8b93a5cac2c55da18",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhancing Guided Bone Regeneration with a Novel Carp Collagen Scaffold: Principles and Applications",
+    "authors": "Bujda M, Klíma K.",
+    "year": 2024,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb15060150",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13070653",
+  "paper_id": "doi:10.1093/rb/rbag035",
+  "pmcid": "PMC13070653",
+  "source_record_sha256": "3c90ede90192b61c6d10e35feede1dd77e30c8ae23bed15f7a2cc3afec68e044",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3ae4c23f35d34e6c5e416657f9088ea04ef983358b720278fa9c4caf21440d5a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A multifunctional EGCG/Si nanohybrid-coated 3D-printed porous scaffold for bone defect repair",
+    "authors": "Xiao S, Qi L, Wei J, Liu H, Ding S, Chen J, Yang J, Lin H, Lu D.",
+    "year": 2026,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbag035",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

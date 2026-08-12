@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5886537",
+  "paper_id": "doi:10.1371/journal.pone.0195337",
+  "pmcid": "PMC5886537",
+  "source_record_sha256": "051f0db3a6d1cd37353e72a2010944e3f456a2d4143fcb385b19ddba9f9c1adc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f937ef015559ac32f94d43118b22c7a7085cd053c371c288ddf82027df4de036",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Low power laser irradiation and human adipose-derived stem cell treatments promote bone regeneration in critical-sized calvarial defects in rats",
+    "authors": "Wang YH, Wu JY, Kong SC, Chiang MH, Ho ML, Yeh ML, Chen CH.",
+    "year": 2018,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0195337",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12681753",
+  "paper_id": "doi:10.1016/j.mtbio.2025.102581",
+  "pmcid": "PMC12681753",
+  "source_record_sha256": "88d38482a81a22e23176a127e1b2bfa6c622a0a3925329dfc645336335db468a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9a21b4be889accbd6e2c38df4258f62e075ed967606011da78b03d7c487887fd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dual-wavelength UV photofunctionalization of 3D-printed Ti6Al4V porous bone implant enhances osseointegration via adhesion–cytoskeleton–nuclear mechanotransduction",
+    "authors": "Yin C, Fang Y, Sun X, Jing Z, Fu J, Sun L, Hou Y, Lee EB, Zhang T, Wang Y, Hao Y.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.102581",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

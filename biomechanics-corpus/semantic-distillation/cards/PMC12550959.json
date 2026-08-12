@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12550959",
+  "paper_id": "doi:10.3389/fbioe.2025.1652897",
+  "pmcid": "PMC12550959",
+  "source_record_sha256": "d978b279b49cc1a4f4871b3ff3328886ccbaccc06c932f2803b3be6883298bd0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0377994fd1fb21f2f07c70b64356bd9d9d12b546150a4309e341ad0fa4aae0b5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Extended view on the mechanobiology of fracture healing: interplay between mechanics and inflammation",
+    "authors": "Gläser N, Schröder M, Barcik J, Haffner-Luntzer M, Wehrle E.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1652897",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

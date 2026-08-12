@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12444494",
+  "paper_id": "doi:10.1016/j.xnsj.2025.100776",
+  "pmcid": "PMC12444494",
+  "source_record_sha256": "aa5f0315111f0914d407f41328be33acf2ffb2af523b92e88f72dfc41d5f8105",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "24afe2572f7b77eba975d29814b87721cb462ff59dd2690d0a3055619aa13c83",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Rib construct for severe spinal deformity in young children: a 3-part investigation of biomechanical, animal, and clinical case data",
+    "authors": "Bonthius DJ, Gross RH, Alshareef MA, Wright GJ, Sun S, Wu Y, Yao H.",
+    "year": 2025,
+    "journal": "North American Spine Society Journal",
+    "doi": "10.1016/j.xnsj.2025.100776",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

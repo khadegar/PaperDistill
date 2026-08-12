@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6935889",
+  "paper_id": "doi:10.1021/acscentsci.9b00870",
+  "pmcid": "PMC6935889",
+  "source_record_sha256": "75d6a071823ff1735e1feefecf8924aae7a0937620c218dad218fd9412a6bec1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8b0177614a953baaddd32ffc257d75f2225a0e24ceeb463e05e1c16a5616924f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Micrococcal-Nuclease-Triggered On-Demand Release of Vancomycin from Intramedullary Implant Coating Eradicates Staphylococcus aureus Infection in Mouse Femoral Canals",
+    "authors": "Ghimire A, Skelly JD, Song J.",
+    "year": 2019,
+    "journal": "ACS Central Science",
+    "doi": "10.1021/acscentsci.9b00870",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

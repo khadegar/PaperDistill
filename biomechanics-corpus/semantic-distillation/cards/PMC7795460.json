@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7795460",
+  "paper_id": "doi:10.3390/polym13010150",
+  "pmcid": "PMC7795460",
+  "source_record_sha256": "1bfea80d132518caaf3bfd2fe69bb9a319f09f8cb32e833df7ae39ec3ab40c27",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3f019f4b317ab92d2803f943bccde2a0f8ad5134e0c21a51a56c6e5d1166a198",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A 3D Printed Composite Scaffold Loaded with Clodronate to Regenerate Osteoporotic Bone: In Vitro Characterization",
+    "authors": "Cometa S, Bonifacio MA, Tranquillo E, Gloria A, Domingos M, De Giglio E.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13010150",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

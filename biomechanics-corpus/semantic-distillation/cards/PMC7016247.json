@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7016247",
+  "paper_id": "doi:10.1016/j.sdentj.2019.06.001",
+  "pmcid": "PMC7016247",
+  "source_record_sha256": "745903908c9757dd4128493afccd24bc307a942b2bac178125dd312d7aa9ce4b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "08ff038ab130e54a806378bc81c50ce327d386fce8c66c683478171a6325ab4d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dental implant primary stability in different regions of the Jawbone: CBCT-based 3D finite element analysis",
+    "authors": "Alaqeely R, Babay N, AlQutub M.",
+    "year": 2019,
+    "journal": "The Saudi Dental Journal",
+    "doi": "10.1016/j.sdentj.2019.06.001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

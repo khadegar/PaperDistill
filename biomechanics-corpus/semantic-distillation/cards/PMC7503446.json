@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7503446",
+  "paper_id": "doi:10.3390/ma13173735",
+  "pmcid": "PMC7503446",
+  "source_record_sha256": "9ecd046a8c927c93f4ed5881df57d73411bf83f2d56138a633da7db3d7a6c216",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7f990f7dba871af3f761866f2f2bff269f730b990d1191639a8cfa9a4c158d72",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A GelMA-PEGDA-nHA Composite Hydrogel for Bone Tissue Engineering",
+    "authors": "Wang Y, Cao X, Ma M, Lu W, Zhang B, Guo Y.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13173735",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

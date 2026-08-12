@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11262949",
+  "paper_id": "doi:10.4055/cios23356",
+  "pmcid": "PMC11262949",
+  "source_record_sha256": "3c466d3c6d4e188efa6d1d54ac5fbddfc9cd9615e86b68c1c5da727aff573bd0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "be3ada2c861e757d8eb3c882f2c11438a5eba51cf1903d094885a074b773ca8e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Load-Dependent Characteristics of Cruciate-Retaining and Posterior-Stabilized Total Knee Arthroplasty: A Biomechanical Study",
+    "authors": "Lee JH, Schwarzkopf R, Fraipont G, Bouzarif G, McGarry MH, Lee TQ.",
+    "year": 2024,
+    "journal": "Clinics in Orthopedic Surgery",
+    "doi": "10.4055/cios23356",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

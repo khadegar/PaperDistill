@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8625789",
+  "paper_id": "doi:10.3390/ma14226918",
+  "pmcid": "PMC8625789",
+  "source_record_sha256": "55bac14663e2a9bf07cf4a20e6adfd72bc35fabd5a478d09440fe1978ebde738",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7a6891c376d72cbdc9c991e652cad26523a87de3f392186c2a5ac553a80d945e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Novel Design and Finite Element Analysis of Diamond-like Porous Implants with Low Stiffness",
+    "authors": "Zhang J, Zhang X, Chen Y, Feng W, Chen X.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14226918",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

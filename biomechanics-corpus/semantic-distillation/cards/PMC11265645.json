@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11265645",
+  "paper_id": "doi:10.1097/brs.0000000000005050",
+  "pmcid": "PMC11265645",
+  "source_record_sha256": "dd133063fa48d426e5d090e96847b31230f85191f84d42d89147c61c8e304657",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "55d0d6117e54a6bb8ab633d58805c47b6aa79495951442c150bc946db6a952bc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Comparison of Different Surgical Strategies for Skip-level Cervical Degenerative Disc Disease",
+    "authors": "Xu H, Liu Z, Yang Y, Miao J, Wang B, Yang C.",
+    "year": 2024,
+    "journal": "Spine",
+    "doi": "10.1097/brs.0000000000005050",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

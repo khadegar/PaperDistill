@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10242115",
+  "paper_id": "doi:10.3389/fendo.2023.1159393",
+  "pmcid": "PMC10242115",
+  "source_record_sha256": "b7cc05e54b4d798483b3ec98e970329395cce3a090f284f737c86e46c2a44760",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ac8f82716ccc2cd3657224efab765860f757e26bf924da692459860ea114acf1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Exercise improves subchondral bone microenvironment through regulating bone-cartilage crosstalk",
+    "authors": "Zhang S, Li T, Feng Y, Zhang K, Zou J, Weng X, Yuan Y, Zhang L.",
+    "year": 2023,
+    "journal": "Frontiers in Endocrinology",
+    "doi": "10.3389/fendo.2023.1159393",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5793511",
+  "paper_id": "doi:10.3390/ma11010013",
+  "pmcid": "PMC5793511",
+  "source_record_sha256": "888aec6f137b4e63c0b05f8db173f0f23672310ab73265106ce3a85eb9d63e9d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0711b8db4054f4f2e46c5d89b7dea023d9d194c4fe25b583b24b92dd72864cea",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Powder Printed Bioglass and β-Tricalcium Phosphate Bone Scaffolds",
+    "authors": "Seidenstuecker M, Kerr L, Bernstein A, Mayr HO, Suedkamp NP, Gadow R, Krieg P, Hernandez Latorre S, Thomann R, Syrowatka F, Esslinger S.",
+    "year": 2017,
+    "journal": "Materials",
+    "doi": "10.3390/ma11010013",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

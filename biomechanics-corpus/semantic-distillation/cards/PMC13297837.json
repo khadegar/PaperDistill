@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13297837",
+  "paper_id": "doi:10.3390/dj14060329",
+  "pmcid": "PMC13297837",
+  "source_record_sha256": "b4141bc2a02b4ba08d7b02069f636dd3ae0c7b808c3d33127ac1eacb31ae5ae0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d9d5a8125765403c3c81bdbf3c81ae8803a497216d5c0dab4d1a23b37798992e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fatigue Behavior of Dental Implants Affected by Peri-Implantitis-Related Bone Loss: Influence of Implantoplasty Evaluated Through In Vitro Testing and Finite Element Modeling",
+    "authors": "Padullés-Roig E, Fonseca D, Callejas-Cano JA, Delgado LM, López-Oliva E, Aparicio C, Velasco-Ortega E, Gil J.",
+    "year": 2026,
+    "journal": "Dentistry Journal",
+    "doi": "10.3390/dj14060329",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

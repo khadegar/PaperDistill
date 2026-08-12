@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12012782",
+  "paper_id": "doi:10.1021/acsami.5c00077",
+  "pmcid": "PMC12012782",
+  "source_record_sha256": "13e6fb3e89e9a35e82aedbc2bb180cf377e92e1e45cbff9e8cb6e11e68f24884",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "13906d2457b27be630bf58b50e3566ebac718811b1310442d86fe893001308bf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Incorporation of Cross-Linked Gelatin Microparticles To Enhance Cell Attachment and Chondrogenesis in Carboxylated Agarose Bioinks for Cartilage Engineering",
+    "authors": "Qian Y, Gu Y, Tribukait-Riemenschneider F, Martin I, Shastri VP.",
+    "year": 2025,
+    "journal": "ACS Applied Materials & Interfaces",
+    "doi": "10.1021/acsami.5c00077",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

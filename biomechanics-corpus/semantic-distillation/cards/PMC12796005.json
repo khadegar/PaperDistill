@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12796005",
+  "paper_id": "doi:10.1016/j.reth.2025.101055",
+  "pmcid": "PMC12796005",
+  "source_record_sha256": "1f7b2b53ff748d8db739001c8067879093e4638e5cdd1291f88c06493b53e366",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a782e6ace82fed2fa1c0a887ec04a287c35be995e1d472c66d9e5fd4c7b11f23",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of local administration of microRNA-31/210 on bone regeneration surrounding hydroxyapatite/tricalcium phosphate -coated titanium implant in an ovariectomized rat model",
+    "authors": "Ueki S, Shoji T, Saka H, Kaneta H, Morita H, Kozuma Y, Adachi N.",
+    "year": 2026,
+    "journal": "Regenerative Therapy",
+    "doi": "10.1016/j.reth.2025.101055",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

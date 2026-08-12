@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8036283",
+  "paper_id": "doi:10.3390/polym13071095",
+  "pmcid": "PMC8036283",
+  "source_record_sha256": "278a0b7edb97f9c091e6ec2892d0278eb738621d5fb12f79c52392dc6f366aed",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "24956c1f7d0b3c9b3cedff5719a05a774ecae6640884b461c00f5951030356ab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Matrix Non-Collagenous Proteins in Tissue Engineering: Creating New Bone by Mimicking the Extracellular Matrix",
+    "authors": "Carvalho MS, Cabral JMS, da Silva CL, Vashishth D.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13071095",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

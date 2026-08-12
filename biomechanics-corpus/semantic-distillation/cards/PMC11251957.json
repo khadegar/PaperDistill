@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11251957",
+  "paper_id": "doi:10.3389/fendo.2024.1346094",
+  "pmcid": "PMC11251957",
+  "source_record_sha256": "9680c3ce2ab6e65fe063f6a3e933af3fbd898396a7652612188202690fc1bfc7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bba893ded72517cf03fc1557322f1f7cf6fd4f8bb548bdd5844d77ef388eddd5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Healthy and diabetic primary human osteoblasts exhibit varying phenotypic profiles in high and low glucose environments on 3D-printed titanium surfaces",
+    "authors": "Allen N, Aitchison AH, Abar B, Burbano J, Montgomery M, Droz L, Danilkowicz R, Adams S.",
+    "year": 2024,
+    "journal": "Frontiers in Endocrinology",
+    "doi": "10.3389/fendo.2024.1346094",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

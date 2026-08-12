@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7339419",
+  "paper_id": "doi:10.1186/s13018-020-01764-w",
+  "pmcid": "PMC7339419",
+  "source_record_sha256": "a400cba1ba3715d1b92865ed53e27de5d3045c7c2b125da8c0e9090ba708554c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8799acbd380975932441b7bc19d991ca7f5ebcb306edc9ce9258226371327330",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design a novel integrated screw for minimally invasive atlantoaxial anterior transarticular screw fixation: a finite element analysis",
+    "authors": "Zhang Y, Li C, Li L, Sun Y, Li Z, Mei Y, Feng X.",
+    "year": 2020,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-020-01764-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12107324",
+  "paper_id": "doi:10.31661/gmj.v13isp1.3608",
+  "pmcid": "PMC12107324",
+  "source_record_sha256": "cc660cbbfa4a42d54fbfe05ea3070f35e06c54c95a9f6f4eec9fe2014404c223",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "97c0e9d74f80c99efe510446e9ea9329ebf7618b1b4de208bf699797d653cdc9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of Stress Distribution In Tooth-Implant Retained Prostheses: Impact of Periodontal Support, Tooth Count, and Implants",
+    "authors": "Younesi F, Soleimanpour S, Alihemmati M, Bakhtiari F, Taghavi F, Jahangiri M, Shayegh S.",
+    "year": 2024,
+    "journal": "Galen Medical Journal",
+    "doi": "10.31661/gmj.v13isp1.3608",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

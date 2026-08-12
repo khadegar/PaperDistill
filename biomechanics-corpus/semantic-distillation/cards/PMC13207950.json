@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13207950",
+  "paper_id": "doi:10.3390/jfb17050208",
+  "pmcid": "PMC13207950",
+  "source_record_sha256": "a71f7922dd8a2e350d1154b8b7c9015de0c1f65f16348a3252f6a85cb742bf44",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "16402c584421b605997c7dd983d5ef43cb9fb75eec179f01cdf789dba18fab00",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanobiological Response of Peri-Implant Bone to Variations in Inter-Implant Distance: A Finite Element Analysis of Conometric Implants at Crestal and Subcrestal Positions",
+    "authors": "Ceddia M, Romasco T, Di Pietro N, Lamberti L, Trentadue B.",
+    "year": 2026,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb17050208",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

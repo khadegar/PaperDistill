@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13248245",
+  "paper_id": "doi:10.1186/s13018-026-06854-9",
+  "pmcid": "PMC13248245",
+  "source_record_sha256": "f4f0cff6016219980cedcab2b81ac070d99b91ca71148a85689e2862f2fa77fb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "309e9e490febddb83f28cc8323582cc034fbcd0b7c8b2a246a855d0297f0840d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimal position of intramedullary nails in the femoral head following spiral blade resection for revision of intertrochanteric fractures: a biomechanical analysis",
+    "authors": "Fan Z, Feng E, Li Y, Zhang W, Su H, Chen H, Li Y, Wang H.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-026-06854-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

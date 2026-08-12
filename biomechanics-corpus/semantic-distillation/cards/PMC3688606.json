@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3688606",
+  "paper_id": "doi:10.1371/journal.pone.0067628",
+  "pmcid": "PMC3688606",
+  "source_record_sha256": "ee7339d6658689828017a7a1e740e36a9ab1316530f53d0f5fa2a82d1e2b3fd6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "35c5f5f23cf7500d7f3a7fb16c2a3a75ef8c3f44728a75af473d6e846b2c310d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Diabetic Mouse Model of Orthopaedic Implant-Related Staphylococcus Aureus Infection",
+    "authors": "Lovati AB, Drago L, Monti L, De Vecchi E, Previdi S, Banfi G, Romanò CL.",
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0067628",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

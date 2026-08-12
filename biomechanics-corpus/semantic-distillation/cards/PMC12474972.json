@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12474972",
+  "paper_id": "doi:10.1038/s41598-025-16850-4",
+  "pmcid": "PMC12474972",
+  "source_record_sha256": "f7d6f8a977dffedb82df7f2074b2bd8e2b2a262b26e93813368e77abd5ac4dff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f4bf2e75b811d0bb4fd514a3768c41501cb62f30b7be830dcc901a35fb6dc209",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of radial clearance on Tresca stress in Al 2 O 2 -on-Al 2 O 3 bearings for total hip prosthesis evaluated using finite element analysis",
+    "authors": "Ammarullah MI, Yusuf AA, Kozin M, Maula MI, Lamura MDP, Wicaksono HA, Bayuseno AP, Jamari J, Ramlee MH.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-16850-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

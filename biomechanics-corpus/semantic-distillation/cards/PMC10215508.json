@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10215508",
+  "paper_id": "doi:10.3390/bioengineering10050532",
+  "pmcid": "PMC10215508",
+  "source_record_sha256": "d18c4a035124a25cb4b2fe73c18c6ea569bd7c36a4c83af6ced06da7b111ab72",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3492bc179048d1d024bd22f017f6ec2bc8af3af6aeaa501403d993834825be86",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Uniaxial Compression Frequency on Osteogenic Cell Responses in Dynamic 3D Cultures",
+    "authors": "Kontogianni GI, Loukelis K, Bonatti AF, Batoni E, De Maria C, Naseem R, Dalgarno K, Vozzi G, MacManus DB, Mondal S, Dunne N, Vitale-Brovarone C, Chatzinikolaidou M.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10050532",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

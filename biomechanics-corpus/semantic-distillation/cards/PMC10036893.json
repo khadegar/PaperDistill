@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10036893",
+  "paper_id": "doi:10.1016/j.bioactmat.2023.02.025",
+  "pmcid": "PMC10036893",
+  "source_record_sha256": "edfcf2c2b1c94453b264a4482ac2a717c94938402c2231c97f60b608e81f825e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "61069f33f1f35b7a518bb210e000be1ed489bb901594adb822ff1bf0e3949404",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed pore morphology mediates bone marrow stem cell behaviors via RhoA/ROCK2 signaling pathway for accelerating bone regeneration",
+    "authors": "Lu Q, Diao J, Wang Y, Feng J, Zeng F, Yang Y, Kuang Y, Zhao N, Wang Y.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2023.02.025",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

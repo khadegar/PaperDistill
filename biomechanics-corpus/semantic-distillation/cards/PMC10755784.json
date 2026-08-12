@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10755784",
+  "paper_id": "doi:10.1016/j.mtbio.2023.100896",
+  "pmcid": "PMC10755784",
+  "source_record_sha256": "af52e6aa30dba5301588d546bba445b3bb2dbefd8df763d6ffa6fbb19da53df5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4d4718a06276b200649645d1eb5b7b8a71f8cc081def60973624c5e1b148c031",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Functionalized biomimetic mineralized collagen promotes osseointegration of 3D-printed titanium alloy microporous interface",
+    "authors": "Sheng X, Liu H, Xu Y, Wang Z, Zhang W, Li C, Wang J.",
+    "year": 2023,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2023.100896",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

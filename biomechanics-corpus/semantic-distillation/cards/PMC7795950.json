@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7795950",
+  "paper_id": "doi:10.3390/ma14010114",
+  "pmcid": "PMC7795950",
+  "source_record_sha256": "19a5a470b22ee4b18ac3852a32ff49578449e3a77346a1bd085fcc4b92efd755",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "11df87dc440a32a8ea92029df99ea40c1836b8c604a9eafe586c8086a14b6d75",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Femur Auxetic Meta-Implants with Tuned Micromotion Distribution",
+    "authors": "Ghavidelnia N, Bodaghi M, Hedayati R.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma14010114",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

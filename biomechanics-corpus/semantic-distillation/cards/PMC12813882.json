@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12813882",
+  "paper_id": "doi:10.1016/j.bioactmat.2025.11.044",
+  "pmcid": "PMC12813882",
+  "source_record_sha256": "f1e5f6ab79056a15db2a69ecc59a7161fe35602d84c5f73586faa94e2ff2e5b9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "30c8400510f47fde921b3923d5f44a1a5b05e2ce9dbb00933595c78472883aaf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed triboelectric scaffolds for fabricating BMSC-derived cartilage to repair bone defects and promote endochondral ossification",
+    "authors": "Ma Y, Song X, Luo B, Bai B, Jin C, Xie S, Huang M, Luo J, You Z, Lei D, Zhou G.",
+    "year": 2026,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2025.11.044",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

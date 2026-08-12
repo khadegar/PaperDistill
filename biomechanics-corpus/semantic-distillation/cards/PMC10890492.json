@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10890492",
+  "paper_id": "doi:10.3390/ma17040830",
+  "pmcid": "PMC10890492",
+  "source_record_sha256": "868b2068c2fd8c67348e7461976a09ea01b2d16fd71cbdbb9b3068017ffb368f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5d039eb1c0dabfb29b3292d85afa718b04863e3a6d5b817fc387c12962d8c065",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical and Computational Fluid Dynamic Models for Magnesium-Based Implants",
+    "authors": "Manescu Paltanea V, Paltanea G, Antoniac A, Gruionu LG, Robu A, Vasilescu M, Laptoiu SA, Bita AI, Popa GM, Cocosila AL, Silviu V, Porumb A.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17040830",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

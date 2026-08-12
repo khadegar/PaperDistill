@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11258323",
+  "paper_id": "doi:10.1038/s41598-024-67478-9",
+  "pmcid": "PMC11258323",
+  "source_record_sha256": "b9685a473f4df3bf005fb27c7070ef7b20807df01852bc0b089814c7eaeb85f2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e2f78b2059fe169fe94bfda58b47e59a3aa4f15100fb6542b29c2f0700b8a4b5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication, characterization and evaluating properties of 3D printed PLA-Mn scaffolds",
+    "authors": "Dehghan-Toranposhti S, Bakhshi R, Alizadeh R, Bohlouli M.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-67478-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

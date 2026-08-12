@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6523611",
+  "paper_id": "doi:10.3390/nano9040497",
+  "pmcid": "PMC6523611",
+  "source_record_sha256": "6aaa3225d8b230f3306ab6f24edc9809d4758e3b8b257eac235c8f6c5747a394",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c7e94ca35b84d432d67c1b8f75add5037495282430626ed06e363f0246deb4a5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Injectable Alginate-Peptide Composite Hydrogel as a Scaffold for Bone Tissue Regeneration",
+    "authors": "Ghosh M, Halperin-Sternfeld M, Grinberg I, Adler-Abramovich L.",
+    "year": 2019,
+    "journal": "Nanomaterials",
+    "doi": "10.3390/nano9040497",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

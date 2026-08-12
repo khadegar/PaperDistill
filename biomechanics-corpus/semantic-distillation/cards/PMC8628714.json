@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8628714",
+  "paper_id": "doi:10.3390/gels7040211",
+  "pmcid": "PMC8628714",
+  "source_record_sha256": "d6e7892192c8dedc30182bf0db2c6e00b815628f0f5eff94ef0e1a4995fd3972",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a0736a05c9b5297b5864741785137fcb7a8dee7ae08e483ba983e926e19ad616",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing of Alginate-Natural Clay Hydrogel-Based Nanocomposites",
+    "authors": "Leu Alexa R, Ianchis R, Savu D, Temelie M, Trica B, Serafim A, Vlasceanu GM, Alexandrescu E, Preda S, Iovu H.",
+    "year": 2021,
+    "journal": "Gels",
+    "doi": "10.3390/gels7040211",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

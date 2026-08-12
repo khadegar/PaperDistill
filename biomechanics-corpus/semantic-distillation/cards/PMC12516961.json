@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12516961",
+  "paper_id": "doi:10.1093/burnst/tkaf055",
+  "pmcid": "PMC12516961",
+  "source_record_sha256": "0d76ae1bb6725f1d045110a14c86a3a2bb166009d2c4d6229668297ae04ceefd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4e840c13e0066a814337525d119b6aff0b807816bda9c0e855a0a7056908a828",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Metal semiconductor materials in bone diseases: properties, applications, and future perspectives",
+    "authors": "Sun W, Wu Y, Sha J, Song X, Sun Z, Cheng X, Yuan T, Qian H, Yang X, Tang Z, Chen Y, Sun X, Wang L, Meng J, Lv Z, Bao N.",
+    "year": 2025,
+    "journal": "Burns & Trauma",
+    "doi": "10.1093/burnst/tkaf055",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

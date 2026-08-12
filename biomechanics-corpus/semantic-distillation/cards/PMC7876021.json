@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7876021",
+  "paper_id": "doi:10.1038/s41598-021-82589-3",
+  "pmcid": "PMC7876021",
+  "source_record_sha256": "2f67d89b7f037bff0cec781af48a88e9eb3c61566a11a1b5d4a390706972f4db",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6c09ff5b79aa313e37ef8a196094c0ed0aa97882acca19ea46503d09c48b1d74",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Towards an effective sensing technology to monitor micro-scale interface loosening of bioelectronic implants",
+    "authors": "Soares Dos Santos MP, Bernardo R, Henriques L, Ramos A, Ferreira JAF, Furlani EP, Torres Marques A, Simões JAO.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-82589-3",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

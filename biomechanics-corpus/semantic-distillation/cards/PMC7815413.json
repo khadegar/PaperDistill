@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7815413",
+  "paper_id": "doi:10.1155/2021/1301028",
+  "pmcid": "PMC7815413",
+  "source_record_sha256": "1931e8535e01de2f9df53b921218d531c881e641c46ac085d1d9c27d890b11cf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c99e0b0749ee32d6378252a98aa9a59539618e4f2074f342d7687e403f5a4230",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In-Hospital 3D Printed Scaphoid Prosthesis Using Medical-Grade Polyetheretherketone (PEEK) Biomaterial",
+    "authors": "Honigmann P, Sharma N, Schumacher R, Rueegg J, Haefeli M, Thieringer F.",
+    "year": 2021,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2021/1301028",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

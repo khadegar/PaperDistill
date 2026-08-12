@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13223697",
+  "paper_id": "doi:10.34133/bmr.0377",
+  "pmcid": "PMC13223697",
+  "source_record_sha256": "1d2ad98cd3ad99919cca13c3fdd0cf9a470694daf3e22a07db39522ebe296703",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3f85165327113e889aec993c085d40e478d7caf11934e7186729b2c1468bc564",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro and In Vivo Evaluation of Yttria–Niobia-Stabilized Zirconia Sandblasted Surface at Bone–Implant Interface with 3-Dimensional Visualization via Advanced Hard Tissue Clearing",
+    "authors": "Cha CR, Kim YS, Imazato S, Kim DJ, Seol YJ, Park CJ, Yeo IL.",
+    "year": 2026,
+    "journal": "Biomaterials Research",
+    "doi": "10.34133/bmr.0377",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

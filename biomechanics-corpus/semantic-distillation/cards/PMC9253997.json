@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9253997",
+  "paper_id": "doi:10.1016/j.reth.2022.05.006",
+  "pmcid": "PMC9253997",
+  "source_record_sha256": "5b17c398301b9d72c2636466a3458238cf035aa6b53289a95ef4c030cb8e36e6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e984310acb61debdd827f4e1c86e8e634446a4ac347ed6900962302c9f01085b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication of Biologically Inspired Electrospun Collagen/Silk fibroin/bioactive glass composited nanofibrous scaffold to accelerate the treatment efficiency of bone repair",
+    "authors": "Wu J, Wang S, Zheng Z, Li J.",
+    "year": 2022,
+    "journal": "Regenerative Therapy",
+    "doi": "10.1016/j.reth.2022.05.006",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

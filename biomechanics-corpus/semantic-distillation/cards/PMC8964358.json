@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8964358",
+  "paper_id": "doi:10.3389/fbioe.2022.825231",
+  "pmcid": "PMC8964358",
+  "source_record_sha256": "403f3e7e670bcd01c16f17195a4acaee0bca5666bf6b8fd9a5d1bdac52e1c09b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9cb2cea86feb07fdb8887af5245f0cc09bf2e1852d40c836991340a7d85b533e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vitro and in vivo Repair Effects of the NCF-Col-NHA Aerogel Scaffold Loaded With SOST Monoclonal Antibody and SDF-1 in Steroid-Induced Osteonecrosis",
+    "authors": "Xu B, Luo Z, Wang D, Huang Z, Zhou Z, Wang H.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.825231",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

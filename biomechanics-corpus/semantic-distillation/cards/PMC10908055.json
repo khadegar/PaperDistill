@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10908055",
+  "paper_id": "doi:10.1186/s12967-024-05020-1",
+  "pmcid": "PMC10908055",
+  "source_record_sha256": "2d09ffe1d11b91fab35a9c18cf94b42225512a01b09c37ffc443e8e113e584cd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3abc9107bcd4fa5e07f2befccfb55eb69d0f88040e2ed909ff1224ff1970a943",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed PCL framework assembling ECM-inspired multi-layer mineralized GO-Col-HAp microscaffold for in situ mandibular bone regeneration",
+    "authors": "Yang Y, He H, Miao F, Yu M, Wu X, Liu Y, Fu J, Chen J, Ma L, Chen X, Peng X, You Z, Zhou C.",
+    "year": 2024,
+    "journal": "Journal of Translational Medicine",
+    "doi": "10.1186/s12967-024-05020-1",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

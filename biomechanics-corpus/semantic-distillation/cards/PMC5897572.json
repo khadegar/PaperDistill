@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5897572",
+  "paper_id": "doi:10.1038/s41598-018-24364-5",
+  "pmcid": "PMC5897572",
+  "source_record_sha256": "15e6a83d707fcfd4a30d8aaedad8bbca67ca369941145caee37edb0207e65b87",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0ce2c407e82ef396ff9cb52610f0536597e072d3903c80f4635d8335219ce80b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Concentrated Growth Factor (CGF) on the Promotion of Osteogenesis in Bone Marrow Stromal Cells (BMSC) in vivo",
+    "authors": "Chen X, Wang J, Yu L, Zhou J, Zheng D, Zhang B.",
+    "year": 2018,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-018-24364-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

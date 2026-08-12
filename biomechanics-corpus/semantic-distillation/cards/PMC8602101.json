@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8602101",
+  "paper_id": "doi:10.3389/fbioe.2021.749914",
+  "pmcid": "PMC8602101",
+  "source_record_sha256": "c9d8c10dff4dec4d2615dc06f4035d45550044ee2d95ab7223b76ac9a7b64821",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "189b7041f89d8500d592a01068eb555e37feb7c4356d8edb6c4206a36c0c99f7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stability Evaluation of Different Oblique Lumbar Interbody Fusion Constructs in Normal and Osteoporotic Condition – A Finite Element Based Study",
+    "authors": "Bereczki F, Turbucz M, Kiss R, Eltes PE, Lazary A.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.749914",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

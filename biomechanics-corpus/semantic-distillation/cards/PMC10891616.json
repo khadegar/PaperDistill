@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10891616",
+  "paper_id": "doi:10.3390/molecules29040766",
+  "pmcid": "PMC10891616",
+  "source_record_sha256": "2861dc506e8bc75b049c56a6cf6d363d06d294f9acfb0a946e2dfda6333f1c8e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "87cdd3207699af08f06f166e66112dfecaf81ac38160c842b5872ff8456ea023",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of Porous (Poly(lactide- co -glycolide)- co -(ε-caprolactone)) Polyurethane for Use in Orthopedic Scaffolds",
+    "authors": "Savin G, Sastourne-Array O, Caillol S, Bethry A, Assor M, David G, Nottelet B.",
+    "year": 2024,
+    "journal": "Molecules",
+    "doi": "10.3390/molecules29040766",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

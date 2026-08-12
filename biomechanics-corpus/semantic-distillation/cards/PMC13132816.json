@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13132816",
+  "paper_id": "doi:10.3389/fsurg.2026.1752462",
+  "pmcid": "PMC13132816",
+  "source_record_sha256": "863bacf414a87219af9154dde4afaaf5c2f4be5e9d7632bf9ff48175148bed9a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "aa37c92291ccece6d0e406b03ace81147061280bb1b8d63a374dc3f363883fbf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing technology-assisted total hip arthroplasty for acute proximal femoral fracture and Hartofilakidis type II developmental dysplasia of the hip: a case report and literature review",
+    "authors": "Wen H, Liu M, Zhang B, Chen Y.",
+    "year": 2026,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2026.1752462",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

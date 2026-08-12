@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5744279",
+  "paper_id": "doi:10.3390/ma10121344",
+  "pmcid": "PMC5744279",
+  "source_record_sha256": "6b61d2c441c0a1bd6a5660ede67c5893bc8504c9560ce467ed5a16fbb4544645",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3e66e592a5f82409d3e194558c6d5bbb41ffc56f206ef4e99bb86239c2e8592d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro Evaluation of PCL and P(3HB) as Coating Materials for Selective Laser Melted Porous Titanium Implants",
+    "authors": "Grau M, Matena J, Teske M, Petersen S, Aliuos P, Roland L, Grabow N, Murua Escobar H, Gellrich NC, Haferkamp H, Nolte I.",
+    "year": 2017,
+    "journal": "Materials",
+    "doi": "10.3390/ma10121344",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

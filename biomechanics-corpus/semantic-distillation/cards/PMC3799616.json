@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3799616",
+  "paper_id": "doi:10.1371/journal.pone.0077578",
+  "pmcid": "PMC3799616",
+  "source_record_sha256": "dd4e96ed04b9474c3f783803ea83c75629c9663f5cd5e3d513c083352e98e986",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "be30bbbde4185b51136d4234607cdd25e47c7a2454b9bea2e02167e954c8398d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In-Vivo Efficacy of Compliant 3D Nano-Composite in Critical-Size Bone Defect Repair: a Six Month Preclinical Study in Rabbit",
+    "authors": "Sagar N, Pandey AK, Gurbani D, Khan K, Singh D, Chaudhari BP, Soni VP, Chattopadhyay N, Dhawan A, Bellare JR.",
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0077578",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

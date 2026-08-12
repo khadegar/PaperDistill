@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8173095",
+  "paper_id": "doi:10.1016/j.mtbio.2021.100113",
+  "pmcid": "PMC8173095",
+  "source_record_sha256": "76c993234765d16285ec4c5970e7b48e4dc809362d993de053da3641f1cc23bd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6638f34b3893cbc1894e217a2e17c0e8676ee739c284be5d14c65e64601e81a8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed scaffold combined to 2D osteoinductive coatings to repair a critical-size mandibular bone defect",
+    "authors": "Bouyer M, Garot C, Machillot P, Vollaire J, Fitzpatrick V, Morand S, Boutonnat J, Josserand V, Bettega G, Picart C.",
+    "year": 2021,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2021.100113",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

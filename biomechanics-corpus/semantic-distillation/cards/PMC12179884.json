@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12179884",
+  "paper_id": "doi:10.5312/wjo.v16.i6.107292",
+  "pmcid": "PMC12179884",
+  "source_record_sha256": "cebe70fc90f125b5ed537d875c6d24e5599b1395c95030184ebfb591203a243f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "885f22f47d873210a23ce11b01dd7bc2f3e9517b1b5dff2686144d68cb90827b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Pure high-offset stems can cause an unexpected increase in femoral length in robotic-assisted primary total hip arthroplasty",
+    "authors": "Tung WS, Eslam Pour A, Sieberer J, Donnelley CA, Tommasini SM, Wiznia DH.",
+    "year": 2025,
+    "journal": "World Journal of Orthopedics",
+    "doi": "10.5312/wjo.v16.i6.107292",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

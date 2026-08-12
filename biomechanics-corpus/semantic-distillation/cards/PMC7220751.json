@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7220751",
+  "paper_id": "doi:10.1097/md.0000000000019847",
+  "pmcid": "PMC7220751",
+  "source_record_sha256": "762f9f5d49f3f8fae9cf99cd18c84f6cedbaa81c4a29aebaa8caac31652bc60c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8ae9c3019debeeab78d5406a1a0030e6fe66b3551fab583d44151f946fde3eda",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The biomechanical effects of foraminoplasty of different areas under lumbar percutaneous endoscopy on intervertebral discs",
+    "authors": "Xie Y, Zhou Q, Wang X, Jian Q, Fan X, Yu Y, Gu D, Wu W.",
+    "year": 2020,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000019847",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

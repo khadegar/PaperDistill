@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12439323",
+  "paper_id": "doi:10.1002/cnm.70095",
+  "pmcid": "PMC12439323",
+  "source_record_sha256": "c63c33ec3d31691ddd966354c5780aedb0112bd5294cd87cec79a28b84546409",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4d42acc16fa03109160c28a5334e49b0558252930df35a39ef38c2e204db7991",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Two‐Phase Material Shape Optimization of an Additively Manufactured Integrated Metal and Ceramic Resin Implant‐Supported Dental Crown",
+    "authors": "Way J, Joshi S.",
+    "year": 2025,
+    "journal": "International Journal for Numerical Methods in Biomedical Engineering",
+    "doi": "10.1002/cnm.70095",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

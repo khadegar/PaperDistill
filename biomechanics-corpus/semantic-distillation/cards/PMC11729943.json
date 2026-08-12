@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11729943",
+  "paper_id": "doi:10.1371/journal.pone.0314150",
+  "pmcid": "PMC11729943",
+  "source_record_sha256": "d223e4bc74cf7afff93fe264d181e16c4bc32b92bc6046af4922f0e0496d6de7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4e4f3eb65d311f984d7b192335d79094b8eee0d9049b5424bf1ca2bf493c4819",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing of different fibres towards HA/PCL scaffolding induces macrophage polarization and promotes osteogenic differentiation of BMSCs",
+    "authors": "Song J, Huang S, Linghu X, Wu H, Wen Z, Li X, Huang Q, Xu W, Wa Q.",
+    "year": 2025,
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0314150.r004",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

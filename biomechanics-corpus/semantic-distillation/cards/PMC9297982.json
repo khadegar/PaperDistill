@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9297982",
+  "paper_id": "doi:10.1002/jbm.b.34957",
+  "pmcid": "PMC9297982",
+  "source_record_sha256": "c676bb13381de52e9687b2f58dd5b8358938293c41c3ea2ff1780c71df145e31",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ca5a02a28bcce87e9e5afafe4b2b3ee5f366183ae54d5d82b083aaa7e3805b8e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Computational tibial bone remodeling over a population after total knee arthroplasty: A comparative study",
+    "authors": "Anijs T, Eemers S, Minoda Y, Wolfson D, Verdonschot N, Janssen D.",
+    "year": 2021,
+    "journal": "Journal of Biomedical Materials Research. Part B, Applied Biomaterials",
+    "doi": "10.1002/jbm.b.34957",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

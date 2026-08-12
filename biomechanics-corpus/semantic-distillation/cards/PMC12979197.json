@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12979197",
+  "paper_id": "doi:10.1038/s41586-026-10164-9",
+  "pmcid": "PMC12979197",
+  "source_record_sha256": "0f16c9b6f8bc22f6d8b2735117c57ec4f9e01538358ccb419e7f8cf5aaa3baf1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2e14ef7a81ac06ec04501b647e9ba6326a9ae828c248dae9dd38b62069da896f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Echinoderm stereom gradient structures enable mechanoelectrical perception",
+    "authors": "Chen A, Wang Z, Guan Z, Wu J, Shi QW, Wang S, Shi Y, Su B, Yan C, Wang Z, Lu J.",
+    "year": 2026,
+    "journal": "Nature",
+    "doi": "10.1038/s41586-026-10164-9",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

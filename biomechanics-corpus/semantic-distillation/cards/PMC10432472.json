@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10432472",
+  "paper_id": "doi:10.1111/os.13558",
+  "pmcid": "PMC10432472",
+  "source_record_sha256": "b7782d10e760445f22dbeb4632ad912a9f9f23912543b96ede909e1ddb0fdf20",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ee45b9e20c7cfc53716cff8d58e89ae880ed11c84af928f0442da9cf25e8a468",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Canceling Notch Improves the Mechanical Safety of Clavicle Locking Plate: A 3D Finite Element Study",
+    "authors": "Han Z, Luo Q, Deng G, Bi C, Yin G, Lin H, Wu J, Wu X.",
+    "year": 2022,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13558",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

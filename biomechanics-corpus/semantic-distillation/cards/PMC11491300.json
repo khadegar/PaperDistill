@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11491300",
+  "paper_id": "doi:10.1002/exp.20230141",
+  "pmcid": "PMC11491300",
+  "source_record_sha256": "6cd8b5e50a1f18b7737174e87da8add8f5cb68171a4143d0fa80ef0f8fa4445a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "29868a1941fddeba4587795fa5acd9e92af482fe1e6c7041686808c67d5e9622",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimicking trilayer scaffolds with controlled estradiol release for uterine tissue regeneration",
+    "authors": "Chen S, Li J, Zheng L, Huang J, Wang M.",
+    "year": 2024,
+    "journal": "Exploration",
+    "doi": "10.1002/exp.20230141",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

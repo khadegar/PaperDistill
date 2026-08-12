@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12888546",
+  "paper_id": "doi:10.1186/s12891-025-09435-9",
+  "pmcid": "PMC12888546",
+  "source_record_sha256": "e0fe0e7332c505163b85fbed66d801bc0fd7a4068ea519f294cf6aa8be163062",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c11c1070515fabf3a96c67787590a4dd48a9a4e86b2230050af52085a5e224c1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Diagnosis and treatment of Pipkin type IV femoral head fracture : a finite element analysis",
+    "authors": "Zhang Y, Zeng J, Wang M, Cao Q, Yang C, Dang H, Bi L, Luo Z, Fan J, Li D.",
+    "year": 2026,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-025-09435-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8518749",
+  "paper_id": "doi:10.1002/jbm.b.34857",
+  "pmcid": "PMC8518749",
+  "source_record_sha256": "c4227322e9810b586d1812866bd7fdc3baeb8df62ec855e164c118267e8b38dc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a01b8f5b7600c6549255b5dfb8b08704e58bd5349d3f1a1f6ac6bf92a6e5418f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical and in vitro biological properties of uniform and graded Cobalt‐chrome lattice structures in orthopedic implants",
+    "authors": "Pagani S, Liverani E, Giavaresi G, De Luca A, Belvedere C, Fortunato A, Leardini A, Fini M, Tomesani L, Caravaggi P.",
+    "year": 2021,
+    "journal": "Journal of Biomedical Materials Research. Part B, Applied Biomaterials",
+    "doi": "10.1002/jbm.b.34857",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

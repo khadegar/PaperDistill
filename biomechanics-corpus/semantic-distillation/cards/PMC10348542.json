@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10348542",
+  "paper_id": "doi:10.1371/journal.pone.0288531",
+  "pmcid": "PMC10348542",
+  "source_record_sha256": "d2a31dc39d625a2f249c0e4c7a7fd19d4d6096b5361a6452ae868ad268a067da",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a56e8dcbaf5fbc56fb08496ab18aaf113aaf4ccad80867d6f697deea0447e99b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigation into relationships between design parameters and mechanical properties of 3D printed PCL/nHAp bone scaffolds",
+    "authors": "Yazdanpanah Z, Kumar Sharma N, Zimmerling A, Cooper DML, Johnston JD, Chen X.",
+    "year": 2023,
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0288531",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

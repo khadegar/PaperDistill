@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10021980",
+  "paper_id": "doi:10.1186/s10020-023-00632-7",
+  "pmcid": "PMC10021980",
+  "source_record_sha256": "28a5e286206db7abac123d22f2b85a22a9625881de01084a6b636561f2d6a4a0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "168da1070144e70d7a0a9b17a571f7149fc179d6c3d41455ce18c992c1d6524d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Single-cell transcriptome reveals Staphylococcus aureus modulating fibroblast differentiation in the bone-implant interface",
+    "authors": "Yu J, Wang B, Zhang F, Ren Z, Jiang F, Hamushan M, Li M, Guo G, Shen H.",
+    "year": 2023,
+    "journal": "Molecular Medicine",
+    "doi": "10.1186/s10020-023-00632-7",
+    "publication_type": "Meta-Analysis; Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

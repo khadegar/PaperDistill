@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10690979",
+  "paper_id": "doi:10.2340/17453674.2023.24579",
+  "pmcid": "PMC10690979",
+  "source_record_sha256": "661f9bed6e8fbefe8aa82f1a13b8eb5386ceea0996b4180238003bb3ce1a2e41",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2f825f6180ef1d3a89fa1785b6f9ab4131b10c9964385faeb980f6455bdff19f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "6-month migration sufficient for evaluation of total knee replacements: a systematic review and meta-analysis",
+    "authors": "Puijk R, Puijk RH, Laende EK, Dunbar MJ, Plevier JWM, Nolte PA, Pijls BGCW.",
+    "year": 2023,
+    "journal": "Acta Orthopaedica",
+    "doi": "10.2340/17453674.2023.24579",
+    "publication_type": "Meta-Analysis; research-article; Systematic Review; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

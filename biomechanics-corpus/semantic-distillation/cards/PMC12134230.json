@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12134230",
+  "paper_id": "doi:10.1038/s41598-025-04586-0",
+  "pmcid": "PMC12134230",
+  "source_record_sha256": "d3d2cdca9cf05fd6a06a02f00b1523db55758e8498eeb5de086e453f9c3b2ffd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e038f32ce9269c95ad618a368eb6e38f656826e4020c7e03fc6772bfbc3cceb3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing individualized augments prosthesis and acetabular implant for the treatment of Crowe type III developmental dysplasia of the hip",
+    "authors": "Chen B, Liang H, Yang L, Zhou X, Cai Z.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-04586-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

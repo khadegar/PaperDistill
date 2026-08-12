@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13213497",
+  "paper_id": "doi:10.1302/2046-3758.155.bjr-2025-0267.r3",
+  "pmcid": "PMC13213497",
+  "source_record_sha256": "39917326cc87816f26b7ab0733e7b611ad9ba68088560615857c4d8c5b459803",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cb33a9f13e6b7a479459736c3dc105a07ab97591475ab5d33af07433c65e20d2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The design process for orthopaedic implants",
+    "authors": "Zdero R, Brzozowski P, Schemitsch EH, Yang I.",
+    "year": 2026,
+    "journal": "Bone & Joint Research",
+    "doi": "10.1302/2046-3758.155.bjr-2025-0267.r3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13058349",
+  "paper_id": "doi:10.6026/973206300220482",
+  "pmcid": "PMC13058349",
+  "source_record_sha256": "3d111b2abecb85347fab9b13c58b61255572b20c651a6ff845de633b032a7af6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f713eb4c45dc8f13d198c8a120e0292368b732a96b62bb02d0baff4a837d3ed3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluating stress distribution and clinical success in varied dental implant designs",
+    "authors": "Singh U, Azad A, Agarwal P, Rathi VC, Jain A, Sehrawat K, Kumar S.",
+    "year": 2026,
+    "journal": "Bioinformation",
+    "doi": "10.6026/973206300220482",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

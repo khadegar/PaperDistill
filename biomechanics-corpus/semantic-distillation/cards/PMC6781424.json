@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6781424",
+  "paper_id": "doi:10.2147/ijn.s216182",
+  "pmcid": "PMC6781424",
+  "source_record_sha256": "bc42771c1f9f45c0273a29c4c24bbd87b099b95dd7117259069e0d9f67a50c7e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e658fe09648059646527fbe189bdb0ab653c4010dc39d440a20987b1dcecb16c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Nano-Hydroxyapatite Coating Promotes Porous Calcium Phosphate Ceramic-Induced Osteogenesis Via BMP/Smad Signaling Pathway",
+    "authors": "Wang J, Wang M, Chen F, Wei Y, Chen X, Zhou Y, Yang X, Zhu X, Tu C, Zhang X.",
+    "year": 2019,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s216182",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9582332",
+  "paper_id": "doi:10.3389/fbioe.2022.1005954",
+  "pmcid": "PMC9582332",
+  "source_record_sha256": "4a4c4bc381327169cabc1722c9d8f1055a3f591ff33ff07ebe8822ac44ca6cfa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "41b75c9352d338a81f62d4b457854fbce80a2a9ddda0e5e5aa1f2c46dc75f7cb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Physicochemical properties of bone marrow mesenchymal stem cells encapsulated in microcapsules combined with calcium phosphate cement and their ectopic bone formation",
+    "authors": "Yuan Y, Shen L, Liu T, He L, Meng D, Jiang Q.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1005954",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

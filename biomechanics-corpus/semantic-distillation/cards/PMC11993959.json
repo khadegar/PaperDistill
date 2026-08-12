@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11993959",
+  "paper_id": "doi:10.1186/s13287-025-04288-4",
+  "pmcid": "PMC11993959",
+  "source_record_sha256": "f36bd167058953a8ff658b89b638cc4ef160539dad5397f2bd2a227694519151",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4c5daf37996ac8f1a718c6c3b2178b07a7225fe0dcefeaa4ee3f95bcea656f29",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The bone microenvironment: new insights into the role of stem cells and cell communication in bone regeneration",
+    "authors": "Dalle Carbonare L, Cominacini M, Trabetti E, Bombieri C, Pessoa J, Romanelli MG, Valenti MT.",
+    "year": 2025,
+    "journal": "Stem Cell Research & Therapy",
+    "doi": "10.1186/s13287-025-04288-4",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9163984",
+  "paper_id": "doi:10.1111/os.13274",
+  "pmcid": "PMC9163984",
+  "source_record_sha256": "9933015d5d602f824b765a3b7cf9c5b8fceeb6e495888eef81a306054fefdac2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f519ab54b5f9fdde66f92da1f7eb9acf88651cc39095f3d65eb0e6b1f417fa83",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Diabetes Mellitus on Implant Osseointegration of Titanium Screws: An Animal Experimental Study",
+    "authors": "Xiao L, Zhou YJ, Jiang YB, Tam MS, Cheang LH, Wang HJ, Zha ZG, Zheng XF.",
+    "year": 2022,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13274",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

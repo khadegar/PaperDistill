@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7767683",
+  "paper_id": "doi:10.1111/os.12738",
+  "pmcid": "PMC7767683",
+  "source_record_sha256": "87ed463d5fc6214ba64dfb0599d5173d981c14af4c6cb93326b1f0ae9bd91b6e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ef62e996414073d781f0f7453569fbc8125eac0800ce1ae84f545616f959b8ce",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Therapeutic Effect of Acetabular Fractures Using the Pararectus Approach Combined with 3D Printing Technique",
+    "authors": "Zou R, Wu M, Guan J, Xiao Y, Chen X.",
+    "year": 2020,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.12738",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

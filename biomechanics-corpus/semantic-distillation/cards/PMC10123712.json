@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10123712",
+  "paper_id": "doi:10.3390/biomimetics8020148",
+  "pmcid": "PMC10123712",
+  "source_record_sha256": "9fde69e5982795986a1e5123f3fc28bc972ad9c4f5e20c0558d025ad6c59f017",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "566e2a21bcbb1de246d0a85d696039f99dae2ca161ac6b94c03c75ae37644dd4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimetic Design and Topology Optimization of Discontinuous Carbon Fiber-Reinforced Composite Lattice Structures",
+    "authors": "Hu Z.",
+    "year": 2023,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics8020148",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

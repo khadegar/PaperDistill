@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9995276",
+  "paper_id": "doi:10.1016/j.medntd.2022.100205",
+  "pmcid": "PMC9995276",
+  "source_record_sha256": "14cf9c19961a29f9743994ea6399b4a333f5b4a9e04fdfd1a5c205b345706e41",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d61659b3958f300cd6ff7f38cdd91be934c34d3262deed385b7b54a5e46b95a5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing method for bone tissue engineering scaffold",
+    "authors": "Zhang Q, Zhou J, Zhi P, Liu L, Liu C, Fang A, Zhang Q.",
+    "year": 2023,
+    "journal": "Medicine in Novel Technology and Devices",
+    "doi": "10.1016/j.medntd.2022.100205",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

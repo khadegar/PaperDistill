@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12593267",
+  "paper_id": "doi:10.1002/cnm.70113",
+  "pmcid": "PMC12593267",
+  "source_record_sha256": "4afa0b37e2f8732c8ecdc3f4efe37646d280927de187f24cb95c3f6136a70022",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fe57aba73568d8d52f3ba6db9f0f76cb4dfcff4479b533e9467175adcf87f254",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multi‐Objective Optimization of Dental Implant Designs With Multi‐Recessed Holes: Insights From Static and Dynamic Finite Element Analysis",
+    "authors": "Chou IC, Huang SH, Lee CK, Prajapati MJ, Huang JC, Cheng YC, Jiang CP.",
+    "year": 2025,
+    "journal": "International Journal for Numerical Methods in Biomedical Engineering",
+    "doi": "10.1002/cnm.70113",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8961909",
+  "paper_id": "doi:10.1186/s13018-022-03078-5",
+  "pmcid": "PMC8961909",
+  "source_record_sha256": "b09fae1e887a9e1123b77a5f226ed7b9811702d6fd31ff56403a954237309802",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2f96f1f3af16b4347498f6dea3c97401710d05576e1b6540b42e755e1cc8cb0d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of seven fixation methods to treat pubic symphysis diastasis using finite element analysis",
+    "authors": "Zheng YQ, Chen LL, Shen JZ, Gao B, Huang XC.",
+    "year": 2022,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-022-03078-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

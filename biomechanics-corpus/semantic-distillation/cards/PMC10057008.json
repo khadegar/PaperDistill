@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10057008",
+  "paper_id": "doi:10.3390/polym15061342",
+  "pmcid": "PMC10057008",
+  "source_record_sha256": "fa71f9d94c3fe36996be2e0d8ce42c00e6adac28c7aa78d3adee75675e8336e4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1558af4c29ffdb2b2367dc8362eab18ee7b4510fcec8d4b2340024905ecaf9be",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Eggshell Membrane as a Biomaterial for Bone Regeneration",
+    "authors": "Torres-Mansilla A, Hincke M, Voltes A, López-Ruiz E, Baldión PA, Marchal JA, Álvarez-Lloret P, Gómez-Morales J.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15061342",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

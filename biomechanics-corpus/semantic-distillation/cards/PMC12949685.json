@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12949685",
+  "paper_id": "doi:10.1302/2046-3758.153.bjr-2025-0134.r1",
+  "pmcid": "PMC12949685",
+  "source_record_sha256": "3126ec5c8cd0c87b4c95689dd744bb9c0110f0b0f76d5329f0583277eaf57bc2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0d6093af326eeae3ea0b4033721d2d753c065d433f3760c10335ee70d7a956aa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical study of screw-supported prosthesis in acetabular revision",
+    "authors": "Wan Q, Xu M, Chen H, Xue H, Yuan B, Zhou B, Han Q, Zhao X, Wang J.",
+    "year": 2026,
+    "journal": "Bone & Joint Research",
+    "doi": "10.1302/2046-3758.153.bjr-2025-0134.r1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

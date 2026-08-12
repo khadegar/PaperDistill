@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10799031",
+  "paper_id": "doi:10.1038/s41598-024-52159-4",
+  "pmcid": "PMC10799031",
+  "source_record_sha256": "2101cdc1d52be17f56d70279392eed4e625b3e43e258695daf04084bdcdfa07d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "86e44d3a51b3b729fb64d9290a51ad65037137af9d3481163ca15241e183f73c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Adaptable test bench for ASTM-compliant permeability measurement of porous scaffolds for tissue engineering",
+    "authors": "Gabetti S, Masante B, Schiavi A, Scatena E, Zenobi E, Israel S, Sanginario A, Del Gaudio C, Audenino A, Morbiducci U, Massai D.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-52159-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

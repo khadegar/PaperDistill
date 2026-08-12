@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8432705",
+  "paper_id": "doi:10.3390/ma14174896",
+  "pmcid": "PMC8432705",
+  "source_record_sha256": "a384d6ddf6250b5e0a46db25e71e604c002a9ad3be78c9e3e62a2ed11b5aa7c7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "74b84bd5dd212244ebfce9e3cfb3669bf636758219666a9250fe73234e34a824",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Multidisciplinary Journey towards Bone Tissue Engineering",
+    "authors": "Pedrero SG, Llamas-Sillero P, Serrano-López J.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14174896",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

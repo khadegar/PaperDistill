@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13239913",
+  "paper_id": "doi:10.1002/jeo2.70756",
+  "pmcid": "PMC13239913",
+  "source_record_sha256": "5a6cf8e1abb4de3a6ec3c33d0793a9dd49f0d536e40f7701dee32ee84ab33bdb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7d0d37ce660a602d94003806902d25b5be0fe971dc2ad92eb31e82424b556ef2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Description and validation of a portable system for biomechanical ex vivo knee kinematics and laxity assessment in simulated intra‐operative scenarios",
+    "authors": "Sisella M, Maggi L, Allotta B, Innocenti B.",
+    "year": 2026,
+    "journal": "Journal of Experimental Orthopaedics",
+    "doi": "10.1002/jeo2.70756",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

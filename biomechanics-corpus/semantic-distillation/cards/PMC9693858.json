@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9693858",
+  "paper_id": "doi:10.3390/ijms232214048",
+  "pmcid": "PMC9693858",
+  "source_record_sha256": "607b363c2363d71f7a2ea1897f2086db7651b69d09287eefe5bf43cf08cac51a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9479b885c783060133efd38a970be2f17e9aa2659844aa18e7e959d69573dd04",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Peptides for Coating TiO 2 Implants: An In Silico Approach",
+    "authors": "Agrelli A, Vasconcelos NF, Silva RCSD, Mendes-Marques CL, Arruda IRS, Oliveira PSS, Santos LRL, Andrade AN, Moura RR, Bernardo-Menezes LC, Silva NPD, Machado G.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms232214048",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

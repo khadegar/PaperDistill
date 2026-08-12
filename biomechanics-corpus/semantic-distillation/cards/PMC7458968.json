@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7458968",
+  "paper_id": "doi:10.1186/s41747-020-00180-3",
+  "pmcid": "PMC7458968",
+  "source_record_sha256": "9107a90930e0dd08dbda94a108a60715b37d2bf6676f65a30cef9ae4cd8816c1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c36c940f1a8eba5249030b3b94f02b629da15920a8db55b2f457e5d491d9e70d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of CT imaging on the accuracy of the finite element modelling in bone",
+    "authors": "Benca E, Amini M, Pahr DH.",
+    "year": 2020,
+    "journal": "European Radiology Experimental",
+    "doi": "10.1186/s41747-020-00180-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

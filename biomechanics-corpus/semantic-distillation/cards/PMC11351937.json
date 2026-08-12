@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11351937",
+  "paper_id": "doi:10.3390/bioengineering11080819",
+  "pmcid": "PMC11351937",
+  "source_record_sha256": "b34f45282cb4219253ef749a919ba4ef71ef2cd1c77f92bad8c8b832d2430661",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0297e4d3e98e2bed2b64d1c8c3443ac7e3888a0b968eb4639153d2c63f762e8c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Efficacy of Body-Weight Supported Treadmill Training and Neurotrophin-Releasing Scaffold in Minimizing Bone Loss Following Spinal Cord Injury",
+    "authors": "Weiser M, Stoy L, Lallo V, Balasubramanian S, Singh A.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11080819",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

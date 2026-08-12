@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6906493",
+  "paper_id": "doi:10.1038/s41598-019-55093-y",
+  "pmcid": "PMC6906493",
+  "source_record_sha256": "1ed78169a2fa446c27f814ba403326e96762c75dc15c6a20d35f48c58b474778",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c6ddeb6be52fa015ac1efefa2a701af7b2a1c96e65ec00e4854796065073510d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reactive ion etching for fabrication of biofunctional titanium nanostructures",
+    "authors": "Ganjian M, Modaresifar K, Zhang H, Hagedoorn PL, Fratila-Apachitei LE, Zadpoor AA.",
+    "year": 2019,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-019-55093-y",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

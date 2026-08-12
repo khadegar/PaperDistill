@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7504448",
+  "paper_id": "doi:10.3390/ma13173844",
+  "pmcid": "PMC7504448",
+  "source_record_sha256": "26a182a278be120f533585c05ecba74639afc64421ebdd7e6f655a91f3d742cf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f8bb9c92411ee1cf0455b1bf7dc5136835345ef1a7c0c3dc31498a70a5a4b587",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and Characterization of Sheet-Based Gyroid Porous Structures with Bioinspired Functional Gradients",
+    "authors": "Jin Y, Kong H, Zhou X, Li G, Du J.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13173844",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

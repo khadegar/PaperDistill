@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9353450",
+  "paper_id": "doi:10.1002/advs.202201155",
+  "pmcid": "PMC9353450",
+  "source_record_sha256": "276f90a974baab1a7770a84223b86352f7b6e22e33331859ba5b771fcaca21f7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c231b00c870582ee49afd7333c4566ca7d47b5319ba14a1347483446a2aa1c41",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dynamically Responsive Scaffolds from Microfluidic 3D Printing for Skin Flap Regeneration",
+    "authors": "Wang X, Yu Y, Yang C, Shang L, Zhao Y, Shen X.",
+    "year": 2022,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202201155",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

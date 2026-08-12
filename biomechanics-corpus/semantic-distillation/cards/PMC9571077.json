@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9571077",
+  "paper_id": "doi:10.3390/polym14194057",
+  "pmcid": "PMC9571077",
+  "source_record_sha256": "bf2a428f7de937e6b007649caa440d6a3ddaabfccd469970c67327edd9cf0628",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "31ed1beaede76551cf0d1c1da1e6a86d321bac099996c1799947f19bdee085b7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive Manufacturing of Anatomical Poly( d , l -lactide) Scaffolds",
+    "authors": "Puppi D, Pecorini G, Parrini G.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14194057",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

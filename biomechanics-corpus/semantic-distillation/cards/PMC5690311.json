@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5690311",
+  "paper_id": "doi:10.1016/j.jocd.2017.05.013",
+  "pmcid": "PMC5690311",
+  "source_record_sha256": "d282095ca0def88c2d8c995aeccb2aa70ef3a2b6e41afc9faf4d00061b379ad2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c9137034ae5ed66bf6c60ede41d5b5f437c59cefec8d225aeb2d9ebcb4c19c8a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Quantifying Pelvic Periprosthetic Bone Remodeling Using Dual-Energy X-Ray Absorptiometry Region-Free Analysis",
+    "authors": "Parker AM, Yang L, Farzi M, Pozo JM, Frangi AF, Wilkinson JM.",
+    "year": 2017,
+    "journal": "Journal of Clinical Densitometry",
+    "doi": "10.1016/j.jocd.2017.05.013",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

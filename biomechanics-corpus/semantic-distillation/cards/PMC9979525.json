@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9979525",
+  "paper_id": "doi:10.1186/s12938-023-01083-1",
+  "pmcid": "PMC9979525",
+  "source_record_sha256": "44505a68b18c0cf580157c1f58656ee4c31de345086d05918b3bec1ccf94f370",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f8848d8f396c623633d674dba333e455dca827a8c0edb5d4822c0f76da7f3b4f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of femoral neck system and three cannulated cancellous screws in the treatment of vertical femoral neck fractures: clinical observation and finite element analysis",
+    "authors": "Huang S, Zhang Y, Zhang X, Zhou C, Li W, Wang Y, Wang B, Zhu Z.",
+    "year": 2023,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-023-01083-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11614385",
+  "paper_id": "doi:10.7554/elife.93830",
+  "pmcid": "PMC11614385",
+  "source_record_sha256": "20b92ef073f1bf852a5ffd1e46e6c9f6452a687c7026c4cbefad2b7d0bccc548",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "09ad61a26085275c62246f19b48287f1cfaedfe52e79b7074ef9dc8b68abbf03",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhancing bone regeneration and osseointegration using rhPTH(1-34) and dimeric R25C PTH(1-34) in an osteoporotic beagle model",
+    "authors": "Shin JO, Lee JB, Lee S, Kim JW.",
+    "year": 2024,
+    "journal": "eLife",
+    "doi": "10.7554/elife.93830.5.sa4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

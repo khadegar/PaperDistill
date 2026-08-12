@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9357241",
+  "paper_id": "doi:10.1186/s10195-022-00656-5",
+  "pmcid": "PMC9357241",
+  "source_record_sha256": "98aa94a8354f7f1032c10f857c19d0d3fc261c62b607ce302b114be14b387943",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "925c984ac6da8d6ce7843ad6ea5fef35415be5ba4eddb9edca5f3a6d01da3904",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The application of custom-made 3D-printed titanium augments designed through surgical simulation for severe bone defects in complex revision total hip arthroplasty",
+    "authors": "Zhang Y, Gao Z, Zhang B, Du Y, Ma H, Tang Y, Liu Y, Zhou Y.",
+    "year": 2022,
+    "journal": "Journal of Orthopaedics and Traumatology : Official Journal of the Italian Society of Orthopaedics and Traumatology",
+    "doi": "10.1186/s10195-022-00656-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12216115",
+  "paper_id": "doi:10.1038/s41598-025-06168-6",
+  "pmcid": "PMC12216115",
+  "source_record_sha256": "b8e04d056847bec537923d0c6b75b7834443ef225722ce3c0decc70293e6b89e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3bfffef51e5453c949d27f8cfd64ac093ce5181b1c882723a7214f7ebfcc4d5b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical efficacy and biomechanical analysis of robotic internal fixation with percutaneous screws in the treatment of both-column acetabular fractures",
+    "authors": "Qi X, Zhang X, Zhang Q, Zhang Y, Huang S, Lv Y, Li W, Wang JQ, Zhu Z.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-06168-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

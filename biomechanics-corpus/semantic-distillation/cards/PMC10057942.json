@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10057942",
+  "paper_id": "doi:10.3390/pharmaceutics15030815",
+  "pmcid": "PMC10057942",
+  "source_record_sha256": "aba1914efdde366da19e86812438f6a1d5f6bd148a5b40eca9a7944a36cde829",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4cbeaf4ed470a48a02af079cbff15cdcc49bb33829ebf67b4de3522dbbbef92f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Computational Model for the Release of Bioactive Molecules by the Hydrolytic Degradation of a Functionalized Polyester-Based Scaffold",
+    "authors": "Batoni E, Bonatti AF, De Maria C, Dalgarno K, Naseem R, Dianzani U, Gigliotti CL, Boggio E, Vozzi G.",
+    "year": 2023,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics15030815",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

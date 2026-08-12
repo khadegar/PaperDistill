@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4998353",
+  "paper_id": "doi:10.3892/etm.2016.3472",
+  "pmcid": "PMC4998353",
+  "source_record_sha256": "cb7eecb2f99252a32c3ef26f04ae5a8edb43d5a0209b93952e1c0ab7a03136b0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3f150d3a6bd63c37a8eea2a12bdeceaa4f365b3c20ff90774baa2b9dfc605ed1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vivo testing of porous Ti-25Nb alloy serving as a femoral stem prosthesis in a rabbit model",
+    "authors": "Weng X, Yang H, Xu J, Li X, Liao Q, Wang J.",
+    "year": 2016,
+    "journal": "Experimental and Therapeutic Medicine",
+    "doi": "10.3892/etm.2016.3472",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

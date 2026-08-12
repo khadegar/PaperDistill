@@ -1,0 +1,4 @@
+interface:
+  display_name: "Biomechanics Paper Writer"
+  short_description: "Semantically distill and write biomechanics papers"
+  default_prompt: "Use $distill-biomechanics-papers to apply model-read writing rules, query the 10k full-text corpus, preserve web and Zotero evidence routes, and turn my data and verified literature into a journal-ready biomechanics manuscript."

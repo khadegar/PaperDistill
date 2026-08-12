@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12775314",
+  "paper_id": "doi:10.1177/23259671251397662",
+  "pmcid": "PMC12775314",
+  "source_record_sha256": "e990d6ac3beed46c9ad646ffa333c9a005151084882908fb23beecb343f85f09",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f7f374e929565daa1e287a64b6add7be220f95aebc75a57eb14bd041fd5b3ace",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Offloading Patellofemoral Contact Pressures: A Biomechanical Comparison Between Tibial Tubercle Osteotomy and a Retropatellar Tendon Implant",
+    "authors": "Haneberg E, Phillips A, Elias T, Credille K, Wang Z, Shewman E, Bi AS, Yanke AB.",
+    "year": 2026,
+    "journal": "Orthopaedic Journal of Sports Medicine",
+    "doi": "10.1177/23259671251397662",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10143641",
+  "paper_id": "doi:10.3390/pharmaceutics15041276",
+  "pmcid": "PMC10143641",
+  "source_record_sha256": "9265e00680703566d7bb946a66c178150a117d027f32f24dc2948007ba2e6ec7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c2df7d6aaf9fd451a84d9318327e5dfc64cd7494c7eea4e43b7e4afa00d88f6e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Influence of Shape Parameters on Unidirectional Drug Release from 3D Printed Implants and Prediction of Release from Implants with Individualized Shapes",
+    "authors": "Domsta V, Hänsch C, Lenz S, Gao Z, Matin-Mann F, Scheper V, Lenarz T, Seidlitz A.",
+    "year": 2023,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics15041276",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

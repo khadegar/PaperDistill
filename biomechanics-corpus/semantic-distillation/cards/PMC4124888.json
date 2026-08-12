@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4124888",
+  "paper_id": "doi:10.1186/1475-925x-12-99",
+  "pmcid": "PMC4124888",
+  "source_record_sha256": "2bcb1851f63f3f7e429231365b22dd3b33cb0dbc7c81d49b26e4ed9bbd5122d7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7e85385df5d14542bc478603e7909b2c84fe9120cd4c0c512e2f9d44fa0b5a62",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Adrenomedullin delivery in microsphere-scaffold composite for remodeling of the alveolar bone following tooth extraction: an experimental study in the rat",
+    "authors": "Wang L, Zheng L, Li C, Dong S, A L, Zhou Y.",
+    "year": 2013,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/1475-925x-12-99",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

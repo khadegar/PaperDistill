@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11939716",
+  "paper_id": "doi:10.3390/bioengineering12030315",
+  "pmcid": "PMC11939716",
+  "source_record_sha256": "bcaa6d82b56fc9610fb05c02712a6dfa2903d8fb8c69043eb7d7aa2fdda7ae8a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "58c10f6233e319d4d30cb9a06de1c8563190402047ba0d3f6053bb1b8c80007b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigation of the Effects of 3D Printing Parameters on the Mechanical Properties of Bone Scaffolds: Experimental Study Integrated with Artificial Neural Networks",
+    "authors": "Quan R, Cantero Chinchilla S, Liu F.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12030315",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

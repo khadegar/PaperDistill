@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9025544",
+  "paper_id": "doi:10.3390/ma15082878",
+  "pmcid": "PMC9025544",
+  "source_record_sha256": "2d94f088445e13f183f5bb85a3e3bc8cb4ce5ffa7faef2932457041424502510",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "452062796189405ae81e9d9351e5632852a20d1fa1f82a3fb206208d7dffc971",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Incremental Element Deletion-Based Finite Element Analysis of the Effects of Impact Speeds, Fall Postures, and Cortical Thicknesses on Femur Fracture",
+    "authors": "Cui Y, Xiang D, Shu L, Duan Z, Liao Z, Wang S, Liu W.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15082878",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

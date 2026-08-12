@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9826893",
+  "paper_id": "doi:10.1016/j.ohx.2022.e00391",
+  "pmcid": "PMC9826893",
+  "source_record_sha256": "0398100566f486da7a640d7b7fd07c19cdb47dade1ea71e25d4605bb25e640da",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e26cd6e38d9760c07f65073e2e85693d8d7f264c6dd02a0d753d2a6b754611f5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An open-source head-fixation and implant-protection system for mice",
+    "authors": "Weaver IA, Aryana Yousefzadeh S, Tadross MR.",
+    "year": 2022,
+    "journal": "HardwareX",
+    "doi": "10.1016/j.ohx.2022.e00391",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

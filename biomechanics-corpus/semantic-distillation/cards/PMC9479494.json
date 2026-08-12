@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9479494",
+  "paper_id": "doi:10.3389/fbioe.2022.967475",
+  "pmcid": "PMC9479494",
+  "source_record_sha256": "ebf7329929a906819e775f77936c3fa854d071a54349fa7bdd926242bc62517e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e1ee80afa43f3755e69e94cd5e91fee08ec7d1cb365b91f0434adf8ed96f52aa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Combined analysis of finite element model and audiometry provides insights into the pathogenesis of conductive hearing loss",
+    "authors": "Hirabayashi M, Kurihara S, Ito R, Kurashina Y, Motegi M, Okano HJ, Yamamoto Y, Kojima H, Asakura T.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.967475",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

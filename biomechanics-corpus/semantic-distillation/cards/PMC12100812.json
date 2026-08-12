@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12100812",
+  "paper_id": "doi:10.1186/s12891-025-08770-1",
+  "pmcid": "PMC12100812",
+  "source_record_sha256": "a659561b504b85f6b997ed2321cbdf725c1c78f4d074a19ed0db03d4d3bffd7b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dece7f480c128512134739483377e3d9efd3b3f009da2a3f8cadb3c964ddf544",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Title of the study: finite element analysis of five internal fixation modalities for Schatzker type IV‒C tibial plateau fractures",
+    "authors": "Zhou Z, Fang R, Liu Y, Liu M, Kong L, Ning R.",
+    "year": 2025,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-025-08770-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

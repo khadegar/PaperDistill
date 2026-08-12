@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10741522",
+  "paper_id": "doi:10.3390/biomedicines11123337",
+  "pmcid": "PMC10741522",
+  "source_record_sha256": "1de05a5b696afc33d378973186e80bcefc7d3d87d711a3249eb03c450844b4b2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "afd8ff1634db6ba51ed006db45b1069170fd6d9baf48220826ffbdf0c6c4df24",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Engineering 3D-Printed Bioresorbable Scaffold to Improve Non-Vascularized Fat Grafting: A Proof-of-Concept Study",
+    "authors": "Jordao A, Cléret D, Dhayer M, Le Rest M, Cao S, Rech A, Azaroual N, Drucbert AS, Maboudou P, Dekiouk S, Germain N, Payen J, Guerreschi P, Marchetti P.",
+    "year": 2023,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines11123337",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13027282",
+  "paper_id": "doi:10.3390/jcm15062094",
+  "pmcid": "PMC13027282",
+  "source_record_sha256": "d31b9a4ecfbcabf07f7af549a4aea0fb7e09cad7bc28cd1f7b6f55446ba9c1c9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "97661d5f1ea23af0944c6221f26910138757d73cf0f2ea4e81b839d997f82914",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Total Ankle Replacement Through a Lateral Transfibular Approach in Patients with Ipsilateral Knee Arthrodesis: Report of Two Cases",
+    "authors": "Carfì C, Constantinescu SA, Indino C, Rocca FD, Maccario C, Usuelli FG.",
+    "year": 2026,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm15062094",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

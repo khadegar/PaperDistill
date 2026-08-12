@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11338066",
+  "paper_id": "doi:10.1016/j.jot.2024.07.001",
+  "pmcid": "PMC11338066",
+  "source_record_sha256": "05190ac0524bd68143135841770e0ad01796c4d2fe5d9743f1db96dfa0d1ec18",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e3c37fcabecc262d0aa587204431b9223e4d9415ac30472728012fd23e9a8e2f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hyperbaric oxygen promotes bone regeneration by activating the mechanosensitive Piezo1 pathway in osteogenic progenitors",
+    "authors": "Zhou H, Liu H, Lin M, Wang H, Zhou J, Li M, Yang X, Fu G, Liu C.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2024.07.001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

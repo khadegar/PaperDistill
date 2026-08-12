@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8882327",
+  "paper_id": "doi:10.1302/2046-3758.112.bjr-2021-0304.r1",
+  "pmcid": "PMC8882327",
+  "source_record_sha256": "e9f024edc69702d5e222c00d0ebe09b3e0d9a2dc12b52ec9d69c820f41cabd4f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "04a73fe5bc4ce4c27318a08d1d3259bcced2860c5582eb47d629e3ce83d318be",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Total and partial knee arthroplasty implants that maintain native load transfer in the tibia",
+    "authors": "Munford MJ, Stoddart JC, Liddle AD, Cobb JP, Jeffers JRT.",
+    "year": 2022,
+    "journal": "Bone & Joint Research",
+    "doi": "10.1302/2046-3758.112.bjr-2021-0304.r1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

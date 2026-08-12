@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10180722",
+  "paper_id": "doi:10.3390/polym15092226",
+  "pmcid": "PMC10180722",
+  "source_record_sha256": "9b13dc65b15cc894333219f86020f6e6da9f5d46b2a840f7a680a2780ad1c6eb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e5d043cdeebde2f84cdd0df6251b03b19b65a4a093c7f5388336d295138bc555",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional-Bioprinted Bioactive Glass/Cellulose Composite Scaffolds with Porous Structure towards Bone Tissue Engineering",
+    "authors": "Li L, Lu P, Liu Y, Yang J, Li S.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15092226",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

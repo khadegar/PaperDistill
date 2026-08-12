@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11755603",
+  "paper_id": "doi:10.3390/mps8010008",
+  "pmcid": "PMC11755603",
+  "source_record_sha256": "2c3e8d27c34483f5f6b5c27d66ba2e1a781328c95593c2f32147d82b1430098f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "48ca855015ec1336b4331514ad27c4b5cb728ff90fc0cccd61a9454d893f6484",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of Functionally Loaded Subperiosteal Implants Evaluated on a Realistic Model Reproducing Severe Atrophic Jaws",
+    "authors": "Pellegrino G, Karaban M, Scalchi V, Urbani M, Giudice A, Giudice A, Barausse C, Felice P.",
+    "year": 2025,
+    "journal": "Methods and Protocols",
+    "doi": "10.3390/mps8010008",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

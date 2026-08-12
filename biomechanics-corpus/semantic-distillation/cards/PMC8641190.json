@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8641190",
+  "paper_id": "doi:10.1186/s12951-021-01141-7",
+  "pmcid": "PMC8641190",
+  "source_record_sha256": "3def8c25fd8ff7f223f1ce6688141f4a27521d4ca4c2391cab8cf87cdbf43751",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c3561661700907e227c868e43fcd3541f3b8dbe408c4b85a7338a17c0a437582",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Precision 3D printed meniscus scaffolds to facilitate hMSCs proliferation and chondrogenic differentiation for tissue regeneration",
+    "authors": "Deng X, Chen X, Geng F, Tang X, Li Z, Zhang J, Wang Y, Wang F, Zheng N, Wang P, Yu X, Hou S, Zhang W.",
+    "year": 2021,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-021-01141-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

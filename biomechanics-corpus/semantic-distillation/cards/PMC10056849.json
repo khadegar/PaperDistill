@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10056849",
+  "paper_id": "doi:10.3390/ijms24066000",
+  "pmcid": "PMC10056849",
+  "source_record_sha256": "3c4b4e2267bc47568da46ef774973c639e3453fdad07d5d9b09a2679bf54da40",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5948e1c3e0729161733b7c2a0ded0ca77d5debc46ba541339ce604d117eb7340",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Scaffold Microarchitecture on Angiogenesis and Regulation of Cell Differentiation during the Early Phase of Bone Healing: A Transcriptomics and Histological Analysis",
+    "authors": "Guerrero J, Maevskaia E, Ghayor C, Bhattacharya I, Weber FE.",
+    "year": 2023,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms24066000",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10599329",
+  "paper_id": "doi:10.2147/ijn.s428965",
+  "pmcid": "PMC10599329",
+  "source_record_sha256": "a74344c5e302d81ccff097bdb5497df0fd8eeb29eab7d6acff6a32e03dd6fe1c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "92a3bffd7288db619900ff18b913ce5745bfff0d37854ccb271df2c8f4a11b5c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surface-Modified Nano-Hydroxyapatite Uniformly Dispersed on High-Porous GelMA Scaffold Surfaces for Enhanced Osteochondral Regeneration",
+    "authors": "Zheng S, Li D, Liu Q, Tang C, Hu W, Ma S, Xu Y, Ma Y, Guo Y, Wei B, Du C, Wang L.",
+    "year": 2023,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s428965",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

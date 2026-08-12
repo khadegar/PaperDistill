@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10181036",
+  "paper_id": "doi:10.3390/polym15092229",
+  "pmcid": "PMC10181036",
+  "source_record_sha256": "08465b534d7ec8d4c78c1fbca5648631109d7f63ae44ed45fefd4a45259eae0d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "eeadaf43413ead3ee3c05d49f444dc9805d6e9d4ef7d4e2d7e087313b46db4c4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preparation of Polylactic Acid/Calcium Peroxide Composite Filaments for Fused Deposition Modelling",
+    "authors": "Mohammed AH, Kovacev N, Elshaer A, Melaibari AA, Iqbal J, Hassanin H, Essa K, Memić A.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15092229",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

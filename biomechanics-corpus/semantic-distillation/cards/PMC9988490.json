@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9988490",
+  "paper_id": "doi:10.1016/j.heliyon.2023.e13819",
+  "pmcid": "PMC9988490",
+  "source_record_sha256": "1f034e143453260fad198db3bf697afbf3e7315a1ae52c71537162ad29501bcb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "97f99e8e9e67d5f98e6611ffb38bdd55033fd90d8977e320bbc235470a882663",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The influence of body weight index on initial stability of uncemented femoral knee protheses: A finite element study",
+    "authors": "Wan Q, Zhang A, Liu Y, Chen H, Zhang J, Xue H, Han Q, Wang J.",
+    "year": 2023,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2023.e13819",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

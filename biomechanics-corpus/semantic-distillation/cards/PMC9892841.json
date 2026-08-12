@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9892841",
+  "paper_id": "doi:10.3389/fbioe.2023.1060059",
+  "pmcid": "PMC9892841",
+  "source_record_sha256": "987ede7086070da24028654c550c005d20c1c10fffb55279bebab69a7b0b366b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c612f475087174ac70f4b24de997949f4cb3f2b62f394c89e75b568fc9eda728",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical comparative analysis of conventional pedicle screws and cortical bone trajectory fixation in the lumbar spine: An in vitro and finite element study",
+    "authors": "Pei B, Xu Y, Zhao Y, Wu X, Lu D, Wang H, Wu S.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1060059",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

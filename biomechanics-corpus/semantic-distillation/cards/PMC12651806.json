@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12651806",
+  "paper_id": "doi:10.1016/j.xnsj.2025.100816",
+  "pmcid": "PMC12651806",
+  "source_record_sha256": "619216d14eb5ccb05665f1b6ba99d8718a1380e8cdbc829d5a26ade83dc97b5c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7ba0536451865a0fbef19af53f287ffcdefe1c60602240488f97fbe541c441fa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The predictive value of the global alignment and proportion (GAP) score for mechanical complications following adult spinal deformity surgery: A systematic review and meta-analysis",
+    "authors": "Ferraz VR, Piedade GS, Goulart CR, de Souza MFRFF, Furlan MOCS, Mercier PA, Mattei TA.",
+    "year": 2025,
+    "journal": "North American Spine Society Journal",
+    "doi": "10.1016/j.xnsj.2025.100816",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

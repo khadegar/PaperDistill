@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8299639",
+  "paper_id": "doi:10.1186/s13018-021-02614-z",
+  "pmcid": "PMC8299639",
+  "source_record_sha256": "a6c1ba8190ebb3d6170bea763a90f49e2f2853ea00c87f9b1785d443e699a84b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0d9a50484e9d12b06f7cfda2d13c1169a029c0a6d507f3a2b3b45f05531fd54e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical effect of intertrochanteric curved varus osteotomy on stress reduction in femoral head osteonecrosis: a finite element analysis",
+    "authors": "Wang Y, Yamako G, Okada T, Arakawa H, Nakamura Y, Chosa E.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-021-02614-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

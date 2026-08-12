@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7617543",
+  "paper_id": "doi:10.1016/j.bioadv.2024.213766",
+  "pmcid": "PMC7617543",
+  "source_record_sha256": "3f9daf995044bc3a5d549c3f7042064c4e194614c7d7df1326f70b63b0ef7cac",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3e3cd0bef4ba9931f2de24530b4fd1b0a705ff0501a05f1044ecc927ae5f8f5f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Nanotextured titanium inhibits bacterial activity and supports cell growth on 2D and 3D substrate: A co-culture study",
+    "authors": "Ishak MI, Delint RC, Liu X, Xu W, Tsimbouri PM, Nobbs AH, Dalby MJ, Su B.",
+    "year": 2024,
+    "journal": "Biomaterials advances",
+    "doi": "10.1016/j.bioadv.2024.213766",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

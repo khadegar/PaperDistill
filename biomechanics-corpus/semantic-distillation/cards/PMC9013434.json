@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9013434",
+  "paper_id": "doi:10.32607/actanaturae.11603",
+  "pmcid": "PMC9013434",
+  "source_record_sha256": "4f38ac211a5974a052a5c629392732a5a1db217db92cac9aaf1e753ff7fb8529",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2303bef19aef9b58632f92c2acab4c752086134e534fa4580d6d8257f9877d92",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Models of Cellular Spheroids As a Universal Tool for Studying the Cytotoxic Properties of Anticancer Compounds In Vitro",
+    "authors": "Sogomonyan AS, Shipunova VO, Soloviev VD, Larionov VI, Kotelnikova PA, Deyev SM.",
+    "year": 2022,
+    "journal": "Acta Naturae",
+    "doi": "10.32607/actanaturae.11603",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12149209",
+  "paper_id": "doi:10.3389/fbioe.2025.1557882",
+  "pmcid": "PMC12149209",
+  "source_record_sha256": "00c3b326ef74a7cb10429096ce71f51d943d1002557ed0ae69897fa4defea7c8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "307077b90ef956fb0af771a62ce0b39f0802189122d1784d985c7922a56a226f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed porous tantalum for acetabular reconstruction in complex primary arthroplasty and revision of hip",
+    "authors": "Wang Z, Wang Z, Gu L, Zhang Y, Su T, Luo J, Huang C, Gong X, Peng Y, Chen G.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1557882",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

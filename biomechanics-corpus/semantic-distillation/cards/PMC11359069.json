@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11359069",
+  "paper_id": "doi:10.3390/polym16162271",
+  "pmcid": "PMC11359069",
+  "source_record_sha256": "b2a35b2b2623e2f351c4e8a38dcc8fc81f1b9d17bfac5a9d6896e2804a3a537f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "121a527e33733f047e7cda7051a3d1a6326e70f1181490efa4ba8f50376d50a1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An Analysis of the Biocompatibility, Cytotoxicity, and Bone Conductivity of Polycaprolactone: An In Vivo Study",
+    "authors": "Hirsch WDB, Weber A, Ferri J, Etges A, Neto PI, Pereira FDAS, Heitz C.",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16162271",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

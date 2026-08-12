@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11653759",
+  "paper_id": "doi:10.1002/advs.202407514",
+  "pmcid": "PMC11653759",
+  "source_record_sha256": "6dbb81fc5ed170f4dd6fbc80de2fc2a9059d252fcbad1667805c3e3ef0c005ec",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "02090cb5b7a4f1f2d06ad0e11cf74845e998745eebfef5843b7c185df58b7456",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Understanding the Significance of Layer Bonding in Melt Electrowriting",
+    "authors": "Lamb CD, Maitland B, Hepburn MS, Dargaville TR, Kennedy BF, Dalton PD, Keating A, De-Juan-Pardo EM.",
+    "year": 2024,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202407514",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

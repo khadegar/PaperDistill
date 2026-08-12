@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC2739463",
+  "paper_id": "doi:10.4103/0019-5413.39553",
+  "pmcid": "PMC2739463",
+  "source_record_sha256": "77075435664ec3bcb7c25513d06ed801870e7533398623f579a47c744d3994c9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8114c9ad26f7993a72e0f188f0dfc9b4e3c70fa444e29c56edca4c945918d134",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Analysis of bone ingrowth on a tantalum cup",
+    "authors": "D'Angelo F, Murena L, Campagnolo M, Zatti G, Cherubino P.",
+    "year": 2008,
+    "journal": "Indian Journal of Orthopaedics",
+    "doi": "10.4103/0019-5413.39553",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

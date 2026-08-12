@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10984152",
+  "paper_id": "doi:10.1177/18632521241229618",
+  "pmcid": "PMC10984152",
+  "source_record_sha256": "b715f78223a3d147e0aa404f9ecb0f286b9f119bbf2e9e39873986c82f854f86",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e38032549cdbe5618f78b36eba82afa0ba7ea95c1346cce3ee42f77d829a44fc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "MR-based Bony 3D models enable radiation-free preoperative patient-specific analysis and 3D printing for SCFE patients",
+    "authors": "Lerch TD, Kaim T, Grob V, Hanke M, Schmaranzer F, Steppacher SD, Busch JD, Ziebarth K.",
+    "year": 2024,
+    "journal": "Journal of Children's Orthopaedics",
+    "doi": "10.1177/18632521241229618",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

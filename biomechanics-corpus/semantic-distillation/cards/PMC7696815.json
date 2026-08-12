@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7696815",
+  "paper_id": "doi:10.3390/ijms21228501",
+  "pmcid": "PMC7696815",
+  "source_record_sha256": "6588ab41d1c08fbf7cbe628dc84dc57dab3f837cfc915ec4393ebb1b4b645d2c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "66a5c0fe9ccfba73ba95c9c54dba65e068723ad2327edcd8ad11bc6e5dad1c0b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteogenic Properties of Novel Methylsulfonylmethane-Coated Hydroxyapatite Scaffold",
+    "authors": "Ryu JH, Kang TY, Shin H, Kim KM, Hong MH, Kwon JS.",
+    "year": 2020,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms21228501",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

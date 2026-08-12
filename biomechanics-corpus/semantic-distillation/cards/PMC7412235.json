@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7412235",
+  "paper_id": "doi:10.3390/ma13143061",
+  "pmcid": "PMC7412235",
+  "source_record_sha256": "3f38e6ca684abdede843fe532d98ad6a0ad611fb237c52e694762fcbe6843c04",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "63a685d49cdbeeb8dfede8b6f36b9d11cc57a8554bb0d22627546eeb8a7a809e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhancement of Bone Ingrowth into a Porous Titanium Structure to Improve Osseointegration of Dental Implants: A Pilot Study in the Canine Model",
+    "authors": "Hong JY, Ko SY, Lee W, Chang YY, Kim SH, Yun JH.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13143061",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

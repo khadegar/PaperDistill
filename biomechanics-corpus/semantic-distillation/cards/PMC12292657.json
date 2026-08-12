@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12292657",
+  "paper_id": "doi:10.3390/biomimetics10070457",
+  "pmcid": "PMC12292657",
+  "source_record_sha256": "fd67208cd2e5cadc6cccfd44a6da383fbd3f87a2c3f3543a211871fd03df087d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b6dd9f5adee467542d4f10714776e5dc5e4043cf4446a067694f8a27dbe33e54",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tissue-Engineered Tracheal Reconstruction",
+    "authors": "Yeou SH, Shin YS.",
+    "year": 2025,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics10070457",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

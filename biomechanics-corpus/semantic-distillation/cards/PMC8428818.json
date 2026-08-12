@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8428818",
+  "paper_id": "doi:10.1590/1678-7757-2020-1092",
+  "pmcid": "PMC8428818",
+  "source_record_sha256": "dd672a9ab1e4d8bbe568c19b79237f7cf27b6a65f5356b65498274dfea72a861",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6b094a1da2d2da77a48d488cb5c3b04e107aa3a5b34536889af2613956f00aa5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of rhBMP-2 applied with a 3D-printed titanium implant on new bone formation in rabbit calvarium",
+    "authors": "Jaeyoung R, Kang HS, Kang BH, Jung S, Kook MS, Hee-Kyun OH, Jung JY, Park HJ.",
+    "year": 2021,
+    "journal": "Journal of Applied Oral Science",
+    "doi": "10.1590/1678-7757-2020-1092",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

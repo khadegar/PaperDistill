@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11586122",
+  "paper_id": "doi:10.2147/ijn.s479893",
+  "pmcid": "PMC11586122",
+  "source_record_sha256": "e826bb17a17a97cd9510c438e2b69ae52c1138fd18c406fe1b118eb705fa1612",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ad56513148a27b79ad14a5f506fdb07cb547fac0cc01bb689b68ea912fa717be",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioactive Porous Composite Implant Guides Mesenchymal Stem Cell Differentiation and Migration to Accelerate Bone Reconstruction",
+    "authors": "Wang S, Xia D, Dou W, Chen A, Xu S, Xu S.",
+    "year": 2024,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s479893",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10230366",
+  "paper_id": "doi:10.3389/fbioe.2023.1127289",
+  "pmcid": "PMC10230366",
+  "source_record_sha256": "e6de78fb4da76523ffda6462a68f8d512cb648f4c5ec959d2598e19adc019c81",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "57d2b55295d00d780afd9392e1156978505e83a5f01663ee064d8feebf78d183",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application strategy of finite element analysis in artificial knee arthroplasty",
+    "authors": "Zhang ZH, Qi YS, Wei BG, Bao HR, Xu YS.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1127289",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

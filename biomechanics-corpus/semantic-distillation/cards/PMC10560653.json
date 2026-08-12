@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10560653",
+  "paper_id": "doi:10.1186/s40510-023-00485-0",
+  "pmcid": "PMC10560653",
+  "source_record_sha256": "425ded091687123bc58bbdb101578eb64e2b7026fc887509c17246914dd78c1f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c4b83c0c66970b280ac5877234410bd64e8c43df0ce1ca99b55c6e2662235236",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effective contribution ratio of the molar during sequential distalization using clear aligners and micro-implant anchorage: a finite element study",
+    "authors": "Liu X, Wu J, Cheng Y, Gao J, Wen Y, Zhang Y, Luo H, Jin Z, Ma Y.",
+    "year": 2023,
+    "journal": "Progress in Orthodontics",
+    "doi": "10.1186/s40510-023-00485-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

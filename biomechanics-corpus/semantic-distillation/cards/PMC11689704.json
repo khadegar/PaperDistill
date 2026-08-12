@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11689704",
+  "paper_id": "doi:10.1186/s13018-024-05416-1",
+  "pmcid": "PMC11689704",
+  "source_record_sha256": "1fdf72c486ecb889040316f59be3e4e966add79ee8432e005ed11aecf0eb6b69",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f347f9a4e809d0fbd67d74ac36499b714b712d8e4024dc44e19ce2ce38ba74e2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of additive manufacturing TaBw01 porous tantalum rod in ARCO stage II osteonecrosis of the femoral head",
+    "authors": "Huang J, Jiang Y, Peng Y, Hao L, Xiong R, Su T, Chen G.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-05416-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

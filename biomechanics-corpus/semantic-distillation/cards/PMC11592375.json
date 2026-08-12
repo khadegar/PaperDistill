@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11592375",
+  "paper_id": "doi:10.3390/bioengineering11111120",
+  "pmcid": "PMC11592375",
+  "source_record_sha256": "a65e74bea2349e8303a6b5876af8fc15bbb5afe7a23bc30ec8a559dd3632d469",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6df0732b1dbc384ea764cf314a79fa9deef713df675894b154410c5ea873df3b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Structure on Osteogenesis of Bone Scaffold: Simulation Analysis Based on Mechanobiology and Animal Experiment Verification",
+    "authors": "Li J, Sun Z, Wei X, Tan Q, He X.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11111120",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10726309",
+  "paper_id": "doi:10.1021/acsami.3c09774",
+  "pmcid": "PMC10726309",
+  "source_record_sha256": "5c0aa724e3ead4210b6d519c9edbfcf0409c68da42e406e2c6f9e1484ffd84c0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "63c22111c69fbea1bba3c00386f9469a467b740150dc1a75b876d39b6c2e0b6a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Sustained Release of Dexamethasone from 3D-Printed Scaffolds Modulates Macrophage Activation and Enhances Osteogenic Differentiation",
+    "authors": "Majrashi M, Kotowska A, Scurr D, Hicks JM, Ghaemmaghami A, Yang J.",
+    "year": 2023,
+    "journal": "ACS Applied Materials & Interfaces",
+    "doi": "10.1021/acsami.3c09774",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

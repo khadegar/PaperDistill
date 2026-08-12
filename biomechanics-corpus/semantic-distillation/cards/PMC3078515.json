@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3078515",
+  "paper_id": "doi:10.1007/s00402-010-1218-9",
+  "pmcid": "PMC3078515",
+  "source_record_sha256": "5033c1dae081ee9986b0420a7403691a827e96e81e3b11ce3fe8a87dd77c2c7c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d041d982ce078f30d35555d52df85f60552062409b7462a1efbc4ecbfd28e489",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Frictional and bone ingrowth properties of engineered surface topographies produced by electron beam technology",
+    "authors": "Biemond JE, Aquarius R, Verdonschot N, Buma P.",
+    "year": 2010,
+    "journal": "Archives of Orthopaedic and Trauma Surgery",
+    "doi": "10.1007/s00402-010-1218-9",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8048475",
+  "paper_id": "doi:10.1002/jbm.a.37075",
+  "pmcid": "PMC8048475",
+  "source_record_sha256": "8654c09e03e58bf3cf2687bc5192bae0893fee283c10ce7a95f82a2aa59fa8ab",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "af6f211ab920db9be0d5bf4e93181e67c3f1a4a3b01845d2667b0fc323e6e191",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three‐dimensionally printed polycaprolactone/beta‐tricalcium phosphate scaffold was more effective as an rhBMP‐2 carrier for new bone formation than polycaprolactone alone",
+    "authors": "Park SA, Lee HJ, Kim SY, Kim KS, Jo DW, Park SY.",
+    "year": 2020,
+    "journal": "Journal of Biomedical Materials Research. Part a",
+    "doi": "10.1002/jbm.a.37075",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

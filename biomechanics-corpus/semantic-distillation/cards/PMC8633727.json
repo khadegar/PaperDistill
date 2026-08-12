@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8633727",
+  "paper_id": "doi:10.1093/rb/rbab061",
+  "pmcid": "PMC8633727",
+  "source_record_sha256": "accf0e42073b4dd0a388a2e4a311d0998d0b2770dcdf1ad6e053ebf38b5a9e0c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "202fa8b44cc0b47a3c81d7366617eaf13a7c26274e5d1b32fd8c8cf7573a5870",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Vascularized bone regeneration accelerated by 3D-printed nanosilicate-functionalized polycaprolactone scaffold",
+    "authors": "Xu X, Xiao L, Xu Y, Zhuo J, Yang X, Li L, Xiao N, Tao J, Zhong Q, Li Y, Chen Y, Du Z, Luo K.",
+    "year": 2021,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbab061",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12702990",
+  "paper_id": "doi:10.5371/hp.2025.37.4.289",
+  "pmcid": "PMC12702990",
+  "source_record_sha256": "3465d22eda21a0920e1ef939630f0177b7d721930684c31676ced27a345c496d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "38317be8f1fc587dc6c5c41b0ed50710bb966999f21b85f9c610480c05fe0b9e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Factors Affecting Early Implant Subsidence after Arthroplasty Using a Cementless Femoral Stem for Displaced Femoral Neck Fracture",
+    "authors": "Lim JY.",
+    "year": 2025,
+    "journal": "Hip & Pelvis",
+    "doi": "10.5371/hp.2025.37.4.289",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11262140",
+  "paper_id": "doi:10.1093/jbmr/zjae039",
+  "pmcid": "PMC11262140",
+  "source_record_sha256": "65b0171889cf066c773c174c484d618087a7da4ea8e722c9037816c822dfae69",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8fe00d80b566e652c101f0006878a9bafdcddbc39bddf7b4c15c0bc6459d1d2d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Transferability of bone phenotyping and fracture risk assessment by μFRAC from first-generation high-resolution peripheral quantitative computed tomography to second-generation scan data",
+    "authors": "Bugbird AR, Whittier DE, Boyd SK.",
+    "year": 2024,
+    "journal": "Journal of Bone and Mineral Research",
+    "doi": "10.1093/jbmr/zjae039",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

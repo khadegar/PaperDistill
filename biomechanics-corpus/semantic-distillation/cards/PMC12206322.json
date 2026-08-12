@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12206322",
+  "paper_id": "doi:10.1016/j.jot.2025.01.009",
+  "pmcid": "PMC12206322",
+  "source_record_sha256": "10af757884ee37e20b19483821a492432a57366009f2809771cad28542655ac3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "566e4fdf08812c376c3aaf5456cbbcc18e295ece2970a65784da94c231cba86a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Augmenting osteoporotic osseointegration through a temporal release nanocoating-based reversing dysregulated osteogenic microenvironment",
+    "authors": "Zhang J, Bai H, Liu H, Wang X, Xu M, Zhang G, Di Z, Zhao X, Wang J, Ren L.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2025.01.009",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

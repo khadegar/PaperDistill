@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10590505",
+  "paper_id": "doi:10.1186/s12903-023-03545-3",
+  "pmcid": "PMC10590505",
+  "source_record_sha256": "455b11e1645a5f6fdca86893f42100d5ed97e2ec16b39cb9d97684ea542c9443",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dafbb87ad0fa6011ad5461918d4882af894f0b673f4315f6744851959379e06a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The mechanical and clinical influences of prosthetic index structure in Morse taper implant-abutment connection: a scoping review",
+    "authors": "Shen L, Dong C, Chen J, Bai X, Yang F, Wang L.",
+    "year": 2023,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-023-03545-3",
+    "publication_type": "Scoping Review; Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

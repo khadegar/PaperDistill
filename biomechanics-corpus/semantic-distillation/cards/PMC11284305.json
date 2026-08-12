@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11284305",
+  "paper_id": "doi:10.3349/ymj.2023.0444",
+  "pmcid": "PMC11284305",
+  "source_record_sha256": "66eeae0c6fbbe02e73c4c13d5b695540f8794741632742799a072d0cc7f63a7c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4c0262c0c94a8062783c8b43e145417d91b7c47049edaa4813ccd445018cf69e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "One-Year Results of Ear Reconstruction with 3D Printed Implants",
+    "authors": "Kim M, Kim YJ, Kim YS, Roh TS, Lee EJ, Shim JH, Kang EH, Kim MJ, Yun IS.",
+    "year": 2024,
+    "journal": "Yonsei Medical Journal",
+    "doi": "10.3349/ymj.2023.0444",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

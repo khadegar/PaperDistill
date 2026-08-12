@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10543228",
+  "paper_id": "doi:10.3389/fbioe.2023.1219745",
+  "pmcid": "PMC10543228",
+  "source_record_sha256": "ed363f4c011a1c556f142498f27355a651e50563542a0cc224d9c190978dec16",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0907e3f5aa0c16e0ac7f24ea40cfbdf0bf12b1f2c81022899637bb395d2b4469",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical analysis and clinical observation of 3D-printed acetabular prosthesis for the acetabular reconstruction of total hip arthroplasty in Crowe III hip dysplasia",
+    "authors": "Liu Y, Wang F, Ying J, Xu M, Wei Y, Li J, Xie H, Zhao D, Cheng L.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1219745",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

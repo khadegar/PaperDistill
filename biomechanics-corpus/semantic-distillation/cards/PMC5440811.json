@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5440811",
+  "paper_id": "doi:10.1038/ncomms15261",
+  "pmcid": "PMC5440811",
+  "source_record_sha256": "9cc196ce693904188087557b37863c43a3b7dabfb86a64a55dd6666d88d8b849",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "98cc05077ccfcc9517b942c247f08dc717594a0fa6806df6a226a327261c3162",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A bioprosthetic ovary created using 3D printed microporous scaffolds restores ovarian function in sterilized mice",
+    "authors": "Laronda MM, Rutz AL, Xiao S, Whelan KA, Duncan FE, Roth EW, Woodruff TK, Shah RN.",
+    "year": 2017,
+    "journal": "Nature Communications",
+    "doi": "10.1038/ncomms15261",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

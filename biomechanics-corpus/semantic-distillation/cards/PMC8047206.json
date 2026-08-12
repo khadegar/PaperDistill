@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8047206",
+  "paper_id": "doi:10.3389/fbioe.2021.646079",
+  "pmcid": "PMC8047206",
+  "source_record_sha256": "2afb0aad3dc417a356d00156b742273e4fdb82f5428ca528e8c124834c28a02c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b73ae36e80e332921a72acb43fc1173f1c1aceb2d33fdb786a2b95143a311a18",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Investigation Between Rigid and Semirigid Posterolateral Fixation During Daily Activities: Geometrically Parametric Poroelastic Finite Element Analyses",
+    "authors": "Nikkhoo M, Lu ML, Chen WC, Fu CJ, Niu CC, Lin YH, Cheng CH.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.646079",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13153974",
+  "paper_id": "doi:10.31616/asj.2025.0442",
+  "pmcid": "PMC13153974",
+  "source_record_sha256": "c596b61f8998f6b17f54d5a644c4d6fc9c2cad6679ceaf80a636dec1ade2463e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1201444971e49be1f5d6c70d03516945eae4142f5c6da3042cc2c1f06018a230",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical comparison of posterior short-segment fixation with or without intermediate screws for thoracolumbar burst fractures under normal and osteoporotic conditions: a finite element analysis",
+    "authors": "Xu C, Zhang X, Cao HJ, Shen C, Ge F, Bai X, Zhang C.",
+    "year": 2026,
+    "journal": "Asian Spine Journal",
+    "doi": "10.31616/asj.2025.0442",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

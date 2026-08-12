@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9696484",
+  "paper_id": "doi:10.3390/medicina58111636",
+  "pmcid": "PMC9696484",
+  "source_record_sha256": "41ebe01baca079e0a234b870775c351b7fd9a5440fcabe04cb544f5151e48520",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b73226b96b8bef87922a86061b15af819b6e709fa7cb8bf708e5fc63f2258994",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of Anterior Malposition and Bone Cement Augmentation on the Fixation Strength of Cephalic Intramedullary Nail Head Elements",
+    "authors": "Pastor T, Zderic I, Schopper C, Haefeli PC, Kastner P, Souleiman F, Gueorguiev B, Knobe M.",
+    "year": 2022,
+    "journal": "Medicina",
+    "doi": "10.3390/medicina58111636",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

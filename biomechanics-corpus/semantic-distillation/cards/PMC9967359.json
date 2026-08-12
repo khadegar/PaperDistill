@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9967359",
+  "paper_id": "doi:10.3390/jcm12041490",
+  "pmcid": "PMC9967359",
+  "source_record_sha256": "480b10bdfe4d3c904f404aea11074c51636f716b977bec74ae359ae968c21c47",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2fbb1d7b60afeafc86da14d2e30984810e408bb28c0c34ccdabef31e5870f944",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Guided Dental Implant Surgery: Systematic Review",
+    "authors": "Dioguardi M, Spirito F, Quarta C, Sovereto D, Basile E, Ballini A, Caloro GA, Troiano G, Lo Muzio L, Mastrangelo F.",
+    "year": 2023,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm12041490",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

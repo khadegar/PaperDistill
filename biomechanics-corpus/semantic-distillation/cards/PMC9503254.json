@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9503254",
+  "paper_id": "doi:10.1186/s13036-022-00302-y",
+  "pmcid": "PMC9503254",
+  "source_record_sha256": "4bc57fe56735e9ff5059fbfc9d2fd08020dd3ff44e379d99ce390cf4a99eece8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b773f4848afa7283bd7eaff8550fa71a39f3e5e9bd82b5ddd290b554447d39dd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "New dual-function in situ bone repair scaffolds promote osteogenesis and reduce infection",
+    "authors": "Yang C, Zhou L, Geng X, Zhang H, Wang B, Ning B.",
+    "year": 2022,
+    "journal": "Journal of Biological Engineering",
+    "doi": "10.1186/s13036-022-00302-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

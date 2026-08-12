@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11993765",
+  "paper_id": "doi:10.1038/s41598-025-97021-3",
+  "pmcid": "PMC11993765",
+  "source_record_sha256": "dc7ea0539b5455606ebb219bdcb318249a469ed107619464fee13432877baa7b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a1ae9bd72f22e0809d77f91698ef94887a98b58207d8bf567311ba86d583aad2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of asymmetric L4–L5 facet joint degeneration on lumbar spine biomechanics using a finite element approach",
+    "authors": "Park JS, Goh TS, Lee JS, Lee C.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-97021-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4609364",
+  "paper_id": "doi:10.1155/2015/328943",
+  "pmcid": "PMC4609364",
+  "source_record_sha256": "a9b6cf1fb33a924efe147ef9271199fbb5cd2e1f7a23b6edaee9f5790c40c0ef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6aee0ce600e2378533e89283b0e560771d0f3fd448c8b4307f9e423548e4c184",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vivo Osseointegration Performance of Titanium Dioxide Coating Modified Polyetheretherketone Using Arc Ion Plating for Spinal Implant Application",
+    "authors": "Tsou HK, Chi MH, Hung YW, Chung CJ, He JL.",
+    "year": 2015,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2015/328943",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

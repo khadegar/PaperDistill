@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4955147",
+  "paper_id": "doi:10.1186/s12938-016-0207-9",
+  "pmcid": "PMC4955147",
+  "source_record_sha256": "6ede097f948b44f165a083832cc31bc26326445f25cbba10e81dd1326aa464ff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6f174100cf23511eb443035d93bd13dcaf06a4e3b1befecffa3d933bc7adfb47",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Selective laser melting of titanium alloy enables osseointegration of porous multi-rooted implants in a rabbit model",
+    "authors": "Peng W, Xu L, You J, Fang L, Zhang Q.",
+    "year": 2016,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-016-0207-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

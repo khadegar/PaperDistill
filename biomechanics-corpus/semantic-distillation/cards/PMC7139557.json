@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7139557",
+  "paper_id": "doi:10.3390/ijms21062175",
+  "pmcid": "PMC7139557",
+  "source_record_sha256": "cbf3f1560fe911cfa4eb903cc09ad5c3cd855546d0fa24d08a25c23b147790b6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5e44797ee54655e638b6d1ce45f4ce5a32066d330c0baf07efaaaff4bab02e57",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biofabrication of SDF-1 Functionalized 3D-Printed Cell-Free Scaffolds for Bone Tissue Regeneration",
+    "authors": "Lauer A, Wolf P, Mehler D, Götz H, Rüzgar M, Baranowski A, Henrich D, Rommens PM, Ritz U.",
+    "year": 2020,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms21062175",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

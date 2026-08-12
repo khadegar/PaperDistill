@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7553892",
+  "paper_id": "doi:10.1016/j.bioactmat.2020.09.024",
+  "pmcid": "PMC7553892",
+  "source_record_sha256": "bf3914f52c25f00ce42dc7d6878c7cccd9fb763dae93e5b6c7d24853e2c6aed4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4f130f3d244ddf43dfb78610cc98b466b2ba8bea26bfe5a386e83d2f3c547517",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Nano-needle strontium-substituted apatite coating enhances osteoporotic osseointegration through promoting osteogenesis and inhibiting osteoclastogenesis",
+    "authors": "Geng Z, Ji L, Li Z, Wang J, He H, Cui Z, Yang X, Liu C.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2020.09.024",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8819096",
+  "paper_id": "doi:10.3389/fphys.2021.749372",
+  "pmcid": "PMC8819096",
+  "source_record_sha256": "566f9bfa6d72069e7296e27d02c9e6ec6767670e11cbc23fa457dc2156b4ac9a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a4323d6453d9112e1afe5525a3a0fd93e780d983993d495396decfb4ddb59fd7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Finite Element Method Model of the Proximal Carpal Row and Experimental Validation",
+    "authors": "Marqués R, Melchor J, Sánchez-Montesinos I, Roda O, Rus G, Hernández-Cortés P.",
+    "year": 2022,
+    "journal": "Frontiers in Physiology",
+    "doi": "10.3389/fphys.2021.749372",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

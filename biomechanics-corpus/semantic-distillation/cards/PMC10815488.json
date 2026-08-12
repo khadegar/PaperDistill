@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10815488",
+  "paper_id": "doi:10.3390/gels10010028",
+  "pmcid": "PMC10815488",
+  "source_record_sha256": "eea32fbc9c14bed4b1ee62678fe11c4b3842af4ed3ec9ff60746e2e1646d2883",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a0ac756b708d0964669ec95e10499a4f886af68676bbd9ca762bebccd3a4edec",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hydrogel Microparticles for Bone Regeneration",
+    "authors": "Bektas C, Mao Y.",
+    "year": 2023,
+    "journal": "Gels",
+    "doi": "10.3390/gels10010028",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

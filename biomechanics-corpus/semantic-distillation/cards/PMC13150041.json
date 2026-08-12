@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13150041",
+  "paper_id": "doi:10.1111/vsu.70074",
+  "pmcid": "PMC13150041",
+  "source_record_sha256": "638d7b2e6080905e61267d487694eb4372cdc4c6a924914d8f6f13ee1ce39efe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5662f12299e4cccf68d4430e7e1a0dcadeff74ab4edbb3f20cb9967f39d7e32c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Plating and double‐loop cerclage wiring improve the mechanical performance of the femoral stem after Zurich cementless total hip replacement in cats",
+    "authors": "Park C, Marcellin-Little DJ, Garcia-Nolen T, Bresina SJ, Lanz OI.",
+    "year": 2026,
+    "journal": "Veterinary Surgery",
+    "doi": "10.1111/vsu.70074",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

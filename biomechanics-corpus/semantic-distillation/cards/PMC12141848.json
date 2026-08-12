@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12141848",
+  "paper_id": "doi:10.1016/j.bioactmat.2025.04.028",
+  "pmcid": "PMC12141848",
+  "source_record_sha256": "ad3bf5a848555cb41b22b71af137ded7d0ca761d9478b463d27e347ddb48e349",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ef68a927c8c00046507969c8e28bd6bc8e8c1505413bf5a01e1f93ca5d21e909",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed advanced scaffold armed with exosomes derived from human skeletal stem cell identified by single-cell RNA sequencing enhances osteochondral regeneration",
+    "authors": "Lou W, Qiu X, Qin Y, Lu Y, Cao Y, Lu H.",
+    "year": 2025,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2025.04.028",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

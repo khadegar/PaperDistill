@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10489176",
+  "paper_id": "doi:10.3390/ma16175958",
+  "pmcid": "PMC10489176",
+  "source_record_sha256": "79b935321507ea09f4dc0463a2924ef752e9e0954537e3a171a08ca37eb7cb5d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3f7018de724a2248b8be387b183d87fdb4a7e16881b4b5a8cb9a28318b9d0f6b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stability Analysis of Plate—Screw Fixation for Femoral Midshaft Fractures",
+    "authors": "Basirom I, Daud R, Ijaz MF, Rojan MA, Basaruddin KS.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16175958",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

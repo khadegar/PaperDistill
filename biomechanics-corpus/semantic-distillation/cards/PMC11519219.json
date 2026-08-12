@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11519219",
+  "paper_id": "doi:10.1007/s10856-024-06835-6",
+  "pmcid": "PMC11519219",
+  "source_record_sha256": "1482a5b2c5a5a525a2b44e488bbe1b56e4ffd914dc8feb063498a9a33a1b8155",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f665362f416863287379cad7d6478d270e8d505237045066b336d2d38c5b27c4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhancing osteogenesis and mandibular defect repair with magnesium-modified acellular bovine bone matrix",
+    "authors": "Wang P, Ge R, Li B, Li L, Han L, Hu X, Xu G, Yu K.",
+    "year": 2024,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-024-06835-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

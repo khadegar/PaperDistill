@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11415410",
+  "paper_id": "doi:10.1007/s10266-024-00941-1",
+  "pmcid": "PMC11415410",
+  "source_record_sha256": "4a3893ad82abc16b13f3a987fd017672ef4c4ce1f2e0206bbc1924905d4428d1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ab897a03d44d5befad983dba9c6ec2f1af2d6f4be04dc2c71700005431b41bcf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical behavior of all-on-4 concept and alternative designs under different occlusal load configurations for completely edentulous mandible: a 3-D finite element analysis",
+    "authors": "Şentürk A, Akaltan F.",
+    "year": 2024,
+    "journal": "Odontology",
+    "doi": "10.1007/s10266-024-00941-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5716328",
+  "paper_id": "doi:10.2147/ijn.s145663",
+  "pmcid": "PMC5716328",
+  "source_record_sha256": "0073d86bf08db0d077d7818e0cc3e72ad0cc4383b38d937db68b6d9b192647ce",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4d308927dd37968162ec1945981b98415f3a4941e6b4fbe7bcfe7e82b5495ce4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vivo evaluation of a novel nanocomposite porous 3D scaffold in a rabbit model: histological analysis",
+    "authors": "Mahmood SK, Razak IA, Ghaji MS, Yusof LM, Mahmood ZK, Rameli MABP, Zakaria ZAB.",
+    "year": 2017,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s145663",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

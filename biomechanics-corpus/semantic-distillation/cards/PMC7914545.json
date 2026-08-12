@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7914545",
+  "paper_id": "doi:10.3390/ijms22041718",
+  "pmcid": "PMC7914545",
+  "source_record_sha256": "d5565f64c850ea8444d395e4d522d5b702035fee5271c24e2fdea551ce4a3d06",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f88a632b832f33abee4f1641385d09f35fd7c789c433be285255cb62858650ba",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "PEG-Coated Large Mesoporous Silicas as Smart Platform for Protein Delivery and Their Use in a Collagen-Based Formulation for 3D Printing",
+    "authors": "Banche-Niclot F, Montalbano G, Fiorilli S, Vitale-Brovarone C.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms22041718",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

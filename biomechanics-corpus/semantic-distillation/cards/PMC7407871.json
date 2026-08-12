@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7407871",
+  "paper_id": "doi:10.1302/2058-5241.5.190024",
+  "pmcid": "PMC7407871",
+  "source_record_sha256": "6a1bc484752ade519f6a91b5d2f02d043fdde393a0d1a7884da3dd0cf35f1d20",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d1638bdb634552203b1ed2da5857271b55828875b9a6867407794786c7ad57f1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional printing in orthopaedic surgery: a scoping review",
+    "authors": "Levesque JN, Shah A, Ekhtiari S, Yan JR, Thornley P, Williams DS.",
+    "year": 2020,
+    "journal": "EFORT Open Reviews",
+    "doi": "10.1302/2058-5241.5.190024",
+    "publication_type": "Scoping Review; review-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

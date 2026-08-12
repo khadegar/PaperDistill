@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13112262",
+  "paper_id": "doi:10.1016/j.bbiosy.2026.100137",
+  "pmcid": "PMC13112262",
+  "source_record_sha256": "6c7a6cf42bfb7111b690b0cc5d02dbe338c46ef945740ce55ea23a993e9436d2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "81393912a3afa62c0218a5108df62b8cb8918339781d1105a0e391e94127c7d2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The influence of simulated microgravity on MG-63 osteoblast-like cells cultured on polymeric scaffold",
+    "authors": "Szaflarska B, Walczak K, Czepiel M, Kołodziejczyk A, Pamuła E.",
+    "year": 2026,
+    "journal": "Biomaterials and Biosystems",
+    "doi": "10.1016/j.bbiosy.2026.100137",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

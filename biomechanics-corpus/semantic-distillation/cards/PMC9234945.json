@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9234945",
+  "paper_id": "doi:10.3389/fgene.2022.915679",
+  "pmcid": "PMC9234945",
+  "source_record_sha256": "3952db925734f5ad371b9b333320bc62cceaa62d05747cc97365cdfb9816d2ad",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "05200321110416e476ee1a20b4a57cbbcf09981f949b36f3ed3e46236192c9fd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Comparison of Six Different Root-Analog Implants and the Conventional Morse Taper Implant by Finite Element Analysis",
+    "authors": "Wang JQ, Zhang Y, Pang M, Wang YQ, Yuan J, Peng H, Zhang W, Dai L, Li HW.",
+    "year": 2022,
+    "journal": "Frontiers in Genetics",
+    "doi": "10.3389/fgene.2022.915679",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

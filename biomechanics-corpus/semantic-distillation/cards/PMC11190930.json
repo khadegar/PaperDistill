@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11190930",
+  "paper_id": "doi:10.1021/acsomega.4c01533",
+  "pmcid": "PMC11190930",
+  "source_record_sha256": "48ae35143a57627bfb699948bc8371ad1928d4616776459ffba1d09f655cd244",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "82bbdd5ee84f274452da97cb6474ffdcca052bd7f364d84d4c810b10a146e8f6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed Biomimetic Hydroxyapatite Composite Scaffold Loaded with Curculigoside for Rat Cranial Defect Repair",
+    "authors": "Weng Y, Yuan X, Fan S, Duan W, Tan Y, Zhou R, Wu J, Shen Y, Zhang Z, Xu H.",
+    "year": 2024,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.4c01533",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

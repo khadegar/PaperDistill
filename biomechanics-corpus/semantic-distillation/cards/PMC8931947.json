@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8931947",
+  "paper_id": "doi:10.5371/hp.2022.34.1.35",
+  "pmcid": "PMC8931947",
+  "source_record_sha256": "b0554deb4a146d2a0f936af156e7ce1923b6dd236ac7650e83f41d68bbf240f7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "20bbeb77ba1ee7dcfb0b9477eb90cde09be8136b806e5ca6900433056176b2b8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Comparative Study for Osteosynthesis of Pauwels Type III Femoral Neck Fractures: Conventional Devices versus Novel Fixed Angle Devices",
+    "authors": "Park DH, Seo YC, Kwon YU, Jung SH, Yoo SJ.",
+    "year": 2022,
+    "journal": "Hip & Pelvis",
+    "doi": "10.5371/hp.2022.34.1.35",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

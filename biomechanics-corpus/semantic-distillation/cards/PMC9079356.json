@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9079356",
+  "paper_id": "doi:10.1039/c7ra13313h",
+  "pmcid": "PMC9079356",
+  "source_record_sha256": "3afd76af7229e740a5e76bc6c88b44382653b2c1c5b4d9b48f6c35897a36eb2a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7d6bfc3f8a917c098bd5c4a7a46afe698d86d925c2f4bb8e572dcd482c8acf6a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Heat treatment effect on the mechanical properties, roughness and bone ingrowth capacity of 3D printing porous titanium alloy",
+    "authors": "Li Z, Liu C, Wang B, Wang C, Wang Z, Yang F, Gao C, Liu H, Qin Y, Wang J.",
+    "year": 2018,
+    "journal": "RSC Advances",
+    "doi": "10.1039/c7ra13313h",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

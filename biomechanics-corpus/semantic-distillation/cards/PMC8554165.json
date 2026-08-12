@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8554165",
+  "paper_id": "doi:10.1016/j.ajoc.2021.101222",
+  "pmcid": "PMC8554165",
+  "source_record_sha256": "2a5f28b1b63cf5440ac476fd1b5e8d763ca4ff1b38e9f1cff64b18a2a2f17fe0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "68160d314d655682b4da36d3286de9092a4dede45159aaa0839ec973c90a6e82",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient specific implants in orbital reconstruction: A pilot study ☆",
+    "authors": "Habib LA, Yoon MK.",
+    "year": 2021,
+    "journal": "American Journal of Ophthalmology Case Reports",
+    "doi": "10.1016/j.ajoc.2021.101222",
+    "publication_type": "brief-report; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11857563",
+  "paper_id": "doi:10.3390/ma18040776",
+  "pmcid": "PMC11857563",
+  "source_record_sha256": "d948dd9c0de88318e61a3f8ce1e51ba1342a90e5896a4bea3f4821b884c940ab",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2a5414f8bcded126911b7b8ff9e2b629b9065fce91a70ac054116eabf1736aca",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Influence of Bone Density on Stresses in the Periodontal Ligament During Orthodontic Movement—Finite Element Study on Innovative Model",
+    "authors": "Kuc AE, Sybilski K, Stankiewicz M, Kotuła J, Kuc N, Hajduk G, Małachowski J, Sarul M.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18040776",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

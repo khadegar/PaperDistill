@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10275743",
+  "paper_id": "doi:10.1016/j.bioactmat.2023.05.020",
+  "pmcid": "PMC10275743",
+  "source_record_sha256": "a926c9bb2a716aa1a5375911512b65ace3750783f7df80c76ae3585fa5526568",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b2670403d318ea8cf7560dd616ba3489d5a29c1ec21791c1799ee07835597095",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Highly resilient and fatigue-resistant poly(4-methyl- ε -caprolactone) porous scaffold fabricated via thiol-yne photo-crosslinking/salt-templating for soft tissue regeneration",
+    "authors": "Wang Z, Zhang W, Bai G, Lu Q, Li X, Zhou Y, Yang C, Xiao Y, Lang M.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2023.05.020",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

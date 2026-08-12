@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10884854",
+  "paper_id": "doi:10.1016/j.heliyon.2024.e26151",
+  "pmcid": "PMC10884854",
+  "source_record_sha256": "8671fd6e63956c2f9b54490c3c48f94a579b533470abcc919000d7bf5323b35e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d32a7f75f4efbcf8a77ec797cd6dbfbfa82d3b42fa606cd8b3755e1b9e7b9408",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Numerical investigation on the wear characteristics of hip implant under static loading",
+    "authors": "Abu Qudeiri JE, Abdudeen A, Sahadevan MR, Padmanabhan M A.",
+    "year": 2024,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2024.e26151",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

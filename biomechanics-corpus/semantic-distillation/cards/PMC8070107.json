@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8070107",
+  "paper_id": "doi:10.3390/ma14081942",
+  "pmcid": "PMC8070107",
+  "source_record_sha256": "ae42ebd955f629669c69c79f76fac15618c3e50a60821bba98cfd3955145cfef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "490786788cff699c33d53b56f929ebe19da76c361deef834b60cf3e18c237944",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osseointegration of Plasma Jet Treated Titanium Implant Surface in an Animal Model",
+    "authors": "Jang MH, Park YB, Kwon JS, Kim YJ, Lee JH.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14081942",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11111884",
+  "paper_id": "doi:10.3389/fbioe.2024.1386816",
+  "pmcid": "PMC11111884",
+  "source_record_sha256": "a9669899f94d16b7a94e4f52f7b97826603d16911b9c3a9cd08a1bd23b4c3bca",
+  "reading": {
+    "status": "completed",
+    "packet_sha256": "1067a2462b974b6a152c65b0e6ba3c0436d8f7281652a0b0fcf72b7e6879da24",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S002:C02",
+      "S002:C03",
+      "S003:C01",
+      "S004:C01",
+      "S004:C02",
+      "S005:C01",
+      "S005:C02",
+      "S005:C03",
+      "S005:C04",
+      "S006:C01",
+      "S007:C01",
+      "S008:C01",
+      "S008:C02",
+      "S008:C03",
+      "S008:C04",
+      "S009:C01",
+      "S009:C02",
+      "S010:C01",
+      "S011:C01",
+      "S011:C02",
+      "S012:C01",
+      "S013:C01",
+      "S013:C02",
+      "S014:C01",
+      "S014:C02",
+      "S014:C03",
+      "S014:C04",
+      "S014:C05",
+      "S015:C01",
+      "S015:C02"
+    ],
+    "omissions": [],
+    "access_level": "full_text_read",
+    "reader_role": "luna_primary",
+    "reader_model": "gpt-5.6-luna",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T13:28:22Z",
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Finite element analysis of patient-specific additive-manufactured implants",
+    "authors": "Namvar A, Lozanovski B, Downing D, Williamson T, Kastrati E, Shidid D, Hill D, Buehner U, Ryan S, Choong PF, Sanaei R, Leary M, Brandt M.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1386816",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_preclinical computational-mechanical research with matched ovine experimental validation",
+    "design_features": [
+      "patient_specific_additive_manufacturing",
+      "ovine_femur_endoprosthesis",
+      "heterogeneous_CT_to_FE_material_mapping",
+      "quasi_static_compression_and_torsion",
+      "matched_control_and_implanted_bones",
+      "in_vivo_animal_validation",
+      "lattice_vs_solid_implant_comparison",
+      "geometry_friction_and_modulus_sensitivity"
+    ],
+    "research_problem": "Patient-specific endoprostheses for tumor reconstruction must carry load after irregular resection while avoiding excessive stiffness, stress concentration, loosening, and fracture. The implant geometry, fixation arrangement, and material modulus vary with the patient, so design decisions need a bone-implant model that is checked against physical behavior before surgery.",
+    "exact_gap": "Bone FE models based on CT-derived geometry and density were available, but prior simulations of printed implants had not been checked against experimental measurements from implanted bones. It was also unclear how lattice topology, flange/fixation layout, contact friction, and a lower implant modulus would change construct stiffness in a patient-specific reconstruction.",
+    "objective_or_hypothesis": "Develop an FE model of reconstructed ovine femora, validate its axial and torsional stiffness against six-month animal-test data, and use the validated model to compare solid, lattice, non-filling, and no-flange designs and to perturb friction and implant modulus. The working expectation was that lattice or lower-modulus designs could retain acute construct mechanics while reducing the mechanical mismatch associated with solid titanium.",
+    "study_design": "Nine sheep received patient-specific LB-PBF Ti6Al4V implants after distal metaphyseal phantom-tumor resection (six solid and three lattice); the contralateral femur served as a non-implanted control. Preoperative CT-derived heterogeneous bone meshes were coupled to implant and screw meshes in Abaqus. Quasi-static compression and torsion experiments at six months were compared with FE predictions, followed by numerical sensitivity studies for implant shape/topology, contact friction, and implant elastic modulus.",
+    "sample_or_model": "Right and left femora from nine sheep; solid or FCCZ-lattice patient-specific implants with flanges, primary and secondary regions; cortical and trabecular screws; 3D tetrahedral bone, implant, and screw meshes. Bone properties were assigned from CT Hounsfield units; the baseline Ti6Al4V implant used E=110 GPa and Poisson ratio 0.3.",
+    "comparators": [
+      "Implanted right femur versus matched non-implanted left femur",
+      "Solid implant (n=6) versus lattice implant (n=3)",
+      "Lattice, fully solid, non-filling bridge, and fully solid no-flange design variants",
+      "Contact friction coefficient from 0 to 1, with 0.14 as the baseline",
+      "Baseline 110 GPa implant modulus versus tenfold and hundredfold reductions",
+      "Experimental compression/torsion stiffness versus FE-predicted stiffness"
+    ],
+    "method_spine": [
+      "Segment preoperative CT scans into ovine femur geometry, generate approximately 1-mm tetrahedral meshes, and map CT-derived density and elastic properties to bone elements.",
+      "Represent Ti6Al4V implants and screws with tetrahedral linear-elastic elements; model surface contact, a 0.14 friction coefficient, screw preload, and tied screw threads.",
+      "Replicate the physical 1.5-mm displacement compression and eccentric torsion setups with a constrained distal femur and rigid loading applicator.",
+      "Compare FE force-displacement behavior and axial/torsional stiffness with three-repeat animal tests using regression-derived stiffness and Spearman correlations.",
+      "Use the model for stress-zone inspection and controlled perturbations of implant topology/fixation, friction, and implant modulus."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Bone mesh convergence at a global 1-mm size and approximately 650,000 C3D4 elements was checked; stiffness was extracted from force-displacement regressions with R2 greater than 0.98 (S005:C02; S008:C01).",
+        "The FE setup reproduces the experimental boundary conditions, screw preload representation, implant material properties, and compression/torsion loading geometry (S005:C03-S006:C01)."
+      ],
+      "calibration": [
+        "The 0.14 contact friction value was treated as a baseline and its fit to the six-month control response was examined in a sensitivity analysis; it was not directly measured at the interface (S005:C03; S012:C01).",
+        "CT-derived HU-to-density and density-to-modulus equations specify material mapping, but no subject-specific postoperative calibration was performed (S005:C02; S014:C01)."
+      ],
+      "validation": [
+        "Predicted and measured control and implanted femur responses were compared after six months, with overall axial correlation r=0.555 (p=0.017), torsional correlation r=0.962 (p<0.0001), and an approximately 12% mean control stiffness difference (S008:C01-S008:C03).",
+        "Implanted-cohort discrepancies were quantified rather than hidden: average axial differences were 18% for lattice and 39% for solid implants, while torsional differences were 12.5% and 11%, respectively (S008:C03)."
+      ],
+      "sensitivity": [
+        "Topology/fixation, friction, and implant-modulus perturbations quantify how acute construct stiffness changes under the two loading modes (S011:C01-S013:C02).",
+        "The sensitivity analyses are numerical extrapolations from one validated configuration; postoperative remodeling, fatigue, and uncertainty in interface parameters were not varied jointly (S010:C01; S014:C03-S014:C05)."
+      ],
+      "application_prediction": [
+        "The model predicts design-stage trends such as near-control stiffness for lattice and solid variants, lower torsional stiffness without flanges, and limited effect of a tenfold modulus reduction (S011:C01-S013:C02).",
+        "Suggestions that lattice/no-flange designs will reduce stress shielding, remain safe against acute failure, or gain torsional strength through later osseointegration are bounded design hypotheses rather than validated clinical outcomes (S014:C03-S014:C05; S015:C01-S015:C02)."
+      ]
+    },
+    "primary_outcomes": [
+      "The FE model agreed reasonably with matched experiments, with stronger agreement in torsion than compression and larger implanted-bone axial discrepancies for solid than lattice implants (S008:C01-S008:C03).",
+      "At Sheep 17, high von Mises stress was concentrated in the caudal shaft, implant middle struts, and screw contact regions; eccentric compression produced both tensile and compressive zones in bone and implant (S009:C01-S009:C02).",
+      "Lattice and fully solid designs had nearly similar predicted axial and torsional stiffness; removing the secondary region reduced stiffness by about 3% in compression and 7.5% in torsion, while the no-flange design reduced it by about 10% and 28%, respectively (S011:C01-S011:C02).",
+      "Increasing friction from 0 to 1 increased maximum force by approximately 20% in compression and 130% in torsion, making interface friction a dominant modeled torsional parameter (S012:C01).",
+      "Reducing implant modulus tenfold had little compression effect and about a 9% torsional reduction; a hundredfold reduction produced approximately 12% lower axial and 19% lower torsional stiffness (S013:C01-S013:C02).",
+      "Micro-CT observations at six months showed marked resorption beneath solid flanges and more evident ingrowth within lattice implants; these postoperative state changes were absent from the preoperative-CT FE model and explain part of the validation mismatch (S008:C03-S008:C04; S014:C01-S014:C02)."
+    ],
+    "highest_evidence_level_reached": "An in-vivo-validated, subject-specific FE prediction of quasi-static ovine bone-implant mechanics with controlled numerical sensitivity analyses; it does not establish fatigue durability, long-term remodeling control, fracture prevention, or human clinical effectiveness."
+  },
+  "argument_map": {
+    "central_claim": "A CT-based patient-specific FE model can reproduce much of the acute axial and torsional behavior of ovine endoprosthetic reconstructions and can screen how topology, fixation, friction, and modulus alter construct stiffness, but its design predictions remain bounded by postoperative remodeling, small and unbalanced implant groups, and the absence of fatigue or clinical endpoints.",
+    "data": [
+      "Matched compression and torsion tests from nine sheep provide experimental stiffness and force-displacement references for control and implanted femora (S006:C01; S008:C01-S008:C03).",
+      "CT-derived geometry/material mapping, contact and screw-preload assumptions, and mesh-convergence checks define the computational model (S005:C01-S005:C04).",
+      "Topology, friction, and modulus simulations quantify acute stiffness changes, while micro-CT observations reveal the postoperative remodeling state omitted by preoperative inputs (S008:C03; S011:C01-S013:C02)."
+    ],
+    "warrant": "Agreement with independent physical tests supports use of the model as a screening tool for the tested loading setup; a sensitivity result is a conditional prediction and should not be read as proof of durability, osseointegration, or clinical safety.",
+    "backing": [
+      "The model preserves the experimental eccentric loading geometry and obtains a very high overall torsional correlation, strengthening the mechanical validation claim (S006:C01; S008:C01-S008:C03).",
+      "The direction of solid-implant mismatch is consistent with six-month resorption under solid flanges, while lattice ingrowth is qualitatively more compatible with the model (S008:C03; S014:C01-S014:C02)."
+    ],
+    "qualifier": "Evidence applies to nine ovine distal-femur reconstructions, the specified Ti6Al4V/FCCZ designs, quasi-static 1.5-mm loading, and the modeled contact and material assumptions.",
+    "rebuttals_or_boundaries": [
+      "Preoperative CT cannot represent six-month bone ingrowth or stress-shielding resorption, so implanted solid-bone errors do not necessarily indicate a flawed acute FE formulation (S014:C01-S014:C02).",
+      "The no-flange comparison changes fixation from four screws/flanges to two screws through the implant, confounding topology and fixation effects (S011:C01-S011:C02; S014:C04).",
+      "Stress contours and stiffness are mechanical proxies; the study did not observe implant fracture, fatigue failure, loosening, or human outcomes (S009:C01; S014:C03-S014:C05).",
+      "Claims that stronger osseointegration will later increase torsional stiffness are inferred from friction and prior work, not measured longitudinally in this model (S012:C01; S014:C04)."
+    ],
+    "argument_coherence": "moderate_to_high_for_acute_FE_validation_and_screening; moderate_for_remodeling_and_translational_implications"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "Experimental force-displacement behavior and axial/torsional stiffness from three-repeat compression and torsion tests on nine sheep at six months (S006:C01; S008:C01-S008:C03).",
+      "Micro-CT evidence of solid-flange resorption and lattice-region ingrowth in implanted femora (S008:C03-S008:C04).",
+      "The physical implant composition/design and reported loading geometry used to instantiate the FE model (S004:C01-S004:C02; S006:C01)."
+    ],
+    "predicted": [
+      "FE force-displacement curves, stiffness, stress contours, neutral planes, and high-stress regions for control and implanted bones (S008:C01-S009:C02).",
+      "All topology/fixation, friction, and implant-modulus sensitivity outcomes, including percentage changes in force or stiffness (S011:C01-S013:C02).",
+      "Design-stage implications for lattice/no-flange constructs under the modeled compression and torsion boundary conditions (S014:C03-S014:C05)."
+    ],
+    "inferred": [
+      "Preoperative material mapping explains why solid-implant predictions diverge more after six months, because remodeling and ingrowth alter the experimental bone state (S008:C03; S014:C01-S014:C02).",
+      "Lattice architecture may lower stress shielding and support ingrowth without increasing acute mechanical risk for the tested designs, but the bridge to long-term fixation is not demonstrated (S014:C03-S014:C05).",
+      "Greater interface friction could represent stronger biological integration and thereby increase later torsional stiffness; this is a mechanistic interpretation of a parameter sweep, not an in-vivo time-course result (S012:C01; S014:C04)."
+    ],
+    "recommended": [
+      "Add postoperative CT/material updating or coupled remodeling and ingrowth models, and validate them longitudinally against matched bone-interface measurements.",
+      "Test fatigue, wear, corrosion, fracture, loosening, and screw-interface behavior under clinically representative cyclic loading, with larger and balanced animal groups and explicit uncertainty propagation.",
+      "Evaluate lattice/no-flange concepts in orthotopic long-term models before translating acute FE screening results to patient-specific clinical design."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Axial/torsional stiffness and force-displacement correlation indicate construct mechanics under the tested setup; they do not equal fracture-free survival or clinical function.",
+      "Von Mises stress concentrations identify candidate failure-risk regions but do not measure crack initiation, fatigue life, or implant breakage.",
+      "Micro-CT ingrowth/resorption is an interface-state proxy and does not establish durable osseointegration, aseptic-loosening prevention, or remodeling balance.",
+      "Friction-coefficient sweeps explore a contact parameter; they are not a substitute for measured biological bonding or time-dependent interface mechanics."
+    ],
+    "overclaim_risks": [
+      "The abstract and conclusion frame lattice implants as reducing stress shielding and supporting natural healing, although the FE model does not simulate remodeling or ingrowth and the animal groups are small (S001:C01; S015:C01-S015:C02).",
+      "The no-flange result may be attributed to shape when the modeled design also changes flange presence and screw fixation, making a single-factor topology interpretation unsafe (S011:C01-S011:C02).",
+      "Statements that lattice porosity does not increase acute failure likelihood are conditional on the tested geometry, loads, material model, and no-fatigue assumption (S014:C03-S014:C05).",
+      "Using a friction value selected for agreement with controls to imply stronger postoperative integration and higher future torsional strength extends a parameter sensitivity beyond its validation scope (S012:C01; S014:C04)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Move from patient-specific reconstruction risk to a concrete validation gap and screening objective.",
+      "execution": "The introduction links variable tumor/resection geometry and modulus trade-offs to stress shielding, fracture, and loosening, then identifies the absence of implanted-bone experimental validation before stating the ovine FE objective (S002:C01-S002:C03).",
+      "locator": "S002:C02",
+      "effectiveness": "high",
+      "transferable_principle": "End an engineering introduction by naming the unvalidated decision, the comparator or validation target, and the bounded design use of the proposed model.",
+      "failure_mode": "Do not let a broad patient-specific or clinical motivation imply that a preclinical acute-mechanics model has already demonstrated patient benefit."
+    },
+    {
+      "section": "methods",
+      "move": "Separate experimental setup, FE construction, contact assumptions, and statistical comparison so validation roles remain auditable.",
+      "execution": "Animal allocation and implant manufacture precede CT segmentation, HU-based material mapping, mesh/contact/preload choices, matched 1.5-mm loading, and Spearman comparison (S003:C01-S007:C01).",
+      "locator": "S005:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For FE validation, report physical boundary conditions and model assumptions in parallel, then name the statistic and the exact quantity being compared.",
+      "failure_mode": "A detailed mesh description cannot compensate for omitted postoperative state, interface, or uncertainty assumptions."
+    },
+    {
+      "section": "results",
+      "move": "Report measured-model agreement before opening the design-sensitivity branch.",
+      "execution": "The paper first gives correlation and group-specific discrepancies, then reports stress localization and finally treats topology, friction, and modulus as numerical sensitivity outputs (S008:C01-S013:C02).",
+      "locator": "S008:C03",
+      "effectiveness": "high",
+      "transferable_principle": "Keep validation results distinct from downstream what-if simulations, and carry adverse or discordant findings into the interpretation.",
+      "failure_mode": "Combining experimental agreement and unvalidated variants in one success statement obscures which claims are measured."
+    },
+    {
+      "section": "discussion",
+      "move": "Explain model-experiment discrepancies through a state mismatch before drawing design implications.",
+      "execution": "The discussion attributes larger solid-implant differences to remodeling/resorption and lattice ingrowth that developed after preoperative CT, then distinguishes the validated acute prediction from proposed future fatigue and remodeling extensions (S014:C01-S014:C03).",
+      "locator": "S014:C01",
+      "effectiveness": "high",
+      "transferable_principle": "When input geometry/material state and validation state differ, state the direction of the mismatch and how it can bias each comparator before calling the model accurate or inaccurate.",
+      "failure_mode": "Treating postoperative remodeling as either noise or proof of implant superiority without a coupled longitudinal model overstates the explanation."
+    },
+    {
+      "section": "discussion",
+      "move": "Make geometry and fixation confounding explicit in design recommendations.",
+      "execution": "The discussion compares lower stiffness for non-filling and no-flange variants while noting that flange and screw arrangements alter load distribution and may interact with later ingrowth (S014:C03-S014:C05).",
+      "locator": "S014:C04",
+      "effectiveness": "moderate",
+      "transferable_principle": "Describe a design variant as a bundled configuration unless geometry, fixation, contact, and material factors were isolated experimentally or computationally.",
+      "failure_mode": "Calling a no-flange result a pure topology effect ignores its changed fixation path and interface assumptions."
+    },
+    {
+      "section": "conclusion",
+      "move": "Close with the validated mechanical contribution, then mark lattice/remodeling benefits and future tests as conditional.",
+      "execution": "The conclusion recaps nine-sheep validation and modulus findings, mentions lattice and friction implications, and ends by requesting larger, longer in-vivo/ex-vivo work (S015:C01-S015:C02).",
+      "locator": "S015:C02",
+      "effectiveness": "moderate",
+      "transferable_principle": "A translational conclusion should state what the model actually predicts, preserve the endpoint boundary, and place durability or clinical claims in the future-work sentence.",
+      "failure_mode": "Phrases such as natural healing or improved patient outcomes can outrun the quasi-static ovine endpoint if not qualified."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Preoperative CT inputs omit six-month bone ingrowth and remodeling, especially resorption under solid flanges (S014:C01-S014:C02).",
+      "Validation data were obtained opportunistically from an existing animal study rather than from a study designed specifically for FE calibration (S014:C03).",
+      "Fatigue was not modeled; future fatigue tests and fatigue analysis were identified as needed (S014:C03-S014:C04).",
+      "Interface friction could not be measured directly, motivating a parameter sensitivity analysis (S012:C01).",
+      "Larger samples and longer-term in-vivo/ex-vivo assessment were requested (S015:C02)."
+    ],
+    "reader_identified": [
+      "The implant arms are small and unbalanced (six solid versus three lattice), and the packet gives no power calculation, randomization, or blinding information.",
+      "The no-flange variant changes both flange geometry and screw fixation (two screws through the implant versus the four-screw clinical configuration), so topology and fixation effects are confounded.",
+      "Only the bone mesh received an explicit convergence statement; uncertainty in HU mapping, screw preload, contact, mesh quality, and implant strut resolution is not propagated.",
+      "Spearman correlations and percentage differences are reported without confidence intervals or a prespecified acceptance criterion, and repeated tests may not be statistically independent.",
+      "The high-stress localization example is centered on one sheep, and no FE-predicted stress was tied to an observed fracture, loosening, or fatigue endpoint.",
+      "Sensitivity variants were not independently validated after changing fixation, friction, or modulus, and the model does not evolve with tissue integration."
+    ],
+    "likely_bias_direction": [
+      "Using preoperative bone properties for six-month solid implants likely overpredicts stiffness relative to remodeled/resorbed bone, while the direction for lattice constructs depends on the balance of ingrowth and remodeling.",
+      "Selecting 0.14 friction because it best matched the control can make the baseline appear more representative than a directly measured patient-specific interface value.",
+      "The three-animal lattice arm and favorable lattice-ingrowth observations may make lattice benefits look more certain than the design and sample allow.",
+      "A no-flange variant with a changed screw path may attribute fixation-driven load redistribution to implant shape and bias design recommendations."
+    ],
+    "scope_boundary": "The evidence supports a preclinical FE screening workflow for acute quasi-static mechanics of patient-specific ovine distal-femur reconstructions under the tested compression and eccentric torsion conditions. It does not establish fatigue life, fracture avoidance, durable osseointegration, stress-shielding prevention, aseptic-loosening reduction, or human clinical benefit."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC11111884-01",
+      "capability": "Keep model validation, numerical sensitivity, and translational recommendation as three separate evidence tiers, with each result carrying its own state and endpoint label.",
+      "manuscript_use": "FE Results ordering, Discussion synthesis, and abstract compression.",
+      "applicable_domains": [
+        "finite_element_biomechanics",
+        "patient_specific_implants",
+        "additive_manufacturing"
+      ],
+      "applicable_study_designs": [
+        "in_vivo_validated_computational",
+        "mixed_numerical_experimental"
+      ],
+      "supporting_locators": [
+        "S008:C01",
+        "S010:C01",
+        "S011:C01",
+        "S014:C03"
+      ],
+      "counterexample_or_boundary": "Agreement with control and implanted tests does not validate every altered topology, friction value, modulus, or long-term biological outcome.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC11111884-02",
+      "capability": "Use a pre- versus postoperative state ledger to explain directional validation mismatch without discarding a model that is valid for its stated acute state.",
+      "manuscript_use": "Validation Discussion and limitations writing.",
+      "applicable_domains": [
+        "bone_remodeling",
+        "implant_biomechanics",
+        "finite_element_biomechanics"
+      ],
+      "applicable_study_designs": [
+        "animal_validated_FE",
+        "longitudinal_implant_modeling"
+      ],
+      "supporting_locators": [
+        "S005:C01",
+        "S008:C03",
+        "S014:C01",
+        "S014:C02"
+      ],
+      "counterexample_or_boundary": "A plausible state mismatch is an interpretation; it becomes a stronger explanation only when postoperative geometry/material changes are measured and incorporated longitudinally.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC11111884-03",
+      "capability": "Audit multi-factor implant variants by listing every changed geometry, fixation, contact, and material variable before assigning a causal label to a stiffness difference.",
+      "manuscript_use": "Comparator tables, sensitivity interpretation, and design recommendations.",
+      "applicable_domains": [
+        "implant_design",
+        "additive_manufacturing",
+        "finite_element_biomechanics"
+      ],
+      "applicable_study_designs": [
+        "parametric_FE",
+        "design_screening"
+      ],
+      "supporting_locators": [
+        "S011:C01",
+        "S011:C02",
+        "S014:C04"
+      ],
+      "counterexample_or_boundary": "The no-flange comparison changes the screw load path, so it cannot isolate flange removal from fixation redesign.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC11111884-04",
+      "capability": "Translate stress, stiffness, friction, and ingrowth observations through explicit proxy bridges instead of treating any one as a clinical failure or healing endpoint.",
+      "manuscript_use": "Discussion, Conclusion, and evidence-boundary audit.",
+      "applicable_domains": [
+        "bone_implants",
+        "stress_shielding",
+        "osseointegration"
+      ],
+      "applicable_study_designs": [
+        "preclinical_FE",
+        "animal_mechanical_validation"
+      ],
+      "supporting_locators": [
+        "S009:C01",
+        "S012:C01",
+        "S014:C04",
+        "S015:C01"
+      ],
+      "counterexample_or_boundary": "A mechanical proxy can support a bounded mechanism, but fatigue, loosening, tissue function, and patient outcomes require their own measurements.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_to_high",
+    "methods_transparency": "moderate",
+    "validation_credibility": "moderate_to_high_for_tested_acute_mechanics",
+    "outcome_uncertainty_reporting": "low_to_moderate",
+    "comparator_fairness": "moderate_for_lattice_vs_solid_and_parameter_sweeps; low_to_moderate_for_no_flange_due_to_fixation_confounding",
+    "conclusion_proportionality": "moderate_for_FE_screening; low_to_moderate_for_healing_and_patient-outcome language",
+    "critical_weaknesses": [
+      "Preoperative CT/material state is compared with six-month remodeled and ingrown bone.",
+      "Small, unbalanced solid and lattice groups limit biological and statistical generalization.",
+      "No fatigue, fracture, loosening, cyclic interface, or longitudinal remodeling endpoint.",
+      "No-flange design changes fixation as well as geometry, preventing a clean topology attribution.",
+      "Numerical variants and friction assumptions are not independently validated."
+    ],
+    "overall_credibility": "moderate_to_high for the reported ovine quasi-static FE validation and conditional design screening; moderate for the remodeling explanation; low for claims of fatigue resistance, durable osseointegration, stress-shielding prevention, or clinical benefit"
+  },
+  "summary_zh": "这是一项以九只绵羊为基础的患者特异性骨肿瘤重建有限元研究：右侧植入实体或FCCZ晶格Ti6Al4V假体，左侧股骨作对照，用术前CT建立异质骨模型，再与六个月后的压缩和偏心扭转载荷实验对照。整体扭转相关性很强，压缩相关性中等；实体植入的轴向误差较大，可由术后骨吸收和应力遮挡解释，晶格植入则见到更多骨长入。参数分析显示，实体与晶格的急性刚度接近，无翼缘设计会显著降低扭转刚度，摩擦和极低假体模量对结果影响明显。最可迁移的写作能力是把实测验证、数值敏感性和临床推断分层，并在解释误差时明确术前/术后状态差异；这些结果支持设计筛选，不等于疲劳寿命、长期固定或患者获益。",
+  "reader_notes": [
+    "Primary semantic reader reviewed all 32 non-reference packet locators from S001:C01 through S015:C02 in order.",
+    "Full-text classification corrects the clinical/observational cue: this is preclinical ovine computational-mechanical research with experimental validation.",
+    "The model is validated against matched animal mechanics, but its sensitivity variants, postoperative remodeling, fatigue behavior, and clinical outcomes are not independently validated.",
+    "No source sentence was copied; claims are paraphrased and tied to packet locators for audit."
+  ],
+  "selection": {
+    "selection_reason": "manifest_all",
+    "primary_stratum": "additive_manufacturing"
+  },
+  "source": {
+    "record_path": "records/PMC11111884.json.gz",
+    "source_record_sha256": "a9669899f94d16b7a94e4f52f7b97826603d16911b9c3a9cd08a1bd23b4c3bca",
+    "source_hash": "a9669899f94d16b7a94e4f52f7b97826603d16911b9c3a9cd08a1bd23b4c3bca"
+  }
+}

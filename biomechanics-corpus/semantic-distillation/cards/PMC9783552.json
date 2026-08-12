@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9783552",
+  "paper_id": "doi:10.3390/polym14245460",
+  "pmcid": "PMC9783552",
+  "source_record_sha256": "327f8d244a66a2ffcfc85247fd89a6a85afe12b0adab6eeb82091d9d40c04a66",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f8b537b8eff698309beaf16b0fbf705bfe6ada3e40bf56277923d66df5ddf8a2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive Manufacturing of Polymer/Mg-Based Composites for Porous Tissue Scaffolds",
+    "authors": "Ali F, Kalva SN, Koç M.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14245460",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

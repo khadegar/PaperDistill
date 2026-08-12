@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10398913",
+  "paper_id": "doi:10.1186/s13018-023-04050-7",
+  "pmcid": "PMC10398913",
+  "source_record_sha256": "6e99ad072c3a42f09698b918718197851081188a8a6d23de688240fe74d8898b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "564474429606588ad050a98e0987eb113c3b5a43f85eb81fdeaaf4e3afdb6e10",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A novel animal model of osteonecrosis of the femoral head based on 3D printing technology",
+    "authors": "Li Y, Zhang J, Zhao Y, Tian R, Yang P.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-04050-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

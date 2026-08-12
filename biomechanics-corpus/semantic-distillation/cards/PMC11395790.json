@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11395790",
+  "paper_id": "doi:10.3390/ma17174416",
+  "pmcid": "PMC11395790",
+  "source_record_sha256": "f50e3fb2c8a4cc0abf8d81c6a0ce20da0d97321f23c4388beacd8c13e1116087",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "eaf11571a60480ca22ebac039d34245438985052abe77a5708bb44dd1e2089d9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Connector Design on Displacement and Micromotion in Tooth-Implant Fixed Partial Dentures Using Different Lengths and Diameters: A Three-Dimensional Finite Element Study",
+    "authors": "Mously HA, Naguib GH, Hashem ABH, Abougazia AO, Binmahfooz AM, Hamed MT.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17174416",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

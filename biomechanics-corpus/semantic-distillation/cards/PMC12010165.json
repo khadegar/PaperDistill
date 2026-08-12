@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12010165",
+  "paper_id": "doi:10.1093/jbmr/zjaf026",
+  "pmcid": "PMC12010165",
+  "source_record_sha256": "b5fb5e72cc3a73e1c953dac4238c43194657bd762031f0b1b7ce8351a9d6277d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a906bdd679ea35c273c5f6de6a4d897098ce2df9da588bcfb31a1af555301d10",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Ambulatory children with spastic cerebral palsy have smaller bone area and deficits in trabecular microarchitecture",
+    "authors": "Zimmermann EA, Veilleux LN, Gagnon M, Audet D, Yap R, Julien C, Hosseinitabatabaei S, Rioux Trottier E, Willie BM, Carriero A, Farmer JP.",
+    "year": 2025,
+    "journal": "Journal of Bone and Mineral Research",
+    "doi": "10.1093/jbmr/zjaf026",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

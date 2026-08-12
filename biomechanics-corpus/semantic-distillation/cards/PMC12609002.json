@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12609002",
+  "paper_id": "doi:10.3390/jcm14217669",
+  "pmcid": "PMC12609002",
+  "source_record_sha256": "c9f0d644f134a9a921ae138239fe52cf5555f70d183b22e1b5f8f18c67815cec",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d11d4fe4dd9da5d596577d6eb9054973685e3d26e2e8ac42abeeaa0b268adaa8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Quality Beyond DXA in People Living with HIV: A Systematic Review of HR-pQCT, TBS, Microindentation, and Vertebral Fractures",
+    "authors": "Razvan DV, Rosca O, Bratosin F, Predescu V, Vlad SV, Vlad A.",
+    "year": 2025,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm14217669",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

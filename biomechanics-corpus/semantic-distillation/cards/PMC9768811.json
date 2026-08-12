@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9768811",
+  "paper_id": "doi:10.1021/acsabm.2c00764",
+  "pmcid": "PMC9768811",
+  "source_record_sha256": "6a28066780ea455cd6ce0eefa56a95c505892f537478bb7d29bfb6834740409b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cb358e3ee41b01683313723ebae5f343c8600f25d166d01d2dd4f7b9ae9f5008",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biocompatibility of a Zr-Based Metallic Glass Enabled by Additive Manufacturing",
+    "authors": "Larsson L, Marattukalam JJ, Paschalidou EM, Hjörvarsson B, Ferraz N, Persson C.",
+    "year": 2022,
+    "journal": "ACS Applied Bio Materials",
+    "doi": "10.1021/acsabm.2c00764",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

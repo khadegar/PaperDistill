@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10045247",
+  "paper_id": "doi:10.3390/biomedicines11030697",
+  "pmcid": "PMC10045247",
+  "source_record_sha256": "61ca43bcaf7328999f6460c0e8a253df5479f02ec675ad594904370fb7f17b6e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8d9f8031ec8e16547e5c53a879c6eec3eedc536d6da9ca126c994ad13dc473fd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Combining Electrostimulation with Impedance Sensing to Promote and Track Osteogenesis within a Titanium Implant",
+    "authors": "Engel N, Dau M, Engel V, Franz D, Klemmstein F, Thanisch C, Kolb JF, Frank M, Springer A, Köhling R, Bader R, Frerich B, Wiesmann N, Heimes D, Kämmerer PW.",
+    "year": 2023,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines11030697",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

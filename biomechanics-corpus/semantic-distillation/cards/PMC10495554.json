@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10495554",
+  "paper_id": "doi:10.1016/j.jot.2023.07.004",
+  "pmcid": "PMC10495554",
+  "source_record_sha256": "27b944baf1aff1ae4e75b4c2eff5579ee27f71c7549c37bd3c34882457f83068",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ad0b2329a17fff79d045b130dec0fa06373910e8a10cf8c8e102a1c048629adf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Discovery of multipotent progenitor cells from human induced membrane: Equivalent to periosteum-derived stem cells in bone regeneration",
+    "authors": "Wu H, Tan J, Sun D, Wang X, Shen J, Wang S, Dai Q, Wei Z, Li G, Lin S, Luo F, Xie Z.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2023.07.004",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

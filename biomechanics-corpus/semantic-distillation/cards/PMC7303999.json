@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7303999",
+  "paper_id": "doi:10.1016/j.heliyon.2020.e04189",
+  "pmcid": "PMC7303999",
+  "source_record_sha256": "228b44e975ab7655f97fc9d098abdb9ee242a2744af01e749e7919191394922c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cb31230208220c4bb828d26cff62c06ed569f3cd3ee41ec2e1ebe2cae942ff51",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Integration of microbubbles with biomaterials in tissue engineering for pharmaceutical purposes",
+    "authors": "Esmaeili J, Rezaei FS, Beram FM, Barati A.",
+    "year": 2020,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2020.e04189",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

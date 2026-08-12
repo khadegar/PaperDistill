@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5015095",
+  "paper_id": "doi:10.1038/srep32964",
+  "pmcid": "PMC5015095",
+  "source_record_sha256": "de15c1cf2ab69faf699e241cf729a61def646dc184374b917fb82d7b787a1ee6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5bb172283ffeafab3fadbe9d0550fbab7e99308ed694a9dab36c6773f387d08f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of single and binary doping of strontium and lithium on in vivo biological properties of bioactive glass scaffolds",
+    "authors": "Khan PK, Mahato A, Kundu B, Nandi SK, Mukherjee P, Datta S, Sarkar S, Mukherjee J, Nath S, Balla VK, Mandal C.",
+    "year": 2016,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep32964",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

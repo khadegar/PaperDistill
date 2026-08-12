@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5269721",
+  "paper_id": "doi:10.1038/srep41331",
+  "pmcid": "PMC5269721",
+  "source_record_sha256": "0e9867284dc442dc2434f15249864674b62b3128812154453bb2c125cedd676c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "190f75b232edd619bc413c995af61497a3f9d62d30c158637f607f996284ff87",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "RhBMP-2 loaded 3D-printed mesoporous silica/calcium phosphate cement porous scaffolds with enhanced vascularization and osteogenesis properties",
+    "authors": "Li C, Jiang C, Deng Y, Li T, Li N, Peng M, Wang J.",
+    "year": 2017,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep41331",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

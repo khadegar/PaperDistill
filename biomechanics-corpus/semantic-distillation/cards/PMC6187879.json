@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6187879",
+  "paper_id": "doi:10.4103/jispcd.jispcd_183_18",
+  "pmcid": "PMC6187879",
+  "source_record_sha256": "e7a753ff73ff5d5800739ad84ab1de70e0579ba3e8c74cc033954ae42efe4033",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2dfe40e3568db5d8879841abce04757f2a254ca00e9b43f5c767fd845f05e534",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Behavior of an Implant System Using Polyether Ether Ketone Bar: Finite Element Analysis",
+    "authors": "Jaros OAL, De Carvalho GAP, Franco ABG, Kreve S, Lopes PAB, Dias SC.",
+    "year": 2018,
+    "journal": "Journal of International Society of Preventive & Community Dentistry",
+    "doi": "10.4103/jispcd.jispcd_183_18",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

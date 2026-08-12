@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9300829",
+  "paper_id": "doi:10.3389/fbioe.2022.832727",
+  "pmcid": "PMC9300829",
+  "source_record_sha256": "20c574258b054e264b41a2c001445ec9ef4e43ecd4049c2de640c0a56c9c1061",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "60354ceb2f88b8686e205add04d0008aa9e2577222994dd9a048ceebdbfa0149",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioinspired Protein/Peptide Loaded 3D Printed PLGA Scaffold Promotes Bone Regeneration",
+    "authors": "Song X, Li X, Wang F, Wang L, Lv L, Xie Q, Zhang X, Shao X.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.832727",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

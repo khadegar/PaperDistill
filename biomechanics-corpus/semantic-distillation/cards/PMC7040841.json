@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7040841",
+  "paper_id": "doi:10.3390/ma13030628",
+  "pmcid": "PMC7040841",
+  "source_record_sha256": "78ea6fd65327c834e2d5423b3189f454f37e6ab68c183fc3a0aa37bf6e4d55d5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "868443f5b84ad1152200fc518d27ef733df175bfb8cad852d982ffbf835dbfdb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dolomite-Foamed Bioactive Silicate Scaffolds for Bone Tissue Repair",
+    "authors": "Fiume E, Tulyaganov D, Ubertalli G, Verné E, Baino F.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13030628",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

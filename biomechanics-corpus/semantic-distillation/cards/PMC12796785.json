@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12796785",
+  "paper_id": "doi:10.1530/eor-2025-0046",
+  "pmcid": "PMC12796785",
+  "source_record_sha256": "bfc01fe7f6bda4779ad8ffe56f1fc57f07ff4991dc74e4a152532b2b72a87d52",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bee3c165d351f1b934e609bf6682f48bad394075d51088a2a90309091fffa7b0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Valgus knee deserves personalized total knee arthroplasty",
+    "authors": "Beckers G, Kiss MO, Massé V, Vendittoli PA.",
+    "year": 2026,
+    "journal": "EFORT Open Reviews",
+    "doi": "10.1530/eor-2025-0046",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

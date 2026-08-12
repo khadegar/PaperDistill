@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3679049",
+  "paper_id": "doi:10.1371/journal.pone.0066263",
+  "pmcid": "PMC3679049",
+  "source_record_sha256": "70a24e7c8b8d1fa154c2870dcbbe4b0505c720c853f6cff24a085ccbb1f3bce8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "14d93c198e0e8736dd43feef0ae24abc0858686f9622364003a6f0f17e68284a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous Tantalum Coatings Prepared by Vacuum Plasma Spraying Enhance BMSCs Osteogenic Differentiation and Bone Regeneration In Vitro and In Vivo",
+    "authors": "Tang Z, Xie Y, Yang F, Huang Y, Wang C, Dai K, Zheng X, Zhang X.",
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0066263",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12291261",
+  "paper_id": "doi:10.1186/s12964-025-02365-y",
+  "pmcid": "PMC12291261",
+  "source_record_sha256": "eb7e7efe70d78baf9ff60ca40f0cf4ac7726a1a671c238588da6836a745e7a41",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c32f34108d53f171a18a947608034b5f3ff5361de665b948121ebf709fa9607a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The mechanobiology of extracellular matrix: a focus on thrombospondins",
+    "authors": "Zhao Y, Lei T, Ge X, Fan L, He Y, Yu Z, Hu S.",
+    "year": 2025,
+    "journal": "Cell Communication and Signaling : CCS",
+    "doi": "10.1186/s12964-025-02365-y",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

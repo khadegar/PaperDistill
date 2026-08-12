@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9575762",
+  "paper_id": "doi:10.1097/md.0000000000030965",
+  "pmcid": "PMC9575762",
+  "source_record_sha256": "7a7c22a1135cabf08acbc920bf7038adf63a9e63c928a68a71368ef07d0925f5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5774de0b9abb007f8e50564cd81c6b6a5e6c2eda4d1bdcb4fe7dc129a1ddadab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of the indirect reduction of posterior pedicle screw fixation for a thoracolumbar burst fracture",
+    "authors": "Song Y, Pang X, Zhu F.",
+    "year": 2022,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000030965",
+    "publication_type": "research-article; Journal Article; Case Reports",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

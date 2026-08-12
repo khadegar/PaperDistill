@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12215966",
+  "paper_id": "doi:10.1038/s41598-025-05004-1",
+  "pmcid": "PMC12215966",
+  "source_record_sha256": "77da30501d12e19bb56d74eb0ac6f291714ddf655d6ecba56b182715ca8579df",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d23bbe7f2d1ab8152d0b1873295565cbf76c648c4e46299b4b314ec513491995",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Freeze drying and Lugol staining of human menisci reveal circumferential fibre volumes to guide meniscus implant design and virtual simulation",
+    "authors": "Moser AC, Fritz J, Otahal A, Kesselring A, Schüssler F, Eisner P, Schneider KH, Teuschl AH, Reissig LF, Zopf L, Nehrer S.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-05004-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

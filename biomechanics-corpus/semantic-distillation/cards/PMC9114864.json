@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9114864",
+  "paper_id": "doi:10.3389/fsurg.2022.891747",
+  "pmcid": "PMC9114864",
+  "source_record_sha256": "dc82bc15d743691aae429da215920c6d3637e9eb3f298b1cb355cb52b6d27b5d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "91bf9d31f47ec58443a545775b1914dfb738b204868cfd6020a533d43a04269e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Evaluation of Seven Fixation Methods for Sagittal Split Ramus Osteotomy with Four Advancement Levels by Finite Element Analysis",
+    "authors": "He Y, Zhang H, Qiao J, Fu X, Xu S, Jin Q, Liu J, Chen Y, Yu B, Niu F.",
+    "year": 2022,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2022.891747",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

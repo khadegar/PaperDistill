@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8999495",
+  "paper_id": "doi:10.3390/jcm11071885",
+  "pmcid": "PMC8999495",
+  "source_record_sha256": "2515165ce2c324ca10f0133649bdde6523076a7e9643b9034e3537aea3a38d85",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b0218edde7f35571c3e4f6b738a08d3014e9bfeaa20dd9fb16a6a942641f38ff",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Silico Finite Element Modeling of Stress Distribution in Osteosynthesis after Pertrochanteric Fractures",
+    "authors": "Lorkowski J, Pokorski M.",
+    "year": 2022,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm11071885",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

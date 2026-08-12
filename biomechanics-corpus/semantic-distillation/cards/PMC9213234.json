@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9213234",
+  "paper_id": "doi:10.1016/j.jot.2022.04.004",
+  "pmcid": "PMC9213234",
+  "source_record_sha256": "89911d2cde9c21205807a6baef738246257023e86d7cf6c987159494b0679248",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7ff85f182d265b77dfdda98d8e56bcab2b158d9e0b651bd78eb1e5f0f8ba2f75",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical translation of a patient-specific scaffold-guided bone regeneration concept in four cases with large long bone defects",
+    "authors": "Laubach M, Suresh S, Herath B, Wille ML, Delbrück H, Alabdulrahman H, Hutmacher DW, Hildebrand F.",
+    "year": 2022,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2022.04.004",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

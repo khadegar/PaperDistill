@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10820754",
+  "paper_id": "doi:10.3390/polym16020198",
+  "pmcid": "PMC10820754",
+  "source_record_sha256": "4b71ea4a63b3e8f56e4915042f9eaa27fb4c097a348b79075ee77bc7184864ff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "25815a2c0c10ffda229c3288697da89f9291e1ec2268ecabc09ad529b6997338",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Magnesium Hydroxide as a Versatile Nanofiller for 3D-Printed PLA Bone Scaffolds",
+    "authors": "Guo W, Bu W, Mao Y, Wang E, Yang Y, Liu C, Guo F, Mai H, You H, Long Y.",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16020198",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

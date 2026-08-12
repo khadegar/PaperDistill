@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7845099",
+  "paper_id": "doi:10.1186/s13018-021-02237-4",
+  "pmcid": "PMC7845099",
+  "source_record_sha256": "e5499fabe6871152ac36193a4f6d336659c4e8641e963dbc117d658cd093af75",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9725127ca704d54f9fffd2b2263271d5584f450979e04beadb26d12998dec851",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical finite element analysis of vertebral column resection and posterior unilateral vertebral resection and reconstruction osteotomy",
+    "authors": "Han Y, Wang X, Wu J, Xu H, Zhang Z, Li K, Song Y, Miao J.",
+    "year": 2021,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-021-02237-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12973581",
+  "paper_id": "doi:10.1186/s40001-026-04001-y",
+  "pmcid": "PMC12973581",
+  "source_record_sha256": "e20352511a59a19af552729e056630258b31a1dea385770db23add7fb86a28f4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "12bf19064509089c587c1cfa0591536905ce0eda04e15372648827d7bcd50c75",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparative biomechanical analysis of pedicle screws versus cortical bone trajectory fixation in the treatment of ankylosing spondylitis",
+    "authors": "Xu Y, Zhang L, Wei G, Li X, Wang H, Cao Z.",
+    "year": 2026,
+    "journal": "European Journal of Medical Research",
+    "doi": "10.1186/s40001-026-04001-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

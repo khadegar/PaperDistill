@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11438226",
+  "paper_id": "doi:10.1186/s12903-024-04890-7",
+  "pmcid": "PMC11438226",
+  "source_record_sha256": "38dd543a769d525850434ba8f9c35403e8e79682597b68b68c1d75b47e07bc14",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4596ae9dda2224ea430245131a47c7d938433cdddcea50a0fb46bab6259f7413",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical behaviour of tilted abutment after fixed partial denture restoration of CAD/CAM materials",
+    "authors": "Zhu T, Chen J, Xu Y, Zhu Z, Wang J, Pei X, Qiao M, Cheng B, Li R, Wan Q.",
+    "year": 2024,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-024-04890-7",
+    "publication_type": "research-article; Journal Article; Case Reports",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

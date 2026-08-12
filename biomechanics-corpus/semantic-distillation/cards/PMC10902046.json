@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10902046",
+  "paper_id": "doi:10.1007/s10237-023-01768-5",
+  "pmcid": "PMC10902046",
+  "source_record_sha256": "50afcf0a55ee4c13e16ee3688556057449c3779eeb6115d01166f946e94d8654",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1ef18140d264c770f2e66c589df52521f59f85ab5bde953bddd3cd27f8d9e9c7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Prediction of skull fractures in blunt force head traumas using finite element head models",
+    "authors": "Lindgren N, Henningsen MJ, Jacobsen C, Villa C, Kleiven S, Li X.",
+    "year": 2023,
+    "journal": "Biomechanics and Modeling in Mechanobiology",
+    "doi": "10.1007/s10237-023-01768-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

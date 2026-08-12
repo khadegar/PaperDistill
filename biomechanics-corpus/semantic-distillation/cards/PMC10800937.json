@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10800937",
+  "paper_id": "doi:10.3389/fcvm.2023.1331206",
+  "pmcid": "PMC10800937",
+  "source_record_sha256": "aa21361aff7825149f1ce7a7b02a18afa518c5aa3a70ab6a9844ecd5a640d668",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "43491eea821d1e53aa97eb33221ff29c3f7b8d3ca78a010af514a93ddd6f14d6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimizing percutaneous pulmonary valve implantation with patient-specific 3D-printed pulmonary artery models and hemodynamic assessment",
+    "authors": "Odemis E, Aka İB, Ali MHA, Gumus T, Pekkan K.",
+    "year": 2024,
+    "journal": "Frontiers in Cardiovascular Medicine",
+    "doi": "10.3389/fcvm.2023.1331206",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

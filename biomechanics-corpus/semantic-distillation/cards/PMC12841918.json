@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12841918",
+  "paper_id": "doi:10.3390/jcm15020408",
+  "pmcid": "PMC12841918",
+  "source_record_sha256": "f9e2452a2d49dfd7dcd9c3debc63861ff05bb5b5281b4fdad93df6aef1f0f94c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dd8c6881b46d3bdd0d2a47b81a9b7016c95ddc864b042229a791086030a7f87c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical and Radiological Outcomes of C1–C2 Fixation: 3D-Printed Template vs. Free-Hand Technique",
+    "authors": "Kizmazoglu C, Ur K, Uzunoglu I, Husemoglu B, Ikizoglu E, Sezer M, Coskun E, Arslan M, Sahin HM, Ozer E.",
+    "year": 2026,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm15020408",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

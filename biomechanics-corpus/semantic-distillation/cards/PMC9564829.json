@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9564829",
+  "paper_id": "doi:10.1073/pnas.2206684119",
+  "pmcid": "PMC9564829",
+  "source_record_sha256": "ed253c08827c686d5e70b9c543978b4c70b06f19452f05210fff61028f7a4cb5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "db4d5a3ca2d33591ffd3169b9ba3262f94b2041edf7101d276feb13589839bd1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Gaussian curvature–driven direction of cell fate toward osteogenesis with triply periodic minimal surface scaffolds",
+    "authors": "Yang Y, Xu T, Bei HP, Zhang L, Tang CY, Zhang M, Xu C, Bian L, Yeung KW, Fuh JYH, Zhao X.",
+    "year": 2022,
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "doi": "10.1073/pnas.2206684119",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

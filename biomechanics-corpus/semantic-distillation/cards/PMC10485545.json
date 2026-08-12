@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10485545",
+  "paper_id": "doi:10.4103/jpbs.jpbs_100_23",
+  "pmcid": "PMC10485545",
+  "source_record_sha256": "b1c633b26757375fe1b949c30ce1d1aba74efdb8d004f100ef5211ecef669bbe",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "841e274cfbebc833039b5e47429cd55e74e04ff89e07c59b632fa3b9d4edb684",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Outcome of Implant Diameter and Length on the Distribution of Stress with Immediate Loaded Implants: A 3D Finite Element Analysis",
+    "authors": "Kavitha G, Sonkesriya S, Kumar KA, Almutairi FJ, Parmar PM, Parihar AS, Sonkar TP.",
+    "year": 2023,
+    "journal": "Journal of Pharmacy & Bioallied Sciences",
+    "doi": "10.4103/jpbs.jpbs_100_23",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational"
+    ]
+  },
+  "status": "blank"
+}

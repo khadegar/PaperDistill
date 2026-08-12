@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8602619",
+  "paper_id": "doi:10.1038/s41598-021-02070-z",
+  "pmcid": "PMC8602619",
+  "source_record_sha256": "a7b40703ca234814f2d4679b0364c7c4ad77301014ca382922491a14f20247a8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cb322283d26ff20073f50bf82d64d8b4a910cf0602ba47ffca279ebb73b06070",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of bone formation on orthopedic implant surfaces using an ex-vivo bone bioreactor system",
+    "authors": "Dua R, Jones H, Noble PC.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-02070-z",
+    "publication_type": "research-article; Research Support, U.S. Gov't, Non-P.H.S.; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

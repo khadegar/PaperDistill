@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7955715",
+  "paper_id": "doi:10.1093/rb/rbab007",
+  "pmcid": "PMC7955715",
+  "source_record_sha256": "e932c7ec05e75348970fa3c720401d3b917c35ea62465024c3177215dd7a3db1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "710ac4698177d54b691d4fa95072fdfbbbf3285b951c4b1dcb8e3d1617c6e3bb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tuning filament composition and microstructure of 3D-printed bioceramic scaffolds facilitate bone defect regeneration and repair",
+    "authors": "Chen Y, Huang J, Liu J, Wei Y, Yang X, Lei L, Chen L, Wu Y, Gou Z.",
+    "year": 2021,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbab007",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

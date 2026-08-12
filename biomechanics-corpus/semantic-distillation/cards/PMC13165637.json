@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13165637",
+  "paper_id": "doi:10.3390/polym18091113",
+  "pmcid": "PMC13165637",
+  "source_record_sha256": "744fc569ac69677910176ca37b9df5196876d08b18f3d988b396ce8025b69328",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "709235b136f104e203fa039511b5182fea0e69bdc1d978620baeacb613001699",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Poly(Lactic-Co-Glycolic Acid)-Based Systems in Implantology: Advances in Biomaterial Design, Drug Delivery, and Tissue Regeneration",
+    "authors": "Popescu BA, Belu I, Mocanu AG, Ciocîlteu MV, Calina D, Manda CV, Neamțu J, Nicolaescu OE, Stoian AC, Pîrvu AS.",
+    "year": 2026,
+    "journal": "Polymers",
+    "doi": "10.3390/polym18091113",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

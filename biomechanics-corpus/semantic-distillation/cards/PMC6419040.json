@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6419040",
+  "paper_id": "doi:10.3390/polym11020230",
+  "pmcid": "PMC6419040",
+  "source_record_sha256": "cea072707241e547f8cc4913a3e86d0e6f91f8749483f41c41df57474caa018e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ca6c0dd5e901513652a100580d2ee51d1ec098be4da32b6d2008d78a6e9f4a9c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Application of Multi-Walled Carbon Nanotubes in Bone Tissue Repair Hybrid Scaffolds and the Effect on Cell Growth In Vitro",
+    "authors": "Xu J, Hu X, Jiang S, Wang Y, Parungao R, Zheng S, Nie Y, Liu T, Song K.",
+    "year": 2019,
+    "journal": "Polymers",
+    "doi": "10.3390/polym11020230",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

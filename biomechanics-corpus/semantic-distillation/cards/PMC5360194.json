@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5360194",
+  "paper_id": "doi:10.1016/j.medengphy.2017.01.022",
+  "pmcid": "PMC5360194",
+  "source_record_sha256": "a00e2c5d92712f6827fa80dcc238d9669f4b164e22380d44236153774543ce63",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "407c87f20fe2903a1a3167e19a6661b981067e08c750f83f5642d00d0031256d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Total ankle replacement design and positioning affect implant-bone micromotion and bone strains",
+    "authors": "Sopher RS, Amis AA, Calder JD, Jeffers JRT.",
+    "year": 2017,
+    "journal": "Medical Engineering & Physics",
+    "doi": "10.1016/j.medengphy.2017.01.022",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

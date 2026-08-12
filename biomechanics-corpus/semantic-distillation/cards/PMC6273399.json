@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6273399",
+  "paper_id": "doi:10.3390/molecules21060687",
+  "pmcid": "PMC6273399",
+  "source_record_sha256": "ce2341e8b16507deb4a6001210213018bf12344b6aa538dac4a823d9b4b53988",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "931b2917fca6374ccabdd89e50a6fd093ffe0b2d51a9040feb28103ea58b9952",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Characterization of New PEEK/HA Composites with 3D HA Network Fabricated by Extrusion Freeforming",
+    "authors": "Vaezi M, Black C, Gibbs DM, Oreffo RO, Brady M, Moshrefi-Torbati M, Yang S.",
+    "year": 2016,
+    "journal": "Molecules",
+    "doi": "10.3390/molecules21060687",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

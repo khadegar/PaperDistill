@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11056792",
+  "paper_id": "doi:10.3389/fbioe.2024.1352794",
+  "pmcid": "PMC11056792",
+  "source_record_sha256": "6bf0c9aaf12ab5d4845eac48cef32e5644588f3ba3384e7ed2970703a76a7319",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "afe1a8208fb21635db04e5cb6fce7911822adf1670834ef23516299af9a33835",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Posterior tibial slope influences joint mechanics and soft tissue loading after total knee arthroplasty",
+    "authors": "Guo N, Smith CR, Schütz P, Trepczynski A, Moewis P, Damm P, Maas A, Grupp TM, Taylor WR, Hosseini Nasab SH.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1352794",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8819261",
+  "paper_id": "doi:10.31661/jbpe.v0i0.2005-1116",
+  "pmcid": "PMC8819261",
+  "source_record_sha256": "967bce1742a2e2dfaf4838693e36b01f3a00b776af7fbcf3e4900a4a6aa22670",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8542a033631ce8163b8418a73f0898c170af9a814a6bae7cd4b9db89943ddf66",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Numerical Evaluation of a Porous Tibial-Knee Implant using Gyroid Structure",
+    "authors": "Eltlhawy B, Fouda N, Eldesouky I.",
+    "year": 2022,
+    "journal": "Journal of Biomedical Physics & Engineering",
+    "doi": "10.31661/jbpe.v0i0.2005-1116",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

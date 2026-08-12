@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7178284",
+  "paper_id": "doi:10.3390/ma13071671",
+  "pmcid": "PMC7178284",
+  "source_record_sha256": "39958bf4851c8d53046dc4cecee269a82fa2a26a9461022f063887990eaede0c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "00e14079d10d05e2ca65e4a2d18b319f2fb27978acecce26767c67d35fe1bd84",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Use of ESEM-EDX as an Innovative Tool to Analyze the Mineral Structure of Peri-Implant Human Bone",
+    "authors": "Prati C, Zamparini F, Botticelli D, Ferri M, Yonezawa D, Piattelli A, Gandolfi MG.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13071671",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

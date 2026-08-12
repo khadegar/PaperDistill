@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12884297",
+  "paper_id": "doi:10.13107/jocr.2026.v16.i02.6800",
+  "pmcid": "PMC12884297",
+  "source_record_sha256": "1098947a92914cff490c9eb8aff85ecd5e3f8a4ec2b09c75103975d1834b20fc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ac7ddb72f8dcbb1377c6eb05b669cd2fbdfcb5ebcbb562967fcc9221f9aca788",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Humerus Non-union with Segmental Bone Loss Treated with 3D-printed Prosthesis: A Case Report",
+    "authors": "Jos S, Chandran R, Paul P, Benny K, Jose M.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Case Reports",
+    "doi": "10.13107/jocr.2026.v16.i02.6800",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9182662",
+  "paper_id": "doi:10.1371/journal.pcbi.1010134",
+  "pmcid": "PMC9182662",
+  "source_record_sha256": "a2a5d54f856765340074a4892261fc9619d2beca169bc82696909113f4632c7a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b3aeb2f7bb1dc5b148f9871bedaac5a9e97037e23ca347f7a069727011a89ed6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A phenomenological computational model of the evoked action potential fitted to human cochlear implant responses",
+    "authors": "Ramos-de-Miguel Á, Escobar JM, Greiner D, Benítez D, Rodríguez E, Oliver A, Hernández M, Ramos-Macías Á.",
+    "year": 2022,
+    "journal": "PLoS Computational Biology",
+    "doi": "10.1371/journal.pcbi.1010134",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

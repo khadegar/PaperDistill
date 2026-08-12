@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9297994",
+  "paper_id": "doi:10.1111/jace.18182",
+  "pmcid": "PMC9297994",
+  "source_record_sha256": "58f88822bb2ba919e3becc782a1fbd5cba379d555c7f175c536720aa222a657e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "da0b03a694db9fbe294d6c5bd48b675b8bcd358ecd6ee4a7552672b5fd2f440f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In situ 4D tomography image analysis framework to follow sintering within 3D‐printed glass scaffolds",
+    "authors": "Kondarage AI, Poologasundarampillai G, Nommeots-Nomm A, Lee PD, Lalitharatne TD, Nanayakkara ND, Jones JR, Karunaratne A.",
+    "year": 2021,
+    "journal": "Journal of the American Ceramic Society. American Ceramic Society",
+    "doi": "10.1111/jace.18182",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

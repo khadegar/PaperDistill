@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12077225",
+  "paper_id": "doi:10.1098/rstb.2023.0427",
+  "pmcid": "PMC12077225",
+  "source_record_sha256": "997406c3277ca0a6f139a785fdbcfd56292fddfd0de935d30c662b4d7fca9446",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6367545c4c61a65eff2017f6537c5cd8385eaed75ed1e65889d9b835c2191646",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "When the lung invades: a review of avian postcranial skeletal pneumaticity",
+    "authors": "Moore AJ, Schachner ER.",
+    "year": 2025,
+    "journal": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+    "doi": "10.1098/rstb.2023.0427",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

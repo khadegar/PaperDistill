@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12808889",
+  "paper_id": "doi:10.1016/j.bas.2026.105929",
+  "pmcid": "PMC12808889",
+  "source_record_sha256": "86e281346cf8b19cd400a6db29c9e892e0e4a12689a03173ef6c197c8d0f2562",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a22137510d371d3d79322820f6661aec78eb00b6f8e134dba49721209bc4b86b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Implementation of 3D printing technology for complex spine revision cases that require multilevel anterior spinal support: Over 5-year experience in six cases and costs assessment",
+    "authors": "Magré J, Ramselaar MS, Willemsen K, Weinans H, Schlösser TPC, Kruyt MC.",
+    "year": 2026,
+    "journal": "Brain & Spine",
+    "doi": "10.1016/j.bas.2026.105929",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

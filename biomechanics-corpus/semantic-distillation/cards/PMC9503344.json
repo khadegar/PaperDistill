@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9503344",
+  "paper_id": "doi:10.3390/pharmaceutics14091834",
+  "pmcid": "PMC9503344",
+  "source_record_sha256": "9fbfd1eedaa85991e8a07ae7e375702002809b267ba448cec1e065697d9a9279",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e7d5be8bf2369f4b8aee05a7e9a327b01b92d8f6bac45e29f35d56542b205850",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printing Graphene Scaffolds for Bone Tissue Engineering",
+    "authors": "MacDonald AF, Harley-Troxell ME, Newby SD, Dhar MS.",
+    "year": 2022,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics14091834",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

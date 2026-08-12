@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10295226",
+  "paper_id": "doi:10.3390/bioengineering10060704",
+  "pmcid": "PMC10295226",
+  "source_record_sha256": "4933c184d56669561bd456deb2dd2fcb9ccccc4eba027f7749425b7db5a3324b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1e20c79fedf3bc66a364380cd97179482e5506dcee51ec9b7888041388396085",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dual-Crosslinking of Gelatin-Based Hydrogels: Promising Compositions for a 3D Printed Organotypic Bone Model",
+    "authors": "Shehzad A, Mukasheva F, Moazzam M, Sultanova D, Abdikhan B, Trifonov A, Akilbekova D.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10060704",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

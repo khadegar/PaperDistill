@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7493133",
+  "paper_id": "doi:10.1016/j.bioactmat.2020.09.001",
+  "pmcid": "PMC7493133",
+  "source_record_sha256": "1ac62cc17af2a276171cb9b5d63650171d060dd7121d54158f90170a92ad7e81",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "743bfeb97d308b68c46e6e4e49a9ddabc176e741fc5b346a09a1a2b3c4a8e62f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Accelerated degradation of HAP/PLLA bone scaffold by PGA blending facilitates bioactivity and osteoconductivity",
+    "authors": "Shuai C, Yang W, Feng P, Peng S, Pan H.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2020.09.001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

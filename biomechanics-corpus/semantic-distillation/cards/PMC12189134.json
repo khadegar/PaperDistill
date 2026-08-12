@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12189134",
+  "paper_id": "doi:10.3390/bioengineering12060580",
+  "pmcid": "PMC12189134",
+  "source_record_sha256": "fd9feb043d8b6f3f82b1040252dc269e2a4e006d1fb212c2287055721bce1ec2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "24ce337753d641c2957c8683657aa1aab9d89fe8caf4d0355d94cf32e8f55ad1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hip Fractures: Clinical, Biomaterial and Biomechanical Insights into a Common Health Challenge",
+    "authors": "Luo Y.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12060580",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11303232",
+  "paper_id": "doi:10.3389/fbioe.2024.1395715",
+  "pmcid": "PMC11303232",
+  "source_record_sha256": "68badd72fcaea8b312b1aced95dc5872e126d3b85fa356cc49f9e357ed4a90f1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0abea7fe87739916d2073bf52c2a50574858d70b5ab1cad3db1b8d997a57a34b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of electrical stimulation with alternating fields on the osseointegration of titanium implants in the rabbit tibia - a pilot study",
+    "authors": "Klinder A, Möws F, Ziebart J, Su Y, Gabler C, Jonitz-Heincke A, van Rienen U, Ellenrieder M, Bader R.",
+    "year": 2024,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2024.1395715",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

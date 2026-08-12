@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12214421",
+  "paper_id": "doi:10.1111/os.70062",
+  "pmcid": "PMC12214421",
+  "source_record_sha256": "ef7c06abe48a9a43256c6146b5c03dbcb4d20ab105bef981f9a5086ad4e77c18",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f29b336d32f27ee248d7dafc7824bf57de3e20a395e8289339db0ed5b3498dfe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Customized 3D‐Printed Resurfacing Arthroplasty for the Treatment of Severely Malunited Distal Humerus Associated With Posttraumatic Elbow Stiffness: A Case Report and Review of the Literature",
+    "authors": "Hua K, Zhang J, Gong M, Zha Y, Jiang X.",
+    "year": 2025,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.70062",
+    "publication_type": "case-study; Review; Journal Article; Case Reports",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

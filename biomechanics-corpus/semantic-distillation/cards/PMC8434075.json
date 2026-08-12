@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8434075",
+  "paper_id": "doi:10.3390/ma14175009",
+  "pmcid": "PMC8434075",
+  "source_record_sha256": "7e114d6ae2942c02b4db3deceab026a3f814461b9aa7fcc7af516f9d7211f2f0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6ee510d736d8dd7a0cdf6b7a74853f88968863ebe1500feae8e14ee72b62abfe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical Performance of Chairside Ceramic CAD/CAM Restorations and Zirconia Abutments with Different Internal Implant Connections: In Vitro Study and Finite Element Analysis",
+    "authors": "Giner S, Bartolomé JF, Gomez-Cogolludo P, Castellote C, Pradíes G.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14175009",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8058974",
+  "paper_id": "doi:10.1186/s12891-021-04234-4",
+  "pmcid": "PMC8058974",
+  "source_record_sha256": "2e32f93dab397f67ed8f6e56b6cfc9c9812d51e4d2f0e5ed9979f27864d263ef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "88d750cfc5b52673d3d955370b5aa68eaffd64a89566550b55ee4c90f08ae960",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Standardized artificially created stable pertrochanteric femur fractures present more homogenous results compared to osteotomies for orthopaedic implant testing",
+    "authors": "Schader JF, Zderic I, Gehweiler D, Dauwe J, Mys K, Danker C, Acklin YP, Sommer C, Gueorguiev B, Stoffel K.",
+    "year": 2021,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-021-04234-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

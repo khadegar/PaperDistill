@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12297785",
+  "paper_id": "doi:10.1186/s12951-025-03614-5",
+  "pmcid": "PMC12297785",
+  "source_record_sha256": "8fa774b28d776bf6e602c017ee8796ea10b8b915cc811ffbb4c45cf4430da8ff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "00e23c4819b5c76a4904adfadbd33b2a57fc839246d6d24a39c3d153063cca9a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advanced therapeutic scaffolds of biomimetic periosteum for functional bone regeneration",
+    "authors": "Gupta A, Kim KW, Kurian AG, Jain SK, Bhattacharya S, Singh RK, Kim HW.",
+    "year": 2025,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-025-03614-5",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

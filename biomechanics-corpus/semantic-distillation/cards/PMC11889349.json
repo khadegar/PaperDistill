@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11889349",
+  "paper_id": "doi:10.1016/j.reth.2025.01.026",
+  "pmcid": "PMC11889349",
+  "source_record_sha256": "ec29edb918baa521c760909d8563cd7ac35d241a30860bc1a648543bf1054da1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "62d597d5728e85ce23ed9d656ddf7fad8a9980f13980a59ff050b67375447a44",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Electro-spun piezoelectric PLLA smart composites as a scaffold on bone fracture: A review",
+    "authors": "Mirghaffari M, Mahmoodiyan A, Mahboubizadeh S, Shahbazi A, Soleimani Y, Mirghaffari S, Shahravi Z.",
+    "year": 2025,
+    "journal": "Regenerative Therapy",
+    "doi": "10.1016/j.reth.2025.01.026",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

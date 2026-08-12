@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12559048",
+  "paper_id": "doi:10.1007/s10856-025-06957-5",
+  "pmcid": "PMC12559048",
+  "source_record_sha256": "a0658c24a717df3a5f08453f8e4c14b2082567ed4874db37273a846d7342bc33",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1adb257687bc411cb5306c1579f2db026907da831de359f47c275195dec46fe2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Research on 3D-printed scaffolds with microstructure bio-inspired optimization for orbital bone defect repair",
+    "authors": "Lv X, Liu Y, Wang L, Liu X, Wang S, Xu Z, Ma Y.",
+    "year": 2025,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-025-06957-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

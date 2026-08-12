@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9201971",
+  "paper_id": "doi:10.1093/rb/rbac033",
+  "pmcid": "PMC9201971",
+  "source_record_sha256": "3af313e540a9bfbd1371b74a1e1f45343f41d846adddd85898cd6d542758ce5d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "66a28a68e5bac39d4a9fa7f67388f98a03cb14eb6bff7946fa8c3b561e16c7cf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional-printed polycaprolactone scaffolds with interconnected hollow-pipe structures for enhanced bone regeneration",
+    "authors": "Duan J, Lei D, Ling C, Wang Y, Cao Z, Zhang M, Zhang H, You Z, Yao Q.",
+    "year": 2022,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbac033",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

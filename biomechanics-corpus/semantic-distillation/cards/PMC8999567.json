@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8999567",
+  "paper_id": "doi:10.3390/ijms23073985",
+  "pmcid": "PMC8999567",
+  "source_record_sha256": "0750220b5b003eea703ea06538e0865370e46127fbb01e64a3ddd44bfa099b82",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "17a4a5bc2f9f5c4b940fda7749833a0a8660bd72934dd7d223443af60daf4933",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mesh Ti6Al4V Material Manufactured by Selective Laser Melting (SLM) as a Promising Intervertebral Fusion Cage",
+    "authors": "Przekora A, Kazimierczak P, Wojcik M, Chodorski E, Kropiwnicki J.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms23073985",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

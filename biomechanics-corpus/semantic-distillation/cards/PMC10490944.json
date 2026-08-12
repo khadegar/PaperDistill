@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10490944",
+  "paper_id": "doi:10.1371/journal.pone.0282457",
+  "pmcid": "PMC10490944",
+  "source_record_sha256": "3870f34b0f9fe171481e9589459be37efdfb2ef9f8cc58e497babecb7ed80da2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fc36d99d0661ec1acff74edcfff61e8162801a11a1b593abf71f7686f47b2b6e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osseointegrability of 3D-printed porous titanium alloy implant on tibial shaft bone defect in rabbit model",
+    "authors": "Phuoc HD, Hoang PN, Yang S, Fraser D, Nguyen VT.",
+    "year": 2023,
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0282457",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

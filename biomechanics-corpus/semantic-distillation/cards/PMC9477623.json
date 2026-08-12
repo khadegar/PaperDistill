@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9477623",
+  "paper_id": "doi:10.1155/2022/6833959",
+  "pmcid": "PMC9477623",
+  "source_record_sha256": "f4f1d6b319a0d0129bea7de675f054f9e40595ff340e6f0e21ec8c807005096c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e4f08cecf2fbc4813fae950ad4d47b882b7a6757054add40e24bcac1dd7bef2f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dental 3D Printing Design Based on Neurodegeneration and Virtual Reality Imaging Technology",
+    "authors": "Zhu Y, Lin F, Chen W.",
+    "year": 2022,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2022/6833959",
+    "publication_type": "Retracted Publication; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

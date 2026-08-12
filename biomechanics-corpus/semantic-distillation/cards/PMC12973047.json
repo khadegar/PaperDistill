@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12973047",
+  "paper_id": "doi:10.13107/jocr.2026.v16.i03.6884",
+  "pmcid": "PMC12973047",
+  "source_record_sha256": "33db1d2f731dc4c14c206d6d4e93608f783b70b3318fcc8fdaad6b3e64c7b3e5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "124ef3a187c66de9f202362ac77c786b350c6a98c9057b3cb6ef8e5ec60c57b7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Managing Hip Arthritis in an Above-Knee Amputee: A Case Report of Total Hip Arthroplasty with Surgical Technique and Rehabilitation Considerations",
+    "authors": "Patra SK, Patro DR, Unais TT, Sarma EA, Jaswanth AVSS, Jain M.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Case Reports",
+    "doi": "10.13107/jocr.2026.v16.i03.6884",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

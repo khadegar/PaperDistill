@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7493725",
+  "paper_id": "doi:10.1016/j.msec.2020.111512",
+  "pmcid": "PMC7493725",
+  "source_record_sha256": "356adec0864c7abc4dffd350226b489d89cc3025826128cdf5a28384875234ff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "62231d39dc5ab4952b474658799a078c8f99c9d49a552fae8cf750962d548713",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Interleukin-4 assisted calcium-strontium-zinc-phosphate coating induces controllable macrophage polarization and promotes osseointegration on titanium implant",
+    "authors": "Zhao DW, Zuo KQ, Wang K, Sun ZY, Lu YP, Cheng L, Xiao GY, Liu C.",
+    "year": 2020,
+    "journal": "Materials Science & Engineering. C, Materials for Biological Applications",
+    "doi": "10.1016/j.msec.2020.111512",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

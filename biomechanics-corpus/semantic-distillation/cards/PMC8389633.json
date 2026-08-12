@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8389633",
+  "paper_id": "doi:10.3390/biomedicines9080907",
+  "pmcid": "PMC8389633",
+  "source_record_sha256": "5bb1141327671953d1f128799eccfe587beacb465dd7ac145757ab2460331c39",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6b1d4c0f89bf971eb5db2a4f8377123999dd027fa353d8946f82f760e9ac1a62",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed Ginsenoside Rb1-Loaded Mesoporous Calcium Silicate/Calcium Sulfate Scaffolds for Inflammation Inhibition and Bone Regeneration",
+    "authors": "Chen CY, Shie MY, Lee AK, Chou YT, Chiang C, Lin CP.",
+    "year": 2021,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines9080907",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

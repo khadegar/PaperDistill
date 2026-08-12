@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7084059",
+  "paper_id": "doi:10.1002/jsp2.1078",
+  "pmcid": "PMC7084059",
+  "source_record_sha256": "102cf0ecb8284b5826f18cefa49063555a93b9f15352b3d6543ab7df5240db73",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "88eff8f3a2872ac4627ed00c74488e45b1fdcf3e3a0ccf63ff27e372e8028286",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Load‐transfer in the human vertebral body following lumbar total disc arthroplasty: Effects of implant size and stiffness in axial compression and forward flexion",
+    "authors": "Bonnheim NB, Keaveny TM.",
+    "year": 2020,
+    "journal": "JOR Spine",
+    "doi": "10.1002/jsp2.1078",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

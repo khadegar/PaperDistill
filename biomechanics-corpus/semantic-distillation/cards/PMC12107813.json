@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12107813",
+  "paper_id": "doi:10.1186/s12903-025-06110-2",
+  "pmcid": "PMC12107813",
+  "source_record_sha256": "c79fcc7da750da731bebfd94db09aae0a5ca4b3060683b43d67469b2f2709aa9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bba0029bdbf399a18395952c9fd822b4aef1ab21b54f07c4f6e4604c3734f00e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical and biological properties of 3D-printed porous titanium scaffolds coated with composite growth factors",
+    "authors": "Jiang C, Gong G, Xiao S, Zhang S, Chen D, Song S, Dai H, Wu C, Zou Q, Li J, Wen B.",
+    "year": 2025,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-025-06110-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12881378",
+  "paper_id": "doi:10.1038/s41598-026-36048-6",
+  "pmcid": "PMC12881378",
+  "source_record_sha256": "dc804d9866e9e74a242d5f4521431fa0a0c54a7f9b772c56ffac52c38e45504b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "956d18bdf8cfc96552733cee35fad0ef23e6960af77f5a400d33d551dad0ea73",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Proteomic analysis of endothelial progenitor cells secretome identifies Serpine 1 as a potent regulator of osteogenesis",
+    "authors": "Asbi T, Tamari T, Doppelt-Flikshtain O, Regev-Yehishalom O, Zusmanovich I, Younis A, Oguen-Alon T, Berg T, Bianco-Peled H, Zigdon-Giladi H.",
+    "year": 2026,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-026-36048-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

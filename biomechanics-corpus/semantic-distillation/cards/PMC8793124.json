@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8793124",
+  "paper_id": "doi:10.1177/20417314211065860",
+  "pmcid": "PMC8793124",
+  "source_record_sha256": "b2a90f74652d1865d30073f3e20e8c08b238714fc67267a50a8a0b295d508bca",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "733ec949e157b6e02e1e22f019d0a18aa828a1a67ee45c4738ec0196eac82e86",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Meniscus regeneration by 3D printing technologies: Current advances and future perspectives",
+    "authors": "Stocco E, Porzionato A, De Rose E, Barbon S, De Caro R, Macchi V.",
+    "year": 2022,
+    "journal": "Journal of Tissue Engineering",
+    "doi": "10.1177/20417314211065860",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

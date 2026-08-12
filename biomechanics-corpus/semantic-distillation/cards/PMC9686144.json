@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9686144",
+  "paper_id": "doi:10.23750/abm.v93i5.12839",
+  "pmcid": "PMC9686144",
+  "source_record_sha256": "929cace2e0c2ad4ea9aa75a87f17597e37ae9b8623cfe129e2b600dca1d717e9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "abb2aae76fd2e6348900780fdb153c884c7f79a75d27e1c50635d8acad5bca64",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Case series of four complex spinal deformities: new frontiers in pre-operative planning",
+    "authors": "Facco G, Palmisani R, Pieralisi M, Forcellese A, Martiniani M, Specchia N, Gigante A.",
+    "year": 2022,
+    "journal": "Acta Bio Medica : Atenei Parmensis",
+    "doi": "10.23750/abm.v93i5.12839",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10691291",
+  "paper_id": "doi:10.1177/03635465231206947",
+  "pmcid": "PMC10691291",
+  "source_record_sha256": "163719ece2d0d0f4a27ba1c62c67818f1c290ba608c33ac0947b40d40ee45a98",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "26d8d9088ae5e98e26411c81fc9fb5dc94ce21f058c69237a7a7fd01e3a11c31",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additional Plate Fixation of Hinge Fractures After Varisation Distal Femoral Osteotomies Provides Favorable Torsional Stability: A Biomechanical Study",
+    "authors": "Peez C, Grosse-Allermann A, Deichsel A, Raschke MJ, Glasbrenner J, Briese T, Wermers J, Herbst E, Kittl C.",
+    "year": 2023,
+    "journal": "The American Journal of Sports Medicine",
+    "doi": "10.1177/03635465231206947",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

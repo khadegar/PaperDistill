@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11340161",
+  "paper_id": "doi:10.1186/s13018-024-05006-1",
+  "pmcid": "PMC11340161",
+  "source_record_sha256": "1f2c467c1f39d9359eafd45b3bfb0d9c44f103ce2fb3553b80578bf5567f2be7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6e205496100eff98ac49ea911fa29a36b26d1cdf4d5de5b9684cbf49e6c161f2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stochastic lattice-based porous implant design for improving the stress transfer in unicompartmental knee arthroplasty",
+    "authors": "Deng T, Gong S, Cheng Y, Wang J, Zhang H, Li K, Nie Y, Shen B.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-05006-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

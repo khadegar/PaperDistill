@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12675872",
+  "paper_id": "doi:10.1007/s44445-025-00099-8",
+  "pmcid": "PMC12675872",
+  "source_record_sha256": "656d114af1e78a4e5a742299a1fe399c86c9935d133c67a07e9fa57cbab9dec0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5e3054fd7ecc8939d5db216f5df1216dadf200676bb5f121436d9e21c201a7a7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced implant longevity: Finite element optimization of all-on-four implant designs to minimize jawbone stresses",
+    "authors": "Al-Matrafi T, Ahmed K, Basunbul G, Ismail M, Melaibari A.",
+    "year": 2025,
+    "journal": "The Saudi Dental Journal",
+    "doi": "10.1007/s44445-025-00099-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

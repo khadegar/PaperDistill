@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10333813",
+  "paper_id": "doi:10.1039/d3ra03080f",
+  "pmcid": "PMC10333813",
+  "source_record_sha256": "b89a9a8aceb56b0f213675bd7f16e8c7a3f7334fc3b27ddd69c832220d0fbec7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f06b02a9e75b827e3a4e1c689f6aa3ef0bc4973a8cd093cee4787a9e8e8434f8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Morphologies, mechanical and in vitro behaviors of DLP-based 3D printed HA scaffolds with different structural configurations",
+    "authors": "Liu K, Zhou Q, Zhang X, Ma L, Xu B, He R.",
+    "year": 2023,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d3ra03080f",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

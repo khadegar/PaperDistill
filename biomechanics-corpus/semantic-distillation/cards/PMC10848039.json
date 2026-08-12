@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10848039",
+  "paper_id": "doi:10.1016/j.mtbio.2024.100983",
+  "pmcid": "PMC10848039",
+  "source_record_sha256": "2c35cd529d7fd87ce925cdc2fc80503eb362c1085cc0c569cee8c780dd364ea4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e0ccf8f7b987d09d655d056387255acb13f90d8574f0bd68a1c9a004f0725b5f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cell-permeable bone morphogenetic protein 2 facilitates bone regeneration by promoting osteogenesis",
+    "authors": "Kang M, Lee S, Seo JP, Lee EB, Ahn D, Shin J, Paik YK, Jo D.",
+    "year": 2024,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2024.100983",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

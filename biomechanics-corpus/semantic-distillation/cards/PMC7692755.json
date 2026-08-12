@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7692755",
+  "paper_id": "doi:10.3390/antiox9111052",
+  "pmcid": "PMC7692755",
+  "source_record_sha256": "e981c32f125d1daa4c1aa820f064c92581ddbaacb9197802016009db10dc6389",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8c6abfaab297d74b091b8bcd102579d976e3000cedf54568de26a501367594ed",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Printing-Based Assay and Therapy of Antioxidants",
+    "authors": "Hong S, Purushothaman B, Song JM.",
+    "year": 2020,
+    "journal": "Antioxidants",
+    "doi": "10.3390/antiox9111052",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12660070",
+  "paper_id": "doi:10.3389/fmed.2025.1710981",
+  "pmcid": "PMC12660070",
+  "source_record_sha256": "4d7a7e31bcc544f0051e4988cb0ad9d913426b93abb08c0496dac1431972a875",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3e7411fad3433468aefac07b6f14d13c543bebe54cec4707d4a77feaf7a18f81",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Case Report: Robot-assisted sacral fracture reduction with patient-specific finite element planning",
+    "authors": "Ma Y, Ge J, Hong H, Huang T, Li Y, Sun Z, Sun T.",
+    "year": 2025,
+    "journal": "Frontiers in Medicine",
+    "doi": "10.3389/fmed.2025.1710981",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

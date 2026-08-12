@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6006006",
+  "paper_id": "doi:10.1186/s40729-018-0130-x",
+  "pmcid": "PMC6006006",
+  "source_record_sha256": "b5a8e0a3957d5e91c7ac8ed0755d92a1e2fc12c7184f6763ffca68e3daedd5f0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "42a8e4ecaf969c9006ee4826480023857087c99ec8dd48b4a25c16cea5117b29",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reusing dental implants?: an experimental study for detecting the success rates of re-osseointegration",
+    "authors": "Ulu M, Kılıç E, Soylu E, Kürkçü M, Alkan A.",
+    "year": 2018,
+    "journal": "International Journal of Implant Dentistry",
+    "doi": "10.1186/s40729-018-0130-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8010581",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.03.006",
+  "pmcid": "PMC8010581",
+  "source_record_sha256": "40e09b0eb3ecf818702679a5129a48d44750d2ef5fcccc57bc4c8771207ce1c9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cb717cbc0b8f2f54614932d6dd7348f26c7093fd029fac9085e28f243a59fc83",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Injectable bone cement with magnesium-containing microspheres enhances osteogenesis via anti-inflammatory immunoregulation",
+    "authors": "Tan S, Wang Y, Du Y, Xiao Y, Zhang S.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.03.006",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

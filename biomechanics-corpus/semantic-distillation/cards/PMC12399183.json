@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12399183",
+  "paper_id": "doi:10.7759/cureus.89213",
+  "pmcid": "PMC12399183",
+  "source_record_sha256": "5b1b5b7efee6410c53b10387437427847cf9e5e58f9255225995d0dbaa1e0723",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f3d9297d239092744ab9b3399d8a64441540eb2ab5f0669324eb44c8ab5edea8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patellar Instability Following Total Knee Arthroplasty: A Review of Etiology, Diagnosis, and Management Strategies",
+    "authors": "Younis Z, Hamid MA, Ravi B, Verma R, Devasia T.",
+    "year": 2025,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.89213",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

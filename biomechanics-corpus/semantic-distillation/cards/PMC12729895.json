@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12729895",
+  "paper_id": "doi:10.3390/bioengineering12121285",
+  "pmcid": "PMC12729895",
+  "source_record_sha256": "907505b1bd3ff962b9d4ed801cd87354f1334d9cf7c237158c24f2dfd9cc66ac",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ac29220015d0ec59368ab12d4854a83fa2845db2f01852af55b128ee509fa024",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surface Modification of Polyetheretherketone (PEEK) via Femtosecond Laser Microprocessing for Enhanced Bioactivity: A Preliminary Study",
+    "authors": "Angelova L, Filipov E, Avdeev G, Daskalova A.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12121285",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

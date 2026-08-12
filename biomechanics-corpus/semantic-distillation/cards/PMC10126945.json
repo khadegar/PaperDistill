@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10126945",
+  "paper_id": "doi:10.1016/j.heliyon.2023.e15317",
+  "pmcid": "PMC10126945",
+  "source_record_sha256": "12fd828d51d205b1d85f7ea2e5a651c79fcf62837a2063a386953e4706cd1023",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0bcd42b13744dfb4b6373025d2156f5d58e53807cfbefcd36fd31773d9cf4737",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An in vivo evaluation of clear aligners for optimal orthodontic force and movement to determine high-efficacy and periodontal-friendly aligner staging",
+    "authors": "Wang Y, Chen J, Qin S, Han X, Liao L, Sima X, Guo W.",
+    "year": 2023,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2023.e15317",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10665523",
+  "paper_id": "doi:10.3389/fbioe.2023.1260204",
+  "pmcid": "PMC10665523",
+  "source_record_sha256": "a368446362ff0fc9a74ee5b17943a58d9c6179731fc414b58aca8007961c0ebf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "36b3b365e49b7727e27f54ce5604aa7bae896e6cfafa90fecaf7b8a011a1e0e0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of a novel anterior transpedicular screw-plate system for anterior cervical corpectomy and fusion (ACCF): a finite element analysis",
+    "authors": "Huang S, Ling Q, Lin X, Qin H, Luo X, Huang W.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1260204",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

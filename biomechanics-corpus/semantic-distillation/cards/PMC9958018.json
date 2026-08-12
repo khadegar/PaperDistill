@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9958018",
+  "paper_id": "doi:10.1038/s41598-023-30341-4",
+  "pmcid": "PMC9958018",
+  "source_record_sha256": "b3547abb98d691e3fb9fd3b7fb1c3c3bede159c67f8ba848f1b86b48a48f588a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3a77a12d5b153637a7a9d9d3b66a33b3de99507b0ede1676fa5871a033510f07",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A new patient-specific overformed anatomical implant design method to reconstruct dysplastic femur trochlea",
+    "authors": "Öztürk Y, Ayazoğlu M, Öztürk Ç, Arabacı A, Solak N, Özsoy S.",
+    "year": 2023,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-023-30341-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

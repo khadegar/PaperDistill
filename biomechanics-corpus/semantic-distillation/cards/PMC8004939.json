@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8004939",
+  "paper_id": "doi:10.3390/polym13060971",
+  "pmcid": "PMC8004939",
+  "source_record_sha256": "1efaea5e39db4d0e9e99a61014e3e640cf3cc6aa46dce44bf77791df08fc39ba",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c531891c090cfc79bef10786bec80ce09a48a061173a09f0c58bacccb0190771",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Motility Improvement of Biomimetic Trachea Scaffold via Hybrid 3D-Bioprinting Technology",
+    "authors": "Yu YS, Ahn CB, Son KH, Lee JW.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13060971",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

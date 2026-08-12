@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8395183",
+  "paper_id": "doi:10.3390/ijms22168480",
+  "pmcid": "PMC8395183",
+  "source_record_sha256": "020b58214093f3292aac555bed8ebe127f2f8922e3627a1a428dd27d63f25fd8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f7a72ac76b905493f1c0c27573fc7ab651ea0a9c8510d0750e2e41f109aa9efb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Benefits and Biosafety of Use of 3D-Printing Technology for Titanium Biomedical Implants: A Pilot Study in the Rabbit Model",
+    "authors": "Ng SL, Das S, Ting YP, Wong RCW, Chanchareonsook N.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms22168480",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

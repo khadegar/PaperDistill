@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8134672",
+  "paper_id": "doi:10.3389/fbioe.2021.672176",
+  "pmcid": "PMC8134672",
+  "source_record_sha256": "a074874f43a5407a9609eafc6e945af70e9668da46df86e805c4bf308a421a44",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "70f6d54863b865a75045198d4b5bacb3ce640a6dcecdc076b8fd2bba1b197941",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Assessment of the Validity of Sheep as a Preclinical Model for Testing Mandibular Fracture Fixation Devices",
+    "authors": "Orassi V, Duda GN, Heiland M, Fischer H, Rendenbach C, Checa S.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.672176",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

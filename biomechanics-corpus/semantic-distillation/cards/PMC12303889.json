@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12303889",
+  "paper_id": "doi:10.3389/fphys.2025.1629273",
+  "pmcid": "PMC12303889",
+  "source_record_sha256": "6a9ad5f6d7511d9e8a62531cb9a25b2d1d17952d01bd7058c176b1ea811f102d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fabc49d5720a224d0fd611addf732bd434e8f10f5009ddb0a24ba6f132f018cf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteocytes function as biomechanical signaling hubs bridging mechanical stress sensing and systemic adaptation",
+    "authors": "Yuze M, Hu J, Jun L, Cheng X, Tianwen X, Junqiang Z.",
+    "year": 2025,
+    "journal": "Frontiers in Physiology",
+    "doi": "10.3389/fphys.2025.1629273",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5556788",
+  "paper_id": "doi:10.7181/acfs.2015.16.1.11",
+  "pmcid": "PMC5556788",
+  "source_record_sha256": "4055f4f60114bbc3c21f359cb81a10f089eed14e4abb5a452e4ee930dedb4a4a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2806375db180c9aacf4a72911997fd875628bdf62dfd373fda1bd7bf51c7c0d7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Skull Reconstruction with Custom Made Three-Dimensional Titanium Implant",
+    "authors": "Cho HR, Roh TS, Shim KW, Kim YO, Lew DH, Yun IS.",
+    "year": 2015,
+    "journal": "Archives of Craniofacial Surgery",
+    "doi": "10.7181/acfs.2015.16.1.11",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

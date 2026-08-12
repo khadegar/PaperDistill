@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9420411",
+  "paper_id": "doi:10.7717/peerj.13760",
+  "pmcid": "PMC9420411",
+  "source_record_sha256": "27d2f02d5ac028df77a645d4ce5b470869c474dd639ea7fba9e5c57a318d61be",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6467b98b00ef54cdd6b084a52d5df108661559790651a1c2d55c91ab71f1d739",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The efficacy of computed tomography scanning versus surface scanning in 3D finite element analysis",
+    "authors": "Rowe AJ, Rayfield EJ.",
+    "year": 2022,
+    "journal": "PeerJ",
+    "doi": "10.7717/peerj.13760",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

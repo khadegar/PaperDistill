@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8965852",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.12.032",
+  "pmcid": "PMC8965852",
+  "source_record_sha256": "7b55bb59a4bd38c88d1b78c2a721ea8da7df567aa66a0da897ea0a5ee55882bc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "abc2c3b4b26589e7496b3c2c8722152d96115ccaad9615806333d7dc7e42f782",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed NIR-responsive shape memory polyurethane/magnesium scaffolds with tight-contact for robust bone regeneration",
+    "authors": "Zhang Y, Li C, Zhang W, Deng J, Nie Y, Du X, Qin L, Lai Y.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.12.032",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

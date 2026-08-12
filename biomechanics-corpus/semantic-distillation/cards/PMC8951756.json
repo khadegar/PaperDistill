@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8951756",
+  "paper_id": "doi:10.3390/polym14061211",
+  "pmcid": "PMC8951756",
+  "source_record_sha256": "cc2b4c881f78092bd55818069bdacc2965eecc035580b465df8d8cca7331ff3f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1583a5eb8342f7814808ac1a190af091015621d46616ef3abce88b673ac94dca",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed, Dual Crosslinked and Sterile Aerogel Scaffolds for Bone Tissue Engineering",
+    "authors": "Iglesias-Mejuto A, García-González CA.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14061211",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

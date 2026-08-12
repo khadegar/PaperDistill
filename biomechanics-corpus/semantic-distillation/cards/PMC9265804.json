@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9265804",
+  "paper_id": "doi:10.3390/cells11132069",
+  "pmcid": "PMC9265804",
+  "source_record_sha256": "fe270dc204cb1a5b509f12d9302384af22824bc36700d2938e1af60cfd8c3670",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "492fcf0717f28b3875c9b37cb3b9568bbee6b45f6b257b76b358c41ea0f9abdf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Synergistic Effect of Cyclic Tensile Force and Periodontal Ligament Cell-Laden Calcium Silicate/Gelatin Methacrylate Auxetic Hydrogel Scaffolds for Bone Regeneration",
+    "authors": "Lee JJ, Ng HY, Lin YH, Lin TJ, Kao CT, Shie MY.",
+    "year": 2022,
+    "journal": "Cells",
+    "doi": "10.3390/cells11132069",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

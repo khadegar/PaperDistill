@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7460306",
+  "paper_id": "doi:10.3390/pathogens9080649",
+  "pmcid": "PMC7460306",
+  "source_record_sha256": "70cb3d003d46bd2b7ff962cbb4ba3f2a0a7de2ff078bac3a7f3c128371d37b2d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2b3f99bf41f26c6afb1338893a772ec332616beabb52c00ca481e6efacd514f1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Identification and Morphological Characterization of Biofilms Formed by Strains Causing Infection in Orthopedic Implants",
+    "authors": "Coraça-Huber DC, Kreidl L, Steixner S, Hinz M, Dammerer D, Fille M.",
+    "year": 2020,
+    "journal": "Pathogens",
+    "doi": "10.3390/pathogens9080649",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9820083",
+  "paper_id": "doi:10.3390/ijms24010529",
+  "pmcid": "PMC9820083",
+  "source_record_sha256": "1c922fddda171ebda3fef83035f9955142d2ce57b6bbd852b918d1be0592dff0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "de7760cfa31ec3f195361bd8b92016acf199dd74d045c404656f102b798aa0e7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Existing and Novel Biomaterials for Bone Tissue Engineering",
+    "authors": "Dec P, Modrzejewski A, Pawlik A.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms24010529",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

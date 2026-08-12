@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9228366",
+  "paper_id": "doi:10.3390/ma15124280",
+  "pmcid": "PMC9228366",
+  "source_record_sha256": "e06ffb21bed0e88001dc099b88a6bb465e54ecc8c308d128cbe4cdb855e8db83",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1167a9d4989a4adcbce8abc8ef5e413753020703f37034aeb7a6e4b9c45fb4d8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing of PLLA/Biomineral Composite Bone Tissue Engineering Scaffolds",
+    "authors": "Gang F, Ye W, Ma C, Wang W, Xiao Y, Liu C, Sun X.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15124280",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

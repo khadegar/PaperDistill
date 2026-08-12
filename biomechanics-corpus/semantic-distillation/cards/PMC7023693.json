@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7023693",
+  "paper_id": "doi:10.1186/s12891-020-3111-1",
+  "pmcid": "PMC7023693",
+  "source_record_sha256": "953efa1b7818638fe9c153f67cbce956ab1c69470a3074358a2a4fe1d55fd286",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9cd4081976e4d8b9db261385f8c5feee02f0db33925480a4b669bf490a1a6eec",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical analysis of single-level interbody fusion with different internal fixation rod materials: a finite element analysis",
+    "authors": "Hsieh YY, Tsuang FY, Kuo YJ, Chen CH, Chiang CJ, Lin CL.",
+    "year": 2020,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-020-3111-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

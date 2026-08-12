@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12320291",
+  "paper_id": "doi:10.1186/s12951-025-03610-9",
+  "pmcid": "PMC12320291",
+  "source_record_sha256": "ad577237627953353b56a898272bdb6212257801430b0241d9c118e601ff4a11",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b2b2bc98faa2138ad64313c8187c7b02b20b72ba701edcb96e036b7368b6fc88",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanochemically reprogrammed porous tantalum with synergistic antibacterial and osteogenic properties for the treatment of infectious bone defects",
+    "authors": "Sun Y, Zhang Y, Zhang K, Nan J, Xiong Z, Liu W, Hu Y, Lei P.",
+    "year": 2025,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-025-03610-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

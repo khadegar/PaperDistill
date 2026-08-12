@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7436028",
+  "paper_id": "doi:10.3390/molecules25153399",
+  "pmcid": "PMC7436028",
+  "source_record_sha256": "5eb6fcbab2d8193e78d7b8fe1d86efc0b20c9893b5870315a59f4a7f52776c96",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "85fd6f07b0b87a06e13634ab5e434ff6f43fd3f6d973610eabb23b4f7c14cdc7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro and In Vivo Biocompatibility Studies of a Cast and Coated Titanium Alloy",
+    "authors": "Sommer U, Laurich S, de Azevedo L, Viehoff K, Wenisch S, Thormann U, Alt V, Heiss C, Schnettler R.",
+    "year": 2020,
+    "journal": "Molecules",
+    "doi": "10.3390/molecules25153399",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

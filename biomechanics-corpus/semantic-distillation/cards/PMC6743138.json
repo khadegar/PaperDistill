@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6743138",
+  "paper_id": "doi:10.1186/s41205-019-0042-2",
+  "pmcid": "PMC6743138",
+  "source_record_sha256": "58b1de02932a9cdc278e51b634f203c818e39366ee71d9483ddab1cc94592690",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "784d775ee01c0866cce398417f2c8058e2465d15360cd162ba774ff87b8eaad7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Analysis of biomechanical behavior of 3D printed mandibular graft with porous scaffold structure designed by topological optimization",
+    "authors": "Hu J, Wang JH, Wang R, Yu XB, Liu Y, Baur DA.",
+    "year": 2019,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-019-0042-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12790046",
+  "paper_id": "doi:10.1016/j.identj.2025.103882",
+  "pmcid": "PMC12790046",
+  "source_record_sha256": "2007a3ae3344671c8c4cd660b2caac2369aedad2121aa016eaabf370086fcec1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "45493df9fa9dc11bcaecd3ed8fc2cbadebc720e31cae64291d525a5e1724acc3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Performance of Implant-Tooth-Supported Prostheses: A Numerical 3D Finite Element Analysis",
+    "authors": "Sadek HS, Anany NM, El-Anwar MI, Alhotan A, Diab AH, Fayad BR, Heiba IM, Shahin IG, Bourauel C, Elshazly TM.",
+    "year": 2025,
+    "journal": "International Dental Journal",
+    "doi": "10.1016/j.identj.2025.103882",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

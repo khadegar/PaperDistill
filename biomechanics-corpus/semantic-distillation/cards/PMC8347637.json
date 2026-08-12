@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8347637",
+  "paper_id": "doi:10.3390/ma14154240",
+  "pmcid": "PMC8347637",
+  "source_record_sha256": "78a95a569362cb16ab038b4c8f03d9efe877ef246a1d5b6731f29f4183361b7e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7f2d28176cf9157736d9b4db0db6dc7a3d5e2de4e6e688412a01c071546a6d7f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Selective Laser Sintering of PA 2200 for Hip Implant Applications: Finite Element Analysis, Process Optimization, Morphological and Mechanical Characterization",
+    "authors": "Păcurar R, Berce P, Petrilak A, Nemeş O, Borzan CŞM, Harničárová M, Păcurar A.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14154240",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

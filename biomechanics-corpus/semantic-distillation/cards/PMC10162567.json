@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10162567",
+  "paper_id": "doi:10.1371/journal.pone.0285421",
+  "pmcid": "PMC10162567",
+  "source_record_sha256": "60c05fe0e51c5dfec49f216445f9b4731b723bc4556c273f878d8a49da7c7253",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "706e051ba40f5a299a5835eda0df15c6eec981a1183c267ab5e28a6587d4e5be",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of crown stiffness and prosthetic screw absence on the stress distribution in implant-supported restoration: A 3D finite element analysis",
+    "authors": "Epifania E, di Lauro AE, Ausiello P, Mancone A, Garcia-Godoy F, Mendes Tribst JP.",
+    "year": 2023,
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0285421.r004",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

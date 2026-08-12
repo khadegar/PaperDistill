@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10685639",
+  "paper_id": "doi:10.1186/s13018-023-04222-5",
+  "pmcid": "PMC10685639",
+  "source_record_sha256": "e9d5d60038afdc4a1a869db1c48c4eab79eb8bf4dfa82d839e29b0da7e43a615",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "029f7c896e7c5a2b97520458e51b594dcb5daaf069b9c9b47d2f3caf0db2acb4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of different posterior inclinations of tibial component on tibiofemoral contact pressures after unicompartmental knee arthroplasty",
+    "authors": "Yuan B, Mo Z, Zhang K, Zhu X, Yan S, Zeng J.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-04222-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

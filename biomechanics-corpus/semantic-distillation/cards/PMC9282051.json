@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9282051",
+  "paper_id": "doi:10.1097/md.0000000000025202",
+  "pmcid": "PMC9282051",
+  "source_record_sha256": "cc54f67f8ca68a75895ae07ff6b6fba7dbede86f8adb93b94d2c1b7d0ee90a83",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f5cb0275246f5193fd6626214f7038bdc46fcf2d7be221d0a86cda14b1e867d9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surgical treatment for upper cervical deformity with atlantoaxial joint dislocation using individualized 3D printing occipitocervical fusion instrument",
+    "authors": "Niu G, Chen H, Liu L, Zhou G, Zhou Q, Li C, Dai J, Nie H, Bai J, Zhang J.",
+    "year": 2021,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000025202",
+    "publication_type": "research-article; Review; Journal Article; Case Reports",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

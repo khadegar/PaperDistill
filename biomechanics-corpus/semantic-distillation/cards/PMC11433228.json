@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11433228",
+  "paper_id": "doi:10.3390/jfb15090276",
+  "pmcid": "PMC11433228",
+  "source_record_sha256": "1810bb84d4b98c0d5540332fe9a39c9520de89b18f77fd1ada9c2946d0127fb0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "42ad8744aea0526d3169523152048029faccbec3a785779a5bbf14041e99fa33",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modular Hemipelvic Prosthesis Preserves Normal Biomechanics and Showed Good Compatibility: A Finite Element Analysis",
+    "authors": "Luo Y, Sheng H, Zhou Y, Min L, Tu C, Luo Y.",
+    "year": 2024,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb15090276",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

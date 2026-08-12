@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8884544",
+  "paper_id": "doi:10.1371/journal.pone.0264475",
+  "pmcid": "PMC8884544",
+  "source_record_sha256": "1c5ef9a7e52a7784bbce1a0be1c9de538dd4f1035cb22177bec3e4b2e6d60d08",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "97436708c0fd0a4987ea6975c3edb909ccb0431470c0a7fa4690847d572cbe99",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The minipig intraoral dental implant model: A systematic review and meta-analysis",
+    "authors": "Musskopf ML, Finger Stadler A, Wikesjö UM, Susin C.",
+    "year": 2022,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0264475",
+    "publication_type": "Meta-Analysis; research-article; Systematic Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

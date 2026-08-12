@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8469432",
+  "paper_id": "doi:10.3390/ma14185360",
+  "pmcid": "PMC8469432",
+  "source_record_sha256": "5e8a67105d109a1f149f5f25065bb4ab23110d77d83cc926584e60eaae3790cd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b2c220cf040d6a8b5691220433623d1ebfe42c4c9f242670dab64df9645faf1f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Histological Evaluation of Porous Additive-Manufacturing Titanium Artificial Bone in Rat Calvarial Bone Defects",
+    "authors": "Imagawa N, Inoue K, Matsumoto K, Omori M, Yamamoto K, Nakajima Y, Kato-Kogoe N, Nakano H, Thi Minh Le P, Yamaguchi S, Ueno T.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14185360",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

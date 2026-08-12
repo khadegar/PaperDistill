@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8588076",
+  "paper_id": "doi:10.3390/polym13213731",
+  "pmcid": "PMC8588076",
+  "source_record_sha256": "23764a4f52848e731e0bdd4946408efa075946dd8e2ec40aceafaf622254a692",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2b296958fafcc373ac65ddf56d076044c93ffc5d8390862accf55a21c037257f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication of 3D Printed Poly(lactic acid)/Polycaprolactone Scaffolds Using TGF-β1 for Promoting Bone Regeneration",
+    "authors": "Cheng CH, Shie MY, Lai YH, Foo NP, Lee MJ, Yao CH.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13213731",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

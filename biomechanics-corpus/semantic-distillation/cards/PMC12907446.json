@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12907446",
+  "paper_id": "doi:10.3389/fbioe.2025.1675726",
+  "pmcid": "PMC12907446",
+  "source_record_sha256": "fcce27e15b654ae55c8da657ac959a45f5ed95e9d79511608c0e7c2a0a00e85b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c57e5db43fc81cef134fe3781eb671d093bb66225175bf42274713321c60836e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanobiological evaluation of solid and multiple porous humeral stem architectures in reverse shoulder arthroplasty based on design and materials: a finite element study",
+    "authors": "John PB, Nageswaran S.",
+    "year": 2026,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1675726",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

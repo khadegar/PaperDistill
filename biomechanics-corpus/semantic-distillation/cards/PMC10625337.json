@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10625337",
+  "paper_id": "doi:10.12659/aot.940365",
+  "pmcid": "PMC10625337",
+  "source_record_sha256": "03dc025416c1c591ea36b4d5f295e50c5e3d946efa52319f99294d3a63ca04ba",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "627c42cf27e9b892503bfd9891e0570235262f3d5c160841589e0377966cbf26",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Printing of Polycaprolactone/Nano-Hydroxyapatite Composite Scaffolds with a Pore Size of 300/500 μm is Histocompatible and Promotes Osteogenesis Using Rabbit Cortical Bone Marrow Stem Cells",
+    "authors": "Yang Y, Qiu B, Zhou Z, Hu C, Li J, Zhou C.",
+    "year": 2023,
+    "journal": "Annals of Transplantation",
+    "doi": "10.12659/aot.940365",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

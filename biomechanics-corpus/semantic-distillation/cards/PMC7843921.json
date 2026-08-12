@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7843921",
+  "paper_id": "doi:10.3389/fmed.2020.590139",
+  "pmcid": "PMC7843921",
+  "source_record_sha256": "1df7d27680b8fe32a958744b84ce38e3b726d3583cd05d7b3ed9228c4fd3a647",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "34f227aa67e6152006f9bc62f33513a7cd6cfcf1bee9fbe094870883ab999151",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Beyond Bone Mineral Density: A New Dual X-Ray Absorptiometry Index of Bone Strength to Predict Fragility Fractures, the Bone Strain Index",
+    "authors": "Ulivieri FM, Rinaudo L.",
+    "year": 2021,
+    "journal": "Frontiers in Medicine",
+    "doi": "10.3389/fmed.2020.590139",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

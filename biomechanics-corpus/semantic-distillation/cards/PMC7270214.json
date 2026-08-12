@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7270214",
+  "paper_id": "doi:10.1186/s40902-020-00263-6",
+  "pmcid": "PMC7270214",
+  "source_record_sha256": "f8d625f4ea0eda4d383c0522eec6f3ab9b024d0be21ba441ffc700bd53294416",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d354a959f204024b72b43ba3d4a519ae0cf214013f757a7aae707adfb9e34f1f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional bio-printing and bone tissue engineering: technical innovations and potential applications in maxillofacial reconstructive surgery",
+    "authors": "Salah M, Tayebi L, Moharamzadeh K, Naini FB.",
+    "year": 2020,
+    "journal": "Maxillofacial Plastic and Reconstructive Surgery",
+    "doi": "10.1186/s40902-020-00263-6",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

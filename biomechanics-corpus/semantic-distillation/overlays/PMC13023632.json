@@ -1,0 +1,234 @@
+{
+  "study": {
+    "article_kind": "deterministic_truss_topology_and_size_optimization_algorithm_study",
+    "design_features": [
+      "primary_force_based_structural_analysis",
+      "bone_remodeling_inspired_area_update",
+      "ground_structure_method",
+      "stress_constrained_minimum_weight",
+      "two_phase_energy_filtering",
+      "kinematic_stability_preservation",
+      "four_numerical_benchmarks",
+      "signal_coefficient_sweep",
+      "no_biological_or_manufacturing_experiment"
+    ],
+    "research_problem": "Deleting members in large truss ground structures can make displacement formulations singular, whereas conventional force/population methods become expensive as indeterminacy and design dimension grow.",
+    "exact_gap": "A scalable deterministic formulation was needed that permits complete removal of redundant bars, guarantees kinematic stability, updates topology and cross-sectional size with one analysis per iteration, and reduces the dense design space without losing essential load paths (S001:C01-S002:C08).",
+    "objective_or_hypothesis": "Combine a primary-force-based structural solver with a stress/SED-analogous area update and two-stage energy-based filtering, then verify feasibility, objective quality, stability, parameter behavior, and runtime on reference, large-scale, analytical, and 3D trusses (S002:C07-S012:C02).",
+    "study_design": "Pure numerical algorithm development with algebraic positive-definiteness proof, deterministic full-area initialization, 11-value signal-coefficient sweep, and four static truss benchmarks compared with literature/analytical solutions (S003:C01-S018:C02).",
+    "sample_or_model": "12-node/39-member planar truss, 247-node/30,381-member fully connected ground structure, 2D Michell problem with 17,766 candidate bars, and 18-node/153-member 3D ground structure.",
+    "comparators": [
+      "Published optimization results for each benchmark",
+      "Analytical Michell volume for the 2D reference problem",
+      "Phase I dense ground structure versus Phase II filtered/refined structure",
+      "Eleven signal coefficients from 0.01 to 1.0",
+      "Alternative topologies with equal weight/stiffness in one problem",
+      "Cross-paper runtime values obtained on different implementations and hardware"
+    ],
+    "method_spine": [
+      "Partition member forces into a full-rank primary structure and removable redundants.",
+      "Prove the primary-deformation coefficient matrix symmetric positive definite and solve it with Cholesky.",
+      "Minimize weight subject to member stress and area bounds using stress-ratio area updates.",
+      "Preserve nonzero primary-member areas to guarantee kinematic stability while deleting redundant bars.",
+      "Filter energy-dense nodes and primary-candidate members, rebuild a smaller Phase II ground structure, and reoptimize.",
+      "Benchmark feasibility, objective gap, displacement, topology, iterations, and runtime; separate numerical proof from physical validation."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Positive definiteness of the PFB coefficient matrix is derived algebraically under positive primary-member area assumptions (S003:C08-S003:C11).",
+        "Four numerical benchmarks compare objective, stress feasibility, displacement/topology, and one analytical Michell solution; the Michell volume gap is 1.02% (S013:C01-S016:C02)."
+      ],
+      "calibration": [
+        "The signal coefficient c is explored numerically and 0.1-0.2 is recommended for the tested problems; this is algorithm tuning, not biological calibration (S012:C01-S012:C02; S017:C05-S017:C07)."
+      ],
+      "validation": [
+        "Literature/analytical agreement is numerical verification, not physical validation of truss, lattice, implant, or bone behavior.",
+        "No independent solver cross-check, fabricated structure, fatigue/buckling/joint test, animal, or clinical outcome is reported."
+      ],
+      "sensitivity": [
+        "Eleven c values expose speed-versus-solution-quality sensitivity and show larger dense systems are more vulnerable to early convergence/local optima (S012:C01; S014:C01-S017:C07).",
+        "The 0.97 cumulative nodal-energy threshold, 0.03 local filter, primary pivot choice, node layout, area bounds, tolerances, loads, and multi-start/global optimality are not systematically varied (S005:C01-S009:C02)."
+      ],
+      "application_prediction": [
+        "Extension to frames, sandwich panels, and biomedical lattice scaffolds is prospective; the paper tests axial truss benchmarks only (S018:C01-S018:C02)."
+      ]
+    },
+    "primary_outcomes": [
+      "The PFB formulation keeps equation size tied to degrees of freedom rather than indeterminacy and permits redundant members to reach zero while a nonzero primary structure preserves stability (S003:C01-S003:C11; S017:C01-S017:C03).",
+      "The two-phase filter uses 97% cumulative nodal energy and a 3% local energy ratio to reduce the design space, then adds bars where necessary for global stability or potentially missed load paths (S006:C01-S011:C02).",
+      "Benchmark objective gaps were about 1.2% for the 247-node problem, 1.02% versus the analytical Michell solution, and exact agreement with the cited 3D reference; one small benchmark produced a different topology with identical weight/stiffness (S013:C03-S016:C02).",
+      "Low c required more iterations but tended to find lighter large-scale solutions; Phase II was stable across c after design-space reduction, leading the authors to recommend c=0.1-0.2 only for similar problems (S017:C05-S017:C07).",
+      "Reported cross-study runtimes were roughly 10-250 times shorter, but baselines used different hardware, code, ground structures, constraints, and implementations (S017:C03-S017:C04)."
+    ],
+    "highest_evidence_level_reached": "Algebraic solver proof plus multi-benchmark numerical verification; no manufacturing, structural-test, biomedical, or biological validation."
+  },
+  "argument_map": {
+    "central_claim": "The PFB plus two-phase remodeling-inspired scheme is a fast, deterministic, stress-feasible truss optimizer on the tested benchmarks, but deterministic convergence and benchmark agreement do not prove a global optimum, fair cross-implementation speedup, manufacturability, or biomedical function.",
+    "data": [
+      "Full derivation/pseudocode, filter rules, four numerical cases, c sweeps, analytical/reference comparisons, and runtime logs (S003:C01-S017:C07)."
+    ],
+    "warrant": "A solver should be judged by mathematical correctness, feasibility, objective gap, robustness and controlled compute cost before physical or domain-specific application claims are made.",
+    "backing": [
+      "The study reports zero-stress stability members, alternative equal-performance topologies, threshold-dependent filtering, local-optimum sensitivity, and discretization gap (S013:C03-S017:C07)."
+    ],
+    "qualifier": "Static axial truss problems with the stated ground structures, bounds, filters, initialization, and stopping rules.",
+    "rebuttals_or_boundaries": [
+      "Preserving the initially selected primary structure constrains the topology and necessitates a second filtered phase.",
+      "Filtering may remove useful nodes/bars; added stabilizing/recovery bars show that local energy ranking is not a completeness proof.",
+      "Deterministic initialization removes run-to-run randomness but does not establish global optimality.",
+      "Runtime comparisons across papers are not controlled same-hardware/same-code/same-stopping benchmarks.",
+      "Truss stress constraints omit buckling, fatigue, joint detail, minimum printable feature, surface defect, and manufacturing tolerance.",
+      "The biological terms describe an engineering analogy; no bone remodeling is simulated or measured."
+    ],
+    "argument_coherence": "high_for_algorithm_and_benchmark_verification_moderate_for_speed_superiority_low_for_manufacturing_or_biomedical_extension"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "CPU time and iterations from the implementation; all weights, volumes, stresses, displacement, strain energy, member sets, and topology are numerical benchmark outputs (S012:C01-S017:C07)."
+    ],
+    "predicted": [
+      "Static truss response and returned feasible topologies under specified loads, constraints, discretizations, filters, and initialization."
+    ],
+    "inferred": [
+      "Algorithmic superiority across implementations, manufacturing advantage from simpler topology, and applicability to biomedical implant lattices are extrapolations (S015:C05; S017:C04; S018:C02).",
+      "Osteoblast/osteoclast/homeostasis language is metaphorical mapping of sign and step size, not a biological mechanism result (S004:C02-S004:C05)."
+    ],
+    "recommended": [
+      "Use controlled same-machine baselines, multi-start/lower-bound tests, threshold and ground-structure sensitivity, multi-load/robust constraints, and printed buckling/fatigue/joint validation before application claims."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Analytical objective gap is numerical accuracy, not physical prediction accuracy.",
+      "Kinematic stability under a truss formulation is not buckling or damage safety.",
+      "Fewer bars do not automatically mean easier AM, lower support burden, or better fatigue.",
+      "A stress-ratio update analogous to SED does not reproduce cellular bone remodeling.",
+      "A generic truss benchmark is not an implant lattice under patient loads."
+    ],
+    "overclaim_risks": [
+      "Cross-paper timing is called algorithmic superiority without a controlled benchmark (S017:C04).",
+      "Literature/analytical comparison is described as validating precision rather than numerical verification (S018:C01).",
+      "Manufacturing advantage and implant-scaffold applicability lack AM or biomedical testing (S015:C05; S018:C02).",
+      "The automatic animal cue is false."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "methods",
+      "move": "Bind each algorithm module to a named failure mode",
+      "execution": "PFB addresses singularity/stability, remodeling updates member size, and Phase I/II filtering addresses the primary-member topology restriction (S002:C06-S002:C08; S003:C01-S011:C02).",
+      "locator": "S002:C08",
+      "effectiveness": "high",
+      "transferable_principle": "For a new optimizer, state the exact failure of the baseline, the module that addresses it, its assumptions, and the new failure modes it introduces.",
+      "failure_mode": "Biological metaphors should not substitute for mathematical definitions."
+    },
+    {
+      "section": "methods",
+      "move": "Expose topology filtering as a potentially lossy transformation",
+      "execution": "Energy thresholds, collinearity checks, node removal, bar merging/splitting, full reconnection, and recovery/stability bars are given as algorithms (S005:C01-S011:C02).",
+      "locator": "S007:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Report every filtering threshold, removed/added node/member count, recovery rule, objective loss, and robustness test between dense and refined design spaces.",
+      "failure_mode": "A reduced search space can exclude the global optimum even when the returned structure is feasible."
+    },
+    {
+      "section": "results",
+      "move": "Use a staged numerical verification ladder",
+      "execution": "The study progresses from a small reference case to a large stress test, analytical Michell solution, and 3D reference (S012:C01-S016:C02).",
+      "locator": "S012:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Validate optimizers with unit/algebra checks, small known solutions, large scalability cases, analytical bounds, 3D/multiload cases, and then physical tests.",
+      "failure_mode": "A strong numerical ladder remains below physical validation."
+    },
+    {
+      "section": "discussion",
+      "move": "Report parameter trade-offs and limit recommendations",
+      "execution": "Eleven c values show higher speed can produce poorer large-system solutions; 0.1-0.2 is explicitly described as problem-dependent (S017:C05-S017:C07).",
+      "locator": "S017:C07",
+      "effectiveness": "high",
+      "transferable_principle": "For algorithm hyperparameters, show objective-feasibility-runtime curves, worst cases, and transfer limits rather than a universal default.",
+      "failure_mode": "One-parameter sweeps leave filter, initialization, discretization, and load sensitivity unresolved."
+    },
+    {
+      "section": "discussion",
+      "move": "Separate proof, numerical verification, controlled performance, and application validation",
+      "execution": "The paper combines a positive-definiteness proof, benchmark agreement, cross-paper timing, and prospective applications (S003:C08-S003:C09; S017:C04-S018:C02).",
+      "locator": "S017:C04",
+      "effectiveness": "moderate_with_overclaim",
+      "transferable_principle": "Label algebraic proof, code verification, benchmark objective quality, controlled runtime, physical validation, and biomedical translation as distinct claims.",
+      "failure_mode": "Passing one layer never validates the next by implication."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "High c may terminate in suboptimal topologies; recommended c values are problem dependent, and finite ground-structure discretization explains part of the Michell gap (S017:C05-S017:C07)."
+    ],
+    "reader_identified": [
+      "No controlled same-hardware implementation baseline or released reproducibility artifact is described in the packet.",
+      "No sensitivity for energy thresholds, primary pivot selection, node density/layout, bounds, tolerances, loads, or initial ground structure.",
+      "Deterministic single-start results do not establish global optimality or robust performance.",
+      "Benchmarks differ from references in ground structure, lower area bound, constraints, software, and hardware.",
+      "Static axial trusses omit connection, bending, buckling, dynamics, fatigue, material/process defects, and AM constraints.",
+      "No actual bone, scaffold, implant, cell, animal, or clinical validation."
+    ],
+    "likely_bias_direction": [
+      "Cross-study runtime comparison inflates speedup attribution.",
+      "Simpler topology is likely overinterpreted as manufacturable.",
+      "Biomimetic vocabulary may overstate biological relevance."
+    ],
+    "scope_boundary": "The method is numerically supported for the tested static truss benchmarks; it is not validated for global optimality, controlled cross-code performance, frames/continua, AM manufacture, fatigue/buckling, or biomedical implant function."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC13023632-01",
+      "capability": "Structure an algorithm paper as failure mode to mathematical module to assumption to benchmark to residual failure mode.",
+      "manuscript_use": "Algorithm Introduction, Methods, and validation argument spine.",
+      "applicable_domains": ["topology_optimization", "biomechanics", "computational_design"],
+      "applicable_study_designs": ["algorithm_development", "numerical_benchmark"],
+      "supporting_locators": ["S002:C06", "S002:C07", "S002:C08", "S003:C08", "S004:C01", "S005:C01", "S011:C01"],
+      "counterexample_or_boundary": "Solving singularity and search cost may introduce primary-selection and filtering bias.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC13023632-02",
+      "capability": "Audit lossy topology filtering with thresholds, removed/added elements, recovery rules, objective gap, and sensitivity.",
+      "manuscript_use": "Topology reconstruction Methods and robustness Results.",
+      "applicable_domains": ["topology_optimization", "additive_manufacturing"],
+      "applicable_study_designs": ["algorithm_development"],
+      "supporting_locators": ["S006:C01", "S007:C01", "S007:C02", "S008:C01", "S009:C01", "S009:C02", "S010:C01", "S010:C02"],
+      "counterexample_or_boundary": "A feasible filtered topology may exclude a better topology removed in Phase I.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC13023632-03",
+      "capability": "Separate algebraic proof, numerical verification, controlled runtime, physical validation, and biomedical translation.",
+      "manuscript_use": "Validation taxonomy and abstract/conclusion calibration.",
+      "applicable_domains": ["topology_optimization", "biomechanics", "bone_implant"],
+      "applicable_study_designs": ["algorithm_development", "finite_element"],
+      "supporting_locators": ["S003:C08", "S003:C09", "S012:C01", "S015:C04", "S017:C04", "S018:C01", "S018:C02"],
+      "counterexample_or_boundary": "A 1.02% analytical objective gap is not implant or bone validation.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_algorithm_development",
+    "methods_transparency": "high",
+    "validation_credibility": "high_for_algebra_and_numerical_benchmarks_low_for_physical_or_biomedical_use",
+    "outcome_uncertainty_reporting": "moderate",
+    "comparator_fairness": "moderate_due_to_cross_implementation_differences",
+    "conclusion_proportionality": "moderate",
+    "critical_weaknesses": [
+      "No controlled runtime baseline or broad hyperparameter/ground-structure robustness.",
+      "Global optimality and filtering completeness remain unresolved.",
+      "Manufacturing and biomedical extensions are untested."
+    ],
+    "overall_credibility": "high_for_method_derivation_and_benchmarks_moderate_for_speed_superiority_low_for_application_translation"
+  },
+  "summary_zh": "这是一篇通用桁架优化算法论文，骨重塑只是启发式类比。PFB把主力杆与冗余杆分开，保留非零主结构以保证运动学稳定，冗余杆可真正删除；应力比信号更新截面积，Phase I后再按节点/杆应变能筛选并重建Phase II搜索空间。四个数值例题中，Michell解析解差1.02%，大规模算例和3D算例也接近文献结果；但跨论文10–250倍加速受硬件、代码、约束和地基结构差异影响。确定性不等于全局最优，能量筛选也可能丢失更优杆件。Skill将把代数证明、数值verification、受控性能比较、物理validation和生物医学转化严格分层，并要求任何筛选/重建都报告阈值、删补杆、目标损失和敏感性。",
+  "reader_notes": [
+    "Primary Codex reader reviewed the full derivation, proof, pseudocode, filters, all four benchmarks, c sweeps, runtime discussion, and conclusions.",
+    "The animal cue is false; no biological bone-remodeling experiment is present.",
+    "This paper contributes algorithm-writing capabilities, not evidence for a bone implant or scaffold."
+  ]
+}

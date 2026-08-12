@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10556751",
+  "paper_id": "doi:10.3389/fbioe.2023.1089031",
+  "pmcid": "PMC10556751",
+  "source_record_sha256": "9ecd0eaf50a225ebeb51b7efd199b8e52d74b9d6e9699b400099abfd55d05fe1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4660fd2bc2b96264faa6717bfe18e0987f1a80b931165a5e8c4b60accb9988b2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The application and progress of tissue engineering and biomaterial scaffolds for total auricular reconstruction in microtia",
+    "authors": "Huang Y, Zhao H, Wang Y, Bi S, Zhou K, Li H, Zhou C, Wang Y, Wu W, Peng B, Tang J, Pan B, Wang B, Chen Z, Li Z, Zhang Z.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1089031",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

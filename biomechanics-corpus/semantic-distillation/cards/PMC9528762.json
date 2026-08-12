@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9528762",
+  "paper_id": "doi:10.1111/cpr.13289",
+  "pmcid": "PMC9528762",
+  "source_record_sha256": "44e69e4bf92d75472a063adb339dae3f3df27929b3f9b3e0be2d8d9d7c8c0f12",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "eff472edda17fd902c768661ca3049c3807fb34ce581752e41b7e6236edaa214",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed PCLA scaffold with nano‐hydroxyapatite coating doped green tea EGCG promotes bone growth and inhibits multidrug‐resistant bacteria colonization",
+    "authors": "Zhang X, He J, Qiao L, Wang Z, Zheng Q, Xiong C, Yang H, Li K, Lu C, Li S, Chen H, Hu X.",
+    "year": 2022,
+    "journal": "Cell Proliferation",
+    "doi": "10.1111/cpr.13289",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

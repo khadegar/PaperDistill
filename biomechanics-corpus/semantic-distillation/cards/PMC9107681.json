@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9107681",
+  "paper_id": "doi:10.1186/s13018-022-03169-3",
+  "pmcid": "PMC9107681",
+  "source_record_sha256": "4b7e84c3abce746da9b89d94684b83ceb180abdc864cbd288317650f0c0b9e43",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "85988754ae9fd3831c4901607ede3818f85bd6e32cf5be6b4b63f0a4d07bff05",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Postoperative stability following a triple pelvic osteotomy is affected by implant configuration: a finite element analysis",
+    "authors": "Hedelin H, Brynskog E, Larnert P, Iraeus J, Laine T, Lagerstrand K.",
+    "year": 2022,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-022-03169-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

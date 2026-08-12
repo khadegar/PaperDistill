@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7411850",
+  "paper_id": "doi:10.3390/ma13143052",
+  "pmcid": "PMC7411850",
+  "source_record_sha256": "3005b1fc5a4065225cef0db6ea1e8acc3c4067348721f6e7eb9dde0f13783266",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e3c68455f9b66339b397f8bb978dac617bc8c33cb504a7735d84ebb7832e4074",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro Production of Calcified Bone Matrix onto Wool Keratin Scaffolds via Osteogenic Factors and Electromagnetic Stimulus",
+    "authors": "Bloise N, Patrucco A, Bruni G, Montagna G, Caringella R, Fassina L, Tonin C, Visai L.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13143052",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8353754",
+  "paper_id": "doi:10.1186/s13036-021-00273-6",
+  "pmcid": "PMC8353754",
+  "source_record_sha256": "65c6be46a687de5555aef71a3269207f538994961ff0fe0a175b09967ab334eb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1e64a11a2e55ae56e66cad5729325057db6e0c8e007eeea46855ffd706ac2317",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional printed hydroxyapatite bone tissue engineering scaffold with antibacterial and osteogenic ability",
+    "authors": "Zhongxing L, Shaohong W, Jinlong L, Limin Z, Yuanzheng W, Haipeng G, Jian C.",
+    "year": 2021,
+    "journal": "Journal of Biological Engineering",
+    "doi": "10.1186/s13036-021-00273-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

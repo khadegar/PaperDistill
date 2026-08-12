@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9056063",
+  "paper_id": "doi:10.7759/cureus.23694",
+  "pmcid": "PMC9056063",
+  "source_record_sha256": "9d6dfecf091dfd4a853ffa872f80db9332c4c4fa62b3a0bf14ea764c4eabff1d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6f03387149aa412ece9b63253a90e11d76df9f95a86b25dce06f0fad449e28af",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Proximal Femoral Nail Mechanical Failure: A Case Report and Biomechanical Study",
+    "authors": "Papanikolopoulos D, Kalligeros C, Polyzos A, Spitas V, Soranoglou V.",
+    "year": 2022,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.23694",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12548260",
+  "paper_id": "doi:10.1186/s41205-025-00299-2",
+  "pmcid": "PMC12548260",
+  "source_record_sha256": "b7a97631e38d61784ec3b8423cc3eddcc984b496583b4f996a852094354826ae",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d2f70da545a3683f9c46ec9e5db7fa42ed22818507567f8392f7559ec5067c26",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical assessment of a titanium cervical spine corpectomy cage assembled with 3D-printed patient-specific endplate-conformed contact surfaces and a traditionally manufactured expandable mechanism",
+    "authors": "Shen SC, Huang SF, Sun WH, Lin CL.",
+    "year": 2025,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-025-00299-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

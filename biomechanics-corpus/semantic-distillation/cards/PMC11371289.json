@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11371289",
+  "paper_id": "doi:10.4103/njms.njms_155_23",
+  "pmcid": "PMC11371289",
+  "source_record_sha256": "3007a268b45d11952c303ef7f1b7bf6eb85df9d8c7c8a7e8218cb7ce8fdbe4ff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "42992280349bb5596ffa88650618bd7ba331b001972a26d7327f7ee60b5576ed",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A 3-Dimensional finite element analysis of patient-specific implant (with strut abutments) interface on stress concentration on the implant and surrounding bone in bilateral maxillary deformities",
+    "authors": "Datarkar AN, Pardiwala AF, Relan P, Daware S, Gadve V, Deshpande A, Ghormade A.",
+    "year": 2024,
+    "journal": "National Journal of Maxillofacial Surgery",
+    "doi": "10.4103/njms.njms_155_23",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

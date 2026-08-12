@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8292018",
+  "paper_id": "doi:10.1098/rsif.2021.0324",
+  "pmcid": "PMC8292018",
+  "source_record_sha256": "a8c723356d22cf5ff9717b9d3d0ea27208270acbc3d96cbb9e53f69ebc1746d2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "323d2e3d354a890e57d2806de76fb777518e517d0e2c50ab175205356538239c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Back to the bones: do muscle area assessment techniques predict functional evolution across a macroevolutionary radiation?",
+    "authors": "Bates KT, Wang L, Dempsey M, Broyde S, Fagan MJ, Cox PG.",
+    "year": 2021,
+    "journal": "Journal of the Royal Society Interface",
+    "doi": "10.1098/rsif.2021.0324",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

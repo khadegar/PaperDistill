@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11979411",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101664",
+  "pmcid": "PMC11979411",
+  "source_record_sha256": "72c8bb16598db7211fecca7360ac6d682e13913a96c2f4429e69ae9aed788b46",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e41d59ab5833f25bca4b7bf2f85bf51a45e6d01d8b5c48c57fe5f99221a5bfee",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimetic structural design in 3D-printed scaffolds for bone tissue engineering",
+    "authors": "Huang D, Li Z, Li G, Zhou F, Wang G, Ren X, Su J.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101664",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

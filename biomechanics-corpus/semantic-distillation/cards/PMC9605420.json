@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9605420",
+  "paper_id": "doi:10.3390/ma15207164",
+  "pmcid": "PMC9605420",
+  "source_record_sha256": "8913bc5258c9c4fbc8bba94931d5c7ccc670e8fd253ee631b11c37ec3912b9e0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7303425bb0be811db9ee29e69cdc819598295caf2480a8bbf9d5120999ef9a1f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Experimental Characterization and Numerical Modeling of the Corrosion Effect on the Mechanical Properties of the Biodegradable Magnesium Alloy WE43 for Orthopedic Applications",
+    "authors": "Saconi F, Diaz GH, Vieira AC, Ribeiro ML.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15207164",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11231013",
+  "paper_id": "doi:10.1007/s10916-024-02084-w",
+  "pmcid": "PMC11231013",
+  "source_record_sha256": "34ac2f3568b9fd14ac16d5ce262dee161940cc9dba701bd0b9cd782f6cd023d1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fd8ff9ef9614c446bd349584cf2cf5e95c8445f4a8ec55dcadb736a367b1dbe3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Cost-Affordable Methodology of 3D Printing of Bone Fractures Using DICOM Files in Traumatology",
+    "authors": "Chrz K, Bruthans J, Ptáčník J, Štuka Č.",
+    "year": 2024,
+    "journal": "Journal of Medical Systems",
+    "doi": "10.1007/s10916-024-02084-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

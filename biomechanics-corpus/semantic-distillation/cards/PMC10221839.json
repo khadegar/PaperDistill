@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10221839",
+  "paper_id": "doi:10.3390/jpm13050811",
+  "pmcid": "PMC10221839",
+  "source_record_sha256": "0b1b7c330fc490e5c94f1ead118b2875b2bbb71dc6f3ddedf6349056b22f29c1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b845c43476e8116f68f7270119d97ce69df865a366fafee37515093526e6e76d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Printed Knee Implants: Insights into Surgeons’ Points of View",
+    "authors": "Le Stum M, Bertin T, Le Goff-Pronost M, Apremont C, Dardenne G, Rolland-Lozachmeur G, Stindel E.",
+    "year": 2023,
+    "journal": "Journal of Personalized Medicine",
+    "doi": "10.3390/jpm13050811",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing"
+    ]
+  },
+  "status": "blank"
+}

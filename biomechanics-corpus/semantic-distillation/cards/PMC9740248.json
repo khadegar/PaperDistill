@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9740248",
+  "paper_id": "doi:10.3390/ijms232314626",
+  "pmcid": "PMC9740248",
+  "source_record_sha256": "dded24c6a593b7b63c839c3b2f3641d0caa95d0f4c0123eb750151686122598a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "eed1a4d73d413519030ff76b1cba8ae6db40bf726aa4df40819332b479dad54e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biocompatibility and Biological Performance of Additive-Manufactured Bioabsorbable Iron-Based Porous Interference Screws in a Rabbit Model: A 1-Year Observational Study",
+    "authors": "Tai CC, Huang YM, Liaw CK, Yang KY, Ma CH, Huang SI, Huang CC, Tsai PI, Shen HH, Sun JS, Sun JS, Chen CY.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms232314626",
+    "publication_type": "research-article; Journal Article; Observational Study",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5612976",
+  "paper_id": "doi:10.5371/hp.2017.29.3.168",
+  "pmcid": "PMC5612976",
+  "source_record_sha256": "dd3740c1fb6c70b901393db7384d5cd72fa7394d46ada52eb5660ee529783298",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e0180d8014f0256b50a4f8f8c4f1ae1ddcaf31c014ba606cbf43fcf1d5877829",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Acetabular Defect Reconstruction with Trabecular Metal Augments: Study with Minimum One-year Follow-up",
+    "authors": "Dwivedi C, Gokhale S, Khim HG, Oh JK, Shon WY.",
+    "year": 2017,
+    "journal": "Hip & Pelvis",
+    "doi": "10.5371/hp.2017.29.3.168",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8269906",
+  "paper_id": "doi:10.3390/ma14133712",
+  "pmcid": "PMC8269906",
+  "source_record_sha256": "2adaadbe982a15b001c88effebfa993195b03c8deef33c36f04e71e194389743",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b2afa294f0d6776873b2b2d7d1fcf6f5adfe1410e480cf8e96407659ef553c2d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Potential of Stereolithography for 3D Printing of Synthetic Trabecular Bone Structures",
+    "authors": "Grzeszczak A, Lewin S, Eriksson O, Kreuger J, Persson C.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14133712",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

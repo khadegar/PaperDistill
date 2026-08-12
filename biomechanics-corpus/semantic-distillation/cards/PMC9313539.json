@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9313539",
+  "paper_id": "doi:10.3389/fendo.2022.900356",
+  "pmcid": "PMC9313539",
+  "source_record_sha256": "a6f33b00d34068214611e72bf58e2332f29681317b3034c6335e23d00d8e181d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a85220b891b243000c064632a8af4bf5bb052f7600454007871f8e1b59ccd12d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of Osteoporotic and Osteoblastic Vertebrae and Its Association With the Proton Density Fat Fraction From Chemical Shift Encoding-Based Water-Fat MRI – A Preliminary Study",
+    "authors": "Greve T, Rayudu NM, Dieckmeyer M, Boehm C, Ruschke S, Burian E, Kloth C, Kirschke JS, Karampinos DC, Baum T, Subburaj K, Sollmann N.",
+    "year": 2022,
+    "journal": "Frontiers in Endocrinology",
+    "doi": "10.3389/fendo.2022.900356",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

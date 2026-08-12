@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10060813",
+  "paper_id": "doi:10.3389/fbioe.2023.1142264",
+  "pmcid": "PMC10060813",
+  "source_record_sha256": "d1ed0290c8737ebe4d9917afff838d40a32552d62ee511f16d394179ea108ed3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "99bdab7fea3037e4bf8fa7b6ca41c1f793f7ff1c2c62bd8f647fec0ce5f65318",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A surface metal ion-modified 3D-printed Ti-6Al-4V implant with direct and immunoregulatory antibacterial and osteogenic activity",
+    "authors": "Wu Y, Shi X, Wang J, Li Y, Wu J, Jia D, Bai Y, Wu X, Xu Y.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1142264",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

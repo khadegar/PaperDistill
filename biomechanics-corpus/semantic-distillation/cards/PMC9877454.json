@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9877454",
+  "paper_id": "doi:10.3389/fbioe.2022.1098973",
+  "pmcid": "PMC9877454",
+  "source_record_sha256": "b927e7120f7bd6971b1245faa050178f67aa8c92070fb55222367e6f3b2d8a04",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "63b10d35743f5478c662d58a4a10f3260ef19b913d0436ca9843b7e6001aa989",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional-printed porous prosthesis for the joint-sparing reconstruction of the proximal humeral tumorous defect",
+    "authors": "Zhang Y, Lu M, Hu X, Li Z, Wang J, Gong T, Zhou Y, Luo L, Min L, Tu C.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1098973",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

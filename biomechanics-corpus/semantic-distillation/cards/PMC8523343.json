@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8523343",
+  "paper_id": "doi:10.7759/cureus.18054",
+  "pmcid": "PMC8523343",
+  "source_record_sha256": "765f5bf7771ff35550eaeac7db1c813e8401b0f82ebda53e0ba02167d89d4246",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8a0a09232ead361cc5bd1768e27b796baf6dfd2295360b0d48793e2b5e4b2f8a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Metaphyseal Sleeve Failure in Revision Total Knee Arthroplasty",
+    "authors": "Bouras T, Fennema P, Morgan-Jones R, Agarwal S.",
+    "year": 2021,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.18054",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

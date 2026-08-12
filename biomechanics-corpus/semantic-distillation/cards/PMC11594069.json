@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11594069",
+  "paper_id": "doi:10.2106/jbjs.23.01334",
+  "pmcid": "PMC11594069",
+  "source_record_sha256": "bffd9388c4bf74275f964726c2fefd2734c6f01044c5d30eb44ea52ce25f142f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4fa5390ce0becf17a876a99e89bbd4c7b1db504ab877ccb93b111829cb4f7689",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of Abaloparatide on Bone Mineral Density in Proximal Femoral Regions Corresponding to Arthroplasty Gruen Zones",
+    "authors": "Sheth NP, Sheth NP, Smith JR, Winzenrieth R, Humbert L, Wang Y, Boxberger JI, Bostrom MP.",
+    "year": 2024,
+    "journal": "The Journal of Bone and Joint Surgery. American Volume",
+    "doi": "10.2106/jbjs.23.01334",
+    "publication_type": "Clinical Trial, Phase III; research-article; Randomized Controlled Trial; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

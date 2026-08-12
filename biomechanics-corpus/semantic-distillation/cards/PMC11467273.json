@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11467273",
+  "paper_id": "doi:10.21037/jss-24-50",
+  "pmcid": "PMC11467273",
+  "source_record_sha256": "36caab04c192fca0f7fd9967eadaf2a6d1a9cc3d73799f0c678b8c73a4ec653e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "685227db002729441e8d406c188453e9433e2f90f4a5168e1bb115267ea33b78",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Total joint replacement of the lumbar spine: report of the first two cases with 16 years of follow-up",
+    "authors": "Nel LJ, Humphreys SC, Sielatycki JA, Block JE, Hodges SD.",
+    "year": 2024,
+    "journal": "Journal of Spine Surgery",
+    "doi": "10.21037/jss-24-50",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

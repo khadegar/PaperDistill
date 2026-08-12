@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10985589",
+  "paper_id": "doi:10.1039/d4ra00911h",
+  "pmcid": "PMC10985589",
+  "source_record_sha256": "c70ea4389bebf1052ba0ed887aa0344f1d4739a00635938cf0ec1413f83422cc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "de6315f967414155e0a3c4c63399b57c0b3e5939a0b4ba01bff659154481052f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dual-core-component multiphasic bioceramic granules with selective-area porous structures facilitating bone tissue regeneration and repair",
+    "authors": "Cao B, Xie L, Xu Y, Shen J, Zhang Y, Wang Y, Weng X, Bao Z, Yang X, Gou Z, Wang C.",
+    "year": 2024,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d4ra00911h",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12379047",
+  "paper_id": "doi:10.1177/09544119251356213",
+  "pmcid": "PMC12379047",
+  "source_record_sha256": "f3337ab16a752c1ffd0ce34a0d4149345227a415212e12dc8cfa959458695873",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1dadb3ba6f01c001c15881a089a5c31964be9c68dabf9cdd93044e79a652c0d1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Initial fixation of metallic wedge-augmented versus angled BIO reverse shoulder arthroplasty techniques: A finite element study",
+    "authors": "Lopes M, Quental C, Sarmento M, Folgado J.",
+    "year": 2025,
+    "journal": "Proceedings of the Institution of Mechanical Engineers. Part H, Journal of Engineering in Medicine",
+    "doi": "10.1177/09544119251356213",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

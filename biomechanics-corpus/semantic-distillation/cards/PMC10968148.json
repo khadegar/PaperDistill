@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10968148",
+  "paper_id": "doi:10.3390/biomedicines12030609",
+  "pmcid": "PMC10968148",
+  "source_record_sha256": "0420f08eb02b522a842db30acc5a10cf9c7ff4a180b8080aa0e6e210d16468c5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d8261f1eb6db57c541d292caa0b0d90add4cbfe2522243862f5033c24a40020e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vivo Osteogenic and Angiogenic Properties of a 3D-Printed Isosorbide-Based Gyroid Scaffold Manufactured via Digital Light Processing",
+    "authors": "Verisqa F, Park JH, Mandakhbayar N, Cha JR, Nguyen L, Kim HW, Knowles JC.",
+    "year": 2024,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines12030609",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

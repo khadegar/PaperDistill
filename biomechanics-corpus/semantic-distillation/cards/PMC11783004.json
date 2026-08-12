@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11783004",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101450",
+  "pmcid": "PMC11783004",
+  "source_record_sha256": "07dfb1b1c0b3f878b5c9ea50e578f36012f0a9d86b5327e30f70626b5c9e522f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4de8121da3cee44ad765ec6a66ea2695ba67054d2bbbdafa5d73f58c2c3acb6d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In-vivo and ex-vivo evaluation of bio-inspired structures fabricated via PBF-LB for biomedical applications",
+    "authors": "Araya M, Järvenpää A, Rautio T, Vindas R, Estrada R, de Ruijter M, Guillén T.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101450",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8091886",
+  "paper_id": "doi:10.1016/j.amsu.2021.102296",
+  "pmcid": "PMC8091886",
+  "source_record_sha256": "0faa084643b3ad8f684bcb6f5519878ac0adb0302973f9cbde0f684ea45d05ad",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "627e6b204010fa402c926c843a4b2ae75278552011065bd3a436339fb1e18351",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surgical management of chronic osteomyelitis with benign osteopetrosis: A case report",
+    "authors": "Raiteb M, Elmrini S, Slimani F.",
+    "year": 2021,
+    "journal": "Annals of Medicine and Surgery",
+    "doi": "10.1016/j.amsu.2021.102296",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7063412",
+  "paper_id": "doi:10.1016/j.sdentj.2019.10.006",
+  "pmcid": "PMC7063412",
+  "source_record_sha256": "aa1d7dac84d336c30381724f004cd480c60b653c48ab4d0ac02183e15239ae47",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "02871218e95eb65d66967eb13eee10dd9f250db038248891465e339075bed1f7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of surgical regenerative treatment for peri-implantitis: A systematic review",
+    "authors": "Aljohani M, Yong SL, Bin Rahmah A.",
+    "year": 2020,
+    "journal": "The Saudi Dental Journal",
+    "doi": "10.1016/j.sdentj.2019.10.006",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

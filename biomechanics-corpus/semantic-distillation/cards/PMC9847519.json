@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9847519",
+  "paper_id": "doi:10.1093/rb/rbac104",
+  "pmcid": "PMC9847519",
+  "source_record_sha256": "ac49a401587c785fc679fcc4d34fed9eb633397a605115407673a9947d8e1bcd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "801a0e91dd94581bdcac8dafa54bca4495bd34ef1ce60ec1df69dc810ab3c3c7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed-electrospun PCL/hydroxyapatite/MWCNTs scaffolds for the repair of subchondral bone",
+    "authors": "Cao Y, Sun L, Liu Z, Shen Z, Jia W, Hou P, Sang S.",
+    "year": 2022,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbac104",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

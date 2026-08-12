@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10102311",
+  "paper_id": "doi:10.1111/os.13653",
+  "pmcid": "PMC10102311",
+  "source_record_sha256": "5191f78c4195e4ec3b40e67ad827133fe577086cf6273e48cf63b3ae9890cca6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "51e803bb0079a775474b5ae3d74a2caaec6f78e6931ee3758ae255dd0ea52bb3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Properties of Bionic Collum Femoris Preserving Hip Prosthesis: A Finite Element Analysis",
+    "authors": "Zhang X, Wang Y, Zhang L, Yu K, Ding Z, Zhang Y, Chen X, Xiong C, Ji Y, Zhang D, Ma X.",
+    "year": 2023,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13653",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

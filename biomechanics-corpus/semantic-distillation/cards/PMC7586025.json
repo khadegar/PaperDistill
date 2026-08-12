@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7586025",
+  "paper_id": "doi:10.1177/2041731420965797",
+  "pmcid": "PMC7586025",
+  "source_record_sha256": "1ac5cee27bbb63ae7381ea52828e96821f30e59936f3b9f499d5b6df133a5866",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d20c4d970a24b6bd848d609cab1432e96a0aae9f80c9579f98d68123f828e759",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The combination of multi-functional ingredients-loaded hydrogels and three-dimensional printed porous titanium alloys for infective bone defect treatment",
+    "authors": "Qiao S, Wu D, Li Z, Zhu Y, Zhan F, Lai H, Gu Y.",
+    "year": 2020,
+    "journal": "Journal of Tissue Engineering",
+    "doi": "10.1177/2041731420965797",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

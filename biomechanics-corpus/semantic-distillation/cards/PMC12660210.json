@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12660210",
+  "paper_id": "doi:10.3389/fbioe.2025.1658728",
+  "pmcid": "PMC12660210",
+  "source_record_sha256": "c6798a58b7dcd5713911662fa02e2db0e3347251849b86a644c0639d57fee648",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "485eb4cf10bc0d8dfa3b38d9ff99bad51f70ab6bc17b057712af1e86ac96eda3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Is an additional cannulated screw necessary for unstable femoral neck fractures with comminuted posteromedial cortex by femoral neck system (FNS) fixation? a biomechanical and clinical study",
+    "authors": "Fan J, Hao Y, Cao Y, Cui Z, Lv Y, Zhou F.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1658728",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

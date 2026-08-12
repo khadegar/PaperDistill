@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10167133",
+  "paper_id": "doi:10.1007/s10237-023-01692-8",
+  "pmcid": "PMC10167133",
+  "source_record_sha256": "6d19a0e5787aed9b782d2f00c83915397263d4e41431d6e386c3646dc0149edd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7bba69a41144f29e98b27c435ee9ae29451e26e8a03e5363c0415f5a6b75e59b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous metal block based on topology optimization to treat distal femoral bone defect in total knee revision",
+    "authors": "Zhang J, Zhang A, Han Q, Liu Y, Chen H, Ma M, Li Y, Chen B, Wang J.",
+    "year": 2023,
+    "journal": "Biomechanics and Modeling in Mechanobiology",
+    "doi": "10.1007/s10237-023-01692-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8550550",
+  "paper_id": "doi:10.1007/s10856-021-06614-7",
+  "pmcid": "PMC8550550",
+  "source_record_sha256": "bdaafb89653cffc9e400d8e2dac05d0a68d52cb9c59986920f109d2123f2ce29",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3ab4296f6a659f5652eb1451d4e24145cc86148e103edc760eb7876d5bebcbe5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Antibacterial activity, bio-compatibility and osteogenic differentiation of graphene oxide coating on 3D-network poly-ether-ether-ketone for orthopaedic implants",
+    "authors": "Guo C, Lu R, Wang X, Chen S.",
+    "year": 2021,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-021-06614-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

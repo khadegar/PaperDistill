@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13103946",
+  "paper_id": "doi:10.1039/d6ra01182a",
+  "pmcid": "PMC13103946",
+  "source_record_sha256": "d9710311d6d65cdbb5a2f5895cb236dff3db2bd1a35e1d2caf78a093d13984e9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "31a8b3626b38822dbbb9829730cccce0c9c9352637cf207984f5abbc0bfee08a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Research on the regulation of osteogenic differentiation and mechanotransduction by porous bionic coatings on titanium alloy implant surfaces",
+    "authors": "Zou Z, Jiang S, Chen W, Wang Y, Liang Q, Fang W, Zhan X, Gu R, Chen Q.",
+    "year": 2026,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d6ra01182a",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

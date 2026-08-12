@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9612273",
+  "paper_id": "doi:10.3390/ma15207375",
+  "pmcid": "PMC9612273",
+  "source_record_sha256": "b63fda5f3cc2b034fe29764fa9631d3a2fd1547d0ef45d3862017e562c93373a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f39b4ce25c4d9cc0b01f7be931b2d19ca196bcc147b71237e8f57a13a155d8b0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Wall Shear Stress Analysis and Optimization in Tissue Engineering TPMS Scaffolds",
+    "authors": "Pires THV, Dunlop JWC, Castro APG, Fernandes PR.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15207375",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

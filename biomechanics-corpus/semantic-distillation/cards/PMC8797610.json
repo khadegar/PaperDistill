@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8797610",
+  "paper_id": "doi:10.1097/md.0000000000028475",
+  "pmcid": "PMC8797610",
+  "source_record_sha256": "6fd3a4d6707bbbbb6e63af6af42f91b341cf3b7b325e9bc1a7a3e2b2c97bc400",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c28f9309e8c2ab4cc20c929494d9090a23e18839e31e2fa8c67507ade3bcce74",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Revision arthroplasty using a custom-made implant in the course of acetabular loosening of the J&J DePuy ASR replacement system - case report",
+    "authors": "Augustyn A, Stołtny T, Rokicka D, Wróbel M, Pająk J, Werner K, Ochocki K, Strojek K, Koczy B.",
+    "year": 2022,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000028475",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

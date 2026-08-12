@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7745418",
+  "paper_id": "doi:10.1021/acsomega.0c04373",
+  "pmcid": "PMC7745418",
+  "source_record_sha256": "a31852ba688cf69feefc57b6bffa6fa3533d24c185750a15f21d764c8bab339b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7561eda8afb001a3c9b52a905dcee2acb209283a5fddda1f948a0f723aa11c05",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed Ti–6Al–4V Implant with a Micro/Nanostructured Surface and Its Cellular Responses",
+    "authors": "Yu M, Wan Y, Ren B, Wang H, Zhang X, Qiu C, Liu A, Liu Z.",
+    "year": 2020,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.0c04373",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

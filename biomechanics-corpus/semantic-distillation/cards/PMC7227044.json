@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7227044",
+  "paper_id": "doi:10.1021/acsomega.0c00986",
+  "pmcid": "PMC7227044",
+  "source_record_sha256": "603f6746458b6c0e4d51e13eb54094640fd106c6c4f81eb6c1f5c8f5c09813d6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b948351d60249e0cad28c96073f9340d72acc3ebd8fff8b33e3e7aca706ae069",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Poly- l -lysine/Sodium Alginate Coating Loading Nanosilver for Improving the Antibacterial Effect and Inducing Mineralization of Dental Implants",
+    "authors": "Guo C, Cui W, Wang X, Lu X, Zhang L, Li X, Li W, Zhang W, Chen J.",
+    "year": 2020,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.0c00986",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

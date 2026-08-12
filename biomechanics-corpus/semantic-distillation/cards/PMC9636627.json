@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9636627",
+  "paper_id": "doi:10.1186/s13018-022-03371-3",
+  "pmcid": "PMC9636627",
+  "source_record_sha256": "7a831f10d5d609063c658c544d59c0319d6f76f618dbf24ed984b52dec9fe0ba",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "89db5e601e4179d3f244af7fc385fe8d787556ae76a327d154893842e0ff19e3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The clinical application of customized 3D-printed porous tantalum scaffolds combined with Masquelet’s induced membrane technique to reconstruct infective segmental femoral defect",
+    "authors": "Wu Y, Shi X, Zi S, Li M, Chen S, Zhang C, Xu Y.",
+    "year": 2022,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-022-03371-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

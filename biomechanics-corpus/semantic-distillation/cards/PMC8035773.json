@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8035773",
+  "paper_id": "doi:10.1186/s12891-021-04218-4",
+  "pmcid": "PMC8035773",
+  "source_record_sha256": "b81b196f2059a4ddd66589fa047c6c328d30486ca46d4a9450c502a806842751",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5b7605e46404015bbafcf84940ccce61d05146cf4d52f60ca4843afdf9a0e695",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical effect of different plate-to-disc distance on surgical and adjacent segment in anterior cervical discectomy and fusion - a finite element analysis",
+    "authors": "Guo X, Zhou J, Tian Y, Kang L, Xue Y.",
+    "year": 2021,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-021-04218-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

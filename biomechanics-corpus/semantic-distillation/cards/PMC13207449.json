@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13207449",
+  "paper_id": "doi:10.3390/jfb17050257",
+  "pmcid": "PMC13207449",
+  "source_record_sha256": "27e24069311d7eddaf01c4b9adf37903b7b3b93e99920e5feb1714c0693d9e71",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2322ba9b9ab0c736a73372ac12a9b1311200f9bdac35c0fc00036330048f9c7e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Numerical Simulation of Bone Defect Repair Using a Triply Periodic Minimal Surface Scaffold",
+    "authors": "Chen Z, Chen H, Qu C.",
+    "year": 2026,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb17050257",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12205411",
+  "paper_id": "doi:10.1002/ksa.12624",
+  "pmcid": "PMC12205411",
+  "source_record_sha256": "e01af827ffcc6e3f38914dc637cabb6e48cc0847888cf5e40f1851ccc77c6a57",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a7dd7cdca285e3fd4f7aa64644c85b93f4d9b7cb7dc82dc936cfaf080090b33d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Improved quadriceps efficiency with a medial pivot in comparison to a cruciate‐retaining design in total knee arthroplasty",
+    "authors": "Bauer L, Niethammer TR, Thorwächter C, Woiczinski M, Müller PE, Simon F, Holzapfel BM, Simon JM.",
+    "year": 2025,
+    "journal": "Knee Surgery, Sports Traumatology, Arthroscopy",
+    "doi": "10.1002/ksa.12624",
+    "publication_type": "other; Comparative Study; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

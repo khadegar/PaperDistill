@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7379841",
+  "paper_id": "doi:10.3389/fbioe.2020.00807",
+  "pmcid": "PMC7379841",
+  "source_record_sha256": "0e5a1bd433c041215223c92483109079df0e30d143a1cbfb721963ce44a3c838",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5104fb886a96c8a65678600e582f7919bd02b8fa0fee04a676a2211c67c426b6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Evaluation and the Assisted 3D Printed Model in the Patient-Specific Preoperative Planning for Thoracic Spinal Tuberculosis: A Finite Element Analysis",
+    "authors": "Wang B, Ke W, Hua W, Zeng X, Yang C.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.00807",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

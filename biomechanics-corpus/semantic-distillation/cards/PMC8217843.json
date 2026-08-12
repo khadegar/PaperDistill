@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8217843",
+  "paper_id": "doi:10.31616/asj.2020.0231",
+  "pmcid": "PMC8217843",
+  "source_record_sha256": "86c216f82a42032eb0147270a622a5e640a725651b173a5c4d34eae84672a671",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dfdb03db8a6785e8454395e4504ad97e1adf1fb8832a05ab0fc463146df87426",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stand-Alone Anterior Cervical Discectomy and Fusion Using an Additive Manufactured Individualized Bioactive Porous Titanium Implant without Bone Graft: Results of a Prospective Clinical Trial",
+    "authors": "Fujibayashi S, Takemoto M, Nakamura T, Matsushita T, Kokubo T, Sasaki K, Mori S, Matsuda S.",
+    "year": 2020,
+    "journal": "Asian Spine Journal",
+    "doi": "10.31616/asj.2020.0231",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

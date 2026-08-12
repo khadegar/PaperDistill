@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11403705",
+  "paper_id": "doi:10.1177/23259671241266332",
+  "pmcid": "PMC11403705",
+  "source_record_sha256": "b166c89fffe6386a8028b7f65dfdfc9007a79460ec3c450b3ec2c6a993e90e6f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c5d973cff4f5c4da979d7c17705f00a4d548ae91fcda2338151889fb09590d64",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of Tibiofemoral Contact Mechanics After a Novel Hybrid Procedure for Femoral Osteochondral Defect Repairs With a Subchondral Implant and Dermal Matrix",
+    "authors": "Hung VT, Dee DT, McGarry MH, Lee TQ.",
+    "year": 2024,
+    "journal": "Orthopaedic Journal of Sports Medicine",
+    "doi": "10.1177/23259671241266332",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

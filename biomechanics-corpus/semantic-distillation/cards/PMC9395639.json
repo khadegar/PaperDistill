@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9395639",
+  "paper_id": "doi:10.3389/fchem.2022.955993",
+  "pmcid": "PMC9395639",
+  "source_record_sha256": "5009cb181d87a3bdc2c5cd3b2611d392db3a63bc8a4f38fea57ee171957a824a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "845a7b88e850abf60827747ba8d3ffc4182eabf362ec69828cd4c6c91a3ecae4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Metal-based nano-delivery platform for treating bone disease and regeneration",
+    "authors": "Liu Y, Xu Z, Qiao M, Cai H, Zhu Z.",
+    "year": 2022,
+    "journal": "Frontiers in Chemistry",
+    "doi": "10.3389/fchem.2022.955993",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

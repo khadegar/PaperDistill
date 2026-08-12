@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9961196",
+  "paper_id": "doi:10.3390/ma16041429",
+  "pmcid": "PMC9961196",
+  "source_record_sha256": "816aa49d096cc7d563f1a4dece0180cf7262af776022ded162c71d48d534148d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "74308c38a3ffdfccb61e436ce54f41cff15993a2dbf9e1e7297d1fc4ee3ab026",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biological Scaffolds Assembled with Magnetic Nanoparticles for Bone Tissue Engineering: A Review",
+    "authors": "Li Z, Xue L, Wang P, Ren X, Zhang Y, Wang C, Sun J.",
+    "year": 2023,
+    "journal": "Materials",
+    "doi": "10.3390/ma16041429",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10652173",
+  "paper_id": "doi:10.1002/jbm4.10819",
+  "pmcid": "PMC10652173",
+  "source_record_sha256": "7ae03133575a3a988340996016c8abf1ca01a31bc66d0db19a0ecafad3d001bb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bf057a1398eec387684ec7c60208f93374b3283394d4db12e28884d236e7c045",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Zucker Diabetic‐Sprague Dawley Rats Have Impaired Peri‐Implant Bone Formation, Matrix Composition, and Implant Fixation Strength",
+    "authors": "Anderson KD, Beckmann C, Heermant S, Ko FC, Dulion B, Tarhoni I, Borgia JA, Virdi AS, Wimmer MA, Sumner DR, Ross RD.",
+    "year": 2023,
+    "journal": "JBMR Plus",
+    "doi": "10.1002/jbm4.10819",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

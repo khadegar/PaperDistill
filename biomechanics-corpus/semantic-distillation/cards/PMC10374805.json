@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10374805",
+  "paper_id": "doi:10.1007/s00402-022-04760-3",
+  "pmcid": "PMC10374805",
+  "source_record_sha256": "4375a002f3fe51d99b2b0e72b457f7c219c0697c29ef99171b741fcb523f9fdd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "aadd811f26516de5ab1c50db3bcb288fe5845d1f157bef09a5aebf6f7fd8f3a2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Early radiographic osseointegration of a novel highly porous 3D-printed titanium collar for megaprostheses compared to a previous generation smooth HA-coated collar",
+    "authors": "Haider T, Pagkalos I, Morris G, Parry MC, Jeys LM.",
+    "year": 2023,
+    "journal": "Archives of Orthopaedic and Trauma Surgery",
+    "doi": "10.1007/s00402-022-04760-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

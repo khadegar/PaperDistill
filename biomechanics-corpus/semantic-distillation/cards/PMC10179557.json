@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10179557",
+  "paper_id": "doi:10.3390/jcm12093095",
+  "pmcid": "PMC10179557",
+  "source_record_sha256": "f8674442f6e4ee10c1a3d097b27913a30c59c236e30e81a29a964b5a1a74f280",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dafb0d10907c13afe579cf856ff1e55e21dc8f2ab07e50f2e5cbc4713abe1303",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Risk of Interprosthetic Femur Fracture Is Associated with Implant Spacing—A Biomechanical Study",
+    "authors": "Mühling M, Sandriesser S, Glowalla C, Herrmann S, Augat P, Hungerer S.",
+    "year": 2023,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm12093095",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

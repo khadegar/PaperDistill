@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8913482",
+  "paper_id": "doi:10.1007/s10856-022-06653-8",
+  "pmcid": "PMC8913482",
+  "source_record_sha256": "49cd25913926a00eb3d1cc79215562c86fb0651efc9cdf4c35f32e4868abacb1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d930b59db274d254d3cdd9a43738c5ccb8825e0d6fe87f5a41447311316965e9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional printing of polycaprolactone/hydroxyapatite bone tissue engineering scaffolds mechanical properties and biological behavior",
+    "authors": "Rezania N, Asadi-Eydivand M, Abolfathi N, Bonakdar S, Mehrjoo M, Solati-Hashjin M.",
+    "year": 2022,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-022-06653-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

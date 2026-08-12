@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10848723",
+  "paper_id": "doi:10.1126/sciadv.adj0883",
+  "pmcid": "PMC10848723",
+  "source_record_sha256": "612590bb4ebaaa4e532bb8a208c76172913723fcb36416811f2b97b30a4b7ec8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e52928be189c17cdc6ed21f69880bfefe215683a094d0f2e3d1872879dd9cea3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modularized microrobot with lock-and-detachable modules for targeted cell delivery in bile duct",
+    "authors": "Su L, Jin D, Wang Y, Wang Q, Pan C, Jiang S, Yang H, Yang Z, Wang X, Xia N, Chan KF, Chiu PWY, Sung JJ, Zhang L.",
+    "year": 2023,
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.adj0883",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

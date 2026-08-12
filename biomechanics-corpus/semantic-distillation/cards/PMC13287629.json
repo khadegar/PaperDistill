@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13287629",
+  "paper_id": "doi:10.1038/s41598-026-50741-6",
+  "pmcid": "PMC13287629",
+  "source_record_sha256": "fc6e2b16d1ecf912d40a335503b804cc3142cb4d859da7fa8dbb812d7e3f7f40",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "195a20fe2edacfd0b0a1a494028e08cfb998298cc2506966d5a073bbd854729e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of 3D-printed porous lattice versus solid mandibular implants: an in vitro study",
+    "authors": "Zhang H, Hsu JT, Fuh LJ, Huang HL.",
+    "year": 2026,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-026-50741-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

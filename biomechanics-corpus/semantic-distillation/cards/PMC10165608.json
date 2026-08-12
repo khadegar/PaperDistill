@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10165608",
+  "paper_id": "doi:10.1021/acsami.3c01717",
+  "pmcid": "PMC10165608",
+  "source_record_sha256": "588334b146c826a64cfa8c0689ebabee4a979760ee48460f05a9e41832c6f7f0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "28bf0cc8cba2d9193b830c945fa5dd46eb7ac6933cfa574a6a8c0bb6ad825c1f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multi-leveled Nanosilicate Implants Can Facilitate Near-Perfect Bone Healing",
+    "authors": "Keshavarz M, Alizadeh P, Kadumudi FB, Orive G, Gaharwar AK, Castilho M, Golafshan N, Dolatshahi-Pirouz A.",
+    "year": 2023,
+    "journal": "ACS Applied Materials & Interfaces",
+    "doi": "10.1021/acsami.3c01717",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

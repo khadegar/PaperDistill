@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11468985",
+  "paper_id": "doi:10.1002/adhm.202200454",
+  "pmcid": "PMC11468985",
+  "source_record_sha256": "d2c92a476a96079bae9d4ef637f2475d8d695ff9711b7747ec7041f15803fa00",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8a3d9ac43c6f67a9797fa7ae47e691d851285b9c76977da37ae7482715c62407",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Personalized Volumetric Tissue Generation by Enhancing Multiscale Mass Transport through 3D Printed Scaffolds in Perfused Bioreactors",
+    "authors": "Forrestal DP, Allenby MC, Simpson B, Klein TJ, Woodruff MA.",
+    "year": 2022,
+    "journal": "Advanced Healthcare Materials",
+    "doi": "10.1002/adhm.202200454",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

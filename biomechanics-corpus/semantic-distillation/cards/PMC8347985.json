@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8347985",
+  "paper_id": "doi:10.3390/polym13152535",
+  "pmcid": "PMC8347985",
+  "source_record_sha256": "7d4f003a8b00532bf087af78fde469d7ddca16b422efaa3fe8dfbc8c3f168b5e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6b8d6f950b686087fa5a439c21e2906ec262cde0aae3e0020a841a462388df5a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Characteristics of Biodegradable Gelatin Methacrylate Hydrogel Designed to Improve Osteoinduction and Effect of Additional Binding of Tannic Acid on Hydrogel",
+    "authors": "Choi JB, Kim YK, Byeon SM, Park JE, Bae TS, Jang YS, Lee MH.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13152535",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

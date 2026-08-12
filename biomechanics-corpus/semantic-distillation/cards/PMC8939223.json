@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8939223",
+  "paper_id": "doi:10.1186/s12984-022-01005-7",
+  "pmcid": "PMC8939223",
+  "source_record_sha256": "ad77af23dd3b382e809449d24b58de4100466a21853d5604716b6bbc2925d984",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "49b65cbf641eb49f5cb53ec232f23fa1b1aafca8d1f536e14e8d19bee5af7ea1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Electrical stimulation to promote osseointegration of bone anchoring implants: a topical review",
+    "authors": "Pettersen E, Anderson J, Ortiz-Catalan M.",
+    "year": 2022,
+    "journal": "Journal of NeuroEngineering and Rehabilitation",
+    "doi": "10.1186/s12984-022-01005-7",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

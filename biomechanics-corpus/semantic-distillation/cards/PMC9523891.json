@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9523891",
+  "paper_id": "doi:10.1186/s12903-022-02465-y",
+  "pmcid": "PMC9523891",
+  "source_record_sha256": "56b3bce0e9b172e5d944087c17e0ce4f3ae3b88568c73e568a940188bd16f692",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3aceda69612ad7ba7a716726b8c1cc41fada55d5310c8d1e4a0a27dacb50dbf9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of the prosthetic index on stress distribution in Morse taper connection implant system and peri-implant bone: a 3D finite element analysis",
+    "authors": "Zhang WT, Cheng KJ, Liu YF, Wang R, Chen YF, Ding YD, Yang F, Wang LH.",
+    "year": 2022,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-022-02465-y",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

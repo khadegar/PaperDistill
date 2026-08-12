@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9206973",
+  "paper_id": "doi:10.1186/s40634-022-00494-8",
+  "pmcid": "PMC9206973",
+  "source_record_sha256": "bf4345e4a4945566f91e68854b778af0e3966a2e5908cae421adb207012eb117",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3f770ed7c7560f650105ab23685e597b0c024bac44dac471b77356ea7dde8aa2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical behavior of hybrid glenoid components compared to all-PE components: a finite element analysis",
+    "authors": "Bonnevialle N, Berhouet J, Pôtel P, Müller JH, Shoulder Friends Institute, Godenèche A.",
+    "year": 2022,
+    "journal": "Journal of Experimental Orthopaedics",
+    "doi": "10.1186/s40634-022-00494-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

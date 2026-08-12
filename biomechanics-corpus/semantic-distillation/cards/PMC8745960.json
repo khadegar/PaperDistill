@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8745960",
+  "paper_id": "doi:10.3390/ma15010099",
+  "pmcid": "PMC8745960",
+  "source_record_sha256": "b1da13f7c3aed137dbecee967770ae65126c8ed9ef0c0a552e5be155e8a53956",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "593f2e9a2d2f37a45df731c8f5f150e55ad6828c9f0056b6cb44f7002029211c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Characterization of Porous Scaffolds Fabricated by Joining Stacking Based Laser Micro-Spot Welding (JS-LMSW) for Tissue Engineering Applications",
+    "authors": "Cedeño-Viveros LD, Rodriguez CA, Segura-Ibarra V, Vázquez E, García-López E.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma15010099",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

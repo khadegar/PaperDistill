@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9125928",
+  "paper_id": "doi:10.1186/s12903-022-02228-9",
+  "pmcid": "PMC9125928",
+  "source_record_sha256": "e90d71ea111cfa1574c8c804566e77ebe2e4ad9aba2704eab60c98df0b2ed767",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0e4626d13ca4f13c20d3718b3f0502413f2ef83597eda2f9e18bc7414ce4fda6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stresses induced by one piece and two piece dental implants in All-on-4® implant supported prosthesis under simulated lateral occlusal loading: non linear finite element analysis study",
+    "authors": "Mohamed AMA, Askar MG, El Homossany MEB.",
+    "year": 2022,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-022-02228-9",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

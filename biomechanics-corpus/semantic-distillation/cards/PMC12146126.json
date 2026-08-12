@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12146126",
+  "paper_id": "doi:10.1111/os.70041",
+  "pmcid": "PMC12146126",
+  "source_record_sha256": "3bb4a436f436bbec853c69706497fbdc0e0de5cf245652a82d312d0889fec377",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ff0218f3f3054dc6843afe2f968093cee4156c4def2b848611600bd094164a53",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Feasibility and Mechanical Strength Evaluation of New Customized Implants for Tibial Plateau Fractures Fixation",
+    "authors": "Li M, Hu M, Ren X, Gao Y, Du L, Jiang Y, Zhang W.",
+    "year": 2025,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.70041",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

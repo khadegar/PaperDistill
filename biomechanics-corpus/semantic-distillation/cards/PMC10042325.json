@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10042325",
+  "paper_id": "doi:10.3389/fbioe.2023.1073435",
+  "pmcid": "PMC10042325",
+  "source_record_sha256": "afbe3af723c8be472a98292f21b64d39afffbc3d7bb5a41a18d9a0e7df31559c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5c5162f24e5e92c6de583edf6a2c0a251a383abc24d9e424ca4dba33e096ffda",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Synthesis and investigation on microstructural, mechanical features of mesoporous hardystonite/reduced graphene oxide nanocomposite for medical applications",
+    "authors": "Bagherpour I, Yaghtin A, Naghib SM, Molaabasi F.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1073435",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

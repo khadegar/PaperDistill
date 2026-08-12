@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11273349",
+  "paper_id": "doi:10.3892/etm.2024.12641",
+  "pmcid": "PMC11273349",
+  "source_record_sha256": "2d610a349e5cc11e32d8236f4ebfef97ea628ebec396e6d73917dbc88e888133",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f4c7a820afab288f93e2ad3a675688b270fa40e78ea48f815769dfc1dcf0abef",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical finite element analysis of various tibial plateau posterior tilt angles in medial unicondylar knee arthroplasty",
+    "authors": "Zhang P, Wang YL, Liu L, Yang HQ, Han PF, Li XD.",
+    "year": 2024,
+    "journal": "Experimental and Therapeutic Medicine",
+    "doi": "10.3892/etm.2024.12641",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

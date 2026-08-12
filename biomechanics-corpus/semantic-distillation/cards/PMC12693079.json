@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12693079",
+  "paper_id": "doi:10.3390/ma18235290",
+  "pmcid": "PMC12693079",
+  "source_record_sha256": "9c845680f71bdf6a34df5e533a9046128b434d264105cc5fb13413bc9cb98b17",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8b97c310623284d9e80725b873940fe7f5f995b78925e818b3682b9da85e0afb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Corticotomy Depth as a Modulator of Orthodontic Tooth Movement and PDL Stress—A Finite Element Study",
+    "authors": "Kuc AE, Sybilski K, Kotuła J, Hajduk G, Sulewska M, Saternus S, Kulikowska-Kulesza JE, Kotarska M, Kawala B, Małachowski J, Sarul M.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18235290",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

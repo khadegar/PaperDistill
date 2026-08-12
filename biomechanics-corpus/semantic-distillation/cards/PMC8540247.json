@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8540247",
+  "paper_id": "doi:10.3390/ma14205946",
+  "pmcid": "PMC8540247",
+  "source_record_sha256": "e66e11a5ed28e65d8c6e185a0b9d50257d842a90146d020e3305b8b198b45d6c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "369a593cf1dba2f41fae8e8bdf0e584afc4af336ab501a4db4e36670624d9478",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing of Macro Porous Sol-Gel Derived Bioactive Glass Scaffolds and Assessment of Biological Response",
+    "authors": "Bento R, Gaddam A, Oskoei P, Oliveira H, Ferreira JMF.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14205946",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

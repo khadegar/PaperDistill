@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9483039",
+  "paper_id": "doi:10.1111/os.13357",
+  "pmcid": "PMC9483039",
+  "source_record_sha256": "2a845d19583b7cb98ecb195a10b08ca6025526f64693ff078bae7f4178f73299",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "652c1458e1799d210ea0e966c62f0298a040e7fdf971e1636ab881bbe3eaff39",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Customized Multilevel 3D Printing Implant for Reconstructing Spine Tumor: A Retrospective Case Series Study in a Single Center",
+    "authors": "Sun Z, Yin M, Sun Y, Cheng M, Fang M, Huang W, Ma J, Yan W.",
+    "year": 2022,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13357",
+    "publication_type": "other; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

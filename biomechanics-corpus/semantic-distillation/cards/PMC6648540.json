@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6648540",
+  "paper_id": "doi:10.1021/acsomega.9b00878",
+  "pmcid": "PMC6648540",
+  "source_record_sha256": "380ffd9e07614d9ef1e645b06f1d9ac7e4fa950c7810ca422146114bc9d5163e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1a43c9280ee3910d45692f8baa440eea18a4cd1d64f9e9d2a33354ca9c17ee40",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "New BMSC-Laden Gelatin Hydrogel Formed in Situ by Dual-Enzymatic Cross-Linking Accelerates Dermal Wound Healing",
+    "authors": "Yao M, Zhang J, Gao F, Chen Y, Ma S, Zhang K, Liu H, Guan F.",
+    "year": 2019,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.9b00878",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10251188",
+  "paper_id": "doi:10.1039/d3ra02351f",
+  "pmcid": "PMC10251188",
+  "source_record_sha256": "330bbe69456b643ac072c0f1504d013a9eaea63ca6019c4e711305c6fd8860c6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dbb03aa1baf0118c0d6da54310531398e74a9c71647cbcef4bbe4950d4452479",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-bioimplants mimicking the structure and function of spine units for the treatment of spinal tuberculosis †",
+    "authors": "Yahia S, Khalil IA, Ghoniem MG, El-Sherbiny IM.",
+    "year": 2023,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d3ra02351f",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

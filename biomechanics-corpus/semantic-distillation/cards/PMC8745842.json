@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8745842",
+  "paper_id": "doi:10.3390/ma15010029",
+  "pmcid": "PMC8745842",
+  "source_record_sha256": "e02659ec3c24d0692cfb48933e394edcbb561181319f4da23657e603100d9e1c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "48b07b0e5171187601c28e65d885f6331c6d557ea7780405d02b0781f6c598a0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biocompatibility and Microstructure-Based Stress Analyses of TiNbZrTa Composite Films",
+    "authors": "Lai BW, Chang YY, Shieh TM, Huang HL.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma15010029",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12511897",
+  "paper_id": "doi:10.4142/jvs.25179",
+  "pmcid": "PMC12511897",
+  "source_record_sha256": "343f86bdd7406d830f08bb553337c1b4b1bba41a828dd963b51906eaea50c719",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5f4f0389a7e44e35be719824b28182da8385c98c9618b8ce2457f36960be22bb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Integration of locking screw fixation into 3D-printed patient-specific porous titanium implants enhances osseointegration: an in vivo study in a rabbit bone defect model",
+    "authors": "Kang KW, Yang S, Kim SY, Choi J, Kang BJ.",
+    "year": 2025,
+    "journal": "Journal of Veterinary Science",
+    "doi": "10.4142/jvs.25179",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8319128",
+  "paper_id": "doi:10.1038/s41598-021-94980-1",
+  "pmcid": "PMC8319128",
+  "source_record_sha256": "91ce64c6c0d67a5e8246a19dfdcbe69f64b1e8768e074cde6eef286a2beddd87",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "39db21f7fa475ade9d2be2930f1542e5c79f11ae05d66f16ac5837589871953e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Improvement of an additively manufactured subperiosteal implant structure design by finite elements based topological optimization",
+    "authors": "Carnicero A, Peláez A, Restoy-Lozano A, Jacquott I, Perera R.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-94980-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

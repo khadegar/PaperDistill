@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13207795",
+  "paper_id": "doi:10.3390/ijms27104531",
+  "pmcid": "PMC13207795",
+  "source_record_sha256": "74483190184899e0f0649c9b5c100fc73f7f47b03a3a97f30624d3b7bb75e7d8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ccb7c399192a8274c457f14fc6af78f6977955429db8db92ebacd4e4e3921c88",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Integrating Structures and Biology: Cellular and Molecular Interactions with Functionally Graded Spinal Cage Designs",
+    "authors": "Cheng YH, Fu AL, Gaff J, Vadala G, Jain A, Tavakoli J.",
+    "year": 2026,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms27104531",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8416386",
+  "paper_id": "doi:10.1155/2021/5699962",
+  "pmcid": "PMC8416386",
+  "source_record_sha256": "c9dbba836bc3ee107c993db24cba4d14445d89ae131ff56854dd4a1194e6e85f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "77b86d79e8182dac6d8f2a8bde3928c8bf277b3f65406cd8cd4c6a4d391f9fdc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanics in Removable Partial Dentures: A Literature Review of FEA-Based Studies",
+    "authors": "Mousa MA, Abdullah JY, Jamayet NB, El-Anwar MI, Ganji KK, Alam MK, Husein A.",
+    "year": 2021,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2021/5699962",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

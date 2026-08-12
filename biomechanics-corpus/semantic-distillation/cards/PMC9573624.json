@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9573624",
+  "paper_id": "doi:10.3390/molecules27196547",
+  "pmcid": "PMC9573624",
+  "source_record_sha256": "df94e3081da4ebc62ca55fab0eb9a1777d467d212f8ff0aacd250ed926af78d1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4dbbd96907741443cfbbbe5929fd297e71b8bc37cb7932a2ea4b29942a694ba9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Natural and Synthetic Polymer Scaffolds Comprising Upconversion Nanoparticles as a Bioimaging Platform for Tissue Engineering",
+    "authors": "Trifanova EM, Khvorostina MA, Mariyanats AO, Sochilina AV, Nikolaeva ME, Khaydukov EV, Akasov RA, Popov VK.",
+    "year": 2022,
+    "journal": "Molecules",
+    "doi": "10.3390/molecules27196547",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

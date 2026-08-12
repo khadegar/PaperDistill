@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11635503",
+  "paper_id": "doi:10.1021/acsomega.4c06458",
+  "pmcid": "PMC11635503",
+  "source_record_sha256": "78a8e73d2be99a539c9bdd8a9978b3dfd9df990c070d7545fc2061b8be26b31e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dbbd902d0841177c4fd150b2858e5f433fdb7687d801dfe765d10c485c9880d1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Gelatin Methacryloyl/Sodium Alginate/Cellulose Nanocrystal Inks and 3D Printing for Dental Tissue Engineering Applications",
+    "authors": "Li H, Chen S, Dissanayaka WL, Wang M.",
+    "year": 2024,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.4c06458",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5708643",
+  "paper_id": "doi:10.1371/journal.pone.0188707",
+  "pmcid": "PMC5708643",
+  "source_record_sha256": "f766a369eea537df70b61662b59c7ada3d6c82d7a1e1e9642b14a03465dca4f1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "78f4d7da5235b08cdcc33f2c9c8b4269c32129e1612697ae39b0bb09510f0e08",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Inclusion of periodontal ligament fibres in mandibular finite element models leads to an increase in alveolar bone strains",
+    "authors": "McCormack SW, Witzel U, Watson PJ, Fagan MJ, Gröning F.",
+    "year": 2017,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0188707",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

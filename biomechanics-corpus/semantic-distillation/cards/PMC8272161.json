@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8272161",
+  "paper_id": "doi:10.3390/molecules26134066",
+  "pmcid": "PMC8272161",
+  "source_record_sha256": "53a3fe55414a708da811444cef9ca3da33bc1c66a7f4629758f383e58be78f1b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a4dcc02a81fcf69ccab37f0b69089cb480f73663e158c017bb3e277a1395cd2a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printing of Drug-Eluting Implants: An Overview of the Current Developments Described in the Literature",
+    "authors": "Domsta V, Seidlitz A.",
+    "year": 2021,
+    "journal": "Molecules",
+    "doi": "10.3390/molecules26134066",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

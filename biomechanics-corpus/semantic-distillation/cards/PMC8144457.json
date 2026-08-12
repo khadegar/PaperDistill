@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8144457",
+  "paper_id": "doi:10.3389/fbioe.2021.661332",
+  "pmcid": "PMC8144457",
+  "source_record_sha256": "9d687716181247760e12dc33aec3430204789025710a34e7c345becb2d58332a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6087dfa10fa87279d667031e5ccf8e72cef2fea5baf57a7afebea0109fce75c5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Use of Amniotic Membrane and Its Derived Products for Bone Regeneration: A Systematic Review",
+    "authors": "Etchebarne M, Fricain JC, Kerdjoudj H, Di Pietro R, Wolbank S, Gindraux F, Fenelon M.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.661332",
+    "publication_type": "Systematic Review; systematic-review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

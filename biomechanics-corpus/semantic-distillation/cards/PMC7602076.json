@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7602076",
+  "paper_id": "doi:10.3390/diagnostics10100815",
+  "pmcid": "PMC7602076",
+  "source_record_sha256": "ea986ca3bfada7b6ff3749ce98ca4637d69b373f31edd8eb1442d9fc9166898f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6fbaddf9e5dbdfad4a3f93e7384d8bb8264bc762121db1b609a224b9eec9ab72",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Improving Prosthetic Selection and Predicting BMD from Biometric Measurements in Patients Receiving Total Hip Arthroplasty",
+    "authors": "Ricciardi C, Jónsson H, Jacob D, Improta G, Recenti M, Gíslason MK, Cesarelli G, Esposito L, Minutolo V, Bifulco P, Gargiulo P.",
+    "year": 2020,
+    "journal": "Diagnostics",
+    "doi": "10.3390/diagnostics10100815",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

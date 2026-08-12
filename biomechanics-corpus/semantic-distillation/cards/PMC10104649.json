@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10104649",
+  "paper_id": "doi:10.1002/advs.202206264",
+  "pmcid": "PMC10104649",
+  "source_record_sha256": "1a05cd6551d9326f3fa81fcc812116b4e14351e89974d2d8431f09fcf7fb6ec9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2a1db77cedd7b46238c3878173197070719a30daab317792cfb2f787f82ea146",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Electric‐Field‐Driven Printed 3D Highly Ordered Microstructure with Cell Feature Size Promotes the Maturation of Engineered Cardiac Tissues",
+    "authors": "Zhang G, Li W, Yu M, Huang H, Wang Y, Han Z, Shi K, Ma L, Yu Z, Zhu X, Peng Z, Xu Y, Li X, Hu S, He J, Li D, Xi Y, Lan H, Xu L, Tang M, Xiao M.",
+    "year": 2023,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202206264",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11629455",
+  "paper_id": "doi:10.1111/clr.14340",
+  "pmcid": "PMC11629455",
+  "source_record_sha256": "aa04680d2e524f5f9deeed85a94756b5113f20d602cb1c63ad645a9293ce3e6d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "13ccc7a7813fa4ec8707e378bf4b2f7409e5d492d31702de956121c2b5edfbda",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Alveolar bone regeneration using a 3D‐printed patient‐specific resorbable scaffold for dental implant placement: A case report",
+    "authors": "Ivanovski S, Staples R, Arora H, Vaquette C, Alayan J.",
+    "year": 2024,
+    "journal": "Clinical Oral Implants Research",
+    "doi": "10.1111/clr.14340",
+    "publication_type": "Research Support, Non-U.S. Gov't; case-study; Journal Article; Case Reports",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

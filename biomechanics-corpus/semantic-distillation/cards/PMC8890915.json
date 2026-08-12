@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8890915",
+  "paper_id": "doi:10.1055/s-0041-1731833",
+  "pmcid": "PMC8890915",
+  "source_record_sha256": "d8b1087b5dca17565360641c2c6e4eedd38a274af18cc9c47dd7344d369b62f3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bd0bf779919194b94ab93326d2078d7d0c7767504a0c64fedb73d5fcf9761096",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical Response of PEKK and PEEK As Frameworks for Implant-Supported Full-Arch Fixed Dental Prosthesis: 3D Finite Element Analysis",
+    "authors": "Villefort RF, Diamantino PJS, Zeidler SLVV, Borges ALS, Silva-Concílio LR, Saavedra GDFA, Tribst JPM.",
+    "year": 2022,
+    "journal": "European Journal of Dentistry",
+    "doi": "10.1055/s-0041-1731833",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

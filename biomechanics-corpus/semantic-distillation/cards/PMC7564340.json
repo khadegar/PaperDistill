@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7564340",
+  "paper_id": "doi:10.3390/cells9091995",
+  "pmcid": "PMC7564340",
+  "source_record_sha256": "68d5ae6517a145f6c7e80f653cf7876e665643148f0eb73b1ad2013186f2c918",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bdfd762a45c20f3fc1944bcabf78bda079ce38cd3be16f713871d6ce4b5cac87",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Establishment and Evaluation of an In Vitro System for Biophysical Stimulation of Human Osteoblasts",
+    "authors": "Stephan M, Zimmermann J, Klinder A, Sahm F, van Rienen U, Kämmerer PW, Bader R, Jonitz-Heincke A.",
+    "year": 2020,
+    "journal": "Cells",
+    "doi": "10.3390/cells9091995",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

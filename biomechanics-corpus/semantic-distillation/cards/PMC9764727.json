@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9764727",
+  "paper_id": "doi:10.1186/s13063-022-06974-7",
+  "pmcid": "PMC9764727",
+  "source_record_sha256": "d776c5297146713d85172bdabd10f931793a206cfeab0952f685315172bd1a28",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5a729e629adc6105ffc6a12c7ddac68a4e5eef48eb16775b32ed18edfbdac414",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Knee-Fix study: study protocol for a randomised controlled trial evaluating cemented and cementless components in total knee arthroplasty",
+    "authors": "Tay ML, Zeng N, Holland S, Bayan A, Farrington BJ, van Rooyen R, Sharp R, Elliott RSJ, Walker ML, Young SW.",
+    "year": 2022,
+    "journal": "Trials",
+    "doi": "10.1186/s13063-022-06974-7",
+    "publication_type": "Clinical Trial Protocol; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9260250",
+  "paper_id": "doi:10.3389/fbioe.2022.919721",
+  "pmcid": "PMC9260250",
+  "source_record_sha256": "6e1b509e751b043793a5bb909d5b87a309016238eb4e8f8da291b610607daaed",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "93ba0d552f7c1007568ebaf21062dc1613f5e516aefb3ec244be488413db03b4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Locking Plates With Computationally Enhanced Screw Trajectories Provide Superior Biomechanical Fixation Stability of Complex Proximal Humerus Fractures",
+    "authors": "Mischler D, Schader JF, Dauwe J, Tenisch L, Gueorguiev B, Windolf M, Varga P.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.919721",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

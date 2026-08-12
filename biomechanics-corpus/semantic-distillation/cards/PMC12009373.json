@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12009373",
+  "paper_id": "doi:10.1038/s41598-025-95577-8",
+  "pmcid": "PMC12009373",
+  "source_record_sha256": "d5e627d32747463e6ceee1e21b10936e96bde6e41a1bca0334551106f0ad9c27",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4e08bd5e48ba64cafc27595d0f9b428bf1cf4cab815ce273b6cb515097d32270",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Innovative approach in the treatment of comminuted proximal phalanx fractures in horses based on biomechanical modelling",
+    "authors": "Turek B, Jankowski K, Pawlikowski M, Jasiński T, Domino M.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-95577-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9845524",
+  "paper_id": "doi:10.1093/rb/rbac109",
+  "pmcid": "PMC9845524",
+  "source_record_sha256": "07a7c1922679a7c6185512b6e7bcc8a7cd9f2f3705055f6174d4e63016c847a0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2b339452c3a5b9e1d1f8068c773f1fcba132e1df638bb50c15871426d0b28b32",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteochondral regenerative engineering: challenges, state-of-the-art and translational perspectives",
+    "authors": "Barui S, Ghosh D, Laurencin CT.",
+    "year": 2022,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbac109",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7732879",
+  "paper_id": "doi:10.1016/j.bioactmat.2020.11.030",
+  "pmcid": "PMC7732879",
+  "source_record_sha256": "dd38f350b135a2e31f7a8440e2eacbf665cb5d3004b0f53ed6679e86c7812a16",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ec2107dcabc03e1829dc5119b4921e0b6f5deab48f10c2658239251f25a58978",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A trilogy antimicrobial strategy for multiple infections of orthopedic implants throughout their life cycle",
+    "authors": "Wang Y, Teng W, Zhang Z, Zhou X, Ye Y, Lin P, Liu A, Wu Y, Li B, Zhang C, Yang X, Li W, Yu X, Gou Z, Ye Z.",
+    "year": 2020,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2020.11.030",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

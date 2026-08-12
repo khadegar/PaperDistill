@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10728673",
+  "paper_id": "doi:10.3389/fbioe.2023.1297507",
+  "pmcid": "PMC10728673",
+  "source_record_sha256": "5fcddc2a21b8d195f942fe36758901dda15b7fa2227bb2a13b6db18b4ae86ccf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b997df9f851836ba582689fcefcd4556fa5203ac64090a90965c24177e8e449d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Proximal femoral bionic nail—a novel internal fixation system for the treatment of femoral neck fractures: a finite element analysis",
+    "authors": "Ding K, Zhu Y, Zhang Y, Li Y, Wang H, Li J, Chen W, Zhang Q, Zhang Y.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1297507",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

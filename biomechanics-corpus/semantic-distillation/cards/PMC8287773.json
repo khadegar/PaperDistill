@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8287773",
+  "paper_id": "doi:10.1186/s12967-021-02977-1",
+  "pmcid": "PMC8287773",
+  "source_record_sha256": "a7acf30a46b0f2e3520ecc2805889462b9b56800c1ce6dec70a19e5cfb04d8e2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cad609474d7dccc60f561621b96c092d3799adb590bd97def4d9ce59d0aa44f5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Model for in-vivo estimation of stiffness of tibiofemoral joint using MR imaging and FEM analysis",
+    "authors": "Jogi SP, Thaha R, Rajan S, Mahajan V, Venugopal VK, Singh A, Mehndiratta A.",
+    "year": 2021,
+    "journal": "Journal of Translational Medicine",
+    "doi": "10.1186/s12967-021-02977-1",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

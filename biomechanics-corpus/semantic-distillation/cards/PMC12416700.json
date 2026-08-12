@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12416700",
+  "paper_id": "doi:10.1371/journal.pone.0332041",
+  "pmcid": "PMC12416700",
+  "source_record_sha256": "1d5cf77e8eaada7f6ac052745a4e1c48cec77d8658298f34c601cd0236a747f6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "546c2714cfbad4a95cee5cb4e05fe8f58cdb1623bb59b25fb925ea9c036e5580",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanisms responsible for the ability of enoxaparin sodium to inhibit inflammatory responses in the immune microenvironment of bone repair: A transcriptomic sequencing study",
+    "authors": "Shen X, Yao Q, Ma L.",
+    "year": 2025,
+    "journal": "PLOS One",
+    "doi": "10.1371/journal.pone.0332041",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

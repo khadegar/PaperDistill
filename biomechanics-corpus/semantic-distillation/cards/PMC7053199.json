@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7053199",
+  "paper_id": "doi:10.7150/thno.42640",
+  "pmcid": "PMC7053199",
+  "source_record_sha256": "e2f203c490943187a3e617714fec932469be80c172a13a946403b3dd4bad686b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d3c46e37575fc65b4a311248220707b974b1952c9247fc881c97b92ca493137c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "RNA-based scaffolds for bone regeneration: application and mechanisms of mRNA, miRNA and siRNA",
+    "authors": "Leng Q, Chen L, Lv Y.",
+    "year": 2020,
+    "journal": "Theranostics",
+    "doi": "10.7150/thno.42640",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

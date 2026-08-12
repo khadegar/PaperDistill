@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11015422",
+  "paper_id": "doi:10.1016/j.heliyon.2024.e28978",
+  "pmcid": "PMC11015422",
+  "source_record_sha256": "a1727303680fc1dea4a3fa24c876d5621379a9561ad9a443ab9dd33a94332417",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ad4c1c3fe5bf388ab4272ca232bcee87ea6f4d49f49708b4ab43b5ed6941249d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A comparison of traditional and net structured intersomatic cages in the lombosacral region: A biomechanical analysis for enhancing discopathy treatment",
+    "authors": "Cucinotta F, Mineo R, Raffaele M, Salmeri F, Tartara F, Sfravara F.",
+    "year": 2024,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2024.e28978",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

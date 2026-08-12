@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8518570",
+  "paper_id": "doi:10.1002/elsc.202100034",
+  "pmcid": "PMC8518570",
+  "source_record_sha256": "996655bbb43e5273df0ff0cc9296749b29fd72c93984a00aa64bc7589008d72c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "effabaea3e506e79ac77f52a4ceb51806bebdd19135443675a2fa2f4841f9009",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patterned vascularization in a directional ice‐templated scaffold of decellularized matrix",
+    "authors": "Shen L, Song X, Xu Y, Tian R, Wang Y, Li P, Li J, Bai H, Zhu H, Wang D.",
+    "year": 2021,
+    "journal": "Engineering in Life Sciences",
+    "doi": "10.1002/elsc.202100034",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

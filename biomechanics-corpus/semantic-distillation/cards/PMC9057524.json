@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9057524",
+  "paper_id": "doi:10.1302/2046-3758.114.bjr-2021-0169.r1",
+  "pmcid": "PMC9057524",
+  "source_record_sha256": "caaf908becb03cc2a9f2552508b47b7ff1f20c8b222b1cf31e071f6339ba29cd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0181b2060ff03eec94a8d10c34e87099c5d799d29a457777abbad064b70cb80d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Does tibial design modification improve implant stability for total knee arthroplasty? An experimental cadaver study",
+    "authors": "Jaeger S, Eissler M, Schwarze M, Schonhoff M, Kretzer JP, Bitsch RG.",
+    "year": 2022,
+    "journal": "Bone & Joint Research",
+    "doi": "10.1302/2046-3758.114.bjr-2021-0169.r1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

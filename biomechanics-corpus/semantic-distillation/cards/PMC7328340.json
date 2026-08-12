@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7328340",
+  "paper_id": "doi:10.3389/fbioe.2020.00641",
+  "pmcid": "PMC7328340",
+  "source_record_sha256": "274e3ce2ebfc5700a2406b735a5fca27ed138acbef50dc10fbeab03b5dc1f069",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "31d2f1527d0b9937f3309b040cc78a8bb146fc4c4ab972b888f4f23bf958ce60",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modifying MSC Phenotype to Facilitate Bone Healing: Biological Approaches",
+    "authors": "Goodman SB, Lin T.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.00641",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

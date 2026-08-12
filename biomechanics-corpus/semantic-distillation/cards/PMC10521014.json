@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10521014",
+  "paper_id": "doi:10.1021/acsabm.3c00126",
+  "pmcid": "PMC10521014",
+  "source_record_sha256": "1514101b962f0672b6eb87f1441c299bde4e2bb290a13d2c361674f39d761207",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "59e4ef4ee18577222395a9e41ac789efe92754041747ad3b54b8c5847ce85ff6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cell-Laden 3D Hydrogels of Type I Collagen Incorporating Bacterial Nanocellulose Fibers",
+    "authors": "Malandain N, Sanz-Fraile H, Farré R, Otero J, Roig A, Laromaine A.",
+    "year": 2023,
+    "journal": "ACS Applied Bio Materials",
+    "doi": "10.1021/acsabm.3c00126",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

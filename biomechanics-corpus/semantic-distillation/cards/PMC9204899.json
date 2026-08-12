@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9204899",
+  "paper_id": "doi:10.1186/s12891-022-05543-y",
+  "pmcid": "PMC9204899",
+  "source_record_sha256": "1b55b8d7d72b2e86b7263dbf41ed30cd3e5127c904bafc292e77a9f117ce7aec",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "377ae7f72d090ac26775f747eae102cae90dc65c67cd10fb22f7e56ce9d2d1bf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical comparison of different interspinous process devices in the treatment of lumbar spinal stenosis: a finite element analysis",
+    "authors": "Liu Z, Zhang S, Li J, Tang H.",
+    "year": 2022,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-022-05543-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

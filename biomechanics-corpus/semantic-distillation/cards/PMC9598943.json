@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9598943",
+  "paper_id": "doi:10.3390/bioengineering9100491",
+  "pmcid": "PMC9598943",
+  "source_record_sha256": "4c1bf4af02207a2f81397471d9b607d7a54781ed3d3271a2c389bb7233b71193",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "59ec3190db48df6e143214caaefcd98bb063e605418c34450d6f528e433da316",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Optimization of Spinal Reconstructions for Thoracolumbar Burst Fractures to Prevent Proximal Junctional Complications: A Finite Element Study",
+    "authors": "Wong CE, Hu HT, Huang YH, Huang KY.",
+    "year": 2022,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering9100491",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

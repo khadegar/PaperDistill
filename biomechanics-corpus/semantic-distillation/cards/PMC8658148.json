@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8658148",
+  "paper_id": "doi:10.3390/ma14237184",
+  "pmcid": "PMC8658148",
+  "source_record_sha256": "d34f019f4b20daff425593c9a5a0486a928066fa1706b67ac02d3f0697706266",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2502799f43745f9e3220b0f3543133d67c1dcfb9c0029788835ee58d3bdbbd7d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Topology Optimisation for Compliant Hip Implant Design and Reduced Strain Shielding",
+    "authors": "Tan N, van Arkel RJ.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14237184",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

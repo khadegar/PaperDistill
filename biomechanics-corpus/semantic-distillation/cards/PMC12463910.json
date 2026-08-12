@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12463910",
+  "paper_id": "doi:10.3389/fbioe.2025.1671695",
+  "pmcid": "PMC12463910",
+  "source_record_sha256": "45eafec8502d55ed2f2af7707637013ad52065070174fa66f6b678d2a4490580",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0dc62fe98d1af1a74bbc3b4e498cd55a9edfffda4117a7ba599ac23adcaf5883",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of barium titanate-coated titanium alloy scaffolds on bone regeneration in osteonecrosis of the femoral head models: a comprehensive analysis based on in vitro and in vivo experiments",
+    "authors": "Chen Y, Ou Y, Xian C, Wu H, Pei G, Li W, Wang L, Shi L.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1671695",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

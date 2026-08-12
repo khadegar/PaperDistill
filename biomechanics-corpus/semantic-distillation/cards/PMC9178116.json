@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9178116",
+  "paper_id": "doi:10.3389/fbioe.2022.899531",
+  "pmcid": "PMC9178116",
+  "source_record_sha256": "4da7906c5b41888f25fc1ecdedc2619de4f11769207de4c551408c9790cede43",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2d27aba118e72e2be4284ce18ccc1145bef6a574bb52cd1fa9f4b016fa9350f3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Selective Laser Melting Fabrication of Porous Ti6Al4V Scaffolds With Triply Periodic Minimal Surface Architectures: Structural Features, Cytocompatibility, and Osteogenesis",
+    "authors": "Lv J, Jin W, Liu W, Qin X, Feng Y, Bai J, Wu Z, Li J.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.899531",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

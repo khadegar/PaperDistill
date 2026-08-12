@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12287565",
+  "paper_id": "doi:10.1177/09544119251348279",
+  "pmcid": "PMC12287565",
+  "source_record_sha256": "9f51fc3d7dcb2532d5880899a055d318248f940503013c978d850ff0bd3d4d2b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9ac35409698384c4c077ace1c88184603d36257247a8a8268cb25e8dd562252f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A finite element study of the effect of cross-link stabilisation in a lumbar spine tumour model",
+    "authors": "Lai J, Tomlinson J, Breakwell L, Lacroix D.",
+    "year": 2025,
+    "journal": "Proceedings of the Institution of Mechanical Engineers. Part H, Journal of Engineering in Medicine",
+    "doi": "10.1177/09544119251348279",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

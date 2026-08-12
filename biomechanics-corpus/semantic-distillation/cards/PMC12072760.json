@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12072760",
+  "paper_id": "doi:10.3390/ma18091902",
+  "pmcid": "PMC12072760",
+  "source_record_sha256": "72956fde23f10ad0f076a96a1026d22422625cdd8fc62f42952b1537d9b6bad7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3c460f61ca1347e01b05222dfab0703ebcd4c51c6e0ce061e33765686d7ec453",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Impact of Three-Dimensional Printer Technology on the Accuracy of Dental Implant Models",
+    "authors": "Strunz A, Berger L, Seidel A, Ries J, Adler W, Wichmann M, Matta RE.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18091902",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

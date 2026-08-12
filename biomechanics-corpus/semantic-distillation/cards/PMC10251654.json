@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10251654",
+  "paper_id": "doi:10.1186/s41205-023-00177-9",
+  "pmcid": "PMC10251654",
+  "source_record_sha256": "70a5c90b25d9da1242ed8f43d0940a5301fb64438fdf4287113a832621ff5969",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4699831a9cdba11603e9422337610846225b769e70273323d9dc0fda137877d4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Deformable titanium for acetabular revision surgery: a proof of concept",
+    "authors": "Magré J, Willemsen K, Kolken HMA, Zadpoor AA, Vogely HC, van der Wal BCH, Weinans H.",
+    "year": 2023,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-023-00177-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

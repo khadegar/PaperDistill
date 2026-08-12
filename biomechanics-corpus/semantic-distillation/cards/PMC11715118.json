@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11715118",
+  "paper_id": "doi:10.1016/j.mtbio.2024.101391",
+  "pmcid": "PMC11715118",
+  "source_record_sha256": "dab771a223482c316133874c7f076dd26ca4920154f499cce38ad0b77def61fb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8e1c099ba39252061d1bcbb785ea5bd4c9a99f1fadf6c1c218d610abe0b0e97d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Structurally sophisticated 3D-printed PCL-fibrin hydrogel meniscal scaffold promotes in situ regeneration in the rabbit knee meniscus",
+    "authors": "Ma H, Xie B, Chen H, Hao L, Jia H, Yu D, Zhou Y, Song P, Li Y, Liu J, Yu K, Zhao Y, Zhang Y.",
+    "year": 2024,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2024.101391",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

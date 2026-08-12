@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11727126",
+  "paper_id": "doi:10.1002/advs.202408459",
+  "pmcid": "PMC11727126",
+  "source_record_sha256": "6ef0693520dd715c94c300fb8d29d563be0ba912d900319dd52c55ccf173f8f1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "33b3a45aef95fc3576a9017c2c8ab028c0b05beefcf0c1a030d56156af77207b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D‐Printed Bioceramic Scaffolds Reinforced by the In Situ Oriented Growth of Grains for Supercritical Bone Defect Reconstruction",
+    "authors": "Zhang B, Wang K, Gui X, Wang W, Song P, Wu L, Guo L, Zhou C, Fan Y, Zhang X.",
+    "year": 2024,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202408459",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

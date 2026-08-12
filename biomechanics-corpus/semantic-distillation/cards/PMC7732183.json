@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7732183",
+  "paper_id": "doi:10.1126/sciadv.abc4704",
+  "pmcid": "PMC7732183",
+  "source_record_sha256": "234a40248cdd69e9650c235f814cdb6c1a7e93145c1ee5decc82f940fce3047d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1123799eba81f8824f0b0ceed3ab5e7b89ebfd72932b87eec039f010f30ea07c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A biomimetically hierarchical polyetherketoneketone scaffold for osteoporotic bone repair",
+    "authors": "Yuan B, Wang L, Zhao R, Yang X, Yang X, Zhu X, Liu L, Zhang K, Song Y, Zhang X.",
+    "year": 2020,
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.abc4704",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

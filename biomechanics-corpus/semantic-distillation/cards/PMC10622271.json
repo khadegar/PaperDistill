@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10622271",
+  "paper_id": "doi:10.1111/os.13862",
+  "pmcid": "PMC10622271",
+  "source_record_sha256": "6e62725d07fb4b8deac3f98b6f235d920eae9bfc891b3f4e24df8d3b926e1c7b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7c036bb955a088bcb3a5b05b153c388586a39e70c471f81288cd42e3126e2f51",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Parametric Design of Hallux Valgus Orthosis Based on Orthogonal Analysis",
+    "authors": "Tang Z, Wu Y, Bao W, Chen X, Zhang D, Korotkov AN, Zheng W, Gu S.",
+    "year": 2023,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13862",
+    "publication_type": "other; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

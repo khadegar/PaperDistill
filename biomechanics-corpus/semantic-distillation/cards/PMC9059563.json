@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9059563",
+  "paper_id": "doi:10.1039/c8ra10200g",
+  "pmcid": "PMC9059563",
+  "source_record_sha256": "4785e4d364cf1fa5aeb981c6873010a5fa2c9c6c4df45bedb0ff98f0d9cd9277",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cb3e910cca9aaa83165fe2d358362d985f4ae7fb4c27607c03cde8a8bebcba1d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Sintered porous Ti6Al4V scaffolds incorporated with recombinant human bone morphogenetic protein-2 microspheres and thermosensitive hydrogels can enhance bone regeneration",
+    "authors": "Li J, Li Z, Wang Q, Shi Y, Li W, Fu Y, Jin G.",
+    "year": 2019,
+    "journal": "RSC Advances",
+    "doi": "10.1039/c8ra10200g",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

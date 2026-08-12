@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10129633",
+  "paper_id": "pmcid:PMC10129633",
+  "pmcid": "PMC10129633",
+  "source_record_sha256": "7cabd93be3188e7a7900778b97f7d5f8bef823a444b93faaed9a3be2ee150be2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c77a88a8f292e90d453a763b7f434aad806051579f9657cc7f4f733f37e1f447",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "64 Finite Element Analysis of a Porous Dual Component 3D-Printed Bone Graft for Alveolar Ridge Augmentation",
+    "authors": "Benito Alston C, Villareal C, Moldovan N, Roudebush R, Barco C, Roudebush R, Chan D, Solorio L.",
+    "year": 2023,
+    "journal": "Journal of Clinical and Translational Science",
+    "doi": "10.1017/cts.2023.151",
+    "publication_type": "Abstract",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "other_substantive",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

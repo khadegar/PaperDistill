@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13027409",
+  "paper_id": "doi:10.3390/medicina62030599",
+  "pmcid": "PMC13027409",
+  "source_record_sha256": "f7906238ec9db15c8316ced75204bbc8e28f59623a20d2191b790b0e46735064",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3e111e8f8facfb877c54ad42b4715d8335a47ebf947db6174fdd287be279fca8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Additive Manufacturing in Orthopaedic Trauma: Current Evidence and Applications",
+    "authors": "Stavropoulos NA, Kantas F, Papadopoulos DV, Nikolaou VS, Babis GC.",
+    "year": 2026,
+    "journal": "Medicina",
+    "doi": "10.3390/medicina62030599",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

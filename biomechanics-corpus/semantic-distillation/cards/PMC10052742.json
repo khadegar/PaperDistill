@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10052742",
+  "paper_id": "doi:10.3390/ph16030352",
+  "pmcid": "PMC10052742",
+  "source_record_sha256": "ad752c0839f3bb03f15ff09441a926e37debc63ea8400402e140b61880591490",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "17c133decf4f5771b32b3e2e6ff24cd01e9c56b9162646037b1319a749d04b42",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multifunctional Three-Dimensional Printed Copper Loaded Calcium Phosphate Scaffolds for Bone Regeneration",
+    "authors": "Pillai A, Chakka J, Heshmathi N, Zhang Y, Alkadi F, Maniruzzaman M.",
+    "year": 2023,
+    "journal": "Pharmaceuticals",
+    "doi": "10.3390/ph16030352",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

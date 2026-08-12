@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13296178",
+  "paper_id": "pmcid:PMC13296178",
+  "pmcid": "PMC13296178",
+  "source_record_sha256": "0ca5a11992f6997508638e51fb4fc1238b874909eb8c202fe961894678785247",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f57ed77e31c7f03cc501f5a0141da00484cabf703446bc05a58d109f75f80bf5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "MaxI-Net: A 3D AI Framework for CBCT-Based Maxillofacial Defect Reconstruction and Patient-Specific Implant Generation with Biomechanical Validation",
+    "authors": "Juneja M, Kharbanda M, Pandey N, Sudhir A, Poddar A, Kaur H, Prakash P, Jaiswal M, Jindal P, Breedon P.",
+    "year": 2026,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering13060619",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

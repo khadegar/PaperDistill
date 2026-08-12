@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8717387",
+  "paper_id": "doi:10.1021/acsomega.1c04015",
+  "pmcid": "PMC8717387",
+  "source_record_sha256": "8806dadc7cbfc5bd8615cfeae05cff30715d29f019b200fb5eb6ac3a08347c37",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b88c93e66b8c409c6b71eb5c733e7faafac75bd72b62eb14669ed00c8e98b71a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed PCL Scaffolds Coated with Nanobioceramics Enhance Osteogenic Differentiation of Stem Cells",
+    "authors": "Fazeli N, Arefian E, Irani S, Ardeshirylajimi A, Seyedjafari E.",
+    "year": 2021,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.1c04015",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

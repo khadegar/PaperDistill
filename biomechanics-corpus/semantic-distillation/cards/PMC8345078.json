@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8345078",
+  "paper_id": "doi:10.3390/cancers13153662",
+  "pmcid": "PMC8345078",
+  "source_record_sha256": "5f7869742adb16b331b47f947f70f399f1d7a95e7055f22295038f1d12d66488",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6f150e57a398dab31141a47497f97fd279af8a69ab5f73e08746d1940134611f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fracture Risk of Long Bone Metastases: A Review of Current and New Decision-Making Tools for Prophylactic Surgery",
+    "authors": "Nguyễn MV, Carlier C, Nich C, Gouin F, Crenn V.",
+    "year": 2021,
+    "journal": "Cancers",
+    "doi": "10.3390/cancers13153662",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

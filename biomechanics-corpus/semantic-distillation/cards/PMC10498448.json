@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10498448",
+  "paper_id": "doi:10.1021/acs.biomac.3c00263",
+  "pmcid": "PMC10498448",
+  "source_record_sha256": "4ac0c7b9620243ab898bbf3169928031a57637c5d11ceb73dbb5c12426e812e6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "93f9f18db83a66aa709132afe28e74f6b7ed5877a315b2cadf3431016f78a362",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed Poly(3-hydroxybutyrate- co -3-hydroxyhexanoate)-Cellulose-Based Scaffolds for Biomedical Applications",
+    "authors": "Giubilini A, Messori M, Bondioli F, Minetola P, Iuliano L, Nyström G, Maniura-Weber K, Rottmar M, Siqueira G.",
+    "year": 2023,
+    "journal": "Biomacromolecules",
+    "doi": "10.1021/acs.biomac.3c00263",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4808658",
+  "paper_id": "doi:10.1155/2016/6183679",
+  "pmcid": "PMC4808658",
+  "source_record_sha256": "464b9d99426d84b1fec65c59f810842ad95c97042597394c4adfca8c812cf82b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bc6020e0b312271c75862bd86a95288cc61c7db0d9ea3819423205d64c8f8094",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of PEEK Coating on Hip Implant Stress Shielding: A Finite Element Analysis",
+    "authors": "Anguiano-Sanchez J, Martinez-Romero O, Siller HR, Diaz-Elizondo JA, Flores-Villalba E, Rodriguez CA.",
+    "year": 2016,
+    "journal": "Computational and Mathematical Methods in Medicine",
+    "doi": "10.1155/2016/6183679",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8808263",
+  "paper_id": "doi:10.1016/j.mtbio.2022.100206",
+  "pmcid": "PMC8808263",
+  "source_record_sha256": "9eb66aac766518afbf66609d7289bc821fa72d196131cbd6399dbc71c13b4513",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "68111a5402e2189894a34f99178c87d730c2b0c148f8c349e9afcc67477c6ed7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Sustained release of naringin from silk-fibroin-nanohydroxyapatite scaffold for the enhancement of bone regeneration",
+    "authors": "Zhao ZH, Ma XL, Ma JX, Kang JY, Zhang Y, Guo Y.",
+    "year": 2022,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2022.100206",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

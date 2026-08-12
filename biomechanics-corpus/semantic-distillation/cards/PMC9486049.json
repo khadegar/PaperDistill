@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9486049",
+  "paper_id": "doi:10.1016/j.bioactmat.2022.08.030",
+  "pmcid": "PMC9486049",
+  "source_record_sha256": "c1413d029147b21b97e8397b7af7314c2ee040c78fb0a71a4f9c93ffd8c6418a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cbc58606d1c074c609ee5c5eda95222de962fffe11b5142d85fbf7655f38634b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An anti-bacterial porous shape memory self-adaptive stiffened polymer for alveolar bone regeneration after tooth extraction",
+    "authors": "Zhang W, Yu M, Cao Y, Zhuang Z, Zhang K, Chen D, Liu W, Yin J.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2022.08.030",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

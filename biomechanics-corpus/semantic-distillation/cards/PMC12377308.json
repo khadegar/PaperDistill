@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12377308",
+  "paper_id": "doi:10.1039/d5ra02891d",
+  "pmcid": "PMC12377308",
+  "source_record_sha256": "cf3358a6b1e79674b9f9a8a2791cd296375b5fe9ad1487c8123563eddacf50f3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b8aee80cbfb8fefcc58eec6bced03cf13da1871843dc18d81589dada9ff548fe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tailoring cell behaviour by surface micropatterning and interconnected porous structure of gelatin/nano-silica/PLGA 3D composite scaffold for bone tissue engineering",
+    "authors": "Putri NRE, Chen H, Kawazoe N, Rose FRAJ, Wildman RD, Chen G.",
+    "year": 2025,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d5ra02891d",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

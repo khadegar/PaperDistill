@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11149757",
+  "paper_id": "doi:10.17843/rpmesp.2024.411.13333",
+  "pmcid": "PMC11149757",
+  "source_record_sha256": "23bfec0d3724a8e0b766fc4cf2580d49787435a9d7d24ba58c16889e2e340090",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "93cdde57c15e50e57bdf6574873ddf2665d2f954f28941b16cc744ce0b4c39f3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Metformin treatment prevents experimental metabolic syndrome-induced femoral bone marrow adiposity in rats",
+    "authors": "Lasalvia S, Sedlinsky C, Schurman L, McCarthy AD, Wanionok NE.",
+    "year": 2024,
+    "journal": "Revista Peruana de Medicina Experimental y Salud Publica",
+    "doi": "10.17843/rpmesp.2024.411.13333",
+    "publication_type": "review-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

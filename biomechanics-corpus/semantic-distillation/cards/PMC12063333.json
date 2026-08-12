@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12063333",
+  "paper_id": "doi:10.1186/s12891-025-08630-y",
+  "pmcid": "PMC12063333",
+  "source_record_sha256": "ba3945ef5203e2d890ecdd6cd2aa66f4fb042a0b73b3dc6a1a5f3b0e1b391c0e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0d0d137eda0e8fb5421be50a24aba58dad334e0e0d3de222f7ce6e26445ada41",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An investigation into the biomechanical effects of tibial vertical cutting errors on the proximal tibia after unicompartmental knee arthroplasty and the improvement of cutting planes",
+    "authors": "Ou D, Deng G, Qin G, Ye Y, Pan J, Huang Y, Kuang H, Tang S, Mo Y, Pan S.",
+    "year": 2025,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-025-08630-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

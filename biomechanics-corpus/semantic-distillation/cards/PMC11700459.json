@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11700459",
+  "paper_id": "doi:10.1186/s12903-024-05411-2",
+  "pmcid": "PMC11700459",
+  "source_record_sha256": "1f622a03bff58dcd2fd8d15851211b92ce682c1607ad7ccd4b4ebfdd771d79f5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ef8a427523c93e1ecd73a1e5f1cd4def6c84270c65b46bf10c1db391e22f5f48",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "LIPUS promotes osteogenic differentiation of rat BMSCs and osseointegration of dental implants by regulating ITGA11 and focal adhesion pathway",
+    "authors": "Liang C, Zhang Y, Yan Y, Geng W, Li J, Liu X.",
+    "year": 2025,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-024-05411-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

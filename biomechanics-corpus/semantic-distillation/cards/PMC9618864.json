@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9618864",
+  "paper_id": "doi:10.3389/fbioe.2022.1036061",
+  "pmcid": "PMC9618864",
+  "source_record_sha256": "4fcd2e0b1585685a26ac4bb95ccbf1820a0c09726e6e16d045130daa8d82f14f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "18e3ac6c37d9d289eb0b51461b09592da0f3fcf509d11aa9e35bd1f03d84a825",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of the biomechanical differences in the occlusal movement of wild-type and BMP9 knockout mice with apical periodontitis",
+    "authors": "Peng M, Ma X, Cao Y, Wang C, Tan Q, Chu X, Zhou P, Fu T, Liang P, Ran S, He TC, Wang J, Huang E.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1036061",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

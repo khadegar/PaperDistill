@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4470591",
+  "paper_id": "doi:10.1371/journal.pone.0128658",
+  "pmcid": "PMC4470591",
+  "source_record_sha256": "351a2ff569f6e578b3d69d7c498d223cbe1fa8fba59aa4402a418361035c59a4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c78e0b8df42094c31bcdfb9b9a568244d4e36fe13f39b8b117bf107e28936328",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Characterization of Silk Fibroin/Chitosan 3D Porous Scaffold and In Vitro Cytology",
+    "authors": "Zeng S, Liu L, Shi Y, Qiu J, Fang W, Rong M, Guo Z, Gao W.",
+    "year": 2015,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0128658",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

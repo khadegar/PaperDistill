@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11840525",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101524",
+  "pmcid": "PMC11840525",
+  "source_record_sha256": "d0068174899c44f0de3c5b6dabda8d026090e05bbb8c0642057fb22876035c76",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b3654ce508128b4a6f4038b29c6bea5c4670321712a54d2800757f6246fb25fa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed gallium-infused scaffolds for osteolysis intervention and bone regeneration",
+    "authors": "Xi H, Jiang X, Xiong S, Zhang Y, Zhou J, Liu M, Zhou Z, Zhang C, Liu S, Long Z, Zhou J, Qian G, Xiong L.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101524",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

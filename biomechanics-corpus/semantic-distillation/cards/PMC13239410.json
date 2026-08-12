@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13239410",
+  "paper_id": "doi:10.1002/jeo2.70766",
+  "pmcid": "PMC13239410",
+  "source_record_sha256": "f98aa95d17d868c8c3d18ebd1c5426773adeac932a000fb20d6c08e7ce72a7fd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b696fd7ab6731a9eeb35161b45781be7c127da12d7d2fd9fc93aeb0d61d7525f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advances in anterior cruciate ligament reconstruction: Risk stratification, graft choices, and functional recovery in 2026",
+    "authors": "Kayaalp ME, Konstantinou E, Lucidi GA, Ak O, Mengis N, Nukuto K, Kahraman HC, Sezgin EA, Prill R.",
+    "year": 2026,
+    "journal": "Journal of Experimental Orthopaedics",
+    "doi": "10.1002/jeo2.70766",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12152663",
+  "paper_id": "doi:10.1016/j.mtbio.2025.101879",
+  "pmcid": "PMC12152663",
+  "source_record_sha256": "6fac5fa61dc3b154f1b274dd559a7a61349c6249efe191b417f6938025f71b99",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0e47e08bf17682f3d6d13f06711324951ded3a23be08525ca718c2fd8fbb3796",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "TGF-β1/BSA coating modulates multi-phasic scaffolds for osteochondral tissue regeneration",
+    "authors": "Ghorbani F, Ghalandari B, Detsch R, Liu C, Boccaccini AR.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.101879",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10352085",
+  "paper_id": "doi:10.3389/fbioe.2023.1209752",
+  "pmcid": "PMC10352085",
+  "source_record_sha256": "c5119a62d03bd507920d8d320ae9cc37a5012598307b6ff0517e40bad6d6eaff",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "18fef52862a3172aabbf227ff07d40e94a9bb476f2abb0561ec5a656e49919f3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced bone regeneration via local low-dose delivery of PTH 1-34 in a composite hydrogel",
+    "authors": "Zhang S, Ding L, Chen G, Zhang J, Ge W, Qu Y.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1209752",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

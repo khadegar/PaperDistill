@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11204886",
+  "paper_id": "doi:10.3390/jfb15060156",
+  "pmcid": "PMC11204886",
+  "source_record_sha256": "4c684e29d60305de2623df525d3a7dec718c98d4e35d5308ee28170881210d95",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2c4d4f2686cc0b4cd44b0e706b65b45de88c15e7dffe7e23a789c847966dcccd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An Investigative Study on the Oral Health Condition of Individuals Undergoing 3D-Printed Customized Dental Implantation",
+    "authors": "Ma H, Kou Y, Hu H, Wu Y, Tang Z.",
+    "year": 2024,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb15060156",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

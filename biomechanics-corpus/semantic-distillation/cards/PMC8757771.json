@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8757771",
+  "paper_id": "doi:10.3389/fmedt.2020.571626",
+  "pmcid": "PMC8757771",
+  "source_record_sha256": "0a8fe131958d13dda388d1bb3bb8a3c720b790f40dc248da892227d192d02083",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "29074407322443a4b473fc8344a99d9ab0000225a147f72c26cb3390b47ca5c4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Modeling the Three-Dimensional Bioprinting Process of β-Sheet Self-Assembling Peptide Hydrogel Scaffolds",
+    "authors": "Chiesa I, Ligorio C, Bonatti AF, De Acutis A, Smith AM, Saiani A, Vozzi G, De Maria C.",
+    "year": 2020,
+    "journal": "Frontiers in Medical Technology",
+    "doi": "10.3389/fmedt.2020.571626",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

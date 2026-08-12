@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8834768",
+  "paper_id": "doi:10.3390/ijms23031045",
+  "pmcid": "PMC8834768",
+  "source_record_sha256": "b2b3085f046a685c255a8875d97ad240e368c44ba58859cc108734be2d33c8a1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a08c019bd6301b9ac6a84172c82f55584b3aa14b0c96eb40cd5aac913984110f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Active Materials for 3D Printing in Small Animals: Current Modalities and Future Directions for Orthopedic Applications",
+    "authors": "Memarian P, Pishavar E, Zanotti F, Trentini M, Camponogara F, Soliani E, Gargiulo P, Isola M, Zavan B.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms23031045",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

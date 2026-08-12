@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8878505",
+  "paper_id": "doi:10.3390/pharmaceutics14020282",
+  "pmcid": "PMC8878505",
+  "source_record_sha256": "05de2093f6af84bde7cbf6a1e84e25f2cfa6ed629e24ddd3614d6bf1529ac4cf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "82bdb25d66ad4e65e7a3399e3f3b37e8b5391819f3bcba0ffddbc5b0322a3fff",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Incorporation of Etanercept into a Porous Tri-Layer Scaffold for Restoring and Repairing Cartilage Tissue",
+    "authors": "Campos Y, Fuentes G, Almirall A, Que I, Schomann T, Chung CK, Jorquera-Cordero C, Quintanilla L, Rodríguez-Cabello JC, Chan A, Cruz LJ.",
+    "year": 2022,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics14020282",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

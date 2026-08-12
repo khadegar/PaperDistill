@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7779248",
+  "paper_id": "doi:10.1007/s42242-020-00109-0",
+  "pmcid": "PMC7779248",
+  "source_record_sha256": "a7215492a6ac6edcb920b3849e7831ed23287f828435d935313409a4a0fe0175",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "deff2fb3e8e8f4a7c9a4c3e5caae98a96d3127cd63de826022259b992ee6589d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing of tissue engineering scaffolds: a focus on vascular regeneration",
+    "authors": "Wang P, Sun Y, Shi X, Shen H, Ning H, Liu H.",
+    "year": 2021,
+    "journal": "Bio-Design and Manufacturing",
+    "doi": "10.1007/s42242-020-00109-0",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

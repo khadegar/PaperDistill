@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12764866",
+  "paper_id": "doi:10.1038/s41368-025-00410-7",
+  "pmcid": "PMC12764866",
+  "source_record_sha256": "abc85e0bac983cd093bb60265b24ce4ae4830c4218f1f35b11dc417d4497906a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "67f7eabf7f56efdcfbe75286e1636f27513361b5ee8242f717b50bfcca2dca43",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Next-generation craniomaxillofacial implants for reconstructive surgery: balancing biomechanics, biocompatibility, and bioactivity",
+    "authors": "Hou B, Li Y, Wong RCW.",
+    "year": 2026,
+    "journal": "International Journal of Oral Science",
+    "doi": "10.1038/s41368-025-00410-7",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10436581",
+  "paper_id": "doi:10.3389/fmed.2023.1234764",
+  "pmcid": "PMC10436581",
+  "source_record_sha256": "ca071d7bc7d21cb4e952e4b8036fa24fce0e1eeace0f8eedc4d80fdc6da57aa7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f59dbfce0555f802e986d3d489e1a7aef914d2560184a9e3f0b4acece6e83c8c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of curative effect between OBS assisted by 3D printing and PFNA in the treatment of AO/OTA type 31-A3 femoral intertrochanteric fractures in elderly patients",
+    "authors": "Huang J, Xiong Y, Mithu MM, Li J, Geng C, Lu J, Ren Y, Yang Z, Gan X, Zhang A, Yang H, Chen Z.",
+    "year": 2023,
+    "journal": "Frontiers in Medicine",
+    "doi": "10.3389/fmed.2023.1234764",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12702351",
+  "paper_id": "doi:10.1016/j.mtbio.2025.102607",
+  "pmcid": "PMC12702351",
+  "source_record_sha256": "9941bb095f8a85ecd0c2589d3b39ef66c00a43bb5b8ac92ef428e8b2b04371f7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f12e4b6acba988651f0614a4d235008d1ee8bd9ec257d85e30a52a4e1e3755fa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bifunctional 3D-printed PEEK scaffolds incorporating hydrogel-encapsulated magnesium-quinone nanosheets for antibacterial activity and mandibular bone regeneration",
+    "authors": "Su Q, Luo T, Pan M, Liu J, Yang H, Hu X, Qian Z.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.102607",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

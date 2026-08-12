@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8940767",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.12.005",
+  "pmcid": "PMC8940767",
+  "source_record_sha256": "711d8efb239063b245f7a3834720eb0ed4d2fb9651b9a5fb3ea271064f116269",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4d058d933e9c22099f2d4f7a847f2d932ca7d45bc1302efe02a1151da0cef3e2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An overview of substrate stiffness guided cellular response and its applications in tissue regeneration",
+    "authors": "Yi B, Xu Q, Liu W.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.12.005",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

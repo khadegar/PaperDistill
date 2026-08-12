@@ -1,0 +1,325 @@
+{
+  "study": {
+    "article_kind": "original_computational_finite_element_study",
+    "design_features": [
+      "explicit_dynamic_fea",
+      "six_virtual_gyroid_variants",
+      "hybrid_solid_neck_vs_fully_latticed",
+      "mesh_sensitivity",
+      "cortical_cancellous_bone_model",
+      "cad_design_not_manufactured"
+    ],
+    "research_problem": "A solid dental implant can concentrate load at the neck and bone interface, while an overly compliant porous design may compromise initial stability. The study therefore asks how gyroid architecture, cell size, and a solid neck alter the modeled stress and displacement response of a dental implant assembly under oblique mastication.",
+    "exact_gap": "Most of the cited lattice FE work used quasi-static or compression settings; the authors identify a lack of explicit dynamic analysis that compares fully latticed and solid-neck hybrid dental implants across cell sizes under a cyclic oblique chewing load.",
+    "objective_or_hypothesis": "Evaluate six virtual designs—fully latticed FLI_111/222/333 and hybrid HI_111/222/333—using explicit dynamic FE analysis, and test the hypothesis that a square-threaded base plus a solid neck in the hybrid designs reduces stress concentration and modeled micromotion relative to fully latticed designs during cyclic mastication.",
+    "study_design": "CAD-based implant, crown, abutment, retaining-screw, cortical-bone, and cancellous-bone assembly modeled in nTopology and ABAQUS/CAE with explicit dynamic loading. Three nominal gyroid cell sizes and two architecture classes were compared; a mesh-size study was run only for FLI_333. No specimens were fabricated or mechanically, biologically, or clinically tested in the reported study.",
+    "sample_or_model": "Virtual assembly based on a 13–14.32 mm long, 4.1 mm diameter, 0.8 mm wall dental implant with a square-threaded lower region and anti-rotational connection; cortical and cancellous bone were represented as anisotropic/orthotropic material inputs. The load was a 118.2 N oblique resultant resolved into 23.4 N mesiodistal, 17.1 N buccolingual, and 114.6 N apical components, applied at 2 Hz for three cycles over 1.5 s. Bone–bone contact was tied, bone–implant friction coefficients were 0.65 and 0.77, and several implant-component interfaces were bonded (S003:C01-S007:C02).",
+    "comparators": [
+      "Fully latticed FLI_111, FLI_222, and FLI_333 versus hybrid solid-neck HI_111, HI_222, and HI_333 (S004:C01; S011:C01-S012:C02).",
+      "Nominal gyroid cell sizes of 1, 2, and 3 mm within each architecture class (S004:C01; S011:C01-S012:C02).",
+      "Stress in implant, retaining screw, cortical bone, cancellous bone, crown, and abutment components (S013:C01-S015:C02).",
+      "Element sizes from 0.1 to 0.5 mm for an FLI_333 mesh-sensitivity check (S010:C01)."
+    ],
+    "method_spine": [
+      "Construct the implant and bone assembly in Creo from a Straumann-referenced geometry and add square threads, gyroid regions, and an anti-rotational connection (S003:C01-S004:C01).",
+      "Export CAD to nTopology, assign 0.1 mm and coarser mesh regions, and apply the reported bone, titanium, porcelain, contact, and boundary-condition inputs (S005:C01-S007:C02).",
+      "Run explicit dynamic ABAQUS/CAE simulations for a 118.2 N oblique 2 Hz mastication waveform over three cycles (S006:C01-S006:C02; S009:C01).",
+      "Check mesh-size dependence for FLI_333, then compare peak von Mises stress and modeled microstrain/displacement across architecture, cell size, and assembly components (S010:C01-S016:C03).",
+      "Describe additive manufacturing, physical testing, biological testing, and sterilization as a future workflow rather than as completed experiments (S008:C01-S008:C03; S017:C07)."
+    ],
+    "validation_roles": {
+      "verification": [
+        "A mesh-size comparison for FLI_333 found little change in the reported maximum stress between 0.1 and 0.15 mm elements and selected 0.1 mm for that virtual model (S010:C01; S017:C02)."
+      ],
+      "calibration": [
+        "No parameter calibration against independent experimental stress, displacement, fatigue, or interface data was reported; material properties and loading values were assigned from cited or assumed inputs (S005:C01-S007:C02)."
+      ],
+      "validation": [
+        "No independent physical or biological validation was performed. Agreement of the load description with values used in earlier publications is contextual benchmarking, not specimen validation (S009:C01; S017:C01-S017:C02)."
+      ],
+      "sensitivity": [
+        "The formal mesh sensitivity is limited to FLI_333 and maximum stress; the six design/cell-size comparisons are a design sweep rather than a quantified uncertainty or parameter-sensitivity analysis (S010:C01-S012:C02)."
+      ],
+      "application_prediction": [
+        "All stress, strain, displacement, stiffness, micromotion, osseointegration, durability, and clinical-viability statements beyond the virtual assembly are predictions or interpretations from the FE model, not measured outcomes (S009:C01-S018:C02)."
+      ]
+    },
+    "primary_outcomes": [
+      "For fully latticed implants, reported peak implant von Mises stress decreased from 533.48 MPa (FLI_111) to 420.11 MPa (FLI_222) and 394.24 MPa (FLI_333); the text locates concentrations near the implant–bone contact, neck, and component interfaces (S011:C01).",
+      "For hybrid implants, reported peak implant stress was 512.58 MPa (HI_111), 407.93 MPa (HI_222), and 366.52 MPa (HI_333), with the text describing lower stress for the larger cells but also using HI_222 as a preferred compromise elsewhere (S012:C01-S012:C02).",
+      "The comparison section reports lower hybrid implant and retaining-screw stresses than corresponding fully latticed designs for several cell sizes, including 410.25 MPa for HI_111 and 312.58 MPa for its retaining screw, but does not provide a complete matched table for every screw value (S013:C01-S013:C02).",
+      "Bone and component stress values vary by architecture and location: examples include 148.70 MPa cortical stress for FLI_111, 81.05 MPa for FLI_333, 9.89/7.64/4.72 MPa cancellous stress for FLI_111/222/333, and 97.27 MPa cortical plus 6.12 MPa cancellous stress for HI_222 (S014:C01-S014:C02).",
+      "Crown and abutment stresses were lower in the reported hybrid series than the fully latticed series, with crown values of 15.03/4.88/4.04 MPa and abutment values of 672.38/581.92/492.72 MPa for HI_111/222/333 (S015:C01-S015:C02).",
+      "Modeled microstrain/displacement was cyclic and architecture-dependent; the fully latticed series reached approximately 1100 and 1095 microstrain for FLI_333 and FLI_222, whereas the hybrid cortical-bone series was reported near 225, 190, and 160 microstrain for HI_333, HI_222, and HI_111 at the stated endpoint (S016:C01-S016:C03).",
+      "The paper presents additive manufacturing, CT, compression/fatigue, ISO, sterilization, and biological checks as later workflow steps, not as observed outcomes of this article (S008:C01-S008:C03; S017:C07)."
+    ],
+    "highest_evidence_level_reached": "Model-level comparative prediction with a limited mesh verification/sensitivity check; no independent physical validation, as-built characterization, fatigue/corrosion testing, bone-ingrowth measurement, or clinical evidence."
+  },
+  "argument_map": {
+    "central_claim": "Within the specified virtual FE model, adding a solid neck and square-threaded region to a gyroid implant generally lowers several reported component stresses and modeled micromotion relative to fully latticed variants; however, the preferred cell size is not consistent across reported metrics and the study does not establish physical durability, osseointegration, or clinical benefit.",
+    "data": [
+      "Six virtual fully and hybrid gyroid designs with 1, 2, and 3 mm nominal cells were compared under one oblique dynamic load (S004:C01; S006:C01-S009:C01).",
+      "Mesh-size variation for FLI_333 was used to select a 0.1 mm element size on the basis of maximum-stress stability (S010:C01).",
+      "FE outputs included peak implant/screw/bone/crown/abutment stress and cyclic microstrain or displacement (S011:C01-S016:C03).",
+      "The discussion and conclusion extend those model outputs toward osseointegration, durability, and clinical use, while the manufacturing and biological steps are explicitly future work (S017:C06-S018:C02)."
+    ],
+    "warrant": "A virtual architecture comparison can show how the specified geometry and boundary conditions redistribute modeled stress or displacement, but the warrant stops at the model because no fabricated, as-built, fatigue, tissue, or clinical endpoint tests the downstream claims.",
+    "backing": [
+      "The design classes and cell-size matrix are explicit, and mesh sensitivity provides a limited implementation check (S004:C01; S010:C01).",
+      "Hybrid and fully latticed results are reported for several implant components, allowing a conditional rather than single-value comparison (S013:C01-S015:C02)."
+    ],
+    "qualifier": "The strongest defensible interpretation is conditional on the idealized CAD geometry, assigned material properties, tied/bonded contacts, fixed boundary conditions, one loading waveform, and short three-cycle simulation.",
+    "rebuttals_or_boundaries": [
+      "The paper calls HI_222 an optimum or clinically ideal design, but the reported stress values often decrease further at HI_333 and do not consistently identify a single optimum (S012:C01; S017:C02-S017:C05).",
+      "Some values and trends conflict across Results and Discussion, including FLI versus HI bone stress, abutment stress, retaining-screw stress, and the direction of the FLI_111 micro-motion interpretation (S014:C01-S015:C02; S016:C01-S016:C03; S017:C02-S017:C06).",
+      "Fixed/tied/bonded contacts and a short idealized load history do not establish behavior under fixation loss, interface slip, wear, corrosion, defects, or long-term fatigue (S006:C01-S008:C02; S017:C07).",
+      "The planned AM, CT, mechanical, ISO, sterilization, and biological stages are not evidence that a printable as-built implant or patient outcome was achieved (S008:C01-S008:C03; S017:C07-S018:C02)."
+    ],
+    "argument_coherence": "moderate"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "No physical, biological, or clinical outcome was measured in the reported study; dimensions, material constants, and force components function as model inputs rather than experimental measurements."
+    ],
+    "predicted": [
+      "Explicit FE predictions of peak von Mises stress in implant, screw, bone, crown, and abutment components under the stated 118.2 N oblique waveform (S009:C01-S015:C02).",
+      "Predicted cyclic microstrain/displacement and interface micromotion patterns for the fully and hybrid lattice variants (S016:C01-S016:C03).",
+      "Mesh-size-dependent stress predictions used to select a 0.1 mm element size for FLI_333 (S010:C01)."
+    ],
+    "inferred": [
+      "A solid neck and larger gyroid cells are inferred to improve load distribution and mechanical stability from the simulated stress patterns, but the causal mechanism is not independently tested (S011:C01-S015:C02).",
+      "Lower modeled micromotion is inferred to favor osseointegration and implant longevity, although no bone ingrowth, fixation, fatigue, or clinical endpoint was measured (S016:C03; S017:C06-S017:C08).",
+      "The claim that HI_222 is the optimum is an interpretation, not a uniquely supported result, because several reported metrics favor HI_333 or conflict across sections (S012:C01; S017:C02-S017:C05)."
+    ],
+    "recommended": [
+      "Fabricate and characterize as-built lattice implants, including CT geometry, defects, surface state, dimensional accuracy, and material state before using the design for physical claims (S008:C01-S008:C03; S017:C07).",
+      "Run independent static, fatigue, corrosion, wear, interface-fixation, biological, and in-vivo tests under relevant loading and healing conditions before translating the FE ranking to clinical use (S017:C07-S018:C02)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Modeled von Mises stress is a numerical response, not measured failure, fatigue life, or abutment loosening.",
+      "Modeled microstrain/displacement is an interface proxy, not bone-to-implant contact, bone ingrowth, osseointegration, or patient function.",
+      "CAD and virtual AM workflow descriptions do not substitute for as-built metrology, process qualification, or biological safety testing.",
+      "A three-cycle 2 Hz simulation does not establish long-term durability, corrosion resistance, or clinical survival."
+    ],
+    "overclaim_risks": [
+      "The abstract and conclusion convert virtual stress/micromotion patterns into improved osseointegration, durability, patient outcomes, and clinical viability without corresponding validation (S001:C01-S001:C02; S017:C06-S018:C02).",
+      "The term optimum/clinically ideal is stronger than the incomplete and internally inconsistent metric comparisons justify (S012:C01; S017:C02-S017:C05).",
+      "The paper describes future manufacturing, fatigue, biological, and sterilization steps as a viability roadmap; these should not be reported as completed validation (S008:C01-S008:C03).",
+      "Reported microstrain and displacement units/trends are not consistently separated, creating a risk of overstating interface stability (S016:C01-S016:C03)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Narrow a broad biomimetic-implant motivation into a dynamic FE gap and explicit comparator hypothesis.",
+      "execution": "The Introduction moves from TPMS/additive-manufacturing context to the scarcity of explicit dynamic analysis, then names fully latticed versus solid-neck hybrid designs and cell-size comparisons (S002:C04-S002:C06).",
+      "locator": "S002:C05",
+      "effectiveness": "moderate",
+      "transferable_principle": "End the Introduction with the exact loading regime, design factors, comparator, and modeled endpoint before using optimization or clinical language.",
+      "failure_mode": "A general claim about porous structures improving vascularization or clinical outcomes should not be allowed to stand in for the untested FE-to-biology bridge."
+    },
+    {
+      "section": "methods",
+      "move": "Expose the design contract and model dependencies before presenting stress maps.",
+      "execution": "Geometry, cell sizes, mesh regions, material inputs, dynamic force components, boundary conditions, and contact assumptions are laid out before the result sections (S003:C01-S008:C03).",
+      "locator": "S006:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "For a computational implant study, state geometry/material provenance, loads, contacts, supports, mesh choices, and the status of any future manufacturing step before interpreting a numerical optimum.",
+      "failure_mode": "Calling an assigned material property or planned printing parameter measured/as-built evidence hides the model boundary."
+    },
+    {
+      "section": "results",
+      "move": "Order numerical evidence from verification to architecture, component, and interface responses.",
+      "execution": "The article first reports loading and mesh behavior, then implant stress, bone/component stress, and cyclic microstrain across the design matrix (S009:C01-S016:C03).",
+      "locator": "S010:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "Keep mesh verification separate from application predictions and show the full architecture-by-cell-size pattern before selecting a design.",
+      "failure_mode": "A single favorable design or one stress map cannot establish an optimum when other metrics or sections point to a different cell size."
+    },
+    {
+      "section": "discussion",
+      "move": "Relate stress and micromotion patterns to a bounded mechanism while acknowledging conflicting values and missing validation.",
+      "execution": "The Discussion links a solid neck and gyroid region to load-path changes, compares designs with prior lattice work, and later acknowledges fatigue, corrosion, manufacturing, and in-vivo gaps (S017:C01-S017:C08).",
+      "locator": "S017:C07",
+      "effectiveness": "low_to_moderate",
+      "transferable_principle": "When a computational Discussion moves toward translation, retain contradictions and stop at modeled stress/micromotion unless independent physical or biological tests support the next rung.",
+      "failure_mode": "The article repeatedly turns model-level reductions into osseointegration or clinical-success claims before its own future-work caveats."
+    },
+    {
+      "section": "conclusion",
+      "move": "Compress a multi-design FE comparison into a candidate design while exposing the evidence ceiling.",
+      "execution": "The conclusion highlights hybrid designs, especially HI_222, and links lower modeled stress/micromotion to fixation and patient outcomes (S018:C01-S018:C02).",
+      "locator": "S018:C01",
+      "effectiveness": "low",
+      "transferable_principle": "A conclusion may name a conditional computational candidate, but it must state that the ranking is virtual and identify the physical, fatigue, biological, and clinical tests still missing.",
+      "failure_mode": "Using words such as demonstrates, improves osseointegration, or establishes clinical standards without a validated endpoint upgrades a prediction into a result."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The Discussion acknowledges that fatigue, corrosion, manufacturing complexity, and long-term biological function remain unresolved and calls for metal AM fabrication and in-vivo testing (S017:C06-S017:C07).",
+      "The proposed compression/fatigue, CT, ISO, sterilization, and biocompatibility steps are presented as future workflow stages rather than completed experiments (S008:C01-S008:C03)."
+    ],
+    "reader_identified": [
+      "No physical specimens, as-built geometry, dimensional metrology, mechanical test, fatigue runout, corrosion/wear exposure, tissue response, bone ingrowth, or clinical cohort were reported.",
+      "The formal mesh study covered only FLI_333 and maximum stress; no convergence tolerance, independent mesh check, uncertainty propagation, or sensitivity to contacts/material properties was reported (S010:C01).",
+      "Tied cortical–cancellous bone and bonded component interfaces plus an Encastre-style constraint may suppress slip and redistribution that would occur in a surgically fixed, healing, or degraded interface (S006:C01-S007:C02).",
+      "Several reported values and trends conflict: FLI versus HI bone stress, abutment and retaining-screw values, the preferred HI_222 versus HI_333 cell size, and the interpretation of FLI_111 micromotion (S013:C01-S017:C06).",
+      "The packet does not report statistical replication, confidence intervals, result uncertainty, or a clinically justified micromotion threshold; numerical precision therefore should not be read as experimental certainty."
+    ],
+    "likely_bias_direction": [
+      "Ideal CAD geometry, assigned homogeneous/orthotropic properties, fixed/tied/bonded interfaces, and a short deterministic load history likely understate variability, interface slip, manufacturing defects, and long-term failure modes.",
+      "Selecting a preferred hybrid design from model outputs without an as-built or physical comparator likely favors the apparent performance of the idealized hybrid architecture and may overstate translation.",
+      "Using stress and micromotion proxies as evidence for osseointegration or clinical success biases the interpretation upward relative to the directly supported model rung.",
+      "Contradictory values and unit descriptions make the direction of some cell-size effects uncertain rather than predictably favorable."
+    ],
+    "scope_boundary": "The study supports conditional, model-specific comparisons of stress and cyclic microstrain/displacement among six idealized gyroid dental-implant designs under one explicit dynamic load. It does not demonstrate an as-built implant, fatigue or corrosion life, fixation, bone ingrowth, osseointegration, animal response, patient outcome, or clinical superiority."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC11856169-01",
+      "capability": "Separate a computational design contract from an unexecuted additive-manufacturing roadmap, labeling future fabrication, testing, and sterilization as recommendations rather than evidence.",
+      "manuscript_use": "Methods provenance, Results boundary, and translational Discussion.",
+      "applicable_domains": [
+        "topology_optimization",
+        "porous_scaffold",
+        "additive_manufacturing",
+        "bone_implant"
+      ],
+      "applicable_study_designs": [
+        "computational",
+        "finite_element"
+      ],
+      "supporting_locators": [
+        "S008:C01",
+        "S008:C02",
+        "S008:C03",
+        "S017:C07"
+      ],
+      "counterexample_or_boundary": "The capability applies when a paper explicitly separates simulated design steps from later fabrication/testing; it does not justify assuming that a planned AM parameter was actually qualified or that a CAD geometry was as-built.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC11856169-02",
+      "capability": "Use a complete architecture-by-cell-size comparator matrix and call a design a conditional compromise only when stress, component, bone, and interface metrics are reconciled rather than cherry-picked.",
+      "manuscript_use": "Computational Results synthesis and design-selection Discussion.",
+      "applicable_domains": [
+        "porous_scaffold",
+        "topology_optimization",
+        "bone_implant"
+      ],
+      "applicable_study_designs": [
+        "computational",
+        "finite_element"
+      ],
+      "supporting_locators": [
+        "S011:C01",
+        "S012:C01",
+        "S013:C01",
+        "S014:C01",
+        "S015:C01",
+        "S017:C02"
+      ],
+      "counterexample_or_boundary": "If metrics disagree, as they do for the preferred HI_222 versus HI_333 choice and some bone/abutment values, report the trade-off or unresolved ranking instead of claiming one global optimum.",
+      "confidence": "moderate",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC11856169-03",
+      "capability": "Apply a validation firewall that treats mesh sensitivity as verification, design sweeps as conditional predictions, and agreement with prior loading settings as contextual benchmarking rather than physical validation.",
+      "manuscript_use": "Methods verification ledger, Results, and audit of computational claims.",
+      "applicable_domains": [
+        "biomechanics",
+        "bone_implant",
+        "topology_optimization"
+      ],
+      "applicable_study_designs": [
+        "computational",
+        "finite_element"
+      ],
+      "supporting_locators": [
+        "S009:C01",
+        "S010:C01",
+        "S017:C01",
+        "S017:C02"
+      ],
+      "counterexample_or_boundary": "A mesh check cannot validate material behavior, contact mechanics, fatigue, bone response, or a clinical endpoint; an independent experiment is required for those rungs.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC11856169-04",
+      "capability": "Preserve contradictory numerical values, endpoint units, and section-specific trends in the card before summarizing a preferred topology.",
+      "manuscript_use": "Results audit, Discussion limitation, and anti-overclaim revision.",
+      "applicable_domains": [
+        "biomechanics",
+        "bone_implant",
+        "porous_scaffold"
+      ],
+      "applicable_study_designs": [
+        "computational",
+        "finite_element"
+      ],
+      "supporting_locators": [
+        "S014:C01",
+        "S015:C01",
+        "S016:C01",
+        "S016:C02",
+        "S017:C02",
+        "S017:C05"
+      ],
+      "counterexample_or_boundary": "When a discrepancy can be resolved by returning to a figure/table or unit definition, resolve it; when the packet itself remains inconsistent, retain the conflict and lower confidence rather than selecting the favorable value.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC11856169-05",
+      "capability": "Keep modeled stress and micromotion on their own evidence rung and explicitly block the proxy bridge to osseointegration, fatigue life, or patient outcomes until independent endpoints are available.",
+      "manuscript_use": "Abstract/conclusion audit, Discussion, and translational boundary.",
+      "applicable_domains": [
+        "bone_implant",
+        "osseointegration",
+        "porous_scaffold"
+      ],
+      "applicable_study_designs": [
+        "computational",
+        "finite_element"
+      ],
+      "supporting_locators": [
+        "S016:C03",
+        "S017:C06",
+        "S017:C07",
+        "S017:C08",
+        "S018:C01",
+        "S018:C02"
+      ],
+      "counterexample_or_boundary": "Lower modeled displacement can be a useful design hypothesis, but it does not establish bone contact, tissue quality, fatigue resistance, or clinical success without the corresponding measurement and comparator.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate",
+    "methods_transparency": "moderate",
+    "validation_credibility": "low_to_moderate",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "moderate for the virtual six-design matrix; uncertain where reported values conflict",
+    "conclusion_proportionality": "low",
+    "critical_weaknesses": [
+      "No independent experimental or biological validation.",
+      "Only one limited mesh-sensitivity case and no uncertainty/replication analysis.",
+      "Idealized contacts, boundary conditions, material assumptions, and short loading history.",
+      "Internal numerical/trend inconsistencies and unit ambiguity.",
+      "Clinical, osseointegration, and durability claims exceed the measured evidence rung."
+    ],
+    "overall_credibility": "moderate for the reported conditional FE stress patterns; low for claims about fatigue, osseointegration, implant longevity, patient outcomes, or clinical superiority"
+  },
+  "summary_zh": "该文是原创计算有限元研究，不是实验、动物或临床研究。作者用 Creo/nTopology/ABAQUS 建立含皮质骨、松质骨、冠、基台、螺钉和种植体的虚拟装配，比较三种名义陀螺 TPMS 单元尺寸下的全晶格 FLI 与实心颈部混合 HI 设计，并施加 118.2 N、2 Hz、1.5 s 的斜向咀嚼载荷。结果在模型层面通常显示混合结构降低若干种植体、骨和基台应力及周期性微应变，但 HI_222、HI_333、骨应力、螺钉/基台数值和微应变单位在不同段落并不完全一致。网格敏感性只针对 FLI_333 的最大应力，未提供独立物理验证、试件、疲劳/腐蚀、CT、骨长入或临床数据。制造、质量控制、灭菌和生物相容性是未来路线；因此可迁移的写作能力是把 FE 验证、虚拟预测、未执行的制造路线和 proxy-to-clinical 越级分开，并在矛盾数值未解决时降低结论强度。",
+  "reader_notes": [
+    "Primary Luna reader read all 52 non-reference packet chunks in order, from S001:C01 through S027:C01; no packet chunks were omitted.",
+    "Full-text classification corrected the cue set: this is an original computational FE study. The packet contains no completed experimental mechanical, in-vivo animal, clinical, or biological study despite those lexical design cues.",
+    "The article acknowledges future AM, CT, compression/fatigue, ISO, sterilization, and in-vivo work; those statements were kept as recommendations rather than completed validation.",
+    "Self-review flagged cross-section numerical/trend conflicts and mixed microstrain/displacement units before writing the overlay (S012:C01; S014:C01-S017:C06)."
+  ]
+}

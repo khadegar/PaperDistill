@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7570222",
+  "paper_id": "doi:10.3390/polym12091962",
+  "pmcid": "PMC7570222",
+  "source_record_sha256": "efbd1008a27e30c77c25c632488d3a485154351d3429ca03b38b8a67cbc43437",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e3add99f949997a31add3e36615edc7ddd15e4a9cc5f9a2b9ae43a29f6a6661e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed Polycaprolactone/Gelatin/Bacterial Cellulose/Hydroxyapatite Composite Scaffold for Bone Tissue Engineering",
+    "authors": "Cakmak AM, Unal S, Sahin A, Oktar FN, Sengor M, Ekren N, Gunduz O, Kalaskar DM.",
+    "year": 2020,
+    "journal": "Polymers",
+    "doi": "10.3390/polym12091962",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

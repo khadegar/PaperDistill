@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5455497",
+  "paper_id": "doi:10.3390/ma8085259",
+  "pmcid": "PMC5455497",
+  "source_record_sha256": "a1792e310be72b43608a40e5904a410994caf0f02f2dcc9483e93dfac14a1bdc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fd93ccb0cab4ec9543b4bd090fafc99f415e9811b8635868188087d84cca4720",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Different Three-Dimensional Open Porous Titanium Scaffold Designs on Human Osteoblasts Behavior in Static and Dynamic Cell Investigations",
+    "authors": "Markhoff J, Wieding J, Weissmann V, Pasold J, Jonitz-Heincke A, Bader R.",
+    "year": 2015,
+    "journal": "Materials",
+    "doi": "10.3390/ma8085259",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

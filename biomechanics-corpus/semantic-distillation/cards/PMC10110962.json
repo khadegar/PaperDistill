@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10110962",
+  "paper_id": "doi:10.3389/fbioe.2023.1127939",
+  "pmcid": "PMC10110962",
+  "source_record_sha256": "0f6b251d4c51f4da324e6debde21b068ab6fba360df718c33cf12b43f1f780a0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "034b8eb07b68644a761073c9803cab2917e4020de2b0b244ace29681750833ba",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preparation, modification, and clinical application of porous tantalum scaffolds",
+    "authors": "Wang X, Zhou K, Li Y, Xie H, Wang B.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1127939",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

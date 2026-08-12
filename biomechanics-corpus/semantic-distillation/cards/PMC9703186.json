@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9703186",
+  "paper_id": "pmcid:PMC9703186",
+  "pmcid": "PMC9703186",
+  "source_record_sha256": "3f3e5f915557319e02ac7b4d7867174122a76f5f0941b2bfe2fb45a419c43b74",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5d86993c77596b355bea5fec94f2f8ffd2e217f90d69442f3a59172e04a44bd3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Stress Shielding and Aseptic Loosening in Fully Porous-Coated vs Smooth Stemmed Tibial Implants in Total Ankle Arthroplasty",
+    "authors": "",
+    "year": 2022,
+    "journal": "Foot & Ankle Orthopaedics",
+    "doi": "10.1177/2473011421s00973",
+    "publication_type": "Abstract",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "other_substantive",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

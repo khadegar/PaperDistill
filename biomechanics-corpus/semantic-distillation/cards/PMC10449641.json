@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10449641",
+  "paper_id": "doi:10.3389/fbioe.2023.1240125",
+  "pmcid": "PMC10449641",
+  "source_record_sha256": "3b1ca9d3d69a709208c65f0ca3322004c73f9b8e04369e46ea3eeedbd0525c2a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "789793a6ccb0b0bc4571f9f7dceb683e2f3fe77f3f2a7b7356ca2d9995b2cdbc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fatigue life of 3D-printed porous titanium dental implants predicted by validated finite element simulations",
+    "authors": "Vautrin A, Aw J, Attenborough E, Varga P.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1240125",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10104657",
+  "paper_id": "doi:10.1002/advs.202205878",
+  "pmcid": "PMC10104657",
+  "source_record_sha256": "1fb8be3b5d30e62103e4a913068ed010b5b253437333cc2c9656beb51ea25349",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c9eb8048dfcf78bc15e82c9747aa6e25856da6d46f8c2e364376ca1ac3a973e5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimetic Convex Implant for Corneal Regeneration Through 3D Printing",
+    "authors": "Xu Y, Liu J, Song W, Wang Q, Sun X, Zhao Q, Huang Y, Li H, Peng Y, Yuan J, Ji B, Ren L.",
+    "year": 2023,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202205878",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

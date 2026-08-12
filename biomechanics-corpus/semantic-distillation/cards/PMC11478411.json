@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11478411",
+  "paper_id": "doi:10.3390/polym16192784",
+  "pmcid": "PMC11478411",
+  "source_record_sha256": "d3d7860a82b8aa389805cdcaee7c8fb7d25f56d3c814fb9ee30202fe8000a253",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "51ca6f2649dad0fd9b0dffef5ea5f1b320297acf0a52d7cd792331e956f9e50b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of Additives on the Cell Metabolic Activity of New PHB/PLA-Based Formulations by Means of Material Extrusion 3D Printing for Scaffold Applications",
+    "authors": "Dominguez-Candela I, Sempere-José L, Sandoval-Perez I, Martínez-García A.",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16192784",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

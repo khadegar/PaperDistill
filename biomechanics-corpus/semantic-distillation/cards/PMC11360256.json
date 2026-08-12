@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11360256",
+  "paper_id": "doi:10.3390/pharmaceutics16081095",
+  "pmcid": "PMC11360256",
+  "source_record_sha256": "3113499ab74bcca3f1f5fe3917d555c7d700cbd6848d02b9ab9d27192fe23cd8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ceaff292de8935bba7fd8491c7a336f18722fc8f5cc89655c286b95518e09938",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Drug-Loaded Bioscaffolds for Osteochondral Regeneration",
+    "authors": "Tong Y, Yuan J, Li Z, Deng C, Cheng Y.",
+    "year": 2024,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics16081095",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12077239",
+  "paper_id": "doi:10.1098/rsos.241935",
+  "pmcid": "PMC12077239",
+  "source_record_sha256": "1476a17b529159178e34b9cb8acfaf4b5cd03ff7ee7e760d0c507a1a027502b5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4955c6c46ff3bca2cf88ffe777a1db01fa23355e281134af99cf669efa5808a8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tuning and validation of a virtual mechanical testing pipeline for condylar stress fracture risk assessment in Thoroughbred racehorses",
+    "authors": "Irandoust S, Whitton C, Henak C, Muir P.",
+    "year": 2025,
+    "journal": "Royal Society Open Science",
+    "doi": "10.1098/rsos.241935",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

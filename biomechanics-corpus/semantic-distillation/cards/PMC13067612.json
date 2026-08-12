@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13067612",
+  "paper_id": "doi:10.1186/s12903-026-07987-3",
+  "pmcid": "PMC13067612",
+  "source_record_sha256": "09d0d7da09788c64db8d375e872d44aa2b161e9e52c8c567165a3333b4ddc7bc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ee69978e6f5214cff3519417cc86eedc54b2918568a9786e66fc8e545a75b38e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Predicting fracture risk in Y-TZP zirconia implants using radiomics-based artificial intelligence",
+    "authors": "Gönüldaş F, Alan A, Buyuksungur A, Akat B, Seçkiner PA, Keşan AB, Orhan K.",
+    "year": 2026,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-026-07987-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

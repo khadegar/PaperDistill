@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10525821",
+  "paper_id": "doi:10.3390/bioengineering10091066",
+  "pmcid": "PMC10525821",
+  "source_record_sha256": "8deb245daac8cc112cdc0360a4417344701019eea9b428ba78d1641b39b6636d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "01493326876b73b741c1bfa826cac0e7798271b5d4cfabe77ef697a6c93b381f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Potential of Deep Learning to Advance Clinical Applications of Computational Biomechanics",
+    "authors": "Truskey GA.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10091066",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

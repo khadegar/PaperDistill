@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7862140",
+  "paper_id": "doi:10.1111/os.12867",
+  "pmcid": "PMC7862140",
+  "source_record_sha256": "38bffda24325b35863f51a48fdf0949689c98c6a5187ba98269b8370b4c1d64d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ccc27b49d444830371241cc363ac75fd68f1002e57c9d9d2c39aeb78a420b2e9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Precontoured Plate Fixation for Incomplete Atypical Diaphyseal Fracture of Femur using Three‐Dimensional Printing Rapid Prototyping: Two Cases Reports",
+    "authors": "Won H, Baek SH, Kim CH, Kim DH, Yoon JW, Kim SY.",
+    "year": 2020,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.12867",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8739742",
+  "paper_id": "doi:10.1016/j.jds.2021.07.020",
+  "pmcid": "PMC8739742",
+  "source_record_sha256": "32115b169eaa36f256916b85c6ef81653a86db442358d178ad450df30395fb08",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "df6b3a6eb17f9d6def40011c3328aeb6a1f07ea77b6c30403f47e69ea159c13f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical analysis of rigid and non-rigid connection with implant abutment designs for tooth-implant supported prosthesis: A finite element analysis",
+    "authors": "Huang YC, Ding SJ, Yuan C, Yan M.",
+    "year": 2021,
+    "journal": "Journal of Dental Sciences",
+    "doi": "10.1016/j.jds.2021.07.020",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

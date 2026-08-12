@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11960543",
+  "paper_id": "doi:10.1016/j.jot.2024.10.012",
+  "pmcid": "PMC11960543",
+  "source_record_sha256": "6cc419013b1995c3db7484a87f0fcc81a9e9cacf049da41dc16d5c40856cf546",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "191d286f5ac78382ddc08448ca59de114147a275b430712db095b250b4b7bf72",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Moderate static magnetic field regulates iron metabolism and salvage bone loss caused by iron accumulation",
+    "authors": "Zhen C, Wang S, Yang J, Zhang G, Cai C, Wang J, Wang A, Xu Y, Fang Y, Wei M, Yin D, Luo X, Gong M, Zhang H, Shang P.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2024.10.012",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

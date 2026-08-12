@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11005825",
+  "paper_id": "doi:10.1021/acsbiomaterials.3c01629",
+  "pmcid": "PMC11005825",
+  "source_record_sha256": "95317011649246eccd2e6460ee671a07264557a1b7a69e8d9bb201f92e835943",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9b13bd56c8e39c3b6aaf1ba25fa7f7f027112eedc398d164e8650687f76928b5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Preclinical Evaluation of Bioactive Small Intestinal Submucosa-PMMA Bone Cement for Vertebral Augmentation",
+    "authors": "Zhang C, Cai X, Li M, Peng J, Mei J, Wang F, Zhang R, Zhou Y, Fang S, Xia D, Zhao J.",
+    "year": 2024,
+    "journal": "ACS Biomaterials Science & Engineering",
+    "doi": "10.1021/acsbiomaterials.3c01629",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

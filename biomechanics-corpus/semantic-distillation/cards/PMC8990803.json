@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8990803",
+  "paper_id": "doi:10.3389/fbioe.2022.835008",
+  "pmcid": "PMC8990803",
+  "source_record_sha256": "91207e5e5756fbbb989e6802093c8f56f37b76f076d87ebfd8695cf8f67e695c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5c9d74c912046d7bb16c7f12d7d81703dab6ab5e74acabb848e6ffc385937714",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surface Modification Techniques to Produce Micro/Nano-scale Topographies on Ti-Based Implant Surfaces for Improved Osseointegration",
+    "authors": "Hou C, An J, Zhao D, Ma X, Zhang W, Zhao W, Wu M, Zhang Z, Yuan F.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.835008",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

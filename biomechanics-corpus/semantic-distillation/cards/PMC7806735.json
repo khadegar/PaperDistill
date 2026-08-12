@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7806735",
+  "paper_id": "doi:10.1038/s41598-020-79734-9",
+  "pmcid": "PMC7806735",
+  "source_record_sha256": "5702fad8bb9087523860f0e0ba9293c75243b7339d0ba83a9632ba5ae21601d3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "68d330ce2f80b552e4a1c791bc354201b3e6e82b0fde8f0fcb5d228e2e19f85b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Berberine-releasing electrospun scaffold induces osteogenic differentiation of DPSCs and accelerates bone repair",
+    "authors": "Ma L, Yu Y, Liu H, Sun W, Lin Z, Liu C, Miao L.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-020-79734-9",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

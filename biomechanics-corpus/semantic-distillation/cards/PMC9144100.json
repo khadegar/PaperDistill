@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9144100",
+  "paper_id": "doi:10.3390/mi13050780",
+  "pmcid": "PMC9144100",
+  "source_record_sha256": "21f46916cbb4c653e37606440fd4ad43ccfe47f50af92e6a0dd037b73aab3bd5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "64efd4ef934276f643d88618cb5c7c26b6b14fa5cdba59d67bced161a3981b3a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "From Soft to Hard Biomimetic Materials: Tuning Micro/Nano-Architecture of Scaffolds for Tissue Regeneration",
+    "authors": "Carotenuto F, Politi S, Ul Haq A, De Matteis F, Tamburri E, Terranova ML, Teodori L, Pasquo A, Di Nardo P.",
+    "year": 2022,
+    "journal": "Micromachines",
+    "doi": "10.3390/mi13050780",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7982960",
+  "paper_id": "doi:10.3389/fvets.2021.623318",
+  "pmcid": "PMC7982960",
+  "source_record_sha256": "979aadf4f2ed26f76e719c74883be6d5518edc0d5562919bfe96c289030dcbb5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "20812809c45231e2742c8a94f9c6e95a0b8bafde19eb06f316960e1a3f0368b4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "EquiSim: An Open-Source Articulatable Statistical Model of the Equine Distal Limb",
+    "authors": "Van Houtte J, Vandenberghe F, Zheng G, Huysmans T, Sijbers J.",
+    "year": 2021,
+    "journal": "Frontiers in Veterinary Science",
+    "doi": "10.3389/fvets.2021.623318",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

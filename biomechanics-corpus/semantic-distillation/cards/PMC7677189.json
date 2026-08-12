@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7677189",
+  "paper_id": "doi:10.3389/fbioe.2020.589094",
+  "pmcid": "PMC7677189",
+  "source_record_sha256": "e8a5b5dc8e6c98370cf33dc907566e5205983f1504cc6788e62eb577bdf263e6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7a5860cdea59ce0622d4f55e4ef66939c54332d8eb43c1e3d0dfb7bc4d3a4442",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Desktop-Stereolithography 3D Printing of a Polyporous Extracellular Matrix Bioink for Bone Defect Regeneration",
+    "authors": "Luo Y, Pan H, Jiang J, Zhao C, Zhang J, Chen P, Lin X, Fan S.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.589094",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

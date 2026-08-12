@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10136332",
+  "paper_id": "doi:10.3390/bioengineering10040394",
+  "pmcid": "PMC10136332",
+  "source_record_sha256": "9fd082dc03e0e57110aef40fe7f3fec9a33399e4dac89d78f853e130783888ed",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e1ac1927bd0569fffe8d8f73e56cbc5108625fceb3b2d2bcb6c5cf48eb89d85e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Investigation of the In Vitro and In Vivo Biocompatibility of a Three-Dimensional Printed Thermoplastic Polyurethane/Polylactic Acid Blend for the Development of Tracheal Scaffolds",
+    "authors": "Abdul Samat A, Abdul Hamid ZA, Jaafar M, Ong CC, Yahaya BH.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10040394",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

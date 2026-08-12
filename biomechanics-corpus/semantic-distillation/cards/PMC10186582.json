@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10186582",
+  "paper_id": "doi:10.1177/20417314231170371",
+  "pmcid": "PMC10186582",
+  "source_record_sha256": "71e82c69c03cb3b047090107e051ca02cb9c55f957bc4bb20b509df60c5e5a83",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a6818263cc421c900631860aba540b02378046d1d13a2c2edba3d989db6ee3ab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multifunctional 3D-printed bioceramic scaffolds: Recent strategies for osteosarcoma treatment",
+    "authors": "Liu X, Liu Y, Qiang L, Ren Y, Lin Y, Li H, Chen Q, Gao S, Yang X, Zhang C, Fan M, Zheng P, Li S, Wang J.",
+    "year": 2023,
+    "journal": "Journal of Tissue Engineering",
+    "doi": "10.1177/20417314231170371",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

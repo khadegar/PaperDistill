@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7438412",
+  "paper_id": "doi:10.3389/fbioe.2020.00963",
+  "pmcid": "PMC7438412",
+  "source_record_sha256": "4b94e6693072c22358ad54cdc988f48761b852b6ff6d0284b179be52eba4eb15",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "943ea826f2b4bf6dcca73eb2529fa4824b4af18f513db0a3ba6bc227bd115f7e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Determination of Three-Dimensional Corrective Force in Adolescent Idiopathic Scoliosis and Biomechanical Finite Element Analysis",
+    "authors": "Guan T, Zhang Y, Anwar A, Zhang Y, Wang L.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.00963",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

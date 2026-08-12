@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9758190",
+  "paper_id": "doi:10.1038/s41598-022-26215-w",
+  "pmcid": "PMC9758190",
+  "source_record_sha256": "f93a058e356ee262c375ecd67d3acb2e0da9b7e256759c86b766e1cbba9d9433",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "81156660ce1789afdecee7dbd42577fc25a8d0eda2cbd71ad255a4db52791c35",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Efficacy of bone stimulators in large-animal models and humans may be limited by weak electric fields reaching fracture",
+    "authors": "Verma N, Le T, Mudge J, Nicksic PJ, Xistris L, Kasole M, Shoffstall AJ, Poore SO, Ludwig KA, Dingle AM.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-26215-w",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

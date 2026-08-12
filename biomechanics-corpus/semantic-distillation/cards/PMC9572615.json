@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9572615",
+  "paper_id": "doi:10.3390/polym14194021",
+  "pmcid": "PMC9572615",
+  "source_record_sha256": "879f9b46cecea7fad407f588b27532e55179ed32ff6f5d74d361cf0369c58a10",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e0b3576af75ceb928f0e2073e4d36ee73a6860b58bab31d730370c3a0536e535",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of Poly-3-Hydroxybutyrate (P3HB) Scaffolds Used for Epidermal Cells Growth as Potential Biomatrix",
+    "authors": "García-Cerna S, Sánchez-Pacheco U, Meneses-Acosta A, Rojas-García J, Campillo-Illanes B, Segura-González D, Peña-Malacara C.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14194021",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

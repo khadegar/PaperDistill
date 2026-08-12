@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5768757",
+  "paper_id": "doi:10.1038/s41598-017-15564-6",
+  "pmcid": "PMC5768757",
+  "source_record_sha256": "d78533f8aa7fd3ee53bf0367d411d41868f09864818cb8e4f752106bea9f8924",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "745a3962aabc9e307e42f9afd52e538a6defaa7a18e71dfdf5c5bb0f4b9f650c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Electron beam melting in the fabrication of three-dimensional mesh titanium mandibular prosthesis scaffold",
+    "authors": "Yan R, Luo D, Huang H, Li R, Yu N, Liu C, Hu M, Rong Q.",
+    "year": 2018,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-017-15564-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

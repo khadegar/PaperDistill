@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12923467",
+  "paper_id": "doi:10.1007/s10856-026-07013-6",
+  "pmcid": "PMC12923467",
+  "source_record_sha256": "7e46206a7c521607358f242914d33170d0acd6328f6cc2f6148343915e0dd933",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "76ab8bb4fa96864777da085503f6c934122376e15039fb293a11c8ce6295fdef",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of thin porous ceramic coatings on implant stability: a comparative study of GB14 and β-TCP with and without Cu",
+    "authors": "Genchev M, Nagels C, Schmal H, Kubosch EJ, Lanzino MC, Killinger A, Dembski S, Höppel A, Neubauer J, Seidenstuecker M.",
+    "year": 2026,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-026-07013-6",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

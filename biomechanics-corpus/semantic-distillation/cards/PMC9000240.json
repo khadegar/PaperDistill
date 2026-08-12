@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9000240",
+  "paper_id": "doi:10.3390/ma15072621",
+  "pmcid": "PMC9000240",
+  "source_record_sha256": "078f2daffbb0b647659e2d5a1254191e07a22465e572fa11d84969e0e4198b14",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "546a365cbbdc2c2066649d4f583bd0bc3d41faffcbe7de7e0b1a9624b6943eaa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed Hydroxyapatite and Tricalcium Phosphates-Based Scaffolds for Alveolar Bone Regeneration in Animal Models: A Scoping Review",
+    "authors": "Mohd N, Razali M, Ghazali MJ, Abu Kasim NH.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15072621",
+    "publication_type": "Scoping Review; review-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11365125",
+  "paper_id": "doi:10.1186/s12891-024-07816-0",
+  "pmcid": "PMC11365125",
+  "source_record_sha256": "c2e3314d3a012fdafebf8a8f0b7a22188d6ec07eb0bc23564c996ca4313f961c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a3e9d6381c38c8e59d0dc978aef3be164f79fd909c4d59cb161d3956978344e9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bispherical metal augment improved biomechanical stability in severe acetabular deficiency reconstruction: a comparative finite element analysis",
+    "authors": "Li G, Zhang X, Chen M, Luo Z, Ji X, Pan C, Li H, Shang XF.",
+    "year": 2024,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-024-07816-0",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

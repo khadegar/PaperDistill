@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11463961",
+  "paper_id": "doi:10.1242/jeb.247030",
+  "pmcid": "PMC11463961",
+  "source_record_sha256": "2362372ac024473c5cea13e2a64cc05a68520f09d9268ea96bd207f1d642bdda",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dba5af4f1b546a4575d7165bd5bbea02fb6a79fb41b4f7fc84e5933f681c4b87",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A new biomechanical model of the mammal jaw based on load path analysis",
+    "authors": "Wilken AT, Schultz JA, Luo ZX, Ross CF.",
+    "year": 2024,
+    "journal": "The Journal of Experimental Biology",
+    "doi": "10.1242/jeb.247030",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

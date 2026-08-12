@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13176973",
+  "paper_id": "doi:10.1021/acsomega.5c10905",
+  "pmcid": "PMC13176973",
+  "source_record_sha256": "d25568e5674e47841c6d6d21e0eb3d31735468444d8dc6575965fba3eb202792",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9eef6c3aee2f32bfaa6aa03d22e551df6fbd9e745e7a6c9533d30e38a2658863",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Assessment of 3D Printed PEG–PCL/nHA Composite Scaffolds for Bone Regeneration",
+    "authors": "Hu C, Luo Q, Cen C, Pan Y, Deng Y, Zhu K, Huang H, Feng C.",
+    "year": 2026,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.5c10905",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

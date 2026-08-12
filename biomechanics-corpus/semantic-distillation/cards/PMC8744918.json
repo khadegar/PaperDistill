@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8744918",
+  "paper_id": "doi:10.3390/cells11010026",
+  "pmcid": "PMC8744918",
+  "source_record_sha256": "bfb18dca607d9d6bfa1523eaba7a522f1c79a6ee93cb7b942ed110bbe2b38339",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "89a06172c5eca02516be8e1c482b607040d1c48041a3007c470978b147cbc1b6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Assessment of Collagen-Based Nanostructured Biomimetic Systems with a Co-Culture of Human Bone-Derived Cells",
+    "authors": "Borciani G, Montalbano G, Melo P, Baldini N, Ciapetti G, Vitale-Brovaron C.",
+    "year": 2021,
+    "journal": "Cells",
+    "doi": "10.3390/cells11010026",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

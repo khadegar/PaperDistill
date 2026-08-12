@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13063341",
+  "paper_id": "doi:10.7759/cureus.104976",
+  "pmcid": "PMC13063341",
+  "source_record_sha256": "0f0bec0a8a7ca3e12c3e7f9fe92a61daec052c37d04d9a90e95dfe861d4f0ecb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "81834171e7eecb7b703b6faa6814bd83f0f9a81bb546affa93ef1b9201392dfd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Biomechanical Study of Pull-Out Strength in Fenestrated Pedicle Screws Inserted Into Osteoporotic Cancellous Bone Models Using the Jamshidi Needle: A Comparative Analysis of Cement Volumes and Augmentation Techniques",
+    "authors": "Khosa RS, Harun MHB, Lim TS, Safian S, Abdullah MN.",
+    "year": 2026,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.104976",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

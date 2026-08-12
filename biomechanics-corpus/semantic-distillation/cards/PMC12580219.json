@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12580219",
+  "paper_id": "doi:10.1111/os.70159",
+  "pmcid": "PMC12580219",
+  "source_record_sha256": "6b4cb91d9d08e35dcb6eaa7c7c30ae2f75300e312268c1cbc6c8ee4e18d5715f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5532bcd1692de1debeafd74c70bd38c14b95d17e61464932dcd1504c75f1feba",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical Application of 3D ‐Printed Custom Hemipelvic Prostheses With Re‐Entrant Chiral Structure in Reconstruction After Pelvic Tumor Resection",
+    "authors": "Tan L, Li Y, Hu X, Wang Y, Zhang X, Liu X, Luo Y, Zhou Y, Tu C, Yang X, Min L.",
+    "year": 2025,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.70159",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

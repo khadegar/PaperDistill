@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9238241",
+  "paper_id": "doi:10.1186/s12891-022-05522-3",
+  "pmcid": "PMC9238241",
+  "source_record_sha256": "99df54608cdf6ed39c47a3acab77f4f8941ef6e9d255c0fa6cbbcd0d55f5899a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c8d0d22a57d9dc2b3fa8ef4ca23326bc2e5800f731cdaeb82a1dd983cbcf328c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A finite element analysis on different bone cement forms and injection volumes injected into lumbar vertebral body in percutaneous kyphoplasty",
+    "authors": "Zhang X, Chen T, Meng F, Li S, Xu G, Yan J, Zhao W.",
+    "year": 2022,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-022-05522-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC2676665",
+  "paper_id": "pmcid:PMC2676665",
+  "pmcid": "PMC2676665",
+  "source_record_sha256": "d7e384211d0b24f474e42aabfee0e34e4c24c0ab84fad1ff9ff84ee96ddef09a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e96005db64848024773f57af2a0f95ac6e2dc3cbbe05a334d9895226814c5a1d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Increased osteoblast cell density on nanostructured PLGA-coated nanostructured titanium for orthopedic applications",
+    "authors": "Smith LJ, Swaim JS, Yao C, Haberstroh KM, Nauman EA, Webster TJ.",
+    "year": 2007,
+    "journal": "International Journal of Nanomedicine",
+    "doi": null,
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

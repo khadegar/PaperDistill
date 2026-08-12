@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12029934",
+  "paper_id": "doi:10.3390/mi16040429",
+  "pmcid": "PMC12029934",
+  "source_record_sha256": "6fe08dc80577badc4c914f22a46af0b81ad2dcc9b464bdcd5ece274fd77f4202",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ce9fe5cae4c16e394ca0fa6056c147f7c07c8a73a77c90fede480fb2a86d982e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multi-Nozzles 3D Bioprinting Collagen/Thermoplastic Elasto-Mer Scaffold with Interconnect Pores",
+    "authors": "Yao K, Guo K, Wang H, Zheng X.",
+    "year": 2025,
+    "journal": "Micromachines",
+    "doi": "10.3390/mi16040429",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

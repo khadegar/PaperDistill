@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8532336",
+  "paper_id": "doi:10.1186/s12903-021-01905-5",
+  "pmcid": "PMC8532336",
+  "source_record_sha256": "572ebc9823ce769fff5ec96420822b5af8ab5d47a0d929a77f6c20b81bce7c89",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "94e897147400f9c543fc2e15e2d746fe64aea030c5bb0b0d417a1718a43232a4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical analysis of subcondylar fracture fixation using miniplates at different positions and of different lengths",
+    "authors": "Huang CM, Chan MY, Hsu JT, Su KC.",
+    "year": 2021,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-021-01905-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

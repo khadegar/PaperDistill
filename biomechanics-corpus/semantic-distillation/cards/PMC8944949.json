@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8944949",
+  "paper_id": "doi:10.3390/bioengineering9030108",
+  "pmcid": "PMC8944949",
+  "source_record_sha256": "45b2b417859250e9511bfbbcb28935902cedb2ca788f059978a68c984962d95b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5878c8e8ac6e037fb91cf49b06dc6579ff896667a83f7db2cf324e7e8a7aea6c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Spinal Implant Osseointegration and the Role of 3D Printing: An Analysis and Review of the Literature",
+    "authors": "Kia C, Antonacci CL, Wellington I, Makanji HS, Esmende SM.",
+    "year": 2022,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering9030108",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

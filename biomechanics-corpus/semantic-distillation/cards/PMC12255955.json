@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12255955",
+  "paper_id": "doi:10.1002/jeo2.70341",
+  "pmcid": "PMC12255955",
+  "source_record_sha256": "fa6064fbafd42ff19f36c0619c708ab6e4eb159463e59729adba5e4459c1ed61",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a9edb1cd45dff110a9c555a7f61d58d06ae3ada84d857787f9919e5f08408972",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Artificial intelligence−driven analysis identifies arthroscopic shoulder surgery, meniscus injury and treatment, and total knee arthroplasty design biomechanics as the most commonly published topics in Knee Surgery, Sports Traumatology, Arthroscopy",
+    "authors": "Baird H, Kodali P, Gallegos M, Newton W, Jenkins S, Slone H, Pullen M.",
+    "year": 2025,
+    "journal": "Journal of Experimental Orthopaedics",
+    "doi": "10.1002/jeo2.70341",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

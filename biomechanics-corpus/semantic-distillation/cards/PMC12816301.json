@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12816301",
+  "paper_id": "doi:10.3389/fsurg.2025.1730301",
+  "pmcid": "PMC12816301",
+  "source_record_sha256": "ef2dae4f5eca1b942d3d83915483a94926536f9337f7d2065db200d33a2a5a7c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ef7d37e88bf01fe0590f27e25f22f792880ffdc6d2adecacebf3edca51e07550",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical analysis of ponte osteotomy and PSO osteotomy in the treatment of ankylosing spondylitis with thoracolumbar kyphotic deformity",
+    "authors": "Zhu X, Yusufu A, Waisiding A, Ma Y.",
+    "year": 2026,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2025.1730301",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

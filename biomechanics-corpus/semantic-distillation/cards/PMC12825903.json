@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12825903",
+  "paper_id": "doi:10.1097/js9.0000000000003340",
+  "pmcid": "PMC12825903",
+  "source_record_sha256": "662699ca14419653c75573f4d8df5091f0811ed8d8beaefa6e406dd324b19613",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "91bfba15139cd138208e1dc77760fadc1d62ff66a9f8087701e76fa8f4fa2091",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Worldwide research on 3D printing for cancer: a dual-method analysis of bibliometrics and stratified focused thematic",
+    "authors": "Yu HB, Han BJ, Hu JQ, Luo Y, Liu HY, Zhang XY, Li Y, Liu R, Hua BJ.",
+    "year": 2026,
+    "journal": "International Journal of Surgery (London, England)",
+    "doi": "10.1097/js9.0000000000003340",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

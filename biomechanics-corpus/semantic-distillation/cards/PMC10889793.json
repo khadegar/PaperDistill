@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10889793",
+  "paper_id": "doi:10.3390/jfb15020046",
+  "pmcid": "PMC10889793",
+  "source_record_sha256": "0b270bcfa4d069d89098b39cf35b169a0c4889c23d3e2230a604dcffc55c4a65",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a6814d2431740cea6fe0879b3715d48260d8427e94df012f747dcdf71014d522",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advanced Ti–Nb–Ta Alloys for Bone Implants with Improved Functionality",
+    "authors": "Sass JO, Sellin ML, Kauertz E, Johannsen J, Weinmann M, Stenzel M, Frank M, Vogel D, Bader R, Jonitz-Heincke A.",
+    "year": 2024,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb15020046",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

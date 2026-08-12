@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9000212",
+  "paper_id": "doi:10.3390/jcm11071918",
+  "pmcid": "PMC9000212",
+  "source_record_sha256": "38fa7a860df73773d138c8ed2382414ae1c4ceaa9a58f3e9a6e077a20c97c45d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cdac6a25cd73692d5f0446259e07a59b5a966fef5e4d2922de7b639cbeb5647c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Personalized Hip Joint Replacement with Large Diameter Head: Current Concepts",
+    "authors": "Vendittoli PA, Martinov S, Morcos MW, Sivaloganathan S, Blakeney WG.",
+    "year": 2022,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm11071918",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

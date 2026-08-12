@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7406311",
+  "paper_id": "doi:10.1242/dmm.045385",
+  "pmcid": "PMC7406311",
+  "source_record_sha256": "be3f284c9c7ac36a13fcbcf8aa84c94e913f28c79d925179b4a306182ad9a3a1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8dd61a210d88e42bfa59f37be42e66652699028a6b1dde75313496bff97c7006",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Rabbit model of Staphylococcus aureus implant-associated spinal infection",
+    "authors": "Gordon O, Miller RJ, Thompson JM, Ordonez AA, Klunk MH, Dikeman DA, Joyce DP, Ruiz-Bedoya CA, Miller LS, Jain SK.",
+    "year": 2020,
+    "journal": "Disease Models & Mechanisms",
+    "doi": "10.1242/dmm.045385",
+    "publication_type": "research-article; Journal Article; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC3637620",
+  "paper_id": "doi:10.1186/1475-925x-12-32",
+  "pmcid": "PMC3637620",
+  "source_record_sha256": "d3307649902a9249cdee35880f3c18900b7827b263dc92c6c4d099e3992fd78b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4b1acae0af2955cff859548df0f6f56b5b058b3c6a3fdd68a0e36ffd6781d355",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dependence of model-based RSA accuracy on higher and lower implant surface model quality",
+    "authors": "Seehaus F, Emmerich J, Kaptein BL, Windhagen H, Hurschler C.",
+    "year": 2013,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/1475-925x-12-32",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

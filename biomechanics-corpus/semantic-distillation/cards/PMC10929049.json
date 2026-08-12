@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10929049",
+  "paper_id": "doi:10.1177/03000605241236054",
+  "pmcid": "PMC10929049",
+  "source_record_sha256": "48d4125a274b9982f642071093ac8f5ae4740eba5f3d672d066a923135b24d39",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1d03cc22cbb8270f23292d111a704e145c77c229cc9819f5b0c0a1478bab6761",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite element analysis of different pedicle screw internal fixations for first lumbar vertebral fracture in different sports conditions",
+    "authors": "Ma P, Li Z, Miao J, Zhang X, Zong Z, Li T.",
+    "year": 2024,
+    "journal": "The Journal of International Medical Research",
+    "doi": "10.1177/03000605241236054",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

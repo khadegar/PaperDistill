@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10143200",
+  "paper_id": "doi:10.3390/pharmaceutics15041045",
+  "pmcid": "PMC10143200",
+  "source_record_sha256": "ccff145e32663cca2ca6a29ed18dbe79e5166a4f0f5eb04d47b26071aeaaa036",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c4afb680c2f63767092a1175f19a2c6b531301c61ad061d9082a86c339558d78",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Magnetic Bone Tissue Engineering: Reviewing the Effects of Magnetic Stimulation on Bone Regeneration and Angiogenesis",
+    "authors": "Ribeiro TP, Flores M, Madureira S, Zanotto F, Monteiro FJ, Laranjeira MS.",
+    "year": 2023,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics15041045",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

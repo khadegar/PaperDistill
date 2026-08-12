@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9137720",
+  "paper_id": "doi:10.3390/bioengineering9050189",
+  "pmcid": "PMC9137720",
+  "source_record_sha256": "3be0ca38c8eb05909706e3fe7833aa435752409807c3ad5519f863f5f2c4bedd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b9ec1d48feb5e7fa8fb7bc5ec66080a297afa948844a4bb28d3d969ddb157cce",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed Tubular Scaffolds Decorated with Air-Jet-Spun Fibers for Bone Tissue Applications",
+    "authors": "Vazquez-Vazquez FC, Chavarria-Bolaños D, Ortiz-Magdaleno M, Guarino V, Alvarez-Perez MA.",
+    "year": 2022,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering9050189",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

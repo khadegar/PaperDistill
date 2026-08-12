@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8839207",
+  "paper_id": "doi:10.3390/polym14030445",
+  "pmcid": "PMC8839207",
+  "source_record_sha256": "4dfbaf7b86539c98874db0b9f2a24aaf595682ceec8dc699b0f69904cf42c712",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0d5f14888364b234f5cfb3a9abcffa1c5f81406469cda6147c662011772fc340",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Novel 3D Bioglass Scaffolds for Bone Tissue Regeneration",
+    "authors": "Daskalakis E, Huang B, Vyas C, Acar AA, Fallah A, Cooper G, Weightman A, Koc B, Blunn G, Bartolo P.",
+    "year": 2022,
+    "journal": "Polymers",
+    "doi": "10.3390/polym14030445",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

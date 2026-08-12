@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8698294",
+  "paper_id": "doi:10.3390/biomedicines9121825",
+  "pmcid": "PMC8698294",
+  "source_record_sha256": "b4c5b97d6b31e0433d62ff72da6ef87d4f621661b6d8acb8c7d5f1847e4def9e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0c361de1f72ae465cee952baffeaf735369c4e7783bba7f482952f9f2fd2b5e1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Supercritical Carbon Dioxide Decellularized Bone Matrix Seeded with Adipose-Derived Mesenchymal Stem Cells Accelerated Bone Regeneration",
+    "authors": "Liu KF, Chen RF, Li YT, Lin YN, Hsieh DJ, Periasamy S, Lin SD, Kuo YR.",
+    "year": 2021,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines9121825",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

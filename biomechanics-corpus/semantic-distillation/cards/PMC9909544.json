@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9909544",
+  "paper_id": "doi:10.3389/fbioe.2023.1079644",
+  "pmcid": "PMC9909544",
+  "source_record_sha256": "f2d6713fd48cc490450ef823a6802a5416da01f19c15967d5a3ccd8e6c626fe9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "434557afea42f5d3474292cf426819e4b0fa133f3e9e5fae4a0d0284a327fc9b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The efficacy of femoral augmentation for hip fracture prevention using ceramic-based cements: A preliminary experimentally-driven finite element investigation",
+    "authors": "Fung A, Fleps I, Cripton PA, Guy P, Ferguson SJ, Helgason B.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1079644",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

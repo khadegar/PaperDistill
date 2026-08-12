@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11406759",
+  "paper_id": "doi:10.1186/s13018-024-05049-4",
+  "pmcid": "PMC11406759",
+  "source_record_sha256": "1c0f93a9ea21034ef9d48a1a1acb10b55f36aeb8b1f8b13e0600b961c27fc73d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "abcff69aa491a070c46b534756aedc21d54c43aaaed107fec323b545a3f7dd34",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Individualized C1-2 intra-articular three-dimensional printed porous titanium alloy cage for craniovertebral deformity",
+    "authors": "Jian Q, Qin S, Hou Z, Zhao X, Liang C, Fan T.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-05049-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

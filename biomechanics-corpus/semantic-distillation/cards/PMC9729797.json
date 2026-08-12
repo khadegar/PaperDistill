@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9729797",
+  "paper_id": "doi:10.3389/fbioe.2022.1065971",
+  "pmcid": "PMC9729797",
+  "source_record_sha256": "682cd6f92f0e3a87d0474bd7c1c845467e27eacfc53162fcd26e609af029c6d9",
+  "reading": {
+    "status": "completed",
+    "packet_sha256": "216262f5b28d7e8215bf6b16ea186e2a46cf96267bcf913833014c1d7cb27bde",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S003:C01",
+      "S004:C01",
+      "S005:C01",
+      "S006:C01",
+      "S007:C01",
+      "S008:C01",
+      "S009:C01",
+      "S010:C01",
+      "S011:C01",
+      "S012:C01",
+      "S013:C01",
+      "S013:C02",
+      "S014:C01"
+    ],
+    "omissions": [],
+    "access_level": "full_text_read",
+    "reader_role": "luna_primary",
+    "reader_model": "gpt-5.6-luna",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T14:00:00Z",
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "An innovative additively manufactured implant for mandibular injuries: Design and preparation processes based on simulation model",
+    "authors": "Zheng L, Wang C, Hu M, Apicella A, Wang L, Zhang M, Fan Y.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1065971",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling",
+      "porous_tpms_scaffold",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original computational finite-element and topology-optimization study with a fabrication-feasibility demonstration",
+    "design_features": [
+      "patient_specific_CBCT_geometry",
+      "biomimetic_internal_dodecahedral_and_external_grid_lattice",
+      "mandibular_implant_topology_optimization",
+      "healing_stage_FE_model",
+      "mechanobiological_strain_criterion",
+      "Ti6Al4V_selective_laser_melting"
+    ],
+    "research_problem": "Large mandibular defects require a construct that restores contour and load bearing while leaving space for bone regeneration; autografts, plates, allografts, and xenografts each have donor-site, fixation, function, or strength limitations.",
+    "exact_gap": "The authors identify a lack of comprehensive design and optimization criteria that couple mandibular implant biomechanics with bone-graft mechanobiology across the early, immature, and mature healing states.",
+    "objective_or_hypothesis": "Develop and iteratively optimize a patient-tailored 3D Ti6Al4V lattice-like mandibular implant, using implant von-Mises stress below the 897 MPa yield-strength criterion and bone-graft strain within 0–3000 microstrain as design gates, then demonstrate that the optimized geometry can be fabricated by metal additive manufacturing.",
+    "study_design": "CBCT-derived mandibular reconstructions (figures show Patients 1–4) were mirrored to restore defects and used to build a virtual implant with an internal 5 mm-pore dodecahedral trabecular-like lattice, an external grid-like cortical component, a 2 mm retainer, and a 0.2–0.8 mm strut-diameter gradient. ANSYS FE models used literature material properties and an 800 N maximum-bite loading represented by eight muscle springs at granulation-tissue, immature-bone, and mature-bone stages. Original and locally tuned optimized designs were compared; one optimized Ti6Al4V implant was then selectively laser melted and imaged by SEM. No mechanical, animal, or clinical endpoint was tested.",
+    "sample_or_model": "The geometric source is CBCT data from several mandibular-defect cases (Patients 1–4 are shown, but no analyzed n or statistical replication is specified). The FE assembly contains cortical and cancellous bone, tooth, articular disc, implant, bone-graft material, and screws; all materials are modeled as homogeneous, isotropic, linear elastic. Healing-state graft moduli are 0.2 MPa (granulation tissue), 1000 MPa (immature bone), and 5000 MPa (mature bone), with cortical bone 15,000 MPa, cancellous bone 1500 MPa, and Ti6Al4V 110,000 MPa.",
+    "comparators": [
+      "Original non-optimized versus locally tuned optimized lattice-like implant (S009:C01–S011:C01).",
+      "Granulation tissue, immature bone, and mature bone healing-state inputs under the same 800 N maximum-bite loading (S006:C01; S009:C01; S010:C01).",
+      "Implant stress and bone-graft strain distributions, including the 897 MPa Ti6Al4V yield and 0–3000 microstrain adaptation gates (S007:C01).",
+      "Virtual design feasibility versus a selectively laser-melted Ti6Al4V specimen imaged after heat treatment and surface processing (S008:C01; S012:C01)."
+    ],
+    "method_spine": [
+      "Acquire 0.4 mm-slice/0.4 mm-pixel CBCT data, segment the mandible, and mirror the healthy side to reconstruct missing anatomy (S003:C01; S004:C01).",
+      "Agree the implant envelope with a surgeon, then combine a 5 mm-pore internal dodecahedral lattice, external quadrilateral grid, and a 0.2–0.8 mm graded strut design (S005:C01).",
+      "Build the bone-graft/implant/screw/muscle-spring FE model with literature elastic properties and an 800 N worst-case bite force (S006:C01).",
+      "Run the original model through three healing-state inputs; tune local distal struts until maximum implant stress and graft-strain criteria are met (S007:C01; S009:C01–S011:C01).",
+      "Fabricate the final Ti6Al4V geometry by selective laser melting, heat treatment, sandblasting, grinding/polishing, ultrasonic cleaning, and SEM imaging (S008:C01; S012:C01)."
+    ],
+    "validation_roles": {
+      "verification": [
+        "The optimization gate checks that modeled maximum von-Mises stress remains below the cited 897 MPa yield strength and that modeled graft strains occupy the 0–3000 microstrain adaptation range (S007:C01).",
+        "No mesh-convergence, code-verification, or independent FE implementation check is reported; the eight-node high-stress explanation invokes possible strut-edge mesh distortion rather than resolving it (S013:C02)."
+      ],
+      "calibration": [
+        "Material constants, muscle forces, spring stiffnesses, and healing-state moduli are imported from cited literature, not fitted to this patient's mechanics or to an independent experiment (S006:C01)."
+      ],
+      "validation": [
+        "Selective laser melting and post-processing produced a specimen with SEM images, which verifies fabrication feasibility only; no mechanical strength, fatigue, biological, animal, or clinical validation of the optimized implant is reported (S008:C01; S012:C01).",
+        "The Discussion calls the framework validated, but the evidence is internal FE criterion satisfaction plus fabrication of a few cases, not independent validation of stress, strain, regeneration, or clinical performance (S013:C02)."
+      ],
+      "sensitivity": [
+        "Two iterative stages vary the solid reconstruction and local lattice struts, and three healing-state material inputs show how the selected geometry behaves as graft stiffness changes (S007:C01; S009:C01–S011:C01).",
+        "The iteration is a deterministic design sweep rather than uncertainty propagation; sensitivity to mesh, contact, material anisotropy, muscle-force variability, and defect geometry is not quantified."
+      ],
+      "application_prediction": [
+        "Stress reduction and the fraction of graft nodes in the selected strain range are FE predictions under one modeled worst-case bite, not observed failure avoidance or new bone formation (S009:C01–S011:C01).",
+        "Claims that the construct will promote bone regeneration, restore occlusion, or provide a clinical solution are bounded application hypotheses requiring animal and clinical testing (S013:C02–S014:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "For the original design, maximum implant von-Mises stress was 1036.30, 739.22, and 594.05 MPa at granulation, immature, and mature-bone inputs; maximum graft strain was 141,790, 13,336, and 8,108 microstrain, respectively (S009:C01).",
+      "For the optimized design, maximum implant stress was 697.35, 398.36, and 293.40 MPa and maximum graft strain was 36,896, 9,039, and 5,789 microstrain across the same three stages (S010:C01).",
+      "At the early granulation input, the fraction of graft nodes below 3000 microstrain increased from 35.79% in the original design to 93.36% in the optimized design; mature-stage values were 99.95% for the optimized design (S009:C01–S010:C01).",
+      "The paper reports a 43.14% average reduction in maximum von-Mises stress after local distal-strut tuning; initial stress concentration was mainly distal, and the optimized stress remained below the cited Ti6Al4V yield criterion in the simulated cases (S011:C01).",
+      "The design was manufactured from approximately 40 μm Ti6Al4V powder by SLM, heat treated at 820 °C under argon, surface finished, cleaned, and imaged by SEM; this demonstrates geometric fabrication, not durability or biological function (S012:C01).",
+      "The authors note that only a few cases were prepared and that framework repeatability and controllability remain unverified; eight optimized nodes above 500 MPa were attributed to possible edge-mesh distortion rather than further optimization (S013:C02)."
+    ],
+    "highest_evidence_level_reached": "Conditional FE design prediction with a fabrication-feasibility demonstration; no independent mechanical, fatigue, biological, animal, or clinical validation."
+  },
+  "argument_map": {
+    "central_claim": "Within the specified CBCT-based FE model, locally optimizing a biomimetic mandibular lattice can reduce modeled implant stress and move bone-graft strain toward the chosen mechanobiological adaptation range, and the resulting geometry can be additively manufactured; this does not establish implant durability, bone regeneration, or clinical benefit.",
+    "data": [
+      "CBCT-derived mandibular defect geometries and a mirror-reconstructed solid counterpart define the patient-specific envelope (S003:C01–S005:C01).",
+      "An 800 N bite-force FE model compares original and optimized lattice struts at granulation, immature, and mature-bone material states (S006:C01–S010:C01).",
+      "Stress and graft-strain frequency distributions provide the optimization outputs, while SLM/SEM provides a physical fabrication check (S009:C01–S012:C01)."
+    ],
+    "warrant": "The FE model can rank the two idealized geometries for the stated loading and assigned material states; the warrant stops at numerical stress/strain because no independent test measures failure, graft healing, or clinical function.",
+    "backing": [
+      "The geometry, healing-state material assumptions, force components, and stress/strain gates are explicitly stated (S005:C01–S007:C01).",
+      "The optimized model improves both the implant-stress and graft-strain metrics across the reported stages and remains printable by the described SLM route (S009:C01–S012:C01)."
+    ],
+    "qualifier": "Interpretation applies to idealized homogeneous linear-elastic FE models, the reported CBCT cases, one 800 N maximum-bite boundary condition, literature graft properties, and the chosen 897 MPa/0–3000 microstrain design criteria.",
+    "rebuttals_or_boundaries": [
+      "The article calls the framework validated and clinically feasible, but fabrication images are not mechanical or biological validation (S001:C01; S012:C01; S013:C02).",
+      "No formal mesh convergence is reported; the authors themselves attribute a small high-stress cluster to possible strut-edge mesh distortion (S013:C02).",
+      "A literature mechanostat interval and a numerical stress threshold are proxies for regeneration and failure, not measured bone formation or implant fracture (S007:C01; S009:C01–S010:C01).",
+      "Repeatability across complex defects, as-built dimensional accuracy, fatigue, infection, osseointegration, and patient outcomes remain open (S013:C02)."
+    ],
+    "argument_coherence": "moderate for the model-level optimization claim; low_to_moderate for translational and clinical claims"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "CBCT image acquisition parameters and defect geometries are observed inputs; the packet shows several cases but does not provide a statistical sample analysis (S004:C01–S005:C01).",
+      "A Ti6Al4V lattice implant was selectively laser melted, heat treated, finished, cleaned, and imaged by SEM, demonstrating fabrication feasibility (S008:C01; S012:C01)."
+    ],
+    "predicted": [
+      "Maximum and frequency-distributed implant von-Mises stress and bone-graft strain for original and optimized geometries at three healing-state material inputs (S009:C01–S011:C01).",
+      "The conclusion that modeled strains are sufficient to stimulate regeneration and that the implant avoids mechanical failure under the selected load (S010:C01; S014:C01)."
+    ],
+    "inferred": [
+      "Local distal-strut tuning is inferred to improve load transfer and mechanobiological stimulation because both numerical metrics move favorably, but causality is not independently tested (S011:C01).",
+      "The framework is inferred to be clinically adaptable from a few reconstructed cases and one fabricated specimen; repeatability and generalizability are explicitly unresolved (S013:C02).",
+      "SEM evidence is inferred to support manufacturability, not as-built mechanical quality, fatigue life, or tissue response (S012:C01)."
+    ],
+    "recommended": [
+      "Perform mesh convergence, uncertainty and contact/material sensitivity checks, and quantify case-to-case robustness before selecting a design by the stress/strain gates.",
+      "Characterize as-built geometry and defects, then run static, fatigue, fixation, corrosion, sterilization, biological, animal, and clinical tests under representative mandibular loading (S013:C02).",
+      "Treat the 897 MPa yield and 0–3000 microstrain criteria as design hypotheses and verify their relationship to observed failure and bone formation rather than using them as clinical endpoints."
+    ],
+    "proxy_to_outcome_bridges": [
+      "FE von-Mises stress below a literature yield value is not measured implant fracture resistance, fatigue life, or fixation survival.",
+      "Modeled graft strain in a mechanostat interval is not histologic bone formation, bone-implant contact, or restored occlusal function.",
+      "CBCT/CAD and SEM images do not establish as-built porosity, surface state, sterilization, or biological safety.",
+      "A single 800 N maximum-bite simulation and three healing-state inputs do not represent the full cyclic, patient-specific, or long-term mandibular environment."
+    ],
+    "overclaim_risks": [
+      "The abstract and conclusion upgrade internal FE criterion satisfaction to sufficient strength, stimulated bone regeneration, and a clinical solution without independent endpoints (S001:C01; S014:C01).",
+      "The word validated is stronger than the reported evidence because no external mechanical, animal, or clinical comparison is present (S001:C01; S013:C02).",
+      "The 43.14% stress reduction and 93.36% early physiological-strain fraction are model outputs conditional on idealized inputs and should not be presented as measured efficacy (S011:C01).",
+      "Fabrication of a specimen may be mistaken for process qualification or as-built quality assurance even though no dimensional or mechanical characterization is reported (S012:C01)."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Narrow the clinical burden of large mandibular defects into a biomimetic design and validation gap.",
+      "execution": "The Introduction contrasts autografts, titanium plates, allografts, and xenografts, then specifies the need to couple cortical/trabecular architecture with mechanical and mechanobiological criteria (S002:C01).",
+      "locator": "S002:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "End an implant-design introduction with the exact defect, design variables, comparator, loading/validation level, and endpoint boundary.",
+      "failure_mode": "Do not let a mechanobiological rationale substitute for measured regeneration or clinical function."
+    },
+    {
+      "section": "methods",
+      "move": "Expose the geometry, healing-state inputs, boundary conditions, and optimization gates before reporting stress maps.",
+      "execution": "CBCT reconstruction, lattice morphology, material constants, muscle-spring loading, and yield/strain criteria are described before the original-versus-optimized comparison (S003:C01–S008:C01).",
+      "locator": "S006:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "For a patient-specific FE implant study, state what is reconstructed, assigned from literature, simulated, and physically fabricated before using the term optimal.",
+      "failure_mode": "Presenting planned or assigned manufacturing/material parameters as measured evidence hides the computational boundary."
+    },
+    {
+      "section": "results",
+      "move": "Report the complete healing-stage comparator with units and threshold criteria, then separate fabrication from model results.",
+      "execution": "The paper first reports original stress/strain distributions, then optimized values and percentage changes, and only afterward describes SLM fabrication and SEM images (S009:C01–S012:C01).",
+      "locator": "S010:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Keep numerical predictions by state and comparator visible; label a print/SEM step as feasibility rather than validation.",
+      "failure_mode": "A favorable early-stage percentage should not erase the high original strain, mesh caveat, or missing uncertainty."
+    },
+    {
+      "section": "discussion",
+      "move": "Connect stress concentration and mechanobiological strain to a bounded design mechanism while retaining the mesh and reproducibility caveats.",
+      "execution": "The Discussion explains distal stress concentration and local strut tuning, compares the biomimetic lattice with prior implants, then acknowledges few cases and absent animal/clinical verification (S013:C01–S013:C02).",
+      "locator": "S013:C02",
+      "effectiveness": "moderate",
+      "transferable_principle": "When interpreting an FE optimization, state which response is modeled, which endpoint is proxied, and which next experiment would discriminate the mechanism.",
+      "failure_mode": "Do not convert a strain-adaptation interval into proven osteogenesis or call a framework clinically validated without external evidence."
+    },
+    {
+      "section": "conclusion",
+      "move": "Summarize a conditional candidate design and explicitly stop at the FE/fabrication evidence level.",
+      "execution": "The Conclusion repeats the optimized stress/strain rationale and clinical promise without a strong independent-test qualifier (S014:C01).",
+      "locator": "S014:C01",
+      "effectiveness": "low_to_moderate",
+      "transferable_principle": "A conclusion may identify a model-screened implant candidate but should name the missing mechanical, biological, animal, and clinical tests in the same paragraph.",
+      "failure_mode": "Words such as possesses sufficient strength, promotes regeneration, or validated clinical strategy upgrade predictions into demonstrated outcomes."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Repeatability and controllability of the framework are not verified; only a few custom cases have been designed and prepared (S013:C02).",
+      "The authors request additional clinical studies or animal experiments to evaluate clinical appropriateness (S013:C02).",
+      "The Discussion notes a small high-stress cluster that may arise from finite-element strut-edge mesh distortion (S013:C02)."
+    ],
+    "reader_identified": [
+      "No formal mesh convergence, element-quality report, uncertainty propagation, or independent implementation check is provided.",
+      "All materials are homogeneous, isotropic, and linearly elastic; contact, fixation, defect healing, anisotropy, and manufacturing defects are not represented (S006:C01).",
+      "The 800 N maximum-bite case and literature muscle springs do not cover cyclic chewing, patient-specific force variation, impact, or long-term fatigue.",
+      "Case count, screw allocation, statistical replication, confidence intervals, and as-built dimensional/porosity measurements are not reported clearly.",
+      "The mechanostat strain range and Ti6Al4V yield value are imported criteria, not calibrated against observed graft regeneration or implant failure."
+    ],
+    "likely_bias_direction": [
+      "Idealized geometry, fixed material values, and deterministic muscle loading likely understate interface, patient, and manufacturing variability.",
+      "Selecting local struts until the prespecified thresholds are met favors the optimized model and may overstate robustness outside the modeled cases.",
+      "Using graft strain as a regeneration proxy biases the interpretation upward relative to histology, imaging, or functional bone outcomes.",
+      "Calling fabrication feasibility validation may favor an optimistic translational reading despite absent mechanical and biological tests."
+    ],
+    "scope_boundary": "The study supports conditional numerical comparison of original and optimized Ti6Al4V lattice-like mandibular implants under one 800 N bite-force model and three assigned healing-state materials, plus demonstration that a geometry can be SLM fabricated. It does not establish as-built quality, fatigue or fixation life, bone ingrowth, infection resistance, animal response, patient function, or clinical superiority."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC9729797-01",
+      "capability": "Separate an FE optimization gate from independent validation: report stress/strain thresholds as design criteria, fabrication/SEM as feasibility, and mechanical or biological testing as still-required evidence.",
+      "manuscript_use": "Methods evidence ledger, Results boundary, and translational Discussion.",
+      "applicable_domains": [
+        "finite_element_biomechanics",
+        "mandibular_implant",
+        "additive_manufacturing",
+        "mechanobiology"
+      ],
+      "applicable_study_designs": [
+        "computational",
+        "topology_optimization",
+        "fabrication_feasibility"
+      ],
+      "supporting_locators": [
+        "S007:C01",
+        "S008:C01",
+        "S012:C01",
+        "S013:C02"
+      ],
+      "counterexample_or_boundary": "A printed specimen can support manufacturability only when dimensional, mechanical, and biological qualification are separately reported; SEM alone cannot validate those endpoints.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9729797-02",
+      "capability": "Present optimization results as a state-by-comparator matrix, preserving units, thresholds, negative/high-strain regions, and the distinction between model input and measured outcome.",
+      "manuscript_use": "Computational Results tables, design-selection Discussion, and audit of compressed abstracts.",
+      "applicable_domains": [
+        "bone_implant",
+        "porous_scaffold",
+        "finite_element_biomechanics"
+      ],
+      "applicable_study_designs": [
+        "parametric_FE",
+        "mechanobiological_modeling"
+      ],
+      "supporting_locators": [
+        "S009:C01",
+        "S010:C01",
+        "S011:C01"
+      ],
+      "counterexample_or_boundary": "If an output is a frequency fraction or proxy strain, it must not be rewritten as a measured regeneration rate or clinical success percentage.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9729797-03",
+      "capability": "Use a validation firewall that labels literature material inputs and mechanostat criteria as assumptions, internal FE checks as verification, and animal/clinical tests as the next discriminating rung.",
+      "manuscript_use": "Methods verification/calibration ledger and Discussion limitations.",
+      "applicable_domains": [
+        "biomechanics",
+        "mechanobiology",
+        "implant_design"
+      ],
+      "applicable_study_designs": [
+        "finite_element",
+        "patient_specific_modeling"
+      ],
+      "supporting_locators": [
+        "S006:C01",
+        "S007:C01",
+        "S013:C02"
+      ],
+      "counterexample_or_boundary": "Meeting a literature yield or strain interval does not verify mesh behavior, material transferability, fatigue, bone ingrowth, or patient benefit.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC9729797-04",
+      "capability": "When a model contains unresolved mesh distortion, omit no adverse node, threshold exceedance, or repeatability gap; lower the confidence of the design claim and specify the next test.",
+      "manuscript_use": "FE quality audit, Results caveat, and revision of overstrong Conclusions.",
+      "applicable_domains": [
+        "finite_element_biomechanics",
+        "topology_optimization"
+      ],
+      "applicable_study_designs": [
+        "computational",
+        "mesh_sensitive_FE"
+      ],
+      "supporting_locators": [
+        "S010:C01",
+        "S013:C02"
+      ],
+      "counterexample_or_boundary": "A resolved convergence study can upgrade verification, but an explanatory assertion about mesh distortion is not itself a convergence result.",
+      "confidence": "moderate",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate",
+    "methods_transparency": "moderate",
+    "validation_credibility": "low",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "moderate for original-versus-optimized virtual designs; low for generalization across cases",
+    "conclusion_proportionality": "low_to_moderate",
+    "critical_weaknesses": [
+      "No independent mechanical, biological, animal, or clinical validation; SLM/SEM demonstrates fabrication only.",
+      "No formal mesh convergence or uncertainty analysis, with a residual mesh-distortion caveat.",
+      "Idealized homogeneous linear-elastic materials, fixed muscle springs, and a single 800 N loading scenario.",
+      "Unclear analyzed case count and limited repeatability evidence.",
+      "Model stress and mechanostat proxies are promoted to regeneration and clinical claims."
+    ],
+    "overall_credibility": "moderate for conditional FE optimization and fabrication feasibility; low for bone-regeneration, durability, and clinical claims"
+  },
+  "summary_zh": "这是一项以 CBCT 重建为几何基础的原创计算有限元/拓扑优化研究，并非动物或临床验证。作者把下颌缺损镜像重建为含 5 mm 孔径内置十二面体松质骨样结构、外部网格皮质骨样结构和 0.2–0.8 mm 梯度支杆的 Ti6Al4V 植入体，在 800 N 最大咬合力和肉芽组织、未成熟骨、成熟骨三种文献材料状态下比较原始与局部优化设计。优化后最大 von-Mises 应力约由 1036.30/739.22/594.05 MPa 降至 697.35/398.36/293.40 MPa，早期低于 3000 微应变的骨移植物节点比例由 35.79% 升至 93.36%，并报告平均最大应力下降 43.14%。随后仅用选择性激光熔化、热处理、表面处理和 SEM 图像证明几何可制造性；没有机械、疲劳、网格收敛、组织、动物或临床验证。可迁移的写作能力是把设计门槛、FE 预测、制造可行性和临床推断分层，并保留网格畸变、少量病例和可重复性缺口。",
+  "reader_notes": [
+    "Primary Luna reader read every non-reference packet locator in order: S001:C01 through S012:C01, S013:C01, S013:C02, and S014:C01; the complete heading set contains 15 locators and omissions are none.",
+    "Full-text classification confirms original computational FE/topology-optimization research with an additive-manufacturing feasibility demonstration; the cue set's animal, clinical, and biological labels are not completed study arms.",
+    "Measured fabrication/SEM evidence was kept separate from predicted stress/strain and inferred regeneration or clinical claims.",
+    "Self-review retained the 897 MPa and 0–3000 microstrain criteria, all three healing states, adverse original-design values, the 43.14%/93.36% comparisons, and the unresolved mesh-distortion and repeatability caveats."
+  ],
+  "selection": {
+    "selection_reason": "manifest_all",
+    "primary_stratum": "additive_manufacturing",
+    "reading_order": 48
+  },
+  "source": {
+    "record_path": "records/PMC9729797.json.gz",
+    "source_record": "records/PMC9729797.json.gz",
+    "source_record_sha256": "682cd6f92f0e3a87d0474bd7c1c845467e27eacfc53162fcd26e609af029c6d9",
+    "source_hash": "682cd6f92f0e3a87d0474bd7c1c845467e27eacfc53162fcd26e609af029c6d9"
+  }
+}

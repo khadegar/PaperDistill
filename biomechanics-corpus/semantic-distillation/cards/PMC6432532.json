@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6432532",
+  "paper_id": "doi:10.3390/polym8020042",
+  "pmcid": "PMC6432532",
+  "source_record_sha256": "f625d8d47baa284cbb7c2d93564a054de2c231e50ab44d5e1f94a089acb7857a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3f1b3331ef07587448b3b14900cd4a4b06b8dcdda97062f569d20f084bcdd7c0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of Collagen Scaffold in Tissue Engineering: Recent Advances and New Perspectives",
+    "authors": "Dong C, Lv Y.",
+    "year": 2016,
+    "journal": "Polymers",
+    "doi": "10.3390/polym8020042",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9099245",
+  "paper_id": "doi:10.3389/fbioe.2022.872149",
+  "pmcid": "PMC9099245",
+  "source_record_sha256": "4638a677e345a2be4b1b2bb93bbece0c40e6fe2d6c1f6c73bd4f1d5010c70b41",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "48c0a76e47d26ab7654d8249fbc1137a0f5943d7ce1dca10165e27fcb9802053",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteogenesis of Iron Oxide Nanoparticles-Labeled Human Precartilaginous Stem Cells in Interpenetrating Network Printable Hydrogel",
+    "authors": "Liao W, Lu J, Wang Q, Yan S, Li Y, Zhang Y, Wang P, Jiang Q, Gu N.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.872149",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

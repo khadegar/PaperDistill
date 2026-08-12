@@ -1,0 +1,354 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12857080",
+  "paper_id": "doi:10.1186/s12891-025-09356-7",
+  "pmcid": "PMC12857080",
+  "source_record_sha256": "bfb0b9c94906695bd9502c05e82166b878fd669afe610cd2cfe0f468cc5e9cbb",
+  "reading": {
+    "status": "completed",
+    "packet_sha256": "cc3174a70df4ff9db6c9505cabcee0d5e749006b4a107057222d37313515d090",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S002:C02",
+      "S003:C01",
+      "S004:C01",
+      "S005:C01",
+      "S006:C01",
+      "S007:C01",
+      "S008:C01",
+      "S009:C01",
+      "S010:C01",
+      "S011:C01",
+      "S012:C01",
+      "S013:C01",
+      "S014:C01",
+      "S015:C01",
+      "S016:C01",
+      "S016:C02",
+      "S017:C01",
+      "S018:C01",
+      "S019:C01",
+      "S020:C01",
+      "S021:C01",
+      "S022:C01",
+      "S023:C01",
+      "S024:C01",
+      "S025:C01",
+      "S026:C01",
+      "S027:C01",
+      "S028:C01"
+    ],
+    "omissions": [],
+    "access_level": "full_text_read",
+    "reader_role": "luna_primary",
+    "reader_model": "gpt-5.6-luna",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T13:50:00Z",
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Structural design and biomechanical analysis of anti- subsidence gradient porous artificial vertebrae combined with a topology framework",
+    "authors": "Shang P, Wu X, Li R, Ma B, Wu H, Liu Y.",
+    "year": 2026,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-025-09356-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants",
+      "porous_tpms_scaffold",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "topology-optimized AVI framework",
+      "gradient TPMS gyroid",
+      "single-subject lumbar FE",
+      "SLM Ti-6Al-4V",
+      "quasi-static subsidence",
+      "quasi-static compression",
+      "TMC and truss+fluorite controls",
+      "baseline ROM comparison"
+    ],
+    "research_problem": "Traditional titanium mesh cages and non-gradient porous artificial vertebrae can have limited endplate contact, stress concentration, subsidence risk, and stiffness mismatch while greater porosity can reduce structural strength.",
+    "exact_gap": "A topology-optimized macro-framework combined with an axially graded gyroid TPMS was proposed to balance cortical-like strength, cancellous-like porosity, interface stress, and subsidence resistance, but required FE comparison and physical testing against common AVI designs.",
+    "objective_or_hypothesis": "Design a patient-informed AVI with a 45% topology volume fraction and a 40% central/70% end-region gyroid gradient, then test whether it lowers FE stress and increases quasi-static subsidence/compression performance versus TMC and truss+fluorite controls.",
+    "study_design": "Mixed computational-experimental research. One healthy 26-year-old male L1-L5 CT model was used for six physiological postures and three postoperative AVI models; baseline ROM was compared with cadaver and prior FE ranges. Ti-6Al-4V specimens were SLM-printed with three replicates per type, heat-treated, and tested in grade-15 polyurethane for ASTM F2267-04 subsidence and BS ISO 13314:2011 compression. Nominal overall porosity was 55% (ends 70%, center 40%) and as-built porosity deviated by <2%.",
+    "sample_or_model": "Patient-informed AVI geometry plus one healthy male L1-L5 anatomy; SIMP design-domain fraction 45%; gyroid block 10 x 10 x 20 mm, 2.5-mm cells, 0.27-0.54 mm walls, 710-1040 micrometre pores; SLM Ti-6Al-4V with n=3 per implant type for each mechanical test; TMC and truss+fluorite controls.",
+    "comparators": [
+      "Topology+Gyroid versus TMC",
+      "Topology+Gyroid versus truss+fluorite",
+      "Upper versus lower adjacent interfaces",
+      "Flexion, extension, left/right bending, left/right rotation",
+      "Nominal 55% versus measured as-built porosity"
+    ],
+    "method_spine": [
+      "Set CT-informed AVI geometry and run SIMP under a 10 Nm torque with 45% design volume.",
+      "Generate a gyroid with 40% central and 70% end porosity for 55% nominal total porosity.",
+      "Build healthy and postoperative L1-L5 FE models with bone, discs, ligaments, and bonded implant interfaces.",
+      "Compare implant and adjacent-vertebra von Mises stress across six postures.",
+      "Print Ti-6Al-4V by SLM, verify porosity, and run triplicate subsidence/compression tests with load-displacement and failure modes."
+    ],
+    "validation_roles": {
+      "verification": [
+        "No formal mesh-convergence or solver-verification result is reported; dimensions and 55% porosity target were specified, and SLM porosity was checked against design (S005:C01; S014:C01)."
+      ],
+      "calibration": [
+        "No FE material/contact parameters were fitted to AVI curves; literature tissue properties and a 45% SIMP fraction were adopted (S005:C01; S007:C01)."
+      ],
+      "validation": [
+        "Healthy-model intervertebral ROM was compared with human cadaver and prior FE ranges, supporting the baseline spine model (S011:C01). Implant stress was not directly measured; triplicate bench tests are separate device evidence (S014:C01-S015:C01)."
+      ],
+      "sensitivity": [
+        "Six posture directions and two controls give a controlled comparison, but no systematic anatomy, porosity, contact, material, topology, or uncertainty sensitivity was reported (S012:C01-S013:C01)."
+      ],
+      "application_prediction": [
+        "Lower stress and higher 3-mm subsidence/compression performance are mechanical predictions or bench outcomes for this design; osteointegration, fusion, fatigue, and clinical safety remain untested (S016:C01-S017:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "Gradient gyroid nominal porosity was 55% overall, 70% at ends and 40% centrally, with 710-1040 micrometre pores; reported modulus/yield strength were 7.13 GPa/197.54 MPa and SLM porosity was within 2% of design (S006:C01; S014:C01).",
+      "Topology+Gyroid reduced implant peak stress by 29.5%-69.7% versus TMC across six postures and reduced adjacent-interface stress by posture-dependent amounts up to 44.3% (S012:C01-S013:C01).",
+      "Versus truss+fluorite, implant peak stress fell 10.6%-23.4% and interface stress about 5.9%-14.1% for stated upper/lower conditions (S012:C01; S016:C01).",
+      "Triplicate 3-mm subsidence loads were 2714 +/- 22 N for topology+gyroid, 2232 +/- 28 N for truss+fluorite, and 1298 +/- 13 N for TMC; topology+gyroid was 21.6% above truss+fluorite (S014:C01).",
+      "Compression stiffness/yield were 63.97 +/- 0.35 kN/mm and 54.33 +/- 0.97 kN for topology+gyroid, 11.6%/14.1% above truss+fluorite and 63.3%/124% above TMC; failure was localized and the top remained intact at 3 mm (S015:C01)."
+    ],
+    "highest_evidence_level_reached": "Mixed FE comparison with baseline ROM benchmarking and triplicate as-built quasi-static Ti-6Al-4V tests; no independent implant-stress validation, fatigue, biological, fusion, or clinical evidence."
+  },
+  "argument_map": {
+    "central_claim": "A topology-optimized macro-framework plus gradient gyroid microstructure improves stress distribution and quasi-static subsidence/compression behavior versus TMC and truss+fluorite within the tested geometry.",
+    "data": [
+      "SIMP framework and gradient gyroid parameters define the two-scale design (S005:C01; S006:C01).",
+      "FE posture results show lower implant and bone-interface peak stress for topology+gyroid than controls (S012:C01-S013:C01).",
+      "As-built triplicate tests show higher 3-mm subsidence load, stiffness, yield load, and localized failure (S014:C01-S015:C01)."
+    ],
+    "warrant": "Larger contact area and graded porosity can reduce stress concentration while retaining load-bearing material, conditional on anatomy, interface, and loading assumptions.",
+    "backing": [
+      "Baseline ROM agreement with cadaver/prior FE data provides a limited check of the spinal loading environment (S011:C01).",
+      "Measured porosity remained near the nominal 55% target, linking design intent to as-built specimens (S014:C01)."
+    ],
+    "qualifier": "Applies to one patient-informed L3-L4 context, Ti-6Al-4V SLM samples, bonded FE interfaces, polyurethane subsidence blocks, and quasi-static loads.",
+    "rebuttals_or_boundaries": [
+      "Quasi-static compression cannot evaluate fatigue and porosity defects may alter cyclic behavior (S016:C01).",
+      "Only one anatomy, vertebral context, and TPMS design were studied (S016:C02).",
+      "Bone ingrowth/osteointegration are rationale, not measured outcomes.",
+      "Healthy ROM validation checks the baseline spine model, not implant stress fields."
+    ],
+    "argument_coherence": "high_for_mechanical_design_comparison_moderate_for_clinical_translation"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "SLM porosity deviation, triplicate load-displacement curves, 3-mm subsidence load, compression stiffness/yield, and observed failure stages are measured bench outcomes (S014:C01-S015:C01).",
+      "Healthy-model ROM was compared with external cadaver/FE ranges, a baseline benchmark rather than implant measurement (S011:C01)."
+    ],
+    "predicted": [
+      "Topology optimization, implant/adjacent-vertebra von Mises stress fields, and posture-specific reductions are FE predictions (S005:C01; S012:C01-S013:C01)."
+    ],
+    "inferred": [
+      "Larger contact area and elastic-modulus matching are inferred mechanisms for lower stress/subsidence (S012:C01; S016:C01).",
+      "Porous connectivity is inferred to promote osteointegration, but no bone ingrowth endpoint was obtained (S006:C01; S016:C02)."
+    ],
+    "recommended": [
+      "Use multiple anatomies/levels, compare TPMS designs, add fatigue/cyclic loading, quantify interface/bone ingrowth, and perform animal or long-term in-vivo validation (S016:C02)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "FE interface stress is a mechanical proxy, not endplate remodeling, fusion, or clinical subsidence.",
+      "Polyurethane-block 3-mm settlement is a bench proxy and does not reproduce osteoporotic endplate, surgery, or long-term cycles.",
+      "Compression stiffness/yield and fracture mode do not establish fatigue durability or survival.",
+      "Nominal/as-built porosity agreement supports manufacturing fidelity, not biological integration."
+    ],
+    "overclaim_risks": [
+      "The conclusion calls the implant a promising clinical treatment despite no biological, fatigue, or patient-outcome evidence (S017:C01).",
+      "Long-term postoperative and osteointegration language exceeds quasi-static/bonded-model evidence (S016:C01).",
+      "A modulus that approaches cortical bone and lower stress do not establish safety across bone quality or anatomy.",
+      "Healthy ROM validation may be misread as implant-stress validation."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Frame macro and micro criteria as a coupled gap",
+      "execution": "The introduction separates topology optimization for framework strength from gradient gyroid design for stress/porosity, then motivates their combination (S002:C01-S002:C02).",
+      "locator": "S002:C01",
+      "effectiveness": "high",
+      "transferable_principle": "For hierarchical implants, state what each scale controls and why one alone is insufficient.",
+      "failure_mode": "Two design labels without scale-specific endpoints obscure the mechanism."
+    },
+    {
+      "section": "methods",
+      "move": "Separate nominal architecture, process state, and as-built verification",
+      "execution": "The porosity gradient, pore sizes, wall thickness, SLM process, heat treatment, and <2% porosity deviation are reported before testing (S006:C01; S009:C01; S014:C01).",
+      "locator": "S014:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Report nominal architecture, manufacturing route/post-processing, and measured as-built deviation as distinct states.",
+      "failure_mode": "A nominal 55% porosity can be treated as fabricated geometry if deviation is omitted."
+    },
+    {
+      "section": "results",
+      "move": "Pair posture-resolved FE fields with device load-displacement outcomes",
+      "execution": "Six-posture stress comparisons are followed by triplicate subsidence, stiffness/yield, and failure-mode results (S012:C01-S015:C01).",
+      "locator": "S015:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Align numerical and experimental outcomes by mechanical question while preserving evidence status.",
+      "failure_mode": "Bench ranking agreement does not prove FE stress magnitudes."
+    },
+    {
+      "section": "discussion",
+      "move": "State fatigue, biology, anatomy, and translation firewalls",
+      "execution": "The discussion notes quasi-static limits, one anatomy/TPMS, and missing osteointegration/long-term studies (S016:C01-S016:C02).",
+      "locator": "S016:C02",
+      "effectiveness": "high",
+      "transferable_principle": "End a favorable mechanical interpretation with missing tests and the claims they constrain.",
+      "failure_mode": "Static stress can silently become a clinical endpoint."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "Quasi-static compression cannot evaluate fatigue; porosity may affect fatigue (S016:C01).",
+      "One individual's anatomy and one L3-L4 context limit generalizability (S016:C02).",
+      "Biological performance/osteointegration and only one TPMS design were not tested; animal and long-term work is needed (S016:C02)."
+    ],
+    "reader_identified": [
+      "No mesh convergence, constitutive verification, or parameter uncertainty analysis is reported.",
+      "Healthy ROM comparison is a baseline check, not implant-stress validation; direct stress measurements are absent.",
+      "Bonded bone-prosthesis and rigid screw connections omit slip, micromotion, imperfect contact, and endplate damage.",
+      "Triplicate polyurethane/quasi-static tests do not reproduce osteoporotic endplates, cycles, surgery, or fusion.",
+      "Global porosity within 2% does not quantify local SLM defects, anisotropy, roughness, or fatigue-critical flaws."
+    ],
+    "likely_bias_direction": [
+      "Ideal bonded interfaces and single healthy anatomy likely favor designed stability.",
+      "Polyurethane and quasi-static loading may overestimate subsidence resistance relative to osteoporotic cyclic conditions.",
+      "One selected gyroid gradient may appear superior to untested gradients/TPMS.",
+      "Modulus-matching rationale may favor lower stress without fusion evidence."
+    ],
+    "scope_boundary": "Evidence supports a mechanical comparison of one topology+gradient-gyroid Ti-6Al-4V AVI against TMC and truss+fluorite in a single-subject FE context and triplicate quasi-static tests; it does not demonstrate fatigue life, osteointegration, fusion, or clinical effectiveness."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC12857080-01",
+      "capability": "Explain hierarchical implant design by assigning macro-framework and microarchitecture distinct mechanical/biological roles before synthesis.",
+      "manuscript_use": "Introduction, design rationale, and mechanistic Discussion.",
+      "applicable_domains": [
+        "spine_implant",
+        "topology_optimization",
+        "TPMS_scaffold"
+      ],
+      "applicable_study_designs": [
+        "multiscale_FE",
+        "computational_design"
+      ],
+      "supporting_locators": [
+        "S003:C01",
+        "S005:C01",
+        "S006:C01",
+        "S016:C01"
+      ],
+      "counterexample_or_boundary": "A two-scale rationale does not establish biology without interface ingrowth and long-term loading.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12857080-02",
+      "capability": "Report nominal architecture, SLM/post-processing state, and as-built porosity as separate evidence states.",
+      "manuscript_use": "Methods reproducibility and manufacturing-aware Results.",
+      "applicable_domains": [
+        "additive_manufacturing",
+        "porous_implant"
+      ],
+      "applicable_study_designs": [
+        "FE_plus_mechanical_test",
+        "AM_characterization"
+      ],
+      "supporting_locators": [
+        "S006:C01",
+        "S009:C01",
+        "S014:C01"
+      ],
+      "counterexample_or_boundary": "A global porosity check does not quantify local defects, roughness, or fatigue flaws.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12857080-03",
+      "capability": "Use baseline ROM benchmarking as a bounded check while keeping implant stress predictions and bench outcomes in separate validation lanes.",
+      "manuscript_use": "Validation Methods, Results, and audit.",
+      "applicable_domains": [
+        "spine_biomechanics",
+        "FE_validation"
+      ],
+      "applicable_study_designs": [
+        "patient_specific_FE",
+        "mixed_numerical_experimental"
+      ],
+      "supporting_locators": [
+        "S007:C01",
+        "S011:C01",
+        "S012:C01",
+        "S015:C01"
+      ],
+      "counterexample_or_boundary": "Healthy ROM agreement does not validate postoperative implant stress magnitudes.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12857080-04",
+      "capability": "Pair posture-resolved stress maps with matched mechanical metrics, then state the fatigue/biology/clinical endpoint ceiling.",
+      "manuscript_use": "Results synthesis and translational Discussion.",
+      "applicable_domains": [
+        "spine_implant",
+        "biomechanics",
+        "AM"
+      ],
+      "applicable_study_designs": [
+        "FE_and_bench_testing"
+      ],
+      "supporting_locators": [
+        "S012:C01",
+        "S013:C01",
+        "S014:C01",
+        "S015:C01",
+        "S016:C01"
+      ],
+      "counterexample_or_boundary": "Static stress and polyurethane subsidence do not establish cyclic survival, fusion, or clinical safety.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "high_for_mechanical_design_question",
+    "methods_transparency": "moderate_to_high",
+    "validation_credibility": "moderate_for_baseline_ROM_and_bench_rankings_low_for_implant_stress_and_biology",
+    "outcome_uncertainty_reporting": "moderate_for_triplicate_tests_low_for_FE/anatomical_uncertainty",
+    "comparator_fairness": "high_within_three_tested_designs",
+    "conclusion_proportionality": "moderate_to_low_for_clinical_language",
+    "critical_weaknesses": [
+      "Single anatomy and idealized bonded interfaces.",
+      "No mesh/parameter uncertainty or implant-specific stress validation.",
+      "Triplicate quasi-static tests without fatigue, biological, or clinical outcomes."
+    ],
+    "overall_credibility": "high_for_static_mechanical_ranking_moderate_for_baseline_spine_model_low_for_fatigue_osteointegration_or_clinical_effectiveness"
+  },
+  "summary_zh": "本文把宏观 SIMP 拓扑框架与轴向梯度 Gyroid TPMS 结合，比较其与 TMC、truss+fluorite AVI 的静态力学表现。梯度设计名义总孔隙率 55%（端部 70%、中央 40%），SLM 实测偏差小于 2%；单一健康男性 L1-L5 模型在六种姿态下显示植入体和骨-植入界面应力下降。三重复实验中 3 mm 下沉载荷为 2714±22 N，压缩刚度 63.97±0.35 kN/mm、屈服载荷 54.33±0.97 kN。ROM 对照只验证了基线模型，未验证植入体应力；聚氨酯准静态试验也不能替代疲劳、骨整合、融合或临床结果。",
+  "reader_notes": [
+    "已按 packet 顺序阅读全部 30 个非 reference chunk（S001:C01 至 S028:C01），包括 acknowledgements、trial-number、data/ethics 等短段，未遗漏。",
+    "全文 article kind 为原始混合计算-实验研究；screening 的 in_vivo_animal、clinical_or_observational 和 biological cues 未形成实际动物/临床端点。",
+    "明确记录 nominal 55% 与 as-built 偏差 <2%，以及 single-subject、bonded interface、quasi-static、无疲劳/骨整合等边界。",
+    "FE stress 是 predicted，subsidence/compression 是 measured bench outcomes；ROM 外部比较仅作为健康基线验证。"
+  ],
+  "selection": {
+    "selection_reason": "manifest_all",
+    "primary_stratum": "additive_manufacturing",
+    "reading_order": 53
+  },
+  "source": {
+    "record_path": "records/PMC12857080.json.gz",
+    "source_record": "records/PMC12857080.json.gz",
+    "source_record_sha256": "bfb0b9c94906695bd9502c05e82166b878fd669afe610cd2cfe0f468cc5e9cbb",
+    "source_hash": "bfb0b9c94906695bd9502c05e82166b878fd669afe610cd2cfe0f468cc5e9cbb"
+  }
+}

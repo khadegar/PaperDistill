@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10331472",
+  "paper_id": "doi:10.3389/fvets.2023.1208593",
+  "pmcid": "PMC10331472",
+  "source_record_sha256": "09e884320ea1ac449e3985c48c5b5c208c755bb4518fed80efe286a7ccab2817",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "57d985110f35e3e5ec605413bdcecf43cdc37dff92227599c31be5eaa141f826",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Instrumented cervical fusion using patient specific end-plate conforming interbody devices with a micro-porous structure in nine dogs with disk-associated cervical spondylomyelopathy",
+    "authors": "Driver CJ, Lopez V, Walton B, Jones D, Fentem R, Tomlinson A, Rose J.",
+    "year": 2023,
+    "journal": "Frontiers in Veterinary Science",
+    "doi": "10.3389/fvets.2023.1208593",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

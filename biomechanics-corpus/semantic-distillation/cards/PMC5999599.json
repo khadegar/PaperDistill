@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5999599",
+  "paper_id": "doi:10.1186/s40729-018-0129-3",
+  "pmcid": "PMC5999599",
+  "source_record_sha256": "759aa925ab7ca33611f275ae700032d5c2b64099f0593f034c7a5fa22e406dd5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "05adb820f6177c6e9e06261b93a10fa9566efe0a04f9cabf9230e23845c99135",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bioactive–hybrid–zirconia implant surface for enhancing osseointegration: an in vivo study",
+    "authors": "Mostafa D, Aboushelib M.",
+    "year": 2018,
+    "journal": "International Journal of Implant Dentistry",
+    "doi": "10.1186/s40729-018-0129-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

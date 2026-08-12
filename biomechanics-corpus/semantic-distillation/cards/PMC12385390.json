@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12385390",
+  "paper_id": "doi:10.3390/gels11080665",
+  "pmcid": "PMC12385390",
+  "source_record_sha256": "14972cf0021385742b998ca9567f3b521d423095c87dc8c870597d45021a5235",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1f551e0e38742820ffbd02ff1a9dc704e17d7de42a55a09df50f76c127ba7c72",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of Phosphate Phase Incorporation on 3D-Printed Hydrogel Scaffolds: Towards Customizable Bone Graft Materials",
+    "authors": "Trifan A, Liciu E, Nedelcu AS, Dragomir M, Cristea DD, Mateescu CȘ, Nițulescu DA, Cîrstea CA, Banciu A, Toader G, Diacon A, Busuioc C.",
+    "year": 2025,
+    "journal": "Gels",
+    "doi": "10.3390/gels11080665",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13134342",
+  "paper_id": "doi:10.1186/s12984-026-01921-y",
+  "pmcid": "PMC13134342",
+  "source_record_sha256": "b102991deb81fd2b2c33b418ab0eed2f5c95e6c9a4ad2225fd279a9391468f87",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2b283553dfe47350c35b809eeaf3b8c156b2010acb2195ed2fc178abd31816a9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and evaluation of a bone-anchored, neurally-controlled knee prosthesis",
+    "authors": "McCullough JA, Levine D, Shu T, Brånemark R, Carty MJ, Herr HM.",
+    "year": 2026,
+    "journal": "Journal of NeuroEngineering and Rehabilitation",
+    "doi": "10.1186/s12984-026-01921-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

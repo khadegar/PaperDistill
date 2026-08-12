@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6155077",
+  "paper_id": "doi:10.1038/s41598-018-32414-1",
+  "pmcid": "PMC6155077",
+  "source_record_sha256": "d1d27409a1514b91aa0c066276ca84980352858cfcd2265ca3d79cabb56e68c3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c68d5da8793339ded7a8516ac7626881e2eb22be33b27180ad963e3f7a54b9f0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of a mechanobiological algorithm to investigate mechanical mediation of heterotopic bone in trans-femoral amputees",
+    "authors": "Rosenberg NM, Bull AMJ.",
+    "year": 2018,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-018-32414-1",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

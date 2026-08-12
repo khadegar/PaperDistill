@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8397126",
+  "paper_id": "doi:10.3390/jcm10163542",
+  "pmcid": "PMC8397126",
+  "source_record_sha256": "2de3887a59e141d22b77e472a0bce7a844cbfb253af508f10b39e8891ea93629",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3c092037217e9ec0e143ae2922127abdc72ba8e04ef294fc6c51f74fddd5843c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Radiographic Evaluation of Bone Remodeling after Additively Manufactured Subperiosteal Jaw Implantation (AMSJI) in the Maxilla: A One-Year Follow-Up Study",
+    "authors": "Van den Borre C, Rinaldi M, De Neef B, Loomans NAJ, Nout E, Van Doorne L, Naert I, Politis C, Schouten H, Klomp G, Beckers L, Freilich MM, Mommaerts MY.",
+    "year": 2021,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm10163542",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

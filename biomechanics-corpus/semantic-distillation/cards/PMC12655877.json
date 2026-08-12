@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12655877",
+  "paper_id": "doi:10.1097/bsd.0000000000001847",
+  "pmcid": "PMC12655877",
+  "source_record_sha256": "851449fcc40d999dffbf9e806f157fea5c8a13c6748d3745e3cfbd69ccf27237",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5c49896d36c5e76f065e910c64fc7e4c7ea3f9a27ac0b6728e7f5591fc2b7839",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of 3D-Printed Artificial Vertebrae in the Reconstruction After Resection of Complex Malignant Spinal Tumors",
+    "authors": "Ji J, Chen G, Miao J.",
+    "year": 2025,
+    "journal": "Clinical Spine Surgery",
+    "doi": "10.1097/bsd.0000000000001847",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10219738",
+  "paper_id": "doi:10.1097/md.0000000000033885",
+  "pmcid": "PMC10219738",
+  "source_record_sha256": "88dccc4cdae58780743d7f24b3c2c17b82fb515941f2e523dcd3bbc071439c34",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "32bb228de95c6784d9a34b1fdca370a4d2be155154953f8270bc6ad511c75c03",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Challenges and chances coexist: A visualized analysis and bibliometric study of research on bioresorbable vascular scaffolds from 2000 to 2022",
+    "authors": "Zhang X, Guo Z, Zhu L, Liu Y, Wang H, Jiang Y, Du B, Hu Y.",
+    "year": 2023,
+    "journal": "Medicine",
+    "doi": "10.1097/md.0000000000033885",
+    "publication_type": "research-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

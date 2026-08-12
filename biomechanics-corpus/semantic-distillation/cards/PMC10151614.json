@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10151614",
+  "paper_id": "doi:10.1073/pnas.2220565120",
+  "pmcid": "PMC10151614",
+  "source_record_sha256": "cd13b2ee6ebcf9a84887f271d5ad15b0b1814bec73ad3475cd54cd8bfbea9e41",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f84cdcee991d2208edfb33f652bc7eea9164a7e747d17b1257ddc32424b74c3a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "DNA hydrogels for bone regeneration",
+    "authors": "Athanasiadou D, Meshry N, Monteiro NG, Ervolino-Silva AC, Chan RL, McCulloch CA, Okamoto R, Carneiro KMM.",
+    "year": 2023,
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "doi": "10.1073/pnas.2220565120",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

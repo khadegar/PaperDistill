@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9919854",
+  "paper_id": "doi:10.3390/polym15030641",
+  "pmcid": "PMC9919854",
+  "source_record_sha256": "b4a5c88bd0b277b41d14e989f0f10af365c5e8fceb94dcbedbc8c5f36fb7f65d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "483d86bac2f1b558f3c0c690ce24114a6fcbf507fd0153162efc3f5bcb9b981f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Selected Biopolymers’ Processing and Their Applications: A Review",
+    "authors": "Flórez M, Cazón P, Vázquez M.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15030641",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

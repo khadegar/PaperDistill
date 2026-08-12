@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10817297",
+  "paper_id": "doi:10.3390/ma17020352",
+  "pmcid": "PMC10817297",
+  "source_record_sha256": "251ebf8bb4f356f42a14657f1656225faf56796db5336e3be23ffd46494b5fc5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ac1b942813b0e71c2a8f21e1e31a5c9de1fdf475d9ef2bc64cd794b03f1baded",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Towards the Clinical Translation of 3D PLGA/β-TCP/Mg Composite Scaffold for Cranial Bone Regeneration",
+    "authors": "Zhou Y, Hu J, Li B, Xia J, Zhang T, Xiong Z.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17020352",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

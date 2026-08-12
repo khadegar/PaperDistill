@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12144170",
+  "paper_id": "doi:10.1038/s41598-025-04792-w",
+  "pmcid": "PMC12144170",
+  "source_record_sha256": "da7a925c1d86494848f34872d4c1222564e8ee34681bd0066c7015fab09ec26c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e9d6a1d0077da833b08a3a057d152e8a7b52fedcb4a094ff04cd920e9e3f95d0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advantages of digital twin technology in orthopedic trauma Surgery – Exploring different clinical use cases",
+    "authors": "Andres A, Roland M, Wickert K, Diebels S, Stöckl J, Herrmann S, Reinauer F, Leibinger R, Pavlov A, Schuppener L, Schäfer D, Histing T, Braun BJ.",
+    "year": 2025,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-04792-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

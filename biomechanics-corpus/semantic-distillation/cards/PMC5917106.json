@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5917106",
+  "paper_id": "doi:10.4047/jap.2018.10.2.138",
+  "pmcid": "PMC5917106",
+  "source_record_sha256": "d6640ee155d4b99ea38046c374d5b90770876f03c06b850ab9c6fee1fa57ae00",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "741c4448fc95c2622e793820c4da9c488c3bb2299dfeecbfd1bcd0f4875647cd",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional finite element analysis of the splinted implant prosthesis in a reconstructed mandible",
+    "authors": "Heo KH, Lim YJ, Kim MJ, Kwon HB.",
+    "year": 2018,
+    "journal": "The Journal of Advanced Prosthodontics",
+    "doi": "10.4047/jap.2018.10.2.138",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

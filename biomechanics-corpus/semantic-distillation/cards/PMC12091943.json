@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12091943",
+  "paper_id": "doi:10.1051/sicotj/2025025",
+  "pmcid": "PMC12091943",
+  "source_record_sha256": "ddae52a44db0dce70913456287f2105be870bd78a9a626a37ce4eaacd3fbfcc1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "067fa748c03198e02369c11a3f68acb844af8674d3257d05cfb04cec2aaca5e9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Total knee arthroplasty after anterior cruciate ligament reconstruction with the use of image-based robotic technology and functional alignment",
+    "authors": "Koutserimpas C, Andriollo L, Gregori P, Veizi E, Tandogan R, Lustig S, Dretakis K.",
+    "year": 2025,
+    "journal": "SICOT-J",
+    "doi": "10.1051/sicotj/2025025",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

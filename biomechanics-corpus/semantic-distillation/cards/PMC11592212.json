@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11592212",
+  "paper_id": "doi:10.3390/biomimetics9110703",
+  "pmcid": "PMC11592212",
+  "source_record_sha256": "0f83f32d2ca55e02065d4474fbaf3c8bbf1cea8021dbdd5fc5ae48f81757342e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0d649b3c202c57c42f9e8084d70cb3b04f299b2b2dd3d4fbcd4777d49542a14b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surface Functionalization of 3D-Printed Bio-Inspired Scaffolds for Biomedical Applications: A Review",
+    "authors": "Kim YS, Shin YS.",
+    "year": 2024,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics9110703",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

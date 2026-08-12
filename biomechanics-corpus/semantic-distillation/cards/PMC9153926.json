@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9153926",
+  "paper_id": "doi:10.1155/2022/2863379",
+  "pmcid": "PMC9153926",
+  "source_record_sha256": "ed91fb18c37a34ffe57744378903f9e767272b954b8766df5a91c24b683beb7a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3735f0c6cb4afee3ef925aafc2538309b9efa6dc0579ac686c70b23a794e8755",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis of Different Internal Fixation Combined with Different Bone Grafting for Unstable Thoracolumbar Fractures in the Elderly",
+    "authors": "Shang Q, Jiang Y, Sheng W, Han P, Zheng J, Wang X, Wu B.",
+    "year": 2022,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2022/2863379",
+    "publication_type": "Retracted Publication; research-article; Randomized Controlled Trial; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

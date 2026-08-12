@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9496476",
+  "paper_id": "doi:10.3390/biomimetics7030117",
+  "pmcid": "PMC9496476",
+  "source_record_sha256": "48c4b831e042220a9c23e9435e2b56427959084e08d2b271e66fa42cb5152ed7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "45d13f852fc77a81f00d78d937d2f1874fdf7400ab3b9dfec962ae34dfcf190c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tailoring of TiAl6V4 Surface Nanostructure for Enhanced In Vitro Osteoblast Response via Gas/Solid (Non-Line-of-Sight) Oxidation/Reduction Reactions",
+    "authors": "Ogura N, Berger MB, Srivas P, Hwang S, Li J, Cohen DJ, Schwartz Z, Boyan BD, Sandhage KH.",
+    "year": 2022,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics7030117",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

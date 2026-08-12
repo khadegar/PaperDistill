@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8245033",
+  "paper_id": "doi:10.1126/sciadv.abg2564",
+  "pmcid": "PMC8245033",
+  "source_record_sha256": "5cec6cf29e1d3fb22d4a9b076a6a1dd604cdb82294c651096a844fd4043256b0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a3eebf0f3d3eae9522a762d1024646aa9cb305f4187e4bdae424d562a3c5bdb0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vitro engineering of a bone metastases model allows for study of the effects of antiandrogen therapies in advanced prostate cancer",
+    "authors": "Bock N, Kryza T, Shokoohmand A, Röhl J, Ravichandran A, Wille ML, Nelson CC, Hutmacher DW, Clements JA.",
+    "year": 2021,
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.abg2564",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8070643",
+  "paper_id": "doi:10.3390/ma14081930",
+  "pmcid": "PMC8070643",
+  "source_record_sha256": "abc81e4b8ee98290b8ede8b4a79a6c4a541314fbb3b7aa126bce04477c86882a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7bcab51db7796ac291c7cae6b6947239fb098c6cafab953727a53f7f722db230",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Improved Bacteriostatic and Anticorrosion Effects of Polycaprolactone/Chitosan Coated Magnesium via Incorporation of Zinc Oxide",
+    "authors": "Bakhsheshi-Rad HR, Hamzah E, Ying WS, Razzaghi M, Sharif S, Ismail AF, Berto F.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14081930",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

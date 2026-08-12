@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10970952",
+  "paper_id": "doi:10.3390/jfb15030060",
+  "pmcid": "PMC10970952",
+  "source_record_sha256": "fb8ea7fd76f635e7a7e53820d068925df586675ea5bc9b2cc313b18ccf5788f3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5c282c050a2ee381804a052addba3f2d7bae6adccb612ff7d884745c4fa97245",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Printing Methods for Bioceramic-Based Scaffold Fabrication for Craniomaxillofacial Bone Tissue Engineering",
+    "authors": "Sheikh Z, Nayak VV, Daood U, Kaur A, Moussa H, Canteenwala A, Michaud PL, de Fátima Balderrama Í, de Oliveira Sousa E, Tovar N, Torroni A, Glogauer M, Talib H, Coelho PG, Witek L.",
+    "year": 2024,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb15030060",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10215153",
+  "paper_id": "doi:10.3390/bioengineering10050503",
+  "pmcid": "PMC10215153",
+  "source_record_sha256": "bcf35cadde1d5bb501ec2cfc62fd59163a391d420271e5747abe95ceb2ced4ae",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d42f3bcdd82bed42c584754f0aac7c9d3926dbf2d76f591e630c7e6bb74f6ce5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Virtual Joint Motion Simulator Accurately Predicts Effects of Femoral Component Malalignment during TKA",
+    "authors": "Montgomery L, Willing R, Lanting B.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10050503",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

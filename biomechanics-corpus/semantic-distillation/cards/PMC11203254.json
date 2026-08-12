@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11203254",
+  "paper_id": "doi:10.3390/gels10060406",
+  "pmcid": "PMC11203254",
+  "source_record_sha256": "5f168049fb8e5bc129d36dcac5d2c7f7a4ead2e67f8e53d6e59f07ac5b5d3f90",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "196535f19028a377d16641c093c6bf76be521c9d2c7559f5e675b99f3bb4a689",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of Hydroxyapatite on Gelatin/Oxidized Alginate 3D-Printed Cryogel Scaffolds",
+    "authors": "Zhanbassynova A, Mukasheva F, Abilev M, Berillo D, Trifonov A, Akilbekova D.",
+    "year": 2024,
+    "journal": "Gels",
+    "doi": "10.3390/gels10060406",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

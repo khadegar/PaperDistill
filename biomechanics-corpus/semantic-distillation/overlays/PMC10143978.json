@@ -1,0 +1,219 @@
+{
+  "study": {
+    "article_kind": "systematic_review_of_preclinical_studies",
+    "design_features": [
+      "prisma",
+      "prospero_registration",
+      "sympathetic_nervous_system",
+      "dental_implant_osseointegration",
+      "animal_and_in_vitro_evidence",
+      "propranolol_electrical_stimulation_sympathectomy",
+      "syrcle_risk_of_bias",
+      "narrative_synthesis"
+    ],
+    "research_problem": "The sympathetic nervous system influences bone metabolism and common drugs alter adrenergic signaling, but its direction, receptor-specific mechanisms, and relevance to dental implant osseointegration remain uncertain.",
+    "exact_gap": "No coherent preclinical synthesis had compared implant-surface adrenoceptor expression, beta-blockade, electrical SNS stimulation, and chemical sympathectomy while considering histological, imaging, and mechanical integration endpoints (S002:C03-S003:C03).",
+    "objective_or_hypothesis": "Systematically summarize how SNS interventions affect preclinical dental-implant osseointegration, what mechanisms may explain the findings, and whether sympathomimetic/sympatholytic drugs warrant further translational study (S003:C01).",
+    "study_design": "PRISMA-guided, PROSPERO-registered search of Medline, Cochrane, Web of Science, references, and citations through 17 August 2022; eight nonclinical studies were narratively synthesized and animal studies assessed with SYRCLE (S003:C01-S004:C02).",
+    "sample_or_model": "One in-vitro mouse-BMSC implant-surface study and seven animal investigations spanning four street dogs, rats, beagles, and mice with propranolol, electrical sympathetic stimulation, or chemical sympathectomy; models, surfaces, doses, time points, and endpoints varied substantially (S004:C02-S004:C08).",
+    "comparators": [
+      "Propranolol versus saline or no treatment at varied dose schedules",
+      "Electrical sympathetic stimulation versus no stimulation",
+      "6-hydroxydopamine chemical sympathectomy versus intact control",
+      "Rough versus machined titanium and polystyrene in vitro",
+      "No comparable clinical treatment or human osseointegration dataset"
+    ],
+    "method_spine": [
+      "Register a preclinical question and map each study by species, implant, intervention, dose, time, and endpoint.",
+      "Retain histology, micro-CT, serum, and interface mechanics as distinct evidence types.",
+      "Report supportive, null, and apparently contradictory results.",
+      "Interrogate receptor selectivity, co-transmitters, blood supply, model age, surface realism, and destructive tests as moderators.",
+      "Conclude at mechanistic uncertainty and translational research needs rather than clinical medication advice."
+    ],
+    "validation_roles": {
+      "verification": [
+        "Registration, databases/search terms, 1244-to-8 flow, citation search, and SYRCLE assessment are reported (S003:C01-S004:C02).",
+        "Initial search/screening was principally conducted by one reviewer with later control/consensus; duplicate extraction and in-vitro quality appraisal are not clearly reported (S003:C01-S003:C03)."
+      ],
+      "calibration": [],
+      "validation": [
+        "No meta-analysis or independent experimental validation was performed. Convergence across BIC, micro-CT, histology, and push-in within selected primary studies strengthens those individual findings but does not validate one universal SNS direction or human effect.",
+        "SYRCLE evaluates reported animal-study bias; it does not validate pharmacological specificity or clinical translation."
+      ],
+      "sensitivity": [
+        "The review qualitatively examines species, implant realism, age, surface, dose, receptor selectivity, reverse-torque limitations, electrode location, and sympathectomy confounding (S006:C01-S006:C06).",
+        "No quantitative moderator, leave-one-out, certainty grading, or sensitivity synthesis is possible from the small heterogeneous set."
+      ],
+      "application_prediction": [
+        "Systemic/local adrenergic therapy, drug-eluting surfaces, stress-related risk stratification, and expanded implant indications are speculative future applications; current evidence is insufficient for clinical recommendations (S007:C01-S008:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "A small BMSC study reported surface-dependent alpha2/beta1 adrenoceptor mRNA patterns, providing receptor-expression plausibility rather than integration efficacy (S004:C05).",
+      "In four street dogs, propranolol increased BIC at 4 weeks (68.33% versus 20.22%) but not significantly at 9 weeks (68.60% versus 50.17%), with only two animals per group (S004:C06; S006:C02).",
+      "Rat propranolol studies were mixed: some BIC/micro-CT/histology measures improved, while reverse torque, newly formed bone, or serum markers were null depending on study (S004:C06-S004:C07).",
+      "Electrical sympathetic stimulation in beagles increased selected new-bone/BMD measures, while pre-existing peri-implant bone indices were unchanged (S004:C07).",
+      "Chemical sympathectomy in mice reduced several micro-CT and bone-formation measures and produced about 37% lower push-in integration strength than controls, apparently opposing a simple globally catabolic SNS model (S004:C08)."
+    ],
+    "highest_evidence_level_reached": "Heterogeneous small preclinical animal/in-vitro evidence with selected histological, imaging, and interface-mechanical outcomes; no pooled certainty, receptor-specific causal synthesis, human trial, or clinical recommendation."
+  },
+  "argument_map": {
+    "central_claim": "SNS signaling plausibly modifies peri-implant bone responses, but nonselective beta-blockade, electrical activation, and chemical denervation yield mixed, model-dependent results; the evidence does not establish whether enhancing or suppressing the SNS improves human dental implant osseointegration.",
+    "data": [
+      "Eight heterogeneous preclinical studies with BIC, micro-CT, histology, serum markers, reverse torque/push-in, and receptor-expression outcomes (S004:C02-S004:C08).",
+      "SYRCLE results and detailed methodological critique expose small samples, unclear bias, model limitations, and intervention non-specificity (S004:C01-S004:C02; S006:C01-S006:C06)."
+    ],
+    "warrant": "Repeated changes in interface proxies under SNS perturbation justify mechanistic research, while direction and therapeutic value require receptor-specific interventions, realistic implants, integrated endpoints, and human validation.",
+    "backing": [
+      "The review's conclusion explicitly states that the questions cannot be finally answered and that data are insufficient for medication recommendations (S008:C01)."
+    ],
+    "qualifier": "Preclinical plausibility with inconsistent direction and generally limited study quality.",
+    "rebuttals_or_boundaries": [
+      "Propranolol is nonselective, electrical stimulation can have non-neural/direct or systemic effects, and 6-OHDA removes peripheral SNS signaling/co-transmitters and alters blood supply (S006:C03-S006:C06).",
+      "Species, age, jaw versus tibia/femur, implant surface, dose, timing, and healing model differ too much for a common effect estimate.",
+      "Several studies have tiny animal numbers and multiple implants per animal, risking unstable estimates and unit-of-analysis problems (S004:C02-S004:C08; S006:C02).",
+      "BIC, micro-CT, serum ALP/Ca/P, reverse torque, and push-in capture different constructs and cannot be treated as equivalent integration outcomes.",
+      "No preclinical result establishes human implant survival, patient safety, optimal receptor target, or medication regimen."
+    ],
+    "argument_coherence": "high_for_uncertainty_synthesis"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "At review level, search/screening/bias data and extracted primary-study outcomes; all receptor, BIC, micro-CT, histology, serum, reverse-torque, and push-in values were measured in cited studies, not by the review authors (S004:C01-S004:C08)."
+    ],
+    "predicted": [],
+    "inferred": [
+      "The review organizes NE/adrenoceptor/RANKL and other pathways into a mechanistic explanation, but the interventions are not receptor-specific enough to isolate a single pathway (S005:C01-S006:C06).",
+      "Mixed propranolol, stimulation, and denervation results are reconciled through beta1/beta2 affinity, co-transmitters, and blood-supply hypotheses rather than direct cross-study tests (S006:C04-S006:C06).",
+      "Potential drug coatings, bone-substitute enrichment, stress modification, and patient risk factors are translational hypotheses (S007:C01-S007:C03)."
+    ],
+    "recommended": [
+      "Use realistic dental implants, prespecified receptor-selective agonists/antagonists, adult models, multiple orthogonal interface endpoints, pharmacokinetics/vascular controls, appropriate animal-level analysis, and then prospective human studies (S006:C01-S008:C01)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "BIC is a histological contact fraction, not implant survival or complete functional integration.",
+      "Micro-CT peri-implant bone is not interface strength; push-in/reverse torque add mechanics but are destructive, model-specific tests.",
+      "Serum ALP, calcium, and phosphate are nonspecific systemic markers, not local osseointegration (S006:C03).",
+      "Animal drug effects do not establish safe/effective human dosing or direction.",
+      "A review of preclinical studies cannot support clinical medication changes."
+    ],
+    "overclaim_risks": [
+      "The abstract says propranolol improves histological/micro-CT parameters 'as expected,' although included propranolol findings include null mechanics/new-bone/serum outcomes (S001:C01; S004:C06-S004:C07).",
+      "Treating chemical sympathectomy, electrical stimulation, and beta-blockade as opposite points on one SNS axis ignores receptor/co-transmitter/vascular differences.",
+      "Large percentage BIC differences from four street dogs can appear definitive unless animal-level n and 9-week null are reported (S004:C06).",
+      "The in-vitro and in-vivo cues describe included primary studies; this article itself is a systematic review."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "results",
+      "move": "Make preclinical heterogeneity visible in a structured study matrix",
+      "execution": "The review lists species/cell model, implant/site, SNS intervention/dose, comparator, time, and histological/imaging/mechanical outcomes for each included study (S004:C02-S004:C05).",
+      "locator": "S004:C04",
+      "effectiveness": "high",
+      "transferable_principle": "For mechanistic preclinical reviews, build a fixed matrix of species, age, anatomical site, implant surface, intervention selectivity/dose, unit of analysis, time, and endpoint modality before synthesis.",
+      "failure_mode": "A table does not make incomparable interventions poolable."
+    },
+    {
+      "section": "results",
+      "move": "Report positive, null, and time-dependent outcomes together",
+      "execution": "The review preserves early BIC benefit with later null, null reverse torque/new-bone findings, and differing stimulation/denervation effects (S004:C06-S004:C08).",
+      "locator": "S004:C06",
+      "effectiveness": "high",
+      "transferable_principle": "Summarize each intervention with effect direction, exact endpoint, time point, animal-level n, and nulls so one favorable proxy cannot stand for the whole study.",
+      "failure_mode": "Do not call an intervention beneficial when only one early proxy changes."
+    },
+    {
+      "section": "discussion",
+      "move": "Explain contradiction through intervention specificity and endpoint mechanics",
+      "execution": "The review contrasts receptor affinity, electrical stimulation, chemical denervation, blood supply, surface realism, reverse torque, and nonspecific serum markers (S006:C02-S006:C06).",
+      "locator": "S006:C06",
+      "effectiveness": "high",
+      "transferable_principle": "When mechanism studies conflict, audit target specificity, off-target physiology, exposure, model, and measurement before proposing biological moderators.",
+      "failure_mode": "A plausible reconciliation is still an inference until directly tested."
+    },
+    {
+      "section": "conclusion",
+      "move": "End at the clinical recommendation boundary",
+      "execution": "The review states that the SNS direction and mechanisms remain unresolved and the drug evidence cannot support recommendations (S008:C01).",
+      "locator": "S008:C01",
+      "effectiveness": "high",
+      "transferable_principle": "Close preclinical reviews with what is plausible, what conflicts, which causal experiment is next, and which clinical action remains unsupported.",
+      "failure_mode": "Potential therapeutic relevance is not a clinical recommendation."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The review highlights heterogeneous/insufficient studies, tiny groups, nonstandard animals, immature rats, unrealistic implants, destructive/nonspecific endpoints, nonselective drugs, possible direct electrical effects, chemical sympathectomy limitations, and lack of clinical evidence (S006:C01-S008:C01)."
+    ],
+    "reader_identified": [
+      "Only eight studies, with one in-vitro paper despite animal-focused PICO, and no quantitative synthesis/certainty grading.",
+      "Search/screening/extraction were not fully duplicate-independent, and in-vitro bias was not formally assessed.",
+      "Multiple implants per animal may create pseudo-replication if primary analyses treat implants as independent.",
+      "Interventions manipulate different receptor/system components and cannot be ordered on a simple activation-inhibition scale.",
+      "Species/anatomy/surface/dose/time/outcome variation blocks a universal direction and clinical generalization.",
+      "No safety, pharmacokinetic, human osseointegration, implant survival, or patient-important endpoint."
+    ],
+    "likely_bias_direction": [
+      "Narrative emphasis on promising propranolol results may overstate consistency and translational readiness.",
+      "Small positive animal studies and publication bias likely inflate effects.",
+      "Mechanistic reconciliation may create more coherence than the direct evidence warrants."
+    ],
+    "scope_boundary": "The review establishes the SNS as a plausible modifier of preclinical peri-implant bone responses but does not resolve direction, receptor mechanism, optimal intervention, human effect, or clinical drug guidance."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC10143978-01",
+      "capability": "Build a preclinical evidence matrix that keeps species, implant/site, intervention specificity/dose, time, endpoint modality, and animal-level n visible.",
+      "manuscript_use": "Systematic-review Methods, Results table, and heterogeneity synthesis.",
+      "applicable_domains": ["osseointegration", "mechanobiology", "bone_implant"],
+      "applicable_study_designs": ["systematic_review", "animal_study"],
+      "supporting_locators": ["S003:C01", "S004:C02", "S004:C03", "S004:C04", "S004:C05"],
+      "counterexample_or_boundary": "BIC, micro-CT, serum markers, reverse torque, and push-in from different species are not a common effect scale.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10143978-02",
+      "capability": "Synthesize conflicting mechanistic studies by auditing target selectivity, off-target physiology, anatomical model, exposure, and endpoint physics before invoking moderators.",
+      "manuscript_use": "Discussion contradiction map and mechanism paragraph.",
+      "applicable_domains": ["mechanobiology", "osseointegration", "bone_regeneration_biomaterial"],
+      "applicable_study_designs": ["systematic_review", "mechanism_study"],
+      "supporting_locators": ["S006:C02", "S006:C03", "S006:C04", "S006:C05", "S006:C06"],
+      "counterexample_or_boundary": "A receptor-affinity explanation is plausible but remains untested across studies using nonselective blockade, stimulation, and denervation.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC10143978-03",
+      "capability": "Write osseointegration evidence as a hierarchy of histology, imaging, interface mechanics, and clinical outcomes while retaining nulls and time dependence.",
+      "manuscript_use": "Results synthesis, evidence ladder, and clinical boundary.",
+      "applicable_domains": ["osseointegration", "bone_implant"],
+      "applicable_study_designs": ["animal_study", "systematic_review"],
+      "supporting_locators": ["S004:C06", "S004:C07", "S004:C08", "S006:C03", "S008:C01"],
+      "counterexample_or_boundary": "An early BIC improvement does not equal stronger interface mechanics, long-term integration, or human implant survival.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate_to_high",
+    "methods_transparency": "moderate",
+    "validation_credibility": "low_due_to_preclinical_heterogeneity",
+    "outcome_uncertainty_reporting": "moderate_qualitative",
+    "comparator_fairness": "low_to_moderate_across_primary_studies",
+    "conclusion_proportionality": "high",
+    "critical_weaknesses": [
+      "Only eight heterogeneous studies with mixed and low-quality evidence.",
+      "Interventions and endpoint modalities are mechanistically non-equivalent.",
+      "No pooled certainty or human validation."
+    ],
+    "overall_credibility": "moderate_for_mapping_preclinical_uncertainty_low_for_direction_mechanism_or_clinical_recommendation"
+  },
+  "summary_zh": "这篇系统综述纳入 8 项基础研究：一个体外受体表达研究，以及普萘洛尔、电刺激和化学交感切除的动物实验。结果并不支持简单的‘抑制交感一定促进骨整合’：普萘洛尔在部分 BIC/micro-CT 指标上阳性，但逆扭矩、新骨或血清指标也有阴性；交感电刺激可提高某些新骨指标，而化学切除反而降低 micro-CT、形成率和 push-in 强度。真正可迁移的写法是把每项研究按物种、植体/部位、干预选择性与剂量、时间点、动物级 n、BIC/影像/力学终点列成矩阵，再从受体选择性、共递质、血流、表面、年龄和测试力学解释冲突。结论应停在‘SNS 是值得研究的调节因素’，因为这些代理终点、非特异干预和小动物结果尚不能产生人类用药建议。",
+  "reader_notes": [
+    "Primary Codex reader reviewed every non-reference packet section, including the complete eight-study table and methodological critique.",
+    "The in-vitro and in-vivo-animal cues describe included evidence; this article itself is a systematic review.",
+    "The paper is a useful exemplar for contradiction-preserving preclinical synthesis and a poor basis for direct therapeutic claims."
+  ]
+}

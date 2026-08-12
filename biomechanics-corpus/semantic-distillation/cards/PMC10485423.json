@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10485423",
+  "paper_id": "doi:10.4103/jpbs.jpbs_55_23",
+  "pmcid": "PMC10485423",
+  "source_record_sha256": "afb8d590dcf009cb5aa7fe8ec5121828ab90ea84f333ae8c673259c4997f1f82",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fef7c845d28f35c9955ac5e8431163a4cd814cd5760d6c621106a515422964a6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Assessment of Stress Distribution Around Dental Implants Based on the All-on-Four Treatment Concept using Finite Element Analysis",
+    "authors": "Bhoi S, Baghel AS, Deepa E, Reddy RN, Nadakkavukaran D, Borra A, Rao K.",
+    "year": 2023,
+    "journal": "Journal of Pharmacy & Bioallied Sciences",
+    "doi": "10.4103/jpbs.jpbs_55_23",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

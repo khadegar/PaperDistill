@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7412522",
+  "paper_id": "doi:10.3390/ma13143057",
+  "pmcid": "PMC7412522",
+  "source_record_sha256": "436d30831df83ccba59c7b698dfacb9a07a543393d1c4062edd3dad01a6450bc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "460c0cedbbfad753b2b91a25618ea710fe94440a09bd1920d6e6f4ffdc883fd9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro Mechanical and Biological Properties of 3D Printed Polymer Composite and β-Tricalcium Phosphate Scaffold on Human Dental Pulp Stem Cells",
+    "authors": "Cao S, Han J, Sharma N, Msallem B, Jeong W, Son J, Kunz C, Kang HW, Thieringer FM.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13143057",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

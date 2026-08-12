@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10428093",
+  "paper_id": "doi:10.1021/acsbiomaterials.3c00751",
+  "pmcid": "PMC10428093",
+  "source_record_sha256": "4092295bda431aa2c9bd96f5d3dddacf0f0818e148b59269dfb6737810d75538",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "39429d8b37baa447baf32f1314c5e19fef2972d3d2700824404d0d679d0ec741",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Embedded 3D Printing of Cryogel-Based Scaffolds",
+    "authors": "Bilici Ç, Altunbek M, Afghah F, Tatar AG, Koç B.",
+    "year": 2023,
+    "journal": "ACS Biomaterials Science & Engineering",
+    "doi": "10.1021/acsbiomaterials.3c00751",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

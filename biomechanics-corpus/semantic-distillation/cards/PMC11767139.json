@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11767139",
+  "paper_id": "doi:10.3390/medicina61010110",
+  "pmcid": "PMC11767139",
+  "source_record_sha256": "4aa7c44ecab1be9995020abd6156267c2a47fc6bf1e232fb3d9efd12609f59ca",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c16cd4c297100cc71671291abb478fa2b06d91212e8bdef47d2029d26a16fe59",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multiplanar Semicircular New-Generation Implant System Developed for Proximal Femur Periprosthetic Fractures: A Biomechanical Study",
+    "authors": "Satılmış AB, Ülker A, Uzunay Z, Cengiz T, Temiz A, Yaşar M, Mutlu T, Daşar U.",
+    "year": 2025,
+    "journal": "Medicina",
+    "doi": "10.3390/medicina61010110",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10761322",
+  "paper_id": "doi:10.1016/j.bioactmat.2023.12.005",
+  "pmcid": "PMC10761322",
+  "source_record_sha256": "a11b4184054dfe004f59b796c3247b383f0df486df613a2d69720ae07f7258fb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8d478ba2322d65118e393a4172971fc6def895fa1ff396eb446b3776204b8c0a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An osteosarcoma-on-a-chip model for studying osteosarcoma matrix-cell interactions and drug responses",
+    "authors": "Lu Z, Miao X, Zhang C, Sun B, Skardal A, Atala A, Ai S, Gong J, Hao Y, Zhao J, Dai K.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2023.12.005",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

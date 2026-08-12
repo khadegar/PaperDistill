@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11468606",
+  "paper_id": "doi:10.1002/adhm.202101051",
+  "pmcid": "PMC11468606",
+  "source_record_sha256": "90e348d2cb0aac04530b8dedb0b91b4f0251807536cceee4b9b19836cb612e86",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6fd16176edfe0f17767d7cd400881111377801f2c520e2a0014b566063242922",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D‐Printed Regenerative Magnesium Phosphate Implant Ensures Stability and Restoration of Hip Dysplasia",
+    "authors": "Golafshan N, Willemsen K, Kadumudi FB, Vorndran E, Dolatshahi-Pirouz A, Weinans H, van der Wal BCH, Malda J, Castilho M.",
+    "year": 2021,
+    "journal": "Advanced Healthcare Materials",
+    "doi": "10.1002/adhm.202101051",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

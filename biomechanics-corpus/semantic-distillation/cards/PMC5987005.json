@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5987005",
+  "paper_id": "doi:10.1016/j.jot.2015.09.008",
+  "pmcid": "PMC5987005",
+  "source_record_sha256": "175374e8a95a8c259e93d4eaad2357c82823e05c748fe0641cc3faadab73bb07",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6c4f69422694b195e8a0a7021db90a0829c75f3a0ab6464f9b21d8c76c6a2ab3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Assessment of activated porous granules on implant fixation and early bone formation in sheep",
+    "authors": "Ding M, Henriksen SS, Theilgaard N, Overgaard S.",
+    "year": 2015,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2015.09.008",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9027822",
+  "paper_id": "doi:10.3390/ma15082801",
+  "pmcid": "PMC9027822",
+  "source_record_sha256": "f0c6d5c50606b6ffa7c4d99d6c912a465ffa03b1eab39f3a718c498bfd8d445d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f9f7c4c739c235a5ea2076e56f01d95713becabc37261f467bc1dd7084fc60e9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed Double-Helical Biodegradable Iron Suture Anchor: A Rabbit Rotator Cuff Tear Model",
+    "authors": "Liu WC, Chang CH, Chen CH, Lu CK, Ma CH, Huang SI, Fan WL, Shen HH, Tsai PI, Yang KY, Fu YC.",
+    "year": 2022,
+    "journal": "Materials",
+    "doi": "10.3390/ma15082801",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

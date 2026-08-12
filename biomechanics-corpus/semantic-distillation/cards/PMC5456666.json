@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5456666",
+  "paper_id": "doi:10.3390/ma9030197",
+  "pmcid": "PMC5456666",
+  "source_record_sha256": "30d4d5cecffd84837d71b6ee1536c7147041a280ed065593c54f0252035c6107",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7e458b5d88c1cbccafe63ae057c8e4fb34200f2fb9eddfc8155eb349ba5a976f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Post Processing and Biological Evaluation of the Titanium Scaffolds for Bone Tissue Engineering",
+    "authors": "Wysocki B, Idaszek J, Szlązak K, Strzelczyk K, Brynk T, Kurzydłowski KJ, Święszkowski W.",
+    "year": 2016,
+    "journal": "Materials",
+    "doi": "10.3390/ma9030197",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

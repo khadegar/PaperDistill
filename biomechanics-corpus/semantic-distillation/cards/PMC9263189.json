@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9263189",
+  "paper_id": "doi:10.3389/fbioe.2022.881979",
+  "pmcid": "PMC9263189",
+  "source_record_sha256": "9a5b07434c9b1557ec96edce4d55dd1ad6ea4268a6b9a3025c6ffefa6325c591",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "810703e326d72c0d53d4b8fe0912003310c648c1d0c01e7eb7e82ac21a3389a8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Effects of a Novel Anatomic Titanium Mesh Cage for Single-Level Anterior Cervical Corpectomy and Fusion: A Finite Element Analysis",
+    "authors": "Zhang KR, Yang Y, Ma LT, Qiu Y, Wang BY, Ding C, Meng Y, Rong X, Hong Y, Liu H.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.881979",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

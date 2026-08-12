@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8541638",
+  "paper_id": "doi:10.3390/ph14101000",
+  "pmcid": "PMC8541638",
+  "source_record_sha256": "d6f05ac1c7c799dc73f35dc369009cb990a170000b493b6b218a0dee1a85ecd1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "86341c20b96af3bd73889e65c770d7764a8d8932f6f73338a1854995d45d37e0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro Evaluation of Calcium Phosphate Bone Cement Composite Hydrogel Beads of Cross-Linked Gelatin-Alginate with Gentamicin-Impregnated Porous Scaffold",
+    "authors": "Liu SM, Chen WC, Ko CL, Chang HT, Chen YS, Haung SM, Chang KC, Chen JC.",
+    "year": 2021,
+    "journal": "Pharmaceuticals",
+    "doi": "10.3390/ph14101000",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

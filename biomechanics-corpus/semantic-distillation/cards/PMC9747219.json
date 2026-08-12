@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9747219",
+  "paper_id": "doi:10.22603/ssrr.2021-0231",
+  "pmcid": "PMC9747219",
+  "source_record_sha256": "ffcd8dde3debea605fd5ea096ae61460ef5d84923028bd31692964f904333dfb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "08795c6e8f865d10eab9cda7588889e683da14228a72c6e01d767128789d34bf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Lumbar Fusion including Sacroiliac Joint Fixation Increases the Stress and Angular Motion at the Hip Joint: A Finite Element Study",
+    "authors": "Kozaki T, Hashizume H, Oka H, Ohashi S, Kumano Y, Yamamoto E, Minamide A, Yukawa Y, Iwasaki H, Tsutsui S, Takami M, Nakata K, Taniguchi T, Fukui D, Nishiyama D, Yamanaka M, Tamai H, Taiji R, Murata S, Murata A, Yamada H.",
+    "year": 2022,
+    "journal": "Spine Surgery and Related Research",
+    "doi": "10.22603/ssrr.2021-0231",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

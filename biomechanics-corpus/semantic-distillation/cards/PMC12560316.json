@@ -1,0 +1,387 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12560316",
+  "paper_id": "doi:10.1186/s13018-025-06279-w",
+  "pmcid": "PMC12560316",
+  "source_record_sha256": "b40595426ea88758fc3dbe2aaba467268cbfcefe7f1b8c96ab1fdb7fddfdd5e0",
+  "reading": {
+    "status": "completed",
+    "packet_sha256": "43b3d5d1c3e1e56d3f9d69a1c1ce78890afd4cdc5d99e7d0871283111148b0af",
+    "section_locators_read": [
+      "S001:C01",
+      "S002:C01",
+      "S003:C01",
+      "S004:C01",
+      "S005:C01",
+      "S006:C01",
+      "S007:C01",
+      "S008:C01",
+      "S009:C01",
+      "S010:C01",
+      "S011:C01",
+      "S012:C01",
+      "S013:C01",
+      "S014:C01",
+      "S015:C01",
+      "S016:C01",
+      "S017:C01",
+      "S018:C01"
+    ],
+    "omissions": [],
+    "access_level": "full_text_read",
+    "reader_role": "luna_primary",
+    "reader_model": "gpt-5.6-luna",
+    "reasoning_effort": "max",
+    "read_at": "2026-08-10T14:00:00Z",
+    "adjudication_status": "self_reviewed"
+  },
+  "bibliography": {
+    "title": "Current developments in orthopaedic implant technology",
+    "authors": "Misir A.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-06279-w",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "narrative topical review of orthopaedic implant technologies",
+    "design_features": [
+      "thematic_secondary_synthesis",
+      "advanced_metals_polymers_ceramics_and_nanocomposites",
+      "surface_engineering_and_antibacterial_coatings",
+      "additive_manufacturing_and_patient_specific_design",
+      "sensor_enabled_implants",
+      "biodegradable_metals_and_polymers",
+      "translational_challenges_and_future_directions"
+    ],
+    "research_problem": "Orthopaedic implants restore function but remain vulnerable to infection, wear, aseptic loosening, poor osseointegration, stress shielding, and finite durability; new materials, surfaces, manufacturing methods, sensors, and degradable constructs are proposed to address these failure modes.",
+    "exact_gap": "The review aims to organize developments from 2020–2025 and identify the translational hurdles that separate promising implant technologies from reliable clinical adoption. It does not state a systematic search question or a prespecified evidence-synthesis protocol.",
+    "objective_or_hypothesis": "Summarize contemporary advances in biomaterials, surface engineering, additive manufacturing/customization, smart implants, and biodegradable implants; discuss current clinical progress, remaining safety/reliability/regulatory/cost barriers, and future directions such as AI and regenerative integration.",
+    "study_design": "A narrative review arranged into thematic sections. It paraphrases cited laboratory, preclinical, clinical, regulatory, and industry reports but gives no database search strings, date limits beyond the stated 2020–2025 focus, inclusion/exclusion criteria, screening flow, risk-of-bias assessment, quantitative synthesis, or denominator of included studies. No dataset was generated or analyzed by the review authors (S014:C01; S018:C01).",
+    "sample_or_model": "The unit of evidence is a heterogeneous set of cited studies and examples, not a defined patient or specimen cohort. Materials span titanium/steel/cobalt-chrome, PEEK/PLA/PGA, ceramics, composites, nanomaterials, magnesium/iron/zinc alloys, and coatings; applications include joint, spine, fracture, tumor/revision, and dental/orthopaedic devices. The review does not report the number or selection of cited records.",
+    "comparators": [
+      "Qualitative trade-offs among metal, polymer, ceramic, composite, and nanomaterial classes (S003:C01).",
+      "Porous/rough or bioactive-coated surfaces versus conventional surfaces for fixation and infection control (S004:C01).",
+      "Additively manufactured patient-specific/porous implants versus one-size-fits-all, cast, or machined devices (S005:C01).",
+      "Permanent implants versus bioabsorbable polymers or Mg/Fe/Zn metals for temporary support (S007:C01).",
+      "Antibiotic-coated versus uncoated nails, including a cited approximately 3% versus 18% infection comparison, as an external study claim rather than a review-level analysis (S004:C01)."
+    ],
+    "method_spine": [
+      "Frame implant failure modes and the need for safer, more durable, biologically compatible devices (S002:C01).",
+      "Review advanced bulk biomaterials and nanostructured composites in relation to modulus, wear, imaging, and cell response (S003:C01).",
+      "Review textured/porous, hydroxyapatite, antimicrobial, multifunctional, and stimuli-responsive coatings (S004:C01).",
+      "Discuss AM customization, graded lattices, bioprinting, process defects, fatigue, and regulatory quality challenges (S005:C01).",
+      "Survey sensor-enabled implants, biodegradable polymers/metals, and current clinical examples, then list adoption barriers and future AI/regenerative/sustainable directions (S006:C01–S010:C01)."
+    ],
+    "validation_roles": {
+      "verification": [
+        "The review reports no reproducible search, screening, coding, or source-quality verification procedure; the statements in S001–S011 are secondary narrative synthesis."
+      ],
+      "calibration": [
+        "Material modulus ranges, infection percentages, FDA status, clinical examples, and mechanistic descriptions are taken from cited external reports, but no calibration or cross-study harmonization is performed by the review (S003:C01–S008:C01)."
+      ],
+      "validation": [
+        "The article itself performs no experiment, model validation, meta-analysis, or independent clinical audit. Reported validation belongs to individual cited studies and is not uniformly characterized (S001:C01; S014:C01).",
+        "The review appropriately notes that robust clinical evidence and rigorous validation remain needed before many innovations become standard practice (S009:C01; S011:C01)."
+      ],
+      "sensitivity": [
+        "No quantitative sensitivity, heterogeneity, publication-bias, or evidence-grade analysis is reported; differences among technologies are discussed thematically."
+      ],
+      "application_prediction": [
+        "Claims that porous AM, coatings, sensors, Mg alloys, AI, 4D printing, or regenerative surfaces will improve longevity, osseointegration, monitoring, or patient quality of life are literature-derived interpretations or future projections, not outcomes measured in this review (S001:C01; S008:C01; S010:C01).",
+        "Statements about FDA NanoCept approval, clinical trial transition, and early human use are current-status summaries requiring source-specific verification and should not be treated as evidence that every technology is effective or durable (S004:C01; S008:C01)."
+      ]
+    },
+    "primary_outcomes": [
+      "Metals remain strong and fatigue-resistant but can release ions/wear particles; PEEK and bioabsorbable polymers are presented as lower-modulus or resorbable alternatives, while ceramics, composites, and nanomaterials offer wear, imaging, or cell-interaction advantages (S003:C01).",
+      "Porous/rough titanium and hydroxyapatite surfaces are described as routes to biological fixation, while silver, iodine, antibiotic, peptide, quaternary-ammonium, sandwich, and stimuli-responsive coatings target infection; a cited gentamicin-nail study is summarized as approximately 3% versus 18% infection (S004:C01).",
+      "AM is described as enabling patient-specific geometry, graded porosity, lattice-mediated modulus matching, and bioprinting, but internal flaws, fatigue variability, patient-specific-device regulation, and process qualification remain barriers (S005:C01).",
+      "Smart tibial components and spinal rods are presented as prototypes/early clinical systems that can record load, strain, pressure, motion, or temperature; power, biocompatibility, durability, and wireless transmission remain unresolved (S006:C01; S008:C01).",
+      "PLA/PGA degradation can create burst resorption, acid byproducts, inflammation, and limited strength; Mg alloys offer a 41–45 GPa modulus closer to bone than steel (200 GPa) or titanium (110 GPa) but may corrode too rapidly, release hydrogen, and lose support before healing (S007:C01).",
+      "The review describes early human Mg-screw evaluation, 3D-printed porous implants, antimicrobial coatings, and smart-implant trials as current advances, while stressing that evidence is heterogeneous and long-term durability, infection resistance, standardization, cost, and clinical proof remain incomplete (S008:C01–S009:C01).",
+      "Future directions include molecularly regenerative surfaces, functionally graded materials, 4D printing, AI-based design/failure prediction, point-of-care manufacturing, and open-source access; these are recommendations or projections rather than demonstrated outcomes (S010:C01–S011:C01)."
+    ],
+    "highest_evidence_level_reached": "Narrative secondary synthesis spanning cited preclinical, clinical, regulatory, and conceptual reports; no review-level systematic evidence estimate or independent endpoint validation."
+  },
+  "argument_map": {
+    "central_claim": "Orthopaedic implant technology is moving toward more biomimetic, customized, antimicrobial, intelligent, and degradable constructs, but heterogeneous evidence, manufacturing/regulatory constraints, durability, safety, cost, and limited clinical follow-up prevent treating these developments as established superiority.",
+    "data": [
+      "Thematic descriptions of material classes, coatings, AM, sensors, degradable implants, recent clinical examples, challenges, and future concepts (S003:C01–S010:C01).",
+      "External quantitative or status examples, including the cited 3% versus 18% infection comparison, Mg modulus range, 2024 NanoCept De Novo approval, and early human Mg reports (S004:C01; S007:C01; S008:C01).",
+      "Author statements that no dataset was generated or analyzed and that robust clinical evidence is still required (S011:C01; S014:C01; S018:C01)."
+    ],
+    "warrant": "A narrative thematic review can map technology classes and translational bottlenecks, but its warrant does not establish comparative efficacy, safety, or consensus because study selection and evidence quality are not systematically documented.",
+    "backing": [
+      "Sections are organized around clinically recognizable failure modes—wear, infection, stress shielding, loosening, degradation, monitoring, and regulation (S002:C01–S010:C01).",
+      "The review includes adverse phenomena and adoption barriers, such as burst degradation, rapid Mg corrosion, fatigue defects, antibiotic resistance, cost, and regulatory complexity (S007:C01; S009:C01)."
+    ],
+    "qualifier": "Interpretation applies to the review's selected and cited literature, largely framed around 2020–2025 developments; it is not a complete or quantitatively weighted census of orthopaedic implant evidence.",
+    "rebuttals_or_boundaries": [
+      "The paper has no search strategy, inclusion criteria, screening flow, or risk-of-bias method, so apparent breadth may reflect narrative selection rather than field prevalence (S001:C01–S011:C01).",
+      "Clinical, preclinical, regulatory, industry, and speculative claims are juxtaposed without a uniform endpoint or follow-up horizon; a current approval or prototype does not prove long-term effectiveness (S004:C01; S008:C01).",
+      "Porosity, coatings, sensors, or Mg degradation are described as improving osseointegration or quality of life through proxy mechanisms, but the review does not quantify those bridges across studies.",
+      "The optimistic innovation framing is tempered by the authors' own call for robust clinical evidence, safety, reliability, and cost-effectiveness (S009:C01; S011:C01)."
+    ],
+    "argument_coherence": "moderate for a conceptual technology map; low_to_moderate for comparative efficacy and translational certainty"
+  },
+  "evidence_boundary": {
+    "measured": [
+      "No outcomes were measured by the review authors; S014:C01 and S018:C01 state that no datasets were generated or analyzed.",
+      "The review reports measurements or outcomes from cited external studies (for example, infection rates, material modulus ranges, sensor feasibility, Mg follow-up, and regulatory approval), which remain secondary reports requiring source-level audit (S004:C01; S007:C01; S008:C01)."
+    ],
+    "predicted": [
+      "Future implants may improve regeneration, durability, monitoring, failure prediction, personalization, and access through smart materials, AI, 4D printing, and point-of-care AM (S010:C01).",
+      "The review's cross-technology expectation of longer implant life, better osseointegration, and quality of life is a synthesis-level prediction, not an author-generated effect estimate (S001:C01; S011:C01)."
+    ],
+    "inferred": [
+      "Lower modulus, porous architecture, HA coatings, and Mg ion release are inferred to reduce stress shielding or improve bone bonding from cited mechanistic/clinical reports, but the direction and magnitude depend on design, dose, loading, and follow-up.",
+      "The field is inferred to be shifting from inert hardware toward biologically integrated and data-enabled constructs, a narrative trend rather than a quantified bibliometric or market result (S008:C01; S011:C01).",
+      "FDA approval or early clinical use is inferred to indicate translational progress, not universal safety, efficacy, or superiority."
+    ],
+    "recommended": [
+      "Use reproducible search, screening, risk-of-bias, and evidence-grading methods for a future systematic review or meta-analysis of each technology class.",
+      "Separate prototype, preclinical, early-human, approved, and long-term clinical evidence; report endpoint, comparator, follow-up, sample size, uncertainty, and adverse events for each claim.",
+      "Require fatigue, corrosion/degradation, infection, implant-interface, sensor durability, manufacturing-quality, regulatory, and cost-effectiveness testing before broad clinical adoption (S009:C01–S011:C01)."
+    ],
+    "proxy_to_outcome_bridges": [
+      "Porosity, roughness, modulus matching, or HA coating are interface/design proxies, not direct evidence of durable osseointegration or implant survival.",
+      "In-vitro bacterial inhibition or a cited infection comparison does not equal long-term infection prevention across procedures and organisms.",
+      "Sensor load/strain readouts are monitoring proxies, not proof of earlier diagnosis, prevented loosening, or improved patient outcomes.",
+      "Mg modulus, ion release, and radiographic resorption are material or biological proxies; they do not alone establish balanced degradation, fixation, or regenerated bone function.",
+      "FDA status, prototype transition, or early follow-up does not substitute for independent long-term comparative clinical evidence."
+    ],
+    "overclaim_risks": [
+      "The abstract and conclusion use broad language about enhanced longevity, osseointegration, functionality, and quality of life despite no systematic effect estimates or review-level quality grading (S001:C01; S011:C01).",
+      "The 2020–2025 framing may imply comprehensive currency even though the selection process and denominator are not described.",
+      "Mixing an industry website, regulatory announcement, cited trials, preclinical studies, and conceptual future directions can make evidence tiers appear equivalent (S004:C01; S008:C01; S010:C01).",
+      "A cited 3% versus 18% infection comparison and early Mg reports may be generalized beyond their procedure, comparator, follow-up, and study design."
+    ]
+  },
+  "section_moves": [
+    {
+      "section": "introduction",
+      "move": "Start from persistent implant failure modes, then organize the review around technology themes that address those modes.",
+      "execution": "The Introduction links infection, loosening, wear, ion release, and stress shielding to biomaterials, coatings, AM, and smart technologies (S002:C01).",
+      "locator": "S002:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "A narrative review introduction should state the failure-mode framework, date focus, and evidence type while avoiding an implied systematic denominator.",
+      "failure_mode": "Do not present a broad technology list as a field-complete or quantitatively ranked evidence base when search methods are absent."
+    },
+    {
+      "section": "biomaterials",
+      "move": "Compare material classes by mechanical, biological, imaging, and degradation trade-offs rather than naming a universal best material.",
+      "execution": "Metals, polymers, ceramics, composites, and nanomaterials are introduced with advantages and adverse effects, including ion release, modulus, wear, MRI compatibility, and cell response (S003:C01).",
+      "locator": "S003:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "For a cross-material synthesis, keep each property attached to its endpoint and application, and retain adverse as well as favorable outcomes.",
+      "failure_mode": "Modulus matching or nanoscale topography should not be written as automatic proof of fixation or tissue regeneration."
+    },
+    {
+      "section": "surface_engineering",
+      "move": "Pair bone-bonding and antimicrobial strategies, then place regulatory and resistance caveats alongside efficacy examples.",
+      "execution": "The coating section moves from porous/HA fixation to silver, antibiotic, quaternary-ammonium, sandwich, and stimuli-responsive concepts and cites a gentamicin infection comparison and NanoCept approval (S004:C01).",
+      "locator": "S004:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "When synthesizing a multifunctional coating, separate in-vitro, preclinical, early clinical, and regulatory evidence and state organism, procedure, and follow-up for quantitative claims.",
+      "failure_mode": "A company or regulatory status statement must not be blended with independent comparative efficacy."
+    },
+    {
+      "section": "additive_manufacturing",
+      "move": "Connect patient-specific geometry and lattice porosity to both biologic opportunity and process-quality risk.",
+      "execution": "The AM section explains imaging-based customization, graded lattices, bioprinting, and clinical examples, then acknowledges unmelted particles, voids, fatigue variability, and custom-device regulation (S005:C01).",
+      "locator": "S005:C01",
+      "effectiveness": "high",
+      "transferable_principle": "An AM review should present geometry, as-built quality, fatigue, and regulatory validation as a linked chain rather than treating printability as clinical readiness.",
+      "failure_mode": "Porous architecture or excellent early fixation does not establish long-term fatigue life or bone integration across devices."
+    },
+    {
+      "section": "smart_and_biodegradable_implants",
+      "move": "Distinguish monitoring capability and temporary degradation from demonstrated clinical benefit.",
+      "execution": "Smart sensors are described through load/strain readout feasibility and power/data challenges; biodegradable polymers and Mg/Fe/Zn are described through support, degradation, inflammation, corrosion, and early-human status (S006:C01–S008:C01).",
+      "locator": "S007:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "For emerging devices, report the intended mechanism, measured endpoint, adverse failure mode, and maturity stage together.",
+      "failure_mode": "A sensor signal or Mg modulus value cannot be rewritten as earlier diagnosis, durable fixation, or regenerated function without outcome data."
+    },
+    {
+      "section": "challenges_and_future",
+      "move": "Place fatigue, infection, degradation, regulatory, cost, AI, 4D printing, and access barriers after the innovation claims to restore proportionality.",
+      "execution": "The review's Challenges section names biological, mechanical, regulatory, and cost hurdles, followed by future regenerative, graded, AI, and decentralized-manufacturing directions (S009:C01–S010:C01).",
+      "locator": "S009:C01",
+      "effectiveness": "high",
+      "transferable_principle": "A future-oriented synthesis is credible when each promise is paired with a discriminating reliability, safety, or implementation test.",
+      "failure_mode": "Do not use speculative AI/4D or point-of-care concepts as if they were current clinical evidence."
+    },
+    {
+      "section": "conclusion",
+      "move": "Close with a balanced trajectory statement and explicit requirement for rigorous clinical evidence.",
+      "execution": "The Conclusion recaps materials, coatings, AM, intelligence, and regenerative trends but ends by requiring evidence, safety, reliability, and cost-effectiveness work (S011:C01).",
+      "locator": "S011:C01",
+      "effectiveness": "moderate",
+      "transferable_principle": "A narrative-review conclusion may summarize a direction of travel, but should not imply that a heterogeneous set of studies proves common clinical benefit.",
+      "failure_mode": "Terms such as collectively enable or promise improved quality of life should be labeled as synthesis-level interpretation when endpoint heterogeneity is unresolved."
+    }
+  ],
+  "limitations": {
+    "author_reported": [
+      "The review acknowledges unresolved infection, aseptic loosening, wear, antibiotic resistance, durability, degradation, regulatory, quality-assurance, and cost barriers (S009:C01).",
+      "The Conclusion states that robust clinical evidence and refinement are essential before early successes become standard practice (S011:C01).",
+      "The paper states that no datasets were generated or analyzed (S014:C01; S018:C01)."
+    ],
+    "reader_identified": [
+      "No database search strategy, search dates, inclusion/exclusion criteria, screening flow, study-count denominator, or risk-of-bias/evidence-grade method is reported.",
+      "No quantitative synthesis, heterogeneity analysis, or uncertainty interval is provided; material and technology claims come from heterogeneous external sources.",
+      "Primary clinical, preclinical, regulatory, company, and conceptual evidence are interleaved without a consistent comparator, follow-up, sample size, or endpoint label.",
+      "The NanoCept discussion reproduces an industry website and approval claim, which should be independently checked against regulatory and peer-reviewed evidence (S004:C01).",
+      "The review's recency window and innovation-forward framing may underrepresent negative, null, older, or failed technologies."
+    ],
+    "likely_bias_direction": [
+      "Narrative, convenience, and publication selection likely favor novel positive advances over null or failed devices.",
+      "Grouping all porous, coated, smart, or degradable technologies under broad benefits can bias the synthesis toward innovation optimism despite application-specific failure modes.",
+      "Early clinical or regulatory milestones may be interpreted as efficacy or durability, biasing translational confidence upward.",
+      "Absence of a formal search or quality assessment makes the direction and magnitude of field-level conclusions uncertain."
+    ],
+    "scope_boundary": "This article supports a qualitative map of contemporary orthopaedic implant technology and its reported translational barriers. It does not provide a reproducible systematic review, pooled efficacy estimate, comparative safety ranking, independent regulatory audit, or evidence that any material, coating, AM architecture, sensor, or biodegradable implant improves long-term patient outcomes across applications."
+  },
+  "writing_capability_candidates": [
+    {
+      "candidate_id": "WC-PMC12560316-01",
+      "capability": "In a narrative review, label every statement as review-level synthesis, cited primary-study result, current regulatory/clinical status, or future recommendation rather than flattening evidence tiers.",
+      "manuscript_use": "Review results, evidence tables, and conclusion audit.",
+      "applicable_domains": [
+        "orthopaedic_implants",
+        "biomaterials",
+        "additive_manufacturing",
+        "osseointegration"
+      ],
+      "applicable_study_designs": [
+        "narrative_review",
+        "cross-technology_synthesis"
+      ],
+      "supporting_locators": [
+        "S003:C01",
+        "S004:C01",
+        "S005:C01",
+        "S008:C01",
+        "S011:C01"
+      ],
+      "counterexample_or_boundary": "A narrative source can summarize a primary result, but without source-level audit it cannot support a pooled effect, consensus, or superiority claim.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12560316-02",
+      "capability": "Organize a broad technology review by failure mode and translational bottleneck, pairing each innovation with its adverse mechanism and next discriminating test.",
+      "manuscript_use": "Introduction architecture, thematic section transitions, and research-gap synthesis.",
+      "applicable_domains": [
+        "implant_failure",
+        "surface_engineering",
+        "degradable_implants",
+        "smart_implants"
+      ],
+      "applicable_study_designs": [
+        "narrative_review",
+        "translational_review"
+      ],
+      "supporting_locators": [
+        "S002:C01",
+        "S004:C01",
+        "S007:C01",
+        "S009:C01"
+      ],
+      "counterexample_or_boundary": "The framework is organizational; it does not rank technologies when endpoint definitions, populations, and follow-up are not comparable.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12560316-03",
+      "capability": "Keep prototype, preclinical, early-human, approved, and long-term clinical stages separate when discussing AM, coatings, sensors, or biodegradable metals.",
+      "manuscript_use": "Technology maturity tables, Discussion, and translational boundary.",
+      "applicable_domains": [
+        "additive_manufacturing",
+        "antimicrobial_coatings",
+        "smart_implants",
+        "biodegradable_metals"
+      ],
+      "applicable_study_designs": [
+        "narrative_review",
+        "mixed_evidence_synthesis"
+      ],
+      "supporting_locators": [
+        "S004:C01",
+        "S005:C01",
+        "S006:C01",
+        "S007:C01",
+        "S008:C01"
+      ],
+      "counterexample_or_boundary": "FDA status or a first-in-human report establishes a maturity milestone, not durability, efficacy, or broad indication suitability.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    },
+    {
+      "candidate_id": "WC-PMC12560316-04",
+      "capability": "When a review lacks systematic methods, state the missing denominator and quality controls explicitly and downgrade claims of comprehensiveness or consensus.",
+      "manuscript_use": "Methods transparency statement, limitations, and audit of review conclusions.",
+      "applicable_domains": [
+        "orthopaedic_implants",
+        "biomaterials",
+        "evidence_synthesis"
+      ],
+      "applicable_study_designs": [
+        "narrative_review",
+        "scoping_review_planning"
+      ],
+      "supporting_locators": [
+        "S001:C01",
+        "S009:C01",
+        "S011:C01",
+        "S014:C01"
+      ],
+      "counterexample_or_boundary": "A future systematic or scoping review with reproducible search and appraisal can support stronger coverage claims; this article does not provide those controls.",
+      "confidence": "high",
+      "promotion_status": "candidate"
+    }
+  ],
+  "quality": {
+    "research_question_design_alignment": "moderate for a broad narrative overview",
+    "methods_transparency": "low",
+    "validation_credibility": "low at the review level; heterogeneous in cited studies",
+    "outcome_uncertainty_reporting": "low",
+    "comparator_fairness": "low_to_moderate because technologies and endpoints are heterogeneous",
+    "conclusion_proportionality": "moderate for the stated need for further evidence; low_to_moderate for broad benefit language",
+    "critical_weaknesses": [
+      "No reproducible search, screening, inclusion, or risk-of-bias process.",
+      "No study-count denominator, quantitative synthesis, heterogeneity analysis, or pooled uncertainty.",
+      "Heterogeneous external evidence is presented across prototype, preclinical, clinical, regulatory, and speculative stages.",
+      "Industry/regulatory status and early clinical examples are not independently audited in the review.",
+      "Innovation-forward framing may underrepresent negative or failed outcomes."
+    ],
+    "overall_credibility": "moderate for a qualitative technology map and challenge agenda; low_to_moderate for comparative efficacy, safety, durability, and patient-outcome claims"
+  },
+  "summary_zh": "这是一篇 2025 年的正畸/骨科植入技术叙述性主题综述，而非系统综述或实验研究。文章按先进金属、聚合物、陶瓷/纳米复合材料、表面工程与抗菌涂层、增材制造与个体化设计、传感器智能植入物、生物可吸收聚合物/镁铁锌合金、当前进展、挑战和未来方向组织内容。它概述了孔隙/HA 表面、3D 打印晶格、智能负载监测和可降解材料可能应对感染、磨损、松动和应力遮挡的机制，也保留了 Burst 降解、镁过快腐蚀、疲劳缺陷、抗生素耐药、监管、成本等反例。文中约 3% 对 18% 感染率、41–45 GPa 镁弹性模量、NanoCept 2024 年 De Novo 等均属于所引外部研究或监管状态，作者没有生成或分析数据。由于未报告检索式、纳排标准、筛选流程、研究数量、偏倚评价或定量合成，最稳妥的贡献是提供按失效模式和转化瓶颈组织的技术地图；不能把综述语气当成跨技术疗效、长期安全性或患者获益证据。",
+  "reader_notes": [
+    "Primary Luna reader read every non-reference locator in order: S001:C01 through S018:C01; all 18 packet headings were read and omissions are none.",
+    "Full-text classification confirms a narrative topical review. The packet contains no systematic search, study-count denominator, risk-of-bias method, meta-analysis, or author-generated dataset.",
+    "Cited infection percentages, modulus ranges, FDA status, early-human reports, and sensor examples were retained as external claims with explicit evidence-tier caveats.",
+    "Self-review separated current clinical/regulatory milestones from prototypes and future recommendations and preserved adverse degradation, corrosion, fatigue, resistance, cost, and standardization barriers."
+  ],
+  "selection": {
+    "selection_reason": "manifest_all",
+    "primary_stratum": "additive_manufacturing",
+    "reading_order": 49
+  },
+  "source": {
+    "record_path": "records/PMC12560316.json.gz",
+    "source_record": "records/PMC12560316.json.gz",
+    "source_record_sha256": "b40595426ea88758fc3dbe2aaba467268cbfcefe7f1b8c96ab1fdb7fddfdd5e0",
+    "source_hash": "b40595426ea88758fc3dbe2aaba467268cbfcefe7f1b8c96ab1fdb7fddfdd5e0"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7398357",
+  "paper_id": "doi:10.1186/s13018-020-01822-3",
+  "pmcid": "PMC7398357",
+  "source_record_sha256": "8ad47286826e9c9dba94705fe965ed811716154e3d9fdfbb19d4f1b545dc7c42",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e87bde09b841e70794b7047bf09702c285d3cc1c1ece255ca45e4f8dbaca910f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of the bone morphology around four types of porous metal implants placed in distal femur of ovariectomized rats",
+    "authors": "Bondarenko S, Ashukina N, Maltseva V, Ivanov G, Badnaoui AA, Schwarzkopf R.",
+    "year": 2020,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-020-01822-3",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

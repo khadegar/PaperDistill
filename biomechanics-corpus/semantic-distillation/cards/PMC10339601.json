@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10339601",
+  "paper_id": "doi:10.1186/s41205-023-00185-9",
+  "pmcid": "PMC10339601",
+  "source_record_sha256": "880c5294362f106471a59151ffd997a17a0a925f8de1d9bbf862ef914fd60890",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "28683415f368d0c4b697a4896820317af3b549e4eca66b42bb3feb3b1bb88b2f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design, printing optimization, and material testing of a 3D-printed nasal osteotomy task trainer",
+    "authors": "Schlegel L, Malani E, Belko S, Kumar A, Barbarite E, Krein H, Heffelfinger R, Hutchinson M, Pugliese R.",
+    "year": 2023,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-023-00185-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

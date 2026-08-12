@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10898762",
+  "paper_id": "doi:10.1371/journal.pone.0298621",
+  "pmcid": "PMC10898762",
+  "source_record_sha256": "8a8d4c030b7c916190ca40826e35cd4233588270ea6b503c56fb6604347c6b94",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "061924bbf9433513faddf13a30968d2372ac88fa502b32da7afd9d4b57987aec",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Regional variation of the cortical and trabecular bone material properties in the rabbit skull",
+    "authors": "Wang L, Meloro C, Fagan MJ, Kissane RWP, Bates KT, Askew GN, Watson PJ.",
+    "year": 2024,
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0298621",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

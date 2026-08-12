@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9209793",
+  "paper_id": "doi:10.1002/cre2.568",
+  "pmcid": "PMC9209793",
+  "source_record_sha256": "e650e2f1d5700af8f0097911c138ba6d3927712bf98c162dd30a2376b058620d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7fde0166dba65b229b9e581a0d0d900ebac7c768d093fda2381fc8acb1a79569",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Novel 3D printing method to reinforce implant‐supported denture fiberglass as material for implant prosthesis: A pilot study",
+    "authors": "Nicali A, Pradal G, Brandolini G, Mantelli A, Levi M.",
+    "year": 2022,
+    "journal": "Clinical and Experimental Dental Research",
+    "doi": "10.1002/cre2.568",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8894004",
+  "paper_id": "doi:10.1155/2022/6850089",
+  "pmcid": "PMC8894004",
+  "source_record_sha256": "2723560f77e3dca0b026e42e8024826e745b645b396d0516c6995248fdb63259",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0522387a455948fe4b3383647294245639d5d77a657867aab5a8bdb3a236caa4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of Unilateral versus Bipedicular Bone-Filling Mesh Container for the Management of Osteoporotic Compression Fractures",
+    "authors": "Lu H, Zhang Q, Ding F, Wu Q, Liu R.",
+    "year": 2022,
+    "journal": "BioMed Research International",
+    "doi": "10.1155/2022/6850089",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

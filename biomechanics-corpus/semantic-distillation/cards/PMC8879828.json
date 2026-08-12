@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8879828",
+  "paper_id": "doi:10.3390/medicina58020315",
+  "pmcid": "PMC8879828",
+  "source_record_sha256": "150348047ae0688ac4d79fe19a5421b783037c0b95731bbf5dfdf0b7ddf16dde",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "26f4cb09bda233f939350834c43d42e1cadf047eaae92f25da93cf7a12a620c1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Understanding the Role of Surface Modification of Randomized Trabecular Titanium Structures in Bone Tissue Regeneration: An Experimental Study",
+    "authors": "Canciani E, Ragone V, Biffi CA, Valenza F, D'Ambrosi R, Olimpo M, Cristofalo A, Galliera E, Dellavia C.",
+    "year": 2022,
+    "journal": "Medicina",
+    "doi": "10.3390/medicina58020315",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

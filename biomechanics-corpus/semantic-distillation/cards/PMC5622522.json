@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5622522",
+  "paper_id": "doi:10.1186/s13005-017-0151-3",
+  "pmcid": "PMC5622522",
+  "source_record_sha256": "644c34c4b22e74ecb6123bc9b1689d0e680f7576d7db2a485d8e8915c5c1ecfa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "71aa43e8fce1ebd846604d56b93ac5d5754ac7d55e02130c3828ae97e1f24cea",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A new concept for implant-borne dental rehabilitation; how to overcome the biological weak-spot of conventional dental implants?",
+    "authors": "Gellrich NC, Rahlf B, Zimmerer R, Pott PC, Rana M.",
+    "year": 2017,
+    "journal": "Head & Face Medicine",
+    "doi": "10.1186/s13005-017-0151-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8235053",
+  "paper_id": "doi:10.3390/ma14123367",
+  "pmcid": "PMC8235053",
+  "source_record_sha256": "86d57854ca4e71c1a2b33a66faf4cd8bffcb8c386fa03227e66e88c74ec212e3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b2d7555e21f4de2bf242502e5c3c7224e23869b08c9703f24d126d8b709718d8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mechanical Properties of Dental Alloys According to Manufacturing Process",
+    "authors": "Yu JM, Kang SY, Lee JS, Jeong HS, Lee SY.",
+    "year": 2021,
+    "journal": "Materials",
+    "doi": "10.3390/ma14123367",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9033623",
+  "paper_id": "doi:10.1039/d1ra03410c",
+  "pmcid": "PMC9033623",
+  "source_record_sha256": "dd2a759e3b74d823ccdd88207dbc708f4ab18e80044d4c2d528496797e2bb42a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7b9f80b0e8ccf4ea96c500f10507e59f6137ef9e108ce61b4cd498d02356a7bf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printed chitosan/polycaprolactone scaffold for lung tissue engineering: hope to be useful for COVID-19 studies",
+    "authors": "Rezaei FS, Khorshidian A, Beram FM, Derakhshani A, Esmaeili J, Barati A.",
+    "year": 2021,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d1ra03410c",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

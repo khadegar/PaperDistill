@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9224708",
+  "paper_id": "doi:10.3390/jpm12061012",
+  "pmcid": "PMC9224708",
+  "source_record_sha256": "c04067a3c14cc6dcc7f81c3ba61bcb2a418e59a5ea3728e2f10df7a3f1c2e6c1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c0425342f9f1bc5ab060caf5e73a2e5002aebae01365d024b42598c04f0b2848",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Multifactorial Analysis of Endodontic Microsurgery Using Finite Element Models",
+    "authors": "Richert R, Farges JC, Maurin JC, Molimard J, Boisse P, Ducret M.",
+    "year": 2022,
+    "journal": "Journal of Personalized Medicine",
+    "doi": "10.3390/jpm12061012",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

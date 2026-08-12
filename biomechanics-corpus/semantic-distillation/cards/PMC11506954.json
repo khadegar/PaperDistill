@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11506954",
+  "paper_id": "doi:10.3390/gels10100666",
+  "pmcid": "PMC11506954",
+  "source_record_sha256": "7c8db88c170ce7dc3c38861a9866261628d238064351dc9922ea0097a55b50bf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1a6b0d46420748c1df44b20d545ac5cf98d18e9142716b37c0d227bbcd4991ae",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone Spheroid Development Under Flow Conditions with Mesenchymal Stem Cells and Human Umbilical Vein Endothelial Cells in a 3D Porous Hydrogel Supplemented with Hydroxyapatite",
+    "authors": "El Hajj S, Ntaté MB, Breton C, Siadous R, Aid R, Dupuy M, Letourneur D, Amédée J, Duval H, David B.",
+    "year": 2024,
+    "journal": "Gels",
+    "doi": "10.3390/gels10100666",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

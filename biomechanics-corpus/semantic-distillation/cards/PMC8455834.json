@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8455834",
+  "paper_id": "doi:10.3389/fbioe.2021.705199",
+  "pmcid": "PMC8455834",
+  "source_record_sha256": "6d0982ad4085e4f3ffc5ec515f9b38c8bb7be779453fcfb6c3a46dc3049b738d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5488ece2ae2a318216908b9b4c56d1a9e12dd9056352fed1dfbc4552c5ac1ae1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Computational Analysis of Bone Remodeling in the Proximal Tibia Under Electrical Stimulation Considering the Piezoelectric Properties",
+    "authors": "Bansod YD, Kebbach M, Kluess D, Bader R, van Rienen U.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2021.705199",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7579014",
+  "paper_id": "doi:10.3390/ma13194292",
+  "pmcid": "PMC7579014",
+  "source_record_sha256": "8a846d9f68d61f00937d2ab2ef27df73f3723a967ed0062e70b399d84a533f13",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "324483b197277feff4a16719f626479380b578a10d8ebd2bb9588f63edb0b0ff",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cobalt Chromium Molybdenum Surface Modifications Alter the Osteogenic Differentiation Potential of Human Mesenchymal Stem Cells",
+    "authors": "Lohberger B, Eck N, Glaenzer D, Lichtenegger H, Ploszczanski L, Leithner A.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13194292",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

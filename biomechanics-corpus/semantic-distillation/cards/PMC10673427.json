@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10673427",
+  "paper_id": "doi:10.3390/mi14112081",
+  "pmcid": "PMC10673427",
+  "source_record_sha256": "59cb9564d26ee9383355d47d471fba2129cc78ce88d8c49b12f1be73a9cba316",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "28cf526ada73c51fbbad58fe787e555609a68e0059da096dcc2ac88d7a1c1fef",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Ankle and Foot Arthroplasty and Prosthesis: A Review on the Current and Upcoming State of Designs and Manufacturing",
+    "authors": "Gupta R, Grove K, Wei A, Lee J, Akkouch A.",
+    "year": 2023,
+    "journal": "Micromachines",
+    "doi": "10.3390/mi14112081",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

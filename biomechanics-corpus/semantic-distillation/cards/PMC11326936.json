@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11326936",
+  "paper_id": "doi:10.1016/j.mtbio.2024.101161",
+  "pmcid": "PMC11326936",
+  "source_record_sha256": "a78ab859526c44b1f26831212d70e2101ea6bf990987b51e9a5a661b67c07bdc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7b6d6f7c013e0c5f4bf54ea445e9554ab290eba1b8ec1d9438ca847c6ae5a672",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Silver phosphate-modified carbonate apatite honeycomb scaffolds for anti-infective and pigmentation-free bone tissue engineering",
+    "authors": "Hayashi K, Shimabukuro M, Zhang C, Taleb Alashkar AN, Kishida R, Tsuchiya A, Ishikawa K.",
+    "year": 2024,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2024.101161",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

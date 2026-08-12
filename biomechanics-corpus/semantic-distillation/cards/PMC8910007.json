@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8910007",
+  "paper_id": "doi:10.3390/ijms23052416",
+  "pmcid": "PMC8910007",
+  "source_record_sha256": "aabd73eb1503d7bf21f628ebffd2683b2a73f1c6800e55cf35e1c2af7db0131e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ef5577ca6978f2a7fcbfb55c25c552d2826c774d702628517b7cb9daae50b9ab",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Structural Characterization and Osseointegrative Properties of Pulsed Laser-Deposited Fluorinated Hydroxyapatite Films on Nano-Zirconia for Implant Applications",
+    "authors": "Li M, Komasa S, Hontsu S, Hashimoto Y, Okazaki J.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms23052416",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

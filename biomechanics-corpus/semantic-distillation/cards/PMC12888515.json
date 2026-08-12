@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12888515",
+  "paper_id": "doi:10.1186/s13018-025-06577-3",
+  "pmcid": "PMC12888515",
+  "source_record_sha256": "79c1a1afe590528171c4be91f2c555a2198fe1e5d041300f7a895c2b97c0a48e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7ea7d4009aba78ac6680dc640bc8486311d49dfa5055e9702d82283031bdd262",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porosity optimization confers 3D-printed porous tantalum scaffolds with superior osteogenic capability and biocompatibility over titanium alloys",
+    "authors": "Liang Y, Han J, Wang Z, Chen D, Bai Z, Wang C.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-06577-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

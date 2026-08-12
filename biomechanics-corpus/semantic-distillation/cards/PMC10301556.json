@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10301556",
+  "paper_id": "doi:10.3390/medicina59061042",
+  "pmcid": "PMC10301556",
+  "source_record_sha256": "cdbea46fd07ed2c20fb1a3b87b23bc636eaeb8f9e3446e7fd88762868d393be3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4aaad027687962fb210974f8db04ce4355ac6ba9508ad22a64639baf64f68558",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Experimental Study on Mechanical Properties of Different Resins Used in Oral Environments",
+    "authors": "Baciu ER, Savin CN, Tatarciuc M, Mârțu I, Butnaru OM, Aungurencei AE, Mihalache AM, Diaconu-Popa D.",
+    "year": 2023,
+    "journal": "Medicina",
+    "doi": "10.3390/medicina59061042",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

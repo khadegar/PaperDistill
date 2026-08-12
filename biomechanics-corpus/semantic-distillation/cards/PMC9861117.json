@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9861117",
+  "paper_id": "doi:10.3390/polym15020373",
+  "pmcid": "PMC9861117",
+  "source_record_sha256": "79b5baca72bdc553931387d132ec8b724245ce5ba4df367a4c4a46a631e535fa",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "89df8a5fbb0aed032e624b092e662f47e9deeef49178c08b91f66fc9c7597240",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Poly (Ether-Ether-Ketone) for Biomedical Applications: From Enhancing Bioactivity to Reinforced-Bioactive Composites—An Overview",
+    "authors": "Senra MR, Marques MFV, Monteiro SN.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15020373",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

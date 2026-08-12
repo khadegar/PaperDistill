@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7085070",
+  "paper_id": "doi:10.3390/ma13051185",
+  "pmcid": "PMC7085070",
+  "source_record_sha256": "99b02e454b448cceb220c4c2bfb565a1e9d755a32504684258290872df6eba53",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "42a1079ddddeac006151bf5be442778cc94fa640e1d351d16c675f78b878e746",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and Optimization Lattice Endoprosthesis for Long Bones: Manufacturing and Clinical Experiment",
+    "authors": "Bolshakov P, Raginov I, Egorov V, Kashapova R, Kashapov R, Baltina T, Sachenkov O.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13051185",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

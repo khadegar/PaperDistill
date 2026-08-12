@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10891933",
+  "paper_id": "doi:10.3390/polym16040498",
+  "pmcid": "PMC10891933",
+  "source_record_sha256": "e910204da53e4f09acb4c932a464fe4cde57fa0608df54928c7dbd43fe8b0957",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f102b90f0ec92b7df8baa74dd218745a7651b714b3a3d287aa92b472ebcf29b1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Bioprinting of Strontium-Modified Controlled Assembly of Collagen Polylactic Acid Composite Scaffold for Bone Repair",
+    "authors": "Sun W, Xie W, Hu K, Yang Z, Han L, Li L, Qi Y, Wei Y.",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16040498",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

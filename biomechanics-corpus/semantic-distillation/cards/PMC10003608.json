@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10003608",
+  "paper_id": "doi:10.3390/ijms24054940",
+  "pmcid": "PMC10003608",
+  "source_record_sha256": "6a3592f55816a0610a07b2c5c86511ed52858446e81e7f0047a30b0bff4e7520",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d4dfdc20bda9d1e558e0f84398b2b61e78494f78c81f6465d747ef5766d114c8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteoregenerative Potential of 3D-Printed Poly ε -Caprolactone Tissue Scaffolds In Vitro Using Minimally Manipulative Expansion of Primary Human Bone Marrow Stem Cells",
+    "authors": "Lawrence LM, Salary RR, Miller V, Valluri A, Denning KL, Case-Perry S, Abdelgaber K, Smith S, Claudio PP, Day JB.",
+    "year": 2023,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms24054940",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

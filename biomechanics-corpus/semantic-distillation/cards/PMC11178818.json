@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11178818",
+  "paper_id": "doi:10.1038/s41598-024-64377-x",
+  "pmcid": "PMC11178818",
+  "source_record_sha256": "c307978827deb86a385fb7f1291bc37202c576511f4c0e62dc338b0f9d26fd0d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "32cac6d53ac2b9f36ee324c862eefe049dc9b8070cb6bed8bf966b73bdc6a6a8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Directional sensitivity of bone conduction stimulation on the otic capsule in a finite element model of the human temporal bone",
+    "authors": "Borkowski P.",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-64377-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

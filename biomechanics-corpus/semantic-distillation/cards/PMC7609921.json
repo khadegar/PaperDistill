@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7609921",
+  "paper_id": "doi:10.3389/fbioe.2020.595139",
+  "pmcid": "PMC7609921",
+  "source_record_sha256": "6402d23ab278345548fb1cee9c3c3f2686646989d29f1e9797dd41a805d1442f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "de1769666527f04f56cb22a6025e734e0ae7acb974216b549b535f92f9080811",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Low-Magnitude High-Frequency Vibration on Bone Cells and Bone Regeneration",
+    "authors": "Steppe L, Liedert A, Ignatius A, Haffner-Luntzer M.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.595139",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

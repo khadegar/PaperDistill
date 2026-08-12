@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12879408",
+  "paper_id": "doi:10.1186/s12951-025-04004-7",
+  "pmcid": "PMC12879408",
+  "source_record_sha256": "793472f521ccbae1bbfba2732305901fa2c916dfcd1d7cd8bba23b7db53bf7d1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7ec09fbf827a64370221414e533e113cfa149a66b9e130eaa01831000b8e3c08",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimetic scaffolds with synergistic BMSC targeting and ROS scavenging for mitochondrial protection and effective bone-defect repair",
+    "authors": "Yao S, Zeng L, Wang H, Liu J, Cao X, Xu Z, Zhang Y, He S, Ye B, Sun T, Guo X.",
+    "year": 2026,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-025-04004-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

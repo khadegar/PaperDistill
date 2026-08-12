@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10086817",
+  "paper_id": "doi:10.1002/jbm.b.35162",
+  "pmcid": "PMC10086817",
+  "source_record_sha256": "065e59cb19f65f97b7393192b950a0835c4a70ea80e86942549811050d562242",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b9f590607dc2b1095cbc26ab426e2291491c5354672416700e2816457943524e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of ceramic additives and bioactive coatings on the degradation of polylactic acid‐based bone scaffolds under hydrolytic conditions",
+    "authors": "Donate R, Monzón M, Alemán-Domínguez ME, Rodríguez-Esparragón F.",
+    "year": 2022,
+    "journal": "Journal of Biomedical Materials Research. Part B, Applied Biomaterials",
+    "doi": "10.1002/jbm.b.35162",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

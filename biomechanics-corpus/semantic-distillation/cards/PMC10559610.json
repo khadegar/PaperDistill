@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10559610",
+  "paper_id": "doi:10.1186/s13018-023-04256-9",
+  "pmcid": "PMC10559610",
+  "source_record_sha256": "8bed8a32555b1d4bdf7767b3e5570280eef7b73a9937cdbdb26ef0ca665fb794",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "65b4a90bbcbdb582fcaaed245e50f72c7a7fa83117dbde706ebdcb8b9ca639b1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "What is the stable internal fixation for the unstable and osteoporotic supracondylar femoral fractures: a finite element analysis",
+    "authors": "Rao J, Zhang J, Ye Z, Zhang L, Xu J.",
+    "year": 2023,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-023-04256-9",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

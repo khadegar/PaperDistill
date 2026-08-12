@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11299907",
+  "paper_id": "doi:10.1002/jsp2.1356",
+  "pmcid": "PMC11299907",
+  "source_record_sha256": "54383a4a2e2da013dd082da83fc7f74d028c2542de7e70524196612ff78aaad8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5e2615bed5325640b713c0d7aba3f78c6859bd26f2e4d8b3d66993132907975d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The potential effect of romosozumab on perioperative management for instrumentation surgery",
+    "authors": "Ishikawa K, Tani S, Toyone T, Tsuchiya K, Towatari T, Oshita Y, Yamamura R, Wada K, Nagai T, Shirahata T, Inagaki K, Yoshifumi K.",
+    "year": 2024,
+    "journal": "JOR Spine",
+    "doi": "10.1002/jsp2.1356",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

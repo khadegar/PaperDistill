@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9279224",
+  "paper_id": "doi:10.1007/s42242-021-00177-w",
+  "pmcid": "PMC9279224",
+  "source_record_sha256": "0fb81250b0e2bf9bd316ae3630bcde568612bb7fbd6e1cc56dfcf5865ad9ace2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "813665493b69a029f10acfa690ef99d68e2f1cc0419a089bcd4d26598a0dfec4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In vivo evaluation of additively manufactured multi-layered scaffold for the repair of large osteochondral defects",
+    "authors": "Tamaddon M, Blunn G, Tan R, Yang P, Sun X, Chen SM, Luo J, Liu Z, Wang L, Li D, Donate R, Monzón M, Liu C.",
+    "year": 2022,
+    "journal": "Bio-Design and Manufacturing",
+    "doi": "10.1007/s42242-021-00177-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

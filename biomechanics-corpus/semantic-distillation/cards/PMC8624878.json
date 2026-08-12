@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8624878",
+  "paper_id": "doi:10.3390/mi12111294",
+  "pmcid": "PMC8624878",
+  "source_record_sha256": "ec309798b7ab70ecc157fec710fa575117e9a78a83669e7195e21305c742b278",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bb0cf3a28bab566493fc35b9430b3e038d0f062531ca352d3156ea78d18a4b95",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A New Design of Porosity Gradient Ti-6Al-4V Encapsulated Hydroxyapatite Dual Materials Composite Scaffold for Bone Defects",
+    "authors": "Pan CT, Hsu WH, Cheng YS, Wen ZH, Chen WF.",
+    "year": 2021,
+    "journal": "Micromachines",
+    "doi": "10.3390/mi12111294",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10379613",
+  "paper_id": "doi:10.3390/gels9070547",
+  "pmcid": "PMC10379613",
+  "source_record_sha256": "affbc5365d256f76387f21c352509a2158f6633c3fb4127560b67ca442af8714",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "001dd180f3f72303f3c89fd9b3b540c075c2ca31c2da941b6f42ff26c204c4a1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing, Histological, and Radiological Analysis of Nanosilicate-Polysaccharide Composite Hydrogel as a Tissue-Equivalent Material for Complex Biological Bone Phantom",
+    "authors": "Valchanov P, Dukov N, Pavlov S, Kontny A, Dikova T.",
+    "year": 2023,
+    "journal": "Gels",
+    "doi": "10.3390/gels9070547",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

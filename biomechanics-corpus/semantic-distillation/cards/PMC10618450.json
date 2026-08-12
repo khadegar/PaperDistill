@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10618450",
+  "paper_id": "doi:10.1038/s41598-023-45736-6",
+  "pmcid": "PMC10618450",
+  "source_record_sha256": "71e9932cdebd1cc28dabf7b8b6894b31f558186217b176c6a55a2007936dd887",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8c4039ebcfdaea43a63f4810233b2d40f0783aceff646386b9143c3ae2720657",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Comparison of anterior column reconstruction techniques after en bloc spondylectomy: a finite element study",
+    "authors": "Pokorni AJ, Turbucz M, Kiss RM, Eltes PE, Lazary A.",
+    "year": 2023,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-023-45736-6",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

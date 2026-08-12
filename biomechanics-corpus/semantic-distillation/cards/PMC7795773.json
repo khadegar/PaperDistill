@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7795773",
+  "paper_id": "doi:10.3390/polym13010074",
+  "pmcid": "PMC7795773",
+  "source_record_sha256": "8ff128246573e8632ee3f8d49726c8243ceb8d1f7fef8da9f03bdf31cdf2a795",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ff06fd30a2b53275439749b1b6547480175c229f45a0c24d31f32cb8928941e2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomimetic Mineralization on 3D Printed PLA Scaffolds: On the Response of Human Primary Osteoblasts Spheroids and In Vivo Implantation",
+    "authors": "Maia-Pinto MOC, Brochado ACB, Teixeira BN, Sartoretto SC, Uzeda MJ, Alves ATNN, Alves GG, Calasans-Maia MD, Thiré RMSM.",
+    "year": 2020,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13010074",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

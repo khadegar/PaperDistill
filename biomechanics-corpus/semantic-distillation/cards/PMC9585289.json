@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9585289",
+  "paper_id": "doi:10.3389/fbioe.2022.1002276",
+  "pmcid": "PMC9585289",
+  "source_record_sha256": "444b50bb14af3037bbe2d08eeefb6b125b24ab62878a866065a2b39196293152",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4c2d1494bd28051c61742a43c0dd1dfe182e98ef6b1a05894f6fd2196e21c074",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Spinal stability analysis of lumbar interbody fusion according to pelvic type and cage angle based on simplified spinal model with various pelvic indices",
+    "authors": "Kim CJ, Son SM, Choi SH, Ryu D, Lee C.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.1002276",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

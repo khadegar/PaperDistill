@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12190597",
+  "paper_id": "doi:10.3390/biomimetics10060395",
+  "pmcid": "PMC12190597",
+  "source_record_sha256": "0f80bdec9443476df0d5cddb9d4f1dcc190621bbe2c51ce13e7f372158b213b5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ef0310a83a28c884c2a8fd63204687123d0376f613263c8caeb9cdd76c92489b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Effect of Three-Dimensional Stabilization Thread Design on Biomechanical Fixation and Osseointegration in Type IV Bone",
+    "authors": "Iglesias NJ, Nayak VV, Castellano A, Witek L, Souza BM, Bergamo ETP, Almada R, Slavin BV, Bonfante EA, Coelho PG.",
+    "year": 2025,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics10060395",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

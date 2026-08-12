@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12639499",
+  "paper_id": "doi:10.1016/j.mtbio.2025.102476",
+  "pmcid": "PMC12639499",
+  "source_record_sha256": "b67e4712329cda15ff47ffa747752f925a6483f81700e143f3b92000214ce87c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c3cbcc2d5d45cbccd1d5435d24ee80e2f119998a19412f0b6de9241f6ce3b5cc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Icariin-loaded GelMa hydrogel encapsulated potassium sodium niobate biomimetic piezoelectric scaffold regulates macrophage polarization to accelerate bone defect repair",
+    "authors": "Wang Y, Zhang H, Xu Z, Zhu W, Chang S, Wei J, Chen S, Liu Y, Kong W, Guo J.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.102476",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

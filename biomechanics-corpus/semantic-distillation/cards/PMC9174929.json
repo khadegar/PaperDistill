@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9174929",
+  "paper_id": "doi:10.3389/fsurg.2022.911141",
+  "pmcid": "PMC9174929",
+  "source_record_sha256": "3f5d28134125cf587dd7c95ed18ab545951dd8b8c17010a60951b1728c9c7c5d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "be58b70f8d45594060d9273924511431c08913031ecdce0a851ab166fb2b27d5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A comparative Study of Novel Extramedullary Fixation and Dynamic Hip Screw in the Fixation of Intertrochanteric Fracture: A Finite-Element Analysis",
+    "authors": "Ding K, Zhu Y, Wang H, Li Y, Yang W, Cheng X, Zhang Y, Chen W, Zhang Q.",
+    "year": 2022,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2022.911141",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

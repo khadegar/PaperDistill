@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10998169",
+  "paper_id": "doi:10.34172/joddd.2023.40723",
+  "pmcid": "PMC10998169",
+  "source_record_sha256": "f44dc682b6120103813908136db7fdf98226dcb460fb48207a8e9a57c295e854",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c93520460f58ef3ea4d400f7ff7b3517fe823385d5afb6be358a156e560ed2c3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of stress distribution in and around dental implants using three different implant–abutment interfaces with platform-switched and non-platform-switched abutments: A three-dimensional finite element analysis",
+    "authors": "Mitra D, Gurav P, Rodrigues S, Khobragade B, Mahajan A.",
+    "year": 2023,
+    "journal": "Journal of Dental Research, Dental Clinics, Dental Prospects",
+    "doi": "10.34172/joddd.2023.40723",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

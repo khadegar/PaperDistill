@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7956550",
+  "paper_id": "doi:10.3390/polym13050682",
+  "pmcid": "PMC7956550",
+  "source_record_sha256": "eaa1531df24bb456553bc05d2032570fb548938a5ac0a1c121e878ecec0d522b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fe1155634fd180282a646a1e44a6e532ba7c902c8d912a9032a794a73363f899",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Gradient 3D Printed PLA Scaffolds on Biomedical Titanium: Mechanical Evaluation and Biocompatibility",
+    "authors": "Portan DV, Ntoulias C, Mantzouranis G, Fortis AP, Deligianni DD, Polyzos D, Kostopoulos V.",
+    "year": 2021,
+    "journal": "Polymers",
+    "doi": "10.3390/polym13050682",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

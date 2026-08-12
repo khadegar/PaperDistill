@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7732794",
+  "paper_id": "doi:10.1007/s11914-020-00631-1",
+  "pmcid": "PMC7732794",
+  "source_record_sha256": "9a4fd874d1651aff652b1e53904c9310cacb82053a771a5b4b2ac8e7f14a9df4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0d22e0835653c7d6613338e9bf13c52aa76c705d83dfbcfaf192eed9230c42ec",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Review on Recent Advances in the Constitutive Modeling of Bone Tissue",
+    "authors": "Pahr DH, Reisinger AG.",
+    "year": 2020,
+    "journal": "Current Osteoporosis Reports",
+    "doi": "10.1007/s11914-020-00631-1",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

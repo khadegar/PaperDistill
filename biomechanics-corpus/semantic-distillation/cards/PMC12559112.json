@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12559112",
+  "paper_id": "doi:10.1007/s00784-025-06626-5",
+  "pmcid": "PMC12559112",
+  "source_record_sha256": "b5a35c19e04d2c3f1f2cd7eeca37a4e6835bd7732eb9bc3ea700fcf1c9ef9b02",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b72db24ea1b7092e1207a30d203c50aac18c3b81180263dfa3a57c914052b22c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Predictive bite force modelling of head and neck oncology patients for clinical mandibular reconstruction applications",
+    "authors": "Heins JI, Gareb B, Ten Brink R, Vosselman N, Halmos GB, Krushynska AO, Merema BBJ, Kraeima J, Witjes MJH.",
+    "year": 2025,
+    "journal": "Clinical Oral Investigations",
+    "doi": "10.1007/s00784-025-06626-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

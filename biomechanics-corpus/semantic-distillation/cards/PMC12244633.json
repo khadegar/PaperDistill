@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12244633",
+  "paper_id": "doi:10.4103/jpbs.jpbs_17_25",
+  "pmcid": "PMC12244633",
+  "source_record_sha256": "c4d6412a462be03d42ec4e9bad3db8f003f375510e4d9dc00c42541ad495b1b6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d57e1683faed7ffb5bedfa6f479d206ca731b547e0fd633d9341585f0047fc1a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In Vitro Evaluation of Stress Distribution around Implants with Different Designs",
+    "authors": "Javiya P, Bhattu BK, Chitumalla R, Mahantshetty M, Dave M, Pattnaik N, Ghadage M, Patil D.",
+    "year": 2025,
+    "journal": "Journal of Pharmacy & Bioallied Sciences",
+    "doi": "10.4103/jpbs.jpbs_17_25",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

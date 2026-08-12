@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9056587",
+  "paper_id": "doi:10.1186/s13619-022-00113-y",
+  "pmcid": "PMC9056587",
+  "source_record_sha256": "f4df44cafb2b0765535f08be0721ee39f62623439da4109b3644fb418b2a9bfb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0e49348571cac9d118364e238fec35f400cd5140bdbd581d5d9d553c19814e50",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication of SA/Gel/C scaffold with 3D bioprinting to generate micro-nano porosity structure for skin wound healing: a detailed animal in vivo study",
+    "authors": "Niu C, Wang L, Ji D, Ren M, Ke D, Fu Q, Zhang K, Yang X.",
+    "year": 2022,
+    "journal": "Cell Regeneration",
+    "doi": "10.1186/s13619-022-00113-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12577823",
+  "paper_id": "doi:10.1097/ms9.0000000000003578",
+  "pmcid": "PMC12577823",
+  "source_record_sha256": "1b2096b63120c82620029d99d1006234fabac70889d0141d19f8e0317d4ced4a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5230f7a8592cb397711b47f26186273add744dce03ef16c9865ac9b20df046aa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advancements in biodegradable implants: evaluation in large animal surgical models",
+    "authors": "Lata S, Mondal S, Mishra R, Priya S, Deshwal RK, Thapliyal S, Talukdar N, Dhasmana A, Rustagi S, Bora J, Malik S.",
+    "year": 2025,
+    "journal": "Annals of Medicine and Surgery",
+    "doi": "10.1097/ms9.0000000000003578",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

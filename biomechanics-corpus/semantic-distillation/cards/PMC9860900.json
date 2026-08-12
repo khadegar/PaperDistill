@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9860900",
+  "paper_id": "doi:10.3390/jcm12020444",
+  "pmcid": "PMC9860900",
+  "source_record_sha256": "4411f47a9b636dacb3fbd83aafa34c3ebd2b78c3033f3cd5e7f601c2bd879dd3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9312a958700c00b627b16812294bc4924230ece4840816c9be9171a401ca4317",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of the Properties of 3D-Printed Ti Alloy Plates: In Vivo and In Vitro Comparative Experimental Study",
+    "authors": "Wang Q, Telha W, Wu Y, Abotaleb B, Jiang N, Zhu S.",
+    "year": 2023,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm12020444",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

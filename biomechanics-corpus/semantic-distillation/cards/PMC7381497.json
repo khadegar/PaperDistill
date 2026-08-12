@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7381497",
+  "paper_id": "doi:10.1016/j.dib.2020.105969",
+  "pmcid": "PMC7381497",
+  "source_record_sha256": "2ffab7e0c1b20a1d7e66047396652d513dd421d5cace54a914ca3bc4ea7cff5b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6b5ccde755402f9c85b7f22a0929c5ab0a8c1d69df588eb5910e1af588a2dafb",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Data on biomechanics and elemental maps of dental implant-bone complexes in rats",
+    "authors": "Wang B, Kim K, Srirangapatanam S, Ustriyana P, Wheelis SE, Fakra SC, Kang M, Rodrigues DC, Ho SP.",
+    "year": 2020,
+    "journal": "Data in Brief",
+    "doi": "10.1016/j.dib.2020.105969",
+    "publication_type": "data-paper; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

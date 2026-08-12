@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9140815",
+  "paper_id": "doi:10.3390/ijms23105383",
+  "pmcid": "PMC9140815",
+  "source_record_sha256": "ab938061662be0922f95af3f6d66a2bc702a1a1c22cf99d1055bb41c14aa020c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "647df709c7db8ca119ffba5413dbce5262f0c0d09a368a764631a66831d3f339",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biological Response to Bioinspired Microporous 3D-Printed Scaffolds for Bone Tissue Engineering",
+    "authors": "Ledda M, Merco M, Sciortino A, Scatena E, Convertino A, Lisi A, Del Gaudio C.",
+    "year": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms23105383",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

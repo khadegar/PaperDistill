@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12507901",
+  "paper_id": "doi:10.3389/fbioe.2025.1659029",
+  "pmcid": "PMC12507901",
+  "source_record_sha256": "36d3f1320649d2f073984ab5d9051d1ca085cf0e6642908362c2c582606a262f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "366d6810690deac5319ae43390c99ddb6793c1f41b5a94adc087619b0e9df4a1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Predicting the effect of individual weight-bearing on tibial load and fracture healing after tibial plateau fractures–introduction of a biomechanical simulation model",
+    "authors": "Andres A, Roland M, Wickert K, Diebels S, Truhn D, Histing T, Braun B.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1659029",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10934665",
+  "paper_id": "doi:10.3390/polym16050615",
+  "pmcid": "PMC10934665",
+  "source_record_sha256": "5ce7a56d48a343e435947ef6a5e1533363822be055256334e566ce6ab22d9115",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d9dad9b3ce7755d5f88dc5adb50eda9aabc8828528636395a2f574fc3597c274",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Comparative Investigation of the Reliability of Biodegradable Components Produced through Additive Manufacturing Technology",
+    "authors": "ElHassan A, Ahmed W, Zaneldin E.",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16050615",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

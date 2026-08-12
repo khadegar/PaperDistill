@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11735376",
+  "paper_id": "doi:10.1111/os.14279",
+  "pmcid": "PMC11735376",
+  "source_record_sha256": "4061adfccb6a835ba032d2fb10ed46152bfe4a5acbcc69d0c5567941b2eb1ec4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a76dbf8507da082ff046abe9e9787e71ef217aaa14341ab5dee1b934b8c51b9f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D‐Printed Talus‐Calcaneus Prosthesis in Treating Ewing's Sarcoma: A Case Report",
+    "authors": "Wang W, An J, Lu M, He X, Li Z, Wang Y, Gong T, Zhou Y, Min L, Luo Y, Tu C.",
+    "year": 2024,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.14279",
+    "publication_type": "case-study; Journal Article; Case Reports",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

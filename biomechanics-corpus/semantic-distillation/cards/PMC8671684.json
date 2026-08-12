@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8671684",
+  "paper_id": "doi:10.1177/2473974x211065012",
+  "pmcid": "PMC8671684",
+  "source_record_sha256": "59ee6bfc42e02a479b9e245f27980b9dca0b89a17109b109316aa8034d9d8a9f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3935fac790b693780b5e5be1ba18662394af81b8e4a19454bb4dbaaf94370e58",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effect of 3D-Printed Models on Cadaveric Dissection in Temporal Bone Training",
+    "authors": "Frithioff A, Frendø M, Weiss K, Foghsgaard S, Pedersen DB, Sørensen MS, Wuyts Andersen SA.",
+    "year": 2021,
+    "journal": "OTO Open",
+    "doi": "10.1177/2473974x211065012",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

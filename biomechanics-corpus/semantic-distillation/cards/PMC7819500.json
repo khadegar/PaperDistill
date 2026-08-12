@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7819500",
+  "paper_id": "doi:10.3389/fbioe.2020.00173",
+  "pmcid": "PMC7819500",
+  "source_record_sha256": "855c5560abc929d0a351a6992341fe19caa7f27fdac80d69466eda21d2cffdcc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "565dae423b24c4689f00ed14d88a0b7590b272ff4a54501db87b1eb119a5db24",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Changing the Diameter of the Bone Tunnel Is More Effective Than Changing the Tunnel Shape for Restoring Joint Functionality After ACL Reconstruction",
+    "authors": "Wang H, Zhang M, Cheng CK.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.00173",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

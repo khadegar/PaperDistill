@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8330076",
+  "paper_id": "doi:10.1186/s12891-021-04520-1",
+  "pmcid": "PMC8330076",
+  "source_record_sha256": "f1f76bae687eb2575a6392230ce3132f2beae320f6065b94987f4dd243663ccd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1941199023d0b6e784b5bc5cca57def1164971c8324416e8514bc6346d20ae72",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design and analysis of three-dimensional printing of a porous titanium scaffold",
+    "authors": "Yang J, Li Y, Shi X, Shen M, Shi K, Shen L, Yang C.",
+    "year": 2021,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-021-04520-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

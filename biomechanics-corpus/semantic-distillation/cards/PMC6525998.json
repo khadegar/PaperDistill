@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6525998",
+  "paper_id": "doi:10.7150/thno.31017",
+  "pmcid": "PMC6525998",
+  "source_record_sha256": "0912ce639f24cd572649a06994a8058fc53ea17baa0b7eb29c80ad2f0c635f2c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b92318ad20f3aa7bfd915b7891b243670cc8766d3a78b7fe46cfd02731a73dcf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Desktop-stereolithography 3D printing of a radially oriented extracellular matrix/mesenchymal stem cell exosome bioink for osteochondral defect regeneration",
+    "authors": "Chen P, Zheng L, Wang Y, Tao M, Xie Z, Xia C, Gu C, Chen J, Qiu P, Mei S, Ning L, Shi Y, Fang C, Fan S, Lin X.",
+    "year": 2019,
+    "journal": "Theranostics",
+    "doi": "10.7150/thno.31017",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

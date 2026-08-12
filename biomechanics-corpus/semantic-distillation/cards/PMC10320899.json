@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10320899",
+  "paper_id": "doi:10.1186/s12893-023-02079-3",
+  "pmcid": "PMC10320899",
+  "source_record_sha256": "1f73b4dfd9e9b1f5af648aeda9cc9616966b9f94ea02362b90ee1d14c8bdcaa8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0ebb074ece3697295becbb1cde87ebedf6734bbd477799d4fc2bdba1e86d836e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An experimental study on the impact of prosthesis temperature on the biomechanical properties of bone cement fixation",
+    "authors": "Chen W, Zhang H.",
+    "year": 2023,
+    "journal": "BMC Surgery",
+    "doi": "10.1186/s12893-023-02079-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

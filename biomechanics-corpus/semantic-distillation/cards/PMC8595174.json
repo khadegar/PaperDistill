@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8595174",
+  "paper_id": "doi:10.1007/s10237-021-01496-8",
+  "pmcid": "PMC8595174",
+  "source_record_sha256": "5727594ea841593db0b70b87a58c2255ec4b1e8d51b226729440f1d5f5373921",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "41ec98fe384c1c4bc105af4f1f9249b2009fe1ff28e3035d5f4a6bb046d6cf67",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A multiscale optimisation method for bone growth scaffolds based on triply periodic minimal surfaces",
+    "authors": "Lehder EF, Ashcroft IA, Wildman RD, Ruiz-Cantu LA, Maskery I.",
+    "year": 2021,
+    "journal": "Biomechanics and Modeling in Mechanobiology",
+    "doi": "10.1007/s10237-021-01496-8",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

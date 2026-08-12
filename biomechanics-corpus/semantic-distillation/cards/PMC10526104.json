@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10526104",
+  "paper_id": "doi:10.3390/bioengineering10091019",
+  "pmcid": "PMC10526104",
+  "source_record_sha256": "c0e9bb00b40d33d10ef319efddf0494e5bab5344a6f1739ad817ce3889d5b56e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8628cf78ef094dd1c0eb8ba660f50a9449fbbd1df9ea5812085e78bbc81d53da",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Functionalized 3D-Printed PLA Biomimetic Scaffold for Repairing Critical-Size Bone Defects",
+    "authors": "Liu X, Gao J, Cui X, Nie S, Wu X, Zhang L, Tang P, Liu J, Li M.",
+    "year": 2023,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering10091019",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

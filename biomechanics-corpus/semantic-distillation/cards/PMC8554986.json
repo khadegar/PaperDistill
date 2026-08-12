@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8554986",
+  "paper_id": "doi:10.1186/s40824-021-00233-7",
+  "pmcid": "PMC8554986",
+  "source_record_sha256": "283f9447d3060b71f26ad9f0c8e0a191ec7bc59fbc9a50cb7f61b740540cca91",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e46ea6cc0def312a70ba0b957c07dde37980de28e4b258b379d72e74dea5b96b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional printed polylactic acid scaffold integrated with BMP-2 laden hydrogel for precise bone regeneration",
+    "authors": "Cha M, Jin YZ, Park JW, Lee KM, Han SH, Choi BS, Lee JH.",
+    "year": 2021,
+    "journal": "Biomaterials Research",
+    "doi": "10.1186/s40824-021-00233-7",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

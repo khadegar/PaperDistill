@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12481835",
+  "paper_id": "doi:10.1186/s12984-025-01729-2",
+  "pmcid": "PMC12481835",
+  "source_record_sha256": "553391be954b604e8fe4470baa854e1ceae47d6c2919303da10fc7ca1831af7b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "104f6c8db3e095e68f5b7181e44af541f0ea75c2b365c20255de2babe2735c3e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The clinical effects of the Össur Power Knee with phase-based and default control during sitting, standing, and walking",
+    "authors": "Best TK, Seelhoff CA, Wensman J, Gregg RD.",
+    "year": 2025,
+    "journal": "Journal of NeuroEngineering and Rehabilitation",
+    "doi": "10.1186/s12984-025-01729-2",
+    "publication_type": "Clinical Trial; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12470645",
+  "paper_id": "doi:10.3390/jcm14186510",
+  "pmcid": "PMC12470645",
+  "source_record_sha256": "51c1a5488fb3dd85f6335b5c6988b0a5d5c8a97ef136aab635ea76d758ee4558",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "446a7d0161da31bd8a948fd16fdf06d731232744d3a5c278a1c0a954bf81cd4f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Technical Variations in Lateral Extra-Articular Tenodesis for Anterior Cruciate Ligament Reconstruction: A Systematic Review",
+    "authors": "Zabrzyński J, Turoń B, Kwapisz A, Boutsiadis A, Zabrzyńska M, Sokołowski M, Majchrzak B, Adamczyk M, Kellett K, Huri G.",
+    "year": 2025,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm14186510",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

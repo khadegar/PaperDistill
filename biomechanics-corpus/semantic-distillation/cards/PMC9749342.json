@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9749342",
+  "paper_id": "doi:10.1186/s12891-022-06069-z",
+  "pmcid": "PMC9749342",
+  "source_record_sha256": "476736fd777a2a3344d6c063fcf67508db4ca265c80a188295f5ceee9dcb84e4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "541c41c69d6efa2c7a5deeeed549df2f55f5aa8df14bfa224fd1a68db0218913",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical assessment of disease outcome in surgical interventions for medial meniscal posterior root tears: a finite element analysis",
+    "authors": "Xu Z, Li Y, Rao J, Jin Y, Huang Y, Xu X, Liu Y, Tian S.",
+    "year": 2022,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-022-06069-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

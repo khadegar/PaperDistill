@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7820598",
+  "paper_id": "doi:10.1038/s41598-021-81132-8",
+  "pmcid": "PMC7820598",
+  "source_record_sha256": "23bd71c192fd23ddd704fa28a30128ff6a26bade71ae0cf8b95e526ebcebdce9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "27d91fe8499951e373d35ee47009a7cbbcc28a8c6b762df185f98080031f328e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Application of subject-specific adaptive mechanical loading for bone healing in a mouse tail vertebral defect",
+    "authors": "Malhotra A, Walle M, Paul GR, Kuhn GA, Müller R.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-81132-8",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

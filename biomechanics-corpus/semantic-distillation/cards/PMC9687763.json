@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9687763",
+  "paper_id": "doi:10.3390/biom12111692",
+  "pmcid": "PMC9687763",
+  "source_record_sha256": "aa86725fa09ef8bd42c7afed850a304b7fa789e9a1fd612d2e9923c5cebc072f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c02d4d2786dcba71d958749e3cbc6a164478ebb6c68da544e152d60e583424ac",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Digital Light Processing 3D Printing of Gyroid Scaffold with Isosorbide-Based Photopolymer for Bone Tissue Engineering",
+    "authors": "Verisqa F, Cha JR, Nguyen L, Kim HW, Knowles JC.",
+    "year": 2022,
+    "journal": "Biomolecules",
+    "doi": "10.3390/biom12111692",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8039683",
+  "paper_id": "doi:10.21037/atm-20-6689",
+  "pmcid": "PMC8039683",
+  "source_record_sha256": "0dc135f1db80a02292dbd7bda16101d90a9259085d72f00633b820ea616674b6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5aa3ca1b418d7c18648f18f790d6823ceeb70ba0ee6a6d722479f6f935baa00e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Use of a novel Screen–Enrich–Combine(-biomaterials) Circulating System to fill a 3D-printed open Ti6Al4V frame with mesenchymal stem cells/β-tricalcium phosphate to repair complex anatomical bone defects in load-bearing areas",
+    "authors": "Chu W, Liu Z, Gan Y, Chang Y, Jiao X, Jiang W, Dai K.",
+    "year": 2021,
+    "journal": "Annals of Translational Medicine",
+    "doi": "10.21037/atm-20-6689",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

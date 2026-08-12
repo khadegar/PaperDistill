@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10167239",
+  "paper_id": "doi:10.1038/s41378-023-00527-x",
+  "pmcid": "PMC10167239",
+  "source_record_sha256": "d8618066aa6803afcb2566286e8f9f6fad47607b0b71b62bae732fae55937b05",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f55f0dbea05dc3c94b19bc70a714000f23b88accacdc03c1f7baaa64ce0e09b3",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Highly conformable chip-in-foil implants for neural applications",
+    "authors": "Stieglitz T, Gueli C, Martens J, Floto N, Eickenscheidt M, Sporer M, Ortmanns M.",
+    "year": 2023,
+    "journal": "Microsystems & Nanoengineering",
+    "doi": "10.1038/s41378-023-00527-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

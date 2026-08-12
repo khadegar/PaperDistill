@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10887597",
+  "paper_id": "doi:10.3390/gels10020140",
+  "pmcid": "PMC10887597",
+  "source_record_sha256": "e97f8221ab90b9cf103c4e70d296410d872dccb7f3a70c7e5f6dbe849458e5c8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a134c7d5b3a03967335e41fc86dc5eb5582e3ccd2db8a167223e422d773ab10f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Development of 3D Printed pNIPAM-Chitosan Scaffolds for Dentoalveolar Tissue Engineering",
+    "authors": "Salar Amoli M, Anand R, EzEldeen M, Geris L, Jacobs R, Bloemen V.",
+    "year": 2024,
+    "journal": "Gels",
+    "doi": "10.3390/gels10020140",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

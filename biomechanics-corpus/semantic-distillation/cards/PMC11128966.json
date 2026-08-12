@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11128966",
+  "paper_id": "doi:10.52312/jdrs.2024.1626",
+  "pmcid": "PMC11128966",
+  "source_record_sha256": "8f7011a2e2e10ed8c279dc3df7711835b6b3637e6f47d07fcd407a378089516c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8073547ce6de18b17eb8cfc5bafaccdae8f120f0cb0afe034f41a285e457552e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A comparative analysis of 3D bioprinted gelatin-hyaluronic acid-alginate scaffold and microfracture for the management of osteochondral defects in the rabbit knee joint",
+    "authors": "Aydin M, Ok M, Cerci MH, Demirhan R, Surucu S, Mahirogullari M.",
+    "year": 2024,
+    "journal": "Joint Diseases and Related Surgery",
+    "doi": "10.52312/jdrs.2024.1626",
+    "publication_type": "Comparative Study; Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

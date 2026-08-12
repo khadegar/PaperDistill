@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7597802",
+  "paper_id": "doi:10.1093/rb/rbaa021",
+  "pmcid": "PMC7597802",
+  "source_record_sha256": "416cee3db8b56ad4a92708d9162abc7cd7c7d8536e87a6dbfe4ef4b9b68806b3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2f7ebf3bd5149893f6eb7cf74fe742abe91fe999bedc1632607507048ad0bb63",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Porous silicon carbide coated with tantalum as potential material for bone implants",
+    "authors": "Ma Z, Li J, Cao F, Yang J, Liu R, Zhao D.",
+    "year": 2020,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbaa021",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

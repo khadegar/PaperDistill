@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7363989",
+  "paper_id": "doi:10.1016/j.bioactmat.2020.07.001",
+  "pmcid": "PMC7363989",
+  "source_record_sha256": "6a437bca8c02ca033e4d1c76e5feacdc6d8fc5b177a66267556d513f20c5a4a7",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "055c2b1c1c93f40e73abc7f624587d89a428ae0d849960ce3ae7aee2f2f2b81b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Electroactive barium titanate coated titanium scaffold improves osteogenesis and osseointegration with low-intensity pulsed ultrasound for large segmental bone defects",
+    "authors": "Fan B, Guo Z, Li X, Li S, Gao P, Xiao X, Wu J, Shen C, Jiao Y, Hou W.",
+    "year": 2020,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2020.07.001",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

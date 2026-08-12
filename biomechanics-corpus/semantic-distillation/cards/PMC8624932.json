@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8624932",
+  "paper_id": "doi:10.3390/ijms222212560",
+  "pmcid": "PMC8624932",
+  "source_record_sha256": "bad59fa5f30de32ede8d25e72d82166a65de6727831ec0acab8cc2b901cdf830",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "70a83f51e6942545e1c62bf03383629e2d515a9b0fcc9803f059cf1f80b2c054",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Regeneration of Large-Sized and Vascularized Adipose Tissue Using a Tailored Elastic Scaffold and dECM Hydrogels",
+    "authors": "Kim SH, Kim D, Cha M, Kim SH, Jung Y.",
+    "year": 2021,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms222212560",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

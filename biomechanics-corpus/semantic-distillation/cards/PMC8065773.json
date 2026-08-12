@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8065773",
+  "paper_id": "doi:10.3390/membranes11040257",
+  "pmcid": "PMC8065773",
+  "source_record_sha256": "47633ea6f8e45481806113892033d512538155c1010ee2f57540ffb51efda382",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "500c58aaa2b474817657363c870c5d4ec3136382fe38173fe3beef1d1226920e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Effects of Scaffold Pore Morphologies on Glucose Transport Limitations in Hollow Fibre Membrane Bioreactor for Bone Tissue Engineering: Experiments and Numerical Modelling",
+    "authors": "Wang S, Suhaimi H, Mabrouk M, Georgiadou S, Ward JP, Das DB.",
+    "year": 2021,
+    "journal": "Membranes",
+    "doi": "10.3390/membranes11040257",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

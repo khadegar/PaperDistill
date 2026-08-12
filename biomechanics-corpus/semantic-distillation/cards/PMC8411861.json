@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8411861",
+  "paper_id": "doi:10.12659/msm.931969",
+  "pmcid": "PMC8411861",
+  "source_record_sha256": "ddcac7bf88d7cf352c226e89c85b6ddd712f4a311f632b4c37250d63427339be",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "56ae4f0fb238cab2065a69ed9c4de7784bf19ca6de70f8f60a2cb107e7e498cf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Finite Element Analysis and Biomechanical Analysis of Midfoot von Mises Stress Levels in Flatfoot, Clubfoot, and Lisfranc Joint Injury",
+    "authors": "Wang C, He X, Zhang Z, Lai C, Li X, Zhou Z, Ruan K.",
+    "year": 2021,
+    "journal": "Medical Science Monitor : International Medical Journal of Experimental and Clinical Research",
+    "doi": "10.12659/msm.931969",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

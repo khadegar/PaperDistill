@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12775641",
+  "paper_id": "doi:10.21037/jss-25-95",
+  "pmcid": "PMC12775641",
+  "source_record_sha256": "d198c829d4f25a20e42786bcf2a969438f2f06bd3639283dc5f445223c04709b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c3654a7b0cf0205b92c18b300891d71795e3c63b242403d3c4abf629a4e0fd77",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "L1 vertebral body replacement using 3D-printed polylactic acid bioimplants: in vitro cellular evaluation, in vivo rat model assessment, and histological analysis of implant osseointegration",
+    "authors": "Moura DL, Casal D, Reis R, Gonçalves L, Alves S, Pinto D, Novo M, Fontinha G, Almeida R, Santos PG, Lago JB, Rodrigues G, Casimiro MH, Ferreira LM, Leal JP, Santos PMP, Pais D, Casanova J, Bernardes A.",
+    "year": 2025,
+    "journal": "Journal of Spine Surgery",
+    "doi": "10.21037/jss-25-95",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

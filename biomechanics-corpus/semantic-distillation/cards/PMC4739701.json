@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4739701",
+  "paper_id": "doi:10.1371/journal.pone.0147399",
+  "pmcid": "PMC4739701",
+  "source_record_sha256": "a96e72ed7ea56b63a425d5ad6cbb2999253eb60f6e47f8f6b9c3b5d7cfb0dfda",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8c66c784576799e33c3b36c481f2a12f2f728ede26f5cf2fc0d85648cd02ef6c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Open-Source Selective Laser Sintering (OpenSLS) of Nylon and Biocompatible Polycaprolactone",
+    "authors": "Kinstlinger IS, Bastian A, Paulsen SJ, Hwang DH, Ta AH, Yalacki DR, Schmidt T, Miller JS.",
+    "year": 2016,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0147399",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

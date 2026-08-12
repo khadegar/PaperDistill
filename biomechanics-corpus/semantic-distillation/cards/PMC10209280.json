@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10209280",
+  "paper_id": "doi:10.1007/s10561-022-10044-2",
+  "pmcid": "PMC10209280",
+  "source_record_sha256": "38f1dd94490a2f0d636a10fdf18ab915742319e5be6960e30cfa3c46deec05d5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "54eb52fca75e4632132e2f6924a8c7489868b1c2ad53edef7ff6e683d33e10a1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Characterization of an advanced viable bone allograft with preserved native bone-forming cells",
+    "authors": "Gianulis E, Wetzell B, Scheunemann D, Gazzolo P, Sohoni P, Moore MA, Chen J.",
+    "year": 2022,
+    "journal": "Cell and Tissue Banking",
+    "doi": "10.1007/s10561-022-10044-2",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

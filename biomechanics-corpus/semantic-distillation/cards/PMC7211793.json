@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7211793",
+  "paper_id": "doi:10.1007/s11517-020-02158-0",
+  "pmcid": "PMC7211793",
+  "source_record_sha256": "3a57ff0d1e35901ea048537fc8fceaafc2232fb9816cf5d00374f84aeacbc76f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cebd872b90467963e1e6d15a5ec6a34aae4c1fa96a95d16c63958ecac062abfa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The implications of non-anatomical positioning of a meniscus prosthesis on predicted human knee joint biomechanics",
+    "authors": "Naghibi H, Janssen D, van den Boogaard T, van Tienen T, Verdonschot N.",
+    "year": 2020,
+    "journal": "Medical & Biological Engineering & Computing",
+    "doi": "10.1007/s11517-020-02158-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

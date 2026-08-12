@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12024796",
+  "paper_id": "doi:10.3390/bioengineering12040384",
+  "pmcid": "PMC12024796",
+  "source_record_sha256": "c2de9a34b425bf4762ff70eab51aa022ce78cd9d51b136944cfc1b8ec040869c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b546368e5b61ba400ec107b13a21b40e6f35d56bb6a372ab60255868266cdc4f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Biomechanical Evaluation of a Novel Interspinous Process Device: In Vitro Flexibility Assessment and Finite Element Analysis",
+    "authors": "Shen H, Ju C, Gao T, Zhu J, Liu W.",
+    "year": 2025,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering12040384",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

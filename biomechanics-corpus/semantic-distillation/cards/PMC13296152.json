@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13296152",
+  "paper_id": "pmcid:PMC13296152",
+  "pmcid": "PMC13296152",
+  "source_record_sha256": "82ea8c8231349c8ed9f4b6921d8db6a8800f73b3d0c06104c911d05e6649bae3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "060cdd4adc46e9e83f9b02e9c58eb55b590a0cc405de501d8f9c4703e23ac36b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Probabilistic Three-Dimensional Finite Element Model of a Cemented Hip Implant Failure Under Aseptic Loosening: A Case-Based Probabilistic Framework",
+    "authors": "Truong D, Hazelwood S, Fow J, Griffin L.",
+    "year": 2026,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering13060623",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

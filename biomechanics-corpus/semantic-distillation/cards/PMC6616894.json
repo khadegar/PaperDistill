@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6616894",
+  "paper_id": "doi:10.3390/jfb10020017",
+  "pmcid": "PMC6616894",
+  "source_record_sha256": "1964f49b61e3cfa6b398c8491642d2221b2d96090ddbb3366175512b16ef2454",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d899275760673fbad2bec8a86759bcdc3b685fe2ae3c963a3f279b1322d07dee",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing Custom Bioactive and Absorbable Surgical Screws, Pins, and Bone Plates for Localized Drug Delivery",
+    "authors": "Tappa K, Jammalamadaka U, Weisman JA, Ballard DH, Wolford DD, Pascual-Garrido C, Wolford LM, Woodard PK, Mills DK.",
+    "year": 2019,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb10020017",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

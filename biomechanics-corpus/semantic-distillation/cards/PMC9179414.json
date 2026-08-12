@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9179414",
+  "paper_id": "doi:10.3390/cancers14112694",
+  "pmcid": "PMC9179414",
+  "source_record_sha256": "3a7f870dced726ea31bf3c86dab3c59a220312b6d73fa2e58153e01d20708c7d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6f7ce9f9c2cf8640d1316426a3e81bbc66a8a62024fc764efc5de8d94a4af97d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surgical Treatment of Bone Sarcoma",
+    "authors": "Bläsius F, Delbrück H, Hildebrand F, Hofmann UK.",
+    "year": 2022,
+    "journal": "Cancers",
+    "doi": "10.3390/cancers14112694",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

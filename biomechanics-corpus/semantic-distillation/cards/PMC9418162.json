@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9418162",
+  "paper_id": "doi:10.1038/s41598-022-18741-4",
+  "pmcid": "PMC9418162",
+  "source_record_sha256": "dcf4086e809863ea6f8e3374e2080ed320abbc54e3842d93d5ae4caf000157f4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "607861b0d2d5784a4380254f7d6cefe4ca9fcf0d2b0efde566afba7aa67cbd83",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "X-ray attenuation of bone, soft and adipose tissue in CT from 70 to 140 kV and comparison with 3D printable additive manufacturing materials",
+    "authors": "Ma X, Figl M, Unger E, Buschmann M, Homolka P.",
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-022-18741-4",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

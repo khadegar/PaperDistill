@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9945144",
+  "paper_id": "doi:10.3390/biomimetics8010081",
+  "pmcid": "PMC9945144",
+  "source_record_sha256": "d22ed5fe86252326b99b632dc1952cd4bdf1fd31425ca9fbeedf898770262eef",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c5255a2647258a9ad5d7f49378c4b697d73f63045b74520f81abd3d506db94b6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Review on Manufacturing Processes of Biocomposites Based on Poly(α-Esters) and Bioactive Glass Fillers for Bone Regeneration",
+    "authors": "Lacambra-Andreu X, Maazouz A, Lamnawar K, Chenal JM.",
+    "year": 2023,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics8010081",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11053449",
+  "paper_id": "doi:10.3390/polym16081116",
+  "pmcid": "PMC11053449",
+  "source_record_sha256": "ac791745a157eaa0634c6cf0c090f6d0fd2a77a97df4a3b8f054706df1d30411",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ec132363da5d976e94790de100e4c321998fc6b149ce09511ea2a3c07df7130f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Tailoring the Mass Density of 3D Printing Materials for Accurate X-ray Imaging Simulation by Controlled Underfilling for Radiographic Phantoms",
+    "authors": "Ahmed AMM, Buschmann M, Breyer L, Kuntner C, Homolka P.",
+    "year": 2024,
+    "journal": "Polymers",
+    "doi": "10.3390/polym16081116",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

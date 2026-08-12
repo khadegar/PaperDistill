@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6213204",
+  "paper_id": "doi:10.3390/ma11101947",
+  "pmcid": "PMC6213204",
+  "source_record_sha256": "ae3125ec95e4897bab15976615633a316cd719e63381f505f3ee1d95b88b9546",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "48974037dcf92ed05ccfd46654a3beaadf916450f496efcb9fef9ac9592b0a02",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing of PLA/clay Nanocomposites: Influence of Printing Temperature on Printed Samples Properties",
+    "authors": "Coppola B, Cappetti N, Di Maio L, Scarfato P, Incarnato L.",
+    "year": 2018,
+    "journal": "Materials",
+    "doi": "10.3390/ma11101947",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

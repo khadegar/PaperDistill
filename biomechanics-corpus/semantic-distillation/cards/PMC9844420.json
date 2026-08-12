@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9844420",
+  "paper_id": "doi:10.3390/biomimetics8010015",
+  "pmcid": "PMC9844420",
+  "source_record_sha256": "6d2462cf8c144b19f0723f27202200005cab9679dc20f83eaab0428987571d67",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "583e20b2d727451293c7a8e981844892273b8cf37f59a2307b6b20a64558bf4e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional FEA Analysis of the Stress Distribution on Titanium and Graphene Frameworks Supported by 3 or 6-Implant Models",
+    "authors": "Desai SR, Koulgikar KD, Alqhtani NR, Alqahtani AR, Alqahtani AS, Alenazi A, Heboyan A, Fernandes GVO, Mustafa M.",
+    "year": 2023,
+    "journal": "Biomimetics",
+    "doi": "10.3390/biomimetics8010015",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

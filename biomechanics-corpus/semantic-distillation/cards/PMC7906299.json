@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7906299",
+  "paper_id": "doi:10.1371/journal.pone.0247412",
+  "pmcid": "PMC7906299",
+  "source_record_sha256": "a30c96fd34226ac3ef255ed86af22bdf0a193b369e9a446e552069d22d3989cb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2545039a459bef910ce886b081f87cf72aa6d22578bda7935d5856190e70c3be",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of high tibial osteotomy plate with internal support block using finite element analysis",
+    "authors": "Yang JC, Lin KY, Lin HH, Lee OK.",
+    "year": 2021,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0247412.r004",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7468019",
+  "paper_id": "doi:10.1186/s10195-020-00555-7",
+  "pmcid": "PMC7468019",
+  "source_record_sha256": "4c97939a502650fa16b2764900caf8d84f63d12469d6084c62bbd5cd344eb47e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f7a183962c226d34f40483e2e4bd4b0f2367dc2b3820e25d0b7af53503206d8c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A new ligament-compatible patient-specific 3D-printed implant and instrumentation for total ankle arthroplasty: from biomechanical studies to clinical cases",
+    "authors": "Faldini C, Mazzotti A, Belvedere C, Durastanti G, Panciera A, Geraci G, Leardini A.",
+    "year": 2020,
+    "journal": "Journal of Orthopaedics and Traumatology : Official Journal of the Italian Society of Orthopaedics and Traumatology",
+    "doi": "10.1186/s10195-020-00555-7",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

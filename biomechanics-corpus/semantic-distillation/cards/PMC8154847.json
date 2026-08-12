@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8154847",
+  "paper_id": "doi:10.1007/s10237-021-01422-y",
+  "pmcid": "PMC8154847",
+  "source_record_sha256": "2dac39b04c68a0ed56c1ae4ed184360f547ad18418c79af67f4e3a0ef941e61d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "b8dcd47cb55cd3336491e57394cfebd745d61004bd7cf4121b32320967ef78fe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Non-invasive prediction of the mouse tibia mechanical properties from microCT images: comparison between different finite element models",
+    "authors": "Oliviero S, Roberts M, Owen R, Reilly GC, Bellantuono I, Dall'Ara E.",
+    "year": 2021,
+    "journal": "Biomechanics and Modeling in Mechanobiology",
+    "doi": "10.1007/s10237-021-01422-y",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

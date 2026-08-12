@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8003467",
+  "paper_id": "doi:10.3390/life11030254",
+  "pmcid": "PMC8003467",
+  "source_record_sha256": "eefbebff1ea44773f5f3b4b7fabdf020f0b1b15b05bc79a77e7e01ab0b41458a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "39218f4af19ab80b43d1d860ae7b88b070729213d4c4777108c34b7b5124914b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Large Animal Model of Osteoporotic Defect Healing: An Alternative to Metaphyseal Defect Model",
+    "authors": "Rupp M, Biehl C, Malhan D, Hassan F, Attia S, Rosch S, Schäfer AB, McMahon E, Kampschulte M, Heiss C, El Khassawna T.",
+    "year": 2021,
+    "journal": "Life",
+    "doi": "10.3390/life11030254",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

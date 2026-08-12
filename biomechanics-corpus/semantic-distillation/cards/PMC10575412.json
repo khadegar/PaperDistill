@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10575412",
+  "paper_id": "doi:10.3390/polym15193957",
+  "pmcid": "PMC10575412",
+  "source_record_sha256": "c014992ac53767b0b84c53fe6b0307793ac561741ee1fb22b600a479a9948239",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "58361555721086f84867e91d5e651c2fad0ea28ced3f0003661c00ffd7bb1ecf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Drug Loaded 3D-Printed Poly(ε-Caprolactone) Scaffolds for Local Antibacterial or Anti-Inflammatory Treatment in Bone Regeneration",
+    "authors": "Stepanova M, Averianov I, Gofman I, Shevchenko N, Rubinstein A, Egorova T, Trulioff A, Nashchekina Y, Kudryavtsev I, Demyanova E, Korzhikova-Vlakh E, Korzhikov-Vlakh V.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15193957",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

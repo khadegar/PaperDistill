@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11899632",
+  "paper_id": "doi:10.1186/s41205-025-00260-3",
+  "pmcid": "PMC11899632",
+  "source_record_sha256": "ec3535822ae0377b43f9cde4b4920733bd8e11503a92f5067645a92f686fb50e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "33d734318bdb1a63dbd198e3d383c00fd4a8177e493b1eaa8cfa99613bc80ff6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A novel algorithm for streamlined surgeon-dominated patient-specific implant design in computer-assisted jaw reconstruction",
+    "authors": "Nayak A, Pu JJ, Yu X, Su YX.",
+    "year": 2025,
+    "journal": "3D Printing in Medicine",
+    "doi": "10.1186/s41205-025-00260-3",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

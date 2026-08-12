@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6939101",
+  "paper_id": "doi:10.1016/j.jot.2019.09.003",
+  "pmcid": "PMC6939101",
+  "source_record_sha256": "08b81093021eba6d74c45742916b29e9a7897fbad37e1346712b954c0e99db14",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "05c94b541db87ef6748863d35ce43fa91fd2ed16b591bf62417b0b229dedb808",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design of a new magnesium-based anterior cruciate ligament interference screw using finite element analysis",
+    "authors": "Mau JR, Hawkins KM, Woo SL, Kim KE, McCullough MBA.",
+    "year": 2019,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2019.09.003",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

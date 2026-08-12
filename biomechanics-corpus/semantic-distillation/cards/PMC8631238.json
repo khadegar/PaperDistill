@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8631238",
+  "paper_id": "doi:10.1302/2058-5241.6.210030",
+  "pmcid": "PMC8631238",
+  "source_record_sha256": "288883ce83b7d6cc41a17e2987216a879f84623b0fdf1dcc071928af3d53466f",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cfb69076be89cb81b042692f28b59566f32177c7cecb34ea9e57c3b85a8a01d9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Short-term success of proximal bone stock preservation in short hip stems: a systematic review of the literature",
+    "authors": "de Waard S, van der Vis J, Venema PAHT, Sierevelt IN, Kerkhoffs GMMJ, Haverkamp D.",
+    "year": 2021,
+    "journal": "EFORT Open Reviews",
+    "doi": "10.1302/2058-5241.6.210030",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

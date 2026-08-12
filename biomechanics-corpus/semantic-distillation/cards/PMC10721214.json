@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10721214",
+  "paper_id": "doi:10.7554/elife.90440",
+  "pmcid": "PMC10721214",
+  "source_record_sha256": "5fbf7942785523136313ea46e1259b3f8d5501c1678d398f68241dd86bed6a35",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ff0e94fdcfa32f8b1fffe6c6c326100f31da31eb5a3ee37b4ae3173f0cebd21c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An in silico testbed for fast and accurate MR labeling of orthopedic implants",
+    "authors": "Noetscher GM, Serano PJ, Horner M, Prokop A, Hanson J, Fujimoto K, Brown J, Nazarian A, Ackerman J, Makaroff SN.",
+    "year": 2023,
+    "journal": "eLife",
+    "doi": "10.7554/elife.90440.3.sa3",
+    "publication_type": "research-article; Journal Article; Case Reports; Research Support, N.I.H., Extramural",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

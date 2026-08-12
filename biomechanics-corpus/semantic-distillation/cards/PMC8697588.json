@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8697588",
+  "paper_id": "doi:10.1039/d0ra09395e",
+  "pmcid": "PMC8697588",
+  "source_record_sha256": "b8eb4351c3f4d93383453d7270029bbcb58c61a76c1675fd930173abf82e2995",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3e769236fe11e678096dc751e6c81df41d6709faea27f6314243bb4af35ac2cf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Impact of exogenous metal ions on peri-implant bone metabolism: a review",
+    "authors": "Chen W, Zhu WQ, Qiu J.",
+    "year": 2021,
+    "journal": "RSC Advances",
+    "doi": "10.1039/d0ra09395e",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

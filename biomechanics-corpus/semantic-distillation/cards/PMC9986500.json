@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9986500",
+  "paper_id": "doi:10.1016/j.bioactmat.2023.02.021",
+  "pmcid": "PMC9986500",
+  "source_record_sha256": "8694573866a2df71d6724da80f6698a7f6f672a774ddd7c8531bea95574afc31",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d0c9a148897367742ffc9791f43a37926daa47ef37baa7d43a18921bbaf3acaa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Degradation behavior of ZE21C magnesium alloy suture anchors and their effect on ligament-bone junction repair",
+    "authors": "Ma D, Wang J, Zheng M, Zhang Y, Huang J, Li W, Ding Y, Zhang Y, Zhu S, Wang L, Wu X, Guan S.",
+    "year": 2023,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2023.02.021",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

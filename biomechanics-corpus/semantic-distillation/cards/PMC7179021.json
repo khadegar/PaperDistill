@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7179021",
+  "paper_id": "doi:10.3390/ma13071773",
+  "pmcid": "PMC7179021",
+  "source_record_sha256": "7436f42ea4cfe2ffb8a1e091cb42e9c723b55cd7acf0fadda7b4a0d396c2b82e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "82a8db4225d829fc4693858fe4bb1fd37cb8c7791114e102efbdb1015bb10750",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing of Piezoelectric Barium Titanate-Hydroxyapatite Scaffolds with Interconnected Porosity for Bone Tissue Engineering",
+    "authors": "Polley C, Distler T, Detsch R, Lund H, Springer A, Boccaccini AR, Seitz H.",
+    "year": 2020,
+    "journal": "Materials",
+    "doi": "10.3390/ma13071773",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

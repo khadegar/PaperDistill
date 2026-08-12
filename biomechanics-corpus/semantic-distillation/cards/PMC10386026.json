@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10386026",
+  "paper_id": "doi:10.3390/pharmaceutics15071939",
+  "pmcid": "PMC10386026",
+  "source_record_sha256": "d692319b941262e7490d2a31659ecb7459dca4ce9bb0c6f220914c1e96bad776",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7c32c99d496ec269b50450164378104ef54fef10b36060a9f95821b8d4da31b9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osteoinductive Electrospun Scaffold Based on PCL-Col as a Regenerative Therapy for Peri-Implantitis",
+    "authors": "Sanhueza C, Hermosilla J, Klein C, Chaparro A, Valdivia-Gandur I, Beltrán V, Acevedo F.",
+    "year": 2023,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics15071939",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

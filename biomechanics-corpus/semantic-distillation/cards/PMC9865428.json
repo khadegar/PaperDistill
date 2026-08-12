@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9865428",
+  "paper_id": "doi:10.3390/pharmaceutics15010011",
+  "pmcid": "PMC9865428",
+  "source_record_sha256": "59e928cb79e4e6323bf5c63490b01b1a013ff3e7dfef4e797e91c49e06a1d62a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d4fbd594215e32f02c9efcd069d1f6830200d55a6705e3db4a47eb5b84e7fa11",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed Osteoblast–Alginate/Collagen Hydrogels Promote Survival, Proliferation and Mineralization at Low Doses of Strontium Calcium Polyphosphate",
+    "authors": "Tharakan S, Khondkar S, Lee S, Ahn S, Mathew C, Gresita A, Hadjiargyrou M, Ilyas A.",
+    "year": 2022,
+    "journal": "Pharmaceutics",
+    "doi": "10.3390/pharmaceutics15010011",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

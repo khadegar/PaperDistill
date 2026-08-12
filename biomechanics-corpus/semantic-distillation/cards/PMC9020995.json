@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9020995",
+  "paper_id": "doi:10.1155/2022/4245274",
+  "pmcid": "PMC9020995",
+  "source_record_sha256": "4a76a07039a7954f8c296233774916625bb95246a507c45835c79b73915ec75b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9e9342e56ee582cedbc1274887626e2637380691d4abfc72475c19e6c3ee53e4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing Combined with Osteotomy of the Lateral Tibial Condyle for the Treatment of Tibial Plateau Fractures Involving the Lateral Posterior Condyle",
+    "authors": "Xu Z, Jiao J, Xiao F, Huang Y, Wang J.",
+    "year": 2022,
+    "journal": "Computational and Mathematical Methods in Medicine",
+    "doi": "10.1155/2022/4245274",
+    "publication_type": "Retracted Publication; research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

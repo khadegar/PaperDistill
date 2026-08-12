@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8818233",
+  "paper_id": "doi:10.1186/s13018-022-02966-0",
+  "pmcid": "PMC8818233",
+  "source_record_sha256": "1303fe45f8df1dfdc701a7f9d734da83f2f34e3ad9186cf9e614a64bfbe273ac",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c9ceeab63d5b9824a18dae3e1f0f0498c77f9133e8f76f4728bffcfa9eb78357",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Anteroinferior bundle of the acromioclavicular ligament plays a substantial role in the joint function during shoulder elevation and horizontal adduction: a finite element model",
+    "authors": "Velasquez Garcia A, Salamé Castillo F, Ekdahl Giordani M, Mura Mardones J.",
+    "year": 2022,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-022-02966-0",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

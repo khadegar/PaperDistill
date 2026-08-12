@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11897938",
+  "paper_id": "doi:10.1021/acsbiomaterials.4c01486",
+  "pmcid": "PMC11897938",
+  "source_record_sha256": "b8d82b222bb97fa9dc628e764548203ac5c50aa1ba2d811c25a68e895412e945",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f451f73753ca433bc7ba98b898ac02026f728a4703152fa06feb95f3b249e428",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Highly Elastic, Biodegradable Polyester-Based Citrate Rubber for 3D Printing in Regenerative Engineering",
+    "authors": "Khan A, Ding Y, Fu R, Wang X, Mendez-Santos M, Adepu S, Sun C, Ameer GA.",
+    "year": 2025,
+    "journal": "ACS Biomaterials Science & Engineering",
+    "doi": "10.1021/acsbiomaterials.4c01486",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

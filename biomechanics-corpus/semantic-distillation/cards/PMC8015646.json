@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8015646",
+  "paper_id": "doi:10.12659/msm.929908",
+  "pmcid": "PMC8015646",
+  "source_record_sha256": "261d4028298063c2514838043074d77f8cdaab46541c963cb194a72713aeedaf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "077ad6f68054f64718522ddd349559d3d25db201c41d14640125cf84e4e8f142",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Behavior of All-on-4 and M-4 Configurations in an Atrophic Maxilla: A 3D Finite Element Method",
+    "authors": "Bozyel D, Taşar Faruk S.",
+    "year": 2021,
+    "journal": "Medical Science Monitor : International Medical Journal of Experimental and Clinical Research",
+    "doi": "10.12659/msm.929908",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

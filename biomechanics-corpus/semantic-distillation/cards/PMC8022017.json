@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8022017",
+  "paper_id": "doi:10.1302/2058-5241.6.200048",
+  "pmcid": "PMC8022017",
+  "source_record_sha256": "34a08032d59897b4f9e91fd56e727b4e1b2e0027da234b5163ba34faeb7f290d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "60999a262c695bb80d9f38a9c600e45dcb825073cd950179ede3c349767e0873",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Subtrochanteric femur fractures: current review of management",
+    "authors": "Garrison I, Domingue G, Honeycutt MW.",
+    "year": 2021,
+    "journal": "EFORT Open Reviews",
+    "doi": "10.1302/2058-5241.6.200048",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

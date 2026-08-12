@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13246807",
+  "paper_id": "doi:10.1007/s10856-026-07047-w",
+  "pmcid": "PMC13246807",
+  "source_record_sha256": "f7a9aeda7d2a747d066ab80f756c016e7e267dd4b5025edcdaebf49f39babde5",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7af4b187da68be0e9896e9ce8e46966f8b83e90f03e156997f45da8e17c43b5d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed PCL scaffolds: optimising material selection for specific bone regeneration applications",
+    "authors": "Rajzer I, Novotna R, Kurowska A, Janusz J, Fabia J, Jabłoński A, Piekarczyk W, Castano O, Ziąbka M, Frankova J.",
+    "year": 2026,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-026-07047-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

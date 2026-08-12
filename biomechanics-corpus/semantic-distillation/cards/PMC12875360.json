@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12875360",
+  "paper_id": "doi:10.1111/clr.70056",
+  "pmcid": "PMC12875360",
+  "source_record_sha256": "aaac24d81c4ef8a3b4d0496acca0185667130ab6d5c474bc378ddfca2ddf9584",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f619994d7317925011133bc8fe2661b5a5a2cf72d71995c5311a08311b76ebcc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Dental Implant Osseointegration Following Mandibular Augmentation Using 3D Printed Hydroxyapatite Blocks. An Experimental In Vivo Study",
+    "authors": "Systermans S, Ronsmans C, Nolens G, Meyns J, Gilon Y, Cobraiville E.",
+    "year": 2025,
+    "journal": "Clinical Oral Implants Research",
+    "doi": "10.1111/clr.70056",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9016838",
+  "paper_id": "doi:10.1021/acsomega.2c00335",
+  "pmcid": "PMC9016838",
+  "source_record_sha256": "27632ad8c9e6da7a52458425287c969c7d1c53517ec505188806268390828f45",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "abac80d15e1c694e63335ccf8b67a0b394e28af73d4d27be76d8a0bb3054ad16",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Printing Self-Healing Dynamic/Photocrosslinking Gelatin-Hyaluronic Acid Double-Network Hydrogel for Tissue Engineering",
+    "authors": "Wang Y, Chen Y, Zheng J, Liu L, Zhang Q.",
+    "year": 2022,
+    "journal": "ACS Omega",
+    "doi": "10.1021/acsomega.2c00335",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11367893",
+  "paper_id": "doi:10.1186/s13018-024-05030-1",
+  "pmcid": "PMC11367893",
+  "source_record_sha256": "8c56a258d2d809adf6d6d819a7e3c95e280d44949a24b3f25a0c92298ee3292b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c97b048bb3be46b233baf0e6b2d051e1efcbe7cc5183a5c0eeff7c63bf9a2a95",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Salidroside alleviates simulated microgravity-induced bone loss by activating the Nrf2/HO-1 pathway",
+    "authors": "Wang N, Zuo Z, Meng T, Liu Y, Zheng X, Ma Y.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-05030-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

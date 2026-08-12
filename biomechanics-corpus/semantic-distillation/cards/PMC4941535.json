@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4941535",
+  "paper_id": "doi:10.1038/srep28816",
+  "pmcid": "PMC4941535",
+  "source_record_sha256": "97b2b3807f5e48aa3ee4ef5fc5e424072dda806569e3650f7575444a983dedbd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "621338ab5fbdcdf92802213c8adf7fe9ef56efc137d85a13ec5cb3a8eb6e1611",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fracture behaviors of ceramic tissue scaffolds for load bearing applications",
+    "authors": "Entezari A, Roohani-Esfahani SI, Zhang Z, Zreiqat H, Dunstan CR, Li Q.",
+    "year": 2016,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep28816",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

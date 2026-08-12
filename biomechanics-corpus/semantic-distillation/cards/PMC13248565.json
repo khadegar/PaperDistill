@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13248565",
+  "paper_id": "doi:10.13107/jocr.2026.v16.i06.7368",
+  "pmcid": "PMC13248565",
+  "source_record_sha256": "360ebf03cc7f8b39e642ef7f9f77ba96031890d98cf8b251aca04049ce050d1d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e87e888757b69d7eea757124bb979cde36de6f160ff02956efa62aab76c00bfe",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Evolving Role of Artificial Intelligence in Hip and Knee Arthroplasty: Indian Perspective and Indigenous Innovation",
+    "authors": "Aneja K, Bajwa S, Shyam A.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Case Reports",
+    "doi": "10.13107/jocr.2026.v16.i06.7368",
+    "publication_type": "Editorial",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "editorial",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "topology_or_structural_optimization",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

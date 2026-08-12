@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5279744",
+  "paper_id": "doi:10.1371/journal.pone.0170826",
+  "pmcid": "PMC5279744",
+  "source_record_sha256": "4f53e57d0a103541a5c17ad49e6819999177c577907ce125ce9553e8afd921b9",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "35b6ceb092d725ee3c1e979666369b19aade4b18a69dd580592feb6b8fa9d51b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fluid Dynamics Appearing during Simulated Microgravity Using Random Positioning Machines",
+    "authors": "Wuest SL, Stern P, Casartelli E, Egli M.",
+    "year": 2017,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0170826",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

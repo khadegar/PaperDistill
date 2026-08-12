@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11578987",
+  "paper_id": "doi:10.3389/fsurg.2024.1357897",
+  "pmcid": "PMC11578987",
+  "source_record_sha256": "fc1b8badfac44c3527e36848cae5b0bfb57b8226639e33fdd4754910c84c91ac",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "679dd5e60811e00270d351903e51fb226145922e352bf1661b4f1f36fb130c1f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Open laminectomy vs. minimally invasive laminectomy for lumbar spinal stenosis: a review",
+    "authors": "Dhar UK, Menzer EL, Lin M, O'Connor T, Ghimire N, Dakwar E, Papanastassiou ID, Aghayev K, Tsai CT, Vrionis FD.",
+    "year": 2024,
+    "journal": "Frontiers in Surgery",
+    "doi": "10.3389/fsurg.2024.1357897",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

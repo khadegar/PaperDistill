@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9563793",
+  "paper_id": "doi:10.1186/s12903-022-02488-5",
+  "pmcid": "PMC9563793",
+  "source_record_sha256": "47522bce08c325baa4f1cc4831a4b004596bee06ddb8bcb0cac4294080febdbd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0384b2949bf66bb3ea95aa023ac0d13318f95d9cf48367aaceee33f7a8c6d7d9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of biofilm formation on acrylic resins used to fabricate dental temporary restorations with the use of 3D printing technology",
+    "authors": "Mazurek-Popczyk J, Nowicki A, Arkusz K, Pałka Ł, Zimoch-Korzycka A, Baldy-Chudzik K.",
+    "year": 2022,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/s12903-022-02488-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

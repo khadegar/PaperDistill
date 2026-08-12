@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11973284",
+  "paper_id": "doi:10.3389/fbioe.2025.1524235",
+  "pmcid": "PMC11973284",
+  "source_record_sha256": "0e9afe1bcce74deb901fe03a829d756459b0977b28b08db52372561bfccae7e1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9a76cb29e77dfd4c71f5e91b21867cab4a8e16942c8169c51c351749116d0f9c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Screw pull-out force predictions in porcine radii using efficient nonlinear µFE models including contact and pre-damage",
+    "authors": "Stefanek P, Silva-Henao JD, Fiedler V, Reisinger AG, Pahr DH, Synek A.",
+    "year": 2025,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2025.1524235",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

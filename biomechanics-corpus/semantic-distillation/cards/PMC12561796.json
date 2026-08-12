@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12561796",
+  "paper_id": "doi:10.3390/biomedicines13102468",
+  "pmcid": "PMC12561796",
+  "source_record_sha256": "54042c5767462b2011bac950287d2c9a36e19ea88ad4a9b62c05e50dccfc0d5d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "51eb7db8e475ba1c1ad2153c34fd80ea940f0d6240f4726b6e5998646d77a588",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Animal Models as Foundational Tools in Preclinical Orthopedic Implant Research",
+    "authors": "Varut RM, Trasca DM, Stoica GA, Sirbulet C, Arsenie CC, Popescu C.",
+    "year": 2025,
+    "journal": "Biomedicines",
+    "doi": "10.3390/biomedicines13102468",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

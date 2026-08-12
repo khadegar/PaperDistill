@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12927856",
+  "paper_id": "doi:10.2147/ijn.s583425",
+  "pmcid": "PMC12927856",
+  "source_record_sha256": "775e1d600e5f56fa705fc6f2677e601a4ae2dffca2a5eca3ef81cb6803eb10ae",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cb9ddbf59641664f1f898c5f361a4a8e1dbaa9bc04404ad3e90454f1de6de6b5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "GelMA-Based Nanocomposites for Bone Defect Regeneration: Design, Performance, and Clinical Translation Potential",
+    "authors": "Li G, Wang Y, Wang D, Cui H, Qin M, Ma J.",
+    "year": 2026,
+    "journal": "International Journal of Nanomedicine",
+    "doi": "10.2147/ijn.s583425",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

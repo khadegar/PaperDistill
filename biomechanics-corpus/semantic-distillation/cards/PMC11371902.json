@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11371902",
+  "paper_id": "doi:10.1093/jbmr/zjae112",
+  "pmcid": "PMC11371902",
+  "source_record_sha256": "2f379a285972f58da1b5959940eeabbf218c9cfe06bdc7df2ae2cb3d4de7b7cf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8dc08e0da32e4738d3fae4848d41f24d383ba938bc88d232f882c787fcd3fe76",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Setrusumab for the treatment of osteogenesis imperfecta: 12-month results from the phase 2b asteroid study",
+    "authors": "Glorieux FH, Langdahl B, Chapurlat R, De Beur SJ, Sutton VR, Poole KES, Dahir KM, Orwoll ES, Willie BM, Mikolajewicz N, Zimmermann E, Hosseinitabatabaei S, Ominsky MS, Saville C, Clancy J, MacKinnon A, Mistry A, Javaid MK.",
+    "year": 2024,
+    "journal": "Journal of Bone and Mineral Research",
+    "doi": "10.1093/jbmr/zjae112",
+    "publication_type": "Clinical Trial, Phase II; Research Support, Non-U.S. Gov't; research-article; Multicenter Study; Randomized Controlled Trial; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

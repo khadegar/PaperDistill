@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12264622",
+  "paper_id": "doi:10.1016/j.mtbio.2025.102014",
+  "pmcid": "PMC12264622",
+  "source_record_sha256": "49dfcc0cc6db84df36688000feb4af915a71e9b9755818a2d9d6afd8f43a6929",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "993bfb46273be1bfebb23dabf9869cd838ee13cb3ac0a944810b8508372e5b84",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Beyond natural silk: Bioengineered silk fibroin for bone regeneration",
+    "authors": "Zhou K, Yuan T, Wang S, Hu F, Luo L, Chen L, Yang L.",
+    "year": 2025,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2025.102014",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

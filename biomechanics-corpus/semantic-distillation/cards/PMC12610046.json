@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12610046",
+  "paper_id": "doi:10.3390/ma18214822",
+  "pmcid": "PMC12610046",
+  "source_record_sha256": "a259864543a30cea070e7960cc908b94dafe5124787b898e06594d38e81ceedb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "bba850e5183efea21c80ba6ec97b5baef982c27339c1d5eb5ff9ef75826bdb51",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Comparison of Patient-Specific Temporomandibular Joint Prostheses Using Ti6Al4V and CoCrMo Alloys: A Finite Element Analysis",
+    "authors": "Yüceer-Çetiner E, Doğu Y, Yurten H, Varol A.",
+    "year": 2025,
+    "journal": "Materials",
+    "doi": "10.3390/ma18214822",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

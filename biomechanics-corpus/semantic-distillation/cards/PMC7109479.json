@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7109479",
+  "paper_id": "doi:10.3389/fbioe.2020.00219",
+  "pmcid": "PMC7109479",
+  "source_record_sha256": "3b0bcceb7a1e58e453b2c6aed04d2ed6cd47236c2d68a8acb1d53d66ed8c0fd8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "958de2d2c55e5dcca729845da88939d2b74dc36408881a333b1a2155d7141e08",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-Printed Poly-Caprolactone Scaffolds Modified With Biomimetic Extracellular Matrices for Tarsal Plate Tissue Engineering",
+    "authors": "Chen L, Yan D, Wu N, Zhang W, Yan C, Yao Q, Zouboulis CC, Sun H, Fu Y.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.00219",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

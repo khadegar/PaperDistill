@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9855817",
+  "paper_id": "doi:10.3390/bios13010079",
+  "pmcid": "PMC9855817",
+  "source_record_sha256": "d6ae303deadabc84d289e5792df9fc03dbb90d054693eed28720ef4a5010ad4d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ad5fba60cec08fddc8eb9f2ffb7cdc4f17c2d0b4f1f681ac6ed21ebc70fb8704",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Surface Acoustic Wave (SAW) Sensors for Hip Implant: A Numerical and Computational Feasibility Investigation Using Finite Element Methods",
+    "authors": "Hafizh M, Soliman MM, Qiblawey Y, Chowdhury MEH, Islam MT, Musharavati F, Mahmud S, Khandakar A, Nabil M, Nezhad EZ.",
+    "year": 2023,
+    "journal": "Biosensors",
+    "doi": "10.3390/bios13010079",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8919371",
+  "paper_id": "doi:10.3389/fbioe.2022.832808",
+  "pmcid": "PMC8919371",
+  "source_record_sha256": "6902e07711dcd698cc87d445252e554e56c986b7df9bf4315454921f784bacfd",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7d432fe2d1d6a05c8ac9a7f2a8ae5a2ad9c808f0d214a56f62bf6384ecdc8fb5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Remodeling Effects of the Combination of GGT Scaffolds, Percutaneous Electrical Stimulation, and Acupuncture on Large Bone Defects in Rats",
+    "authors": "Yao CH, Yang BY, Li YE.",
+    "year": 2022,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2022.832808",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

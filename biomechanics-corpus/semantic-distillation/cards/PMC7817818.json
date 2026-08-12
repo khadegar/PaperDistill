@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7817818",
+  "paper_id": "doi:10.3389/fbioe.2020.621601",
+  "pmcid": "PMC7817818",
+  "source_record_sha256": "6911c869b7f0fd437145699ea4bd8a4e076a62a9c2005bf9fac8a2360c85b57b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7cca06ab0e660610d48dae16592f1fc32a55560644b2f8c6746fafe06e6df782",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhanced Osseointegration by the Hierarchical Micro-Nano Topography on Selective Laser Melting Ti-6Al-4V Dental Implants",
+    "authors": "Shu T, Zhang Y, Sun G, Pan Y, He G, Cheng Y, Li A, Pei D.",
+    "year": 2021,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.621601",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

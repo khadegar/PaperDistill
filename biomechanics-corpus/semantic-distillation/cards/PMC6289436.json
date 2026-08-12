@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6289436",
+  "paper_id": "doi:10.1371/journal.pone.0207770",
+  "pmcid": "PMC6289436",
+  "source_record_sha256": "d5bc52e705c4a88fa5c188eb638dbabf95ab7ff928d0e9cd63a44055dc813fb6",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9c35e52ac74469957311b1b7087ee592b0c7e7c8ddf509db350b85a9d51df669",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Computational model for the patella onset",
+    "authors": "Márquez-Flórez K, Shefelbine S, Ramírez-Martínez A, Garzón-Alvarado D.",
+    "year": 2018,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0207770",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational"
+    ]
+  },
+  "status": "blank"
+}

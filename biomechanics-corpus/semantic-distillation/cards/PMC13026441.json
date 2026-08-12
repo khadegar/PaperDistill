@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13026441",
+  "paper_id": "doi:10.3390/ijms27062589",
+  "pmcid": "PMC13026441",
+  "source_record_sha256": "3aa423fe36743242e6a6f4403d2f174b4644691fa3623bffcef5823295a23369",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e79a08f60ee12507e1eacff4dbe663b6f4b1a67c9fe9b6e93d96a76bd82e88b5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Role of 3D Printing in Regenerative Medicine: A Game-Changer in Tissue Engineering",
+    "authors": "Sharma A, Puri V, Huanbutta K, Sangnim T.",
+    "year": 2026,
+    "journal": "International Journal of Molecular Sciences",
+    "doi": "10.3390/ijms27062589",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

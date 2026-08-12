@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10277679",
+  "paper_id": "doi:10.3389/fbioe.2023.1120430",
+  "pmcid": "PMC10277679",
+  "source_record_sha256": "1016b4f5a1c6afed1b4f54670fcdb4a4186f416ebb3af6ba4e32f3d63ce82302",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3537c14fb82ce1de01a232f8e88a84ef3bdf1cd8d9be310851a85241e1732de6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Does a novel bridging collar in endoprosthetic replacement optimise the mechanical environment for osseointegration? A finite element study",
+    "authors": "Fraterrigo G, Schileo E, Simpson D, Stevenson J, Kendrick B, Taddei F.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1120430",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

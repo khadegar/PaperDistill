@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6414092",
+  "paper_id": "doi:10.1097/gox.0000000000001975",
+  "pmcid": "PMC6414092",
+  "source_record_sha256": "3219c102e6941ce35e678de5cd746163fc6c137432061d98ffe8c72c74b40c31",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0f4b95f23d3ebc51cb8e6ee7f3ff10aa4bbe6abe04e5eda928550f132c608498",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Reconstruction of Complex Maxillary Defects Using Patient-specific 3D-printed Biodegradable Scaffolds",
+    "authors": "Han HH, Shim JH, Lee H, Kim BY, Lee JS, Jung JW, Yun WS, Baek CH, Rhie JW, Cho DW.",
+    "year": 2018,
+    "journal": "Plastic and Reconstructive Surgery Global Open",
+    "doi": "10.1097/gox.0000000000001975",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

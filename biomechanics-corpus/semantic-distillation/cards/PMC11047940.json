@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11047940",
+  "paper_id": "doi:10.3390/bioengineering11040332",
+  "pmcid": "PMC11047940",
+  "source_record_sha256": "f60c85ea6b2da248647424735d0e3a6be713a9242a99be27d2bf01bc6e2c633e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2164866c215ef108979a4620a9737c7849c1419cb86e040e1a06fe06f3af75c5",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Microfibrous Scaffold with Aligned Topography Produced via a Combination of Melt-Extrusion Additive Manufacturing and Porogen Leaching for In Vitro Skeletal Muscle Modeling",
+    "authors": "Spedicati M, Zoso A, Mortati L, Chiono V, Marcello E, Carmagnola I.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11040332",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

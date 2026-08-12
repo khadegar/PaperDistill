@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11732800",
+  "paper_id": "doi:10.1186/s41687-025-00839-8",
+  "pmcid": "PMC11732800",
+  "source_record_sha256": "0cd6afc65d595c8172a490ae51c663fb508461f35e553579e592fd00c7243282",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "29f41e4cf607bd44072cc598bde5ed7e32553e2128998b6f41058609e720c12f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient-reported outcomes of zirconia dental implants: a systematic review and future directions",
+    "authors": "Arefnia B, Fakheran O, Jakse N, Payer M.",
+    "year": 2025,
+    "journal": "Journal of Patient-Reported Outcomes",
+    "doi": "10.1186/s41687-025-00839-8",
+    "publication_type": "Systematic Review; review-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC4430281",
+  "paper_id": "doi:10.1371/journal.pone.0125253",
+  "pmcid": "PMC4430281",
+  "source_record_sha256": "4a3c100f5943fd8a5dfbe134ca699c654f62ab1a9a12c1bbf76f00df4efe1b45",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e4f3f0478810de555521306cba4faa8fe57147e0c4404f4e5edb50ee1ecb86d6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Human Urine Derived Stem Cells in Combination with β-TCP Can Be Applied for Bone Regeneration",
+    "authors": "Guan J, Zhang J, Li H, Zhu Z, Guo S, Niu X, Wang Y, Zhang C.",
+    "year": 2015,
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0125253",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

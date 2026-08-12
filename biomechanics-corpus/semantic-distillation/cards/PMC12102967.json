@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12102967",
+  "paper_id": "doi:10.1186/s13018-025-05918-6",
+  "pmcid": "PMC12102967",
+  "source_record_sha256": "5c6248ed1a908a1fc4ae77df690e0561967ced67d5b87934bf67cbaaebaba4fc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "55eb9313e9319b6d6191986188bab628893e2cadbd9820398be66243e175442f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical comparison of multiple zero-profile systems in anterior cervical discectomy and fusion: a finite element analysis",
+    "authors": "Lian XH, Sun WJ, Xue HH, Chen YF, Zeng ZF, Xue JL.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-025-05918-6",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

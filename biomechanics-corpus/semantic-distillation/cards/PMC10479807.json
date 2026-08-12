@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10479807",
+  "paper_id": "doi:10.3389/fonc.2023.1206765",
+  "pmcid": "PMC10479807",
+  "source_record_sha256": "1b9e05c14bc87301eac8ba9943f2bf3b06b87a154e575b485c61652ae148b459",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c4458eb9ecfe2ab7d234d10a6980844e6e1c51c67b8b0ada133072c6995ab408",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical evaluation of the three-dimensional printed strut-type prosthesis combined with autograft reconstruction for giant cell tumor of the distal femur",
+    "authors": "Tan L, Li Y, Hu X, Lu M, Zhang Y, Gan Y, Tu C, Min L.",
+    "year": 2023,
+    "journal": "Frontiers in Oncology",
+    "doi": "10.3389/fonc.2023.1206765",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6213664",
+  "paper_id": "doi:10.4103/ijo.ijo_472_18",
+  "pmcid": "PMC6213664",
+  "source_record_sha256": "721c47795ad1c857a94a063e71a2931c31fafb0b3bc65bd8c8f2fb8395bf4f6d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e4368d09d4b65ebddca1c87069a05c06ff3dfae7cca518f55b0d68b752cb2e14",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Low-cost three-dimensional printed orbital template-assisted patient-specific implants for the correction of spherical orbital implant migration",
+    "authors": "Dave TV, Tiple S, Vempati S, Palo M, Ali MJ, Kaliki S, Naik MN.",
+    "year": 2018,
+    "journal": "Indian Journal of Ophthalmology",
+    "doi": "10.4103/ijo.ijo_472_18",
+    "publication_type": "research-article; Journal Article; Case Reports",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

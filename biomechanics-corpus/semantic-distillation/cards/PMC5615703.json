@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5615703",
+  "paper_id": "doi:10.3390/ma10091048",
+  "pmcid": "PMC5615703",
+  "source_record_sha256": "c9c381c8bc6713a4382957e22e97e8efa2b2e28aa4ea5df739fb9243bca0f07d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "77c5883a955b178a9ab39de53edd4a5143822fb2c9bb9e99e0cdf6420250ec7a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Study on Topology Optimization Design, Manufacturability, and Performance Evaluation of Ti-6Al-4V Porous Structures Fabricated by Selective Laser Melting (SLM)",
+    "authors": "Xu Y, Zhang D, Zhou Y, Wang W, Cao X.",
+    "year": 2017,
+    "journal": "Materials",
+    "doi": "10.3390/ma10091048",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

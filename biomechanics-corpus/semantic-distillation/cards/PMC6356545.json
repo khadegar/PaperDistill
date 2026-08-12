@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6356545",
+  "paper_id": "doi:10.3390/ma12020235",
+  "pmcid": "PMC6356545",
+  "source_record_sha256": "c53e33fadadd75fbc9c1de920826265f842400269b49be029423f8b069ae9fb1",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9860893f9940e25ddaa48334feaa510b42cf6b328893efe7e5fb86aa9beddaac",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of Novel Separable Fixture for Easy Retrievement in Case with Peri-Implantitis",
+    "authors": "Kim WH, Song ES, Ju KW, Lee JH, Kim MY, Lim D, Kim B.",
+    "year": 2019,
+    "journal": "Materials",
+    "doi": "10.3390/ma12020235",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

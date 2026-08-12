@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9200413",
+  "paper_id": "doi:10.22603/ssrr.2021-0194",
+  "pmcid": "PMC9200413",
+  "source_record_sha256": "ddd67e3896fa94afa8cd00c3f25266a73e45c216d32ff73dba1174f601dfd561",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "237d1d3d22ff063ad8f156bf4921c8a00488535f279889d0d698d85678ffdc65",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Local Suppression Effect of Paclitaxel-Impregnated Hydroxyapatite/Collagen on Breast Cancer Bone Metastasis in a Rat Model",
+    "authors": "Matsumoto R, Yoshii T, Egawa S, Hashimoto M, Hirai T, Inose H, Oh Y, Fujita K, Okawa A, Sotome S.",
+    "year": 2021,
+    "journal": "Spine Surgery and Related Research",
+    "doi": "10.22603/ssrr.2021-0194",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

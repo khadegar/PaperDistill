@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7759629",
+  "paper_id": "doi:10.3389/fbioe.2020.578988",
+  "pmcid": "PMC7759629",
+  "source_record_sha256": "cc9ac481dcfc20a6b97c5f4cf810d8f0286d52cbea56e97cf818c738170983c0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f800a3afb58f492872fabb55ff803271bfef8a385ec24a48dce5c4e8d3c21592",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication of Silk-Hyaluronan Composite as a Potential Scaffold for Tissue Repair",
+    "authors": "Yu LM, Liu T, Ma YL, Zhang F, Huang YC, Fan ZH.",
+    "year": 2020,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2020.578988",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

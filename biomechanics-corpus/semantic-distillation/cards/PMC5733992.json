@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5733992",
+  "paper_id": "doi:10.1155/2017/5920714",
+  "pmcid": "PMC5733992",
+  "source_record_sha256": "753c5f88e39e53867349b276976d0c8fb99a7f696d399e249ef522d676bd7c62",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8d7c606afd3ecf0b0f7b5e78aae52b8cc5763fba7d4754829bedf5685c8e532c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Osseointegration of a 3D Printed Stemmed Titanium Dental Implant: A Pilot Study",
+    "authors": "Tedesco J, Lee BEJ, Lin AYW, Binkley DM, Delaney KH, Kwiecien JM, Grandfield K.",
+    "year": 2017,
+    "journal": "International Journal of Dentistry",
+    "doi": "10.1155/2017/5920714",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11391824",
+  "paper_id": "doi:10.1186/s13018-024-05051-w",
+  "pmcid": "PMC11391824",
+  "source_record_sha256": "8a4f1f4ee04aabd11a26dc5ad490906bf303e40dcb7a5c3a2862e16236dd7515",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "8e35e3c8acf5ed5e77fb8902a54233550440428e21c01df48a77cd8c57c34ec1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Study on the efficacy of 3D printing technology combined with customized plates for the treatment of complex tibial plateau fractures",
+    "authors": "Duan S, Xu R, Liang H, Sun M, Liu H, Zhou X, Wen H, Cai Z.",
+    "year": 2024,
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "doi": "10.1186/s13018-024-05051-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

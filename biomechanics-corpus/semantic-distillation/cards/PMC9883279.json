@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9883279",
+  "paper_id": "doi:10.1016/j.jobcr.2023.01.009",
+  "pmcid": "PMC9883279",
+  "source_record_sha256": "2cd86182a6f5b33d102ecc4e9e1fd85ba301687c2e6fb57d9ee9b43735f76003",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "e9ad57086fdf14a2da933613129d470df0c40ec862be4920c1c231103d6f6856",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Role of hormones in bone remodeling in the craniofacial complex: A review",
+    "authors": "Tunheim EG, Skallevold HE, Rokaya D.",
+    "year": 2023,
+    "journal": "Journal of Oral Biology and Craniofacial Research",
+    "doi": "10.1016/j.jobcr.2023.01.009",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

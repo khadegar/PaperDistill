@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13118164",
+  "paper_id": "doi:10.3390/ma19081607",
+  "pmcid": "PMC13118164",
+  "source_record_sha256": "e323fe673947c432aa363d24261d4c1f2e54213fcee538d9c23f21dc53be5403",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "275f3009dc22042af110b5615fb24e034da5cd8c2fc579ca3e2c5450f6a75245",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of Immediate Versus Delayed Loading on Peri-Implant Bone Healing: A Comparative FEA Study of Titanium Threaded and Scaffold Dental Implants",
+    "authors": "Casalino G, Ceddia M, Contuzzi N, Lamberti L, Trentadue B.",
+    "year": 2026,
+    "journal": "Materials",
+    "doi": "10.3390/ma19081607",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "mechanobiology_remodeling",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

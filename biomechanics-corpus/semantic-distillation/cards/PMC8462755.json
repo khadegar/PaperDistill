@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8462755",
+  "paper_id": "doi:10.1021/acs.biomac.1c00524",
+  "pmcid": "PMC8462755",
+  "source_record_sha256": "08f04443be52dc036f78690734499632f738f8ad5d521cea463a6fb2154a28a4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ba2dff8ed5059e543a44833c92d5caf89714cc65eb1b558090698cb444307fed",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-Dimensional Printable Conductive Semi-Interpenetrating Polymer Network Hydrogel for Neural Tissue Applications",
+    "authors": "Rinoldi C, Lanzi M, Fiorelli R, Nakielski P, Zembrzycki K, Kowalewski T, Urbanek O, Grippo V, Jezierska-Woźniak K, Maksymowicz W, Camposeo A, Bilewicz R, Pisignano D, Sanai N, Pierini F.",
+    "year": 2021,
+    "journal": "Biomacromolecules",
+    "doi": "10.1021/acs.biomac.1c00524",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

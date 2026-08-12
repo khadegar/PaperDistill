@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10255500",
+  "paper_id": "doi:10.3390/polym15112446",
+  "pmcid": "PMC10255500",
+  "source_record_sha256": "fd4af2df0dbd0e33bd07a2d684271567ebf6e2bc64cfa6ffc069a6d1dd2d7c01",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "007c0cf61e651d936514d0453a12130be30c29553846c3aa1cb61ff8d23cfc19",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Piezoelectric Biocomposites for Bone Grafting in Dentistry",
+    "authors": "Dumitrescu CR, Neacsu IA, Trusca R, Popescu RC, Raut I, Constantin M, Andronescu E.",
+    "year": 2023,
+    "journal": "Polymers",
+    "doi": "10.3390/polym15112446",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

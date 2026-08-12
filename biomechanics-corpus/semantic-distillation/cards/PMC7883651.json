@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7883651",
+  "paper_id": "doi:10.18502/fid.v17i21.4315",
+  "pmcid": "PMC7883651",
+  "source_record_sha256": "51804ba30fc63d7e79e2075d920f9f0796cf9acd2ca302784813930500fa91bf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "951e25c78a2e085d7cad793c225d99597e7fbd0f3931519c785a47919426f80b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite Element Analysis of Stress in Bone and Abutment-Implant Interface under Static and Cyclic Loadings",
+    "authors": "Nokar S, Jalali H, Nozari F, Arshad M.",
+    "year": 2020,
+    "journal": "Frontiers in Dentistry",
+    "doi": "10.18502/fid.v17i21.4315",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

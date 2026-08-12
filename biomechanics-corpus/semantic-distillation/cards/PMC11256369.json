@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11256369",
+  "paper_id": "doi:10.1186/s12891-024-07666-w",
+  "pmcid": "PMC11256369",
+  "source_record_sha256": "8ae38595d3f351d988e482dc46e1670a00da21112208222120663997411937f4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "37898e51664c33ed66b8865ffd48ce76b6dbfc6f124d8b52287e3156d62c81cc",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed porous titanium suture anchor: a rabbit lateral femoral condyle model",
+    "authors": "Wu LC, Hsieh YY, Hsu TS, Liu PY, Tsuang FY, Kuo YJ, Chen CH, Van Huynh T, Chiang CJ.",
+    "year": 2024,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-024-07666-w",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

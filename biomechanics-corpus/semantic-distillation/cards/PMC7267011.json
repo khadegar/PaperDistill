@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7267011",
+  "paper_id": "doi:10.1016/j.jot.2020.01.004",
+  "pmcid": "PMC7267011",
+  "source_record_sha256": "40c2ff654f06eb4c1db501c5afbca8656aff7192acb742aebb0f08ba78677d94",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "fc76f76266750074661bcb408cd02e35086bc83dda360f140ade3a9be364848b",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three-dimensional printed multiphasic scaffolds with stratified cell-laden gelatin methacrylate hydrogels for biomimetic tendon-to-bone interface engineering",
+    "authors": "Cao Y, Yang S, Zhao D, Li Y, Cheong SS, Han D, Li Q.",
+    "year": 2020,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2020.01.004",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

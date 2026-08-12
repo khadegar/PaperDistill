@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12551080",
+  "paper_id": "doi:10.3390/jfmk10040389",
+  "pmcid": "PMC12551080",
+  "source_record_sha256": "b17d7f5768abf1971f964dd91acc3a5eff6387905acd408fcb2fef28ea0f77cc",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "84b45ad44592e7c70acb6fd86a7b9b5b436852d21463a5831b251e9c7f6846e2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fifteen-Year Follow-Up of Nanos Neck-Preserving Hip Arthroplasty: An Observational Retrospective Study",
+    "authors": "Rovere G, Luziatelli D, Luziatelli S, Polce G, Pirri P, De Luna V, Liuzza F, Liuzza F, Farsetti P, De Maio F.",
+    "year": 2025,
+    "journal": "Journal of Functional Morphology and Kinesiology",
+    "doi": "10.3390/jfmk10040389",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8777208",
+  "paper_id": "doi:10.1016/j.bioactmat.2021.10.016",
+  "pmcid": "PMC8777208",
+  "source_record_sha256": "d557567d2ab51809d958ccbf99e19c1ddd3561fa3f674c2703b7b79e04324992",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "f8d6a700eb4441ed10edac63e0c371168c1f79bbba65757fa5575f1346c07d29",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D-printed bioactive ceramic scaffolds with biomimetic micro/nano-HAp surfaces mediated cell fate and promoted bone augmentation of the bone–implant interface in vivo",
+    "authors": "Liu X, Miao Y, Liang H, Diao J, Hao L, Shi Z, Zhao N, Wang Y.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2021.10.016",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation",
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12422090",
+  "paper_id": "doi:10.1002/adma.202507590",
+  "pmcid": "PMC12422090",
+  "source_record_sha256": "e7f8dd088268dd4146233e71a558f98e6176db4ca2571c93d89a38324ec6a4de",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "20e8d4a5ae967cefef04e1a898932c69ba267e7036bec8764ab6cf18c6421f72",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printing for Neural Repair: Bridging the Gap in Regenerative Medicine",
+    "authors": "St Clair-Glover M, Yue Z, Dottori M.",
+    "year": 2025,
+    "journal": "Advanced Materials (Deerfield Beach, Fla.)",
+    "doi": "10.1002/adma.202507590",
+    "publication_type": "other; Research Support, Non-U.S. Gov't; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

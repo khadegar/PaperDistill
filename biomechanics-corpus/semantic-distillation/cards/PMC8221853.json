@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8221853",
+  "paper_id": "doi:10.1155/2021/5591715",
+  "pmcid": "PMC8221853",
+  "source_record_sha256": "10475e990a424df8d27db5bf42b4eb8f711c1802e2ec8ac7f9517e0d170e9f68",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "61919c8df25c0f2874071b11e03f0d8a9745972c3e3035d165dcdd2371fdcd0a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Predicting Fracture Risk in Patients with Metastatic Bone Disease of the Femur: A Pictorial Review Using Three Different Techniques",
+    "authors": "Kaupp SM, Mann KA, Miller MA, Damron TA.",
+    "year": 2021,
+    "journal": "Advances in Orthopedics",
+    "doi": "10.1155/2021/5591715",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

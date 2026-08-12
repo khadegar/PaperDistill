@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5874868",
+  "paper_id": "doi:10.3390/bioengineering5010002",
+  "pmcid": "PMC5874868",
+  "source_record_sha256": "d3cb1d405b2f2df8f7f3df427e0c7dc2ea3b44b48e2a4ca8318d47a89e5c80c3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "12c9a40240865874c0ade1ff969257dbdb8c04fe7643e89617b9c8a99e6f07c2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Recent Advances in 3D Printing of Aliphatic Polyesters",
+    "authors": "Chiulan I, Frone AN, Brandabur C, Panaitescu DM.",
+    "year": 2017,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering5010002",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7718143",
+  "paper_id": "doi:10.1016/j.bioactmat.2020.11.026",
+  "pmcid": "PMC7718143",
+  "source_record_sha256": "441dfdbc03d8c4a6fea580d0d933375f3ba2907837b1e430f646750a25cf0e8b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "60f77cb7485fd3b8dd302a91c1e9631c0628ee2f4ff5e4983a23ad800575f9da",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The effect of different coatings on bone response and degradation behavior of porous magnesium-strontium devices in segmental defect regeneration",
+    "authors": "Zhang N, Wang W, Zhang X, Nune KC, Zhao Y, Liu N, Misra RDK, Yang K, Tan L, Yan J.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2020.11.026",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7653236",
+  "paper_id": "doi:10.1016/j.bioactmat.2020.10.017",
+  "pmcid": "PMC7653236",
+  "source_record_sha256": "6dcc77256cebb716fedfa0bf31293397b2f7cb4604a82b69f37064ba894dc979",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c68d41d86e44f33623287c202b30c23b8d3f3117d470b8c20c157e79df765c99",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Microstructure evolution and texture tailoring of reduced graphene oxide reinforced Zn scaffold",
+    "authors": "Yang Y, Cheng Y, Peng S, Xu L, He C, Qi F, Zhao M, Shuai C.",
+    "year": 2021,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2020.10.017",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

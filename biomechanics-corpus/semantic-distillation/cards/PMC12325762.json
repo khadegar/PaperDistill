@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12325762",
+  "paper_id": "doi:10.1038/s41467-025-58394-1",
+  "pmcid": "PMC12325762",
+  "source_record_sha256": "d416ff39ab62bbff2c48d7fdd7591af71089373a3fbcd819fca48b12fc921ff8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d0cd332e380d19efd1b9b0995a811e2926ee62911a70132f2260566ab27a530f",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Promoting implant osseointegration via the osteoblast-selective β-amino acid polymer strategy",
+    "authors": "Chen Q, Gu J, Zhang H, Zhang D, Wang Y, Liu G, Zhu X, Zhang X, Cao C, Yuan Y, Liu R.",
+    "year": 2025,
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-025-58394-1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

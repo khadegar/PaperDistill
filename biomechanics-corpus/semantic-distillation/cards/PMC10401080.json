@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10401080",
+  "paper_id": "doi:10.1002/advs.202300516",
+  "pmcid": "PMC10401080",
+  "source_record_sha256": "cd23f50e1950181112d5da7b8bf00e2ac92da11ce14e3fa893d0a8a8b5c7dbf0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "35bb09d0f9ee314afa34a2d5bdb4495720081aa1a1d1bc2858f59d3323ff13e8",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "A Recombinant Parathyroid Hormone‐Related Peptide Locally Applied in Osteoporotic Bone Defect",
+    "authors": "Wang Y, Hu Y, Lan S, Chen Z, Zhang Y, Guo X, Cai L, Li J.",
+    "year": 2023,
+    "journal": "Advanced Science",
+    "doi": "10.1002/advs.202300516",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12072821",
+  "paper_id": "doi:10.3390/jcm14093207",
+  "pmcid": "PMC12072821",
+  "source_record_sha256": "1ac23612291b0c627ac32dea85371bfdb705486ee8fafe2ec851bc6b5158c321",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "4d514600bbb1ac12cce5b303827d15850d6e7657ee2542f5586b8b5da687c4b9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Impact of Femoral Anteversion Correction on Clinical Outcomes in Total Hip Arthroplasty for Adult Developmental Dysplasia of the Hip",
+    "authors": "Satılmış AB, Cengiz T, Ülker A, Mutlu T.",
+    "year": 2025,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm14093207",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6746298",
+  "paper_id": "doi:10.1080/17453674.2019.1637178",
+  "pmcid": "PMC6746298",
+  "source_record_sha256": "1233983046ae9bb2d3b34404ca274acb2550d182710a948c95589059001ef147",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7f383884b88dc32d157ea0f3bc9a927654299780eff4fb24d7a54a353e64bea4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bone remodeling of the proximal tibia after uncemented total knee arthroplasty: secondary endpoints analyzed from a randomized trial comparing monoblock and modular tibia trays—2 year follow-up of 53 cases",
+    "authors": "Rathsach Andersen M, Winther N, Lind T, Schrøder HM, Petersen MM.",
+    "year": 2019,
+    "journal": "Acta Orthopaedica",
+    "doi": "10.1080/17453674.2019.1637178",
+    "publication_type": "Comparative Study; research-article; Randomized Controlled Trial; Journal Article",
+    "discovery_strata": [
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

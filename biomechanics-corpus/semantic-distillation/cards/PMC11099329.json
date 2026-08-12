@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11099329",
+  "paper_id": "doi:10.1016/j.mtbio.2024.101069",
+  "pmcid": "PMC11099329",
+  "source_record_sha256": "c482893f718ef2c673ff5fe381afbd2862c5b834ab24e0d723c9c78874948f76",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1bf0ec5ae65f767a13ba536872e5efb13a987cc83929a89c11a147d95614bc42",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Engineering antibacterial bioceramics: Design principles and mechanisms of action",
+    "authors": "Nguyen NH, Lu Z, Elbourne A, Vasilev K, Roohani I, Zreiqat H, Truong VK.",
+    "year": 2024,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2024.101069",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

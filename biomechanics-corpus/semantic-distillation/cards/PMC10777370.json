@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10777370",
+  "paper_id": "doi:10.1016/j.heliyon.2023.e23955",
+  "pmcid": "PMC10777370",
+  "source_record_sha256": "9549bcdc1d9c885e16607f517ec9bda383db89ec2265393b4a1fef635562294e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2c3b160e5896ce5ae7089acab018025e91226ace7366212fd0a809189ce9b2c7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Antibacterial and osteoinductive properties of wollastonite scaffolds impregnated with propolis produced by additive manufacturing",
+    "authors": "Moreno Florez AI, Malagon S, Ocampo S, Leal-Marin S, Gil González JH, Diaz-Cano A, Lopera A, Paucar C, Ossa A, Glasmacher B, Peláez-Vargas A, Garcia C.",
+    "year": 2023,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2023.e23955",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

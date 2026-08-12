@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10582357",
+  "paper_id": "doi:10.1016/j.bioactmat.2023.09.016",
+  "pmcid": "PMC10582357",
+  "source_record_sha256": "d178cdab8d1d7530753c8774006ea6a1875b669a507a6d574028619af837adc8",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c340559a39f3100fd90c116e517f76771f5d8e243820bb02cc40926d35404b63",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "High temperature oxidation treated 3D printed anatomical WE43 alloy scaffolds for repairing periarticular bone defects: In vitro and in vivo studies",
+    "authors": "Liu B, Liu J, Wang C, Wang Z, Min S, Wang C, Zheng Y, Wen P, Tian Y.",
+    "year": 2024,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2023.09.016",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

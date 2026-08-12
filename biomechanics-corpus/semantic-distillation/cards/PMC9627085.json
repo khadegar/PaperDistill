@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9627085",
+  "paper_id": "doi:10.1111/os.13497",
+  "pmcid": "PMC9627085",
+  "source_record_sha256": "b99ff37689c07ec5d799e68306d725c0765260e014c4ff191d4bcbd2eeb52890",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "7fcea4fae4e0e3b285b51e13157efcfa53da11fc8c97cb9c9914efdc2688e9df",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Finite‐Element Analysis of a Novel Cephalomedullary Nail for Restricted Sliding to Reduce Risk of Implant Failure in Unstable Intertrochanteric Fractures",
+    "authors": "Nie S, Li J, Li M, Hao M, Wang K, Xiong Y, Gan X, Zhang L, Tang P.",
+    "year": 2022,
+    "journal": "Orthopaedic Surgery",
+    "doi": "10.1111/os.13497",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

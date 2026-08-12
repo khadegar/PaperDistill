@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12297776",
+  "paper_id": "doi:10.1186/s12891-025-08996-z",
+  "pmcid": "PMC12297776",
+  "source_record_sha256": "599b281c1e087a040431cbb895ddb218bf5762cd65a3bc2a3d447830460bcc4a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5467d709cc9d4a7ddc5eb74808326c17980aa9f2f7f40da08f366563fb2b9db1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical effects of six internal fixation methods for distal femoral AO/OTA 33C1 fractures: finite element analysis",
+    "authors": "Zhang J, Le J, Wu Z, Chen L.",
+    "year": 2025,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-025-08996-z",
+    "publication_type": "Comparative Study; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

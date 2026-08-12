@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8739241",
+  "paper_id": "doi:10.1016/j.jds.2021.05.003",
+  "pmcid": "PMC8739241",
+  "source_record_sha256": "0e0a1f0910f243bc7b754a1dc24d56d2847b18dff6329d71a6f0dd96cff1de40",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "313480ffc9219d9857f9c55a5812c3c5b9ca5f5730a77d261271f66991bc6dd0",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Clinical evaluation of 3D printed nano-porous hydroxyapatite bone graft for alveolar ridge preservation: A randomized controlled trial",
+    "authors": "Kijartorn P, Wongpairojpanich J, Thammarakcharoen F, Suwanprateeb J, Buranawat B.",
+    "year": 2021,
+    "journal": "Journal of Dental Sciences",
+    "doi": "10.1016/j.jds.2021.05.003",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

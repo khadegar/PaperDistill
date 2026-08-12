@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10114088",
+  "paper_id": "doi:10.1021/acsabm.3c00093",
+  "pmcid": "PMC10114088",
+  "source_record_sha256": "c3b610211025698ab17ad044acbbe87a824442d00a8d192b45af02bad96a1301",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a69d0ef25df2559c543fee55835fdacb900562a83461ba0eb3fb6e88b9d9a1d9",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Is 3D Printing Promising for Osteochondral Tissue Regeneration?",
+    "authors": "Ege D, Hasirci V.",
+    "year": 2023,
+    "journal": "ACS Applied Bio Materials",
+    "doi": "10.1021/acsabm.3c00093",
+    "publication_type": "Research Support, Non-U.S. Gov't; review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal"
+    ]
+  },
+  "status": "blank"
+}

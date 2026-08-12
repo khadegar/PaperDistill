@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0",
+  "validator": "validate_semantic_distillation.py",
+  "scope": "structural validation only; semantic correctness is not assessed",
+  "semantic_correctness_assessed": false,
+  "root": "D:\\CodeX\\PaperDistill\\biomechanics-corpus",
+  "semantic_distillation": "D:\\CodeX\\PaperDistill\\biomechanics-corpus\\semantic-distillation",
+  "verdict": "PASS_WITH_WARNINGS",
+  "strict": false,
+  "counts": {
+    "selected": 10000,
+    "completed": 60,
+    "pending": 9940,
+    "invalid": 0,
+    "orphan": 0,
+    "cards": 10000,
+    "completed_cards": 60,
+    "pending_cards": 9940,
+    "invalid_cards": 0,
+    "orphan_cards": 0,
+    "selection_parse_errors": 0,
+    "errors": 0,
+    "warnings": 1
+  },
+  "coverage": {
+    "primary_stratum": {
+      "additive_manufacturing": {
+        "selected": 2016,
+        "completed": 15,
+        "pending": 2001,
+        "invalid": 0
+      },
+      "biomechanics_fe_bone": {
+        "selected": 2232,
+        "completed": 10,
+        "pending": 2222,
+        "invalid": 0
+      },
+      "bone_implants_fixation": {
+        "selected": 1036,
+        "completed": 5,
+        "pending": 1031,
+        "invalid": 0
+      },
+      "bone_regeneration_biomaterials": {
+        "selected": 2044,
+        "completed": 5,
+        "pending": 2039,
+        "invalid": 0
+      },
+      "mechanobiology_remodeling": {
+        "selected": 457,
+        "completed": 5,
+        "pending": 452,
+        "invalid": 0
+      },
+      "osseointegration_bone_ingrowth": {
+        "selected": 1438,
+        "completed": 5,
+        "pending": 1433,
+        "invalid": 0
+      },
+      "patient_specific_implants": {
+        "selected": 518,
+        "completed": 5,
+        "pending": 513,
+        "invalid": 0
+      },
+      "porous_tpms_scaffold": {
+        "selected": 242,
+        "completed": 5,
+        "pending": 237,
+        "invalid": 0
+      },
+      "topology_optimization": {
+        "selected": 17,
+        "completed": 5,
+        "pending": 12,
+        "invalid": 0
+      }
+    },
+    "article_kind": {
+      "original_research": {
+        "selected": 7602,
+        "completed": 34,
+        "pending": 7568,
+        "invalid": 0
+      },
+      "review": {
+        "selected": 1567,
+        "completed": 12,
+        "pending": 1555,
+        "invalid": 0
+      },
+      "case_report": {
+        "selected": 427,
+        "completed": 7,
+        "pending": 420,
+        "invalid": 0
+      },
+      "systematic_review": {
+        "selected": 330,
+        "completed": 7,
+        "pending": 323,
+        "invalid": 0
+      },
+      "protocol": {
+        "selected": 47,
+        "completed": 0,
+        "pending": 47,
+        "invalid": 0
+      },
+      "editorial": {
+        "selected": 7,
+        "completed": 0,
+        "pending": 7,
+        "invalid": 0
+      },
+      "other_substantive": {
+        "selected": 20,
+        "completed": 0,
+        "pending": 20,
+        "invalid": 0
+      }
+    },
+    "design_feature": {
+      "additive_manufacturing": {
+        "selected": 2337,
+        "completed": 21,
+        "pending": 2316,
+        "invalid": 0
+      },
+      "in_vivo_animal": {
+        "selected": 9605,
+        "completed": 57,
+        "pending": 9548,
+        "invalid": 0
+      },
+      "clinical_or_observational": {
+        "selected": 5630,
+        "completed": 41,
+        "pending": 5589,
+        "invalid": 0
+      },
+      "imaging_or_characterization": {
+        "selected": 4997,
+        "completed": 18,
+        "pending": 4979,
+        "invalid": 0
+      },
+      "biological_or_mechanobiological": {
+        "selected": 6644,
+        "completed": 43,
+        "pending": 6601,
+        "invalid": 0
+      },
+      "porous_or_lattice_scaffold": {
+        "selected": 4415,
+        "completed": 32,
+        "pending": 4383,
+        "invalid": 0
+      },
+      "finite_element_or_computational": {
+        "selected": 4125,
+        "completed": 32,
+        "pending": 4093,
+        "invalid": 0
+      },
+      "methods_results_modeling": {
+        "selected": 3151,
+        "completed": 27,
+        "pending": 3124,
+        "invalid": 0
+      },
+      "experimental_mechanical": {
+        "selected": 2685,
+        "completed": 28,
+        "pending": 2657,
+        "invalid": 0
+      },
+      "in_vitro": {
+        "selected": 3193,
+        "completed": 12,
+        "pending": 3181,
+        "invalid": 0
+      },
+      "topology_or_structural_optimization": {
+        "selected": 81,
+        "completed": 7,
+        "pending": 74,
+        "invalid": 0
+      },
+      "unclassified": {
+        "selected": 3,
+        "completed": 0,
+        "pending": 3,
+        "invalid": 0
+      }
+    }
+  },
+  "synthesis": {
+    "files": [
+      "D:\\CodeX\\PaperDistill\\biomechanics-corpus\\semantic-distillation\\synthesis\\promoted-rules.jsonl"
+    ],
+    "rules": 20
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "severity": "WARNING",
+      "code": "PENDING_ROWS",
+      "message": "9940 selected paper(s) still await completed semantic reading",
+      "location": "semantic-distillation\\selection.jsonl"
+    }
+  ],
+  "issues": [
+    {
+      "severity": "WARNING",
+      "code": "PENDING_ROWS",
+      "message": "9940 selected paper(s) still await completed semantic reading",
+      "location": "semantic-distillation\\selection.jsonl"
+    }
+  ]
+}

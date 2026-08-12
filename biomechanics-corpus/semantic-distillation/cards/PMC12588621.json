@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12588621",
+  "paper_id": "doi:10.7759/cureus.93961",
+  "pmcid": "PMC12588621",
+  "source_record_sha256": "0a1576dd51f5a8aee8244210fc3d2f06bdde9d83aa3055096ec935f38a97dbd4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "65d4dfcf30c538d4d555d951f9d32bade75e6e747fcc20448386e8b40d78524c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Cementless Short-Stem Total Hip Arthroplasty in Patients Aged 75 Years and Older: A Retrospective Single-Surgeon Study",
+    "authors": "Steckel H, Steckel H.",
+    "year": 2025,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.93961",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

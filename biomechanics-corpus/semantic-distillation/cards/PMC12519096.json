@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12519096",
+  "paper_id": "doi:10.1302/2046-3758.1410.bjr-2024-0579.r1",
+  "pmcid": "PMC12519096",
+  "source_record_sha256": "966a93bee1ad9e84a8e2c2cb37722cf821d4d99b00b6c6327965d9014d6cd24a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "1603e1979e8f50c5368950be3e2296c0628495ed919f21d28d8c93d57497e433",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of asymmetric metaphyseal cone applications for lateral tibial plateau fractures",
+    "authors": "Ren Y, Scott CEH, Xie S, Pankaj P.",
+    "year": 2025,
+    "journal": "Bone & Joint Research",
+    "doi": "10.1302/2046-3758.1410.bjr-2024-0579.r1",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_implants_fixation",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

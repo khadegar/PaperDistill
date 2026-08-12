@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12653824",
+  "paper_id": "doi:10.3390/jcm14228087",
+  "pmcid": "PMC12653824",
+  "source_record_sha256": "872cac2ed1420e58ee4d15500c51792e1b22ccaed2cc85a083d16b8b639c01c3",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "42db016212eb62aff43bf8ae5d05706936d664b0a87d69dc4c97b784a5499255",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical Analysis and Mid-Term Clinical Outcomes of the Dynamic-Transitional Optima Hybrid Lumbar Device",
+    "authors": "Chen SH, Lin SC, Li CR, Zhong ZC, Kao CM, Lin MS, Tsou HK.",
+    "year": 2025,
+    "journal": "Journal of Clinical Medicine",
+    "doi": "10.3390/jcm14228087",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

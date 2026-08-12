@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12977685",
+  "paper_id": "doi:10.1186/s13063-026-09497-7",
+  "pmcid": "PMC12977685",
+  "source_record_sha256": "73fd119785a1ca386e7078a2039cb0bb99e872704e9679fa881390c29a204c29",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "419f2d075b6d2a6355a69a0b4c6eddaf44e4889b1ba60ffb79bab47b587cffcf",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of femoral neck fracture migration after internal fixation with an angle stable implant compared with gold standard cannulated cancellous screws in young adults: study protocol for a clinical RCT using radiostereometric analysis",
+    "authors": "Hansen MM, Petersen ET, Gundtoft PH, Jensen J, Stilling M, Ding M, Viberg B.",
+    "year": 2026,
+    "journal": "Trials",
+    "doi": "10.1186/s13063-026-09497-7",
+    "publication_type": "Clinical Trial Protocol; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "protocol",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

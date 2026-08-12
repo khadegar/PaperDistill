@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC5304193",
+  "paper_id": "doi:10.1038/srep42556",
+  "pmcid": "PMC5304193",
+  "source_record_sha256": "166eb3407328e1c679ba52cb5785a5c1048a24f78675d629a5663cc87f60e89d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5a169e5ecd73b569b005c19707ac3b5477f623ae6909f851b7dfa59a1938ef99",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Three dimensional printing of calcium sulfate and mesoporous bioactive glass scaffolds for improving bone regeneration in vitro and in vivo",
+    "authors": "Qi X, Pei P, Zhu M, Du X, Xin C, Zhao S, Li X, Zhu Y.",
+    "year": 2017,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep42556",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

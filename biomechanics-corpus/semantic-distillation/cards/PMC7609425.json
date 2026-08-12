@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7609425",
+  "paper_id": "doi:10.1007/s10856-020-06434-1",
+  "pmcid": "PMC7609425",
+  "source_record_sha256": "957b7c8f521a4dd704bcabb2593d3a403462664c3af84443602c833f8259a55a",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "78505c95d96c6878f8d39c975390d34a6d0b034c0998a3f4ee888be404a3659d",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "14-3-3ε protein-loaded 3D hydrogels favor osteogenesis",
+    "authors": "Aldana AA, Uhart M, Abraham GA, Bustos DM, Boccaccini AR.",
+    "year": 2020,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-020-06434-1",
+    "publication_type": "brief-report; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

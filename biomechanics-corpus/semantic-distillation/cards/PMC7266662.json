@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7266662",
+  "paper_id": "doi:10.1093/rb/rbaa005",
+  "pmcid": "PMC7266662",
+  "source_record_sha256": "f3732eb1565cf4112fda07b544c6a084064deffd30abd247947c25d3c3eb6134",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0aaa8f9604b5892a37f81e6a3b9c0570f2de98a0938268bd02d946b5a17aefa4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Mineralized collagen scaffolds fabricated with amniotic membrane matrix increase osteogenesis under inflammatory conditions",
+    "authors": "Dewey MJ, Johnson EM, Slater ST, Milner DJ, Wheeler MB, Harley BAC.",
+    "year": 2020,
+    "journal": "Regenerative Biomaterials",
+    "doi": "10.1093/rb/rbaa005",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

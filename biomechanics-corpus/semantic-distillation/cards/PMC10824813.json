@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10824813",
+  "paper_id": "doi:10.1007/s10856-024-06779-x",
+  "pmcid": "PMC10824813",
+  "source_record_sha256": "0c1f664369f949366a93338ec619e439b367cb3c56671e9a9b82eaf9f4a727ee",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ee1df8ca708a8edeef8b0dcb20cf9f91d70451d6669a23cb5a2fd1b8525464e2",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Fabrication and characterization of 3D-printed composite scaffolds of coral-derived hydroxyapatite nanoparticles/polycaprolactone/gelatin carrying doxorubicin for bone tissue engineering",
+    "authors": "Kadi F, Dini G, Poursamar SA, Ejeian F.",
+    "year": 2024,
+    "journal": "Journal of Materials Science. Materials in Medicine",
+    "doi": "10.1007/s10856-024-06779-x",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

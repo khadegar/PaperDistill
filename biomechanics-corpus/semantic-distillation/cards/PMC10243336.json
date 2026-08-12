@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10243336",
+  "paper_id": "doi:10.1002/acm2.13999",
+  "pmcid": "PMC10243336",
+  "source_record_sha256": "6a86a85017556c88016de631816413ae99877a38e2d5b7ef8027a7c51c308cae",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "abcdc4113a924800b8ce8fdca263157a89df1039b1f0a1d745ba413876265d5c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Methodology for computed tomography characterization of commercially available 3D printing materials for use in radiology/radiation oncology",
+    "authors": "Kozee M, Weygand J, Andreozzi JM, Hunt D, Perez BA, Graham JA, Redler G.",
+    "year": 2023,
+    "journal": "Journal of Applied Clinical Medical Physics",
+    "doi": "10.1002/acm2.13999",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

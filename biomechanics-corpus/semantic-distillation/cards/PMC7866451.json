@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7866451",
+  "paper_id": "doi:10.1186/s12938-021-00851-1",
+  "pmcid": "PMC7866451",
+  "source_record_sha256": "7acd2ea342703ca30e35565e9e250d929b01f8e441256ff31268f9b98d659caf",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "5df57282f4396452130ea54baa9075444b96f13a90854a3a0d306c90764681f1",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Experimental validation of finite element simulation of a new custom-designed fixation plate to treat mandibular angle fracture",
+    "authors": "Xu X, Cheng KJ, Liu YF, Fan YY, Wang JH, Wang R, Baur DA, Jiang XF, Dong XT.",
+    "year": 2021,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-021-00851-1",
+    "publication_type": "research-article; Validation Study; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

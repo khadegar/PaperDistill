@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8263622",
+  "paper_id": "doi:10.1038/s41598-021-93564-3",
+  "pmcid": "PMC8263622",
+  "source_record_sha256": "9920faabef76033c38780f715d8285438d347ca0ac4073b38c7a896d6331d588",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "64aaae2199c96142c761230f3d8f1fd145f6bdc48432da5444e879dce9843107",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Biomechanical evaluation of the human mandible after temporomandibular joint replacement under different biting conditions",
+    "authors": "Pinheiro M, Willaert R, Khan A, Krairi A, Van Paepegem W.",
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-021-93564-3",
+    "publication_type": "Research Support, Non-U.S. Gov't; research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

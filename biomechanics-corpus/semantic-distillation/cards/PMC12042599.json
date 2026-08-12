@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12042599",
+  "paper_id": "doi:10.1186/s12938-025-01381-w",
+  "pmcid": "PMC12042599",
+  "source_record_sha256": "32260d6b22f612f202d4b17ca7b2315e15a658af3baf39648619e3c001c68677",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "3372e8962ec96770b6e1b792d4eea212f00cdc72fcbd1f754ceb8dfcc53b7e20",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Advances in 3D-printed scaffold technologies for bone defect repair: materials, biomechanics, and clinical prospects",
+    "authors": "Sun J, Chen C, Zhang B, Yao C, Zhang Y.",
+    "year": 2025,
+    "journal": "BioMedical Engineering OnLine",
+    "doi": "10.1186/s12938-025-01381-w",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "bone_regeneration_biomaterials",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "topology_or_structural_optimization",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

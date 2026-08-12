@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11509188",
+  "paper_id": "doi:10.3390/ma17205053",
+  "pmcid": "PMC11509188",
+  "source_record_sha256": "3959660ae13cbf6cd3de09caac981e21d648dcc245e80f27de8158d93dd1ada4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "0e6c801900415452b773e5725070b84e3817425ebcfcd67b46d143c1ebce6267",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Coating Materials to Prevent Screw Loosening in Single Dental Implant Crowns: A Systematic Review",
+    "authors": "Coelho L, Manzanares-Céspedes MC, Mendes J, Tallón-Walton V, Astudillo-Rozas W, Aroso C, Mendes JM.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17205053",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "systematic_review",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

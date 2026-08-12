@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC6629835",
+  "paper_id": "doi:10.3389/fbioe.2019.00164",
+  "pmcid": "PMC6629835",
+  "source_record_sha256": "e91265b51ff4cf97d16827315dc04c247d0057e10403ecefa09d0d582b5288ca",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "79cde7b9f11c003555b7bf7c35c05fc440a77eb704362f61933d30af87c74086",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D and 4D Printing of Polymers for Tissue Engineering Applications",
+    "authors": "Tamay DG, Dursun Usal T, Alagoz AS, Yucel D, Hasirci N, Hasirci V.",
+    "year": 2019,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2019.00164",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9816808",
+  "paper_id": "doi:10.1016/j.mtbio.2022.100533",
+  "pmcid": "PMC9816808",
+  "source_record_sha256": "1d9fe58210991518ee0a0c92bec05761b5063a42c8b6c417bf68aefade9ac5f2",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "dfa540968318d52a1bcb4287398e2959b2d394082beb6348c8bbae223ff59401",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "In-vivo bone remodeling potential of Sr-d-Ca-P /PLLA-HAp coated biodegradable ZK60 alloy bone plate",
+    "authors": "Park SS, Farwa U, Park I, Moon BG, Im SB, Lee BT.",
+    "year": 2023,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2022.100533",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_implants_fixation",
+      "mechanobiology_remodeling"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC13197712",
+  "paper_id": "doi:10.1016/j.jot.2026.101122",
+  "pmcid": "PMC13197712",
+  "source_record_sha256": "ac21dd9fb013759d7989f9488b99df1b083475a3d2332394057df19373650cdb",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "6851b22999f8e535bea7d9fa97d4fdbe294b8f94b54d0c14158e931aaea3fd3e",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Toward next-generation hip implants: From failure mechanisms to translational design",
+    "authors": "Luo Y, Turgeon T, Polyzois I.",
+    "year": 2026,
+    "journal": "Journal of Orthopaedic Translation",
+    "doi": "10.1016/j.jot.2026.101122",
+    "publication_type": "review-article; Review; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "review",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

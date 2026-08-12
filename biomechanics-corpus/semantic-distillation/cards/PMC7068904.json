@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7068904",
+  "paper_id": "doi:10.1186/s12891-020-3189-5",
+  "pmcid": "PMC7068904",
+  "source_record_sha256": "38655bfe9f145dc67f41e41a9426f29bb98de003b1c2908fb1283df35cf8136b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c081ad2f890213c5c24642df2bf05b051a6bd18e00e58acbafca2c54b9380e30",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "An optimization method for implantation parameters of individualized TKA tibial prosthesis based on finite element analysis and orthogonal experimental design",
+    "authors": "Dong Y, Zhang Z, Dong W, Hu G, Wang B, Mou Z.",
+    "year": 2020,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi": "10.1186/s12891-020-3189-5",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

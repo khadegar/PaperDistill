@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10886384",
+  "paper_id": "doi:10.3390/bioengineering11020193",
+  "pmcid": "PMC10886384",
+  "source_record_sha256": "5c381053b01e28435f8a7cc92386a2ddff8f27c71799d15543d9850aec00434b",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "c47937c97eced35e2d57b891f7670889854f4083f633566bb4e04da7def1f172",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Printed Piezoelectric BaTiO 3 /Polyhydroxybutyrate Nanocomposite Scaffolds for Bone Tissue Engineering",
+    "authors": "Strangis G, Labardi M, Gallone G, Milazzo M, Capaccioli S, Forli F, Cinelli P, Berrettini S, Seggiani M, Danti S, Parchi P.",
+    "year": 2024,
+    "journal": "Bioengineering",
+    "doi": "10.3390/bioengineering11020193",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}

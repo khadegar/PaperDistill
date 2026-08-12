@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC9911888",
+  "paper_id": "doi:10.3389/fbioe.2023.1117954",
+  "pmcid": "PMC9911888",
+  "source_record_sha256": "b4643ab4dec08a9a2ec34d3a8b8780c90c547da0cbe57ae3bb20c30fdfee4ee4",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a101de2d514134b2517d90984563d05c805d661523e573e46c536bc774ce1917",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Influence of porosity on osteogenesis, bone growth and osteointegration in trabecular tantalum scaffolds fabricated by additive manufacturing",
+    "authors": "Jiao J, Hong Q, Zhang D, Wang M, Tang H, Yang J, Qu X, Yue B.",
+    "year": 2023,
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "doi": "10.3389/fbioe.2023.1117954",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "bone_regeneration_biomaterials",
+      "osseointegration_bone_ingrowth",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

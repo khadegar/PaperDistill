@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11313398",
+  "paper_id": "doi:10.3390/ma17153746",
+  "pmcid": "PMC11313398",
+  "source_record_sha256": "5d1292229c812052b1fd174bd127fdf295e506be3d91d6760e769239dd1b67d0",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a140292706480ba2cd8c6ca1df1e05efbb1289a70801d41e0bf2a9c5ebcda887",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Design Factors of Ti-Base Abutments Related to the Biomechanics Behavior of Dental Implant Prostheses: Finite Element Analysis and Validation via In Vitro Load Creeping Tests",
+    "authors": "Martínez-Grau J, Robles D, Pérez RA, Marimon X, Fernández-Hernández S, Aroso C, Brizuela-Velasco A.",
+    "year": 2024,
+    "journal": "Materials",
+    "doi": "10.3390/ma17153746",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

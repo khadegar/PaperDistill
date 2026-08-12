@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC7509194",
+  "paper_id": "doi:10.1016/j.bioactmat.2020.09.003",
+  "pmcid": "PMC7509194",
+  "source_record_sha256": "32575b737af3b1546fcc6e71bb14c25520e7a8836b4adfbf65de45166e816d8e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "95ace9bd3931dd5949f185a182bd6175128190b87cc0ffd70ae9f632fc141e46",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Elastin-like polypeptide modified silk fibroin porous scaffold promotes osteochondral repair",
+    "authors": "Chen Z, Zhang Q, Li H, Wei Q, Zhao X, Chen F.",
+    "year": 2020,
+    "journal": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2020.09.003",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

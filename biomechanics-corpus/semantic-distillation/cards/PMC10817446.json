@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10817446",
+  "paper_id": "doi:10.3390/jfb15010011",
+  "pmcid": "PMC10817446",
+  "source_record_sha256": "4cd50e9c30303337315beef2010b82c281622438072c967c76f0440a7fe29d5e",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "319e70af767f2934f99e6ed72b0cef74e04229a06c967b03de8dfdb1c4b6ebf4",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Hydroxyapatite-Based Coatings on Silicon Wafers and Printed Zirconia",
+    "authors": "Chauvin A, Garda MR, Snyder N, Cui B, Delpouve N, Tan L.",
+    "year": 2023,
+    "journal": "Journal of Functional Biomaterials",
+    "doi": "10.3390/jfb15010011",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

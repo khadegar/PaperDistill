@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10405507",
+  "paper_id": "doi:10.1186/s12951-023-02020-z",
+  "pmcid": "PMC10405507",
+  "source_record_sha256": "3546e142fe96bb9248d8379938b3cdff0f43ababa86ae314b3fd2a1590416c67",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "2497e2ba9b3fa553c72afc66f89ae5b8f9b4e6b17a9846dec7030bf2e7f111af",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "HIF-1α increases the osteogenic capacity of ADSCs by coupling angiogenesis and osteogenesis via the HIF-1α/VEGF/AKT/mTOR signaling pathway",
+    "authors": "Song S, Zhang G, Chen X, Zheng J, Liu X, Wang Y, Chen Z, Wang Y, Song Y, Zhou Q.",
+    "year": 2023,
+    "journal": "Journal of Nanobiotechnology",
+    "doi": "10.1186/s12951-023-02020-z",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "bone_regeneration_biomaterials",
+      "mechanobiology_remodeling",
+      "osseointegration_bone_ingrowth"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12422674",
+  "paper_id": "doi:10.13107/jocr.2025.v15.i09.6092",
+  "pmcid": "PMC12422674",
+  "source_record_sha256": "c131b7efd6f7d6699c3ade1cd269761997e46bf8bd65cd6e3aa0eacf8932cd88",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "889ba7bb6b7a9b8a07540d64594d0ac82be2f5eefbf565bdff1372b939ea00af",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "The Price of Poor Cementing: A Case Report on Chronic Hip Dislocation and Revision",
+    "authors": "Pushadapu V, Sriramozu S, Rao VSM, Kothapally S.",
+    "year": 2025,
+    "journal": "Journal of Orthopaedic Case Reports",
+    "doi": "10.13107/jocr.2025.v15.i09.6092",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "experimental_mechanical",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8155450",
+  "paper_id": "doi:10.12669/pjms.37.3.3988",
+  "pmcid": "PMC8155450",
+  "source_record_sha256": "9fa26486a51e96b3df578d7be673d6a89a7ee6ec9008debd7e3837092906f532",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "a403bbf36b6eccf1f7d89fc4f1db70583302e74752c38bd555d51d0d772fdf3c",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Evaluation of the clinical efficacy of 3D Printing technology assisted surgery combined with early postoperative comprehensive rehabilitation in the treatment of Senile Intertrochanteric Fractures",
+    "authors": "Zhao Y, Liu YH, Mao SG, Zhang XX.",
+    "year": 2021,
+    "journal": "Pakistan Journal of Medical Sciences",
+    "doi": "10.12669/pjms.37.3.3988",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

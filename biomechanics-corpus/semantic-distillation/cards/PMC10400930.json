@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC10400930",
+  "paper_id": "doi:10.1016/j.mtbio.2023.100749",
+  "pmcid": "PMC10400930",
+  "source_record_sha256": "3e8419aa51ce67c9306248e98029ee67e2d1401540fd716351094330ac4bee09",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "ebf45b8d1c5e05dff89e263f66fc0a70aa6ed617e3a00c266b686c18a5555a4a",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Bi-lineage inducible and immunoregulatory electrospun fibers scaffolds for synchronous regeneration of tendon-to-bone interface",
+    "authors": "Gao H, Wang L, Wang L, Lin Z, Jin H, Lyu Y, Kang Y, Zhu T, Zhao J, Jiang J.",
+    "year": 2023,
+    "journal": "Materials Today Bio",
+    "doi": "10.1016/j.mtbio.2023.100749",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "experimental_mechanical",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

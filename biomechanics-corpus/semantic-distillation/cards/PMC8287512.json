@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC8287512",
+  "paper_id": "doi:10.18063/ijb.v7i3.339",
+  "pmcid": "PMC8287512",
+  "source_record_sha256": "6ed65dd3b1ad6371cecb3026e4f4a52e199b8e56a12687aa0d2a2ec1dc4c5864",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "9d79b001f5881634421023e92a481209b31c70ee33fa9337a1d6a8663a15e111",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D Topology Optimization and Mesh Dependency for Redesigning Locking Compression Plates Aiming to Reduce Stress Shielding",
+    "authors": "Al-Tamimi AA.",
+    "year": 2021,
+    "journal": "International Journal of Bioprinting",
+    "doi": "10.18063/ijb.v7i3.339",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "topology_optimization"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "topology_or_structural_optimization"
+    ]
+  },
+  "status": "blank"
+}

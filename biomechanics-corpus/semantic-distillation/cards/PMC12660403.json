@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC12660403",
+  "paper_id": "doi:10.1007/s00402-025-06123-0",
+  "pmcid": "PMC12660403",
+  "source_record_sha256": "2bf220d58c61599203cf817cb13fb780439508c9723fbc58ba6d0776abee1f80",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "16024caf809bd378a4dcbace579eedd9d16d252b7680e3d016c304c33a970480",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Patient-specific lunate prosthesis with perilunate ligament reconstruction: surgical technique",
+    "authors": "Haefeli M, Oonk J, Dobbe J, Streekstra G, Honigmann P.",
+    "year": 2025,
+    "journal": "Archives of Orthopaedic and Trauma Surgery",
+    "doi": "10.1007/s00402-025-06123-0",
+    "publication_type": "research-article; Technical Report; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational"
+    ]
+  },
+  "status": "blank"
+}

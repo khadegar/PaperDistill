@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11799863",
+  "paper_id": "doi:10.1002/jeo2.70159",
+  "pmcid": "PMC11799863",
+  "source_record_sha256": "620a6611e7eb3da6541f391a9e4bfc4a325ffca456813ec39803ac3c2f50f448",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "d3c9dab07c4bc8a07e48f10451aefee2664e77aa9d40aa46c7b9c657eb524bd7",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "3D printing technology is a more accurate tool than an experienced surgeon in performing femoral bone tunnels in multi‐ligament knee injuries",
+    "authors": "Fernández-Poch N, Fillat-Gomà F, Gamundi M, Grillo G, Yela-Verdú C, Gil-Gonzalez S, Pelfort X.",
+    "year": 2025,
+    "journal": "Journal of Experimental Orthopaedics",
+    "doi": "10.1002/jeo2.70159",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "finite_element_or_computational",
+      "additive_manufacturing",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "methods_results_modeling"
+    ]
+  },
+  "status": "blank"
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11977072",
+  "paper_id": "doi:10.1186/s40729-025-00618-6",
+  "pmcid": "PMC11977072",
+  "source_record_sha256": "fc47b545acc11bf17e87add6e49aed52104284ad8f1c429658f7758a3f03861c",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "cc9e627717882bbb7103a3c278b3bf5391cd7dc6c269cdd73593301a7702bffa",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Spatially distributed and interconnected porous architectures for dental implants",
+    "authors": "Dabaja R, Swanson WB, Bak SY, Mendonca G, Mishina Y, Banu M.",
+    "year": 2025,
+    "journal": "International Journal of Implant Dentistry",
+    "doi": "10.1186/s40729-025-00618-6",
+    "publication_type": "research-article; Journal Article",
+    "discovery_strata": [
+      "additive_manufacturing",
+      "osseointegration_bone_ingrowth",
+      "patient_specific_implants",
+      "porous_tpms_scaffold"
+    ]
+  },
+  "study": {
+    "article_kind": "original_research",
+    "design_features": [
+      "additive_manufacturing",
+      "porous_or_lattice_scaffold",
+      "in_vitro",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization",
+      "biological_or_mechanobiological"
+    ]
+  },
+  "status": "blank"
+}

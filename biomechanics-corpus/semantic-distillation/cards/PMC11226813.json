@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "card_id": "semantic:PMC11226813",
+  "paper_id": "doi:10.7759/cureus.61765",
+  "pmcid": "PMC11226813",
+  "source_record_sha256": "5fa593453995640a46bea0be76e9ca34f015561dc82029b7302ea6a4b770c69d",
+  "reading": {
+    "status": "pending",
+    "packet_sha256": "554871c6ad13df0627cd49d0a768ae3ecb1906a3d07158e52f71ea3054a5b5c6",
+    "section_locators_read": [],
+    "omissions": []
+  },
+  "bibliography": {
+    "title": "Enhancing the Unicompartmental Knee Arthroplasty Safety via Finite Element Analysis of Coronary Plane Alignment: A Case Report",
+    "authors": "Imada T, Hanada M, Murase K, Matsuyama Y.",
+    "year": 2024,
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.61765",
+    "publication_type": "Journal Article; Case Reports; case-report",
+    "discovery_strata": [
+      "biomechanics_fe_bone",
+      "patient_specific_implants"
+    ]
+  },
+  "study": {
+    "article_kind": "case_report",
+    "design_features": [
+      "finite_element_or_computational",
+      "in_vivo_animal",
+      "clinical_or_observational",
+      "imaging_or_characterization"
+    ]
+  },
+  "status": "blank"
+}
