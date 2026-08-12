@@ -137,9 +137,9 @@ Write-Output ('retry_exit=' + `$p.ExitCode + ';retry_count=' + `$ids.Count)
     if ($LASTEXITCODE -ne 0) { throw "targeted retry failed ($LASTEXITCODE)" }
 }
 
-try {
-    $retryRound = 0
-    while ($true) {
+$retryRound = 0
+while ($true) {
+    try {
         Collect-RemoteMarkdown
         $progressText = & $ssh -o BatchMode=yes $RemoteHost "cmd /c type $RemoteRoot\runs\batch-corpus10000-prod-corpus10000-service.json" 2>&1
         $progressText | ForEach-Object { Add-Content -LiteralPath $log -Encoding UTF8 -Value ([string]$_) }
@@ -161,8 +161,10 @@ try {
         }
         Start-Sleep -Seconds ([Math]::Max(30, $IntervalSeconds))
     }
-}
-catch {
-    Write-WatchLog ("watcher_error=" + $_.Exception.Message)
-    exit 1
+    catch {
+        # A transient SSH/SCP disconnect must not permanently stop a long
+        # corpus transfer. Preserve local state and retry the next iteration.
+        Write-WatchLog ("watcher_iteration_error=" + $_.Exception.Message)
+        Start-Sleep -Seconds ([Math]::Max(30, [Math]::Min(60, $IntervalSeconds)))
+    }
 }

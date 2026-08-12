@@ -6,13 +6,27 @@ import json
 import os
 import re
 import tempfile
+import threading
+import time
 import unicodedata
+import weakref
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Iterable, Iterator
 
 
 DOI_PREFIX_RE = re.compile(r"^(?:https?://(?:dx\.)?doi\.org/|doi:\s*)", re.I)
+
+
+_PATH_LOCKS_GUARD = threading.Lock()
+_PATH_LOCKS: weakref.WeakValueDictionary[str, threading.Lock] = weakref.WeakValueDictionary()
+
+
+def _path_lock(path: Path) -> threading.Lock:
+    """Return a process-local lock shared by writers targeting the same path."""
+    key = os.path.normcase(os.path.abspath(os.fspath(path)))
+    with _PATH_LOCKS_GUARD:
+        return _PATH_LOCKS.setdefault(key, threading.Lock())
 
 
 def utc_now() -> str:
@@ -74,7 +88,18 @@ def _atomic_replace(path: Path, payload: bytes) -> None:
             handle.write(payload)
             handle.flush()
             os.fsync(handle.fileno())
-        os.replace(temp_name, path)
+        # Unique temporary files can be written concurrently. Serialize only
+        # publication to the shared destination, and retry transient Windows
+        # sharing violations from indexers or virus scanners.
+        with _path_lock(path):
+            for attempt in range(5):
+                try:
+                    os.replace(temp_name, path)
+                    break
+                except PermissionError:
+                    if attempt == 4:
+                        raise
+                    time.sleep(0.05 * (attempt + 1))
     except Exception:
         try:
             os.unlink(temp_name)
@@ -86,6 +111,32 @@ def _atomic_replace(path: Path, payload: bytes) -> None:
 def write_json(path: Path, value: Any) -> None:
     payload = (json.dumps(value, ensure_ascii=False, indent=2) + "\n").encode("utf-8")
     _atomic_replace(path, payload)
+
+
+def write_json_once(path: Path, value: Any) -> bool:
+    """Create an immutable JSON sentinel once and leave an existing one intact."""
+    payload = (json.dumps(value, ensure_ascii=False, indent=2) + "\n").encode("utf-8")
+    path.parent.mkdir(parents=True, exist_ok=True)
+    if path.exists():
+        return False
+    fd, temp_name = tempfile.mkstemp(prefix=f".{path.name}.", suffix=".tmp", dir=path.parent)
+    try:
+        with os.fdopen(fd, "wb") as handle:
+            handle.write(payload)
+            handle.flush()
+            os.fsync(handle.fileno())
+        # Publishing a hard link is atomic and never replaces an existing
+        # sentinel. The temporary file is on the same volume by construction.
+        try:
+            os.link(temp_name, path)
+            return True
+        except FileExistsError:
+            return False
+    finally:
+        try:
+            os.unlink(temp_name)
+        except OSError:
+            pass
 
 
 def write_jsonl(path: Path, rows: Iterable[dict[str, Any]]) -> None:

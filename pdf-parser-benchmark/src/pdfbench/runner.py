@@ -17,6 +17,7 @@ from .common import (
     sha256_text,
     utc_now,
     write_json,
+    write_json_once,
     write_jsonl,
 )
 
@@ -348,7 +349,7 @@ def _timing_phase(config: dict[str, Any], tool: str, mode: str, run_label: str) 
             except Exception:
                 continue
             if record.get("status") == "success":
-                write_json(
+                write_json_once(
                     sentinel,
                     {
                         "status": "success_seen",
@@ -585,7 +586,7 @@ def _execute_document(
     write_jsonl(attempt_dir / "telemetry.jsonl", telemetry)
     write_json(attempt_dir / "run.json", record)
     if status == "success":
-        write_json(
+        write_json_once(
             project_path(config, "runs", tool, mode, run_label, ".successful-run.json"),
             {"status": "success_seen", "sample_id": row["sample_id"], "started_at": started_at},
         )
