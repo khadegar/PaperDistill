@@ -6,11 +6,21 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
+sys.path.insert(0, str(ROOT / "scripts"))
 
 from pdfbench.deployment import BUNDLE_INCLUDE_ROOTS, _is_reproducible_bundle_file  # noqa: E402
+from run_mineru_corpus_service import worker_exception_record  # noqa: E402
 
 
 class DeploymentTests(unittest.TestCase):
+    def test_service_worker_exception_record_is_retryable_and_auditable(self) -> None:
+        record = worker_exception_record({"sample_id": "PMC123"}, PermissionError("sharing violation"))
+        self.assertEqual(record["status"], "service_exception")
+        self.assertEqual(record["sample_id"], "PMC123")
+        self.assertFalse(record["resume_skipped"])
+        self.assertEqual(record["error_type"], "PermissionError")
+        self.assertIn("sharing violation", record["error"])
+
     def test_volatile_model_cache_logs_are_excluded(self) -> None:
         self.assertFalse(
             _is_reproducible_bundle_file(

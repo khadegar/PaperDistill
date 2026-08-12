@@ -31,6 +31,17 @@ from pdfbench.runner import (  # noqa: E402
 )
 
 
+def worker_exception_record(row: dict[str, Any], error: BaseException) -> dict[str, Any]:
+    return {
+        "status": "service_exception",
+        "sample_id": str(row.get("sample_id", "")),
+        "resume_skipped": False,
+        "error_type": type(error).__name__,
+        "error": str(error),
+        "recorded_at": utc_now(),
+    }
+
+
 def service_environment(config: dict[str, Any], api_concurrency: int = 1) -> dict[str, str]:
     environment = os.environ.copy()
     environment.update(
@@ -295,25 +306,35 @@ def main() -> int:
             with progress_lock:
                 active.add(sample_id)
             save_progress("RUNNING")
-            allowed = shared_allowed_gpu_pids
-            conflicts = conflicting_gpu_processes(config, allowed)
-            if conflicts:
+            try:
+                allowed = shared_allowed_gpu_pids
+                conflicts = conflicting_gpu_processes(config, allowed)
+                if conflicts:
+                    return ({"status": "paused_external_gpu_process", "sample_id": sample_id}, None)
+                primary = _execute_document(
+                    config, "mineru", "primary", row, args.run_label,
+                    not args.no_resume, allowed_gpu_pids=allowed,
+                )
+                fallback: dict[str, Any] | None = None
+                if primary.get("status") != "success" and not primary.get("resume_skipped"):
+                    fallback = _execute_document(
+                        config, "mineru", "fallback", row, args.run_label,
+                        not args.no_resume, allowed_gpu_pids=shared_allowed_gpu_pids,
+                    )
+                return primary, fallback
+            except Exception as error:
+                record = worker_exception_record(row, error)
+                try:
+                    write_json(
+                        project_path(config, "runs", "service-exceptions", args.run_label, f"{sample_id}.json"),
+                        record,
+                    )
+                except Exception:
+                    pass
+                return record, None
+            finally:
                 with progress_lock:
                     active.discard(sample_id)
-                return ({"status": "paused_external_gpu_process", "sample_id": sample_id}, None)
-            primary = _execute_document(
-                config, "mineru", "primary", row, args.run_label,
-                not args.no_resume, allowed_gpu_pids=allowed,
-            )
-            fallback: dict[str, Any] | None = None
-            if primary.get("status") != "success" and not primary.get("resume_skipped"):
-                fallback = _execute_document(
-                    config, "mineru", "fallback", row, args.run_label,
-                    not args.no_resume, allowed_gpu_pids=shared_allowed_gpu_pids,
-                )
-            with progress_lock:
-                active.discard(sample_id)
-            return primary, fallback
 
         if args.client_concurrency == 1:
             batches = [[row] for row in rows]
@@ -321,9 +342,13 @@ def main() -> int:
             batches = [rows[i : i + args.client_concurrency] for i in range(0, len(rows), args.client_concurrency)]
         for batch in batches:
             with ThreadPoolExecutor(max_workers=args.client_concurrency) as executor:
-                futures = [executor.submit(run_one, row) for row in batch]
+                futures = {executor.submit(run_one, row): row for row in batch}
                 for future in as_completed(futures):
-                    primary, fallback = future.result()
+                    try:
+                        primary, fallback = future.result()
+                    except Exception as error:
+                        primary = worker_exception_record(futures[future], error)
+                        fallback = None
                     with progress_lock:
                         if primary.get("resume_skipped"):
                             resume_skipped += 1
@@ -339,6 +364,12 @@ def main() -> int:
             if paused:
                 break
         save_progress("PAUSED_EXTERNAL_GPU_PROCESS" if paused else "COMPLETE")
+    except Exception:
+        try:
+            save_progress("FAILED")
+        except Exception:
+            pass
+        raise
     finally:
         stop_service(process, stdout_handle, stderr_handle)
         rebuild_run_index(config)
